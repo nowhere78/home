@@ -1,0 +1,23 @@
+{
+    "models": {
+        "local": {
+            "provider": "openai-compatible",
+            "baseUrl": "http://localhost:11434/v1",
+            "model": "luna-expert",
+            "apiKey": "ollama",
+            "temperature": 0.7,
+            "maxTokens": 4096,
+            "contextWindow": 8192
+        }
+    },
+    "defaultModel": "local",
+    "fallback": {
+        "enabled": true,
+        "model": "Gemini 3.1-pro-High",
+        "trigger": [
+            "error",
+            "context_exceeded",
+            "timeout"
+        ]
+    }
+}

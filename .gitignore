@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Environment Variables / Keys
+.env
+*.key
+stream_key.txt
+client_secrets.json
+token.pickle
+
+# Project Specific
+Luna Agent/assets/*.png
+Luna Agent/assets/*.mp3
+*.mp4
+Luna Agent/current_greeting.txt
+luna_response.txt
+luna_expert_response.txt
+luna_response_2.txt
+
+# OS
+.DS_Store
+Thumbs.db
