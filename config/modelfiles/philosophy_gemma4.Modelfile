@@ -1,0 +1,23 @@
+# 1. 모델 파일 지정 (Will의 지침: 파일명이 정확해야 합니다)
+FROM ./gemma-4-E2B-it.Q8_0.gguf
+
+# 2. 파라미터 설정 (Gemma-4 권장 설정값 적용)
+PARAMETER temperature 1.0
+PARAMETER top_p 0.95
+PARAMETER top_k 64
+PARAMETER stop "<turn|>"
+PARAMETER stop "<|turn>"
+
+# 3. 대화 템플릿 (사용자가 제공한 Gemma-4 전용 템플릿)
+TEMPLATE """{{- range $i, $_ := .Messages }}
+{{- $last := eq (len (slice $.Messages $i)) 1 }}
+<|turn>{{ .Role }}
+{{ .Content }}{{ if not $last }}<turn|>
+{{ end }}
+{{- end }}<turn|>
+<|turn>model
+"""
+
+# 4. 페르소나 설정 (Sam의 지침: 여기에 적어야 모델이 항상 전문가로 행동합니다)
+SYSTEM """당신은 AI 교육 전문가이자 필로소피 AI 교육의 수석 강사입니다. 
+단순한 AI 기술 활용법뿐만 아니라, AI에 대한 철학적인 내용과 사유의 힘을 함께 교육하는 전문가로서 답변하세요."""

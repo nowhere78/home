@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@local · Alpha Agent Chat</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --primary: #ffd166;
+  --bg: #0b0c10;
+  --bg2: #13141a;
+  --bg3: #1a1b22;
+  --border: rgba(255,255,255,0.08);
+  --text: #f0f2f5;
+  --muted: #7a8394;
+  --accent: #118ab2;
+  --green: #06d6a0;
+  --font: 'Outfit', sans-serif;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── 헤더 ── */
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1.6rem;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.header-left { display:flex; align-items:center; gap:0.8rem; }
+.logo-mark {
+  font-size: 1.4rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--primary), #ff9f43);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.model-badge {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+  background: rgba(255,209,102,0.12);
+  border: 1px solid rgba(255,209,102,0.25);
+  color: var(--primary);
+  letter-spacing: 0.02em;
+}
+#status-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 8px var(--green);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%,100% { opacity:1; }
+  50% { opacity:0.4; }
+}
+#status-label { font-size:0.8rem; color: var(--muted); }
+
+/* ── 메시지 영역 ── */
+#messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--bg3) transparent;
+}
+#messages::-webkit-scrollbar { width: 4px; }
+#messages::-webkit-scrollbar-thumb { background: var(--bg3); border-radius: 4px; }
+
+.msg-row {
+  display: flex;
+  gap: 0.8rem;
+  max-width: 780px;
+  width: 100%;
+  animation: slideUp 0.25s ease-out;
+}
+@keyframes slideUp {
+  from { opacity:0; transform: translateY(10px); }
+  to   { opacity:1; transform: translateY(0); }
+}
+.msg-row.user { align-self: flex-end; flex-direction: row-reverse; }
+.msg-row.assistant { align-self: flex-start; }
+
+.avatar {
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  display: flex; align-items:center; justify-content:center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.avatar.user-av  { background: linear-gradient(135deg, #ef476f, #ff9f43); color:#fff; }
+.avatar.local-av { background: linear-gradient(135deg, #118ab2, #06d6a0); color:#fff; }
+
+.bubble {
+  padding: 0.85rem 1.15rem;
+  border-radius: 16px;
+  line-height: 1.65;
+  font-size: 0.95rem;
+  max-width: 640px;
+  word-break: break-word;
+}
+.bubble.user-bubble {
+  background: linear-gradient(135deg, rgba(255,209,102,0.18), rgba(255,159,67,0.1));
+  border: 1px solid rgba(255,209,102,0.2);
+  border-top-right-radius: 4px;
+}
+.bubble.assistant-bubble {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-top-left-radius: 4px;
+  white-space: pre-wrap;
+}
+
+/* 스트리밍 커서 */
+.cursor {
+  display: inline-block;
+  width: 2px; height: 1em;
+  background: var(--primary);
+  margin-left: 2px;
+  vertical-align: text-bottom;
+  animation: blink 0.9s step-end infinite;
+}
+@keyframes blink { 50% { opacity:0; } }
+
+/* ── 입력창 ── */
+#input-area {
+  padding: 1rem 1.2rem 1.4rem;
+  background: var(--bg2);
+  border-top: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.hint {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+  padding-left: 0.2rem;
+}
+.hint span { color: var(--primary); font-weight: 600; }
+#input-row {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-end;
+}
+#prompt {
+  flex: 1;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 0.95rem;
+  padding: 0.85rem 1.1rem;
+  resize: none;
+  min-height: 50px;
+  max-height: 180px;
+  outline: none;
+  transition: border-color 0.2s;
+  line-height: 1.5;
+}
+#prompt:focus { border-color: rgba(255,209,102,0.4); }
+#prompt::placeholder { color: var(--muted); }
+#send-btn {
+  width: 50px; height: 50px;
+  border-radius: 14px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(135deg, var(--primary), #ff9f43);
+  color: #111;
+  font-size: 1.3rem;
+  display: flex; align-items:center; justify-content:center;
+  transition: transform 0.2s, opacity 0.2s;
+  flex-shrink: 0;
+}
+#send-btn:hover { transform: scale(1.06); }
+#send-btn:disabled { opacity: 0.4; cursor: default; transform: none; }
+
+/* ── 환영 화면 ── */
+#welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  gap: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+  padding: 2rem;
+}
+#welcome h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--primary), #ff9f43);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#welcome p { font-size:0.9rem; max-width:380px; line-height:1.7; }
+.tip-chips { display:flex; gap:0.5rem; flex-wrap:wrap; justify-content:center; margin-top:0.5rem; }
+.chip {
+  padding: 0.45rem 1rem;
+  border-radius: 20px;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: border-color 0.2s, transform 0.2s;
+  color: var(--text);
+}
+.chip:hover { border-color: rgba(255,209,102,0.4); transform: translateY(-2px); }
+
+/* 설정 패널 */
+#settings-panel {
+  display: none;
+  position: fixed;
+  top: 0; right: 0;
+  width: 320px; height: 100vh;
+  background: var(--bg2);
+  border-left: 1px solid var(--border);
+  padding: 1.5rem;
+  z-index: 100;
+  overflow-y: auto;
+}
+#settings-panel.open { display: block; }
+#settings-panel h3 { font-size:1.1rem; margin-bottom:1.2rem; color: var(--primary); }
+.field { margin-bottom:1rem; }
+.field label { font-size:0.78rem; color:var(--muted); display:block; margin-bottom:0.3rem; }
+.field input, .field select {
+  width:100%; padding:0.6rem 0.8rem;
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 8px; color: var(--text);
+  font-family: var(--font); font-size:0.88rem; outline:none;
+}
+.field input:focus { border-color: rgba(255,209,102,0.4); }
+#save-settings {
+  width:100%; padding:0.7rem;
+  background: linear-gradient(135deg, var(--primary), #ff9f43);
+  border:none; border-radius:10px; color:#111;
+  font-weight:700; font-size:0.95rem; cursor:pointer;
+  margin-top:0.5rem; transition:opacity 0.2s;
+}
+#save-settings:hover { opacity:0.88; }
+#gear-btn {
+  background: none; border:none; cursor:pointer;
+  color: var(--muted); font-size:1.2rem;
+  transition: color 0.2s, transform 0.3s;
+}
+#gear-btn:hover { color:var(--primary); transform:rotate(45deg); }
+
+/* 에러 */
+.error-msg { color:#ef476f; font-size:0.85rem; font-style:italic; }
+</style>
+</head>
+<body>
+
+<!-- 헤더 -->
+<div id="header">
+  <div class="header-left">
+    <span class="logo-mark">@local</span>
+    <span class="model-badge" id="model-name-badge">luna-expert:latest</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:0.8rem;">
+    <div id="status-dot"></div>
+    <span id="status-label">Ollama 연결 대기</span>
+    <button id="gear-btn" title="설정" onclick="toggleSettings()">⚙️</button>
+  </div>
+</div>
+
+<!-- 메인: 환영 or 메시지 -->
+<div id="welcome">
+  <h2>Alpha Agent · Local LLM</h2>
+  <p>프롬프트를 입력하면 <strong style="color:var(--primary)">Ollama (localhost:11434)</strong>에 직접 전송됩니다.<br>
+  <code style="font-size:0.8rem; color:var(--muted)">@local</code> 접두사를 붙이면 로컬 모델 우선 처리합니다.</p>
+  <div class="tip-chips">
+    <span class="chip" onclick="useChip(this)">📊 오늘 비트코인 분석해줘</span>
+    <span class="chip" onclick="useChip(this)">📝 유튜브 쇼츠 대본 작성</span>
+    <span class="chip" onclick="useChip(this)">🔍 퀀트 전략 설명해줘</span>
+    <span class="chip" onclick="useChip(this)">⚡ 파이썬 코드 최적화</span>
+  </div>
+</div>
+
+<div id="messages" style="display:none;"></div>
+
+<!-- 입력창 -->
+<div id="input-area">
+  <div class="hint">
+    <span>@local</span> 입력 후 메시지를 보내면 로컬 Ollama 모델로 전송됩니다 · Enter: 줄바꿈 · Ctrl+Enter: 전송
+  </div>
+  <div id="input-row">
+    <textarea id="prompt" rows="1" placeholder="@local 분석해줘... 또는 바로 질문 입력"></textarea>
+    <button id="send-btn" onclick="sendMessage()" title="전송 (Ctrl+Enter)">➤</button>
+  </div>
+</div>
+
+<!-- 설정 패널 -->
+<div id="settings-panel">
+  <h3>⚙️ 연결 설정</h3>
+  <div class="field">
+    <label>Base URL</label>
+    <input id="cfg-url" value="http://localhost:11434/v1">
+  </div>
+  <div class="field">
+    <label>Model</label>
+    <input id="cfg-model" value="luna-expert:latest">
+  </div>
+  <div class="field">
+    <label>API Key</label>
+    <input id="cfg-key" value="ollama">
+  </div>
+  <div class="field">
+    <label>Temperature</label>
+    <input id="cfg-temp" type="number" step="0.01" min="0" max="2" value="0.05">
+  </div>
+  <div class="field">
+    <label>Max Tokens</label>
+    <input id="cfg-tokens" type="number" value="8192">
+  </div>
+  <button id="save-settings" onclick="saveSettings()">저장 및 연결 확인</button>
+  <p id="settings-status" style="font-size:0.8rem;margin-top:0.8rem;color:var(--muted);"></p>
+</div>
+
+<script>
+// ── 설정 ──
+let config = {
+  baseUrl: 'http://localhost:11434/v1',
+  model: 'luna-expert:latest',
+  apiKey: 'ollama',
+  temperature: 0.05,
+  maxTokens: 8192
+};
+let history = [];
+let isStreaming = false;
+
+// 로컬스토리지에서 설정 로드
+function loadConfig() {
+  const saved = localStorage.getItem('alphaLocalConfig');
+  if (saved) {
+    try { config = { ...config, ...JSON.parse(saved) }; } catch(e) {}
+  }
+  document.getElementById('cfg-url').value = config.baseUrl;
+  document.getElementById('cfg-model').value = config.model;
+  document.getElementById('cfg-key').value = config.apiKey;
+  document.getElementById('cfg-temp').value = config.temperature;
+  document.getElementById('cfg-tokens').value = config.maxTokens;
+  document.getElementById('model-name-badge').textContent = config.model;
+}
+
+function saveSettings() {
+  config.baseUrl   = document.getElementById('cfg-url').value.trim();
+  config.model     = document.getElementById('cfg-model').value.trim();
+  config.apiKey    = document.getElementById('cfg-key').value.trim();
+  config.temperature = parseFloat(document.getElementById('cfg-temp').value);
+  config.maxTokens = parseInt(document.getElementById('cfg-tokens').value);
+  localStorage.setItem('alphaLocalConfig', JSON.stringify(config));
+  document.getElementById('model-name-badge').textContent = config.model;
+  checkConnection();
+}
+
+function toggleSettings() {
+  document.getElementById('settings-panel').classList.toggle('open');
+}
+
+// ── 연결 확인 ──
+async function checkConnection() {
+  const dot = document.getElementById('status-dot');
+  const label = document.getElementById('status-label');
+  const statusEl = document.getElementById('settings-status');
+  try {
+    // /v1/models 대신 기본 /api/tags로 확인 (더 안정적)
+    const res = await fetch(`${config.baseUrl.replace('/v1', '')}/api/tags`);
+    if (res.ok) {
+      dot.style.background = '#06d6a0';
+      dot.style.boxShadow = '0 0 8px #06d6a0';
+      label.textContent = 'Ollama 연결됨';
+      if (statusEl) statusEl.textContent = '✅ 연결 성공';
+    } else throw new Error(res.status);
+  } catch(e) {
+    dot.style.background = '#ef476f';
+    dot.style.boxShadow = '0 0 8px #ef476f';
+    label.textContent = 'Ollama 오프라인';
+    if (statusEl) statusEl.textContent = '❌ 연결 실패 – Ollama 실행 여부 확인';
+  }
+}
+
+// ── 메시지 렌더 ──
+function appendMsg(role, text) {
+  const wrap = document.getElementById('messages');
+  const row = document.createElement('div');
+  row.className = `msg-row ${role}`;
+
+  const av = document.createElement('div');
+  av.className = `avatar ${role === 'user' ? 'user-av' : 'local-av'}`;
+  av.textContent = role === 'user' ? '나' : 'AI';
+
+  const bubble = document.createElement('div');
+  bubble.className = `bubble ${role === 'user' ? 'user-bubble' : 'assistant-bubble'}`;
+  bubble.textContent = text;
+
+  row.appendChild(av);
+  row.appendChild(bubble);
+  wrap.appendChild(row);
+  wrap.scrollTop = wrap.scrollHeight;
+  return bubble;
+}
+
+function showMessages() {
+  document.getElementById('welcome').style.display = 'none';
+  document.getElementById('messages').style.display = 'flex';
+}
+
+// ── 전송 ──
+async function sendMessage() {
+  if (isStreaming) return;
+  const ta = document.getElementById('prompt');
+  let text = ta.value.trim();
+  if (!text) return;
+
+  // @local 접두사 제거 (선택사항, 내용만 전송)
+  const isLocal = text.startsWith('@local');
+  if (isLocal) text = text.replace(/^@local\s*/, '').trim();
+  if (!text) { ta.value=''; return; }
+
+  showMessages();
+  appendMsg('user', (isLocal ? '[@local] ' : '') + text);
+  ta.value = '';
+  ta.style.height = 'auto';
+
+  history.push({ role: 'user', content: text });
+
+  const btn = document.getElementById('send-btn');
+  btn.disabled = true;
+  isStreaming = true;
+
+  // 스트리밍 버블 생성
+  const bubble = appendMsg('assistant', '');
+  const cursor = document.createElement('span');
+  cursor.className = 'cursor';
+  bubble.appendChild(cursor);
+
+  try {
+    const res = await fetch(`${config.baseUrl}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${config.apiKey}`
+      },
+      body: JSON.stringify({
+        model: config.model,
+        messages: history,
+        temperature: config.temperature,
+        max_tokens: config.maxTokens,
+        stream: true
+      })
+    });
+
+    if (!res.ok) {
+      const err = await res.text();
+      bubble.textContent = '';
+      const span = document.createElement('span');
+      span.className = 'error-msg';
+      span.textContent = `❌ 오류 ${res.status}: ${err.slice(0,200)}`;
+      bubble.appendChild(span);
+      history.pop();
+      return;
+    }
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let fullText = '';
+    bubble.textContent = '';
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      const chunk = decoder.decode(value, { stream: true });
+      const lines = chunk.split('\n');
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        const data = line.slice(6).trim();
+        if (data === '[DONE]') continue;
+        try {
+          const json = JSON.parse(data);
+          const delta = json.choices?.[0]?.delta?.content || '';
+          fullText += delta;
+          bubble.textContent = fullText;
+          document.getElementById('messages').scrollTop = 99999;
+        } catch(e) {}
+      }
+    }
+
+    history.push({ role: 'assistant', content: fullText });
+
+  } catch(e) {
+    bubble.textContent = '';
+    const span = document.createElement('span');
+    span.className = 'error-msg';
+    span.textContent = `❌ 연결 실패: Ollama가 실행 중인지 확인하세요. (${e.message})`;
+    bubble.appendChild(span);
+    history.pop();
+  } finally {
+    cursor.remove();
+    isStreaming = false;
+    btn.disabled = false;
+    ta.focus();
+  }
+}
+
+// ── 칩 클릭 ──
+function useChip(el) {
+  document.getElementById('prompt').value = el.textContent.replace(/^[^\s]+\s/, '');
+  document.getElementById('prompt').focus();
+}
+
+// ── 키보드 ──
+document.getElementById('prompt').addEventListener('keydown', e => {
+  if (e.ctrlKey && e.key === 'Enter') { e.preventDefault(); sendMessage(); }
+  // 자동 높이
+  setTimeout(() => {
+    const ta = e.target;
+    ta.style.height = 'auto';
+    ta.style.height = Math.min(ta.scrollHeight, 180) + 'px';
+  }, 0);
+});
+
+// ── 초기화 ──
+loadConfig();
+checkConnection();
+setInterval(checkConnection, 30000);
+</script>
+</body>
+</html>

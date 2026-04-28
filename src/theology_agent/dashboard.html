@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theology Agent Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-bg: #0f172a;
+            --secondary-bg: #1e293b;
+            --accent-gold: #fbbf24;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --glass-bg: rgba(255, 255, 255, 0.05);
+            --border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--primary-bg);
+            color: var(--text-main);
+            font-family: 'Inter', 'Noto Serif KR', serif;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Sidebar */
+        aside {
+            width: 320px;
+            background-color: var(--secondary-bg);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            z-index: 10;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-gold);
+            margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .search-box {
+            background: var(--glass-bg);
+            border: 1px solid var(--border-color);
+            padding: 12px;
+            border-radius: 8px;
+            color: white;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        .nav-section {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .nav-section h3 {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+            letter-spacing: 1px;
+        }
+
+        .lecture-item {
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9rem;
+            border: 1px solid transparent;
+        }
+
+        .lecture-item:hover {
+            background: var(--glass-bg);
+            border-color: var(--border-color);
+        }
+
+        .lecture-item.active {
+            background: rgba(251, 191, 36, 0.1);
+            border-color: var(--accent-gold);
+            color: var(--accent-gold);
+        }
+
+        /* Main Content */
+        main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        header {
+            padding: 20px 40px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(10px);
+        }
+
+        .status {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            color: #10b981;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: #10b981;
+            border-radius: 50%;
+            box-shadow: 0 0 8px #10b981;
+        }
+
+        /* Chat Area */
+        .chat-container {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        .message {
+            max-width: 80%;
+            padding: 20px;
+            border-radius: 16px;
+            line-height: 1.6;
+            position: relative;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message.bot {
+            background: var(--secondary-bg);
+            align-self: flex-start;
+            border-bottom-left-radius: 2px;
+            border: 1px solid var(--border-color);
+        }
+
+        .message.user {
+            background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+            align-self: flex-end;
+            border-bottom-right-radius: 2px;
+            box-shadow: 0 10px 25px -5px rgba(79, 70, 229, 0.3);
+        }
+
+        .message h1, .message h2, .message h3 {
+            margin-bottom: 15px;
+            color: var(--accent-gold);
+        }
+
+        .message blockquote {
+            border-left: 4px solid var(--accent-gold);
+            padding-left: 20px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #cbd5e1;
+        }
+
+        /* Input Area */
+        .input-area {
+            padding: 30px 40px;
+            background: var(--primary-bg);
+            border-top: 1px solid var(--border-color);
+        }
+
+        .input-wrapper {
+            background: var(--secondary-bg);
+            border: 1px solid var(--border-color);
+            padding: 15px 25px;
+            border-radius: 12px;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+
+        input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 1rem;
+            outline: none;
+        }
+
+        .send-btn {
+            background: var(--accent-gold);
+            color: black;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .send-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* Background Glow */
+        .glow {
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(251, 191, 36, 0.05) 0%, transparent 70%);
+            top: -100px;
+            right: -100px;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <aside>
+        <div class="logo">
+            <span>⚜️</span>
+            Theology Expert
+        </div>
+        <input type="text" class="search-box" placeholder="신학 지식 검색...">
+        
+        <div class="nav-section">
+            <h3>최근 정리된 강의</h3>
+            <div class="lecture-item active">
+                [사무엘하] 71. 다윗의 조가 (1:17-27)
+            </div>
+            <div class="lecture-item">
+                [사무엘학교] 70. 사울의 죽음 (1:6-13)
+            </div>
+            <div class="lecture-item">
+                [사무엘학교] 69. 소식의 전달 (1:1-5)
+            </div>
+        </div>
+    </aside>
+
+    <main>
+        <div class="glow"></div>
+        <header>
+            <div class="title-area">
+                <h2>Theology Reasoning Agent</h2>
+                <p style="color: var(--text-muted); font-size: 0.9rem;">Luna Expert v5 Local Engine</p>
+            </div>
+            <div class="status">
+                <div class="status-dot"></div>
+                Ollama: Connected
+            </div>
+        </header>
+
+        <div class="chat-container">
+            <div class="message user">
+                사무엘하 1장에 나타난 다윗의 조가의 의미를 설명해줘.
+            </div>
+            <div class="message bot">
+                <h3>다윗의 조가: 신앙 시인의 관용과 영적 승리</h3>
+                <p>사무엘하 1:17-27에 기록된 다윗의 조가는 원수였던 사울의 죽음 앞에서 인간적인 원한을 넘어선 <strong>'신앙 시인'</strong>으로서의 다윗의 면모를 보여줍니다.</p>
+                
+                <blockquote>
+                    "내 아우 요나단이여 내가 그대를 애통함은 그대는 내게 심히 아름다움이라 그대가 나를 사랑함이 기이하여 여인의 사랑보다 더하였도다"
+                    <br><strong>(사무엘하 1장 26절)</strong>
+                </blockquote>
+
+                <p>박윤선 목사님의 해석에 따르면, 다윗은 죽은 사울의 모든 과오를 용서하고 그의 장점만을 노래함으로써 하나님의 기름 부음 받은 자에 대한 예의를 갖추었습니다. 이는 단순한 인간적 도리를 넘어, 모든 주권을 하나님께 맡기는 다윗의 영적 성숙도를 증명합니다.</p>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <div class="input-wrapper">
+                <input type="text" placeholder="질문을 입력하세요... (예: 사울의 죽음이 주는 교훈은?)">
+                <button class="send-btn">Ask Expert</button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
