@@ -14,8 +14,12 @@ Verticals v3 (johndpope) x Luna Agent 통합 자동화 파이프라인
 import os
 import sys
 import json
+import re
 import time
 import asyncio
+from dotenv import load_dotenv
+
+load_dotenv() # .env 파일에서 API 키 로드
 import requests
 import subprocess
 import textwrap
@@ -26,9 +30,9 @@ from youtube_feedback_manager import YouTubeFeedbackManager
 # ── 설정 ──────────────────────────────────────────────────
 OLLAMA_URL    = "http://localhost:11434/api/generate"
 OLLAMA_MODELS = [
+    "gemma:2b",
     "luna-expert:latest",
     "luna-expert-v5:latest",
-    "gemma:2b",
 ]
 
 # ── 이미지 API (우선순위 순, 모두 무료) ───────────────────
@@ -98,27 +102,42 @@ TRADE_ANALYSIS_NICHE = {
     },
 }
 
+# 생활 꿀팁 전용 프로필
+LIFE_HACK_NICHE = {
+    "name": "life_hacks",
+    "display": "생활의 달인 꿀팁",
+    "script": {
+        "tone": "친절하고 명쾌한, 유용한 정보를 주는 톤",
+        "pacing": "적당함, 단계별 설명",
+        "word_count": "200~250자 (30~45초 분량)",
+        "hooks": [
+            "아직도 {topic}을 이렇게 하시나요? 30초만 투자하세요.",
+            "모르면 손해! {topic} 가장 쉽게 하는 법 알려드립니다.",
+            "충격적인 {topic} 해결법! 진짜 대박입니다.",
+        ],
+        "cta_variants": [
+            "삶의 질을 높이는 꿀팁, 구독하고 매일 받아보세요!",
+        ],
+        "forbidden": ["~인 것 같다", "아마도"],
+    },
+    "voice": {
+        "lang": "ko-KR",
+        "edge_voice": "ko-KR-SunHiNeural",
+        "pace": "+5%",
+    },
+    "visuals": {
+        "style": "bright, clean, home, interior",
+        "pexels_query": "cleaning home kitchen lifestyle",
+    },
+}
+
 
 # ══════════════════════════════════════════════════════════
 # STEP 1: 한국 뉴스 수집 (한국어 RSS 우선)
 # ══════════════════════════════════════════════════════════
-# 한국어 주제 풀 (Ollama 실패 시 이 중 하나를 완전한 한국어 스크립트로 사용)
+# 한국어 주제 풀 (폴백용 - AI 실패 시 사용)
 KO_TOPIC_POOL = [
     {
-        "title": "AI가 내 일자리를 빼앗을까? 2026년 직업 생존법",
-        "summary": "챗GPT, 제미나이, 클로드 등 AI 도구들이 각 분야에 빠르게 도입되고 있습니다. 전문가들은 AI를 두려워하기보다 함께 일하는 법을 배워야 한다고 강조합니다.",
-        "hook": "지금 이 순간에도 AI가 누군가의 업무를 대신하고 있습니다.",
-        "script": (
-            "지금 이 순간에도 AI가 누군가의 업무를 대신하고 있습니다.\n"
-            "2026년 현재, 챗GPT와 제미나이는 단순 반복 업무의 40%를 자동화했습니다.\n"
-            "하지만 전문가들은 말합니다. AI는 직업을 없애는 게 아니라 바꾼다고요.\n"
-            "살아남는 사람들의 공통점은 단 하나입니다. AI를 도구로 사용하는 능력.\n"
-            "지금 당장 AI 활용법을 배우세요. 뒤처지면 따라잡기 어렵습니다.\n"
-            "더 많은 AI 생존 전략은 구독 후 알림 설정하세요!"
-        ),
-        "tags": ["AI", "인공지능", "직업", "챗GPT", "미래"],
-        "thumbnail_text": "AI 생존법",
-        "broll_prompts": ["robot working office automation", "person computer AI technology", "future job career digital"]
     },
     {
         "title": "챗GPT 무료로 100% 활용하는 방법 3가지",
@@ -227,24 +246,22 @@ def generate_script(topic: dict, niche: dict, trade_data: dict = None) -> dict:
 - 마지막에 CTA 포함.
 """
     else:
-        # 일반 뉴스 모드
+        # 일반 모드 (생활 꿀팁 등)
         hook_template = niche["script"]["hooks"][0].replace("{topic}", topic["title"][:30])
-        prompt = f"""당신은 한국의 인기 유튜브 쇼츠 크리에이터입니다.
-과거 데이터 기반 알고리즘 최적화 전략을 반영하여 다음 뉴스를 바탕으로 60~90초 YouTube Shorts 스크립트를 작성하세요.
+        prompt = f"""당신은 유능한 쇼츠 크리에이터입니다.
+반드시 아래 제공된 [주제]만을 사용하여 30~45초 분량의 한국어 쇼츠 대본을 작성하세요. 다른 엉뚱한 테크 뉴스(삼성, 애플 등)는 절대 포함하지 마십시오.
 
-{strategy_report}
-
-[뉴스 헤드라인]
+[주제]
 {topic['title']}
 
-[배경 정보]
-{topic['summary'][:200]}
-
-[규칙]
-- 첫 3초 후크(Hook): "{hook_template}"
-- 전체 150~170자 분량
-- 어조: {niche['script']['tone']}
-- 마지막에 CTA: "{niche['script']['cta_variants'][0]}"
+[규칙 - 절대 엄수]
+1. 당신은 [주제]를 해결하는 **구체적인 3~5단계 방법**을 반드시 포함해야 합니다. (예: 1단계 귤껍질을 넣는다, 2단계 30초 돌린다 등)
+2. 추상적인 표현(최고입니다, 좋습니다 등)은 최소화하고 **수치와 명사** 위주로 작성하세요.
+3. 첫 3초 후크: "{hook_template}"
+4. 전체 분량: {niche['script']['word_count']}
+5. 어조: {niche['script']['tone']}
+6. 마지막 CTA: "{niche['script']['cta_variants'][0]}"
+7. 한국어로 작성하되, [broll_prompts]는 반드시 주제와 밀접한 **영어 단어** 5개를 생성하세요. (예: ["tangerine peel", "microwave cleaning", "kitchen steam", "citrus fruit", "clean interior"])
 """
 
     prompt += """
@@ -256,7 +273,7 @@ def generate_script(topic: dict, niche: dict, trade_data: dict = None) -> dict:
   "title": "YouTube 제목 (50자 이내)",
   "tags": ["태그1", "태그2", "태그3", "태그4", "태그5"],
   "thumbnail_text": "썸네일 한 줄 (15자 이내)",
-  "broll_prompts": ["장면1 영어 프롬프트", "장면2 영어 프롬프트", "장면3 영어 프롬프트"]
+  "broll_prompts": ["영어 키워드1", "영어 키워드2", "영어 키워드3", "영어 키워드4", "영어 키워드5"]
 }}"""
 
     for model in OLLAMA_MODELS:
@@ -266,9 +283,10 @@ def generate_script(topic: dict, niche: dict, trade_data: dict = None) -> dict:
                 "model": model,
                 "prompt": prompt,
                 "stream": False,
+                "format": "json",
                 "options": {"temperature": 0.7, "num_ctx": 2048}
             }
-            r = requests.post(OLLAMA_URL, json=payload, timeout=90)
+            r = requests.post(OLLAMA_URL, json=payload, timeout=300) # 타임아웃 300초로 확대
             if r.status_code == 500:
                 err = r.json().get("error", "")
                 if "memory" in err.lower():
@@ -458,12 +476,10 @@ def fetch_broll_images(prompts: list, output_dir: Path) -> list:
         "digital data computer network",
         "innovation science research"
     ]
-    # AI가 생성한 프롬프트가 있으면 우선 사용
-    for i, (prompt, fallback) in enumerate(zip(
-        (prompts + search_terms)[:3],
-        search_terms
-    )):
-        query = prompt if len(prompt) > 3 else fallback
+    images = []
+    # 5개의 이미지 확보 시도
+    for i in range(5):
+        query = prompts[i] if i < len(prompts) else "lifestyle home cleaning"
         img_path = None
 
         # 1순위: Pixabay
@@ -514,16 +530,19 @@ async def generate_tts_async(script_text: str, voice: str, output_path: Path):
         return False
 
 def generate_voiceover(script: str, niche: dict, output_dir: Path) -> str:
-    """TTS 보이스오버 생성"""
-    print("\n🎙️  [Step 4/6] TTS 음성 생성 중 (Edge TTS - 무료)...")
-    audio_path = output_dir / "voiceover.mp3"
-    voice = niche["voice"]["edge_voice"]
+    """Edge TTS를 사용하여 음성 생성 (기호 제거 로직 추가)"""
+    # **별표**, #해시태그, -글머리표 등 특수 기호 제거 (TTS가 읽지 않게 함)
+    clean_text = re.sub(r'[\*\#\-\_\>\=\`]', '', script)
+    # 여러 개의 공백이나 개행을 하나로 정리
+    clean_text = re.sub(r'\s+', ' ', clean_text).strip()
     
-    # 스크립트에서 순수 텍스트 추출
-    clean_script = script.replace("\n\n", " ").replace("\n", " ").strip()
+    print(f"   🎙️  [Step 4/6] 음성 변환 중 (글자수: {len(clean_text)})")
+    
+    audio_path = output_dir / "voiceover.mp3"
+    voice = niche.get("voice", {}).get("edge_voice", "ko-KR-SunHiNeural")
     
     try:
-        success = asyncio.run(generate_tts_async(clean_script, voice, audio_path))
+        success = asyncio.run(generate_tts_async(clean_text, voice, audio_path))
         if success and audio_path.exists():
             print(f"   ✅ 음성 생성 완료: {audio_path.name} ({audio_path.stat().st_size//1024}KB)")
             return str(audio_path)
@@ -628,18 +647,18 @@ def assemble_video(images: list, audio_path: str, srt_path: str,
     for i in range(len(images)):
         filter_parts.append(
             f"[{i}:v]scale=1080:1920:force_original_aspect_ratio=increase,"
-            f"crop=1080:1920,zoompan=z='min(zoom+0.001,1.5)':x='iw/2-(iw/zoom/2)'"
-            f":y='ih/2-(ih/zoom/2)':d={duration_per_img*25}:s=1080x1920[v{i}]"
+            f"crop=1080:1920[v{i}]"
         )
     
     concat_inputs = "".join(f"[v{i}]" for i in range(len(images)))
     filter_parts.append(f"{concat_inputs}concat=n={len(images)}:v=1:a=0[vout]")
     
-    # 자막 오버레이
+    # 자막 오버레이 (단순화된 경로 처리)
     vf_final = "[vout]"
     if srt_path and Path(srt_path).exists():
-        srt_escaped = srt_path.replace("\\", "/").replace(":", "\\:")
-        vf_final = f"[vout]subtitles='{srt_escaped}':force_style='FontSize=24,PrimaryColour=&HFFFFFF,Bold=1'[vout2]"
+        # 상대 경로로 변환하여 윈도우/리눅스 호환성 확보
+        rel_srt = os.path.relpath(srt_path).replace("\\", "/")
+        vf_final = f"[vout]subtitles='{rel_srt}':force_style='FontSize=20,PrimaryColour=&HFFFFFF,Alignment=2'[vout2]"
         final_map = "[vout2]"
     else:
         final_map = "[vout]"
@@ -685,12 +704,12 @@ def assemble_video(images: list, audio_path: str, srt_path: str,
 # ══════════════════════════════════════════════════════════
 def run_pipeline(topic: str = None, trade_data: dict = None):
     """Luna Shorts 완전 자동화 파이프라인 실행"""
-    
+    start_time = time.time()
     print("\n" + "="*58)
     print("  Luna Shorts Pipeline v1.6 (Trade-to-Video Mode)")
     print("="*58 + "\n")
     
-    niche = TRADE_ANALYSIS_NICHE if trade_data else NICHE_PROFILE
+    niche = TRADE_ANALYSIS_NICHE if trade_data else (LIFE_HACK_NICHE if "꿀팁" in (topic or "") else NICHE_PROFILE)
     run_dir = OUTPUT_DIR / datetime.now().strftime("%Y%m%d_%H%M%S")
     run_dir.mkdir(parents=True, exist_ok=True)
     
