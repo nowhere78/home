@@ -65,6 +65,18 @@ PROCESSES = [
         "critical": False,
         "restart_delay": 30,
     },
+    {
+        "name": "🔍 GitHubExplorer",
+        "cmd": [sys.executable, "src/luna-agent/github_explorer.py"],
+        "critical": False,
+        "restart_delay": 60,
+    },
+    {
+        "name": "⚒️ StrategyMiner",
+        "cmd": [sys.executable, "src/luna-agent/code_upgrader.py"],
+        "critical": False,
+        "restart_delay": 60,
+    },
 ]
 
 # ── 텔레그램 알림 ──────────────────────────────────────────────────────────────
