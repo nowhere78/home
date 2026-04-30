@@ -59,6 +59,12 @@ PROCESSES = [
         "critical": True,    # 핵심 봇 — 재시작 즉시
         "restart_delay": 10,
     },
+    {
+        "name": "🔄 GitSync",
+        "cmd": [sys.executable, "git_sync.py"],
+        "critical": False,
+        "restart_delay": 30,
+    },
 ]
 
 # ── 텔레그램 알림 ──────────────────────────────────────────────────────────────
