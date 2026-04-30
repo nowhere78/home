@@ -60,7 +60,11 @@ class CodeUpgrader:
                 {"role": "system", "content": "You are an expert quantitative trader and senior developer. Your goal is to extract actionable trading logic and strategies from code."},
                 {"role": "user", "content": f"{prompt}\n\nCode:\n```python\n{content}\n```"}
             ],
-            "temperature": 0.1
+            "temperature": 0.1,
+            "options": {
+                "num_ctx": 4096,
+                "num_predict": 512
+            }
         }
         try:
             res = requests.post(OLLAMA_URL, json=payload, timeout=120)
@@ -84,7 +88,10 @@ class CodeUpgrader:
                     content = zip_ref.read(file_info).decode('utf-8', errors='ignore')
                     if len(content) < 300: continue # 너무 짧은 파일 스킵
                     
-                    self.log(f"  - Analyzing: {file_info}")
+                    # [다이어트] 코드가 너무 길면 앞부분 3000자만 잘라서 분석 (메모리 절약 및 속도 향상)
+                    content = content[:3000]
+                    
+                    self.log(f"  - Analyzing: {file_info} (Length: {len(content)})")
                     prompt = """이 코드에서 사용된 핵심 트레이딩 전략이나 알고리즘 로직을 분석하세요.
 다음 JSON 형식으로만 응답하세요:
 {

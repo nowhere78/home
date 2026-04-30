@@ -116,7 +116,11 @@ score는 -1.0(극도 비관) ~ +1.0(극도 낙관) 사이 숫자."""
         payload = {
             "model": OLLAMA_MODEL,
             "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.1
+            "temperature": 0.1,
+            "options": {
+                "num_ctx": 1024,
+                "num_predict": 256
+            }
         }
         res = requests.post(OLLAMA_URL, json=payload, timeout=60)
         if res.status_code == 200:
