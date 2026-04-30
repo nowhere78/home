@@ -13,7 +13,15 @@ import os
 import json
 import time
 import pyupbit
+import sys
 from datetime import datetime, timedelta
+
+# Ensure stdout uses utf-8 to avoid UnicodeEncodeError with emojis
+if getattr(sys.stdout, 'encoding', '') != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
 
 # 프로젝트 루트 설정
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))

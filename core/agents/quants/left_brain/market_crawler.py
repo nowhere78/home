@@ -20,7 +20,7 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Windows Unicode
-if sys.stdout.encoding != 'utf-8':
+if getattr(sys.stdout, 'encoding', '') != 'utf-8':
     try:
         sys.stdout.reconfigure(encoding='utf-8')
     except Exception:
@@ -181,7 +181,15 @@ def run():
             
             # 핵심 데이터 수집
             fear_greed = fetch_fear_greed()
-            prices = fetch_ticker_prices(all_tickers[:50])  # API 부하 방지
+            
+            # 모든 티커 현재가 조회 (50개씩 청크)
+            prices = {}
+            for i in range(0, len(all_tickers), 50):
+                chunk = all_tickers[i:i+50]
+                chunk_prices = fetch_ticker_prices(chunk)
+                prices.update(chunk_prices)
+                time.sleep(0.1) # 짧은 지연
+            
             surges = detect_surges(prices, threshold=3.0)
             whales = fetch_binance_whale_trades()
             

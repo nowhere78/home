@@ -11,6 +11,15 @@ import os
 import subprocess
 import time
 from datetime import datetime
+import sys
+
+# Ensure stdout uses utf-8 to avoid UnicodeEncodeError with emojis
+if getattr(sys.stdout, 'encoding', '') != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
 
 # 프로젝트 루트 설정
 ROOT = os.path.dirname(os.path.abspath(__file__))

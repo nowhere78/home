@@ -21,6 +21,14 @@ from sentiment_analyzer import SentimentAnalyzer
 from trust_scorer import TrustScorer
 import hashlib
 import sys as _sys
+
+# Ensure stdout uses utf-8 to avoid UnicodeEncodeError with emojis
+if getattr(_sys.stdout, 'encoding', '') != 'utf-8':
+    try:
+        _sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
 _sys.path.insert(0, os.path.join(os.path.dirname(__file__), "left_brain"))
 from left_brain_reader import LeftBrainReader
 
