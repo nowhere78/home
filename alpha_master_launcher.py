@@ -77,6 +77,12 @@ PROCESSES = [
         "critical": False,
         "restart_delay": 60,
     },
+    {
+        "name": "📊 PerfMonitor",
+        "cmd": [sys.executable, "core/agents/quants/left_brain/performance_monitor.py"],
+        "critical": False,
+        "restart_delay": 60,
+    },
 ]
 
 # ── 텔레그램 알림 ──────────────────────────────────────────────────────────────
