@@ -16,6 +16,12 @@ import pandas as pd
 from dotenv import load_dotenv
 
 # 사용자 정의 모듈 연동
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'orchestrator')))
+from model_router import ModelRouter
+from alpha_manager import manager
+from trading_memory import quant_memory
 from news_sentiment_gate import get_sentiment_score
 
 # Windows 콘솔 인코딩 설정
@@ -86,8 +92,8 @@ def scan_hot_tickers():
         return ["KRW-BTC", "KRW-ETH", "KRW-XRP"]
 
 def get_1m_indicators(ticker):
-    df = pyupbit.get_ohlcv(ticker, interval="minute1", count=30)
-    if df is None or len(df) < 20: return None
+    df = pyupbit.get_ohlcv(ticker, interval="minute1", count=60)
+    if df is None or len(df) < 60: return None
     close = df["close"]
     volume = df["volume"]
     
@@ -107,7 +113,8 @@ def get_1m_indicators(ticker):
         "rsi": rsi.iloc[-1],
         "upper_bb": upper_bb.iloc[-1],
         "volume": volume.iloc[-1],
-        "vol_ma5": volume.rolling(5).mean().iloc[-1]
+        "vol_ma5": volume.rolling(5).mean().iloc[-1],
+        "vol_ma60": volume.rolling(60).mean().iloc[-1]
     }
 
 def calculate_dynamic_weight(sentiment_score, rsi):
@@ -144,7 +151,7 @@ def run_v7_fusion_engine():
                 
                 if ticker not in active_trades:
                     avg_buy = float(b['avg_buy_price'])
-                    active_trades[ticker] = {'entry': avg_buy, 'highest': current_price}
+                    active_trades[ticker] = {'entry': avg_buy, 'highest': current_price, 'buy_reason': 'Unknown'}
                 
                 state = active_trades[ticker]
                 if current_price > state['highest']: state['highest'] = current_price
@@ -152,13 +159,42 @@ def run_v7_fusion_engine():
                 profit_pct = (current_price - state['entry']) / state['entry']
                 drop_from_high = (state['highest'] - current_price) / state['highest']
                 
+                # [V11 Upgrade] 다이내믹 트레일링 스탑 (사용자 피드백 반영)
+                # 고정 익절(Take Profit)을 없애고 수익률 구간에 따라 하락 허용폭을 조여나갑니다.
+                if profit_pct >= 0.05:
+                    trailing_limit = 0.01 # 5% 이상 수익 시: 고점 대비 1%만 떨어져도 즉시 매도 (수익 보존)
+                elif profit_pct >= 0.02:
+                    trailing_limit = 0.015 # 2% 이상 수익 시: 1.5% 떨어지면 매도
+                else:
+                    trailing_limit = TRAILING_STOP_PCT # 기본: 매수가 대비 1.5% 하락 시 손절
+                
                 sell_reason = ""
-                if profit_pct >= TAKE_PROFIT_PCT: sell_reason = "익절 목표 달성"
-                elif drop_from_high >= TRAILING_STOP_PCT: sell_reason = "추적 손절매 발동"
+                if drop_from_high >= trailing_limit:
+                    if profit_pct > 0:
+                        sell_reason = f"추적 익절(Trailing) 발동 (고점 대비 {drop_from_high*100:.2f}% 하락)"
+                    else:
+                        sell_reason = f"추적 손절매 발동 (고점 대비 {drop_from_high*100:.2f}% 하락)"
                 
                 if sell_reason:
                     log(f"💰 [SELL] {ticker} | {sell_reason} | 수익률: {profit_pct*100:.2f}%")
                     if not PAPER_TRADING: upbit.sell_market_order(ticker, amount)
+                    
+                    # [V9 Swarm] 수익 발생 시 마스터 매니저에게 브로드캐스트 (쇼츠 봇이 받아갈 수 있도록)
+                    if profit_pct > 0:
+                        manager.publish("trade_success", {
+                            "ticker": ticker,
+                            "profit_pct": profit_pct * 100,
+                            "buy_reason": state.get('buy_reason', '알 수 없음'),
+                            "reason": sell_reason
+                        })
+                    # [V12] 매매 결과 메모리 기록 (자가 학습)
+                    quant_memory.record_trade(
+                        ticker=ticker, 
+                        buy_reason=state.get('buy_reason', '알 수 없음'),
+                        profit_pct=profit_pct * 100,
+                        sell_reason=sell_reason
+                    )
+                        
                     del active_trades[ticker]
 
             # 2. 진입 로직 (FUSION: Breakout + Panic + AI Sentiment)
@@ -176,23 +212,40 @@ def run_v7_fusion_engine():
                 # 전략 B: 낙폭 과대 (Mean Reversion)
                 is_panic_sell = ind['rsi'] < 25
                 
-                if is_vbat_breakout or is_panic_sell:
+                # [V10] 전략 C: 고래 이상 거래 포착 (Whale Anomaly)
+                # 뉴스나 지표가 중립이어도 거래량이 60분 평균 대비 500% 이상 폭발하면 진입
+                vol_ratio = ind['volume'] / (ind['vol_ma60'] + 1e-9)
+                is_whale_anomaly = vol_ratio >= 5.0
+                
+                if is_vbat_breakout or is_panic_sell or is_whale_anomaly:
                     # 지능형 필터: AI 뉴스 분석
                     sentiment_score, news_titles = get_sentiment_score(ticker)
                     
                     if sentiment_score >= 45: # 심각한 악재가 아닐 때만 진입
-                        # [JSON Prompting] AI 에이전트 최종 결재
-                        import json
-                        import requests
-                        reason_str = "돌파" if is_vbat_breakout else "낙폭과대"
-                        prompt = f"""당신은 V7 퀀트 트레이딩 에이전트입니다.
+                        # [V9 ReAct] 라우터를 통해 로컬/클라우드 판단 위임
+                        if is_whale_anomaly:
+                            reason_str = "고래 매집/볼륨 폭발"
+                        elif is_vbat_breakout:
+                            reason_str = "돌파"
+                        else:
+                            reason_str = "낙폭과대"
+                            
+                        # [V12 자가 학습] 과거 매매 기록(Memory) 조회
+                        past_memory = quant_memory.recall_past_performance(ticker)
+                            
+                        prompt = f"""당신은 V12 퀀트 트레이딩 에이전트입니다.
 현재 시장 데이터와 뉴스 감성 점수를 바탕으로 최종 매수 여부를 결정하세요.
+'고래 매집/볼륨 폭발' 신호는 뉴스가 없어도 강력한 매수 신호입니다.
+
+[과거 매매 자가 학습 데이터]
+- {past_memory}
 
 [데이터 컨텍스트]
 - 종목: {ticker}
 - 전략 신호: {reason_str}
 - 현재가: {ind['price']}
 - RSI: {ind['rsi']:.2f}
+- 거래량 폭발 지수(1.0=보통, 5.0=고래): {vol_ratio:.1f}
 - 뉴스 감성 점수: {sentiment_score} (100이 최고 호재)
 
 [출력 형식 - 반드시 JSON만 출력]
@@ -203,21 +256,16 @@ def run_v7_fusion_engine():
 }}
 """
                         try:
-                            r = requests.post("http://localhost:11434/api/generate", json={
-                                "model": "luna-expert:latest",
-                                "prompt": prompt,
-                                "stream": False,
-                                "format": "json",
-                                "options": {"temperature": 0.1, "num_ctx": 1024}
-                            }, timeout=30)
-                            ai_res = json.loads(r.json().get("response", "{}"))
-                            ai_decision = ai_res.get("decision", "HOLD")
-                            ai_conf = ai_res.get("confidence", 0)
-                            ai_reason = ai_res.get("reason", "판단 불가")
-                            
-                            if ai_decision == "BUY" and ai_conf >= 60:
-                                weight = calculate_dynamic_weight(sentiment_score, ind['rsi'])
-                                buy_amount = krw_balance * weight
+                            # 로컬 퍼스트(비용 0원) 하이브리드 라우터 호출
+                            ai_res = ModelRouter.route(prompt, complexity="low", format="json")
+                            if ai_res:
+                                ai_decision = ai_res.get("decision", "HOLD")
+                                ai_conf = ai_res.get("confidence", 0)
+                                ai_reason = ai_res.get("reason", "판단 불가")
+                                
+                                if ai_decision == "BUY" and ai_conf >= 60:
+                                    weight = calculate_dynamic_weight(sentiment_score, ind['rsi'])
+                                    buy_amount = krw_balance * weight
                                 
                                 if buy_amount > 5000:
                                     log(f"⚡ [AI BUY] {ticker} | 사유: {ai_reason} | 확신도: {ai_conf}% | 감성: {sentiment_score}")
@@ -225,7 +273,11 @@ def run_v7_fusion_engine():
                                     
                                     if not PAPER_TRADING:
                                         upbit.buy_market_order(ticker, buy_amount)
-                                        active_trades[ticker] = {'entry': ind['price'], 'highest': ind['price']}
+                                        active_trades[ticker] = {
+                                            'entry': ind['price'], 
+                                            'highest': ind['price'],
+                                            'buy_reason': f"{reason_str} ({ai_reason})"
+                                        }
                                         krw_balance -= buy_amount
                             else:
                                 log(f"🛡️ [AI HOLD] {ticker} | 사유: {ai_reason} | 확신도: {ai_conf}% (매수 기각)")

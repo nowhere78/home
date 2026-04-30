@@ -23,6 +23,7 @@ load_dotenv() # .env 파일에서 API 키 로드
 import requests
 import subprocess
 import textwrap
+from youtube_uploader import upload_to_youtube
 from datetime import datetime
 from pathlib import Path
 from youtube_feedback_manager import YouTubeFeedbackManager
@@ -786,12 +787,24 @@ def run_pipeline(topic: str = None, trade_data: dict = None):
     else:
         print("  (영상 조립 미완료 - ffmpeg 설치 필요)")
     print(sep)
+    print(sep)
     print("  [다음 단계]")
     print("  1. PEXELS_API_KEY 설정으로 실제 이미지 사용")
-    print("  2. YouTube OAuth 설정 후 자동 업로드")
-    print("  3. 스케줄러로 매일 자동 실행")
+    print("  2. 스케줄러로 매일 자동 실행")
     print(sep + "\n")
     
+    # [V12] 유튜브 자동 업로드 실행
+    if video_path and Path(video_path).exists():
+        upload_title = script_data.get("title", f"AI 스캘핑 봇 수익 인증 - {datetime.now().strftime('%m월 %d일')}")
+        upload_desc = script_data.get("script", "알파 에이전트 무인 파이프라인에서 자동 생성된 영상입니다.")
+        upload_tags = script_data.get("tags", ["비트코인", "AI자동매매", "스캘핑", "수익인증"])
+        
+        success = upload_to_youtube(video_path, upload_title, upload_desc, upload_tags)
+        if success:
+            print("   ✅ 유튜브 업로드 큐에 등록되었습니다!")
+        else:
+            print("   ⚠️ 유튜브 업로드를 건너뛰었습니다.")
+            
     return {
         "video": video_path,
         "script": str(script_file),

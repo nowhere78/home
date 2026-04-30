@@ -1,9 +1,10 @@
 """
-[Alpha Trading Bot v5.0 - Luna v5 Hyper-Autonomous Engine]
+[Alpha Trading Bot v5.1 - Luna v5 + LEFT BRAIN Edition]
 - CCXT 지원: 글로벌 거래소 확장 아키텍처 내장 (기본 Upbit 구동)
 - Dynamic Portfolio Rebalancing: 목표 비중에 맞춘 자동 리밸런싱
 - ML Predictive Model: Scikit-Learn 15분 후 상승 예측 확률
 - LLM Deliberate Reasoning Gate: 로컬 AI(Luna v5)의 2차 승인
+- [NEW] Left Brain Engine: 24시간 시장/뉴스 통합 점수로 진입 기준 동적 조절
 """
 
 import os, time, datetime, json
@@ -19,6 +20,9 @@ from whale_tracker import WhaleTracker
 from sentiment_analyzer import SentimentAnalyzer
 from trust_scorer import TrustScorer
 import hashlib
+import sys as _sys
+_sys.path.insert(0, os.path.join(os.path.dirname(__file__), "left_brain"))
+from left_brain_reader import LeftBrainReader
 
 load_dotenv()
 
@@ -57,6 +61,9 @@ whale_tracker = WhaleTracker(min_value_usd=5000000) # 500만 달러 기준
 sentiment_analyzer = SentimentAnalyzer()
 trust_scorer = TrustScorer()
 brains = { ticker: MLBrain(ticker=ticker, interval="minute5", count=1000) for ticker in TICKERS }
+
+# --- [v5.1] Left Brain Engine 연결 ---
+left_brain = LeftBrainReader(max_age_minutes=5)
 
 # --- [v6] Advanced Risk Management ---
 active_positions = {}
@@ -147,7 +154,7 @@ def buy_smart_limit(ticker, amount_krw):
         return None
 
 def run_v5_engine():
-    log("====== Alpha Bot v5.0 (Luna v5 Edition) LAUNCHED ======", alert=True)
+    log("====== Alpha Bot v5.1 (Luna v5 + LEFT BRAIN Edition) LAUNCHED ======", alert=True)
     log(f"Portfolio Targets: {TARGET_WEIGHTS}")
     
     # ML 모델 학습
@@ -233,16 +240,31 @@ def run_v5_engine():
                 tech_score = 0
                 if ind["rsi"] < 40: tech_score += 1
                 if ind["macd_cross"]: tech_score += 1
-                
-                log(f"[SCAN] {ticker} | P={ind['price']:,.0f} | RSI={ind['rsi']} | ML상승확률={ml_prob*100:.1f}%")
+
+                # ██ [v5.1] Left Brain 점수 조회 ██
+                lb_summary = left_brain.get_summary()
+                lb_multiplier = left_brain.get_entry_multiplier()  # 0.90~1.25
+                lb_label = left_brain.get_label()
+
+                # 동적 ML 임계값 조절
+                BASE_ML_THRESHOLD = 0.45
+                adj_threshold = round(BASE_ML_THRESHOLD * lb_multiplier, 3)
+
+                log(f"[SCAN] {ticker} | P={ind['price']:,.0f} | RSI={ind['rsi']} | ML상승확률={ml_prob*100:.1f}% | 기준={adj_threshold:.2f}")
+                log(lb_summary)
                 
                 # 3. 진입 로직 (복합 필터링)
                 # 조건 A: 추세 추종 (RSI 40이하 + MACD 크로스)
                 # 조건 B: 평균 회귀 (가격 < BB 하단 + RSI 30이하)
                 is_trend_follow = tech_score >= 1 and ml_prob >= 0.55
                 is_mean_reversion = ind['price'] < ind['bb_lower'] and ind['rsi'] < 35
-                
-                if (is_trend_follow or is_mean_reversion) and ml_prob >= 0.45:
+
+                # ██ [v5.1] DANGER 상태이면 전체 매수 스킵 ██
+                if left_brain.should_skip_buy():
+                    log(f"[LEFT BRAIN 차단] {ticker} 시장 위험 신호 - 매수 전체 스킵", alert=False)
+                    continue
+
+                if (is_trend_follow or is_mean_reversion) and ml_prob >= adj_threshold:
                     strategy_type = "TREND" if is_trend_follow else "MEAN_REV"
                     # 포트폴리오 제한량 체크
                     max_alloc = portfolio.get_max_allocation(coin, total_capital)

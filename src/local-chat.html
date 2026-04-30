@@ -271,7 +271,7 @@ body {
 <div id="header">
   <div class="header-left">
     <span class="logo-mark">@local</span>
-    <span class="model-badge" id="model-name-badge">luna-expert:latest</span>
+    <span class="model-badge" id="model-name-badge">qwen2.5:1.5b</span>
   </div>
   <div style="display:flex;align-items:center;gap:0.8rem;">
     <div id="status-dot"></div>
@@ -315,7 +315,7 @@ body {
   </div>
   <div class="field">
     <label>Model</label>
-    <input id="cfg-model" value="luna-expert:latest">
+    <input id="cfg-model" value="qwen2.5:1.5b">
   </div>
   <div class="field">
     <label>API Key</label>
@@ -337,7 +337,7 @@ body {
 // ── 설정 ──
 let config = {
   baseUrl: 'http://localhost:11434/v1',
-  model: 'luna-expert:latest',
+  model: 'qwen2.5:1.5b',
   apiKey: 'ollama',
   temperature: 0.05,
   maxTokens: 8192

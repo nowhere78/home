@@ -4,7 +4,7 @@
         "local": {
             "provider": "openai-compatible",
             "baseUrl": "http://localhost:11434/v1",
-            "model": "luna-expert:latest",
+            "model": "qwen2.5:1.5b",
             "apiKey": "ollama",
             "temperature": 0.05,
             "maxTokens": 8192,

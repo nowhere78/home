@@ -25,3 +25,11 @@ luna_response_2.txt
 # OS
 .DS_Store
 Thumbs.db
+
+# Project Data & Output
+data/
+output/
+scratch/
+*.log
+antigravity.config.json
+.agent/
