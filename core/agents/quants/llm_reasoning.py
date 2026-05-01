@@ -10,8 +10,8 @@ import json
 import time
 
 class LunaReasoningGate:
-    def __init__(self, ollama_url="http://localhost:11434/api/generate", model_name="luna-expert:latest"):
-        # 사용자가 Luna_Expert_v5 모델을 로컬에서 사용 중이므로 해당 모델로 설정.
+    def __init__(self, ollama_url="http://localhost:11434/api/generate", model_name="luna-expert-v5:latest"):
+        # 사용자가 luna-expert-v5 모델을 로컬에서 사용 중이므로 해당 모델로 설정.
         self.api_url = ollama_url
         self.model = model_name
 
@@ -87,11 +87,11 @@ class LunaReasoningGate:
                     return False, reply_text
             else:
                 print(f"[LLM Gate] 에러: {response.status_code}")
-                return True, "API_ERROR_PASSTHROUGH"
+                return False, "API_ERROR_SAFETY_REJECT"
                 
         except Exception as e:
             print(f"[LLM Gate] 예외 발생: {e}")
-            return True, "EXCEPTION_PASSTHROUGH"
+            return False, "EXCEPTION_SAFETY_REJECT"
 
 if __name__ == "__main__":
     gate = LunaReasoningGate()

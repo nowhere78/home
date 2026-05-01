@@ -31,9 +31,11 @@ from youtube_feedback_manager import YouTubeFeedbackManager
 # ── 설정 ──────────────────────────────────────────────────
 OLLAMA_URL    = "http://localhost:11434/api/generate"
 OLLAMA_MODELS = [
+    "luna-expert-v5:latest",
+    "gemma4:e4b",
+    "gemma4:e2b",
     "gemma:2b",
     "luna-expert:latest",
-    "luna-expert-v5:latest",
 ]
 
 # ── 이미지 API (우선순위 순, 모두 무료) ───────────────────
@@ -129,6 +131,36 @@ LIFE_HACK_NICHE = {
     "visuals": {
         "style": "bright, clean, home, interior",
         "pexels_query": "cleaning home kitchen lifestyle",
+    },
+}
+
+# 쿠팡 파트너스 리뷰 전용 프로필
+COUPANG_REVIEW_NICHE = {
+    "name": "coupang_review",
+    "display": "가성비 쇼핑 추천",
+    "script": {
+        "tone": "빠르고 자극적인, 당장 사야할 것 같은 어조",
+        "pacing": "매우 빠름, 핵심 장점 위주",
+        "word_count": "160~190자",
+        "hooks": [
+            "아직도 돈 날리고 계신가요? {topic} 끝판왕을 찾았습니다.",
+            "{topic}, 비싼 거 사지 마세요. 이게 진짜 가성비 1등입니다.",
+            "삶의 질 200% 상승! {topic} 추천 리스트 공개합니다.",
+        ],
+        "cta_variants": [
+            "최저가 구매 링크는 댓글창을 확인하세요!",
+            "고정 댓글의 링크에서 지금 바로 확인해 보세요.",
+        ],
+        "forbidden": ["~인 것 같다", "나쁘지 않다"],
+    },
+    "voice": {
+        "lang": "ko-KR",
+        "edge_voice": "ko-KR-SunHiNeural",
+        "pace": "+12%",
+    },
+    "visuals": {
+        "style": "colorful, dynamic, product focus",
+        "pexels_query": "shopping electronic product home appliance",
     },
 }
 
@@ -710,7 +742,14 @@ def run_pipeline(topic: str = None, trade_data: dict = None):
     print("  Luna Shorts Pipeline v1.6 (Trade-to-Video Mode)")
     print("="*58 + "\n")
     
-    niche = TRADE_ANALYSIS_NICHE if trade_data else (LIFE_HACK_NICHE if "꿀팁" in (topic or "") else NICHE_PROFILE)
+    if trade_data:
+        niche = TRADE_ANALYSIS_NICHE
+    elif "꿀팁" in (topic or ""):
+        niche = LIFE_HACK_NICHE
+    elif "추천" in (topic or "") or "리뷰" in (topic or ""):
+        niche = COUPANG_REVIEW_NICHE
+    else:
+        niche = NICHE_PROFILE
     run_dir = OUTPUT_DIR / datetime.now().strftime("%Y%m%d_%H%M%S")
     run_dir.mkdir(parents=True, exist_ok=True)
     

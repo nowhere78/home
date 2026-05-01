@@ -95,9 +95,41 @@ def monitor_cycle():
     # 최근 100개만 유지
     save_json(HISTORY_FILE, history[-100:])
 
-    # 3. 가중치 보정 로직 (성공률이 낮으면 가중치 조정 제안)
-    # (이 부분은 추후 brain_aggregator와 연동)
     log("✨ 자기 학습 데이터 갱신 완료.")
+    update_brain_weights()
+
+def update_brain_weights():
+    """검증 결과를 바탕으로 가중치 산출 및 저장"""
+    history = load_json(HISTORY_FILE, [])
+    if len(history) < 10: return # 최소 데이터 확보 전까지 대기
+
+    recent = history[-50:]
+    success_count = sum(1 for e in recent if e.get("result") == "SUCCESS")
+    success_rate = success_count / len(recent)
+
+    log(f"📉 최근 50회 성공률: {success_rate*100:.1f}%")
+
+    # 기본 가중치
+    weights = {
+        "market_weight": 0.60,
+        "news_weight": 0.30,
+        "last_updated": datetime.now().isoformat(),
+        "success_rate": round(success_rate, 2)
+    }
+
+    # 성공률이 너무 낮으면(예: 40% 미만) 시장 지표 비중을 줄이고 뉴스 비중을 높이는 등의 실험적 조절 가능
+    # 여기서는 예시로 성공률이 낮을 때 가중치를 조금 더 보수적으로 조정하는 로직을 넣습니다.
+    if success_rate < 0.45:
+        log("⚠️ 성공률 저조. 시장 지표 비중을 낮추고 보수적 모드로 전환합니다.")
+        weights["market_weight"] = 0.50
+        weights["news_weight"] = 0.25 # 전체 합계를 낮춰서 combined_score가 낮게 나오도록 유도
+    elif success_rate > 0.65:
+        log("🚀 성공률 우수. 시장 지표 비중을 강화합니다.")
+        weights["market_weight"] = 0.70
+        weights["news_weight"] = 0.20
+
+    save_json(WEIGHTS_FILE, weights)
+    log(f"💾 가중치 업데이트 완료: Market({weights['market_weight']}) News({weights['news_weight']})")
 
 if __name__ == "__main__":
     while True:

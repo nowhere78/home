@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Expert Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #050a14;
+            --neon-blue: #00f3ff;
+            --neon-purple: #bc13fe;
+            --text-glow: 0 0 10px rgba(0, 243, 255, 0.5);
+            --card-bg: rgba(20, 30, 60, 0.6);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: #e0e0e0;
+            font-family: 'Noto Sans KR', sans-serif;
+            overflow-x: hidden;
+            background-image: radial-gradient(circle at 50% 50%, #102040 0%, #050a14 100%);
+        }
+
+        header {
+            padding: 30px;
+            text-align: center;
+            border-bottom: 2px solid var(--neon-blue);
+            box-shadow: 0 0 20px rgba(0, 243, 255, 0.2);
+            background: rgba(0,0,0,0.8);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: var(--neon-blue);
+            text-shadow: var(--text-glow);
+            letter-spacing: 5px;
+        }
+
+        main {
+            max-width: 1400px;
+            margin: 40px auto;
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 40px;
+            padding: 0 20px;
+        }
+
+        /* Feed */
+        .feed {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .section-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            color: var(--neon-purple);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(to right, var(--neon-purple), transparent);
+        }
+
+        .guide-card {
+            background: var(--card-bg);
+            border: 1px solid rgba(0, 243, 255, 0.2);
+            border-radius: 15px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s, border-color 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .guide-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: var(--neon-blue);
+        }
+
+        .guide-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--neon-blue);
+        }
+
+        .guide-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+        }
+
+        .tag-list {
+            display: flex;
+            gap: 10px;
+        }
+
+        .tag {
+            background: rgba(0, 243, 255, 0.1);
+            color: var(--neon-blue);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            border: 1px solid var(--neon-blue);
+        }
+
+        .guide-title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: white;
+        }
+
+        .guide-content {
+            color: #b0b0b0;
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .prompt-box {
+            background: #000;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: monospace;
+            color: #00ff00;
+            font-size: 0.9rem;
+            border: 1px dashed #333;
+            margin: 15px 0;
+        }
+
+        .upgrade-badge {
+            background: var(--neon-purple);
+            color: white;
+            padding: 5px 15px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        /* Sidebar */
+        aside {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .trend-box {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 25px;
+        }
+
+        .trend-item {
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .trend-item:last-child { border-bottom: none; }
+
+        .chat-widget {
+            background: var(--secondary-bg);
+            border: 1px solid var(--neon-blue);
+            border-radius: 15px;
+            padding: 20px;
+            height: 400px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 15px;
+        }
+
+        .chat-input {
+            background: #101010;
+            border: 1px solid #333;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            outline: none;
+        }
+
+        /* Animations */
+        .scanline {
+            width: 100%;
+            height: 2px;
+            background: rgba(0, 243, 255, 0.1);
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+            animation: scan 4s linear infinite;
+        }
+
+        @keyframes scan {
+            0% { top: 0; }
+            100% { top: 100vh; }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="scanline"></div>
+    <header>
+        <div class="logo">AI EXPERT AGENT</div>
+    </header>
+
+    <main>
+        <section class="feed">
+            <h2 class="section-title">LATEST PRACTICAL GUIDES</h2>
+            
+            <div class="guide-card">
+                <div class="guide-header">
+                    <div class="tag-list">
+                        <span class="tag">#AntiGravity</span>
+                        <span class="tag">#Firebase</span>
+                        <span class="tag">#MCP</span>
+                    </div>
+                    <span style="font-size: 0.8rem; color: #666;">2024.04.26</span>
+                </div>
+                <h3 class="guide-title">실전! AntiGravity와 Firebase MCP 연동하기</h3>
+                <div class="guide-content">
+                    필로소피 AI의 최신 영상을 바탕으로 정리한 실전 가이드입니다. 복잡한 설정 없이 로컬 에이전트에서 파이어베이스 데이터를 제어하는 방법을 다룹니다.
+                </div>
+                <div class="prompt-box">
+                    mcp_config: { "firebase": { "apiKey": "YOUR_KEY", ... } }
+                </div>
+                <div class="upgrade-badge">UPGRADE: 외부 API 자동 연동 자동화 스크립트 추가</div>
+            </div>
+
+            <div class="guide-card">
+                <div class="guide-header">
+                    <div class="tag-list">
+                        <span class="tag">#LocalAI</span>
+                        <span class="tag">#Ollama</span>
+                    </div>
+                    <span style="font-size: 0.8rem; color: #666;">2024.04.25</span>
+                </div>
+                <h3 class="guide-title">Luna-Expert-v5 로컬 모델 최적화 설정</h3>
+                <div class="guide-content">
+                    9.6GB 모델을 일반 PC에서도 쾌적하게 사용하는 프롬프트 엔지니어링 기법입니다.
+                </div>
+                <div class="upgrade-badge">UPGRADE: 저사양 PC를 위한 퀀타이즈 설정 가이드 결합</div>
+            </div>
+        </section>
+
+        <aside>
+            <div class="trend-box">
+                <h3 class="section-title" style="font-size: 1.1rem;">AI TRENDS</h3>
+                <div class="trend-item">
+                    <span>MCP Ecosystem</span>
+                    <span style="color: var(--neon-blue);">▲ 42%</span>
+                </div>
+                <div class="trend-item">
+                    <span>Local LLM Optimization</span>
+                    <span style="color: var(--neon-blue);">▲ 18%</span>
+                </div>
+                <div class="trend-item">
+                    <span>Agentic Coding</span>
+                    <span style="color: var(--neon-blue);">▲ 35%</span>
+                </div>
+            </div>
+
+            <div class="chat-widget">
+                <h3 style="margin-bottom: 10px; font-family: 'Orbitron'; font-size: 0.9rem;">EXPERT CHAT</h3>
+                <div class="chat-messages">
+                    <p style="font-size: 0.85rem; color: #888;">지식 베이스 연결됨... 질문을 입력하세요.</p>
+                </div>
+                <input type="text" class="chat-input" placeholder="신기술에 대해 물어보세요...">
+            </div>
+        </aside>
+    </main>
+</body>
+</html>
