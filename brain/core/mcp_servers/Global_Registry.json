@@ -1,0 +1,68 @@
+{
+  "mcp_standard_version": "2026.1",
+  "servers": [
+    {
+      "name": "sermon-organizer",
+      "path": "core/mcp_servers/Sermon_Organizer_MCP.md",
+      "status": "active",
+      "tools": ["organize_sermon"]
+    },
+    {
+      "name": "youtube-growth-master",
+      "path": "core/mcp_servers/YouTube_Growth_MCP.md",
+      "status": "active",
+      "tools": ["analyze_comments_and_plan", "generate_engagement_reply"]
+    },
+    {
+      "name": "airtop-browser",
+      "path": "official-mcp/airtop-browser",
+      "status": "pending_integration",
+      "tools": ["high_speed_scrape", "captcha_bypass"]
+    },
+    {
+      "name": "firecrawl-data",
+      "path": "official-mcp/firecrawl",
+      "status": "pending_integration",
+      "tools": ["url_to_markdown", "web_crawl"]
+    },
+    {
+      "name": "agno-parallel-search",
+      "path": "core/mcp_servers/Agno_Search_MCP.md",
+      "status": "design_phase",
+      "tools": ["parallel_web_search"]
+    },
+    {
+      "name": "data-analyst-mcp",
+      "path": "core/mcp_servers/Data_Analyst_MCP.md",
+      "status": "pending_design",
+      "tools": ["performance_audit", "retention_prediction"]
+    },
+    {
+      "name": "bernstein-coding",
+      "path": "core/mcp_servers/Bernstein_Coding_MCP.md",
+      "status": "pending_integration",
+      "tools": ["orchestrate_coding_agents", "verify_code_quality"]
+    },
+    {
+      "name": "lean4-math-proof",
+      "path": "core/mcp_servers/Lean4_Math_MCP.md",
+      "status": "pending_integration",
+      "tools": ["formalize_and_prove", "verify_logic_takt"]
+    },
+    {
+      "name": "alphavantage-finance",
+      "path": "core/mcp_servers/AlphaVantage_Finance_MCP.md",
+      "status": "pending_integration",
+      "tools": ["get_market_insight", "calculate_technical_indicators"]
+    }
+  ],
+  "agent_mappings": {
+    "Marcus": ["youtube-growth-master", "agno-parallel-search"],
+    "Sofia": ["sermon-organizer", "airtop-browser"],
+    "Dr. Neo": ["data-analyst-mcp", "firecrawl-data", "alphavantage-finance"]
+  },
+  "global_constraints": [
+    "All tools must return JSON-formatted outputs",
+    "Security check: No destructive bash commands via MCP tools"
+  ]
+}

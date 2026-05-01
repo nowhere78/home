@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:11434/v1",
+    "model_source": "local_ollama",
+    "shortcuts": {
+        "@local": "http://localhost:11434/v1"
+    }
+}
