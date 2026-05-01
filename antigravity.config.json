@@ -1,0 +1,28 @@
+{
+    "primary_model": "local",
+    "models": {
+        "local": {
+            "provider": "openai-compatible",
+            "baseUrl": "http://localhost:11434/v1",
+            "model": "qwen2.5:1.5b",
+            "apiKey": "ollama",
+            "temperature": 0.05,
+            "maxTokens": 8192,
+            "contextWindow": 128000
+        }
+    },
+    "defaultModel": "local",
+    "routing": {
+        "strategy": "local-first",
+        "prefer_local": true
+    },
+    "fallback": {
+        "enabled": true,
+        "model": "Gemini 3.1-pro-High",
+        "trigger": [
+            "error",
+            "context_exceeded",
+            "timeout"
+        ]
+    }
+}
