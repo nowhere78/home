@@ -15,7 +15,7 @@ RAW_DIR = "output/github_repos/raw"
 UPGRADED_DIR = "output/github_repos/upgraded"
 STRATEGY_DB = "data/intelligence/strategy_library.json"
 OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
-MODEL = "gemma4:e4b"
+MODEL = "gemma4:e2b"
 
 os.makedirs(UPGRADED_DIR, exist_ok=True)
 os.makedirs(os.path.dirname(STRATEGY_DB), exist_ok=True)

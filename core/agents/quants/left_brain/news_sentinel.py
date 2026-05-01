@@ -28,7 +28,7 @@ os.chdir(ROOT)
 
 OUTPUT_PATH = "data/intelligence/news_sentiment.json"
 OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
-OLLAMA_MODEL = "gemma4:e4b"
+OLLAMA_MODEL = "gemma4:e2b"
 SCAN_INTERVAL = 120  # 2분마다
 
 # RSS 피드 목록

@@ -32,7 +32,6 @@ os.chdir(ROOT)
 
 MARKET_PATH    = "data/intelligence/market_signals.json"
 NEWS_PATH      = "data/intelligence/news_sentiment.json"
-WEIGHTS_FILE   = "data/intelligence/brain_weights.json"
 OUTPUT_PATH    = "data/intelligence/combined_score.json"
 UPDATE_INTERVAL = 15  # 초
 
@@ -89,15 +88,10 @@ def compute_combined_score(market: dict, news: dict) -> dict:
     whale_count = market.get("whale_trades_count", 0)
     whale_bonus = min(whale_count * 1.5, 8)
 
-    # ── 0. 동적 가중치 로드 ────────────────────────────────
-    weights = read_json(WEIGHTS_FILE)
-    m_w = weights.get("market_weight", 0.60)
-    n_w = weights.get("news_weight", 0.30)
-
     # ── 최종 합산 ─────────────────────────────────────────
     final_score = (
-        market_score_raw * m_w +
-        news_score       * n_w +
+        market_score_raw * 0.60 +
+        news_score       * 0.30 +
         notice_bonus +
         rsi_bonus +
         whale_bonus
@@ -144,9 +138,8 @@ def compute_combined_score(market: dict, news: dict) -> dict:
         "action": action,
         "emoji": emoji,
         "breakdown": {
-            "market_contribution": round(market_score_raw * m_w, 1),
-            "news_contribution": round(news_score * n_w, 1),
-            "weights": {"market": m_w, "news": n_w},
+            "market_contribution": round(market_score_raw * 0.60, 1),
+            "news_contribution": round(news_score * 0.30, 1),
             "notice_bonus": notice_bonus,
             "rsi_bonus": rsi_bonus,
             "whale_bonus": round(whale_bonus, 1),

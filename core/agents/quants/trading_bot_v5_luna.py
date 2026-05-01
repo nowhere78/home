@@ -75,7 +75,7 @@ left_brain = LeftBrainReader(max_age_minutes=5)
 
 # --- [v6] Advanced Risk Management ---
 active_positions = {}
-TRAILING_PERCENT = 0.07 # 7% 손절 라인 (노이즈 방지)
+TRAILING_PERCENT = 0.05 # 5% 손절 라인
 
 def calculate_kelly_fraction(win_probability, reward_to_risk_ratio=1.5):
     """승률 기반 켈리 공식 비중 산출 (Half-Kelly)"""
@@ -281,8 +281,8 @@ def run_v5_engine():
                     if current_alloc < max_alloc and krw_bal > 5000:
                         # [v6] 켈리 공식을 통한 동적 비중 조절
                         kelly_pct = calculate_kelly_fraction(ml_prob, reward_to_risk_ratio=1.5)
-                        # 최소 2%, 최대 30% 사이로 비중 제한 (안전장치 강화)
-                        safe_kelly_pct = max(0.02, min(kelly_pct, 0.30))
+                        # 최소 5%, 최대 30% 사이로 비중 제한 (안전장치)
+                        safe_kelly_pct = max(0.05, min(kelly_pct, 0.30))
                         
                         buy_amount = min(krw_bal * safe_kelly_pct, max_alloc - current_alloc)
                         if buy_amount > 5000:
