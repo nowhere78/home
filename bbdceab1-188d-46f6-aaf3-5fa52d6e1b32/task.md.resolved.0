@@ -1,0 +1,15 @@
+# 📝 Task: Automated Shorts Factory Implementation (V5.6 Pro)
+
+- [ ] **1단계: 환경 및 의존성 준비**
+    - [ ] `pytrends`, `google-generativeai` 라이브러리 설치
+    - [ ] `.env` 파일에 `GEMINI_API_KEY` 플레이스홀더 추가 및 사용자 요청
+- [ ] **2단계: 핵심 엔진 업그레이드 (luna_shorts_pipeline.py)**
+    - [ ] 구글 트렌드 실시간 수집 모듈 구현 (`fetch_google_trends`)
+    - [ ] Gemini AI 기반 바이럴 스크립트 생성 로직 통합 (`generate_gemini_script`)
+    - [ ] V5.6 프리미엄 자막 스타일 시스템 최종 검수
+- [ ] **3단계: 글로벌 확장 레이어 (V5.6)**
+    - [ ] 다국어(영어, 중국어) 자동 번역 모듈 추가
+    - [ ] 글로벌 대응 자막 렌더링 로직 강화
+- [ ] **4단계: 테스트 및 모바일 연동**
+    - [ ] 1호 '황금알' 영상 생성 테스트
+    - [ ] 텔레그램 핸드폰 알림 연동 및 최종 보고

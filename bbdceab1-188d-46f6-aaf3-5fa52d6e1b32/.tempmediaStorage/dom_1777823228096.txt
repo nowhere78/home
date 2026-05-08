@@ -1,0 +1,365 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/drkwonte' />
+	[3] (69,34)<span  />
+		[4] (69,33)<font  />
+			[5] (69,33)<font >드크원테 />
+[6] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/drkwonte/bible-atlas' />
+	[7] (111,34)<span  />
+		[8] (111,33)<font  />
+			[9] (111,33)<font >성경 지도 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (221,139)<a class='d-block overflow-x-hidden color-fg-default' href='/drkwonte/bible-atlas' />
+	[64] (221,138)<font  />
+		[65] (221,138)<font >성경 지도 />
+공공의
+[66] (650,138)<div  />
+	[67] (650,138)<button aria-label='영상 보기: drkwonte/bible-atlas 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_l_' />
+		[68] (645,138)<span  />
+			[69] (644,138)<span  />
+				[70] (644,137)<font  />
+					[71] (644,137)<font >보다 />
+			0
+			(
+			0
+			)
+[72] (705,139)<a class='btn-sm btn BtnGroup-item' href='/drkwonte/bible-atlas/fork' id='fork-button' />
+	[73] (706,139)<font  />
+		[74] (706,141)<font >포크 />
+	[75] (719,138)<span  />
+		[76] (719,138)<font  />
+			[77] (719,138)<font >0 />
+[78] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1218644787' />
+	[79] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[80] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[81] (776,138)<span  />
+		[82] (776,138)<font  />
+			[83] (776,138)<font >별 />
+	[84] (787,138)<span  />
+		[85] (787,138)<font  />
+			[86] (787,138)<font >0 />
+[87] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1218644787-unstarred-button' />
+drkwonte/성경 지도
+[88] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[89] (209,216)<span  />
+		[90] (203,216)<span  />
+			[91] (203,216)<div  />
+				[92] (194,216)<div  />
+				[93] (208,216)<div  />
+					[94] (208,216)<span  />
+						[95] (209,216)<font  />
+							[96] (209,216)<font >기본 />
+[97] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/drkwonte/bible-atlas/branches' />
+	[98] (262,216)<span  />
+		[99] (269,216)<span  />
+			[100] (269,216)<span  />
+				[101] (258,216)<strong  />
+					[102] (257,216)<font  />
+						[103] (257,216)<font >2 />
+				[104] (272,216)<font  />
+					[105] (272,216)<font >개 지점 />
+[106] (308,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/drkwonte/bible-atlas/tags' />
+	[107] (308,216)<span  />
+		[108] (314,216)<span  />
+			[109] (314,216)<span  />
+				[110] (311,216)<strong  />
+					[111] (310,216)<font  />
+						[112] (310,216)<font >태그 0 />
+				[113] (325,216)<font  />
+					[114] (325,216)<font >개 />
+[115] (481,216)<span  />
+	[116] (431,216)<span  />
+	[117] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[118] (531,216)<span  />
+		[119] (531,216)<kbd  />
+			[120] (531,216)<span >t />
+				t
+				[121] (531,216)<span >T />
+파일 추가
+[122] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[123] (572,216)<span  />
+		[124] (572,216)<span  />
+			[125] (572,216)<span  />
+				[126] (566,216)<font  />
+					[127] (566,216)<font >파일 추가 />
+[128] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[129] (628,216)<span  />
+		[130] (628,216)<span  />
+			[131] (628,216)<font  />
+				[132] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[133] (198,278)<a class='prc-Link-Link-9ZwDx' href='/drkwonte' />
+	[134] (196,279)<img  />
+[135] (219,278)<a aria-label='drkwonte의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/commits?author=drkwonte' />
+	[136] (219,278)<font  />
+		[137] (219,278)<font >드크원테 />
+[138] (280,278)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/912847441c232ec153987c79c6457bf6aa8da693' />
+	[139] (280,278)<font  />
+		[140] (280,278)<font >작업: 연락처 이메일 업데이트 />
+[141] (336,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[142] (355,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[143] (562,278)<a aria-label='커밋 9128474' class='Link--secondary prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/commit/912847441c232ec153987c79c6457bf6aa8da693' />
+	[144] (562,278)<font  />
+		[145] (562,278)<font >9128474 />
+·
+4일 전
+역사
+[146] (623,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/drkwonte/bible-atlas/commits/main/' />
+	[147] (623,278)<span  />
+		[148] (629,278)<span  />
+			[149] (629,278)<span  />
+				[150] (629,278)<font  />
+					[151] (629,278)<font >3개의 커밋 />
+[152] (419,328)<tr  />
+	[153] (220,328)<a aria-label='functions/api (디렉토리)' class='Link--primary' href='/drkwonte/bible-atlas/tree/main/functions/api' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[154] (215,328)<span  />
+			[155] (215,328)<font  />
+				[156] (215,328)<font >함수/ />
+		[157] (229,328)<span  />
+			[158] (229,328)<font  />
+				[159] (229,328)<font >API />
+	[160] (461,328)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[161] (461,328)<font  />
+			[162] (461,328)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[163] (419,371)<tr  />
+	[164] (216,371)<a aria-label='공개, (디렉토리)' class='Link--primary' href='/drkwonte/bible-atlas/tree/main/public' title='공공의' />
+		[165] (216,371)<font  />
+			[166] (216,371)<font >공공의 />
+	[167] (461,371)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[168] (461,371)<font  />
+			[169] (461,371)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[170] (419,414)<tr  />
+	[171] (210,415)<a aria-label='src, (디렉토리)' class='Link--primary' href='/drkwonte/bible-atlas/tree/main/src' title='src' />
+		[172] (210,415)<font  />
+			[173] (210,415)<font >src />
+	[174] (424,415)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/912847441c232ec153987c79c6457bf6aa8da693' title='작업: 연락처 이메일 업데이트 공개 연락처 주소를 drkwonte@gmail.com으로 설정하여 연락처 페이지에 올바른 소유자 이메일 주소가 표시되도록 합니다. 제작 도구: Cursor' />
+		[175] (424,415)<font  />
+			[176] (424,415)<font >작업: 연락처 이메일 업데이트 />
+	4일 전
+[177] (419,458)<tr  />
+	[178] (227,458)<a aria-label='.env.example, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/.env.example' title='.env.example' />
+		[179] (227,458)<font  />
+			[180] (227,458)<font >.env.example />
+	[181] (461,458)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[182] (461,458)<font  />
+			[183] (461,458)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[184] (419,501)<tr  />
+	[185] (221,502)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/.gitignore' title='.gitignore' />
+		[186] (221,502)<font  />
+			[187] (221,502)<font >.gitignore />
+	[188] (461,502)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[189] (461,502)<font  />
+			[190] (461,502)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[191] (419,544)<tr  />
+	[192] (226,545)<a aria-label='README.md, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/README.md' title='README.md' />
+		[193] (226,545)<font  />
+			[194] (226,545)<font >README.md />
+	[195] (461,545)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[196] (461,545)<font  />
+			[197] (461,545)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[198] (419,588)<tr  />
+	[199] (228,588)<a aria-label='eslint.config.js, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/eslint.config.js' title='eslint.config.js' />
+		[200] (228,588)<font  />
+			[201] (228,588)<font >eslint.config.js />
+	[202] (461,588)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[203] (461,588)<font  />
+			[204] (461,588)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[205] (419,631)<tr  />
+	[206] (224,632)<a aria-label='index.html, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/index.html' title='인덱스.html' />
+		[207] (224,632)<font  />
+			[208] (224,632)<font >인덱스.html />
+	[209] (461,632)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[210] (461,632)<font  />
+			[211] (461,632)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[212] (419,675)<tr  />
+	[213] (228,675)<a aria-label='package-lock.json, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/package-lock.json' title='패키지-락.json' />
+		[214] (228,675)<font  />
+			[215] (228,675)<font >패키지-락.json />
+	[216] (461,675)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[217] (461,675)<font  />
+			[218] (461,675)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[219] (419,718)<tr  />
+	[220] (223,719)<a aria-label='package.json, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/package.json' title='패키지.json' />
+		[221] (223,719)<font  />
+			[222] (223,719)<font >패키지.json />
+	[223] (461,719)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[224] (461,719)<font  />
+			[225] (461,719)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[226] (419,761)<tr  />
+	[227] (233,762)<a aria-label='tsconfig.app.json, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/tsconfig.app.json' title='tsconfig.app.json' />
+		[228] (233,762)<font  />
+			[229] (233,762)<font >tsconfig.app.json />
+	[230] (461,762)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[231] (461,762)<font  />
+			[232] (461,762)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[233] (419,805)<tr  />
+	[234] (226,805)<a aria-label='tsconfig.json, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/tsconfig.json' title='tsconfig.json' />
+		[235] (226,805)<font  />
+			[236] (226,805)<font >tsconfig.json />
+	[237] (461,805)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[238] (461,805)<font  />
+			[239] (461,805)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[240] (419,848)<tr  />
+	[241] (235,849)<a aria-label='tsconfig.node.json, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/tsconfig.node.json' title='tsconfig.node.json' />
+		[242] (235,849)<font  />
+			[243] (235,849)<font >tsconfig.node.json />
+	[244] (461,849)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[245] (461,849)<font  />
+			[246] (461,849)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[247] (419,892)<tr  />
+	[248] (226,892)<a aria-label='vite.config.ts, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/vite.config.ts' title='vite.config.ts' />
+		[249] (226,892)<font  />
+			[250] (226,892)<font >vite.config.ts />
+	[251] (461,892)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[252] (461,892)<font  />
+			[253] (461,892)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+저장소 파일 탐색
+[254] (213,958)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[255] (196,958)<span  />
+	[256] (219,958)<span  />
+		[257] (219,958)<font  />
+			[258] (219,958)<font >README />
+[259] (620,957)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[260] (641,957)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+에 대한
+작은 성경, 사건 발자취 찾기
+자원
+[261] (699,295)<a class='Link--muted' href='#readme-ov-file' />
+	[262] (705,295)<font  />
+		[263] (705,295)<font >읽어보세요 />
+[264] (689,325)<a class='Link Link--muted' href='/drkwonte/bible-atlas/activity' />
+	[265] (696,325)<span  />
+		[266] (696,325)<font  />
+			[267] (696,325)<font >활동 />
+별들
+[268] (693,356)<a class='Link Link--muted' href='/drkwonte/bible-atlas/stargazers' />
+	[269] (700,356)<font  />
+		[270] (694,356)<font >별 />
+		[271] (705,356)<strong  />
+			[272] (705,356)<font >0 개 />
+감시자들
+[273] (703,387)<a class='Link Link--muted' href='/drkwonte/bible-atlas/watchers' />
+	[274] (698,387)<strong  />
+		[275] (698,387)<font  />
+			[276] (698,387)<font >0명이 />
+	[277] (719,387)<font  />
+		[278] (719,387)<font >시청 중 />
+포크스
+[279] (696,417)<a class='Link Link--muted' href='/drkwonte/bible-atlas/forks' />
+	[280] (704,417)<font  />
+		[281] (697,417)<font >포크 />
+		[282] (711,417)<strong  />
+			[283] (711,417)<font >0 개 />
+[284] (696,448)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdrkwonte%2Fbible-atlas&report=drkwonte+%28user%29' />
+	[285] (696,448)<font  />
+		[286] (696,448)<font >보고서 저장소 />
+[287] (687,506)<a class='Link--primary no-underline Link' href='/drkwonte/bible-atlas/releases' />
+	[288] (687,506)<font  />
+		[289] (687,506)<font >릴리스 />
+발표된 릴리스 없음
+[290] (746,603)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/drkwonte/packages?repo_name=bible-atlas' />
+	[291] (687,603)<font  />
+		[292] (687,603)<font >패키지 />
+게시된 패키지가 없습니다.
+[293] (746,699)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/drkwonte/bible-atlas/graphs/contributors' />
+	[294] (687,699)<font  />
+		[295] (687,699)<font >기고자 />
+	[296] (705,699)<span  />
+		[297] (705,699)<font  />
+			[298] (705,699)<font >1 />
+[299] (683,746)<a class='mr-2' href='https://github.com/drkwonte' />
+	[300] (683,746)<img  />
+[301] (709,746)<a class='Link--primary no-underline flex-self-center' href='https://github.com/drkwonte' />
+	[302] (709,746)<strong  />
+		[303] (709,746)<font  />
+			[304] (709,746)<font >드크원테 />
+언어
+[305] (708,875)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/drkwonte/bible-atlas/search?l=typescript' />
+	[306] (705,875)<span  />
+		[307] (705,875)<font  />
+			[308] (705,875)<font >타입스크립트 />
+	[309] (732,875)<span  />
+		[310] (732,875)<font  />
+			[311] (732,875)<font >98.8% />
+다른
+1.2%
+[312] (736,935)<a class='Link--inTextBlock' href='/google-gemini/aistudio-repository-template' />
+	[313] (736,935)<font >google-gemini/aistudio-repository-template />
+에서 생성됨
+
+</current_dom>

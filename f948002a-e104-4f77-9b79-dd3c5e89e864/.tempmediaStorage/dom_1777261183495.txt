@@ -1,0 +1,119 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%25BF%25A0%25ED%258C%25A1%2B%25EC%25A3%25BC%25EB%25B0%25A9%2B%25EC%258B%25A0%25EB%25B0%2595%25ED%2585%259C%2B2026%2Bbest%2Bsellers%2Bkitchen%2Bgadgets&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (108,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&ved=1t:220175&ictx=111' />
+	[18] (108,121)<div  />
+		[19] (108,130)<span >쇼핑 />
+[20] (167,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQtKgLegQIIBAB' />
+	[21] (167,121)<div  />
+		[22] (167,130)<span >이미지 />
+[23] (248,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQs6gLegQIHxAB' />
+	[24] (248,121)<div  />
+		[25] (248,130)<span >짧은 동영상 />
+[26] (329,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQtKgLegQIHhAB' />
+	[27] (329,121)<div  />
+		[28] (329,130)<span >동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQ0pQJegQIHRAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+[43] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[44] (372,538)<div  />
+		[45] (372,538)<div  />
+			[46] (397,538)<span  />
+웹 검색결과
+[47] (306,662)<a class='zReHs' href='https://pages.coupang.com/m/168515' />
+	[48] (306,682)<h3 >쿠팡이 추천하는 주방 BEST 상품 시크릿 쿠폰 기획전 관련 ... />
+	[49] (150,645)<div  />
+		[50] (150,645)<div  />
+			[51] (57,645)<span  />
+				[52] (57,645)<div  />
+					[53] (57,645)<img  />
+			[54] (171,645)<div  />
+				[55] (171,636)<div  />
+					[56] (171,636)<span >쿠팡 />
+				[57] (171,656)<div  />
+					[58] (171,656)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://pages.coupang.com />
+						[59] (246,656)<span class='ylgVCe ob9lvb' role='text'>› ... />
+[60] (277,655)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (277,655)<span  />
+		[62] (277,656)<span  />
+릿첼 TLI 소프트이유스푼 2종 + 케이스 세트, 혼합색상, 1세트. 10,800원. badge. 글라스락 렌지쿡 촉촉한 햇밥용기 원형 무드브릭, 6개, 350ml.
+무료 배송
+[63] (156,840)<a class='zReHs' href='https://www.tiktok.com/discover/%EC%9D%8C%EC%8B%9D%EB%AA%A8%EC%96%91%ED%81%B4%EB%A6%AD%EC%BB%A4' />
+	[64] (110,860)<h3 >음식모양클릭커 />
+	[65] (156,823)<div  />
+		[66] (156,823)<div  />
+			[67] (57,823)<span  />
+				[68] (57,823)<div  />
+					[69] (57,823)<img  />
+			[70] (176,823)<div  />
+				[71] (176,814)<div  />
+					[72] (176,814)<span >TikTok />
+				[73] (176,834)<div  />
+					[74] (176,834)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.tiktok.com />
+						[75] (238,834)<span class='ylgVCe ob9lvb' role='text'>› Discover />
+[76] (289,833)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (289,833)<span  />
+		[78] (289,834)<span  />
+7일 전
+—
+전동 리프트 카트 추천,
+주방
+필수 아이템,
+쿠팡 신박템
+, 생활 편리한 카트, 주부의 필수템, 쉽게 이동하는 리프트카트, 전동카트 사용법,
+쿠팡
+물품 ...
+[79] (156,994)<a class='zReHs' href='https://www.tiktok.com/discover/amazon%E3%81%A7%E8%B2%B7%E3%81%A3%E3%81%9F%E3%81%97%E3%81%B0%E3%81%93' />
+	[80] (156,978)<div  />
+		[81] (156,978)<div  />
+			[82] (57,978)<span  />
+				[83] (57,978)<div  />
+					[84] (57,978)<img  />
+			[85] (176,978)<div  />
+				[86] (176,968)<div  />
+					[87] (176,968)<span >TikTok />
+				[88] (176,988)<div  />
+					[89] (176,988)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.tiktok.com />
+						[90] (238,988)<span class='ylgVCe ob9lvb' role='text'>› Discover />
+[91] (289,987)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[92] (289,987)<span  />
+		[93] (289,988)<span  />
+
+</current_dom>

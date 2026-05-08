@@ -1,0 +1,15 @@
+# Luna-v6-Soul Training Task List
+
+- [ ] Create Advanced Modelfiles
+    - [ ] Create `Modelfile_luna_soul` (14B)
+    - [ ] Create `Modelfile_luna_fast_soul` (7B)
+- [ ] Execute Model Creation (Ollama)
+    - [ ] Run `ollama create luna-v6-soul -f Modelfile_luna_soul`
+    - [ ] Run `ollama create luna-v6-fast-soul -f Modelfile_luna_fast_soul`
+- [ ] System Integration
+    - [ ] Update `antigravity.config.json`
+    - [ ] Update `llm_bridge.py`
+    - [ ] Update `novel_writer.py`
+- [ ] Verification
+    - [ ] Test persona responsiveness
+    - [ ] Check for Anti-Slop adherence

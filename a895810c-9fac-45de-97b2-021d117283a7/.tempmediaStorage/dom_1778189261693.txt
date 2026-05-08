@@ -1,0 +1,396 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (67,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Augani' />
+		[4] (67,34)<span >Augani />
+	[5] (117,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Augani/openreel-video' />
+		[6] (117,34)<span >openreel-video />
+	[7] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[8] (766,34)<span  />
+			[9] (773,34)<span >Type
+to search />
+				Type
+				/
+				to search
+	[10] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[11] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_14_' />
+	[12] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_19_' />
+		[13] (870,34)<span  />
+	[14] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[15] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[16] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[17] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[18] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[19] (983,34)<img  />
+	Repository navigation
+	[20] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video' />
+		[21] (17,80)<span  />
+		[22] (34,80)<span >Code />
+	[23] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/issues' />
+		[24] (59,80)<span  />
+		[25] (77,80)<span >Issues />
+		[26] (96,80)<span >(
+3
+) />
+			[27] (96,80)<span >3 />
+			(
+			3
+			)
+	[28] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/pulls' />
+		[29] (118,80)<span  />
+		[30] (148,80)<span >Pull requests />
+		[31] (179,80)<span >(
+5
+) />
+			[32] (179,80)<span >5 />
+			(
+			5
+			)
+	[33] (214,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/agents?author=nowhere78' />
+		[34] (201,80)<span  />
+		[35] (221,80)<span >Agents />
+	[36] (263,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/actions' />
+		[37] (249,80)<span  />
+		[38] (270,80)<span >Actions />
+	[39] (314,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/projects' />
+		[40] (298,80)<span  />
+		[41] (320,80)<span >Projects />
+	[42] (385,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/security' />
+		[43] (350,80)<span  />
+		[44] (391,80)<span >Security and quality />
+	[45] (455,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Augani/openreel-video/pulse' />
+		[46] (440,80)<span  />
+		[47] (462,80)<span >Insights />
+[48] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[49] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[50] (65,190)<span  />
+		[51] (58,190)<span  />
+			[52] (58,190)<div  />
+				[53] (19,190)<div  />
+				[54] (35,190)<div  />
+					[55] (35,190)<span >main />
+[56] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/Augani/openreel-video/new/main' />
+[57] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[58] (83,233)<span  />
+	[59] (17,233)<span  />
+	[60] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[61] (148,233)<span  />
+		[62] (148,233)<kbd  />
+			[63] (148,233)<span >t />
+				t
+				[64] (148,233)<span >T />
+[65] (79,624)<div  />
+	[66] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[67] (79,279)<div  />
+			[68] (13,279)<div  />
+			[69] (84,279)<div  />
+				[70] (25,279)<div  />
+					[71] (25,279)<div  />
+				[72] (90,279)<span  />
+					[73] (45,279)<span >.github />
+	[74] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.serena-item' role='treeitem' />
+		[75] (79,314)<div  />
+			[76] (13,314)<div  />
+			[77] (84,314)<div  />
+				[78] (25,313)<div  />
+					[79] (25,313)<div  />
+				[80] (90,314)<span  />
+					[81] (45,314)<span >.serena />
+	[82] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps-item' role='treeitem' />
+		[83] (79,348)<div  />
+			[84] (13,348)<div  />
+			[85] (84,348)<div  />
+				[86] (25,347)<div  />
+					[87] (25,347)<div  />
+				[88] (90,348)<span  />
+					[89] (41,348)<span >apps />
+	[90] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='packages-item' role='treeitem' />
+		[91] (79,382)<div  />
+			[92] (13,382)<div  />
+			[93] (84,382)<div  />
+				[94] (25,382)<div  />
+					[95] (25,382)<div  />
+				[96] (90,382)<span  />
+					[97] (48,382)<span >packages />
+	[98] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts-item' role='treeitem' />
+		[99] (79,416)<div  />
+			[100] (13,416)<div  />
+			[101] (84,416)<div  />
+				[102] (25,416)<div  />
+					[103] (25,416)<div  />
+				[104] (90,416)<span  />
+					[105] (44,416)<span >scripts />
+	[106] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[107] (79,450)<div  />
+			[108] (84,450)<div  />
+				[109] (25,450)<div  />
+				[110] (90,450)<span  />
+					[111] (49,450)<span >.gitignore />
+	[112] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='AGENTS.md-item' role='treeitem' />
+		[113] (79,484)<div  />
+			[114] (84,484)<div  />
+				[115] (25,484)<div  />
+				[116] (90,484)<span  />
+					[117] (53,484)<span >AGENTS.md />
+	[118] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CONTRIBUTING.md-item' role='treeitem' />
+		[119] (79,518)<div  />
+			[120] (84,518)<div  />
+				[121] (25,518)<div  />
+				[122] (90,518)<span  />
+					[123] (65,518)<span >CONTRIBUTING.md />
+	[124] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='DEPLOYMENT.md-item' role='treeitem' />
+		[125] (79,552)<div  />
+			[126] (84,552)<div  />
+				[127] (25,552)<div  />
+				[128] (90,552)<span  />
+					[129] (62,552)<span >DEPLOYMENT.md />
+	[130] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='IMAGE.md-item' role='treeitem' />
+		[131] (79,586)<div  />
+			[132] (84,586)<div  />
+				[133] (25,586)<div  />
+				[134] (90,586)<span  />
+					[135] (50,586)<span >IMAGE.md />
+	[136] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='Image-features.md-item' role='treeitem' />
+		[137] (79,620)<div  />
+			[138] (84,620)<div  />
+				[139] (25,620)<div  />
+				[140] (90,620)<span  />
+					[141] (64,620)<span >Image-features.md />
+	[142] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[143] (79,654)<div  />
+			[144] (84,654)<div  />
+				[145] (25,654)<div  />
+				[146] (90,654)<span  />
+					[147] (47,654)<span >LICENSE />
+	[148] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='OPENREEL_IMAGE_TECH_TASKS.md-item' role='treeitem' />
+		[149] (79,688)<div  />
+			[150] (84,688)<div  />
+				[151] (25,688)<div  />
+				[152] (90,688)<span  />
+					[153] (90,688)<span >OPENREEL_IMAGE_TECH_TASKS.md />
+	[154] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[155] (79,722)<div  />
+			[156] (84,722)<div  />
+				[157] (25,722)<div  />
+				[158] (90,722)<span  />
+					[159] (53,722)<span >README.md />
+	[160] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='llm.txt-item' role='treeitem' />
+		[161] (79,756)<div  />
+			[162] (84,756)<div  />
+				[163] (25,756)<div  />
+				[164] (90,756)<span  />
+					[165] (43,756)<span >llm.txt />
+	[166] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='mediabunny.d.ts-item' role='treeitem' />
+		[167] (79,790)<div  />
+			[168] (84,790)<div  />
+				[169] (25,790)<div  />
+				[170] (90,790)<span  />
+					[171] (60,790)<span >mediabunny.d.ts />
+	[172] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[173] (79,824)<div  />
+			[174] (84,824)<div  />
+				[175] (25,824)<div  />
+				[176] (90,824)<span  />
+					[177] (54,824)<span >package.json />
+	[178] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-lock.yaml-item' role='treeitem' />
+		[179] (79,858)<div  />
+			[180] (84,858)<div  />
+				[181] (25,858)<div  />
+				[182] (90,858)<span  />
+					[183] (59,858)<span >pnpm-lock.yaml />
+	[184] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-workspace.yaml-item' role='treeitem' />
+		[185] (79,893)<div  />
+			[186] (84,893)<div  />
+				[187] (25,892)<div  />
+				[188] (90,893)<span  />
+					[189] (70,893)<span >pnpm-workspace.yaml />
+	[190] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='start.sh-item' role='treeitem' />
+		[191] (79,927)<div  />
+			[192] (84,927)<div  />
+				[193] (25,927)<div  />
+				[194] (90,927)<span  />
+					[195] (45,927)<span >start.sh />
+	[196] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.base.json-item' role='treeitem' />
+		[197] (79,961)<div  />
+			[198] (84,961)<div  />
+				[199] (25,961)<div  />
+				[200] (90,961)<span  />
+					[201] (62,961)<span >tsconfig.base.json />
+[202] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[203] (204,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/Augani/openreel-video/tree/main'>openreel-video />
+/
+mediabunny.d.ts
+[204] (318,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[205] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_5e_' />
+Latest commit
+[206] (190,198)<a class='prc-Link-Link-9ZwDx' href='/Augani' />
+	[207] (188,199)<img  />
+[208] (209,198)<a aria-label='commits by Augani' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/Augani/openreel-video/commits?author=Augani'>Augani />
+[209] (343,198)<a class='Link--secondary' href='/Augani/openreel-video/commit/cfa29d81b48b11a569dc8fcdbb837fa7ffbfd0be'>Initial commit: OpenReel Video - Professional browser-based video editor />
+[210] (472,198)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[211] (904,198)<a aria-label='Commit 762ba73' class='Link--secondary prc-Link-Link-9ZwDx' href='/Augani/openreel-video/commit/cfa29d81b48b11a569dc8fcdbb837fa7ffbfd0be'>cfa29d8 />
+·
+History
+[212] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/Augani/openreel-video/commits/main/mediabunny.d.ts' />
+	[213] (967,198)<span  />
+		[214] (972,198)<span  />
+			[215] (972,197)<span >History />
+File metadata and controls
+[216] (196,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[217] (196,263)<span  />
+		[218] (196,263)<div >Code />
+[219] (228,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[220] (228,263)<span  />
+		[221] (228,263)<div >Blame />
+3391 lines (3231 loc) · 124 KB
+[222] (857,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_67_' />
+[223] (876,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[224] (898,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/Augani/openreel-video/raw/refs/heads/main/mediabunny.d.ts' />
+	[225] (898,263)<span  />
+		[226] (898,263)<span >Raw />
+[227] (915,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[228] (929,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[229] (947,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/Augani/openreel-video/edit/main/mediabunny.d.ts' />
+[230] (961,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_6m_' />
+[231] (980,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[232] (202,307)<div >1 />
+[233] (202,328)<div >2 />
+[234] (202,349)<div >3 />
+[235] (202,370)<div >4 />
+[236] (202,392)<div >5 />
+[237] (202,413)<div >6 />
+[238] (202,434)<div >7 />
+[239] (202,455)<div >8 />
+[240] (202,476)<div >9 />
+[241] (202,497)<div >10 />
+[242] (202,519)<div >11 />
+[243] (202,540)<div >12 />
+[244] (202,561)<div >13 />
+[245] (202,582)<div >14 />
+[246] (202,603)<div >15 />
+[247] (202,624)<div >16 />
+[248] (202,646)<div >17 />
+[249] (202,667)<div >18 />
+[250] (202,688)<div >19 />
+[251] (202,709)<div >20 />
+[252] (202,730)<div >21 />
+[253] (202,751)<div >22 />
+[254] (202,772)<div >23 />
+[255] (202,794)<div >24 />
+[256] (202,815)<div >25 />
+[257] (202,836)<div >26 />
+[258] (202,857)<div >27 />
+[259] (202,878)<div >28 />
+[260] (202,899)<div >29 />
+	[261] (214,901)<div aria-label='Collapse code section' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+[262] (202,921)<div >30 />
+[263] (202,942)<div >31 />
+[264] (202,963)<div >32 />
+[265] (202,984)<div >33 />
+34
+/// <reference types="dom-mediacapture-transform" />
+/// <reference types="dom-webcodecs" />
+/**
+* ADTS input format singleton.
+*
+@group
+Input formats
+*
+@public
+*/
+export
+declare
+const
+ADTS
+:
+AdtsInputFormat
+;
+/**
+* ADTS file format.
+*
+* Do not instantiate this class; use the {
+@link
+ADTS} singleton instead.
+*
+*
+@group
+Input formats
+*
+@public
+*/
+export
+declare
+class
+AdtsInputFormat
+extends
+InputFormat
+{
+get
+name
+(
+)
+:
+string
+;
+get
+mimeType
+(
+)
+:
+string
+;
+}
+/**
+* ADTS file format.
+*
+@group
+Output formats
+*
+@public
+*/
+export
+declare
+class
+AdtsOutputFormat
+extends
+OutputFormat
+{
+/** Creates a new {
+@link
+AdtsOutputFormat} configured with the specified `options`. */
+constructor
+(
+options
+?:
+AdtsOutputFormatOptions
+)
+;
+getSupportedTrackCounts
+(
+)
+:
+TrackCountLimits
+;
+get
+fileExtension
+(
+)
+:
+string
+;
+get
+mimeType
+(
+)
+:
+string
+;
+
+</current_dom>

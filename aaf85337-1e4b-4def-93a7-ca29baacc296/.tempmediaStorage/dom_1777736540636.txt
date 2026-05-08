@@ -1,0 +1,125 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (116,114)<a class='ytp-paid-content-overlay-link' href='https://support.google.com/youtube?p=ppp&nohelpkit=1' />
+	[1] (79,114)<div  />
+	[2] (90,114)<div  />
+	[3] (121,114)<div >유료 광고 포함 />
+	[4] (152,114)<div  />
+[5] (428,853)<div  />
+	[6] (428,853)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[7] (428,848)<div  />
+		[8] (428,853)<div  />
+		[9] (71,853)<div  />
+			[10] (71,853)<div  />
+[11] (82,886)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[12] (109,886)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[13] (151,886)<div  />
+	[14] (151,886)<div  />
+		[15] (151,886)<div aria-label='0 분 0 초/18 분 42 초' class='ytp-time-contents' role='button' />
+			[16] (139,885)<span >0:00 />
+			[17] (149,885)<span >/ />
+			[18] (162,885)<span >18:42 />
+[19] (696,886)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[20] (696,898)<div  />
+[21] (721,886)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[22] (746,886)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[23] (771,886)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[24] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[25] (19,30)<yt-icon  />
+[26] (480,30)<div  />
+	[27] (476,30)<form  />
+		[28] (476,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[29] (620,30)<div  />
+		[30] (620,30)<ytd-text-input-assistant  />
+			[31] (620,30)<button class='ytdTextInputAssistantButton' />
+				[32] (620,30)<img  />
+[33] (647,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[34] (647,30)<span  />
+영상 AI는 이걸로 끝입니다
+[35] (37,976)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@pptpro' />
+	[36] (34,975)<yt-img-shadow  />
+[37] (70,967)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@pptpro'>피피티프로 />
+구독자 12만명
+[38] (118,976)<button aria-label='이 채널 가입' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	가입
+	[39] (118,976)<yt-touch-feedback-shape  />
+		[40] (118,976)<div  />
+[41] (152,976)<button aria-label='피피티프로을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[42] (152,976)<yt-touch-feedback-shape  />
+		[43] (152,976)<div  />
+441
+[44] (561,976)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[45] (561,976)<yt-touch-feedback-shape  />
+		[46] (561,976)<div  />
+[47] (600,976)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[48] (600,976)<yt-touch-feedback-shape  />
+		[49] (600,976)<div  />
+[50] (653,976)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[51] (653,976)<yt-touch-feedback-shape  />
+		[52] (653,976)<div  />
+[53] (706,976)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[54] (706,976)<yt-touch-feedback-shape  />
+		[55] (706,976)<div  />
+[56] (741,976)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[57] (741,976)<yt-touch-feedback-shape  />
+		[58] (741,976)<div  />
+모두
+피피티프로 제공
+관련 콘텐츠
+추천
+최근에 업로드된 동영상
+[59] (956,110)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[60] (956,110)<yt-touch-feedback-shape  />
+		[61] (956,110)<div  />
+12:17
+카메라 없이 영화 찍는 시대가 왔습니다.
+피피티프로
+조회수 13만회
+•
+1개월 전
+[62] (964,149)<div  />
+	[63] (964,149)<button-view-model  />
+		[64] (964,149)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[65] (964,149)<yt-touch-feedback-shape  />
+				[66] (964,149)<div  />
+2:03:09
+[67] (902,266)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>편안하게 듣는 힐송 재즈 | 𝙍𝙚𝙡𝙖𝙭 | 𝙎𝙩𝙪𝙙𝙮 | 𝙒𝙤𝙧𝙠 | 𝘾𝙖𝙛𝙚 />
+Christian BGM 크리스찬 BGM
+조회수 10만회
+•
+10개월 전
+[68] (964,258)<div  />
+	[69] (964,258)<button-view-model  />
+		[70] (964,258)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[71] (964,258)<yt-touch-feedback-shape  />
+				[72] (964,258)<div  />
+8:44
+[73] (903,395)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>내 영혼의 그윽히 깊은 데서 | Far Away in the Depths of My Spirit | 2025 Worship Conference | BORN ZEAL />
+아이자야씩스티원 Isaiah6tyOne
+조회수 15만회
+•
+6개월 전
+[74] (964,366)<div  />
+	[75] (964,366)<button-view-model  />
+		[76] (964,366)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[77] (964,366)<yt-touch-feedback-shape  />
+				[78] (964,366)<div  />
+20:46
+"70살 할아버지도 월 7천" 왕초보 시니어도 가능한 AI 부업으로 돈 버는 방법
+배워야산다
+조회수 1.6만회
+•
+1개월 전
+[79] (964,475)<div  />
+	[80] (964,475)<button-view-model  />
+		[81] (964,475)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[82] (964,475)<yt-touch-feedback-shape  />
+				[83] (964,475)<div  />
+
+</current_dom>

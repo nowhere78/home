@@ -1,0 +1,270 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (144,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/aden-hive' />
+	[3] (144,34)<span  />
+		[4] (144,33)<font  />
+			[5] (144,33)<font >아덴하이브 />
+[6] (220,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/aden-hive/hive' />
+	[7] (220,34)<span  />
+		[8] (220,33)<font  />
+			[9] (220,33)<font >벌집 />
+[10] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[11] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[12] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[13] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[14] (740,34)<span  />
+[15] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[16] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[17] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[18] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[19] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[20] (967,34)<img  />
+저장소 탐색
+[21] (42,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive' />
+	[22] (42,81)<span  />
+		[23] (42,81)<font  />
+			[24] (42,81)<font >암호 />
+[25] (127,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/issues' />
+	[26] (105,81)<span  />
+		[27] (105,81)<font  />
+			[28] (105,81)<font >문제점 />
+	[29] (151,81)<span  />
+		[30] (151,81)<span  />
+			[31] (151,81)<font  />
+				[32] (151,81)<font >868 />
+		(
+		868
+		)
+[33] (258,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/pulls' />
+	[34] (236,81)<span  />
+		[35] (236,81)<font  />
+			[36] (236,81)<font >풀 리퀘스트 />
+	[37] (305,81)<span  />
+		[38] (305,81)<span  />
+			[39] (305,81)<font  />
+				[40] (305,81)<font >406 />
+		(
+		406
+		)
+[41] (383,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/agents?author=nowhere78' />
+	[42] (383,81)<span  />
+		[43] (383,81)<font  />
+			[44] (383,81)<font >자치령 대표 />
+[45] (482,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/discussions' />
+	[46] (482,81)<span  />
+		[47] (482,81)<font  />
+			[48] (482,81)<font >토론 />
+[49] (570,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/actions' />
+	[50] (570,81)<span  />
+		[51] (570,81)<font  />
+			[52] (570,81)<font >행위 />
+[53] (646,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/projects' />
+	[54] (646,81)<span  />
+		[55] (646,81)<font  />
+			[56] (646,81)<font >프로젝트 />
+[57] (764,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/security' />
+	[58] (764,81)<span  />
+		[59] (764,81)<font  />
+			[60] (764,81)<font >보안 및 품질 />
+[61] (882,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/pulse' />
+	[62] (882,81)<span  />
+		[63] (882,81)<font  />
+			[64] (882,81)<font >인사이트 />
+[65] (33,140)<button class='prc-Button-ButtonBase-9n-Xk react-tree-toggle-button-with-indicator position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+[66] (110,140)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector-wide' />
+	[67] (110,140)<span  />
+		[68] (98,140)<span  />
+			[69] (98,140)<div  />
+				[70] (80,140)<div  />
+				[71] (108,140)<div  />
+					[72] (108,140)<span  />
+						[73] (110,140)<font  />
+							[74] (110,140)<font >기본 />
+빵가루
+[75] (195,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/aden-hive/hive/tree/main' />
+	[76] (195,139)<font  />
+		[77] (195,139)<font >벌집 />
+/
+문서
+/
+[78] (310,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+[79] (708,140)<span  />
+	[80] (606,140)<span  />
+	[81] (706,140)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[82] (808,140)<span  />
+		[83] (808,140)<kbd  />
+			[84] (808,140)<span >t />
+				t
+				[85] (808,140)<span >T />
+파일 추가
+[86] (891,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_7l_' />
+	[87] (891,140)<span  />
+		[88] (891,140)<span  />
+			[89] (891,140)<span  />
+				[90] (882,140)<font  />
+					[91] (882,140)<font >파일 추가 />
+더 많은 옵션
+[92] (967,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='더 많은 옵션' />
+최신 커밋
+[93] (111,198)<a aria-label='RichardTang-Aden의 커밋' class='AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx' href='/aden-hive/hive/commits?author=RichardTang-Aden' />
+	[94] (111,198)<font  />
+		[95] (111,198)<font >리차드탕-아덴 />
+그리고
+[96] (223,198)<a aria-label='클로드의 커밋' class='AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx' href='/aden-hive/hive/commits?author=claude' />
+	[97] (223,198)<font  />
+		[98] (223,198)<font >클로드 />
+[99] (313,198)<a class='Link--secondary' href='/aden-hive/hive/commit/445c9600ab3b3ddd5885de48a6bd95de40b6e1f9' />
+	[100] (313,198)<font  />
+		[101] (313,198)<font >작업: v0.10.5 릴리스 />
+[102] (398,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[103] (436,198)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[104] (874,198)<a aria-label='커밋 445c960' class='Link--secondary prc-Link-Link-9ZwDx' href='/aden-hive/hive/commit/445c9600ab3b3ddd5885de48a6bd95de40b6e1f9' />
+	[105] (874,198)<font  />
+		[106] (874,198)<font >445c960 />
+·
+싫다
+역사
+[107] (956,198)<a aria-label='이 파일의 커밋 기록을 보려면 여기를 클릭하세요.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/aden-hive/hive/commits/main/docs' />
+	[108] (956,198)<span  />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[109] (500,304)<tr  />
+	상위 디렉토리
+	[110] (500,305)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/aden-hive/hive/tree/main' />
+		[111] (500,305)<div  />
+			[112] (67,305)<font  />
+				[113] (67,305)<font >.. />
+[114] (500,347)<tr  />
+	[115] (82,347)<a aria-label='건축, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/architecture' title='건축학' />
+		[116] (82,347)<font  />
+			[117] (82,347)<font >건축학 />
+	[118] (509,347)<a class='Link--secondary' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0' title='기능: 작업자 에이전트 메모리' />
+		[119] (509,347)<font  />
+			[120] (509,347)<font >기능: 작업자 에이전트 메모리 />
+	3주 전
+[121] (500,390)<tr  />
+	[122] (75,391)<a aria-label='기사, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/articles' title='조항' />
+		[123] (75,391)<font  />
+			[124] (75,391)<font >조항 />
+	[125] (515,391)<a class='Link--secondary' href='/aden-hive/hive/commit/645792fb1aca1ef69fbc1c4af5a23477d4d501e5' title='문서: 오래된 문서를 삭제합니다' />
+		[126] (515,391)<font  />
+			[127] (515,391)<font >문서: 오래된 문서를 삭제합니다 />
+	왜냐
+[128] (500,434)<tr  />
+	[129] (75,434)<a aria-label='자산, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/assets' title='자산' />
+		[130] (75,434)<font  />
+			[131] (75,434)<font >자산 />
+	[132] (536,434)<a class='Link--secondary' href='/aden-hive/hive/commit/cd2e64bcc886e4ca792e744534299c90879f337e' title='README 파일, 채용 공고, 스타일 변경' />
+		[133] (536,434)<font  />
+			[134] (536,434)<font >README 파일, 채용 공고, 스타일 변경 />
+	3개월 전
+[135] (500,477)<tr  />
+	[136] (111,478)<a aria-label='현상금 프로그램, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/bounty-program' title='현상금 프로그램' />
+		[137] (111,478)<font  />
+			[138] (111,478)<font >현상금 프로그램 />
+	[139] (473,478)<a class='Link--secondary' href='/aden-hive/hive/commit/6452fe7feffc91a6aa8d41e2047b3a91611b8c96' title='수정: 디스코드 봇' />
+		[140] (473,478)<font  />
+			[141] (473,478)<font >수정: 디스코드 봇 />
+	왜냐
+[142] (500,521)<tr  />
+	[143] (87,521)<a aria-label='i18n, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/i18n' title='아이18n' />
+		[144] (87,521)<font  />
+			[145] (87,521)<font >아이18n />
+	[146] (600,521)<a class='Link--secondary' href='/aden-hive/hive/commit/cbd2c86bbfbe29b5eca801efa53053e3c935b376' title='문서: 모든 i18n README를 기본 README와 동기화합니다.' />
+		[147] (600,521)<font  />
+			[148] (600,521)<font >문서: 모든 i18n README를 기본 README와 동기화합니다. />
+	왜냐
+[149] (500,564)<tr  />
+	[150] (90,565)<a aria-label='key_concepts, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/key_concepts' title='핵심 개념' />
+		[151] (90,565)<font  />
+			[152] (90,565)<font >핵심 개념 />
+	[153] (509,565)<a class='Link--secondary' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0' title='기능: 작업자 에이전트 메모리' />
+		[154] (509,565)<font  />
+			[155] (509,565)<font >기능: 작업자 에이전트 메모리 />
+	3주 전
+[156] (500,608)<tr  />
+	[157] (82,608)<a aria-label='릴리스, (디렉토리)' class='Link--primary' href='/aden-hive/hive/tree/main/docs/releases' title='릴리스' />
+		[158] (82,608)<font  />
+			[159] (82,608)<font >릴리스 />
+	[160] (482,608)<a class='Link--secondary' href='/aden-hive/hive/commit/445c9600ab3b3ddd5885de48a6bd95de40b6e1f9' title='작업: v0.10.5 릴리스 - 캐시 인식 비용 보고 + 새로운 프론티어 모델(GPT-5.5, DeepSeek V4 Pro/Flash, GLM-5.1). cache_control이 이제 OpenRouter 하위 공급자(anthropic/gemini/glm/minimax)를 통해 전파되므로 정적 시스템 접두사가 실제로 캐시에 적용되고 모든 응답/완료 이벤트는 4개 소스 대체 체인에서 계산된 cost_usd를 포함합니다. 공동 저자: Claude Opus 4.7 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[161] (482,608)<font  />
+			[162] (482,608)<font >작업: v0.10.5 릴리스 />
+	싫다
+[163] (500,651)<tr  />
+	[164] (101,651)<a aria-label='행동강령.md (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/CODE_OF_CONDUCT.md' title='행동강령.md' />
+		[165] (101,651)<font  />
+			[166] (101,651)<font >행동강령.md />
+	[167] (517,651)<a class='Link--secondary' href='/aden-hive/hive/commit/26b8b2f4487e8f2e25503ba19ffd6615975bd38c' title='집안일: 사용하지 않는 문서 이동' />
+		[168] (517,651)<font  />
+			[169] (517,651)<font >집안일: 사용하지 않는 문서 이동 />
+	2개월 전
+[170] (500,694)<tr  />
+	[171] (140,695)<a aria-label='aden-credential-sync.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/aden-credential-sync.md' title='아덴 자격 증명 동기화.md' />
+		[172] (140,695)<font  />
+			[173] (140,695)<font >아덴 자격 증명 동기화.md />
+	[174] (502,695)<a class='Link--secondary' href='/aden-hive/hive/commit/8fc7fff496261e425ee221d5c4cf36621b837152' title='기능: 로그 llm 턴 정지 이유' />
+		[175] (502,695)<font  />
+			[176] (502,695)<font >기능: 로그 llm 턴 정지 이유 />
+	2개월 전
+[177] (500,738)<tr  />
+	[178] (124,738)<a aria-label='agent_runtime.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/agent_runtime.md' title='에이전트_런타임.md' />
+		[179] (124,738)<font  />
+			[180] (124,738)<font >에이전트_런타임.md />
+	[181] (566,738)<a class='Link--secondary' href='/aden-hive/hive/commit/318ecfd508f9d6c653947708376a745f6c8ced2a' title='리팩토링: 공유 메모리를 데이터 버퍼로 리팩토링' />
+		[182] (566,738)<font  />
+			[183] (566,738)<font >리팩토링: 공유 메모리를 데이터 버퍼로 리팩토링 />
+	3주 전
+[184] (500,781)<tr  />
+	[185] (165,782)<a aria-label='browser-extension-setup.html, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/browser-extension-setup.html' title='브라우저 확장 프로그램 설정.html' />
+		[186] (165,782)<font  />
+			[187] (165,782)<font >브라우저 확장 프로그램 설정.html />
+	[188] (513,782)<a class='Link--secondary' href='/aden-hive/hive/commit/cd9a625041c265a8fcf1c3c7cd6d3f7a5bc89893' title='수정: 동적 절대 경로 및 명령어' />
+		[189] (513,782)<font  />
+			[190] (513,782)<font >수정: 동적 절대 경로 및 명령어 />
+	3주 전
+[191] (500,825)<tr  />
+	[192] (87,825)<a aria-label='configuration.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/configuration.md' title='구성.md' />
+		[193] (87,825)<font  />
+			[194] (87,825)<font >구성.md />
+	[195] (621,825)<a class='Link--secondary' href='/aden-hive/hive/commit/b763226a64541c9c0d2a15059d791043fb2f1d70' title='문서: 오케스트레이터/호스트/로더 이름 변경에 대한 참조 업데이트' />
+		[196] (621,825)<font  />
+			[197] (621,825)<font >문서: 오케스트레이터/호스트/로더 이름 변경에 대한 참조 업데이트 />
+	2주 전
+[198] (500,868)<tr  />
+	[199] (147,869)<a aria-label='contributing-lint-setup.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/contributing-lint-setup.md' title='contributing-lint-setup.md' />
+		[200] (147,869)<font  />
+			[201] (147,869)<font >contributing-lint-setup.md />
+	[202] (619,869)<a class='Link--secondary' href='/aden-hive/hive/commit/24ef2c247d4d8a7d0de6a7e7fd33e88c18365f16' title='작업: editorconfig 및 gitattributes 정리, 사용하지 않는 참조 삭제' />
+		[203] (619,869)<font  />
+			[204] (619,869)<font >작업: editorconfig 및 gitattributes 정리, 사용하지 않는 참조 삭제 />
+	공지사항
+[205] (500,912)<tr  />
+	[206] (116,912)<a aria-label='개발자 가이드.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/developer-guide.md' title='개발자 가이드.md' />
+		[207] (116,912)<font  />
+			[208] (116,912)<font >개발자 가이드.md />
+	[209] (481,912)<a class='Link--secondary' href='/aden-hive/hive/commit/30ad3edfbf91543d3e54edb3c4c4b1ea0bb6cab1' title='문서: README 개선' />
+		[210] (481,912)<font  />
+			[211] (481,912)<font >문서: README 개선 />
+	3주 전
+[212] (500,955)<tr  />
+	[213] (132,956)<a aria-label='draft-flowchart-schema.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/draft-flowchart-schema.md' title='초안 흐름도 스키마.md' />
+		[214] (132,956)<font  />
+			[215] (132,956)<font >초안 흐름도 스키마.md />
+	기능: 작업자 에이전트 메모리
+	3주 전
+[216] (103,999)<a aria-label='환경설정.md, (파일)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/environment-setup.md' title='환경 설정.md' />
+	[217] (103,999)<font  />
+		[218] (103,999)<font >환경 설정.md />
+기본 저장 경로를 /tmp에서 ~/.hive/agents/{agent_name}/로 업데이트합니다(
+…
+3주 전
+
+</current_dom>

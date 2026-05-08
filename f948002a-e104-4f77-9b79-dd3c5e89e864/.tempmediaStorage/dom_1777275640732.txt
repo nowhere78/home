@@ -1,0 +1,422 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div class='sc-BuZMY eZsyOn' scrollable='true' />
+		[2] (14,35)<button aria-label='Go Back' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Go Back'>arrow_back />
+		[3] (474,35)<input aria-label='Kaggle에서 검색' class='sc-hlRwsT fTRnHJ' />
+		[4] (943,35)<button aria-label='Search on Kaggle' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Search on Kaggle'>search />
+		[5] (970,35)<button aria-label='Exit Search' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Exit Search'>clear />
+		[6] (55,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[7] (27,122)<span >code />
+			[8] (62,122)<span  />
+				[9] (47,121)<font  />
+					[10] (47,121)<font >노트북 />
+				[11] (75,121)<span  />
+					[12] (75,121)<font  />
+						[13] (75,121)<font >1,494권 />
+		[14] (133,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[15] (111,122)<span >reply />
+			[16] (140,122)<span  />
+				[17] (128,121)<font  />
+					[18] (128,121)<font >댓글 />
+				[19] (150,121)<span  />
+					[20] (150,121)<font  />
+						[21] (150,121)<font >505개 />
+		[22] (219,122)<button aria-label='Press backspace to remove chip.' class='sc-eYKebJ flClfg selected has-remove' role='checkbox' />
+			[23] (183,122)<span >table_chart />
+			[24] (220,122)<span  />
+				[25] (211,121)<font  />
+					[26] (211,121)<font >데이터 세트 />
+				[27] (240,121)<span  />
+					[28] (240,121)<font  />
+						[29] (240,121)<font >294 />
+			[30] (255,122)<span aria-label='Close' class='google-symbols notranslate MuiIcon-root MuiIcon-fontSizeMedium sc-bYwwMP imVSoW notranslate sc-dMaanw gQgilA css-1jgtvd5' role='button' title='Close'>close />
+		[31] (302,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[32] (284,122)<span >comment />
+			[33] (309,122)<span  />
+				[34] (301,121)<font  />
+					[35] (301,121)<font >주제 />
+				[36] (319,121)<span  />
+					[37] (319,121)<font  />
+						[38] (319,121)<font >239 />
+		[39] (387,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[40] (349,122)<span  />
+			[41] (394,122)<span  />
+				[42] (388,121)<font  />
+					[43] (388,121)<font >포옹하는 얼굴 모델 />
+				[44] (426,121)<span  />
+					[45] (426,121)<font  />
+						[46] (426,121)<font >12 />
+		[47] (466,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[48] (453,122)<span >emoji_events />
+			[49] (473,122)<span  />
+				[50] (470,121)<font  />
+					[51] (470,121)<font >대회 />
+				[52] (483,121)<span  />
+					[53] (483,121)<font  />
+						[54] (483,121)<font >1 />
+		[55] (521,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[56] (508,122)<span >tenancy />
+			[57] (528,122)<span  />
+				[58] (525,121)<font  />
+					[59] (525,121)<font >모델 />
+				[60] (538,121)<span  />
+					[61] (538,121)<font  />
+						[62] (538,121)<font >1 />
+		필터 기준
+		날짜
+		[63] (36,292)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[64] (20,292)<span  />
+				[65] (20,292)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[66] (47,292)<span  />
+				[67] (47,292)<p  />
+					[68] (47,292)<font  />
+						[69] (47,292)<font >지난 90일 />
+		230
+		[70] (31,337)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[71] (20,337)<span  />
+				[72] (20,337)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[73] (42,337)<span  />
+				[74] (42,337)<p  />
+					[75] (42,336)<font  />
+						[76] (42,336)<font >이번 주 />
+		18
+		[77] (27,381)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[78] (20,381)<span  />
+				[79] (20,381)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[80] (38,381)<span  />
+				[81] (38,381)<p  />
+					[82] (38,380)<font  />
+						[83] (38,380)<font >오늘 />
+		6
+		창조자
+		[84] (23,472)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[85] (20,472)<span  />
+				[86] (20,472)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[87] (34,472)<span  />
+				[88] (34,472)<p  />
+					[89] (34,471)<font  />
+						[90] (34,471)<font >너 />
+		0
+		[91] (27,516)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[92] (20,516)<span  />
+				[93] (20,516)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[94] (38,516)<span  />
+				[95] (38,516)<p  />
+					[96] (38,516)<font  />
+						[97] (38,516)<font >기타 />
+		2,534
+		주제 유형
+		[98] (31,607)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[99] (20,607)<span  />
+				[100] (20,607)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[101] (42,607)<span  />
+				[102] (42,607)<p  />
+					[103] (42,607)<font  />
+						[104] (42,607)<font >글 작성 />
+		114
+		[105] (43,652)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[106] (20,652)<span  />
+				[107] (20,652)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[108] (54,652)<span  />
+				[109] (54,652)<p  />
+					[110] (54,651)<font  />
+						[111] (54,651)<font >모든 주제 및 글 />
+		239
+		작성 유형
+		[112] (91,765)<fieldset class='sc-bpSeEy dnVhtq' role='listbox' />
+			[113] (45,743)<label aria-label='해커톤 프로젝트, 109개 결과' class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+				[114] (20,743)<span  />
+					[115] (20,743)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+				[116] (56,743)<span  />
+					[117] (56,743)<p  />
+						[118] (56,742)<font  />
+							[119] (56,742)<font >해커톤 프로젝트 />
+			109
+			[120] (33,787)<label aria-label='프로젝트, 결과 5개' class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+				[121] (20,787)<span  />
+					[122] (20,787)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+				[123] (44,787)<span  />
+					[124] (44,787)<p  />
+						[125] (44,787)<font  />
+							[126] (44,787)<font >프로젝트 />
+			5
+		2,546개 결과
+		[127] (621,211)<div  />
+			[128] (621,211)<div aria-label='콤보박스를 선택하세요. 현재 '관련성'이 선택되어 있습니다.' class='MuiSelect-select MuiSelect-standard MuiInputBase-input MuiInput-input css-1ii1y2a' role='combobox' />
+				[129] (617,211)<div  />
+					[130] (617,211)<div  />
+						[131] (613,211)<font  />
+							[132] (613,211)<font >관련성 />
+		[133] (390,308)<a aria-label='다음 글에 댓글을 남겨주세요:' class='sc-XaaoV fdjENb' href='/code/purusachdeva/stock-sentiment-analysis/comments#2668626' role='link' />
+			[134] (394,308)<div  />
+				[135] (205,308)<div  />
+					[136] (205,308)<div  />
+						[137] (205,308)<span  />
+							[138] (218,333)<div  />
+								[139] (218,333)<span >reply />
+				[140] (289,308)<div  />
+					[141] (289,287)<div  />
+						[142] (281,287)<font  />
+							[143] (281,287)<font >다음 글에 댓글을 남겨주세요: />
+					[144] (289,310)<span  />
+						[145] (244,310)<font  />
+							[146] (244,310)<font >토론 댓글 />
+						[147] (259,310)<font  />
+							[148] (259,310)<font >· />
+						[149] (270,310)<span  />
+							[150] (270,310)<font  />
+								[151] (270,310)<font >2년 전 />
+						[152] (281,310)<font  />
+							[153] (281,310)<font >· />
+						[154] (316,310)<font  />
+							[155] (295,310)<font >작성자: />
+							[156] (327,310)<a aria-label='Ahmad Rafiee opens in new window' class='sc-lmgQQD hpXnyH' href='/ahmadrafiee' />
+								[157] (327,310)<font >Ahmad Rafiee />
+					[158] (289,331)<span  />
+						[159] (253,331)<font  />
+							[160] (239,331)<a aria-label='Notebooks opens in new window' class='sc-lmgQQD hpXnyH' href='/code/purusachdeva/stock-sentiment-analysis/comments' />
+								[161] (239,331)<font >노트북 />
+							[162] (255,331)<font >포럼 />
+							[163] (269,331)<font >에서 />
+		[164] (615,287)<div  />
+			arrow_drop_up
+			0
+		답글 0개
+		[165] (387,411)<a aria-label='주식 시장 심리 분석' class='sc-XaaoV fdjENb' href='/code/purusachdeva/stock-sentiment-analysis' role='link' />
+			[166] (391,411)<div  />
+				[167] (205,411)<div  />
+					[168] (205,411)<div  />
+						[169] (205,411)<span  />
+							[170] (218,436)<div  />
+								[171] (218,436)<span >code />
+				[172] (378,411)<div  />
+					[173] (378,389)<div  />
+						[174] (264,389)<span  />
+							[175] (264,389)<span  />
+								[176] (264,389)<font  />
+									[177] (264,389)<font >주식 시장 심리 분석 />
+					[178] (378,413)<span  />
+						[179] (240,412)<font  />
+							[180] (240,412)<font >노트북 />
+						[181] (252,412)<font  />
+							[182] (252,412)<font >· />
+						[183] (262,412)<span  />
+							[184] (262,412)<font  />
+								[185] (262,412)<font >2년 전 />
+						[186] (274,412)<font  />
+							[187] (274,412)<font >· />
+						[188] (287,412)<font  />
+							[189] (287,412)<font >작성자: />
+						[190] (321,413)<a aria-label='푸루 사츠데바 opens in new window' class='sc-lmgQQD hpXnyH' href='/purusachdeva' />
+							[191] (321,412)<font  />
+								[192] (321,412)<font >Puru Sachdeva />
+					[193] (378,434)<span  />
+						[194] (378,433)<span  />
+							[195] (275,433)<font  />
+								[196] (275,433)<font >--- # ** 뉴스 헤드라인을 활용한 />
+							[197] (326,433)<span  />
+								[198] (326,433)<font  />
+									[199] (326,433)<font >주식 />
+							[200] (346,433)<span  />
+								[201] (346,433)<font  />
+									[202] (346,433)<font >시장 심리 />
+							[203] (365,433)<span  />
+								[204] (365,433)<font  />
+									[205] (365,433)<font >분석 />
+							[206] (448,433)<font  />
+								[207] (448,433)<font >** --- import pandas as pd import numpy as np df />
+		[208] (613,389)<div  />
+			arrow_drop_up
+			44
+		댓글 2개
+		[209] (388,513)<a aria-label='주식 시장 심리 분석' class='sc-XaaoV fdjENb' href='/code/mdwaquarazam/stock-sentiment-analysis' role='link' />
+			[210] (392,513)<div  />
+				[211] (205,513)<div  />
+					[212] (205,513)<div  />
+						[213] (205,513)<span  />
+							[214] (218,539)<div  />
+								[215] (218,539)<span >code />
+				[216] (291,513)<div  />
+					[217] (291,492)<div  />
+						[218] (264,492)<font  />
+							[219] (264,492)<font >주식 시장 심리 분석 />
+					[220] (291,515)<span  />
+						[221] (240,515)<font  />
+							[222] (240,515)<font >노트북 />
+						[223] (252,515)<font  />
+							[224] (252,515)<font >· />
+						[225] (262,515)<span  />
+							[226] (262,515)<font  />
+								[227] (262,515)<font >4년 전 />
+						[228] (274,515)<font  />
+							[229] (274,515)<font >· />
+						[230] (287,515)<font  />
+							[231] (287,515)<font >작성자: />
+						[232] (325,515)<a aria-label='Md Waquar Azam이 새 창에서 열립니다' class='sc-lmgQQD hpXnyH' href='/mdwaquarazam' />
+							[233] (325,515)<font  />
+								[234] (325,515)<font >Md Waquar Azam />
+					[235] (291,537)<span  />
+						[236] (290,537)<font  />
+							[237] (248,536)<font >데이터 출처: />
+							[238] (308,537)<a aria-label='주식 시장 예측 관련 일일 뉴스 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/datasets/aaron7sun/stocknews' />
+								[239] (308,536)<font >주식 시장 예측을 위한 일일 뉴스 />
+		[240] (614,492)<div  />
+			arrow_drop_up
+			16
+		댓글 1개
+		[241] (390,616)<a aria-label='주식 시장 심리 분석' class='sc-XaaoV fdjENb' href='/code/ronikdedhia/stock-sentiment-analysis' role='link' />
+			[242] (394,616)<div  />
+				[243] (205,616)<div  />
+					[244] (205,616)<div  />
+						[245] (205,616)<span  />
+							[246] (218,641)<div  />
+								[247] (218,641)<span >code />
+				[248] (313,616)<div  />
+					[249] (313,595)<div  />
+						[250] (264,595)<font  />
+							[251] (264,595)<font >주식 시장 심리 분석 />
+					[252] (313,618)<span  />
+						[253] (240,617)<font  />
+							[254] (240,617)<font >노트북 />
+						[255] (252,617)<font  />
+							[256] (252,617)<font >· />
+						[257] (262,617)<span  />
+							[258] (262,617)<font  />
+								[259] (262,617)<font >4년 전 />
+						[260] (274,617)<font  />
+							[261] (274,617)<font >· />
+						[262] (287,617)<font  />
+							[263] (287,617)<font >작성자: />
+						[264] (318,618)<a aria-label='로닉 데디아 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/ronikdedhia' />
+							[265] (318,617)<font  />
+								[266] (318,617)<font >Ronik Dedhia />
+					[267] (313,639)<span  />
+						[268] (313,639)<font  />
+							[269] (248,639)<font >데이터 출처: />
+							[270] (330,639)<a aria-label='주식 시장 심리 분석을 위한 뉴스 헤드라인 데이터 세트(새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/datasets/siddharthtyagi/news-headlines-dataset-for-stock-sentiment-analyze' />
+								[271] (330,639)<font >주식 심리 분석을 위한 뉴스 헤드라인 데이터 세트 />
+		[272] (615,595)<div  />
+			arrow_drop_up
+			4
+		댓글 0개
+		[273] (390,719)<a aria-label='주식 시장 심리 분석' class='sc-XaaoV fdjENb' href='/code/satyaprakash13820/stock-sentiment-analysis' role='link' />
+			[274] (394,719)<div  />
+				[275] (205,719)<div  />
+					[276] (205,719)<div  />
+						[277] (205,719)<span  />
+							[278] (218,744)<div  />
+								[279] (218,744)<span >code />
+				[280] (415,719)<div  />
+					[281] (415,697)<div  />
+						[282] (264,697)<font  />
+							[283] (264,697)<font >주식 시장 심리 분석 />
+					[284] (415,721)<span  />
+						[285] (240,720)<font  />
+							[286] (240,720)<font >노트북 />
+						[287] (252,720)<font  />
+							[288] (252,720)<font >· />
+						[289] (262,720)<span  />
+							[290] (262,720)<font  />
+								[291] (262,720)<font >5년 전 />
+						[292] (274,720)<font  />
+							[293] (274,720)<font >· />
+						[294] (287,720)<font  />
+							[295] (287,720)<font >작성자: />
+						[296] (324,721)<a aria-label='사티아 프라카시 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/satyaprakash13820' />
+							[297] (324,720)<font  />
+								[298] (324,720)<font >SATYA PRAKASH />
+					[299] (415,742)<span  />
+						[300] (449,741)<span  />
+							[301] (402,741)<font  />
+								[302] (402,741)<font >sklearn.feature_extraction.text에서 TfidfVectorizer를 가져옵니다. # TF-IDF 가져오기 df=pd.read_csv('/kaggle/input/ />
+							[303] (583,741)<span  />
+								[304] (583,741)<font  />
+									[305] (583,741)<font >stock />
+							[306] (595,741)<font  />
+								[307] (595,741)<font >- />
+							sentiment
+							-
+							analysis ')
+		[308] (615,697)<div  />
+			arrow_drop_up
+			2
+		댓글 0개
+		[309] (383,821)<a aria-label='Two Sigma 뉴스 공식 시작하기 커널' class='sc-XaaoV fdjENb' href='/code/dster/two-sigma-news-official-getting-started-kernel' role='link' />
+			[310] (387,821)<div  />
+				[311] (205,821)<div  />
+					[312] (205,821)<div  />
+						[313] (205,821)<span  />
+							[314] (218,847)<div  />
+								[315] (218,847)<span >code />
+				[316] (295,821)<div  />
+					[317] (295,800)<div  />
+						[318] (295,800)<font  />
+							[319] (295,800)<font >Two Sigma 뉴스 공식 시작하기 커널 />
+					[320] (295,823)<span  />
+						[321] (240,823)<font  />
+							[322] (240,823)<font >노트북 />
+						[323] (252,823)<font  />
+							[324] (252,823)<font >· />
+						[325] (262,823)<span  />
+							[326] (262,823)<font  />
+								[327] (262,823)<font >8년 전 />
+						[328] (288,823)<font  />
+							[329] (274,823)<font >· />
+							[330] (290,823)<a aria-label='DJ 스털링 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/dster' />
+								[331] (290,823)<font >DJ 스털링 />
+						[332] (311,823)<font  />
+							[333] (311,823)<font >작성 />
+					[334] (295,844)<span  />
+						[335] (238,844)<span  />
+							[336] (236,844)<span  />
+								[337] (236,844)<font  />
+									[338] (236,844)<font >분석 />
+							[339] (244,844)<font  />
+								[340] (244,844)<font >. />
+		[341] (608,800)<div  />
+			arrow_drop_up
+			3933
+		댓글 142개
+		[342] (390,924)<a aria-label='다음 글에 댓글을 남겨주세요:' class='sc-XaaoV fdjENb' href='/code/mdwaquarazam/stock-sentiment-analysis/comments#2051225' role='link' />
+			[343] (394,924)<div  />
+				[344] (205,924)<div  />
+					[345] (205,924)<div  />
+						[346] (205,924)<span  />
+							[347] (218,949)<div  />
+								[348] (218,949)<span >reply />
+				[349] (281,924)<div  />
+					[350] (281,903)<div  />
+						[351] (281,903)<font  />
+							[352] (281,903)<font >다음 글에 댓글을 남겨주세요: />
+					[353] (281,926)<span  />
+						[354] (244,925)<font  />
+							[355] (244,925)<font >토론 댓글 />
+						[356] (259,925)<font  />
+							[357] (259,925)<font >· />
+						[358] (270,925)<span  />
+							[359] (270,925)<font  />
+								[360] (270,925)<font >3년 전 />
+						[361] (281,925)<font  />
+							[362] (281,925)<font >· />
+						[363] (307,926)<font  />
+							[364] (295,925)<font >작성자: />
+							[365] (317,926)<a aria-label='안토니오 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/antoniosabatini' />
+								[366] (317,925)<font >Antonio />
+					[367] (281,947)<span  />
+						[368] (281,947)<font  />
+							[369] (250,947)<a aria-label='주식 시장 예측 관련 일일 뉴스 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/code/mdwaquarazam/stock-sentiment-analysis/comments' />
+								[370] (250,947)<font >주식 시장 예측 />
+							[371] (294,947)<font >포럼 의 일일 뉴스 />
+							[372] (325,947)<font >에서 />
+		[373] (615,903)<div  />
+			arrow_drop_up
+			0
+		답글 0개
+		다음 글에 댓글을 남겨주세요:
+		arrow_drop_up
+		0
+
+</current_dom>

@@ -1,0 +1,406 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,918)<div  />
+	저장소 검색 결과 ·음
+	[1] (154,500)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+		필터 기준
+		[2] (147,80)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=code' id='_r_4_' />
+			[3] (159,80)<span  />
+				[4] (133,80)<span  />
+					[5] (64,80)<font  />
+						[6] (64,80)<font >암호 />
+				414k
+				(
+				414k
+				)
+				결과
+		[7] (147,114)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=repositories' id='_r_5_' />
+			[8] (159,114)<span  />
+				[9] (135,114)<span  />
+					[10] (70,114)<font  />
+						[11] (70,114)<font >저장소 />
+				1.7k
+				(
+				1.7k
+				)
+				결과
+		[12] (147,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=issues' id='_r_6_' />
+			[13] (159,148)<span  />
+				[14] (136,148)<span  />
+					[15] (70,148)<font  />
+						[16] (70,148)<font >문제점 />
+				3천
+				(
+				3k
+				)
+				결과
+		[17] (147,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=pullrequests' id='_r_7_' />
+			[18] (159,182)<span  />
+				[19] (136,182)<span  />
+					[20] (86,181)<font  />
+						[21] (86,181)<font >풀 리퀘스트 />
+				3천
+				(
+				3k
+				)
+				결과
+		[22] (147,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=discussions' id='_r_8_' />
+			[23] (159,216)<span  />
+				[24] (139,216)<span  />
+					[25] (64,215)<font  />
+						[26] (64,215)<font >토론 />
+				77
+				(
+				77
+				)
+				결과
+		[27] (147,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=users' id='_r_9_' />
+			[28] (159,250)<span  />
+				[29] (139,250)<span  />
+					[30] (70,249)<font  />
+						[31] (70,249)<font >사용자 />
+				29
+				(
+				29
+				)
+				결과
+		[32] (147,284)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+			[33] (159,284)<span  />
+				[34] (159,284)<span  />
+					[35] (57,283)<font  />
+						[36] (57,283)<font >더 />
+		언어
+		[37] (147,358)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3APython&type=repositories' id='_r_c_' />
+			[38] (156,358)<span  />
+				[39] (156,358)<span  />
+					[40] (156,358)<div  />
+						[41] (156,358)<div  />
+							[42] (64,357)<font  />
+								[43] (64,357)<font >파이썬 />
+		[44] (147,392)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJava&type=repositories' id='_r_d_' />
+			[45] (156,392)<span  />
+				[46] (156,392)<span  />
+					[47] (156,392)<div  />
+						[48] (156,392)<div  />
+							[49] (57,391)<font  />
+								[50] (57,391)<font >자바 />
+		[51] (147,425)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ATypeScript&type=repositories' id='_r_e_' />
+			[52] (156,425)<span  />
+				[53] (156,425)<span  />
+					[54] (156,425)<div  />
+						[55] (156,425)<div  />
+							[56] (84,425)<font  />
+								[57] (84,425)<font >타입스크립트 />
+		[58] (147,459)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJavaScript&type=repositories' id='_r_f_' />
+			[59] (156,459)<span  />
+				[60] (156,459)<span  />
+					[61] (156,459)<div  />
+						[62] (156,459)<div  />
+							[63] (84,459)<font  />
+								[64] (84,459)<font >자바스크립트 />
+		[65] (147,493)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJupyter+Notebook&type=repositories' id='_r_g_' />
+			[66] (156,493)<span  />
+				[67] (156,493)<span  />
+					[68] (156,493)<div  />
+						[69] (156,493)<div  />
+							[70] (86,493)<font  />
+								[71] (86,493)<font >주피터 노트북 />
+		[72] (147,527)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AHTML&type=repositories' id='_r_h_' />
+			[73] (156,527)<span  />
+				[74] (156,527)<span  />
+					[75] (156,527)<div  />
+						[76] (156,527)<div  />
+							[77] (63,526)<font  />
+								[78] (63,526)<font >HTML />
+		[79] (147,561)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AKotlin&type=repositories' id='_r_i_' />
+			[80] (156,561)<span  />
+				[81] (156,561)<span  />
+					[82] (156,561)<div  />
+						[83] (156,561)<div  />
+							[84] (64,560)<font  />
+								[85] (64,560)<font >코틀린 />
+		[86] (147,595)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AC%23&type=repositories' id='_r_j_' />
+			[87] (156,595)<span  />
+				[88] (156,595)<span  />
+					[89] (156,595)<div  />
+						[90] (156,595)<div  />
+							[91] (62,594)<font  />
+								[92] (62,594)<font >기음# />
+		[93] (147,629)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ASwift&type=repositories' id='_r_k_' />
+			[94] (156,629)<span  />
+				[95] (156,629)<span  />
+					[96] (156,629)<div  />
+						[97] (156,629)<div  />
+							[98] (71,628)<font  />
+								[99] (71,628)<font >스위프트 />
+		[100] (147,662)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ACSS&type=repositories' id='_r_l_' />
+			[101] (156,662)<span  />
+				[102] (156,662)<span  />
+					[103] (156,662)<div  />
+						[104] (156,662)<div  />
+							[105] (56,662)<font  />
+								[106] (56,662)<font >CSS />
+		[107] (147,696)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+			[108] (159,696)<span  />
+				[109] (159,696)<span  />
+					[110] (159,696)<div  />
+						[111] (92,696)<font  />
+							[112] (92,696)<font >더 많은 언어... />
+		고급의
+		[113] (147,780)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+			[114] (159,780)<span  />
+				[115] (159,780)<span  />
+					[116] (159,780)<div  />
+						[117] (159,780)<div  />
+							[118] (70,779)<font  />
+								[119] (70,779)<font >소유자 />
+		[120] (147,814)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+			[121] (159,814)<span  />
+				[122] (159,814)<span  />
+					[123] (159,814)<div  />
+						[124] (159,814)<div  />
+							[125] (64,813)<font  />
+								[126] (64,813)<font >크기 />
+		[127] (147,848)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+			[128] (159,848)<span  />
+				[129] (159,848)<span  />
+					[130] (159,848)<div  />
+						[131] (159,848)<div  />
+							[132] (79,847)<font  />
+								[133] (79,847)<font >팔로워 수 />
+		[134] (147,881)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_r_' />
+			[135] (159,881)<span  />
+				[136] (159,881)<span  />
+					[137] (159,881)<div  />
+						[138] (159,881)<div  />
+							[139] (86,881)<font  />
+								[140] (86,881)<font >포크의 개수 />
+		[141] (147,915)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_s_' />
+			[142] (159,915)<span  />
+				[143] (159,915)<span  />
+					[144] (159,915)<div  />
+						[145] (159,915)<div  />
+							[146] (79,915)<font  />
+								[147] (79,915)<font >별의 개수 />
+		[148] (147,949)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_t_' />
+			[149] (159,949)<span  />
+				[150] (159,949)<span  />
+					[151] (159,949)<div  />
+						[152] (159,949)<div  />
+							[153] (70,949)<font  />
+								[154] (70,949)<font >생성일 />
+		[155] (147,983)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_u_' />
+			[156] (159,983)<span  />
+				[157] (159,983)<span  />
+					[158] (159,983)<div  />
+						[159] (159,983)<div  />
+							[160] (119,983)<font  />
+								[161] (119,983)<font >날짜가 변경되었습니다 />
+	[162] (309,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	1,700개 결과
+	(
+	187ms
+	)
+	1,700개 결과
+	[163] (759,32)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_19_' />
+		[164] (751,32)<span  />
+			[165] (751,32)<span  />
+				[166] (700,31)<span  />
+					[167] (700,31)<font  />
+						[168] (700,31)<font >정렬 기준: />
+				[169] (779,31)<font  />
+					[170] (779,31)<font >가장 일치하는 항목 />
+	[171] (900,32)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[172] (900,32)<span  />
+			[173] (900,32)<span  />
+				[174] (900,32)<div  />
+					[175] (911,31)<font  />
+						[176] (911,31)<font >구하다 />
+	[177] (960,32)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1j_' />
+	[178] (443,94)<a class='prc-Link-Link-9ZwDx' href='/sharebook-kr/pykrx' />
+		[179] (443,94)<span  />
+			[180] (443,94)<font  />
+				[181] (443,94)<font >쉐어북-kr/pykrx />
+	KRX
+	주식
+	정보 스크래핑
+	파이썬
+	·
+	[182] (448,149)<a aria-label='별 979개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/sharebook-kr/pykrx/stargazers' />
+		[183] (459,149)<span  />
+			[184] (459,149)<font  />
+				[185] (459,149)<font >979 />
+	·
+	업데이트됨
+	13일 전
+	[186] (846,101)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[187] (846,101)<span  />
+			[188] (856,101)<span  />
+				[189] (856,100)<font  />
+					[190] (856,100)<font >별 />
+	[191] (918,101)<button aria-label='스폰서: sharebook-kr/pykrx' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-sharebook-kr-pykrx' />
+		[192] (918,101)<span  />
+			[193] (918,101)<span  />
+				[194] (931,100)<span  />
+					[195] (931,100)<font  />
+						[196] (931,100)<font >스폰서 />
+	[197] (441,225)<a class='prc-Link-Link-9ZwDx' href='/wikibook/stock-trading' />
+		[198] (441,225)<span  />
+			[199] (441,225)<font  />
+				[200] (441,225)<font >위키북/주식거래 />
+	『파이썬과 리액트를 활용한
+	주식
+	자동 시스템』 예제 코드
+	주피터 노트북
+	·
+	[201] (482,280)<a aria-label='별 83개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/wikibook/stock-trading/stargazers' />
+		[202] (494,280)<span  />
+			[203] (494,280)<font  />
+				[204] (494,280)<font >83 />
+	·
+	업데이트됨
+	2023년 1월 5일
+	[205] (932,232)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[206] (932,232)<span  />
+			[207] (942,232)<span  />
+				[208] (942,231)<font  />
+					[209] (942,231)<font >별 />
+	[210] (441,357)<a class='prc-Link-Link-9ZwDx' href='/programgarden/book' />
+		[211] (441,356)<span  />
+			[212] (441,356)<font  />
+				[213] (441,356)<font >프로그램가든/책 />
+	선택: Finger 하나를 선택하지 않는
+	주식
+	거래 시스템 구축
+	파이썬
+	·
+	[214] (448,411)<a aria-label='별 114개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/programgarden/book/stargazers' />
+		[215] (459,411)<span  />
+			[216] (459,411)<font  />
+				[217] (459,411)<font >114 />
+	·
+	업데이트됨
+	2025년 1월 7일
+	[218] (846,363)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[219] (846,363)<span  />
+			[220] (856,363)<span  />
+				[221] (856,362)<font  />
+					[222] (856,362)<font >별 />
+	[223] (918,363)<a aria-label='@programgarden 후원' class='Button--secondary Button--small Button' href='/sponsors/programgarden' />
+		[224] (918,363)<span  />
+			[225] (918,363)<span  />
+				[226] (931,361)<span  />
+					[227] (931,362)<font  />
+						[228] (931,363)<font >스폰서 />
+	[229] (469,488)<a class='prc-Link-Link-9ZwDx' href='/bsstory/PyStockTrader' />
+		[230] (469,487)<span  />
+			[231] (469,487)<font  />
+				[232] (469,487)<font >bsstory/PyStockTrader />
+	엮임 결합 통합
+	시스템
+	트레이딩
+	파이썬
+	·
+	[233] (444,542)<a aria-label='별 28개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/bsstory/PyStockTrader/stargazers' />
+		[234] (456,542)<span  />
+			[235] (456,542)<font  />
+				[236] (456,542)<font >28 />
+	·
+	업데이트됨
+	2021년 10월 14일
+	[237] (932,494)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[238] (932,494)<span  />
+			[239] (942,494)<span  />
+				[240] (942,493)<font  />
+					[241] (942,493)<font >별 />
+	[242] (438,619)<a class='prc-Link-Link-9ZwDx' href='/mrchypark/tqk' />
+		[243] (438,619)<span  />
+			[244] (438,619)<font  />
+				[245] (438,619)<font >므르치파크/tqk />
+	한국
+	주식
+	데이터 R 패키지
+	[246] (388,678)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/r' />
+		[247] (388,678)<font  />
+			[248] (388,678)<font >아르 자형 />
+	[249] (471,678)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/tidyverse' />
+		[250] (471,678)<font  />
+			[251] (471,678)<font >타이디버스 />
+	[252] (540,678)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/stock' />
+		[253] (540,678)<font  />
+			[254] (540,678)<font >재고 />
+	[255] (597,678)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/rstats' />
+		[256] (597,678)<font  />
+			[257] (597,678)<font >rstats />
+	[258] (653,678)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/quant' />
+		[259] (653,678)<font  />
+			[260] (653,678)<font >양적 />
+	아르 자형
+	·
+	[261] (459,710)<a aria-label='별 61개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/mrchypark/tqk/stargazers' />
+		[262] (471,710)<span  />
+			[263] (471,710)<font  />
+				[264] (471,710)<font >61 />
+	·
+	업데이트됨
+	2월 12일
+	[265] (846,625)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[266] (846,625)<span  />
+			[267] (856,625)<span  />
+				[268] (856,625)<font  />
+					[269] (856,625)<font >별 />
+	[270] (918,625)<button aria-label='스폰서 mrchypark/tqk' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-mrchypark-tqk' />
+		[271] (918,625)<span  />
+			[272] (918,625)<span  />
+				[273] (931,625)<span  />
+					[274] (931,625)<font  />
+						[275] (931,625)<font >스폰서 />
+	[276] (546,786)<a class='prc-Link-Link-9ZwDx' href='/sharebook-kr/book-korea-us-stock-trading' />
+		[277] (546,786)<span  />
+			[278] (546,786)<font  />
+				[279] (546,786)<font >sharebook-kr/book-korea-us-stock-trading />
+	스타일을 이용한 한국/미국
+	주식
+	자동매매
+	파이썬
+	·
+	[280] (444,841)<a aria-label='별 22개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/sharebook-kr/book-korea-us-stock-trading/stargazers' />
+		[281] (456,841)<span  />
+			[282] (456,841)<font  />
+				[283] (456,841)<font >22 />
+	·
+	업데이트됨
+	2022년 12월 6일
+	[284] (846,793)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[285] (846,793)<span  />
+			[286] (856,793)<span  />
+				[287] (856,792)<font  />
+					[288] (856,792)<font >별 />
+	[289] (918,793)<a aria-label='스폰서 @sharebook-kr' class='Button--secondary Button--small Button' href='/sponsors/sharebook-kr' />
+		[290] (918,793)<span  />
+			[291] (918,793)<span  />
+				[292] (931,791)<span  />
+					[293] (931,792)<font  />
+						[294] (931,793)<font >스폰서 />
+	[295] (478,917)<a class='prc-Link-Link-9ZwDx' href='/jjlabsio/korea-stock-mcp' />
+		[296] (478,917)<span  />
+			[297] (478,917)<font  />
+				[298] (478,917)<font >jjlabsio/korea-stock-mcp />
+	한국 주식 분석을 위한 MCP 서버입니다. 한국
+	주식
+	분석을 위해 MCP 서버입니다.
+	타입스크립트
+	·
+	122
+	·
+	업데이트됨
+	14시간 전
+	[299] (932,924)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[300] (932,924)<span  />
+			[301] (942,924)<span  />
+				[302] (942,923)<font  />
+					[303] (942,923)<font >별 />
+
+</current_dom>

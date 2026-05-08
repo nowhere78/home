@@ -1,0 +1,223 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiOnt7rj46UAxVuHNAFHX3-Nf4QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DStreamlit%2BAI%2Bmicro-tool%2Blead%2Bmagnet%2Bexamples%2BPython%2Blead%2Bgeneration&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4UWx1FL1P57ySCGYy0q9NmsB1Fbg:1777296079298&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=Streamlit+AI+micro-tool+lead+magnet+examples+Python+lead+generation&sa=X&ved=2ahUKEwiOnt7rj46UAxVuHNAFHX3-Nf4QtKgLegQIFhAB' />
+	[18] (156,121)<div  />
+		[19] (156,130)<span >이미지 />
+[20] (196,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4UWx1FL1P57ySCGYy0q9NmsB1Fbg:1777296079298&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=Streamlit+AI+micro-tool+lead+magnet+examples+Python+lead+generation&sa=X&ved=2ahUKEwiOnt7rj46UAxVuHNAFHX3-Nf4Qs6gLegQIFRAB' />
+	[21] (196,121)<div  />
+		[22] (196,130)<span >짧은 동영상 />
+[23] (236,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4UWx1FL1P57ySCGYy0q9NmsB1Fbg:1777296079298&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=Streamlit+AI+micro-tool+lead+magnet+examples+Python+lead+generation&sa=X&ved=2ahUKEwiOnt7rj46UAxVuHNAFHX3-Nf4QtKgLegQIFBAB' />
+	[24] (236,121)<div  />
+		[25] (236,130)<span >동영상 />
+[26] (266,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4UWx1FL1P57ySCGYy0q9NmsB1Fbg:1777296079298&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=Streamlit+AI+micro-tool+lead+magnet+examples+Python+lead+generation&ved=1t:220175&ictx=111' />
+	[27] (266,121)<div  />
+		[28] (266,130)<span >쇼핑 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4UWx1FL1P57ySCGYy0q9NmsB1Fbg:1777296079298&q=Streamlit+AI+micro-tool+lead+magnet+examples+Python+lead+generation&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&sa=X&ved=2ahUKEwiOnt7rj46UAxVuHNAFHX3-Nf4Q0pQJegQIEhAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+AI 개요
+[42] (688,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+Streamlit AI micro-tools are highly effective lead magnets because they offer immediate, interactive value, showcasing your expertise while capturing high-intent prospects. By leveraging Python libraries like
+streamlit
+,
+openai
+,
+langchain
+, and
+pandas
+, you can build specialized tools in hours, not weeks.
+[43] (285,310)<button aria-label='관련 링크 보기' class='rBl3me' />
+	[44] (285,310)<span  />
+Here are examples and strategies for Streamlit AI lead magnets focused on lead generation:
+🚀 Top Streamlit AI Micro-Tool Lead Magnet Examples
+AI-Powered "Cold Email" Personalizer
+Tool:
+Users input a prospect's LinkedIn profile URL (or text summary) and their own product value proposition.
+AI Action:
+Uses OpenAI to analyze the profile and generate a hyper-personalized opening line and email body.
+Lead Generation Mechanism:
+Free trial allows 3 personalized emails; user must submit their work email to get 20 more.
+Tech Stack:
+streamlit
+,
+openai
+,
+langchain
+.
+Instant Content Repurposing Engine
+Tool:
+A user pastes a link to a blog post, YouTube video, or LinkedIn article.
+AI Action:
+Generates 5 Tweets, 2 LinkedIn posts, and a short summary script.
+Lead Generation Mechanism:
+"Sign up to download the full content plan as a PDF/CSV".
+Tech Stack:
+streamlit
+,
+youtube-transcript-api
+,
+firecrawl
+(for web scraping),
+openai
+.
+B2B Prospecting & ICP Analyzer
+[45] (581,299)<a aria-label='Lead Generation AI Agents | n8n + Firecrawl + Serper Dev + .... 새 탭에서 열립니다.' class='NDNGvf' href='https://www.youtube.com/watch?v=u3iiM5mRWjg&t=3' />
+Lead Generation AI Agents | n8n + Firecrawl + Serper Dev + ...
+2025. 7. 15. —
+hey how it's going guys in this video. I'm going to show you...
+[46] (648,283)<div class='nrdPJf' role='button' />
+	[47] (648,283)<img  />
+	[48] (648,311)<div  />
+		[49] (625,291)<div  />
+			[50] (630,291)<span >4m />
+		[51] (625,311)<div  />
+			[52] (625,303)<div  />
+	[53] (675,258)<div  />
+		[54] (675,258)<div  />
+YouTube
+·
+AI Anytime
+[55] (680,347)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-z2Lvaar4OsWJp84Pn6zKkA8_7' role='button' />
+brightdata/ai-lead-generator: AI-powered agent that ... - GitHub
+AI-Powered Lead Generation Agent. A next-gen lead generation...
+GitHub
+Automate GTM with OpenAI, Python & Streamlit | by Dave Melillo
+2023. 1. 31. —
+The Results. Let's step through the Streamlit app to see the...
+Medium
+·
+Dave Melillo
+모두 표시
+[56] (406,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[57] (284,538)<div  />
+		[58] (284,538)<div >더보기 />
+			더보기
+			[59] (296,538)<span  />
+Web results
+[60] (249,658)<a class='zReHs' href='https://github.com/mmfarabi/LeadGenAI' />
+	[61] (249,682)<h3 >LeadGenAI - LinkedIn Lead Generation and Business ... />
+	[62] (189,644)<div  />
+		[63] (189,644)<div  />
+			[64] (127,644)<span  />
+				[65] (127,644)<div  />
+					[66] (127,644)<img  />
+			[67] (200,644)<div  />
+				[68] (200,635)<div  />
+					[69] (200,635)<span >GitHub />
+				[70] (200,655)<div  />
+					[71] (200,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://github.com />
+						[72] (224,655)<span class='ylgVCe ob9lvb' role='text'>› mmfarabi › LeadGenAI />
+[73] (270,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[74] (270,654)<span  />
+		[75] (270,655)<span  />
+LeadGenAI is a
+Streamlit
+-based
+application
+that empowers users to generate leads from LinkedIn and optimize their business strategies using the power of IBM ...
+누락된 검색어:
+micro-
+‎
+magnet
+동영상
+[76] (165,816)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (165,816)<span  />
+		[78] (165,817)<span  />
+[79] (333,895)<a class='rIRoqf' href='https://www.youtube.com/watch?v=u3iiM5mRWjg' />
+	[80] (333,895)<div class='V5XKdd' role='heading' />
+		[81] (333,864)<div  />
+			[82] (323,864)<div  />
+				[83] (323,864)<span >Lead Generation AI Agents | n8n + Firecrawl + Serper Dev + ... />
+		[84] (333,916)<div  />
+			[85] (333,916)<div  />
+				[86] (333,904)<span  />
+					[87] (222,904)<span >YouTube />
+					[88] (256,904)<span >AI Anytime />
+						[89] (238,904)<span >· />
+				[90] (333,928)<div  />
+					[91] (227,928)<span >2025. 7. 15. />
+[92] (287,903)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[93] (287,903)<span  />
+		[94] (287,904)<span  />
+[95] (158,895)<div aria-label='AI Anytime님이 YouTube에 게시한 Lead Generation AI Agents | n8n + Firecrawl + Serper Dev + .... Google에서 재생. 19:30' class='rIRoqf hXY9cf' role='button' />
+	[96] (158,895)<div  />
+		[97] (158,895)<div  />
+			[98] (136,920)<div  />
+				[99] (136,920)<span >19:30 />
+			[100] (188,870)<div  />
+				[101] (188,870)<span  />
+[102] (333,978)<div  />
+	[103] (320,978)<div  />
+		[104] (320,978)<span >Python AI Lead Machine That Finds Clients & Writes Sales ... />
+[105] (188,985)<div  />
+	[106] (188,985)<span  />
+[107] (498,641)<div  />
+	[108] (498,641)<img  />
+[109] (540,641)<div >AI에게 질문하기 />
+	[110] (514,641)<img  />
+[111] (602,641)<div >검색 에이전트 />
+	[112] (580,641)<img  />
+[113] (641,637)<div  />
+[114] (654,637)<div  />
+[115] (666,637)<div  />
+[116] (512,683)<div  />
+	[117] (499,683)<img  />
+	[118] (517,683)<span >4o mini />
+[119] (553,683)<div  />
+	[120] (540,683)<img  />
+	[121] (559,683)<span >GPT-4o />
+[122] (599,683)<div  />
+	[123] (582,683)<img  />
+	[124] (605,683)<span >Claude 3.5 />
+[125] (644,683)<div  />
+	[126] (632,683)<img  />
+	[127] (650,683)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[128] (533,970)<div  />
+	[129] (533,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

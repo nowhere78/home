@@ -1,0 +1,318 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >기본 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/LearningCircuit/local-deep-research/new/main/docs' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (83,579)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[20] (79,900)<div  />
+		[21] (79,419)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+			strategies
+			AI_Code_Reviewer_Setup.md
+			BENCHMARKING.md
+			CI_CD_INFRASTRUCTURE.md
+			CONFIGURATION.md
+			[22] (79,163)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/CUSTOM_LLM_INTEGRATION.md-item' role='treeitem' />
+				[23] (79,163)<div  />
+					[24] (10,163)<div  />
+						[25] (10,163)<div  />
+							[26] (10,163)<div  />
+					[27] (86,163)<div  />
+						[28] (29,163)<div  />
+						[29] (92,163)<span  />
+							[30] (90,163)<span >CUSTOM_LLM_INTEGRATION.md />
+			[31] (79,197)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/FRONTEND_BUILD_SYSTEM.md-item' role='treeitem' />
+				[32] (79,197)<div  />
+					[33] (10,197)<div  />
+						[34] (10,197)<div  />
+							[35] (10,197)<div  />
+					[36] (86,197)<div  />
+						[37] (29,197)<div  />
+						[38] (92,197)<span  />
+							[39] (88,197)<span >FRONTEND_BUILD_SYSTEM.md />
+			[40] (79,231)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/LANGCHAIN_RETRIEVER_INTEGRATION.md-item' role='treeitem' />
+				[41] (79,231)<div  />
+					[42] (10,231)<div  />
+						[43] (10,231)<div  />
+							[44] (10,231)<div  />
+					[45] (86,231)<div  />
+						[46] (29,231)<div  />
+						[47] (92,231)<span  />
+							[48] (107,231)<span >LANGCHAIN_RETRIEVER_INTEGRATION.md />
+			[49] (79,265)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/MIGRATION_GUIDE_v1.md-item' role='treeitem' />
+				[50] (79,265)<div  />
+					[51] (10,265)<div  />
+						[52] (10,265)<div  />
+							[53] (10,265)<div  />
+					[54] (86,265)<div  />
+						[55] (29,265)<div  />
+						[56] (92,265)<span  />
+							[57] (80,265)<span >MIGRATION_GUIDE_v1.md />
+			[58] (79,299)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/NOTIFICATIONS.md-item' role='treeitem' />
+				[59] (79,299)<div  />
+					[60] (10,299)<div  />
+						[61] (10,299)<div  />
+							[62] (10,299)<div  />
+					[63] (86,299)<div  />
+						[64] (29,299)<div  />
+						[65] (92,299)<span  />
+							[66] (69,299)<span >NOTIFICATIONS.md />
+			[67] (79,333)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/NOTIFICATION_FLOW.md-item' role='treeitem' />
+				[68] (79,333)<div  />
+					[69] (10,333)<div  />
+						[70] (10,333)<div  />
+							[71] (10,333)<div  />
+					[72] (86,333)<div  />
+						[73] (29,333)<div  />
+						[74] (92,333)<span  />
+							[75] (78,333)<span >NOTIFICATION_FLOW.md />
+			[76] (79,368)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/RELEASE_GUIDE.md-item' role='treeitem' />
+				[77] (79,368)<div  />
+					[78] (10,368)<div  />
+						[79] (10,368)<div  />
+							[80] (10,368)<div  />
+					[81] (86,368)<div  />
+						[82] (29,367)<div  />
+						[83] (92,368)<span  />
+							[84] (69,368)<span >RELEASE_GUIDE.md />
+			[85] (79,402)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/SECURITY_REVIEW_PROCESS.md-item' role='treeitem' />
+				[86] (79,402)<div  />
+					[87] (10,402)<div  />
+						[88] (10,402)<div  />
+							[89] (10,402)<div  />
+					[90] (86,402)<div  />
+						[91] (29,402)<div  />
+						[92] (92,402)<span  />
+							[93] (90,402)<span >SECURITY_REVIEW_PROCESS.md />
+			[94] (79,436)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/SQLCIPHER_INSTALL.md-item' role='treeitem' />
+				[95] (79,436)<div  />
+					[96] (10,436)<div  />
+						[97] (10,436)<div  />
+							[98] (10,436)<div  />
+					[99] (86,436)<div  />
+						[100] (29,436)<div  />
+						[101] (92,436)<span  />
+							[102] (76,436)<span >SQLCIPHER_INSTALL.md />
+			[103] (79,470)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/SearXNG-Setup.md-item' role='treeitem' />
+				[104] (79,470)<div  />
+					[105] (10,470)<div  />
+						[106] (10,470)<div  />
+							[107] (10,470)<div  />
+					[108] (86,470)<div  />
+						[109] (29,470)<div  />
+						[110] (92,470)<span  />
+							[111] (69,470)<span >SearXNG-Setup.md />
+			[112] (79,504)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/analytics-dashboard.md-item' role='treeitem' />
+				[113] (79,504)<div  />
+					[114] (10,504)<div  />
+						[115] (10,504)<div  />
+							[116] (10,504)<div  />
+					[117] (86,504)<div  />
+						[118] (29,504)<div  />
+						[119] (92,504)<span  />
+							[120] (76,504)<span >analytics-dashboard.md />
+			[121] (79,538)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/api-quickstart.md-item' role='treeitem' />
+				[122] (79,538)<div  />
+					[123] (10,538)<div  />
+						[124] (10,538)<div  />
+							[125] (10,538)<div  />
+					[126] (86,538)<div  />
+						[127] (29,538)<div  />
+						[128] (92,538)<span  />
+							[129] (66,538)<span >api-quickstart.md />
+			[130] (79,572)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/architecture.md-item' role='treeitem' />
+				[131] (79,572)<div  />
+					[132] (10,572)<div  />
+						[133] (10,572)<div  />
+							[134] (10,572)<div  />
+					[135] (86,572)<div  />
+						[136] (29,572)<div  />
+						[137] (92,572)<span  />
+							[138] (63,572)<span >architecture.md />
+			[139] (79,606)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/cli-tools.md-item' role='treeitem' />
+				[140] (79,606)<div  />
+					[141] (10,606)<div  />
+						[142] (10,606)<div  />
+							[143] (10,606)<div  />
+					[144] (86,606)<div  />
+						[145] (29,606)<div  />
+						[146] (92,606)<span  />
+							[147] (56,606)<span >cli-tools.md />
+			[148] (79,640)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/developing.md-item' role='treeitem' />
+				[149] (79,640)<div  />
+					[150] (10,640)<div  />
+						[151] (10,640)<div  />
+							[152] (10,640)<div  />
+					[153] (86,640)<div  />
+						[154] (29,640)<div  />
+						[155] (92,640)<span  />
+							[156] (62,640)<span >developing.md />
+			[157] (79,674)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/docker-compose-guide.md-item' role='treeitem' />
+				[158] (79,674)<div  />
+					[159] (10,674)<div  />
+						[160] (10,674)<div  />
+							[161] (10,674)<div  />
+					[162] (86,674)<div  />
+						[163] (29,674)<div  />
+						[164] (92,674)<span  />
+							[165] (81,674)<span >docker-compose-guide.md />
+			[166] (79,708)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/elasticsearch_search_engine.md-item' role='treeitem' />
+				[167] (79,708)<div  />
+					[168] (10,708)<div  />
+						[169] (10,708)<div  />
+							[170] (10,708)<div  />
+					[171] (86,708)<div  />
+						[172] (29,708)<div  />
+						[173] (92,708)<span  />
+							[174] (88,708)<span >elasticsearch_search_engine.md />
+			[175] (79,742)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/elasticsearch_search_engine.zh.md-item' role='treeitem' />
+				[176] (79,742)<div  />
+					[177] (10,742)<div  />
+						[178] (10,742)<div  />
+							[179] (10,742)<div  />
+					[180] (86,742)<div  />
+						[181] (29,742)<div  />
+						[182] (92,742)<span  />
+							[183] (93,742)<span >elasticsearch_search_engine.zh.md />
+			[184] (79,776)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/env_configuration.md-item' role='treeitem' />
+				[185] (79,776)<div  />
+					[186] (10,776)<div  />
+						[187] (10,776)<div  />
+							[188] (10,776)<div  />
+					[189] (86,776)<div  />
+						[190] (29,776)<div  />
+						[191] (92,776)<span  />
+							[192] (72,776)<span >env_configuration.md />
+			[193] (79,810)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/faq.md-item' role='treeitem' />
+				[194] (79,810)<div  />
+					[195] (10,810)<div  />
+						[196] (10,810)<div  />
+							[197] (10,810)<div  />
+					[198] (86,810)<div  />
+						[199] (29,810)<div  />
+						[200] (92,810)<span  />
+							[201] (49,810)<span >faq.md />
+			[202] (79,844)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/features.md-item' role='treeitem' />
+				[203] (79,844)<div  />
+					[204] (10,844)<div  />
+						[205] (10,844)<div  />
+							[206] (10,844)<div  />
+					[207] (86,844)<div  />
+						[208] (29,844)<div  />
+						[209] (92,844)<span  />
+							[210] (57,844)<span >features.md />
+			[211] (79,878)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/install-pip.md-item' role='treeitem' />
+				[212] (79,878)<div  />
+					[213] (10,878)<div  />
+						[214] (10,878)<div  />
+							[215] (10,878)<div  />
+					[216] (86,878)<div  />
+						[217] (29,878)<div  />
+						[218] (92,878)<span  />
+							[219] (60,878)<span >install-pip.md />
+			[220] (79,913)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/installation.md-item' role='treeitem' />
+				[221] (79,913)<div  />
+					[222] (10,913)<div  />
+						[223] (10,913)<div  />
+							[224] (10,913)<div  />
+					[225] (86,913)<div  />
+						[226] (29,912)<div  />
+						[227] (92,913)<span  />
+							[228] (61,913)<span >installation.md />
+			[229] (79,947)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/journal-quality.md-item' role='treeitem' />
+				[230] (79,947)<div  />
+					[231] (10,947)<div  />
+						[232] (10,947)<div  />
+							[233] (10,947)<div  />
+					[234] (86,947)<div  />
+						[235] (29,946)<div  />
+						[236] (92,947)<span  />
+							[237] (67,947)<span >journal-quality.md />
+			[238] (79,981)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/library-and-rag.md-item' role='treeitem' />
+				[239] (79,981)<div  />
+					[240] (10,981)<div  />
+						[241] (10,981)<div  />
+							[242] (10,981)<div  />
+					[243] (86,981)<div  />
+						[244] (29,981)<div  />
+						[245] (92,981)<span  />
+							[246] (68,981)<span >library-and-rag.md />
+[247] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[248] (207,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/LearningCircuit/local-deep-research/tree/main' />
+	[249] (207,23)<font  />
+		[250] (207,23)<font >로컬-딥-리서치 />
+/
+[251] (250,23)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/LearningCircuit/local-deep-research/tree/main/docs' />
+	[252] (250,23)<font  />
+		[253] (250,23)<font >문서 />
+/
+architecture.md
+[254] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[255] (970,23)<span  />
+		[256] (976,23)<span  />
+			[257] (976,22)<font  />
+				[258] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[259] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[260] (200,71)<span  />
+		[261] (200,71)<div  />
+			[262] (200,71)<font  />
+				[263] (200,71)<font >시사 />
+[264] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[265] (235,71)<span  />
+		[266] (235,71)<div  />
+			[267] (235,71)<font  />
+				[268] (235,71)<font >암호 />
+[269] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[270] (268,71)<span  />
+		[271] (268,71)<div  />
+			[272] (268,71)<font  />
+				[273] (268,71)<font >탓하다 />
+582줄 (474개 위치) · 20KB
+·
+[274] (380,71)<a class='prc-Link-Link-9ZwDx' href='/LearningCircuit/local-deep-research/blob/main/.github/CODEOWNERS#L71' />
+[275] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_aa_' />
+[276] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[277] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/LearningCircuit/local-deep-research/raw/refs/heads/main/docs/architecture.md' />
+	[278] (891,71)<span  />
+		[279] (891,71)<span  />
+			[280] (891,70)<font  />
+				[281] (891,70)<font >날것의 />
+[282] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[283] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[284] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/LearningCircuit/local-deep-research/edit/main/docs/architecture.md' />
+[285] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_ap_' />
+[286] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+연구 흐름
+[287] (812,136)<summary aria-label='대화 상자 열기' class='btn my-2 mr-2 p-0 d-inline-flex' role='button' />
+[288] (834,136)<clipboard-copy aria-label='인어 코드 복사' class='btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay' role='button' />
+배포 옵션
+[289] (313,367)<a aria-label='영구 링크: 배포 옵션' class='anchor' href='#deployment-options' id='user-content-deployment-options' />
+[290] (812,435)<summary aria-label='대화 상자 열기' class='btn my-2 mr-2 p-0 d-inline-flex' role='button' />
+[291] (834,435)<clipboard-copy aria-label='인어 코드 복사' class='btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay' role='button' />
+피처 맵
+[292] (313,789)<a aria-label='고유 링크: 피처 맵' class='anchor' href='#feature-map' id='user-content-feature-map' />
+[293] (812,858)<summary aria-label='대화 상자 열기' class='btn my-2 mr-2 p-0 d-inline-flex' role='button' />
+[294] (834,858)<clipboard-copy aria-label='인어 코드 복사' class='btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay' role='button' />
+
+</current_dom>

@@ -1,0 +1,444 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (138,34)<span  />
+			[5] (116,34)<span >quant trading research sort: />
+			[6] (182,34)<span >updated-desc />
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+저장소 검색 결과 · 양적 거래 연구 정렬: 최신순 내림차순
+[17] (77,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+	필터 기준
+	[18] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=code' id='_R_5sraqdb_' />
+		[19] (79,148)<span  />
+			[20] (71,148)<span  />
+				[21] (32,148)<font  />
+					[22] (32,148)<font >암호 />
+			2
+			(
+			2
+			)
+			결과
+	[23] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=repositories' id='_R_9sraqdb_' />
+		[24] (79,182)<span  />
+			[25] (67,182)<span  />
+				[26] (35,181)<font  />
+					[27] (35,181)<font >저장소 />
+			474
+			(
+			474
+			)
+			결과
+	[28] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=issues' id='_R_dsraqdb_' />
+		[29] (79,216)<span  />
+			[30] (68,216)<span  />
+				[31] (35,215)<font  />
+					[32] (35,215)<font >문제점 />
+			567
+			(
+			567
+			)
+			결과
+	[33] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=pullrequests' id='_R_hsraqdb_' />
+		[34] (79,250)<span  />
+			[35] (68,250)<span  />
+				[36] (43,249)<font  />
+					[37] (43,249)<font >풀 리퀘스트 />
+			375
+			(
+			375
+			)
+			결과
+	[38] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=discussions' id='_R_lsraqdb_' />
+		[39] (79,284)<span  />
+			[40] (70,284)<span  />
+				[41] (32,283)<font  />
+					[42] (32,283)<font >토론 />
+			41
+			(
+			41
+			)
+			결과
+	[43] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc&type=users' id='_R_psraqdb_' />
+		[44] (79,317)<span  />
+			[45] (69,317)<span  />
+				[46] (35,317)<font  />
+					[47] (35,317)<font >사용자 />
+			98
+			(
+			98
+			)
+			결과
+	[48] (73,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_R_2sraqdb_' />
+		[49] (79,351)<span  />
+			[50] (79,351)<span  />
+				[51] (28,351)<font  />
+					[52] (28,351)<font >더 />
+	언어
+	[53] (73,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3APython&type=repositories' id='_R_upbaqdb_' />
+		[54] (78,435)<span  />
+			[55] (78,435)<span  />
+				[56] (78,435)<div  />
+					[57] (78,435)<div  />
+						[58] (32,434)<font  />
+							[59] (32,434)<font >파이썬 />
+	[60] (73,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AJupyter+Notebook&type=repositories' id='_R_1epbaqdb_' />
+		[61] (78,469)<span  />
+			[62] (78,469)<span  />
+				[63] (78,469)<div  />
+					[64] (78,469)<div  />
+						[65] (43,468)<font  />
+							[66] (43,468)<font >주피터 노트북 />
+	[67] (73,503)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3ATypeScript&type=repositories' id='_R_1upbaqdb_' />
+		[68] (78,503)<span  />
+			[69] (78,503)<span  />
+				[70] (78,503)<div  />
+					[71] (78,503)<div  />
+						[72] (42,502)<font  />
+							[73] (42,502)<font >타입스크립트 />
+	[74] (73,537)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AHTML&type=repositories' id='_R_2epbaqdb_' />
+		[75] (78,537)<span  />
+			[76] (78,537)<span  />
+				[77] (78,537)<div  />
+					[78] (78,537)<div  />
+						[79] (31,536)<font  />
+							[80] (31,536)<font >HTML />
+	[81] (73,570)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AC%2B%2B&type=repositories' id='_R_2upbaqdb_' />
+		[82] (78,570)<span  />
+			[83] (78,570)<span  />
+				[84] (78,570)<div  />
+					[85] (78,570)<div  />
+						[86] (29,570)<font  />
+							[87] (29,570)<font >C++ />
+	[88] (73,604)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AJavaScript&type=repositories' id='_R_3epbaqdb_' />
+		[89] (78,604)<span  />
+			[90] (78,604)<span  />
+				[91] (78,604)<div  />
+					[92] (78,604)<div  />
+						[93] (42,604)<font  />
+							[94] (42,604)<font >자바스크립트 />
+	[95] (73,638)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AR&type=repositories' id='_R_3upbaqdb_' />
+		[96] (78,638)<span  />
+			[97] (78,638)<span  />
+				[98] (78,638)<div  />
+					[99] (78,638)<div  />
+						[100] (36,638)<font  />
+							[101] (36,638)<font >아르 자형 />
+	[102] (73,672)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3ARust&type=repositories' id='_R_4epbaqdb_' />
+		[103] (78,672)<span  />
+			[104] (78,672)<span  />
+				[105] (78,672)<div  />
+					[106] (78,672)<div  />
+						[107] (25,671)<font  />
+							[108] (25,671)<font >녹 />
+	[109] (73,706)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AGo&type=repositories' id='_R_4upbaqdb_' />
+		[110] (78,706)<span  />
+			[111] (78,706)<span  />
+				[112] (78,706)<div  />
+					[113] (78,706)<div  />
+						[114] (29,705)<font  />
+							[115] (29,705)<font >가다 />
+	[116] (73,740)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=quant+trading+research+sort%3Aupdated-desc+language%3AJava&type=repositories' id='_R_5epbaqdb_' />
+		[117] (78,740)<span  />
+			[118] (78,740)<span  />
+				[119] (78,740)<div  />
+					[120] (78,740)<div  />
+						[121] (29,739)<font  />
+							[122] (29,739)<font >자바 />
+	[123] (73,774)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_5upbaqdb_' />
+		[124] (79,774)<span  />
+			[125] (79,774)<span  />
+				[126] (79,774)<div  />
+					[127] (46,773)<font  />
+						[128] (46,773)<font >더 많은 언어... />
+	고급의
+	[129] (73,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_v9baqdb_' />
+		[130] (79,857)<span  />
+			[131] (79,857)<span  />
+				[132] (79,857)<div  />
+					[133] (79,857)<div  />
+						[134] (35,857)<font  />
+							[135] (35,857)<font >소유자 />
+	[136] (73,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1f9baqdb_' />
+		[137] (79,891)<span  />
+			[138] (79,891)<span  />
+				[139] (79,891)<div  />
+					[140] (79,891)<div  />
+						[141] (32,890)<font  />
+							[142] (32,890)<font >크기 />
+	[143] (73,925)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1v9baqdb_' />
+		[144] (79,925)<span  />
+			[145] (79,925)<span  />
+				[146] (79,925)<div  />
+					[147] (79,925)<div  />
+						[148] (39,924)<font  />
+							[149] (39,924)<font >팔로워 수 />
+	[150] (73,959)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2f9baqdb_' />
+		[151] (79,959)<span  />
+			[152] (79,959)<span  />
+				[153] (79,959)<div  />
+					[154] (79,959)<div  />
+						[155] (43,958)<font  />
+							[156] (43,958)<font >포크의 개수 />
+	[157] (73,993)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2v9baqdb_' />
+		[158] (79,993)<span  />
+			[159] (79,993)<span  />
+				[160] (79,993)<div  />
+					[161] (79,993)<div  />
+						[162] (39,992)<font  />
+							[163] (39,992)<font >별의 개수 />
+[164] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+474개 결과
+(
+214ms
+)
+474개 결과
+[165] (662,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[166] (658,99)<span  />
+		[167] (658,99)<span  />
+			[168] (633,99)<span  />
+				[169] (633,99)<font  />
+					[170] (633,99)<font >정렬 기준: />
+			[171] (672,99)<font  />
+				[172] (672,99)<font >가장 일치하는 항목 />
+[173] (733,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[174] (733,99)<span  />
+		[175] (733,99)<span  />
+			[176] (733,99)<div  />
+				[177] (738,99)<font  />
+					[178] (738,99)<font >구하다 />
+[179] (763,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+[180] (249,162)<a class='prc-Link-Link-9ZwDx' href='/randomwalkhan/Short-Term-Reversal-Strategy' />
+	[181] (249,161)<span  />
+		[182] (249,161)<font  />
+			[183] (249,161)<font >randomwalkhan/단기 반전 전략 />
+파이썬 기반
+양적
+거래
+연구
+프로젝트: 단기 반전 옵션 설정, 투자 대상 선정, 단계별 진입 백테스팅 및 실시간 거래 시뮬레이션…
+[184] (190,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python' />
+	[185] (190,221)<font  />
+		[186] (190,221)<font >파이썬 />
+[187] (237,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/algorithmic-trading' />
+	[188] (237,221)<font  />
+		[189] (237,221)<font >알고리즘 트레이딩 />
+[190] (288,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/quantitative-trading' />
+	[191] (288,221)<font  />
+		[192] (288,221)<font >양적 거래 />
+[193] (326,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/backtesting' />
+	[194] (326,221)<font  />
+		[195] (326,221)<font >백테스팅 />
+[196] (364,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/blackscholes' />
+	[197] (364,221)<font  />
+		[198] (364,221)<font >블랙숄즈 />
+주피터 노트북
+·
+[199] (242,252)<a aria-label='별 356개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/randomwalkhan/Short-Term-Reversal-Strategy/stargazers' />
+	[200] (248,252)<span  />
+		[201] (248,252)<font  />
+			[202] (248,252)<font >356 />
+·
+업데이트됨
+4분 전
+[203] (748,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[204] (748,168)<span  />
+		[205] (754,168)<span  />
+			[206] (754,167)<font  />
+				[207] (754,167)<font >별 />
+[208] (270,329)<a class='prc-Link-Link-9ZwDx' href='/TshifhunguCodes/Autonomous-Quant-Research-system' />
+	[209] (270,329)<span  />
+		[210] (236,329)<font  />
+			[211] (236,329)<font >TshifhunguCodes/자율- />
+		[212] (289,329)<em  />
+			[213] (289,329)<font  />
+				[214] (289,329)<font >양적 />
+		[215] (301,329)<font  />
+			[216] (301,329)<font >- />
+		[217] (314,329)<em  />
+			[218] (314,329)<font  />
+				[219] (314,329)<font >연구- />
+		[220] (336,329)<font  />
+			[221] (336,329)<font >시스템 />
+이 nrepo 저장소에는 양적 분석과 머신러닝을 활용하여 실수를 통해 학습하고
+거래
+실행을 극대화하는 대규모
+거래
+시스템 의 초기 단계 코드가 포함되어 있습니다 .
+파이썬
+·
+[222] (220,384)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/TshifhunguCodes/Autonomous-Quant-Research-system/stargazers' />
+	[223] (226,384)<span  />
+		[224] (226,384)<font  />
+			[225] (226,384)<font >0 />
+·
+업데이트됨
+1시간 전
+[226] (748,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[227] (748,335)<span  />
+		[228] (754,335)<span  />
+			[229] (754,335)<font  />
+				[230] (754,335)<font >별 />
+[231] (227,460)<a class='prc-Link-Link-9ZwDx' href='/AaronYounger/Quantitative-Finance' />
+	[232] (227,460)<span  />
+		[233] (211,460)<font  />
+			[234] (211,460)<font >아론 영거/ />
+		[235] (238,460)<em  />
+			[236] (238,460)<font  />
+				[237] (238,460)<font >양적 />
+		[238] (255,460)<font  />
+			[239] (255,460)<font >금융 />
+이 저장소는 양적 금융 분야에서 제가 발전시켜 온 전문 지식을 집대성한 지식 기반입니다. 여기에는
+거래
+전략 등이 기록되어 있습니다…
+주피터 노트북
+·
+[240] (239,515)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/AaronYounger/Quantitative-Finance/stargazers' />
+	[241] (245,515)<span  />
+		[242] (245,515)<font  />
+			[243] (245,515)<font >0 />
+·
+업데이트됨
+2시간 전
+[244] (748,467)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[245] (748,467)<span  />
+		[246] (754,467)<span  />
+			[247] (754,466)<font  />
+				[248] (754,466)<font >별 />
+[249] (266,592)<a class='prc-Link-Link-9ZwDx' href='/notloganmartinson/mlb-quant-agent' />
+	[250] (266,591)<span  />
+		[251] (240,591)<font  />
+			[252] (240,591)<font >notloganmartinson/mlb- />
+		[253] (296,591)<em  />
+			[254] (296,591)<font  />
+				[255] (296,591)<font >퀀트 />
+		[256] (322,591)<font  />
+			[257] (322,591)<font >-에이전트 />
+MLB 알고리즘
+트레이딩을
+위한 연구
+중심 AI 에이전트입니다
+. 거의 전적으로 Gemini CLI를 사용하여 개발되었습니다.
+HTML
+·
+[258] (219,646)<a aria-label='별 1개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/notloganmartinson/mlb-quant-agent/stargazers' />
+	[259] (225,646)<span  />
+		[260] (225,646)<font  />
+			[261] (225,646)<font >1 />
+·
+업데이트됨
+3시간 전
+[262] (748,598)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[263] (748,598)<span  />
+		[264] (754,598)<span  />
+			[265] (754,597)<font  />
+				[266] (754,597)<font >별 />
+[267] (283,723)<a class='prc-Link-Link-9ZwDx' href='/eddamenace467/ai-investment-knowledge-base' />
+	[268] (283,722)<span  />
+		[269] (283,722)<font  />
+			[270] (283,722)<font >eddamenace467/ai-investment-knowledge-base />
+AI 에이전트가 암호화폐 투자, 연구
+및
+거래
+전략을 학습할 수 있도록 크리스 딕슨 투자 지식 기반을 구축하세요
+.
+[271] (193,782)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/react' />
+	[272] (193,782)<font  />
+		[273] (193,782)<font >반응하다 />
+[274] (231,782)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/open-source' />
+	[275] (231,782)<font  />
+		[276] (231,782)<font >오픈 소스 />
+[277] (271,782)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+	[278] (271,782)<font  />
+		[279] (271,782)<font >일체 포함 />
+[280] (309,782)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/openapi' />
+	[281] (309,782)<font  />
+		[282] (309,782)<font >오픈 API />
+[283] (349,782)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/gemini' />
+	[284] (349,782)<font  />
+		[285] (349,782)<font >쌍둥이자리 />
+[286] (183,813)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/eddamenace467/ai-investment-knowledge-base/stargazers' />
+	[287] (189,813)<span  />
+		[288] (189,813)<font  />
+			[289] (189,813)<font >0 />
+·
+업데이트됨
+3시간 전
+[290] (748,729)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[291] (748,729)<span  />
+		[292] (754,729)<span  />
+			[293] (754,728)<font  />
+				[294] (754,728)<font >별 />
+[295] (251,890)<a class='prc-Link-Link-9ZwDx' href='/Conjunct-vasopressor821/quant-signal' />
+	[296] (251,889)<span  />
+		[297] (229,889)<font  />
+			[298] (229,889)<font >결합 혈관수축제821/ />
+		[299] (277,889)<em  />
+			[300] (277,889)<font  />
+				[301] (277,889)<font >quant />
+		[302] (299,889)<font  />
+			[303] (299,889)<font >-신호 />
+AI를 활용하여 암호화폐 시장 신호를 검증하고 실시간
+거래
+,
+연구
+및
+양적
+분석을 수행하세요.
+[304] (194,949)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/open-source' />
+	[305] (194,949)<font  />
+		[306] (194,949)<font >오픈 소스 />
+[307] (232,949)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning' />
+	[308] (232,949)<font  />
+		[309] (232,949)<font >머신러닝 />
+[310] (275,949)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/typescript' />
+	[311] (275,949)<font  />
+		[312] (275,949)<font >타입스크립트 />
+[313] (319,949)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bitcoin' />
+	[314] (319,949)<font  />
+		[315] (319,949)<font >비트코인 />
+[316] (351,949)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/market' />
+	[317] (351,949)<font  />
+		[318] (351,949)<font >시장 />
+[319] (183,980)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Conjunct-vasopressor821/quant-signal/stargazers' />
+	[320] (189,980)<span  />
+		[321] (189,980)<font  />
+			[322] (189,980)<font >0 />
+·
+업데이트됨
+3시간 전
+[323] (748,896)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[324] (748,896)<span  />
+		[325] (754,896)<span  />
+			[326] (754,896)<font  />
+				[327] (754,896)<font >별 />
+여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+[328] (885,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+	[329] (837,312)<font  />
+		[330] (837,312)<font >후원 가능한 프로젝트를 살펴보세요 />
+검색 기능을 어떻게 개선할 수 있을까요?
+[331] (923,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+	[332] (923,386)<span  />
+		[333] (923,386)<font  />
+			[334] (923,386)<font >피드백을 제공하세요 />
+꿀팁!
+누르세요
+/
+검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

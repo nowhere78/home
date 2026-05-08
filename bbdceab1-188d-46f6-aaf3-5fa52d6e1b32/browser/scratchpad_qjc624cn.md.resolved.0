@@ -1,0 +1,15 @@
+# Task: Scan Mike Molinet's GitHub Repositories
+
+## Plan
+- [ ] List all repositories of `mikemolinet`.
+- [ ] Deep dive into `agent-university`.
+    - [ ] Explore `domains` folder.
+    - [ ] Explore `lessons` folder.
+    - [ ] Look for hidden scripts, prompts, or logic.
+- [ ] Deep dive into `ai-drop-daily-content`.
+    - [ ] Look for implementation patterns.
+- [ ] Check other repositories for valuable resources.
+- [ ] Compile a comprehensive list of discovered gems.
+
+## Findings
+- 

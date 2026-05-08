@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+하부 구조
+[41] (219,285)<a class='md-nav__link' href='../llm-frameworks/' />
+	[42] (202,285)<span  />
+		[43] (202,284)<font  />
+			[44] (202,284)<font >LLM 응용 프레임워크 />
+[45] (219,325)<a class='md-nav__link' href='../rag-vector-db/' />
+	[46] (211,325)<span  />
+		[47] (211,324)<font  />
+			[48] (211,324)<font >RAG 및 벡터 데이터베이스 />
+[49] (219,365)<a class='md-nav__link' href='../data-infra/' />
+	[50] (219,365)<span  />
+		[51] (219,365)<font  />
+			[52] (219,365)<font >대규모 AI를 위한 데이터 인프라 />
+[53] (219,405)<a class='md-nav__link' href='../fine-tuning/' />
+	[54] (200,405)<span  />
+		[55] (200,405)<font  />
+			[56] (200,405)<font >LLM 미세 조정 기법 />
+[57] (219,446)<a class='md-nav__link md-nav__link--active' href='./' />
+	[58] (209,446)<span  />
+		[59] (209,445)<font  />
+			[60] (209,445)<font >LLM 배포 및 서비스 제공 />
+[61] (223,494)<a class='md-nav__link' href='#inference-engines' />
+	[62] (189,494)<span  />
+		[63] (189,493)<font  />
+			[64] (189,493)<font >추론 엔진 />
+[65] (223,560)<a class='md-nav__link' href='#production-ai-orchestration-cloud-platforms' />
+	[66] (224,560)<span  />
+		[67] (220,559)<font  />
+			[68] (220,559)<font >프로덕션 AI 오케스트레이션 및 클라우드 플랫폼 />
+[69] (219,641)<a class='md-nav__link' href='../distributed-training/' />
+	[70] (205,641)<span  />
+		[71] (205,640)<font  />
+			[72] (205,640)<font >분산형 교육 프레임워크 />
+[73] (219,681)<a class='md-nav__link' href='../compute-hardware/' />
+	[74] (211,681)<span  />
+		[75] (211,680)<font  />
+			[76] (211,680)<font >컴퓨팅, 하드웨어 및 양자화 />
+[77] (219,721)<a class='md-nav__link' href='../prompt-engineering/' />
+	[78] (200,721)<span  />
+		[79] (200,721)<font  />
+			[80] (200,721)<font >프롬프트 엔지니어링 />
+LLM 배포 및 서비스 제공
+[81] (661,331)<a class='headerlink' href='#llm-deployment-and-serving' title='영구 링크' />
+	[82] (661,330)<font  />
+		[83] (661,330)<font  />
+연구 단계에서 실제 운영 단계로 모델을 구현합니다. 고성능 추론 엔진, 서비스 프레임워크 및 최적화 도구를 통해 LLM을 빠르고 비용 효율적이며 확장 가능하게 만듭니다.
+[84] (359,619)<a class='glightbox' href='https://img.shields.io/badge/vLLM-PagedAttention-blue?style=flat-square' />
+	[85] (359,616)<img  />
+[86] (435,619)<a class='glightbox' href='https://img.shields.io/badge/CUDA-GPU_Inference-76B900?style=flat-square&logo=nvidia&logoColor=white' />
+	[87] (435,616)<img  />
+[88] (515,619)<a class='glightbox' href='https://img.shields.io/badge/Quantization-INT4_INT8-orange?style=flat-square' />
+	[89] (515,616)<img  />
+[90] (588,619)<a class='glightbox' href='https://img.shields.io/badge/Production-Serving-green?style=flat-square' />
+	[91] (588,616)<img  />
+추론 엔진
+[92] (421,714)<a class='headerlink' href='#inference-engines' title='영구 링크' />
+	[93] (421,713)<font  />
+		[94] (421,713)<font  />
+이름
+설명
+모래밭
+[95] (358,906)<a href='https://github.com/vllm-project/vllm' />
+	[96] (358,906)<font  />
+		[97] (358,906)<font >vLLM />
+PagedAttention을 사용하는 LLM을 위한 고처리량 및 메모리 효율적인 추론 및 서비스 엔진.
+[98] (754,920)<a href='https://docs.vllm.ai/' />
+	[99] (754,920)<font  />
+		[100] (754,920)<font >문서 />
+
+</current_dom>

@@ -1,0 +1,362 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,34)<div  />
+	[1] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+	[4] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[5] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_2g_' />
+	[6] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_2l_' />
+		[7] (740,34)<span  />
+	[8] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[9] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[10] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[11] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[12] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[13] (967,34)<img  />
+저장소 검색 결과 · Gemma 멀티모달
+[14] (154,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+	필터 기준
+	[15] (147,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=code' id='_r_4_' />
+		[16] (159,148)<span  />
+			[17] (140,148)<span  />
+				[18] (64,148)<font  />
+					[19] (64,148)<font >암호 />
+			결과
+	[20] (147,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=repositories' id='_r_5_' />
+		[21] (159,182)<span  />
+			[22] (140,182)<span  />
+				[23] (70,182)<font  />
+					[24] (70,182)<font >저장소 />
+			결과
+	[25] (147,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=issues' id='_r_6_' />
+		[26] (159,216)<span  />
+			[27] (140,216)<span  />
+				[28] (70,216)<font  />
+					[29] (70,216)<font >문제점 />
+			결과
+	[30] (147,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=pullrequests' id='_r_7_' />
+		[31] (159,250)<span  />
+			[32] (140,250)<span  />
+				[33] (86,249)<font  />
+					[34] (86,249)<font >풀 리퀘스트 />
+			결과
+	[35] (147,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=discussions' id='_r_8_' />
+		[36] (159,284)<span  />
+			[37] (140,284)<span  />
+				[38] (64,283)<font  />
+					[39] (64,283)<font >토론 />
+			결과
+	[40] (147,318)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal&type=users' id='_r_9_' />
+		[41] (159,318)<span  />
+			[42] (140,318)<span  />
+				[43] (70,317)<font  />
+					[44] (70,317)<font >사용자 />
+			결과
+	[45] (147,352)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+		[46] (159,352)<span  />
+			[47] (159,352)<span  />
+				[48] (57,351)<font  />
+					[49] (57,351)<font >더 />
+	언어
+	[50] (147,426)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3APython&s=stars&o=desc&type=repositories' id='_r_c_' />
+		[51] (156,426)<span  />
+			[52] (156,426)<span  />
+				[53] (156,426)<div  />
+					[54] (156,426)<div  />
+						[55] (64,425)<font  />
+							[56] (64,425)<font >파이썬 />
+	[57] (147,460)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3AJupyter+Notebook&s=stars&o=desc&type=repositories' id='_r_d_' />
+		[58] (156,460)<span  />
+			[59] (156,460)<span  />
+				[60] (156,460)<div  />
+					[61] (156,460)<div  />
+						[62] (86,459)<font  />
+							[63] (86,459)<font >주피터 노트북 />
+	[64] (147,494)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3ATypeScript&s=stars&o=desc&type=repositories' id='_r_e_' />
+		[65] (156,494)<span  />
+			[66] (156,494)<span  />
+				[67] (156,494)<div  />
+					[68] (156,494)<div  />
+						[69] (84,493)<font  />
+							[70] (84,493)<font >타입스크립트 />
+	[71] (147,528)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3AHTML&s=stars&o=desc&type=repositories' id='_r_f_' />
+		[72] (156,528)<span  />
+			[73] (156,528)<span  />
+				[74] (156,528)<div  />
+					[75] (156,528)<div  />
+						[76] (63,527)<font  />
+							[77] (63,527)<font >HTML />
+	[78] (147,561)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3AKotlin&s=stars&o=desc&type=repositories' id='_r_g_' />
+		[79] (156,561)<span  />
+			[80] (156,561)<span  />
+				[81] (156,561)<div  />
+					[82] (156,561)<div  />
+						[83] (64,561)<font  />
+							[84] (64,561)<font >코틀린 />
+	[85] (147,595)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3ADart&s=stars&o=desc&type=repositories' id='_r_h_' />
+		[86] (156,595)<span  />
+			[87] (156,595)<span  />
+				[88] (156,595)<div  />
+					[89] (156,595)<div  />
+						[90] (57,595)<font  />
+							[91] (57,595)<font >다트 />
+	[92] (147,629)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3AJavaScript&s=stars&o=desc&type=repositories' id='_r_i_' />
+		[93] (156,629)<span  />
+			[94] (156,629)<span  />
+				[95] (156,629)<div  />
+					[96] (156,629)<div  />
+						[97] (84,629)<font  />
+							[98] (84,629)<font >자바스크립트 />
+	[99] (147,663)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3ASwift&s=stars&o=desc&type=repositories' id='_r_j_' />
+		[100] (156,663)<span  />
+			[101] (156,663)<span  />
+				[102] (156,663)<div  />
+					[103] (156,663)<div  />
+						[104] (71,663)<font  />
+							[105] (71,663)<font >스위프트 />
+	[106] (147,697)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3ARust&s=stars&o=desc&type=repositories' id='_r_k_' />
+		[107] (156,697)<span  />
+			[108] (156,697)<span  />
+				[109] (156,697)<div  />
+					[110] (156,697)<div  />
+						[111] (51,697)<font  />
+							[112] (51,697)<font >녹 />
+	[113] (147,731)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Gemma+multimodal+language%3AVue&s=stars&o=desc&type=repositories' id='_r_l_' />
+		[114] (156,731)<span  />
+			[115] (156,731)<span  />
+				[116] (156,731)<div  />
+					[117] (156,731)<div  />
+						[118] (51,730)<font  />
+							[119] (51,730)<font >뷰 />
+	[120] (147,765)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+		[121] (159,765)<span  />
+			[122] (159,765)<span  />
+				[123] (159,765)<div  />
+					[124] (92,764)<font  />
+						[125] (92,764)<font >더 많은 언어... />
+	고급의
+	[126] (147,849)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+		[127] (159,849)<span  />
+			[128] (159,849)<span  />
+				[129] (159,849)<div  />
+					[130] (159,849)<div  />
+						[131] (70,848)<font  />
+							[132] (70,848)<font >소유자 />
+	[133] (147,882)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+		[134] (159,882)<span  />
+			[135] (159,882)<span  />
+				[136] (159,882)<div  />
+					[137] (159,882)<div  />
+						[138] (64,882)<font  />
+							[139] (64,882)<font >크기 />
+	[140] (147,916)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+		[141] (159,916)<span  />
+			[142] (159,916)<span  />
+				[143] (159,916)<div  />
+					[144] (159,916)<div  />
+						[145] (79,916)<font  />
+							[146] (79,916)<font >팔로워 수 />
+	[147] (147,950)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_r_' />
+		[148] (159,950)<span  />
+			[149] (159,950)<span  />
+				[150] (159,950)<div  />
+					[151] (159,950)<div  />
+						[152] (86,950)<font  />
+							[153] (86,950)<font >포크의 개수 />
+	[154] (147,984)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_s_' />
+		[155] (159,984)<span  />
+			[156] (159,984)<span  />
+				[157] (159,984)<div  />
+					[158] (159,984)<div  />
+						[159] (79,984)<font  />
+							[160] (79,984)<font >별의 개수 />
+[161] (309,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+194개 결과
+(
+202ms
+)
+194개 결과
+[162] (780,100)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_19_' />
+	[163] (772,100)<span  />
+		[164] (772,100)<span  />
+			[165] (772,99)<font  />
+				[166] (735,99)<font >별점 수 />
+				[167] (792,99)<span  />
+					[168] (792,99)<font >기준으로 정렬 />
+[169] (900,100)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[170] (900,100)<span  />
+		[171] (900,100)<span  />
+			[172] (900,100)<div  />
+				[173] (911,99)<font  />
+					[174] (911,99)<font >구하다 />
+[175] (960,100)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1j_' />
+[176] (464,162)<a class='prc-Link-Link-9ZwDx' href='/huggingface/transformers' />
+	[177] (464,162)<span  />
+		[178] (464,162)<font  />
+			[179] (464,162)<font >허깅페이스/트랜스포머 />
+🤗 트랜스포머: 텍스트, 비전, 오디오 및 멀티모달
+모델 분야의 최첨단 머신러닝 모델을 위한 모델 정의 프레임워크
+…
+[180] (381,244)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/audio' />
+	[181] (381,244)<font  />
+		[182] (381,244)<font >오디오 />
+[183] (444,244)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python' />
+	[184] (444,244)<font  />
+		[185] (444,244)<font >파이썬 />
+[186] (500,244)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/nlp' />
+	[187] (500,244)<font  />
+		[188] (500,244)<font >nlp />
+[189] (561,244)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning' />
+	[190] (561,244)<font  />
+		[191] (561,244)<font >머신러닝 />
+[192] (644,244)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/natural-language-processing' />
+	[193] (644,244)<font  />
+		[194] (644,244)<font >자연어 처리 />
+파이썬
+·
+[195] (451,275)<a aria-label='159960개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/huggingface/transformers/stargazers' />
+	[196] (462,275)<span  />
+		[197] (462,275)<font  />
+			[198] (462,275)<font >160k />
+·
+업데이트됨
+14시간 전
+[199] (932,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[200] (932,168)<span  />
+		[201] (942,168)<span  />
+			[202] (942,168)<font  />
+				[203] (942,168)<font >별 />
+[204] (435,352)<a class='prc-Link-Link-9ZwDx' href='/xorbitsai/inference' />
+	[205] (435,351)<span  />
+		[206] (435,351)<font  />
+			[207] (435,351)<font >xorbitsai/추론 />
+코드 한 줄만 수정하면 GPT를 어떤 LLM으로든 교체할 수 있습니다. Xinference를 사용하면
+클라우드, 온프레미스 등 다양한 환경에서 오픈 소스, 음성 및
+멀티모달 모델을 실행할 수 있습니다.
+[208] (386,456)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning' />
+	[209] (386,456)<font  />
+		[210] (386,456)<font >머신러닝 />
+[211] (450,456)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/deployment' />
+	[212] (450,456)<font  />
+		[213] (450,456)<font >전개 />
+[214] (502,456)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/inference' />
+	[215] (502,456)<font  />
+		[216] (502,456)<font >추론 />
+[217] (566,456)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/pytorch' />
+	[218] (566,456)<font  />
+		[219] (566,456)<font >파이토치 />
+[220] (642,456)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/artificial-intelligence' />
+	[221] (642,456)<font  />
+		[222] (642,456)<font >인공지능 />
+파이썬
+·
+[223] (449,487)<a aria-label='9261개의 ​​별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/xorbitsai/inference/stargazers' />
+	[224] (460,487)<span  />
+		[225] (460,487)<font  />
+			[226] (460,487)<font >9.3k />
+·
+업데이트됨
+15시간 전
+[227] (932,358)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[228] (932,358)<span  />
+		[229] (942,358)<span  />
+			[230] (942,357)<font  />
+				[231] (942,357)<font >별 />
+[232] (439,564)<a class='prc-Link-Link-9ZwDx' href='/fikrikarim/parlor' />
+	[233] (439,563)<span  />
+		[234] (439,563)<font  />
+			[235] (439,563)<font >fikrikarim/팔러 />
+기기 내 실시간
+멀티모달
+AI. 기기에서 완전히 실행되는 AI와 자연스러운 음성 및 영상 대화를 나누세요.
+Google Play 기반.
+[236] (381,645)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python' />
+	[237] (381,645)<font  />
+		[238] (381,645)<font >파이썬 />
+[239] (471,645)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/text-to-speech' />
+	[240] (471,645)<font  />
+		[241] (471,645)<font >텍스트 음성 변환 />
+[242] (561,645)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/real-time' />
+	[243] (561,645)<font  />
+		[244] (561,645)<font >실시간 />
+[245] (632,645)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/speech-recognition' />
+	[246] (632,645)<font  />
+		[247] (632,645)<font >음성 인식 />
+[248] (698,645)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/gemma' />
+	[249] (698,645)<font  />
+		[250] (698,645)<font >아체 />
+HTML
+·
+[251] (447,676)<a aria-label='1631개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/fikrikarim/parlor/stargazers' />
+	[252] (458,676)<span  />
+		[253] (458,676)<font  />
+			[254] (458,676)<font >1.6k />
+·
+업데이트됨
+20일 전
+[255] (932,570)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[256] (932,570)<span  />
+		[257] (942,570)<span  />
+			[258] (942,569)<font  />
+				[259] (942,569)<font >별 />
+[260] (501,753)<a class='prc-Link-Link-9ZwDx' href='/mattmireles/gemma-tuner-multimodal' />
+	[261] (501,753)<span  />
+		[262] (428,753)<font  />
+			[263] (428,753)<font >맷미렐레스/ />
+		[264] (488,753)<em  />
+			[265] (488,753)<font  />
+				[266] (488,753)<font >젬마 />
+		[267] (530,753)<font  />
+			[268] (530,753)<font >-튜너- />
+		[269] (587,753)<em  />
+			[270] (587,753)<font  />
+				[271] (587,753)<font >멀티모달 />
+PyTorch와 Metal Performance Shaders를 사용하여 Apple Silicon에서 Gemma
+4 및 3n의 오디오, 이미지 및 텍스트를
+세밀하게 조정하세요 .
+파이썬
+·
+[272] (449,830)<a aria-label='1388개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/mattmireles/gemma-tuner-multimodal/stargazers' />
+	[273] (460,830)<span  />
+		[274] (460,830)<font  />
+			[275] (460,830)<font >1.4k />
+·
+업데이트됨
+10일 전
+[276] (846,760)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[277] (846,760)<span  />
+		[278] (856,760)<span  />
+			[279] (856,759)<font  />
+				[280] (856,759)<font >별 />
+[281] (918,760)<button aria-label='스폰서 mattmireles/gemma-tuner-multimodal' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-mattmireles-gemma-tuner-multimodal' />
+	[282] (918,760)<span  />
+		[283] (918,760)<span  />
+			[284] (931,759)<span  />
+				[285] (931,759)<font  />
+					[286] (931,759)<font >스폰서 />
+[287] (539,907)<a class='prc-Link-Link-9ZwDx' href='/alisson-anjos/ComfyUI-Ollama-Describer' />
+	[288] (539,906)<span  />
+		[289] (539,906)<font  />
+			[290] (539,906)<font >alisson-anjos/ComfyUI-Ollama-Describer />
+ComfyUI 확장 프로그램으로, Gemma
+, Llava(
+멀티모달
+), Llama2, Llama3 또는 Mi
+등 Ollama에서 제공하는 일부 LLM 템플릿을 사용할 수 있습니다.
+파이썬
+·
+116
+·
+업데이트됨
+3월 19일
+[291] (932,913)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[292] (932,913)<span  />
+		[293] (942,913)<span  />
+			[294] (942,912)<font  />
+				[295] (942,912)<font >별 />
+
+</current_dom>

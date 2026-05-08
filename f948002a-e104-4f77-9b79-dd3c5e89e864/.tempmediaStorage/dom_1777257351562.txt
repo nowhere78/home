@@ -1,0 +1,75 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (44,34)<button aria-label='목차 열기' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle leading-normal disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-2 -ml-2 text-tint-strong site-header:theme-bold:text-header-link hover:bg-tint-hover hover:site-header:theme-bold:bg-header-link/3 no-sidebar:hidden lg:hidden' />
+[1] (145,34)<a class='group/headerlogo min-w-0 shrink flex items-center' href='/docs' />
+	[2] (145,34)<img  />
+[3] (455,34)<div  />
+	[4] (431,34)<input aria-label='질문하거나 검색하세요' class='peer max-h-64 grow shrink resize-none leading-normal text-left outline-none placeholder:text-tint/8 placeholder-shown:text-ellipsis aria-busy:cursor-progress -m-2 p-2' placeholder='질문하거나 검색해 보세요…' />
+	Ctrl
+	k
+[5] (801,34)<a class='flex items-center gap-1 shrink contrast-more:underline truncate text-tint links-default:hover:text-primary links-default:data-[state=open]:text-primary links-default:tint:hover:text-tint-strong links-default:tint:data-[state=open]:text-tint-strong underline-offset-2 links-accent:hover:underline links-accent:data-[state=open]:underline links-accent:underline-offset-4 links-accent:decoration-primary-subtle links-accent:decoration-[3px] links-accent:py-0.5 theme-bold:text-header-link hover:theme-bold:text-header-link/7!' href='https://www.reddit.com/r/unsloth/' />
+	[6] (801,34)<font  />
+		[7] (801,33)<font >레딧 />
+[8] (849,34)<button class='group/dropdown text-tint hover:text-primary dark:hover:text-primary theme-bold:text-header-link theme-bold:hover:text-header-link/8 flex gap-1 items-center' id='radix-_r_d_' />
+	더
+[9] (917,34)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! text-tint border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1.5 text-sm/normal px-3 group/dropdown -mx-3 bg-transparent lg:max-w-64 max-md:[&_.button-content]:hidden md:[&_.button-leading-icon]:hidden flex! site-header:theme-bold:text-header-link hover:site-header:theme-bold:bg-header-link/3 focus-visible:site-header:theme-bold:bg-header-link/3 aria-expanded:site-header:theme-bold:bg-header-link/5' id='radix-_r_h_' />
+	[10] (906,34)<span  />
+		[11] (906,34)<span  />
+			[12] (906,34)<font  />
+				[13] (906,34)<font >🇺🇸 영어 />
+	[14] (945,34)<span  />
+여기에서 더 많은 노트북을
+볼 수 있습니다
+.
+Gemma 4는 9GB VRAM에서
+강화 학습
+(RL) 을 사용하여 훈련할 수도 있습니다 .
+Gemma 4 E2B LoRA는 8~10GB VRAM에서 작동합니다. E4B LoRA는 17GB VRAM이 필요합니다.
+31B QLoRA는 22GB 메모리로 작동하며
+, 26B-A4B LoRA는 40GB 이상의 메모리가 필요합니다.
+모델을 GGUF 등으로
+내보내
+거나 저장하는 기능 과
+전체 미세 조정
+(FFT)
+기능도 정상적으로 작동합니다.
+[15] (75,245)<a aria-label='제목으로 바로 연결되는 링크' class='inline-flex h-full items-start leading-snug' href='#bug-fixes--tips' />
+🐛
+버그 수정 + 팁
+Gemma-4 E2B 및 E4B에서 13~15의 손실이 발생하는 것은 지극히 정상입니다
+.
+이는 멀티모달 모델에서 흔히 나타나는 현상입니다. Gemma-3N, Llama Vision, Mistral Vision 등 다른 모델에서도 동일한 현상이 발생했습니다.
+젬마 26B와 31B는 1~3 이하의 시력 손실이 적습니다. 시력은 2배 더 높아서 3~5까지 회복됩니다.
+[16] (75,442)<a aria-label='제목으로 바로 연결되는 링크' class='inline-flex h-full items-start leading-snug' href='#gradient-accumulation-might-inflate-your-losses' />
+🍇
+경사 누적으로 손실이 커질 수 있습니다
+[17] (283,596)<img  />
+[18] (701,596)<img  />
+손실 값이 13-15보다 높은 경우(예: 100 또는 300)에는 그라디언트 누적이 제대로 계산되지 않았을 가능성이 높습니다.
+Unsloth 및 Unsloth Studio에서 이 문제를 수정했습니다.
+그래디언트 누적에 대한 자세한 내용은 그래디언트 누적 버그 수정 블로그(
+[19] (493,835)<a class='underline decoration-[max(0.07em,1px)] underline-offset-2 links-accent:underline-offset-4 links-default:decoration-primary/6 links-default:text-primary-subtle hover:links-default:text-primary-strong contrast-more:links-default:text-primary contrast-more:hover:links-default:text-primary-strong links-accent:decoration-primary-subtle hover:links-accent:decoration-[3px] hover:links-accent:[text-decoration-skip-ink:none] transition-all duration-100' href='https://unsloth.ai/blog/gradient' />
+	[20] (493,835)<font  />
+		[21] (493,835)<font >https://unsloth.ai/blog/gradient )를 참조하세요. />
+[22] (75,904)<a aria-label='제목으로 바로 연결되는 링크' class='inline-flex h-full items-start leading-snug' href='#indexerror-on-gemma-4-31b-and-26b-a4b-inference' />
+⁉️
+Gemma-4 31B 및 26B-A4B 추론에서 IndexError 발생
+31B와 26B를 사용하여 추론을 수행할 때 이 오류가 발생할 수 있습니다.
+이 사이트는 서비스 제공 및 트래픽 분석을 위해 쿠키를 사용합니다. 이 사이트를 탐색함으로써 귀하는
+[23] (585,905)<a class='underline decoration-[max(0.07em,1px)] underline-offset-2 links-accent:underline-offset-4 links-default:decoration-primary/6 links-default:text-primary-subtle hover:links-default:text-primary-strong contrast-more:links-default:text-primary contrast-more:hover:links-default:text-primary-strong links-accent:decoration-primary-subtle hover:links-accent:decoration-[3px] hover:links-accent:[text-decoration-skip-ink:none] transition-all duration-100' href='https://policies.gitbook.com/privacy/cookies' />
+	[24] (585,905)<font  />
+		[25] (585,905)<font >개인정보 보호정책에 />
+동의하는 것으로 간주됩니다 .
+[26] (942,862)<button aria-label='닫다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent text-tint border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1.5 text-sm/normal absolute top-2 right-2 hover:bg-tint-hover' />
+[27] (559,948)<button aria-label='수용하다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border hover:border-tint-hover depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-primary-original text-contrast-primary-original hover:not-disabled:bg-primary-solid-hover hover:not-disabled:border-primary-solid-hover hover:not-disabled:text-contrast-primary-solid-hover border-primary-original contrast-more:bg-primary-solid contrast-more:text-contrast-primary-solid disabled:border-primary-2 disabled:bg-primary-subtle disabled:text-primary/8 p-1.5 text-sm/normal px-3' />
+	[28] (559,948)<span  />
+		[29] (559,948)<font  />
+			[30] (559,948)<font >수용하다 />
+[31] (653,948)<button aria-label='거부하다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-tint depth-flat:bg-transparent text-tint hover:bg-tint-hover hover:not-disabled:depth-flat:bg-tint-hover hover:not-disabled:text-tint contrast-more:bg-tint-subtle disabled:bg-transparent disabled:text-tint/8 p-1.5 text-sm/normal px-3' />
+	[32] (653,948)<span  />
+		[33] (653,948)<font  />
+			[34] (653,948)<font >거부하다 />
+
+</current_dom>

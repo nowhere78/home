@@ -1,0 +1,132 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+하부 구조
+[41] (219,285)<a class='md-nav__link' href='../llm-frameworks/' />
+	[42] (202,285)<span  />
+		[43] (202,284)<font  />
+			[44] (202,284)<font >LLM 응용 프레임워크 />
+[45] (219,325)<a class='md-nav__link md-nav__link--active' href='./' />
+	[46] (212,325)<span  />
+		[47] (212,324)<font  />
+			[48] (212,324)<font >RAG 및 벡터 데이터베이스 />
+[49] (223,373)<a class='md-nav__link' href='#vector-databases' />
+	[50] (208,373)<span  />
+		[51] (208,373)<font  />
+			[52] (208,373)<font >벡터 데이터베이스 />
+[53] (223,426)<a class='md-nav__link' href='#rag-engines-platforms' />
+	[54] (212,426)<span  />
+		[55] (212,425)<font  />
+			[56] (212,425)<font >RAG 엔진 및 플랫폼 />
+[57] (223,479)<a class='md-nav__link' href='#graph-rag' />
+	[58] (195,479)<span  />
+		[59] (195,478)<font  />
+			[60] (195,478)<font >그래프 RAG />
+[61] (223,531)<a class='md-nav__link' href='#document-parsing-for-rag' />
+	[62] (217,531)<span  />
+		[63] (217,530)<font  />
+			[64] (217,530)<font >RAG용 문서 구문 분석 />
+[65] (223,584)<a class='md-nav__link' href='#advanced-rag-techniques' />
+	[66] (201,584)<span  />
+		[67] (201,583)<font  />
+			[68] (201,583)<font >고급 RAG 기법 />
+[69] (223,650)<a class='md-nav__link' href='#embedding-models-2025-2026' />
+	[70] (224,650)<span  />
+		[71] (212,649)<font  />
+			[72] (212,649)<font >임베딩 모델 (2025-2026) />
+[73] (219,731)<a class='md-nav__link' href='../data-infra/' />
+	[74] (219,731)<span  />
+		[75] (219,730)<font  />
+			[76] (219,730)<font >대규모 AI를 위한 데이터 인프라 />
+[77] (219,771)<a class='md-nav__link' href='../fine-tuning/' />
+	[78] (200,771)<span  />
+		[79] (200,770)<font  />
+			[80] (200,770)<font >LLM 미세 조정 기법 />
+[81] (219,811)<a class='md-nav__link' href='../deployment/' />
+	[82] (208,811)<span  />
+		[83] (208,811)<font  />
+			[84] (208,811)<font >LLM 배포 및 서비스 제공 />
+[85] (219,851)<a class='md-nav__link' href='../distributed-training/' />
+	[86] (205,851)<span  />
+		[87] (205,851)<font  />
+			[88] (205,851)<font >분산형 교육 프레임워크 />
+[89] (219,892)<a class='md-nav__link' href='../compute-hardware/' />
+	[90] (211,892)<span  />
+		[91] (211,891)<font  />
+			[92] (211,891)<font >컴퓨팅, 하드웨어 및 양자화 />
+[93] (219,932)<a class='md-nav__link' href='../prompt-engineering/' />
+	[94] (200,932)<span  />
+		[95] (200,931)<font  />
+			[96] (200,931)<font >프롬프트 엔지니어링 />
+RAG 및 벡터 데이터베이스
+[97] (684,331)<a class='headerlink' href='#rag-and-vector-databases' title='영구 링크' />
+	[98] (684,330)<font  />
+		[99] (684,330)<font  />
+RAG는 ​​LLM을 실제 데이터에 기반하여 구현함으로써, 허황된 상상을 없애고 지식 집약적인 응용 프로그램을 가능하게 합니다. RAG 스택 전체 구성 요소는 벡터 저장소, 검색 엔진, 그래프 RAG, 문서 구문 분석 및 임베디드 모델입니다.
+[100] (375,661)<a class='glightbox' href='https://img.shields.io/badge/Vector_DB-Milvus_Qdrant_Chroma-blue?style=flat-square' />
+	[101] (375,658)<img  />
+[102] (478,661)<a class='glightbox' href='https://img.shields.io/badge/Graph_RAG-Knowledge_Graphs-purple?style=flat-square' />
+	[103] (478,658)<img  />
+[104] (585,661)<a class='glightbox' href='https://img.shields.io/badge/Embeddings-OpenAI_Cohere_NVIDIA-green?style=flat-square' />
+	[105] (585,658)<img  />
+[106] (689,661)<a class='glightbox' href='https://img.shields.io/badge/Document_Parsing-PDF_OCR-orange?style=flat-square' />
+	[107] (689,658)<img  />
+벡터 데이터베이스
+[108] (494,756)<a class='headerlink' href='#vector-databases' title='영구 링크' />
+	[109] (494,755)<font  />
+		[110] (494,755)<font  />
+이름
+설명
+모래밭
+[111] (358,948)<a href='https://github.com/milvus-io/milvus' />
+	[112] (358,948)<font  />
+		[113] (358,948)<font >밀버스 />
+클라우드 네이티브 분산형 벡터 데이터베이스로 수십억 규모의 유사도 검색이 가능합니다. 가장 확장성이 뛰어난 오픈 소스 벡터 데이터베이스이며, 44,000개 이상의 별점을 받았습니다.
+[114] (735,962)<a href='https://milvus.io/' />
+	[115] (735,961)<font  />
+		[116] (735,961)<font >밀버스.io />
+
+</current_dom>

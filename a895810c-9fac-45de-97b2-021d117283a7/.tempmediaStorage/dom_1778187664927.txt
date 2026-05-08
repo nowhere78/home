@@ -1,0 +1,345 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (419,28)<tr  />
+	[1] (217,29)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/.github' title='.github' />
+		[2] (217,29)<font  />
+			[3] (217,29)<font >.github />
+	[4] (472,29)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/d648753f848339dc978525151c0df32b31299235' title='수정: test_ubuntu_latest_314 작업에 TABPFN_TOKEN 추가 (#925) 공동 작성자: Claude Opus 4.7 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[5] (472,29)<font  />
+			[6] (472,29)<font >수정: test_ubuntu_latest_314 작업에 TABPFN_TOKEN 추가( />
+	[7] (574,29)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/925' />
+		[8] (574,29)<font  />
+			[9] (574,29)<font >#925 />
+	)
+	13시간 전
+[10] (419,71)<tr  />
+	[11] (220,72)<a aria-label='변경 로그, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/changelog' title='변경 로그' />
+		[12] (220,72)<font  />
+			[13] (220,72)<font >변경 로그 />
+	[14] (465,72)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/40f0116d5f1689daa4a9e9d787d51e165eaf56a0' title='추론 구성을 포함하도록 모델 저장 기능을 개선합니다… (#930)' />
+		[15] (465,72)<font  />
+			[16] (465,72)<font >추론 구성을 포함하도록 모델 저장 기능을 개선합니다… ( />
+	6시간 전
+[17] (419,115)<tr  />
+	[18] (212,115)<a aria-label='예시, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/examples' title='예시' />
+		[19] (212,115)<font  />
+			[20] (212,115)<font >예시 />
+	[21] (453,115)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[22] (453,115)<font  />
+			[23] (453,115)<font >저작권 헤더를 대략적인 규칙으로 추가했습니다( />
+	[24] (536,115)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/931' />
+		[25] (536,115)<font  />
+			[26] (536,115)<font >#931 />
+	[27] (546,115)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[28] (546,115)<font  />
+			[29] (546,115)<font >). />
+	4시간 전
+[30] (419,158)<tr  />
+	[31] (219,159)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/scripts' title='스크립트' />
+		[32] (219,159)<font  />
+			[33] (219,159)<font >스크립트 />
+	[34] (453,159)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[35] (453,159)<font  />
+			[36] (453,159)<font >저작권 헤더를 대략적인 규칙으로 추가했습니다( />
+	[37] (536,159)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/931' />
+		[38] (536,159)<font  />
+			[39] (536,159)<font >#931 />
+	[40] (546,159)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[41] (546,159)<font  />
+			[42] (546,159)<font >). />
+	4시간 전
+[43] (419,202)<tr  />
+	[44] (221,202)<a aria-label='src/tabpfn, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/src/tabpfn' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[45] (213,202)<span  />
+			[46] (213,202)<font  />
+				[47] (213,202)<font >src/ />
+		[48] (228,202)<span  />
+			[49] (228,202)<font  />
+				[50] (228,202)<font >탭pfn />
+	[51] (453,202)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[52] (453,202)<font  />
+			[53] (453,202)<font >저작권 헤더를 대략적인 규칙으로 추가했습니다( />
+	[54] (536,202)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/931' />
+		[55] (536,202)<font  />
+			[56] (536,202)<font >#931 />
+	[57] (546,202)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[58] (546,202)<font  />
+			[59] (546,202)<font >). />
+	4시간 전
+[60] (419,245)<tr  />
+	[61] (216,246)<a aria-label='테스트, (디렉토리)' class='Link--primary' href='/PriorLabs/TabPFN/tree/main/tests' title='테스트' />
+		[62] (216,246)<font  />
+			[63] (216,246)<font >테스트 />
+	[64] (453,246)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[65] (453,246)<font  />
+			[66] (453,246)<font >저작권 헤더를 대략적인 규칙으로 추가했습니다( />
+	[67] (536,246)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/931' />
+		[68] (536,246)<font  />
+			[69] (536,246)<font >#931 />
+	[70] (546,246)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[71] (546,246)<font  />
+			[72] (546,246)<font >). />
+	4시간 전
+[73] (419,288)<tr  />
+	[74] (221,289)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/.gitignore' title='.gitignore' />
+		[75] (221,289)<font  />
+			[76] (221,289)<font >.gitignore />
+	[77] (433,289)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/0fba68cf277dc467a5056f53f1311aaf2ccf0a7c' title='W&B 로깅을 통한 미세 조정 지원 (#815)' />
+		[78] (433,289)<font  />
+			[79] (433,289)<font >W&B 로깅을 통한 미세 조정 지원( />
+	[80] (494,289)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/815' />
+		[81] (494,289)<font  />
+			[82] (494,289)<font >#815 />
+	[83] (504,289)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/0fba68cf277dc467a5056f53f1311aaf2ccf0a7c' title='W&B 로깅을 통한 미세 조정 지원 (#815)' />
+		[84] (504,289)<font  />
+			[85] (504,289)<font >) />
+	왜냐
+[86] (419,332)<tr  />
+	[87] (245,332)<a aria-label='.pre-commit-config.yaml, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/.pre-commit-config.yaml' title='.pre-commit-config.yaml' />
+		[88] (245,332)<font  />
+			[89] (245,332)<font >.pre-commit-config.yaml />
+	[90] (521,332)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/f5cb9597d7285f3b13952e5361fed27694c52e3a' title='save_peak_memory_factor와 force_recompute_layer 아키텍처 인터페이스를 추가합니다. (#647) save_peak_memory_factor는 입력 크기에 따라 달라지므로 매 포워드 패스마다 항상 설정하기 때문에 상태를 설정하는 함수에서 forward() 함수의 매개변수로 이동합니다. 또한: - `@override` 및 `@overload` 메서드에 대한 Ruff 문서 검사를 비활성화하여 부모 메서드의 문서 중복을 방지합니다. 단점은 부모 메서드와의 차이점에 대한 문서화 강제가 사라진다는 것이지만, 괜찮다고 생각합니다. - pre-commit에서 Ruff 훅 이름을 업데이트합니다. 이전 이름은 더 이상 사용되지 않습니다.' />
+		[91] (521,332)<font  />
+			[92] (521,332)<font >save_peak_memory_factor 및 force_recompute_layer 아키텍처 인터페이스를 추가합니다. ( />
+	… )
+	6개월 전
+[93] (419,375)<tr  />
+	[94] (226,376)<a aria-label='변경 로그.md, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/CHANGELOG.md' title='변경 로그.md' />
+		[95] (226,376)<font  />
+			[96] (226,376)<font >변경 로그.md />
+	[97] (408,376)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/0be2a61671ce8515d8f5c10f44bf7911aa15c395' title='버전 7.1.1 릴리스 (#870) 공동 작성자: github-actions[bot] <github-actions[bot]@users.noreply.github.com> 공동 작성자: Georg Grab <georg@priorlabs.ai>' />
+		[98] (408,376)<font  />
+			[99] (408,376)<font >버전 7.1.1 릴리스( />
+	[100] (446,376)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/870' />
+		[101] (446,376)<font  />
+			[102] (446,376)<font >#870 />
+	[103] (456,376)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/0be2a61671ce8515d8f5c10f44bf7911aa15c395' title='버전 7.1.1 릴리스 (#870) 공동 작성자: github-actions[bot] <github-actions[bot]@users.noreply.github.com> 공동 작성자: Georg Grab <georg@priorlabs.ai>' />
+		[104] (456,376)<font  />
+			[105] (456,376)<font >) />
+	왜냐
+[106] (419,419)<tr  />
+	[107] (212,419)<a aria-label='라이선스, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/LICENSE' title='특허' />
+		[108] (212,419)<font  />
+			[109] (212,419)<font >특허 />
+	[110] (457,419)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/6dc58c4c1b7372e940a7414200fc0be2e90cdd98' title='라이선스를 Prior Labs License v1.2로 변경합니다(#667).' />
+		[111] (457,419)<font  />
+			[112] (457,419)<font >라이선스를 Prior Labs License v1.2로 변경합니다( />
+	[113] (543,419)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/667' />
+		[114] (543,419)<font  />
+			[115] (543,419)<font >#667 />
+	[116] (553,419)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/6dc58c4c1b7372e940a7414200fc0be2e90cdd98' title='라이선스를 Prior Labs License v1.2로 변경합니다(#667).' />
+		[117] (553,419)<font  />
+			[118] (553,419)<font >) />
+	5개월 전
+[119] (419,462)<tr  />
+	[120] (226,462)<a aria-label='README.md, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/README.md' title='README.md' />
+		[121] (226,462)<font  />
+			[122] (226,462)<font >README.md />
+	[123] (472,462)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/275e06a85e8e969d4626961aaf0d5a995dbc9109' title='저작권 연도를 2026년으로 업데이트하고 저자를 통합합니다(#916). 공동 저자: Claude <noreply@anthropic.com> 공동 저자: Eliott Kalfon <eliott@priorlabs.ai>' />
+		[124] (472,462)<font  />
+			[125] (472,462)<font >저작권 연도를 2026년으로 업데이트하고 저자를 통합합니다( />
+	[126] (573,462)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/916' />
+		[127] (573,462)<font  />
+			[128] (573,462)<font >#916 />
+	)
+	지역
+[129] (419,505)<tr  />
+	[130] (226,506)<a aria-label='원격 측정.md, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/TELEMETRY.md' title='원격 측정.md' />
+		[131] (226,506)<font  />
+			[132] (226,506)<font >원격 측정.md />
+	[133] (481,506)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/9e2ef2691f878863d702854b84ef4f572ae1f7ab' title='문서: TELEMETRY.md에서 install_id 및 install_date 삭제 (#903) 공동 작성자: Claude Opus 4.7 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[134] (481,506)<font  />
+			[135] (481,506)<font >문서: TELEMETRY.md에서 install_id 및 install_date를 삭제합니다( />
+	#903
+	).
+	공지사항
+[136] (419,549)<tr  />
+	[137] (229,549)<a aria-label='pyproject.toml, (파일)' class='Link--primary' href='/PriorLabs/TabPFN/blob/main/pyproject.toml' title='pyproject.toml' />
+		[138] (229,549)<font  />
+			[139] (229,549)<font >pyproject.toml />
+	[140] (453,549)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[141] (453,549)<font  />
+			[142] (453,549)<font >저작권 헤더를 대략적인 규칙으로 추가했습니다( />
+	[143] (536,549)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/TabPFN/pull/931' />
+		[144] (536,549)<font  />
+			[145] (536,549)<font >#931 />
+	[146] (546,549)<a class='Link--secondary' href='/PriorLabs/TabPFN/commit/963dcca511c171f09291fa3380a855e877fed67e' title='저작권 헤더를 대략적인 규칙으로 추가했습니다(#931).' />
+		[147] (546,549)<font  />
+			[148] (546,549)<font >). />
+	4시간 전
+저장소 파일 탐색
+[149] (213,615)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[150] (196,615)<span  />
+	[151] (219,615)<span  />
+		[152] (219,615)<font  />
+			[153] (219,615)<font >README />
+[154] (264,615)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[155] (250,615)<span  />
+	[156] (271,615)<span  />
+		[157] (271,615)<font  />
+			[158] (271,615)<font >특허 />
+[159] (620,614)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[160] (641,614)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+탭PFN
+[161] (193,696)<a aria-label='고유 링크: TabPFN' class='anchor' href='#tabpfn' id='user-content-tabpfn' />
+[162] (233,759)<a href='https://badge.fury.io/py/tabpfn' />
+	[163] (233,755)<img  />
+[164] (293,759)<a href='https://pepy.tech/project/tabpfn' />
+	[165] (293,755)<img  />
+[166] (356,759)<a href='https://discord.gg/BHnX2Ptf4j' />
+	[167] (356,755)<img  />
+[168] (421,759)<a href='https://priorlabs.ai/docs' />
+	[169] (421,755)<img  />
+[170] (482,759)<a href='https://colab.research.google.com/github/PriorLabs/TabPFN/blob/main/examples/notebooks/TabPFN_Demo_Local.ipynb' />
+	[171] (482,755)<img  />
+[172] (574,759)<a href='https://pypi.org/project/tabpfn/' />
+	[173] (574,755)<img  />
+주제
+[174] (696,18)<a class='topic-tag topic-tag-link' href='/topics/data-science' title='주제: 데이터 과학' />
+	[175] (696,18)<font  />
+		[176] (696,18)<font >데이터 과학 />
+[177] (737,18)<a class='topic-tag topic-tag-link' href='/topics/machine-learning' title='주제: 기계 학습' />
+	[178] (737,18)<font  />
+		[179] (737,18)<font >머신러닝 />
+[180] (781,18)<a class='topic-tag topic-tag-link' href='/topics/tabular-data' title='주제: 표 형식 데이터' />
+	[181] (781,18)<font  />
+		[182] (781,18)<font >표 형식 데이터 />
+[183] (693,48)<a class='topic-tag topic-tag-link' href='/topics/foundation-models' title='주제: 기초 모델' />
+	[184] (693,48)<font  />
+		[185] (693,48)<font >기초 모델 />
+[186] (728,48)<a class='topic-tag topic-tag-link' href='/topics/tabpfn' title='주제: 탭펜' />
+	[187] (728,48)<font  />
+		[188] (728,48)<font >탭프픈 />
+자원
+[189] (699,93)<a class='Link--muted' href='#readme-ov-file' />
+	[190] (705,93)<font  />
+		[191] (705,93)<font >읽어보세요 />
+특허
+[192] (703,123)<a class='Link--muted' href='#License-1-ov-file' />
+	[193] (710,123)<font  />
+		[194] (710,123)<font >라이선스 보기 />
+[195] (689,154)<a class='Link Link--muted' href='/PriorLabs/TabPFN/activity' />
+	[196] (696,154)<span  />
+		[197] (696,154)<font  />
+			[198] (696,154)<font >활동 />
+[199] (708,185)<a class='Link Link--muted' href='/PriorLabs/TabPFN/custom-properties' />
+	[200] (715,185)<span  />
+		[201] (715,185)<font  />
+			[202] (715,185)<font >사용자 지정 속성 />
+별들
+[203] (700,215)<a class='Link Link--muted' href='/PriorLabs/TabPFN/stargazers' />
+	[204] (707,215)<font  />
+		[205] (694,215)<font >별 />
+		[206] (712,215)<strong  />
+			[207] (712,215)<font >6,800 개 />
+감시자들
+[208] (705,246)<a class='Link Link--muted' href='/PriorLabs/TabPFN/watchers' />
+	[209] (700,246)<strong  />
+		[210] (700,246)<font  />
+			[211] (700,246)<font >46명이 />
+	[212] (723,246)<font  />
+		[213] (723,246)<font >시청 중 />
+포크스
+[214] (703,277)<a class='Link Link--muted' href='/PriorLabs/TabPFN/forks' />
+	[215] (702,277)<strong  />
+		[216] (702,277)<font  />
+			[217] (702,277)<font >666개의 />
+	[218] (723,277)<font  />
+		[219] (723,277)<font >포크 />
+[220] (696,307)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FPriorLabs%2FTabPFN&report=PriorLabs+%28user%29' />
+	[221] (696,307)<font  />
+		[222] (696,307)<font >보고서 저장소 />
+[223] (694,366)<a class='Link--primary no-underline Link' href='/PriorLabs/TabPFN/releases' />
+	[224] (688,366)<font  />
+		[225] (688,366)<font >릴리스 />
+	[226] (707,367)<span  />
+		[227] (707,367)<font  />
+			[228] (707,367)<font >13 />
+[229] (746,416)<a class='Link--primary d-flex no-underline' href='/PriorLabs/TabPFN/releases/tag/v7.1.1' />
+	[230] (713,416)<div  />
+		[231] (713,407)<div  />
+			[232] (702,407)<span  />
+				[233] (702,407)<font  />
+					[234] (702,407)<font >버전 7.1.1 />
+			[235] (730,407)<span  />
+				[236] (730,406)<font  />
+					[237] (730,406)<font >최신 />
+		[238] (713,427)<div  />
+			[239] (693,427)<relative-time  />
+				[240] (693,427)<font  />
+					[241] (693,427)<font >전달 />
+[242] (697,465)<a class='Link' href='/PriorLabs/TabPFN/releases' />
+	[243] (697,465)<font  />
+		[244] (697,465)<font >+ 12개 릴리스 />
+[245] (746,524)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/PriorLabs/TabPFN/deployments' />
+	[246] (683,524)<font  />
+		[247] (683,523)<font >배포 />
+	[248] (699,524)<span  />
+		[249] (699,524)<font  />
+			[250] (699,524)<font >41 />
+[251] (712,565)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/PriorLabs/TabPFN/deployments/release' />
+	[252] (705,565)<font  />
+		[253] (705,565)<font >풀어 주다 />
+	[254] (727,565)<relative-time  />
+		[255] (727,565)<font  />
+			[256] (727,565)<font >왜냐 />
+[257] (707,595)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/PriorLabs/TabPFN/deployments/pypi' />
+	[258] (701,595)<font  />
+		[259] (701,595)<font >파이피 />
+	[260] (718,595)<relative-time  />
+		[261] (718,595)<font  />
+			[262] (718,595)<font >왜냐 />
+[263] (717,626)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/PriorLabs/TabPFN/deployments/testpypi' />
+	[264] (711,626)<font  />
+		[265] (711,626)<font >테스트파이피 />
+	[266] (738,626)<relative-time  />
+		[267] (738,626)<font  />
+			[268] (738,626)<font >왜냐 />
+[269] (697,665)<a class='Link--inTextBlock Link' href='/PriorLabs/TabPFN/deployments' />
+	[270] (697,665)<font  />
+		[271] (697,665)<font >+ 38건의 배치 />
+[272] (746,724)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/PriorLabs/packages?repo_name=TabPFN' />
+	[273] (687,724)<font  />
+		[274] (687,723)<font >패키지 />
+게시된 패키지가 없습니다.
+[275] (746,820)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/PriorLabs/TabPFN/graphs/contributors' />
+	[276] (687,820)<font  />
+		[277] (687,820)<font >기고자 />
+	[278] (707,820)<span  />
+		[279] (707,820)<font  />
+			[280] (707,820)<font >59 />
+[281] (683,865)<a href='https://github.com/LeoGrin' />
+	[282] (683,867)<img  />
+[283] (704,865)<a href='https://github.com/oscarkey' />
+	[284] (704,867)<img  />
+[285] (725,865)<a href='https://github.com/bejaeger' />
+	[286] (725,867)<img  />
+[287] (746,865)<a href='https://github.com/noahho' />
+	[288] (746,867)<img  />
+[289] (767,865)<a href='https://github.com/apps/dependabot' />
+	[290] (767,867)<img  />
+[291] (788,865)<a href='https://github.com/SamuelGabriel' />
+	[292] (788,867)<img  />
+[293] (683,907)<a href='https://github.com/schnurrd' />
+	[294] (683,909)<img  />
+[295] (704,907)<a href='https://github.com/claude' />
+	[296] (704,909)<img  />
+[297] (725,907)<a href='https://github.com/apps/gemini-code-assist' />
+	[298] (725,909)<img  />
+[299] (746,907)<a href='https://github.com/mert-kurttutan' />
+	[300] (746,909)<img  />
+[301] (767,907)<a href='https://github.com/safaricd' />
+	[302] (767,909)<img  />
+[303] (788,907)<a href='https://github.com/LennartPurucker' />
+	[304] (788,909)<img  />
+[305] (683,949)<a href='https://github.com/klemens-floege' />
+	[306] (683,951)<img  />
+[307] (704,949)<a href='https://github.com/eddiebergman' />
+	[308] (704,951)<img  />
+[309] (704,996)<a class='Link--inTextBlock Link' href='/PriorLabs/TabPFN/graphs/contributors' />
+	[310] (704,996)<font  />
+		[311] (704,996)<font >45명 이상의 기고자 />
+
+</current_dom>

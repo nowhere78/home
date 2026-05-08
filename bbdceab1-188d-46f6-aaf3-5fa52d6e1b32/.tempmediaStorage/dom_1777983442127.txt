@@ -1,0 +1,345 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/HackMyTask' />
+	[3] (75,34)<span  />
+		[4] (75,33)<font  />
+			[5] (75,33)<font >HackMyTask />
+[6] (139,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/HackMyTask/awesome-ai-money-machine' />
+	[7] (139,34)<span  />
+		[8] (139,33)<font  />
+			[9] (139,33)<font >멋진 AI 돈벌이 기계 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/HackMyTask/awesome-ai-money-machine/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (243,139)<a class='d-block overflow-x-hidden color-fg-default' href='/HackMyTask/awesome-ai-money-machine' />
+	[64] (243,138)<font  />
+		[65] (243,138)<font >멋진 AI 돈벌이 기계 />
+공공의
+[66] (600,138)<button aria-label='스폰서 HackMyTask/awesome-ai-money-machine' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-HackMyTask-awesome-ai-money-machine' />
+	[67] (600,138)<span  />
+		[68] (600,138)<span  />
+			[69] (606,137)<span  />
+				[70] (606,137)<font  />
+					[71] (606,137)<font >스폰서 />
+[72] (650,138)<div  />
+	[73] (650,138)<button aria-label='영상 보기: HackMyTask/awesome-ai-money-machine 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_i_' />
+		[74] (646,138)<span  />
+			[75] (645,138)<span  />
+				[76] (645,137)<font  />
+					[77] (645,137)<font >보다 />
+			0
+			(
+			0
+			)
+[78] (706,139)<a class='btn-sm btn BtnGroup-item' href='/HackMyTask/awesome-ai-money-machine/fork' id='fork-button' />
+	[79] (706,139)<font  />
+		[80] (706,141)<font >포크 />
+	[81] (719,138)<span  />
+		[82] (719,138)<font  />
+			[83] (719,138)<font >0 />
+[84] (740,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1227762606' />
+	[85] (740,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[86] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (1)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[87] (777,138)<span  />
+		[88] (777,138)<font  />
+			[89] (777,138)<font >별 />
+	[90] (788,138)<span  />
+		[91] (787,138)<font  />
+			[92] (787,138)<font >1 />
+[93] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1227762606-unstarred-button' />
+HackMyTask/awesome-ai-money-machine
+[94] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[95] (209,216)<span  />
+		[96] (203,216)<span  />
+			[97] (203,216)<div  />
+				[98] (194,216)<div  />
+				[99] (208,216)<div  />
+					[100] (208,216)<span  />
+						[101] (209,216)<font  />
+							[102] (209,216)<font >기본 />
+[103] (257,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/HackMyTask/awesome-ai-money-machine/branches' />
+	[104] (257,216)<span  />
+		[105] (264,216)<span  />
+			[106] (264,216)<span  />
+				[107] (257,216)<strong  />
+					[108] (256,216)<font  />
+						[109] (256,216)<font >1 />
+				[110] (266,216)<font  />
+					[111] (266,216)<font >지점 />
+[112] (298,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/HackMyTask/awesome-ai-money-machine/tags' />
+	[113] (298,216)<span  />
+		[114] (305,216)<span  />
+			[115] (305,216)<span  />
+				[116] (301,216)<strong  />
+					[117] (300,216)<font  />
+						[118] (300,216)<font >태그 0 />
+				[119] (315,216)<font  />
+					[120] (315,216)<font >개 />
+[121] (481,216)<span  />
+	[122] (431,216)<span  />
+	[123] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[124] (531,216)<span  />
+		[125] (531,216)<kbd  />
+			[126] (531,216)<span >t />
+				t
+				[127] (531,216)<span >T />
+파일 추가
+[128] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[129] (572,216)<span  />
+		[130] (572,216)<span  />
+			[131] (572,216)<span  />
+				[132] (566,216)<font  />
+					[133] (566,216)<font >파일 추가 />
+[134] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[135] (628,216)<span  />
+		[136] (628,216)<span  />
+			[137] (628,216)<font  />
+				[138] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[139] (198,278)<a class='prc-Link-Link-9ZwDx' href='/HackMyTask' />
+	[140] (196,279)<img  />
+[141] (226,278)<a aria-label='HackMyTask의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/HackMyTask/awesome-ai-money-machine/commits?author=HackMyTask' />
+	[142] (226,278)<font  />
+		[143] (226,278)<font >HackMyTask />
+[144] (295,278)<a class='Link--secondary' href='/HackMyTask/awesome-ai-money-machine/commit/78199e4e7827f2a50af84b8ba5a700b6d2bc5353' />
+	[145] (295,278)<font  />
+		[146] (295,278)<font >Ko-fi 펀딩 정보를 추가하세요 />
+[147] (567,278)<a aria-label='커밋 78199e4' class='Link--secondary prc-Link-Link-9ZwDx' href='/HackMyTask/awesome-ai-money-machine/commit/78199e4e7827f2a50af84b8ba5a700b6d2bc5353' />
+	[148] (567,278)<font  />
+		[149] (567,278)<font >78199e4 />
+·
+싫다
+역사
+[150] (623,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/HackMyTask/awesome-ai-money-machine/commits/main/' />
+	[151] (623,278)<span  />
+		[152] (629,278)<span  />
+			[153] (629,278)<span  />
+				[154] (629,278)<font  />
+					[155] (629,278)<font >3개의 커밋 />
+[156] (419,328)<tr  />
+	[157] (217,328)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/HackMyTask/awesome-ai-money-machine/tree/main/.github' title='.github' />
+		[158] (217,328)<font  />
+			[159] (217,328)<font >.github />
+	[160] (424,328)<a class='Link--secondary' href='/HackMyTask/awesome-ai-money-machine/commit/78199e4e7827f2a50af84b8ba5a700b6d2bc5353' title='Ko-fi 펀딩 정보를 추가하세요' />
+		[161] (424,328)<font  />
+			[162] (424,328)<font >Ko-fi 펀딩 정보를 추가하세요 />
+	싫다
+[163] (419,371)<tr  />
+	[164] (212,371)<a aria-label='라이선스, (파일)' class='Link--primary' href='/HackMyTask/awesome-ai-money-machine/blob/main/LICENSE' title='특허' />
+		[165] (212,371)<font  />
+			[166] (212,371)<font >특허 />
+	[167] (395,371)<a class='Link--secondary' href='/HackMyTask/awesome-ai-money-machine/commit/a6adfb120fcb653dd4731262941a6f3e9909eca6' title='초기 커밋' />
+		[168] (395,371)<font  />
+			[169] (395,371)<font >초기 커밋 />
+	싫다
+[170] (419,414)<tr  />
+	[171] (226,415)<a aria-label='README.md, (파일)' class='Link--primary' href='/HackMyTask/awesome-ai-money-machine/blob/main/README.md' title='README.md' />
+		[172] (226,415)<font  />
+			[173] (226,415)<font >README.md />
+	[174] (495,415)<a class='Link--secondary' href='/HackMyTask/awesome-ai-money-machine/commit/21ae8c20a00b8a23c49e32f57f070ca885392314' title='기능: AI 도구 디렉토리, 프롬프트 및 Ko-fi를 포함한 전체 README 파일 추가' />
+		[175] (495,415)<font  />
+			[176] (495,415)<font >기능: AI 도구 디렉토리, 프롬프트 및 Ko-fi를 포함한 전체 README 파일 추가 />
+	싫다
+저장소 파일 탐색
+[177] (213,480)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[178] (196,480)<span  />
+	[179] (219,480)<span  />
+		[180] (219,480)<font  />
+			[181] (219,480)<font >README />
+[182] (279,480)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[183] (250,480)<span  />
+	[184] (286,480)<span  />
+		[185] (286,480)<font  />
+			[186] (286,480)<font >CC0-1.0 라이선스 />
+[187] (620,480)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[188] (641,480)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+🤖 놀라운 AI ​​돈벌이 기계 💰
+[189] (193,587)<a aria-label='고유 링크: 🤖 놀라운 AI ​​돈벌이 기계 💰' class='anchor' href='#-awesome-ai-money-machine-' id='user-content--awesome-ai-money-machine-' />
+AI로 소득 창출을 위한 도구, 자동화 및 청사진 관리
+[190] (193,657)<a aria-label='고유 링크: AI로 소득 창출을 위한 디렉터리 도구, 자동화 및 청사진' class='anchor' href='#direktori-tools-automasi--blueprint-untuk-generate-income-dengan-ai' id='user-content-direktori-tools-automasi--blueprint-untuk-generate-income-dengan-ai' />
+Dari Cupu ke Suhu — dari 0 sampai 시스템 자동 조종 장치
+[191] (323,744)<a href='https://awesome.re' />
+	[192] (323,740)<img  />
+[193] (395,744)<a href='https://ko-fi.com/hackmytask' />
+	[194] (395,740)<img  />
+[195] (466,744)<a href='http://creativecommons.org/publicdomain/zero/1.0/' />
+	[196] (466,740)<img  />
+[197] (519,744)<a href='/HackMyTask/awesome-ai-money-machine/blob/main/CONTRIBUTING.md' />
+	[198] (519,740)<img  />
+"Waktu adalah satu-satunya aset yang tidak bisa di-refund."
+Repo ini hadir untuk satu tujuan:
+mengembalikan waktu kamu
+— dan mengubahnya jadi uang.
+😤 Kamu Capek Karena...
+[199] (193,895)<a aria-label='고유 링크: 😤 Kamu Capek Karena...' class='anchor' href='#-kamu-capek-karena' id='user-content--kamu-capek-karena' />
+Kerja 10 jam sehari padahal 80% kerjaan bisa di-automate dalam 10 menit?
+스크롤 튜토리얼 berjam-jam tapi tetap bingung mulai dari mana?
+Lihat orang lain 수동 소득 dari AI tapi kamu belum tahu 도구 mana yang
+benar-benar
+작동합니까?
+에 대한
+🤖💰 엄선된 AI 도구, n8n 자동화, LLM 프롬프트 및 청사진을 통해 AI로 수익을 창출하세요 — 무에서 자동화된 수익까지
+주제
+[200] (689,347)<a class='topic-tag topic-tag-link' href='/topics/python' title='주제: 파이썬' />
+	[201] (689,347)<font  />
+		[202] (689,347)<font >파이썬 />
+[203] (726,347)<a class='topic-tag topic-tag-link' href='/topics/automation' title='주제: 자동화' />
+	[204] (726,347)<font  />
+		[205] (726,347)<font >오토메이션 />
+[206] (769,347)<a class='topic-tag topic-tag-link' href='/topics/trading-bot' title='주제: 트레이딩봇' />
+	[207] (769,347)<font  />
+		[208] (769,347)<font >트레이딩봇 />
+[209] (692,377)<a class='topic-tag topic-tag-link' href='/topics/startup' title='주제: 스타트업' />
+	[210] (692,377)<font  />
+		[211] (692,377)<font >스타트업 />
+[212] (733,377)<a class='topic-tag topic-tag-link' href='/topics/developer-tools' title='주제: 개발자 도구' />
+	[213] (733,377)<font  />
+		[214] (733,377)<font >개발자 도구 />
+[215] (774,377)<a class='topic-tag topic-tag-link' href='/topics/awesome-list' title='주제: 멋진 목록' />
+	[216] (774,377)<font  />
+		[217] (774,377)<font >멋진 목록 />
+[218] (702,406)<a class='topic-tag topic-tag-link' href='/topics/workflow-automation' title='주제: 워크플로 자동화' />
+	[219] (702,406)<font  />
+		[220] (702,406)<font >워크플로 자동화 />
+[221] (748,406)<a class='topic-tag topic-tag-link' href='/topics/prompts' title='주제: 프롬프트' />
+	[222] (748,406)<font  />
+		[223] (748,406)<font >프롬프트 />
+[224] (782,406)<a class='topic-tag topic-tag-link' href='/topics/no-code' title='주제: 노코드' />
+	[225] (782,406)<font  />
+		[226] (782,406)<font >노코드 />
+[227] (696,436)<a class='topic-tag topic-tag-link' href='/topics/ai-agents' title='주제: AI 에이전트' />
+	[228] (696,436)<font  />
+		[229] (696,436)<font >AI 에이전트 />
+[230] (738,436)<a class='topic-tag topic-tag-link' href='/topics/passive-income' title='주제: 수동 소득' />
+	[231] (738,436)<font  />
+		[232] (738,436)<font >수동 소득 />
+[233] (776,436)<a class='topic-tag topic-tag-link' href='/topics/api-integration' title='주제: API 통합' />
+	[234] (776,436)<font  />
+		[235] (776,436)<font >API 통합 />
+[236] (696,466)<a class='topic-tag topic-tag-link' href='/topics/content-creation' title='주제: 콘텐츠 제작' />
+	[237] (696,466)<font  />
+		[238] (696,466)<font >콘텐츠 제작 />
+[239] (731,466)<a class='topic-tag topic-tag-link' href='/topics/n8n' title='주제: n8n' />
+	[240] (731,466)<font  />
+		[241] (731,466)<font >n8n />
+[242] (775,466)<a class='topic-tag topic-tag-link' href='/topics/make-money-online' title='주제: 온라인으로 돈 버는 방법' />
+	[243] (775,466)<font  />
+		[244] (775,466)<font >온라인으로 돈 벌기 />
+[245] (690,495)<a class='topic-tag topic-tag-link' href='/topics/ai-tools' title='주제: AI 도구' />
+	[246] (690,495)<font  />
+		[247] (690,495)<font >AI 도구 />
+[248] (720,495)<a class='topic-tag topic-tag-link' href='/topics/llm' title='주제: llm' />
+	[249] (720,495)<font  />
+		[250] (720,495)<font >일름 />
+[251] (745,495)<a class='topic-tag topic-tag-link' href='/topics/chatgpt' title='주제: chatgpt' />
+	[252] (745,495)<font  />
+		[253] (745,495)<font >채팅 />
+[254] (779,495)<a class='topic-tag topic-tag-link' href='/topics/elevenlabs' title='주제: elevenlabs' />
+	[255] (779,495)<font  />
+		[256] (779,495)<font >일레븐랩스 />
+[257] (692,525)<a class='topic-tag topic-tag-link' href='/topics/suno-ai' title='주제: suno-ai' />
+	[258] (692,525)<font  />
+		[259] (692,525)<font >수노아이 />
+자원
+[260] (699,570)<a class='Link--muted' href='#readme-ov-file' />
+	[261] (705,570)<font  />
+		[262] (705,570)<font >읽어보세요 />
+특허
+[263] (709,600)<a class='Link--muted' href='#CC0-1.0-1-ov-file' />
+	[264] (715,600)<font  />
+		[265] (715,600)<font >CC0-1.0 라이선스 />
+[266] (689,631)<a class='Link Link--muted' href='/HackMyTask/awesome-ai-money-machine/activity' />
+	[267] (696,631)<span  />
+		[268] (696,631)<font  />
+			[269] (696,631)<font >활동 />
+별들
+[270] (692,662)<a class='Link Link--muted' href='/HackMyTask/awesome-ai-money-machine/stargazers' />
+	[271] (700,662)<font  />
+		[272] (694,662)<font >별 />
+		[273] (704,662)<strong  />
+			[274] (704,662)<font >1 개 />
+감시자들
+[275] (703,692)<a class='Link Link--muted' href='/HackMyTask/awesome-ai-money-machine/watchers' />
+	[276] (698,692)<strong  />
+		[277] (698,692)<font  />
+			[278] (698,692)<font >0명이 />
+	[279] (719,692)<font  />
+		[280] (719,692)<font >시청 중 />
+포크스
+[281] (696,723)<a class='Link Link--muted' href='/HackMyTask/awesome-ai-money-machine/forks' />
+	[282] (704,723)<font  />
+		[283] (697,723)<font >포크 />
+		[284] (711,723)<strong  />
+			[285] (711,723)<font >0 개 />
+[286] (696,754)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHackMyTask%2Fawesome-ai-money-machine&report=HackMyTask+%28user%29' />
+	[287] (696,754)<font  />
+		[288] (696,754)<font >보고서 저장소 />
+[289] (687,812)<a class='Link--primary no-underline Link' href='/HackMyTask/awesome-ai-money-machine/releases' />
+	[290] (687,812)<font  />
+		[291] (687,812)<font >릴리스 />
+발표된 릴리스 없음
+이 프로젝트를 후원해 주세요
+[292] (731,955)<font  />
+	[293] (731,955)<font >ko-fi.com/hackmytask />
+
+</current_dom>

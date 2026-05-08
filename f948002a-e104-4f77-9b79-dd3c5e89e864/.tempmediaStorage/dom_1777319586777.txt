@@ -1,0 +1,206 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwia64qs546UAxWFafUHHU1WDpAQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%25BF%25A0%25ED%258C%25A1%2B%25ED%258C%258C%25ED%258A%25B8%25EB%2584%2588%25EC%258A%25A4%2B%25EC%259D%25B4%25EB%25AF%25B8%25EC%25A7%2580%2B%25EC%25A0%2580%25EC%259E%2591%25EA%25B6%258C%2B%25ED%259A%258C%25ED%2594%25BC%2BAI%2B%25ED%2595%2584%25ED%2584%25B0%2B%25ED%258E%25B8%25EC%25A7%2591%2B%25EB%25B0%25A9%25EB%25B2%2595%2B%25EC%259C%25A0%25ED%258A%259C%25EB%25B8%258C%2B%25EC%2587%25BC%25EC%25B8%25A0&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%ED%95%84%ED%84%B0+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&sa=X&ved=2ahUKEwia64qs546UAxWFafUHHU1WDpAQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >동영상 />
+[20] (180,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%ED%95%84%ED%84%B0+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&sa=X&ved=2ahUKEwia64qs546UAxWFafUHHU1WDpAQtKgLegQIExAB' />
+	[21] (180,121)<div  />
+		[22] (180,130)<span >이미지 />
+[23] (239,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%ED%95%84%ED%84%B0+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&ved=1t:220175&ictx=111' />
+	[24] (239,121)<div  />
+		[25] (239,130)<span >쇼핑 />
+[26] (291,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%ED%95%84%ED%84%B0+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&sa=X&ved=2ahUKEwia64qs546UAxWFafUHHU1WDpAQ0pQJegQIFRAB' />
+	[27] (291,121)<div  />
+		[28] (291,130)<span >뉴스 />
+[29] (365,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%ED%95%84%ED%84%B0+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&sa=X&ved=2ahUKEwia64qs546UAxWFafUHHU1WDpAQs6gLegQIFBAB' />
+	[30] (365,121)<div  />
+		[31] (365,130)<span >짧은 동영상 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+쿠팡 파트너스 활동 시 저작권 문제를 피하고 유튜브 쇼츠에서 수익을 극대화하기 위해 AI 기술과 필터 편집을 활용하는 방법은 다음과 같습니다. 2026년 기준,
+단순히 이미지를 복사/붙여넣기하는 것은 저작권 침해 및 쿠팡 운영정책 위반으로 수익금 몰수 위험이 높으므로
+변형(Transformation)
+이 필수
+입니다.
+1. AI 기반 이미지 변형 및 필터 편집 방법
+원본 사진을 그대로 사용하지 않고, 생성형 AI를 활용해 고유한 이미지로 재창조합니다.
+[
+탑뷰 AI (Topview AI)
+] 활용:
+제품 이미지를 입력하여 새로운 홍보 영상이나 고품질 사진으로 변환하여 저작권 문제를 방지합니다.
+[
+Adobe Express
+] 및 필터:
+Adobe Express
+등에서 기본 사진에 AI 필터, 색상 보정, 대비 조정 등을 적용하여 원본과 다른 이미지로 만듭니다.
+배경 제거 및 교체:
+[
+캡컷(CapCut)
+]의 마법 도구를 활용해 제품 사진의 배경을 제거(누끼 따기)하고, 새로운 배경(스튜디오, 일상 배경)을 합성합니다.
+[
+이미지 FX (ImageFX)
+]:
+텍스트 기반 AI를 활용해 기존 제품의 특징을 묘사하여 새로운 썸네일 초안을 제작합니다.
+이 영상에서는 AI 기술을 활용하여 쿠팡 제품 상세페이지의 이미지를 매력적으로 바꾸는 방법을 보여줍니다:
+[43] (793,299)<a aria-label='[필독] 중국영상 퍼오지 말고 저작권 걱정없이 AI쇼핑쇼츠 시작 .... 새 탭에서 열립니다.' class='NDNGvf' href='https://www.youtube.com/watch?v=akCzK6WkBXI&t=14' />
+[필독] 중국영상 퍼오지 말고 저작권 걱정없이 AI쇼핑쇼츠 시작 ...
+2026. 1. 12. —
+수많은 돈을 벌었다는 뭐 2억부터 시작을 해서 뭐 500 뭐 1700만 원 정말 많은 돈을 벌었다라는 영상들...
+[44] (867,283)<div class='nrdPJf' role='button' />
+	[45] (867,283)<img  />
+	[46] (867,311)<div  />
+		[47] (838,291)<div  />
+			[48] (847,291)<span >4m />
+		[49] (838,311)<div  />
+			[50] (838,303)<div  />
+	[51] (922,258)<div  />
+		[52] (922,258)<div  />
+YouTube
+·
+N잡학교
+[53] (931,347)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-kL7vabTiHYev2roPqvrGmQo_41' role='button' />
+애드포스트 수익에 유튜브 쇼츠 부업- 초간단 쿠팡 파트너스 ...
+2021. 10. 27. —
+중요한건. 화면 비율 9:16. 영상 길이는 1분 이내로. #short 라는 글자를. 제목이나 설명, 태그에...
+Naver Blog
+유튜브 쿠팡 파트너스 쇼츠 영상 제작하기 위한 GPT와 이미지 ...
+2025. 8. 17. —
+1일차: 제품 선정·키워드 리서치·GPT로 제목·스크립트 3개 생성; 2일차: 촬영(세로), 이미지FX로 썸...
+mission-school.tistory.com
+모두 표시
+[54] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[55] (372,538)<div  />
+		[56] (372,538)<div >더보기 />
+			더보기
+			[57] (397,538)<span  />
+[58] (307,658)<a class='zReHs' href='https://www.youtube.com/watch?v=uKTVBkIsp_E' />
+	[59] (307,681)<h3 >"하루 1시간으로 쿠팡파트너스 부업" 썰채널 쇼츠 완벽 가이드 />
+	[60] (146,644)<div  />
+		[61] (146,644)<div  />
+			[62] (57,644)<span  />
+				[63] (57,644)<div  />
+					[64] (57,644)<img  />
+			[65] (167,644)<div  />
+				[66] (167,635)<div  />
+					[67] (167,635)<span >YouTube · 한나의콘텐츠숲 />
+				[68] (167,655)<div  />
+					[69] (165,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 1.6천회 이상  ·  7개월 전 />
+[70] (272,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (272,654)<span  />
+		[72] (272,655)<span  />
+[73] (130,751)<div aria-label='한나의콘텐츠숲님이 YouTube에 게시한 "하루 1시간으로 쿠팡파트너스 부업" 썰채널 쇼츠 완벽 가이드. Google에서 재생. 12:19' class='rIRoqf hXY9cf' role='button' />
+	[74] (120,753)<div  />
+		[75] (120,753)<div  />
+			[76] (120,753)<div  />
+				[77] (75,778)<div  />
+					[78] (75,778)<span >12:19 />
+				[79] (178,728)<div  />
+					[80] (178,728)<span  />
+구독자 1만명 없어도
+쿠팡 파트너스
+로 돈
+방법
+을 단계별로 알려드립니다. ⏰ 타임라인 00:17
+유튜브
+파트너 프로그램 기본 조건 00:42
+유튜브
+쇼핑 제휴 ...
+[81] (210,826)<div class='KMEEs' role='button' />
+	[82] (210,826)<div  />
+		[83] (71,826)<div  />
+			[84] (65,826)<div  />
+		[85] (246,826)<div  />
+			[86] (238,826)<div  />
+				[87] (196,826)<div  />
+					[88] (196,826)<span  />
+						[89] (196,826)<span  />
+							[90] (196,826)<span >이 동영상의 주요 순간 7개 />
+				[91] (305,826)<span  />
+누락된 검색어:
+필터
+‎| 필수 포함 항목:
+[92] (285,855)<a href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n5ED20tDuNazheL5x5VHVVYDYlahQ:1777319568132&q=%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9D%B4%EB%AF%B8%EC%A7%80+%EC%A0%80%EC%9E%91%EA%B6%8C+%ED%9A%8C%ED%94%BC+AI+%22%ED%95%84%ED%84%B0%22+%ED%8E%B8%EC%A7%91+%EB%B0%A9%EB%B2%95+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0&sa=X&ved=2ahUKEwia64qs546UAxWFafUHHU1WDpAQ5t4CegQIGBAx' />
+	[93] (285,855)<span >필터 />
+[94] (317,932)<a class='zReHs' href='https://www.youtube.com/watch?v=0CjDQjMXpCo' />
+	[95] (317,955)<h3 >[필독] 소름돋는 저작권 걱정 없이 쇼핑 쇼츠 하는법 I SORA2 ... />
+	[96] (144,919)<div  />
+		[97] (144,919)<div  />
+			[98] (57,919)<span  />
+				[99] (57,919)<div  />
+					[100] (57,919)<img  />
+			[101] (165,919)<div  />
+				[102] (165,909)<div  />
+					[103] (165,909)<span >YouTube · N잡학교 />
+				[104] (165,929)<div  />
+					[105] (165,929)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 9.3천회 이상  ·  6개월 전 />
+[106] (269,928)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[107] (269,928)<span  />
+		[108] (269,929)<span  />
+탑뷰
+AI
+: https://www.topview.
+ai
+/?via=njob
+유튜브
+길라잡이 특강 (약 3시간 분량) ...
+[109] (802,641)<div  />
+	[110] (802,641)<img  />
+[111] (884,641)<div >AI에게 질문하기 />
+	[112] (833,641)<img  />
+검색 에이전트
+[113] (829,683)<div  />
+	[114] (803,683)<img  />
+	[115] (840,683)<span >4o mini />
+[116] (912,683)<div  />
+	[117] (886,683)<img  />
+	[118] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[119] (872,970)<div  />
+	[120] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

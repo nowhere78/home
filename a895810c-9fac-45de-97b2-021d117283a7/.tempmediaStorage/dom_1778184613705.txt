@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+pyproject.toml
+인터리브드 SWA 초안 모델 업데이트
+싫다
+저장소 파일 탐색
+[0] (213,56)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,56)<span  />
+	[2] (219,56)<span  />
+		[3] (219,56)<font  />
+			[4] (219,56)<font >README />
+[5] (273,56)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,56)<span  />
+	[7] (279,56)<span  />
+		[8] (279,56)<font  />
+			[9] (279,56)<font >MIT 라이선스 />
+[10] (620,56)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,56)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_14_' />
+DFlash: 플래시 추측 디코딩을 위한 블록 확산
+[12] (193,137)<a aria-label='고유 링크: DFlash: 플래시 추측 디코딩을 위한 블록 확산' class='anchor' href='#dflash-block-diffusion-for-flash-speculative-decoding' id='user-content-dflash-block-diffusion-for-flash-speculative-decoding' />
+[13] (208,198)<a href='https://arxiv.org/abs/2602.06036' />
+	[14] (208,198)<strong  />
+		[15] (208,198)<font  />
+			[16] (208,198)<font >논문 />
+|
+[17] (233,198)<a href='https://z-lab.ai/projects/dflash/' />
+	[18] (233,198)<strong  />
+		[19] (233,198)<font  />
+			[20] (233,198)<font >블로그 />
+|
+[21] (259,198)<a href='https://huggingface.co/collections/z-lab/dflash' />
+	[22] (259,198)<strong  />
+		[23] (259,198)<font  />
+			[24] (259,198)<font >모델 />
+DFlash
+는 투기적 디코딩을 위해 설계된 경량
+블록 확산
+모델입니다. 이를 통해 효율적이고 고품질의 병렬 드래프팅이 가능합니다.
+[25] (419,710)<a href='https://raw.githubusercontent.com/jianc99/jianc99.github.io/master/images/dflash_system.png' />
+	[26] (419,506)<img  />
+[27] (419,987)<details class='details-reset border rounded-2' />
+	[28] (419,762)<summary class='tmp-px-3 py-2' />
+		[29] (256,762)<span  />
+			[30] (256,762)<font  />
+				[31] (256,762)<font >DFlash_demo.mp4 />
+		[32] (296,764)<span  />
+33명이
+시청 중
+포크스
+[33] (700,32)<a class='Link Link--muted' href='/z-lab/dflash/forks' />
+	[34] (708,32)<font  />
+		[35] (697,32)<font >포크 />
+		[36] (715,32)<strong  />
+			[37] (715,32)<font >242 개 />
+[38] (696,63)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fz-lab%2Fdflash&report=z-lab+%28user%29' />
+	[39] (696,63)<font  />
+		[40] (696,63)<font >보고서 저장소 />
+[41] (687,121)<a class='Link--primary no-underline Link' href='/z-lab/dflash/releases' />
+	[42] (687,121)<font  />
+		[43] (687,121)<font >릴리스 />
+발표된 릴리스 없음
+[44] (746,218)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/z-lab/packages?repo_name=dflash' />
+	[45] (687,218)<font  />
+		[46] (687,217)<font >패키지 />
+게시된 패키지가 없습니다.
+[47] (746,314)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/z-lab/dflash/graphs/contributors' />
+	[48] (687,314)<font  />
+		[49] (687,314)<font >기고자 />
+	[50] (706,314)<span  />
+		[51] (706,314)<font  />
+			[52] (706,314)<font >4 />
+[53] (683,361)<a class='mr-2' href='https://github.com/jianc99' />
+	[54] (683,361)<img  />
+[55] (720,361)<a class='Link--primary no-underline flex-self-center' href='https://github.com/jianc99' />
+	[56] (709,361)<strong  />
+		[57] (709,361)<font  />
+			[58] (709,361)<font >jianc99 />
+	[59] (732,361)<span  />
+		[60] (732,361)<font  />
+			[61] (732,361)<font >지안 첸 />
+[62] (683,403)<a class='mr-2' href='https://github.com/shaun0927' />
+	[63] (683,403)<img  />
+[64] (721,403)<a class='Link--primary no-underline flex-self-center' href='https://github.com/shaun0927' />
+	[65] (715,403)<strong  />
+		[66] (715,403)<font  />
+			[67] (715,403)<font >shaun0927 />
+	[68] (740,403)<span  />
+		[69] (740,403)<font  />
+			[70] (740,403)<font >정환 />
+[71] (683,446)<a class='mr-2' href='https://github.com/zhijian-liu' />
+	[72] (683,446)<img  />
+[73] (730,446)<a class='Link--primary no-underline flex-self-center' href='https://github.com/zhijian-liu' />
+	[74] (713,446)<strong  />
+		[75] (713,446)<font  />
+			[76] (713,446)<font >Zhijian-liu />
+	[77] (748,446)<span  />
+		[78] (748,446)<font  />
+			[79] (748,446)<font >Zhijian Liu />
+[80] (683,488)<a class='mr-2' href='https://github.com/xiziqiao' />
+	[81] (683,488)<img  />
+[82] (706,488)<a class='Link--primary no-underline flex-self-center' href='https://github.com/xiziqiao' />
+	[83] (706,488)<strong  />
+		[84] (706,488)<font  />
+			[85] (706,488)<font >서자교 />
+언어
+[86] (701,617)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/z-lab/dflash/search?l=python' />
+	[87] (696,617)<span  />
+		[88] (696,617)<font  />
+			[89] (696,617)<font >파이썬 />
+	[90] (717,617)<span  />
+		[91] (717,617)<font  />
+			[92] (717,617)<font >100.0% />
+
+</current_dom>

@@ -1,0 +1,166 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,23)<header  />
+			[3] (72,23)<div class='x87ps6o xt0e3qv x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm' role='button' />
+				[단독 공개] Connect AI LAB: 유튜브 자동화 에이전트 구축을 위한 API 발급 완벽 가이드
+			[4] (863,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[5] (883,23)<div aria-label='Share site to socials' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[6] (902,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[7] (921,23)<div aria-label='More actions' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+			[8] (964,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>Get Notion free />
+		[9] (500,523)<main  />
+			[10] (500,523)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[11] (978,272)<div  />
+					[12] (978,272)<div  />
+						[13] (976,266)<div  />
+							[14] (981,185)<div  />
+								[15] (978,185)<div  />
+							[16] (981,200)<div  />
+								[17] (978,200)<div  />
+							[18] (981,215)<div  />
+								[19] (978,215)<div  />
+							[20] (981,230)<div  />
+								[21] (978,230)<div  />
+							[22] (981,244)<div  />
+								[23] (978,244)<div  />
+							[24] (981,259)<div  />
+								[25] (979,259)<div  />
+							[26] (981,274)<div  />
+								[27] (979,274)<div  />
+							[28] (981,289)<div  />
+								[29] (979,289)<div  />
+							[30] (981,304)<div  />
+								[31] (978,304)<div  />
+							[32] (981,319)<div  />
+								[33] (979,319)<div  />
+							[34] (981,333)<div  />
+								[35] (979,333)<div  />
+				[36] (496,92)<div  />
+					[37] (496,92)<div  />
+						[38] (496,92)<div  />
+							[39] (496,92)<div  />
+								[40] (319,92)<div  />
+									[41] (319,92)<div  />
+								[42] (503,92)<div  />
+									[43] (503,92)<div  />
+										[44] (503,92)<div  />
+											[45] (365,91)<span >Connect AI LAB, Jay />
+				[46] (496,120)<div  />
+					[47] (496,120)<div  />
+				[48] (496,162)<div  />
+					[49] (496,162)<div  />
+						[50] (496,162)<div  />
+							[51] (496,173)<div  />
+								[52] (496,173)<h3  />
+									[53] (408,172)<span >[보너스] 영상 속 핵심 자료 총정리 />
+										[54] (320,173)<img  />
+				[55] (496,232)<div  />
+					[56] (496,232)<div  />
+						[57] (496,232)<div  />
+							[58] (496,232)<div  />
+								[59] (496,232)<div  />
+									[60] (496,232)<div >에이전트에게 지시할 때 화면에 스쳐 지나갔던 바로 그 프롬프트와 핵심 사이트 주소입니다. 이 복사본까지 챙겨가시면 자동화 세팅이 훨씬 수월해집니다! />
+				[61] (496,296)<div  />
+					[62] (496,296)<div  />
+						[63] (496,296)<div  />
+							[64] (496,305)<div  />
+								[65] (496,305)<h4  />
+									[66] (416,304)<span >영상 속 '고퀄리티 트로트 음악 생성' 프롬프트 />
+										[67] (319,305)<img  />
+				[68] (496,361)<div  />
+					[69] (496,361)<div  />
+						[70] (496,361)<div  />
+							[71] (496,361)<div  />
+								[72] (496,361)<div  />
+									[73] (496,361)<div >이 프롬프트를 그대로 복사해서 에이전트(또는 음악 생성 AI)에 붙여넣으시면, 영상에서 들으셨던 것과 같은 찰진 음원을 얻으실 수 있습니다. />
+				[74] (496,441)<div  />
+					[75] (496,441)<blockquote  />
+						[76] (496,441)<div  />
+							[77] (497,441)<div >신나는 현대적 한국 트로트 곡. 춤추기 좋은 빠른 2/4박자 리듬에 화려한 색소폰 솔로와 경쾌한 아코디언 연주가 특징입니다. 한국 전통 '꺾기' 창법을 구사하는 힘 있는 보컬이 인생의 즐거움을 노래하며, 풍성한 브라스 섹션이 곡의 흥을 돋우는 에너지 넘치는 트랙입니다 />
+				[78] (496,518)<div  />
+					[79] (496,518)<div  />
+						[80] (496,518)<div  />
+							[81] (496,527)<div  />
+								[82] (496,527)<h4  />
+									[83] (372,526)<span >핵심 웹사이트 링크 모음 />
+										[84] (319,527)<img  />
+				[85] (496,599)<div  />
+					[86] (496,599)<div  />
+						[87] (496,602)<div  />
+							[88] (496,602)<div  />
+								[89] (319,570)<div  />
+									[90] (319,570)<div  />
+								[91] (503,602)<div  />
+									[92] (503,570)<div  />
+										[93] (503,570)<div  />
+											[94] (382,570)<span >Antigravity (안티그래비티) />
+												[95] (333,570)<img  />
+									[96] (503,602)<div  />
+										[97] (503,602)<div  />
+											[98] (503,602)<div  />
+												[99] (503,602)<div  />
+													[100] (336,602)<div  />
+														[101] (336,602)<div  />
+													[102] (510,602)<div  />
+														[103] (510,602)<div  />
+															[104] (510,602)<div >에이전트 관리와 유튜브 자동화를 통합 통제하는 대장님의 바이브 코딩 정수! />
+									[105] (503,633)<div  />
+										[106] (503,633)<div  />
+											[107] (503,634)<div  />
+												[108] (503,634)<div  />
+													[109] (336,634)<div  />
+														[110] (336,634)<div  />
+													[111] (510,634)<div  />
+														[112] (510,634)<div  />
+															[113] (510,634)<div >주소: />
+																[114] (413,633)<a class='notion-link-token notion-focusable-token notion-enable-hover' href='https://antigravity.google/' />
+																	[115] (413,633)<span >https://antigravity.google/ />
+				[116] (496,700)<div  />
+					[117] (496,700)<div  />
+						[118] (496,697)<div  />
+							[119] (496,697)<div  />
+								[120] (319,666)<div  />
+									[121] (319,666)<div  />
+								[122] (503,697)<div  />
+									[123] (503,666)<div  />
+										[124] (503,666)<div  />
+											[125] (402,665)<span >LYRIA 3 API Realtime 개발자 웹사이트 />
+												[126] (333,665)<img  />
+									[127] (503,697)<div  />
+										[128] (503,697)<div  />
+											[129] (503,697)<div  />
+												[130] (503,697)<div  />
+													[131] (336,697)<div  />
+														[132] (336,697)<div  />
+													[133] (510,697)<div  />
+														[134] (510,697)<div  />
+															[135] (510,697)<div >초반 대본에 나왔던 구글 딥마인드 최신 음악 생성 모델(Lyria) API 발급 및 접속 페이지 />
+									[136] (503,729)<div  />
+										[137] (503,729)<div  />
+											[138] (503,729)<div  />
+												[139] (503,729)<div  />
+													[140] (336,729)<div  />
+														[141] (336,729)<div  />
+													[142] (510,729)<div  />
+														[143] (510,729)<div  />
+															[144] (510,729)<div >주소: />
+																[145] (481,729)<a class='notion-link-token notion-focusable-token notion-enable-hover' href='https://ai.google.dev/gemini-api/docs/music-generation?hl=ko' />
+																	[146] (481,729)<span >https://ai.google.dev/gemini-api/docs/music-generation?hl=ko />
+				[147] (496,771)<div  />
+					[148] (496,771)<div  />
+						[149] (496,771)<div  />
+							[150] (496,771)<a class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh x1heor9g x1hl2dhg x1lliihq' href='/320b0dd763238008a359f880460d800e?pvs=25' role='link' />
+								[151] (496,771)<div  />
+									[152] (496,771)<div  />
+										[153] (496,771)<div  />
+											[154] (319,771)<div  />
+												[155] (319,771)<div  />
+													[156] (319,771)<span role='img' />
+											[157] (356,771)<span  />
+												[158] (356,771)<div >샘플 스킬 템플릿 />
+
+</current_dom>

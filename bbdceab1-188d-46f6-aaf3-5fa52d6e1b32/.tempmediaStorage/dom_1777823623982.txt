@@ -1,0 +1,470 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sungcheolkim78' />
+	[3] (69,34)<span  />
+		[4] (69,33)<font  />
+			[5] (69,33)<font >성철김78 />
+[6] (115,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sungcheolkim78/becoming_church' />
+	[7] (115,34)<span  />
+		[8] (115,33)<font  />
+			[9] (115,33)<font >교회가 되다 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[64] (65,190)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[65] (65,190)<span  />
+		[66] (58,190)<span  />
+			[67] (58,190)<div  />
+				[68] (19,190)<div  />
+				[69] (33,190)<div  />
+					[70] (33,190)<span  />
+						[71] (34,190)<font  />
+							[72] (34,190)<font >주인 />
+[73] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/sungcheolkim78/becoming_church/new/master/md_40days' />
+[74] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[75] (83,233)<span  />
+	[76] (17,233)<span  />
+	[77] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[78] (148,233)<span  />
+		[79] (148,233)<kbd  />
+			[80] (148,233)<span >t />
+				t
+				[81] (148,233)<span >T />
+[82] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[83] (79,279)<div  />
+		[84] (13,279)<div  />
+		[85] (84,279)<div  />
+			[86] (25,279)<div  />
+				[87] (25,279)<div  />
+			[88] (90,279)<span  />
+				[89] (47,279)<span  />
+					[90] (47,279)<font  />
+						[91] (47,279)<font >md_40일 />
+	[92] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/README.md-item' role='treeitem' />
+		[93] (79,314)<div  />
+			[94] (10,314)<div  />
+				[95] (10,314)<div  />
+					[96] (10,314)<div  />
+			[97] (86,314)<div  />
+				[98] (29,313)<div  />
+				[99] (92,314)<span  />
+					[100] (58,314)<span >README.md />
+	[101] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-ASV.md-item' role='treeitem' />
+		[102] (79,348)<div  />
+			[103] (10,348)<div  />
+				[104] (10,348)<div  />
+					[105] (10,348)<div  />
+			[106] (86,348)<div  />
+				[107] (29,347)<div  />
+				[108] (92,348)<span  />
+					[109] (80,348)<span >day01-영광과흑암-ASV.md />
+	[110] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-JA1955.md-item' role='treeitem' />
+		[111] (79,382)<div  />
+			[112] (10,382)<div  />
+				[113] (10,382)<div  />
+					[114] (10,382)<div  />
+			[115] (86,382)<div  />
+				[116] (29,382)<div  />
+				[117] (92,382)<span  />
+					[118] (84,382)<span >day01-영광과흑암-JA1955.md />
+	[119] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-WEB.md-item' role='treeitem' />
+		[120] (79,416)<div  />
+			[121] (10,416)<div  />
+				[122] (10,416)<div  />
+					[123] (10,416)<div  />
+			[124] (86,416)<div  />
+				[125] (29,416)<div  />
+				[126] (92,416)<span  />
+					[127] (80,416)<span >day01-영광과흑암-WEB.md />
+	[128] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-개역개정판성경.md-item' role='treeitem' />
+		[129] (79,450)<div  />
+			[130] (10,450)<div  />
+				[131] (10,450)<div  />
+					[132] (10,450)<div  />
+			[133] (86,450)<div  />
+				[134] (29,450)<div  />
+				[135] (92,450)<span  />
+					[136] (96,450)<span >day01-영광과흑암-개역개정판성경.md />
+	[137] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-개역한글판성경.md-item' role='treeitem' />
+		[138] (79,484)<div  />
+			[139] (10,484)<div  />
+				[140] (10,484)<div  />
+					[141] (10,484)<div  />
+			[142] (86,484)<div  />
+				[143] (29,484)<div  />
+				[144] (92,484)<span  />
+					[145] (96,484)<span >day01-영광과흑암-개역한글판성경.md />
+	[146] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-표준새번역성경.md-item' role='treeitem' />
+		[147] (79,518)<div  />
+			[148] (10,518)<div  />
+				[149] (10,518)<div  />
+					[150] (10,518)<div  />
+			[151] (86,518)<div  />
+				[152] (29,518)<div  />
+				[153] (92,518)<span  />
+					[154] (96,518)<span >day01-영광과흑암-표준새번역성경.md />
+	[155] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day01-영광과흑암-현대인의성경.md-item' role='treeitem' />
+		[156] (79,552)<div  />
+			[157] (10,552)<div  />
+				[158] (10,552)<div  />
+					[159] (10,552)<div  />
+			[160] (86,552)<div  />
+				[161] (29,552)<div  />
+				[162] (92,552)<span  />
+					[163] (93,552)<span >day01-영광과흑암-현대인의성경.md />
+	[164] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day02-선악과생명과-ASV.md-item' role='treeitem' />
+		[165] (79,586)<div  />
+			[166] (10,586)<div  />
+				[167] (10,586)<div  />
+					[168] (10,586)<div  />
+			[169] (86,586)<div  />
+				[170] (29,586)<div  />
+				[171] (92,586)<span  />
+					[172] (83,586)<span >day02-선악과생명과-ASV.md />
+	[173] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day02-선악과생명과-JA1955.md-item' role='treeitem' />
+		[174] (79,620)<div  />
+			[175] (10,620)<div  />
+				[176] (10,620)<div  />
+					[177] (10,620)<div  />
+			[178] (86,620)<div  />
+				[179] (29,620)<div  />
+				[180] (92,620)<span  />
+					[181] (88,620)<span >day02-선악과생명과-JA1955.md />
+	[182] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day02-선악과생명과-WEB.md-item' role='treeitem' />
+		[183] (79,654)<div  />
+			[184] (10,654)<div  />
+				[185] (10,654)<div  />
+					[186] (10,654)<div  />
+			[187] (86,654)<div  />
+				[188] (29,654)<div  />
+				[189] (92,654)<span  />
+					[190] (84,654)<span >day02-선악과생명과-WEB.md />
+	[191] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day02-선악과생명과-개역개정판성경.md-item' role='treeitem' />
+		[192] (79,688)<div  />
+			[193] (10,688)<div  />
+				[194] (10,688)<div  />
+					[195] (10,688)<div  />
+			[196] (86,688)<div  />
+				[197] (29,688)<div  />
+				[198] (92,688)<span  />
+					[199] (100,688)<span >day02-선악과생명과-개역개정판성경.md />
+	[200] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day03-빛과어둠-ASV.md-item' role='treeitem' />
+		[201] (79,722)<div  />
+			[202] (10,722)<div  />
+				[203] (10,722)<div  />
+					[204] (10,722)<div  />
+			[205] (86,722)<div  />
+				[206] (29,722)<div  />
+				[207] (92,722)<span  />
+					[208] (76,722)<span >day03-빛과어둠-ASV.md />
+	[209] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day03-빛과어둠-JA1955.md-item' role='treeitem' />
+		[210] (79,756)<div  />
+			[211] (10,756)<div  />
+				[212] (10,756)<div  />
+					[213] (10,756)<div  />
+			[214] (86,756)<div  />
+				[215] (29,756)<div  />
+				[216] (92,756)<span  />
+					[217] (81,756)<span >day03-빛과어둠-JA1955.md />
+	[218] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day03-빛과어둠-WEB.md-item' role='treeitem' />
+		[219] (79,790)<div  />
+			[220] (10,790)<div  />
+				[221] (10,790)<div  />
+					[222] (10,790)<div  />
+			[223] (86,790)<div  />
+				[224] (29,790)<div  />
+				[225] (92,790)<span  />
+					[226] (77,790)<span >day03-빛과어둠-WEB.md />
+	[227] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day03-빛과어둠-개역개정판성경.md-item' role='treeitem' />
+		[228] (79,824)<div  />
+			[229] (10,824)<div  />
+				[230] (10,824)<div  />
+					[231] (10,824)<div  />
+			[232] (86,824)<div  />
+				[233] (29,824)<div  />
+				[234] (92,824)<span  />
+					[235] (93,824)<span >day03-빛과어둠-개역개정판성경.md />
+	[236] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day03-빛과어둠-현대인의성경.md-item' role='treeitem' />
+		[237] (79,858)<div  />
+			[238] (10,858)<div  />
+				[239] (10,858)<div  />
+					[240] (10,858)<div  />
+			[241] (86,858)<div  />
+				[242] (29,858)<div  />
+				[243] (92,858)<span  />
+					[244] (90,858)<span >day03-빛과어둠-현대인의성경.md />
+	[245] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day04-하나님과분리된결과와회복-ASV.md-item' role='treeitem' />
+		[246] (79,893)<div  />
+			[247] (10,893)<div  />
+				[248] (10,893)<div  />
+					[249] (10,893)<div  />
+			[250] (86,893)<div  />
+				[251] (29,892)<div  />
+				[252] (92,893)<span  />
+					[253] (103,893)<span >day04-하나님과분리된결과와회복-ASV.md />
+	[254] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day04-하나님과분리된결과와회복-JA1955.md-item' role='treeitem' />
+		[255] (79,927)<div  />
+			[256] (10,927)<div  />
+				[257] (10,927)<div  />
+					[258] (10,927)<div  />
+			[259] (86,927)<div  />
+				[260] (29,927)<div  />
+				[261] (92,927)<span  />
+					[262] (108,927)<span >day04-하나님과분리된결과와회복-JA1955.md />
+	[263] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day04-하나님과분리된결과와회복-WEB.md-item' role='treeitem' />
+		[264] (79,961)<div  />
+			[265] (10,961)<div  />
+				[266] (10,961)<div  />
+					[267] (10,961)<div  />
+			[268] (86,961)<div  />
+				[269] (29,961)<div  />
+				[270] (92,961)<span  />
+					[271] (104,961)<span >day04-하나님과분리된결과와회복-WEB.md />
+	[272] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day04-하나님과분리된결과와회복-개역개정판성경.md-item' role='treeitem' />
+		[273] (79,995)<div  />
+			[274] (10,995)<div  />
+				[275] (10,995)<div  />
+					[276] (10,995)<div  />
+			[277] (86,995)<div  />
+				[278] (29,995)<div  />
+				[279] (92,995)<span  />
+					[280] (120,995)<span >day04-하나님과분리된결과와회복-개역개정판성경.md />
+[281] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[282] (196,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master' />
+	[283] (196,139)<font  />
+		[284] (196,139)<font >교회가 되다 />
+/
+md_40일
+/
+[285] (284,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[286] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_a9_' />
+	[287] (945,140)<span  />
+		[288] (945,140)<span  />
+			[289] (945,140)<span  />
+				[290] (941,140)<font  />
+					[291] (941,140)<font >파일 추가 />
+더 많은 옵션
+[292] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_ae_' title='더 많은 옵션' />
+최신 커밋
+[293] (190,198)<a class='prc-Link-Link-9ZwDx' href='/asm4g' />
+	[294] (188,199)<img  />
+[295] (208,198)<a aria-label='asm4g의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/commits?author=asm4g' />
+	[296] (208,198)<font  />
+		[297] (208,198)<font >asm4g />
+[298] (237,198)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/11de53422f098bd673a2c6f4bb1fd3c6504824c1' />
+	[299] (237,198)<font  />
+		[300] (237,198)<font >NIV 버전 />
+[301] (918,198)<a aria-label='커밋 11de534' class='Link--secondary prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/commit/11de53422f098bd673a2c6f4bb1fd3c6504824c1' />
+	[302] (918,198)<font  />
+		[303] (918,198)<font >11de534 />
+·
+7년 전
+역사
+[304] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/sungcheolkim78/becoming_church/commits/master/md_40days' />
+	[305] (971,198)<span  />
+		[306] (977,198)<span  />
+			[307] (977,197)<span  />
+				[308] (977,197)<font  />
+					[309] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[310] (584,304)<tr  />
+	상위 디렉토리
+	[311] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master' />
+		[312] (584,304)<div  />
+			[313] (201,304)<font  />
+				[314] (201,304)<font >.. />
+[315] (584,347)<tr  />
+	[316] (218,347)<a aria-label='README.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/README.md' title='README.md' />
+		[317] (218,347)<font  />
+			[318] (218,347)<font >README.md />
+	[319] (532,347)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/ec42fb4c494a180484bd97cf7cbe2529f6ab8759' title='README 추가' />
+		[320] (532,347)<font  />
+			[321] (532,347)<font >README 추가 />
+	7년 전
+[322] (584,390)<tr  />
+	[323] (240,390)<a aria-label='day01-영광과흑암-ASV.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-ASV.md' title='day01-영광과흑암-ASV.md' />
+		[324] (240,390)<font  />
+			[325] (240,390)<font >day01-영광과흑암-ASV.md />
+	[326] (528,390)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[327] (528,390)<font  />
+			[328] (528,390)<font >이름 바꾸기 />
+	7년 전
+[329] (584,433)<tr  />
+	[330] (245,434)<a aria-label='day01-영광과흑암-JA1955.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-JA1955.md' title='day01-영광과흑암-JA1955.md' />
+		[331] (245,434)<font  />
+			[332] (245,434)<font >day01-영광과흑암-JA1955.md />
+	[333] (528,434)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[334] (528,434)<font  />
+			[335] (528,434)<font >이름 바꾸기 />
+	7년 전
+[336] (584,477)<tr  />
+	[337] (241,477)<a aria-label='day01-영광과흑암-WEB.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-WEB.md' title='day01-영광과흑암-WEB.md' />
+		[338] (241,477)<font  />
+			[339] (241,477)<font >day01-영광과흑암-WEB.md />
+	[340] (528,477)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[341] (528,477)<font  />
+			[342] (528,477)<font >이름 바꾸기 />
+	7년 전
+[343] (584,520)<tr  />
+	[344] (257,521)<a aria-label='day01-영광과흑암-개역개정판성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' title='day01-영광과흑암-개역개정판성경.md' />
+		[345] (257,521)<font  />
+			[346] (257,521)<font >day01-영광과흑암-개역개정판성경.md />
+	[347] (528,521)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[348] (528,521)<font  />
+			[349] (528,521)<font >이름 바꾸기 />
+	7년 전
+[350] (584,563)<tr  />
+	[351] (257,564)<a aria-label='day01-영광과흑암-개역한글판성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%ED%95%9C%EA%B8%80%ED%8C%90%EC%84%B1%EA%B2%BD.md' title='day01-영광과흑암-개역한글판성경.md' />
+		[352] (257,564)<font  />
+			[353] (257,564)<font >day01-영광과흑암-개역한글판성경.md />
+	[354] (528,564)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[355] (528,564)<font  />
+			[356] (528,564)<font >이름 바꾸기 />
+	7년 전
+[357] (584,607)<tr  />
+	[358] (257,607)<a aria-label='day01-영광과흑암-표준새번역성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%ED%91%9C%EC%A4%80%EC%83%88%EB%B2%88%EC%97%AD%EC%84%B1%EA%B2%BD.md' title='day01-영광과흑암-표준새번역성경.md' />
+		[359] (257,607)<font  />
+			[360] (257,607)<font >day01-영광과흑암-표준새번역성경.md />
+	[361] (528,607)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[362] (528,607)<font  />
+			[363] (528,607)<font >이름 바꾸기 />
+	7년 전
+[364] (584,650)<tr  />
+	[365] (254,651)<a aria-label='day01-영광과흑암-현대인의성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%ED%98%84%EB%8C%80%EC%9D%B8%EC%9D%98%EC%84%B1%EA%B2%BD.md' title='day01-영광과흑암-현대인의성경.md' />
+		[366] (254,651)<font  />
+			[367] (254,651)<font >day01-영광과흑암-현대인의성경.md />
+	[368] (528,651)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[369] (528,651)<font  />
+			[370] (528,651)<font >이름 바꾸기 />
+	7년 전
+[371] (584,694)<tr  />
+	[372] (243,694)<a aria-label='day02-선악과생명과-ASV.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day02-%EC%84%A0%EC%95%85%EA%B3%BC%EC%83%9D%EB%AA%85%EA%B3%BC-ASV.md' title='day02-선악과생명과-ASV.md' />
+		[373] (243,694)<font  />
+			[374] (243,694)<font >day02-선악과생명과-ASV.md />
+	[375] (528,694)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[376] (528,694)<font  />
+			[377] (528,694)<font >이름 바꾸기 />
+	7년 전
+[378] (584,737)<tr  />
+	[379] (248,738)<a aria-label='day02-선악과생명과-JA1955.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day02-%EC%84%A0%EC%95%85%EA%B3%BC%EC%83%9D%EB%AA%85%EA%B3%BC-JA1955.md' title='day02-선악과생명과-JA1955.md' />
+		[380] (248,738)<font  />
+			[381] (248,738)<font >day02-선악과생명과-JA1955.md />
+	[382] (528,738)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[383] (528,738)<font  />
+			[384] (528,738)<font >이름 바꾸기 />
+	7년 전
+[385] (584,780)<tr  />
+	[386] (244,781)<a aria-label='day02-선악과생명과-WEB.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day02-%EC%84%A0%EC%95%85%EA%B3%BC%EC%83%9D%EB%AA%85%EA%B3%BC-WEB.md' title='day02-선악과생명과-WEB.md' />
+		[387] (244,781)<font  />
+			[388] (244,781)<font >day02-선악과생명과-WEB.md />
+	[389] (528,781)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[390] (528,781)<font  />
+			[391] (528,781)<font >이름 바꾸기 />
+	7년 전
+[392] (584,824)<tr  />
+	[393] (260,824)<a aria-label='day02-선악과생명과-개역개정판성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day02-%EC%84%A0%EC%95%85%EA%B3%BC%EC%83%9D%EB%AA%85%EA%B3%BC-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' title='day02-선악과생명과-개역개정판성경.md' />
+		[394] (260,824)<font  />
+			[395] (260,824)<font >day02-선악과생명과-개역개정판성경.md />
+	[396] (528,824)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[397] (528,824)<font  />
+			[398] (528,824)<font >이름 바꾸기 />
+	7년 전
+[399] (584,867)<tr  />
+	[400] (237,868)<a aria-label='day03-빛과어둠-ASV.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day03-%EB%B9%9B%EA%B3%BC%EC%96%B4%EB%91%A0-ASV.md' title='day03-빛과어둠-ASV.md' />
+		[401] (237,868)<font  />
+			[402] (237,868)<font >day03-빛과어둠-ASV.md />
+	[403] (528,868)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[404] (528,868)<font  />
+			[405] (528,868)<font >이름 바꾸기 />
+	7년 전
+[406] (584,911)<tr  />
+	[407] (241,911)<a aria-label='day03-빛과어둠-JA1955.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day03-%EB%B9%9B%EA%B3%BC%EC%96%B4%EB%91%A0-JA1955.md' title='day03-빛과어둠-JA1955.md' />
+		[408] (241,911)<font  />
+			[409] (241,911)<font >day03-빛과어둠-JA1955.md />
+	[410] (528,911)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[411] (528,911)<font  />
+			[412] (528,911)<font >이름 바꾸기 />
+	7년 전
+[413] (584,954)<tr  />
+	[414] (237,954)<a aria-label='day03-빛과어둠-WEB.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day03-%EB%B9%9B%EA%B3%BC%EC%96%B4%EB%91%A0-WEB.md' title='day03-빛과어둠-WEB.md' />
+		[415] (237,954)<font  />
+			[416] (237,954)<font >day03-빛과어둠-WEB.md />
+	[417] (528,954)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/9f5c70aab31d5e24c3c8a0f8b53b447a30a220fc' title='이름 바꾸기' />
+		[418] (528,954)<font  />
+			[419] (528,954)<font >이름 바꾸기 />
+	7년 전
+[420] (584,997)<tr  />
+	[421] (254,998)<a aria-label='day03-빛과어둠-개역개정판성경.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/md_40days/day03-%EB%B9%9B%EA%B3%BC%EC%96%B4%EB%91%A0-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' title='day03-빛과어둠-개역개정판성경.md' />
+		[422] (254,998)<font  />
+			[423] (254,998)<font >day03-빛과어둠-개역개정판성경.md />
+	이름 바꾸기
+	7년 전
+
+</current_dom>

@@ -1,0 +1,15 @@
+# V9 Agentic Swarm Upgrade Checklist
+
+- [/] Task Planning
+- [ ] Implement `core/orchestrator/model_router.py` (Local-First Hybrid)
+  - [ ] Support Ollama (Local) and Gemini (Cloud) routing based on task complexity
+- [ ] Refactor `core/agents/quants/upbit_hyper_scalper.py` (ReAct Loop)
+  - [ ] Implement Observe (Check order success)
+  - [ ] Implement Pivot (Double down or cut losses on quick drops)
+- [ ] Implement `core/orchestrator/alpha_manager.py` (Agent Swarm)
+  - [ ] Set up JSON message bus between News, Quant, and Shorts agents
+  - [ ] Implement fully automated 'Trade -> Profit -> Video' pipeline scenario
+- [ ] Verification
+  - [ ] Test Router fallback
+  - [ ] Test ReAct logic
+- [ ] Final Walkthrough Artifact

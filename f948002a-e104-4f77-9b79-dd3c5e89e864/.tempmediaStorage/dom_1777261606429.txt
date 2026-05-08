@@ -1,0 +1,216 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+연속 스크롤 사용 중지
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (77,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQPAgK' id='logo' title='Google 홈페이지로 이동' />
+[1] (380,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DAutomatic%2BMeat%2BShredder%2BeBay%26udm%3D2&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (43,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=Automatic+Meat+Shredder+eBay&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn3EUkXpB664CyuB4AK4e0uPukqm-Xk5WkUoxzDBmV857nmrFmZcKwgVp1BRylN02Tm7J9QXn6Yn94OG3rkHKqkLc206oXcz7wevT1fGo7JcHMqpAxHQQLT7Ky6qlF3c9K-Z2LOA&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQ0pQJegQIChAB' />
+	[17] (43,121)<div  />
+		[18] (43,130)<span >전체 />
+[19] (95,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn3EUkXpB664CyuB4AK4e0uPukqm-Xk5WkUoxzDBmV857nmrFmZcKwgVp1BRylN02Tm7J9QXn6Yn94OG3rkHKqkLc206oXcz7wevT1fGo7JcHMqpAxHQQLT7Ky6qlF3c9K-Z2LOA&q=Automatic+Meat+Shredder+eBay&ved=1t:220175&ictx=111' />
+	[20] (95,121)<div  />
+		[21] (95,130)<span >쇼핑 />
+[22] (153,121)<a class='C6AK7c' role='link' />
+	이미지
+[23] (234,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn3EUkXpB664CyuB4AK4e0uPukqm-Xk5WkUoxzDBmV857nmrFmZcKwgVp1BRylN02Tm7J9QXn6Yn94OG3rkHKqkLc206oXcz7wevT1fGo7JcHMqpAxHQQLT7Ky6qlF3c9K-Z2LOA&q=Automatic+Meat+Shredder+eBay&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQs6gLegQICxAB' />
+	[24] (234,121)<div  />
+		[25] (234,130)<span >짧은 동영상 />
+[26] (302,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&udm=web&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn3EUkXpB664CyuB4AK4e0uPukqm-Xk5WkUoxzDBmV857nmrFmZcKwgVp1BRylN02Tm7J9QXn6Yn94OG3rkHKqkLc206oXcz7wevT1fGo7JcHMqpAxHQQLT7Ky6qlF3c9K-Z2LOA&q=Automatic+Meat+Shredder+eBay&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQs6gLegQIDhAB' />
+	[27] (302,121)<div  />
+		[28] (302,130)<span >웹 />
+[29] (347,121)<a class='C6AK7c' href='/finance?newwindow=1&sca_esv=c28e6a7449b65c90&output=search&q=Automatic+Meat+Shredder+eBay&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn3EUkXpB664CyuB4AK4e0uPukqm-Xk5WkUoxzDBmV857nmrFmZcKwgVp1BRylN02Tm7J9QXn6Yn94OG3rkHKqkLc206oXcz7wevT1fGo7JcHMqpAxHQQLT7Ky6qlF3c9K-Z2LOA&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQ0pQJegQIDRAB' />
+	[30] (347,121)<div  />
+		[31] (347,130)<span >금융 />
+[32] (415,121)<div class='mTpL7c' role='button' />
+	[33] (415,121)<div  />
+		[34] (415,130)<div  />
+			[35] (405,124)<span >더보기 />
+			[36] (435,124)<span  />
+[37] (884,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (884,121)<div  />
+		[39] (884,130)<div  />
+			[40] (875,124)<span >도구 />
+			[41] (898,124)<span  />
+[42] (491,194)<div class='IUOThf' role='list' scrollable='true' />
+	[43] (147,193)<a aria-label='Chicken shredder machine 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=chicken+shredder+machine+Automatic+Meat+Shredder+eBay&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ZUNM7mtYny5rKDXe5Qj35-FL0wAdnAC2ao041NWDnfrl86oeS5QPq0DzGrzm1V7KPoykZJIGsDj0uJzQugQjNFyVdhft9ixlh95eYg-qI8MrI3h3oIKRCptuXTFO_picIRYem7_nCQmMvcEaSbbtO6aFcEFAkqwSDC8RfyfDikAQ6uK7&udm=2&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQxKsJKAB6BAgQEAE&ictx=0' role='link' />
+		[44] (147,193)<div  />
+			[45] (46,193)<span  />
+				[46] (46,193)<div  />
+			[47] (169,193)<span >Chicken shredder machine />
+	[48] (372,193)<a aria-label='Sausage maker 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=sausage+maker+Automatic+Meat+Shredder+eBay&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-1SJLs6PR4i_l8aWdSowUAbGwg1kD7hYZby3c1LybxxM6ckVYLxBi8q7IG35FzwdkfdCk_eU5qW-84i75Mi50KDUkJ2TP7pgHTWLhTI6dQO_xetailS6zvJQ5vHKd3xT6v1GwunaMCAvQ1-Dd5jXZT8yRegEFqhcme_c8pDh2ACFhHd5O&udm=2&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQxKsJKAF6BAgUEAE&ictx=0' role='link' />
+		[49] (372,193)<div  />
+			[50] (306,193)<span  />
+				[51] (306,193)<div  />
+			[52] (394,193)<span >Sausage maker />
+	[53] (550,193)<a aria-label='Meat cutters 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=meat+cutters+Automatic+Meat+Shredder+eBay&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-3_x93TMVYgu3qSTq_X9v4GsRbBK81rKt5GDQHGGexzrkx-E1bHa8je9oxKcphU4At5NIfMJZu8RZIfBzjgI0k85f1Hs3UT9LJ1P36OIvbTJsx6S8S7C9cy-Hy2lZ8M6gpucW0b0BjstgqHchRKDM79KFj8o&udm=2&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQxKsJKAJ6BAgSEAE&ictx=0' role='link' />
+		[54] (550,193)<div  />
+			[55] (495,193)<span  />
+				[56] (495,193)<div  />
+			[57] (572,193)<span >Meat cutters />
+	[58] (728,193)<a aria-label='Sausage stuffer 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=sausage+stuffer+Automatic+Meat+Shredder+eBay&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FI12WB8XefYsPz5ZDjWI9yt24pElGtY3npExv7VOnMlV-N-G09i_aiNm9CotvWvZTWarHyy4ZAQ0p93LSaK7flb78yHw82keQtF2I2v5JY7-0uPSbRc9ytHrRMyM1DZbm2yfDq_8ubqH9e6earB0qy-IHhM6rsdzy5KshWrQRmqHbMj1&udm=2&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQxKsJKAN6BAgTEAE&ictx=0' role='link' />
+		[59] (728,193)<div  />
+			[60] (662,193)<span  />
+				[61] (662,193)<div  />
+			[62] (750,193)<span >Sausage stuffer />
+	[63] (914,193)<a aria-label='Chicken breast 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5lpfRZvNA4CSMNEgDqsVNAY2RBNw:1777261602757&q=chicken+breast+Automatic+Meat+Shredder+eBay&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ii7VtfXZnR55IuglcdQbHwJV5pErxyci7jnHpWwlP5tnmaWolHb2nSyILOxoktfmlgJQUjMhK1Vim2vkr--AR5oTLNHdHsN473da83zyLuHpLe8-vpoi_NGvaENEvG8N9vjBC279bDnIYy6c_xbC7orkFSKwdaHSRLgzuDbfqKROFmCV&udm=2&sa=X&ved=2ahUKEwiaj4W0j42UAxV5X0EAHY59GjMQxKsJKAR6BAgREAE&ictx=0' role='link' />
+		[64] (914,193)<div >Chicken breast />
+			[65] (851,193)<span  />
+				[66] (851,193)<div  />
+			Chicken breast
+[67] (952,194)<button class='vezEod SvoXfb vBfb5' />
+검색결과
+[68] (163,409)<div  />
+	[69] (163,409)<div  />
+		[70] (163,409)<div  />
+			[71] (163,386)<div  />
+				[72] (163,386)<div  />
+					[73] (163,386)<a  />
+						[74] (163,386)<div  />
+							[75] (163,386)<div class='RmwKgd klScif' role='button' />
+								[76] (163,386)<div  />
+									[77] (163,386)<img  />
+			[78] (163,546)<div  />
+				[79] (163,546)<a class='LBcIee' href='https://www.ebay.com/itm/227074913982' />
+					[80] (163,546)<div  />
+						[81] (163,536)<div  />
+							[82] (163,535)<div >Electric Chicken Shredder, Automatic Chicken Breast Grinder Meat Shredder,  USB R | eBay />
+						[83] (163,556)<div  />
+							[84] (163,557)<div  />
+								[85] (34,557)<div  />
+									[86] (34,557)<img  />
+								[87] (174,557)<div  />
+									[88] (64,557)<span >eBay />
+[89] (447,415)<div  />
+	[90] (447,415)<div  />
+		[91] (447,415)<div  />
+			[92] (447,393)<div  />
+				[93] (447,393)<div  />
+					[94] (447,393)<a  />
+						[95] (447,393)<div  />
+							[96] (447,393)<div class='RmwKgd klScif' role='button' />
+								[97] (447,393)<div  />
+									[98] (447,393)<img  />
+			[99] (447,558)<div  />
+				[100] (447,558)<a class='LBcIee' href='https://www.ebay.com/itm/201516056381' />
+					[101] (447,558)<div  />
+						[102] (447,548)<div  />
+							[103] (447,548)<div >Hakka Electric Meat Grinder Commercial Chopper 560lbs/h Kitchen Meat Mincer  | eBay />
+						[104] (447,568)<div  />
+							[105] (447,570)<div  />
+								[106] (318,569)<div  />
+									[107] (318,569)<img  />
+								[108] (458,570)<div  />
+									[109] (348,570)<span >eBay />
+[110] (731,415)<div  />
+	[111] (731,415)<div  />
+		[112] (731,415)<div  />
+			[113] (731,393)<div  />
+				[114] (731,393)<div  />
+					[115] (731,393)<a  />
+						[116] (731,393)<div  />
+							[117] (731,393)<div class='RmwKgd klScif' role='button' />
+								[118] (731,393)<div  />
+									[119] (731,393)<img  />
+			[120] (731,558)<div  />
+				[121] (731,558)<a class='LBcIee' href='https://www.ebay.com/itm/376544365569' />
+					[122] (731,558)<div  />
+						[123] (731,548)<div  />
+							[124] (731,548)<div >Electric Meat Cutter Commercial Home Meat Grinder Onion Chopper Slicer  Shredder | eBay />
+						[125] (731,568)<div  />
+							[126] (731,570)<div  />
+								[127] (602,569)<div  />
+									[128] (602,569)<img  />
+								[129] (742,570)<div  />
+									[130] (632,570)<span >eBay />
+1000W Electric Meat Grinder Meat Grinding Sausage Maker Mincer Stainless  Steel | eBay
+[131] (886,569)<div  />
+	[132] (886,569)<img  />
+[133] (916,570)<span >eBay />
+[134] (163,745)<div  />
+	[135] (163,745)<div  />
+		[136] (163,745)<div  />
+			[137] (163,722)<div  />
+				[138] (163,722)<div  />
+					[139] (163,722)<a  />
+						[140] (163,722)<div  />
+							[141] (163,722)<div class='RmwKgd klScif' role='button' />
+								[142] (163,722)<div  />
+									[143] (163,722)<img  />
+			[144] (163,888)<div  />
+				[145] (163,888)<a class='LBcIee' href='https://www.ebay.com/itm/146872783116' />
+					[146] (163,888)<div  />
+						[147] (163,878)<div  />
+							[148] (163,878)<div >Electric Meat Grinder, 2800W Max Sausage Stuffer,Stainless Steel Meat Mincer  ... | eBay />
+						[149] (163,898)<div  />
+							[150] (163,899)<div  />
+								[151] (34,899)<div  />
+									[152] (34,899)<img  />
+								[153] (174,899)<div  />
+									[154] (64,899)<span >eBay />
+[155] (447,757)<div  />
+	[156] (447,757)<div  />
+		[157] (447,757)<div  />
+			[158] (447,735)<div  />
+				[159] (447,735)<div  />
+					[160] (447,735)<a  />
+						[161] (447,735)<div  />
+							[162] (447,735)<div class='RmwKgd klScif' role='button' />
+								[163] (447,735)<div  />
+									[164] (447,735)<img  />
+			[165] (447,901)<div  />
+				[166] (447,901)<a class='LBcIee' href='https://www.ebay.com/itm/187810958876' />
+					[167] (447,901)<div  />
+						[168] (447,891)<div  />
+							[169] (447,890)<div >VEVOR Heavy Duty Electric Meat Grinder 992 Lb/H Capacity 1100W Sausage  Stuffer | eBay />
+						[170] (447,911)<div  />
+							[171] (447,912)<div  />
+								[172] (318,911)<div  />
+									[173] (318,911)<img  />
+								[174] (458,912)<div  />
+									[175] (348,912)<span >eBay />
+[176] (731,757)<div  />
+	[177] (731,757)<div  />
+		[178] (731,757)<div  />
+			[179] (731,735)<div  />
+				[180] (731,735)<div  />
+					[181] (731,735)<a  />
+						[182] (731,735)<div  />
+							[183] (731,735)<div class='RmwKgd klScif' role='button' />
+								[184] (731,735)<div  />
+									[185] (731,735)<img  />
+			[186] (731,901)<div  />
+				[187] (731,901)<a class='LBcIee' href='https://www.ebay.com/itm/187448701026' />
+					[188] (731,901)<div  />
+						[189] (731,891)<div  />
+							[190] (731,890)<div >Meat Grinder Electric Heavy Duty Stainless Steel Meat Mincer &3 Grinding  Plates | eBay />
+						[191] (731,911)<div  />
+							[192] (731,912)<div  />
+								[193] (602,911)<div  />
+									[194] (602,911)<img  />
+								[195] (742,912)<div  />
+									[196] (632,912)<span >eBay />
+Uimoso 1260lb Electric Meat Grinder 1100W Commercial Meat Mincer Sausage  Stuffer | eBay
+[197] (886,911)<div  />
+	[198] (886,911)<img  />
+[199] (916,912)<span >eBay />
+
+</current_dom>

@@ -1,0 +1,159 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwict5v7w6CUAxWPslYBHYyYEcoQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DAI%2Bmodel%2Bpricing%2Btiers%2BMay%2B2026%2BGPT-5.5%2BClaude%2B4%2BGemini%2B2.0%2Bhybrid%2Blocal%2Bcloud%2Bworkflow&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n65OIKVXNiVu46TsBMVVUr7OZlIJw:1777928545693&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjZJ3p4KHRuHosJTsLAfzgm__XOZh2XqEfi6Wtnozn_lCburPX2mbdsCg8M61KorcC1yRdh95GGXugeB_oO6xulidRnpYw&q=AI+model+pricing+tiers+May+2026+GPT-5.5+Claude+4+Gemini+2.0+hybrid+local+cloud+workflow&sa=X&ved=2ahUKEwict5v7w6CUAxWPslYBHYyYEcoQtKgLegQIFhAB' />
+	[18] (156,121)<div  />
+		[19] (156,130)<span >이미지 />
+[20] (185,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n65OIKVXNiVu46TsBMVVUr7OZlIJw:1777928545693&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjZJ3p4KHRuHosJTsLAfzgm__XOZh2XqEfi6Wtnozn_lCburPX2mbdsCg8M61KorcC1yRdh95GGXugeB_oO6xulidRnpYw&q=AI+model+pricing+tiers+May+2026+GPT-5.5+Claude+4+Gemini+2.0+hybrid+local+cloud+workflow&ved=1t:220175&ictx=111' />
+	[21] (185,121)<div  />
+		[22] (185,130)<span >쇼핑 />
+[23] (211,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n65OIKVXNiVu46TsBMVVUr7OZlIJw:1777928545693&q=AI+model+pricing+tiers+May+2026+GPT-5.5+Claude+4+Gemini+2.0+hybrid+local+cloud+workflow&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjZJ3p4KHRuHosJTsLAfzgm__XOZh2XqEfi6Wtnozn_lCburPX2mbdsCg8M61KorcC1yRdh95GGXugeB_oO6xulidRnpYw&sa=X&ved=2ahUKEwict5v7w6CUAxWPslYBHYyYEcoQ0pQJegQIFBAB' />
+	[24] (211,121)<div  />
+		[25] (211,130)<span >뉴스 />
+[26] (240,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n65OIKVXNiVu46TsBMVVUr7OZlIJw:1777928545693&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjZJ3p4KHRuHosJTsLAfzgm__XOZh2XqEfi6Wtnozn_lCburPX2mbdsCg8M61KorcC1yRdh95GGXugeB_oO6xulidRnpYw&q=AI+model+pricing+tiers+May+2026+GPT-5.5+Claude+4+Gemini+2.0+hybrid+local+cloud+workflow&sa=X&ved=2ahUKEwict5v7w6CUAxWPslYBHYyYEcoQtKgLegQIEhAB' />
+	[27] (240,121)<div  />
+		[28] (240,130)<span >동영상 />
+[29] (281,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n65OIKVXNiVu46TsBMVVUr7OZlIJw:1777928545693&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjZJ3p4KHRuHosJTsLAfzgm__XOZh2XqEfi6Wtnozn_lCburPX2mbdsCg8M61KorcC1yRdh95GGXugeB_oO6xulidRnpYw&q=AI+model+pricing+tiers+May+2026+GPT-5.5+Claude+4+Gemini+2.0+hybrid+local+cloud+workflow&sa=X&ved=2ahUKEwict5v7w6CUAxWPslYBHYyYEcoQs6gLegQIExAB' />
+	[30] (281,121)<div  />
+		[31] (281,130)<span >짧은 동영상 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+생각 중
+검색
+Web results
+[42] (261,661)<a class='zReHs' href='https://af.net/realtime/best-ai-models-april-and-may-2026-leaderboard-gpt-5-5-claude-opus-4-7-deepseek-v4/' />
+	[43] (261,682)<h3 >Best AI Models: April and May 2026 Leaderboard (GPT-5.5 ... />
+	[44] (188,644)<div  />
+		[45] (188,644)<div  />
+			[46] (127,644)<span  />
+				[47] (127,644)<div  />
+					[48] (127,644)<img  />
+			[49] (198,644)<div  />
+				[50] (198,635)<div  />
+					[51] (198,635)<span >AI For Developing Countries Forum />
+				[52] (198,655)<div  />
+					[53] (172,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://af.net />
+						[54] (189,655)<span class='ylgVCe ob9lvb' role='text'>› AI News />
+[55] (266,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (266,654)<span  />
+		[57] (266,655)<span  />
+4일 전
+—
+The
+AI
+landscape saw major advancements in April and
+May 2026
+with the release of
+GPT
+-
+5.5
+,
+Claude
+Opus 4.7, and DeepSeek V4.
+[58] (252,813)<a class='zReHs' href='https://blog.naver.com/drvoss/224204521208?viewType=pc' />
+	[59] (252,837)<h3 >AI프로젝트를 위한 - LLM 선택 전략 가이드(2026년 3월 현재) />
+	[60] (173,800)<div  />
+		[61] (173,800)<div  />
+			[62] (127,800)<span  />
+				[63] (127,800)<div  />
+					[64] (127,800)<span  />
+			[65] (183,800)<div  />
+				[66] (183,790)<div  />
+					[67] (183,790)<span >Naver Blog />
+				[68] (183,810)<div  />
+					[69] (183,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://blog.naver.com />
+						[70] (214,810)<span class='ylgVCe ob9lvb' role='text'>› drvoss />
+[71] (237,809)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[72] (237,809)<span  />
+		[73] (237,810)<span  />
+2026. 3. 4.
+—
+ChatGPT,
+Claude
+,
+Gemini
+가 저마다 새 버전을 쏟아내는
+2026
+년, 처음 API를 연동하려는 개발자는 가격표 하나 보는 것만으로도 지친다.
+[74] (202,971)<a class='zReHs' href='https://www.nxcode.io/ko/tools/ai-model-comparison' />
+	[75] (171,992)<h3 >2026 AI 모델 비교 분석 />
+	[76] (202,955)<div  />
+		[77] (202,955)<div  />
+			[78] (127,955)<span  />
+				[79] (127,955)<div  />
+					[80] (127,955)<img  />
+			[81] (212,955)<div  />
+				[82] (212,945)<div  />
+					[83] (212,945)<span >NxCode />
+				[84] (212,965)<div  />
+					[85] (212,965)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.nxcode.io />
+						[86] (242,965)<span class='ylgVCe ob9lvb' role='text'>› tools › ai-model-comparison />
+[87] (294,964)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[88] (294,964)<span  />
+		[89] (294,965)<span  />
+[90] (498,641)<div  />
+	[91] (498,641)<img  />
+[92] (540,641)<div >AI에게 질문하기 />
+	[93] (514,641)<img  />
+[94] (602,641)<div >검색 에이전트 />
+	[95] (580,641)<img  />
+[96] (641,637)<div  />
+[97] (654,637)<div  />
+[98] (666,637)<div  />
+[99] (512,683)<div  />
+	[100] (499,683)<img  />
+	[101] (517,683)<span >4o mini />
+[102] (553,683)<div  />
+	[103] (540,683)<img  />
+	[104] (559,683)<span >GPT-4o />
+[105] (599,683)<div  />
+	[106] (582,683)<img  />
+	[107] (605,683)<span >Claude 3.5 />
+[108] (644,683)<div  />
+	[109] (632,683)<img  />
+	[110] (650,683)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+🚀 지금 업그레이드
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

@@ -1,0 +1,261 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (118,34)<span >topic:passive-income AI />
+			topic:passive-income AI
+[5] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (870,34)<span  />
+[9] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (983,34)<img  />
+repositories Search Results · topic:passive-income AI
+[15] (77,568)<div class='prc-PageLayout-Pane-AyzHK' scrollable='true'>Filter by />
+	Filter by
+	[16] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=code' id='_R_5sraqdb_' />
+		[17] (79,148)<span  />
+			[18] (70,148)<span >Code />
+			results
+	[19] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=repositories' id='_R_9sraqdb_' />
+		[20] (79,182)<span  />
+			[21] (70,182)<span >Repositories />
+			results
+	[22] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=issues' id='_R_dsraqdb_' />
+		[23] (79,216)<span  />
+			[24] (70,216)<span >Issues />
+			results
+	[25] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=pullrequests' id='_R_hsraqdb_' />
+		[26] (79,250)<span  />
+			[27] (70,250)<span >Pull requests />
+			results
+	[28] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=discussions' id='_R_lsraqdb_' />
+		[29] (79,284)<span  />
+			[30] (70,284)<span >Discussions />
+			results
+	[31] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI&type=users' id='_R_psraqdb_' />
+		[32] (79,317)<span  />
+			[33] (70,317)<span >Users />
+			results
+	[34] (73,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_R_2sraqdb_' />
+		[35] (79,351)<span  />
+			[36] (79,351)<span >More />
+	Languages
+	[37] (73,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI+language%3AHTML&type=repositories&s=updated&o=desc' id='_R_upbaqdb_' />
+		[38] (78,435)<span  />
+			[39] (78,435)<span  />
+				[40] (78,435)<div  />
+					[41] (78,435)<div >HTML />
+	[42] (73,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI+language%3ATypeScript&type=repositories&s=updated&o=desc' id='_R_1epbaqdb_' />
+		[43] (78,469)<span  />
+			[44] (78,469)<span  />
+				[45] (78,469)<div  />
+					[46] (78,469)<div >TypeScript />
+	[47] (73,503)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI+language%3APython&type=repositories&s=updated&o=desc' id='_R_1upbaqdb_' />
+		[48] (78,503)<span  />
+			[49] (78,503)<span  />
+				[50] (78,503)<div  />
+					[51] (78,503)<div >Python />
+	[52] (73,537)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI+language%3ASolidity&type=repositories&s=updated&o=desc' id='_R_2epbaqdb_' />
+		[53] (78,537)<span  />
+			[54] (78,537)<span  />
+				[55] (78,537)<div  />
+					[56] (78,537)<div >Solidity />
+	[57] (73,570)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2upbaqdb_' />
+		[58] (79,570)<span  />
+			[59] (79,570)<span  />
+				[60] (79,570)<div >More languages... />
+	Advanced
+	[61] (73,654)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_v9baqdb_' />
+		[62] (79,654)<span  />
+			[63] (79,654)<span  />
+				[64] (79,654)<div  />
+					[65] (79,654)<div >Owner />
+	[66] (73,688)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1f9baqdb_' />
+		[67] (79,688)<span  />
+			[68] (79,688)<span  />
+				[69] (79,688)<div  />
+					[70] (79,688)<div >Size />
+	[71] (73,722)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1v9baqdb_' />
+		[72] (79,722)<span  />
+			[73] (79,722)<span  />
+				[74] (79,722)<div  />
+					[75] (79,722)<div >Number of followers />
+	[76] (73,756)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2f9baqdb_' />
+		[77] (79,756)<span  />
+			[78] (79,756)<span  />
+				[79] (79,756)<div  />
+					[80] (79,756)<div >Number of forks />
+	[81] (73,789)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2v9baqdb_' />
+		[82] (79,789)<span  />
+			[83] (79,789)<span  />
+				[84] (79,789)<div  />
+					[85] (79,789)<div >Number of stars />
+	[86] (73,823)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_3f9baqdb_' />
+		[87] (79,823)<span  />
+			[88] (79,823)<span  />
+				[89] (79,823)<div  />
+					[90] (79,823)<div >Date created />
+	[91] (73,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_3v9baqdb_' />
+		[92] (79,857)<span  />
+			[93] (79,857)<span  />
+				[94] (79,857)<div  />
+					[95] (79,857)<div >Date pushed />
+	[96] (73,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_4f9baqdb_' />
+		[97] (79,891)<span  />
+			[98] (79,891)<span  />
+				[99] (79,891)<div  />
+					[100] (79,891)<div >Topic />
+	[101] (73,925)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_4v9baqdb_' />
+		[102] (79,925)<span  />
+			[103] (79,925)<span  />
+				[104] (79,925)<div  />
+					[105] (79,925)<div >License />
+	[106] (73,959)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_5f9baqdb_' />
+		[107] (79,959)<span  />
+			[108] (79,959)<span  />
+				[109] (79,959)<div  />
+					[110] (79,959)<div >Archived />
+	[111] (73,993)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+AI+is%3Apublic&type=repositories&s=updated&o=desc' id='_R_5v9baqdb_' />
+		[112] (79,993)<span  />
+			[113] (79,993)<span  />
+				[114] (79,993)<div  />
+					[115] (79,993)<div >Public />
+[116] (154,568)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+24 results
+(
+318
+ms
+)
+24 results
+[117] (669,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[118] (664,99)<span  />
+		[119] (664,99)<span >Recently updated />
+			[120] (640,99)<span >Sort by: />
+[121] (735,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[122] (735,99)<span  />
+		[123] (735,99)<span  />
+			[124] (735,99)<div >Save />
+[125] (763,99)<button aria-label='Open column options' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+[126] (269,162)<a class='prc-Link-Link-9ZwDx' href='/yokiyokeh/prompt-engineering-portfolio' />
+	[127] (269,161)<span >yokiyokeh/prompt-engineering-portfolio />
+📋 Explore prompt templates with this curated portfolio of 100 production-ready prompts for effective and versatile prompt engineering tec…
+[128] (186,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/nlp'>nlp />
+[129] (222,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/engineering'>engineering />
+[130] (266,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/portfolio'>portfolio />
+[131] (311,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/data-science'>data-science />
+[132] (368,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning'>machine-learning />
+[133] (183,252)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/yokiyokeh/prompt-engineering-portfolio/stargazers' />
+	[134] (189,252)<span >0 />
+·
+Updated
+1 hour ago
+[135] (746,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[136] (746,168)<span  />
+		[137] (751,168)<span >Star />
+[138] (245,329)<a class='prc-Link-Link-9ZwDx' href='/thandavank/passive-income' />
+	[139] (245,329)<span >thandavank/passive-income />
+Automate your trading with the CryptoAlgo
+AI
+Trading Bot for Ethereum and Binance Smart Chain. Maximize profits with advanced strategies.…
+[140] (191,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/docker'>docker />
+[141] (223,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/share'>share />
+[142] (263,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bootstrapper'>bootstrapper />
+[143] (312,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bandwidth'>bandwidth />
+[144] (352,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/solidity'>solidity />
+HTML
+·
+[145] (219,420)<a aria-label='1 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/thandavank/passive-income/stargazers' />
+	[146] (225,420)<span >1 />
+·
+Updated
+2 hours ago
+[147] (746,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[148] (746,335)<span  />
+		[149] (751,335)<span >Star />
+[150] (272,496)<a class='prc-Link-Link-9ZwDx' href='/HackMyTask/awesome-ai-money-machine' />
+	[151] (272,496)<span >HackMyTask/awesome-
+-money-machine />
+		[152] (284,496)<em >ai />
+🤖💰 Curated
+AI
+tools, n8n automations, LLM prompts & blueprints to make money with
+AI
+— from zero to automated income
+[153] (191,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python'>python />
+[154] (233,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation'>automation />
+[155] (280,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trading-bot'>trading-bot />
+[156] (321,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/startup'>startup />
+[157] (368,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/developer-tools'>developer-tools />
+[158] (183,587)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/HackMyTask/awesome-ai-money-machine/stargazers' />
+	[159] (189,587)<span >0 />
+·
+Updated
+2 days ago
+[160] (746,503)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[161] (746,503)<span  />
+		[162] (751,503)<span >Star />
+[163] (307,663)<a class='prc-Link-Link-9ZwDx' href='/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading' />
+	[164] (307,663)<span >Cortex-AI-Software/crypto-arbitrage-bot-automated-trading />
+🤖 Cortex
+AI
+: Automated Crypto Arbitrage Bot & P2P Spread Scanner. High-Speed Trading Engine for TON, Solana, and Base. Multi-Chain Flash-…
+[165] (209,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/algorithmic-trading'>algorithmic-trading />
+[166] (273,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/passive-income'>passive-income />
+[167] (339,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/kraken-exchange-api'>kraken-exchange-api />
+[168] (388,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/htx'>htx />
+[169] (427,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/arbitrage-bot'>arbitrage-bot />
+[170] (185,754)<a aria-label='46 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/stargazers' />
+	[171] (191,754)<span >46 />
+·
+Updated
+7 days ago
+[172] (746,670)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[173] (746,670)<span  />
+		[174] (751,670)<span >Star />
+[175] (243,831)<a class='prc-Link-Link-9ZwDx' href='/yjp6548/devincome-toolkit' />
+	[176] (243,830)<span >yjp6548/devincome-toolkit />
+开发者
+AI
+变现工具包 - 6条已验证变现路径 | 50+ Prompt模板 | ¥99早鸟价 | Developer
+AI
+Side Hustle Toolkit
+[177] (198,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/productivity'>productivity />
+[178] (248,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/open-source'>open-source />
+[179] (297,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation'>automation />
+[180] (330,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai'>ai />
+[181] (361,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/templates'>templates />
+HTML
+·
+[182] (219,921)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/yjp6548/devincome-toolkit/stargazers' />
+	[183] (225,921)<span >0 />
+·
+Updated
+11 days ago
+[184] (746,837)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[185] (746,837)<span  />
+		[186] (751,837)<span >Star />
+[187] (225,998)<a class='prc-Link-Link-9ZwDx' href='/alanvito1/ORSTAC' />
+	[188] (225,997)<span >alanvito1/ORSTAC />
+Star
+Sponsor open source projects you depend on
+Contributors are working behind the scenes to make open source better for everyone—give them the help and recognition they deserve.
+[189] (885,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore'>Explore sponsorable projects />
+How can we improve search?
+[190] (895,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+	[191] (895,386)<span >Give feedback />
+ProTip!
+Press the
+/
+key to activate the search input again and adjust your query.
+
+</current_dom>

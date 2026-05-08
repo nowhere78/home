@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Choose your language
+:
+English
+한국어
+[0] (91,42)<a class='Navbar_logo__GfrlV Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/' />
+[1] (228,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 SearchInput_contentType__xssFJ Button_hideTextMobile__HefOk Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol' />
+	[2] (230,42)<span  />
+		[3] (230,42)<span  />
+			[4] (230,42)<span >Photos />
+[5] (334,42)<input class='SearchInput_input__NOK7W' id='search' placeholder='Search for free photos' />
+[6] (395,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG SearchInput_button__zJmJd Button_iconSolo__JmugI Button_noText__tgsFc Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-grey__u6fBS' />
+	[7] (395,42)<span  />
+[8] (499,42)<a class='Text_text__D8yqX Text_size-label-default__fPDlp Text_color-greyscale-shadow__RZoEL spacing_noMargin__F5u9R spacing_pt15__cbBaC spacing_pb15__udczT Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/discover/' />
+	[9] (499,42)<span >Explore />
+[10] (615,42)<a class='Text_text__D8yqX Text_size-label-default__fPDlp Text_color-greyscale-shadow__RZoEL spacing_noMargin__F5u9R spacing_pt15__cbBaC spacing_pb15__udczT DisplayNone_desktop-oversized__gMp2i Navbar_navlink__TK8ZW Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/license/' />
+	[11] (615,43)<span >License />
+[12] (690,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG Navbar_transparentButton__ZCSw8 Button_iconSolo__JmugI Button_noText__tgsFc Button_noBorder__BKWR5 Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol Button_color-override-greyscale-shadow__MAsnY' />
+[13] (759,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG Navbar_transparentButton__ZCSw8 Button_iconSolo__JmugI Button_noText__tgsFc Button_noBorder__BKWR5 Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol Button_color-override-greyscale-shadow__MAsnY' id='navbar--notification-icon' />
+[14] (822,42)<div  />
+	[15] (822,42)<img  />
+[16] (917,42)<a class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 useAuth_hideWhenSignedOut__4iEV3 DisplayNone_desktop-oversized__gMp2i Navbar_primaryCTA__NSzqU Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-shadow__0beQR Link_link__Ime8c spacing_noMargin__F5u9R' href='/upload/' />
+	[17] (917,42)<span  />
+		[18] (917,42)<span >Upload />
+[19] (500,162)<h3 >Generate a Pexels API Key />
+[20] (500,212)<label class='Text_text__D8yqX Text_size-p16__XDTMr Text_color-greyPlus14A4A4A__TK_Tw spacing_noMargin__F5u9R spacing_mb8__FlsHu'>Project Name />
+	[21] (298,212)<span >* />
+[22] (500,260)<input class='Input_input__jJeKL' />
+[23] (199,258)<p  />
+[24] (500,327)<label class='Text_text__D8yqX Text_size-p16__XDTMr Text_color-greyPlus14A4A4A__TK_Tw spacing_noMargin__F5u9R spacing_mb8__FlsHu'>Project Category />
+	[25] (322,327)<span >* />
+[26] (500,373)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 dropdown_toggleButton__9VmCu Button_fullWidth__zz_w2 Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol' id='category-toggle-button' />
+	[27] (500,373)<span  />
+		[28] (488,373)<span >Select a Category />
+[29] (486,432)<label class='Text_text__D8yqX Text_size-p16__XDTMr Text_weight-medium__xuqGo Text_color-greyPlus14A4A4A__TK_Tw spacing_noMargin__F5u9R spacing_mb8__FlsHu'>Explain briefly how and where you want to integrate our photos and/or videos />
+	[30] (782,432)<span >* />
+[31] (500,501)<textarea class='Input_input__jJeKL Input_textArea__V_T8h' />
+[32] (199,520)<p  />
+[33] (500,589)<label class='Text_text__D8yqX Text_size-p16__XDTMr Text_color-greyPlus14A4A4A__TK_Tw spacing_noMargin__F5u9R spacing_mb8__FlsHu'>URL of your website, app, etc. (if applicable) />
+[34] (500,637)<input class='Input_input__jJeKL' />
+[35] (199,634)<p  />
+[36] (500,715)<label class='Checkbox_container__Bxydr spacing_noMargin__F5u9R spacing_mt30__MAo08' />
+	[37] (523,715)<p >I agree to the
+and
+. />
+		[38] (410,715)<a class='Text_text__D8yqX Text_size-inherit__I1W_y Text_color-midnight2C343E__iCo4Q spacing_noMargin__F5u9R Text_inline__ixzuE Text_underlined__e3Yab Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/terms-of-service/' />
+			[39] (410,715)<span  />
+				[40] (410,715)<span >Terms of Service />
+		[41] (575,715)<a class='Text_text__D8yqX Text_size-inherit__I1W_y Text_color-midnight2C343E__iCo4Q spacing_noMargin__F5u9R Text_inline__ixzuE Text_underlined__e3Yab Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/api/documentation' />
+			[42] (575,715)<span  />
+				[43] (575,715)<span >API Guidelines />
+	[44] (203,717)<span  />
+Generate API Key
+Where stories come together.
+Pexels
+Company
+
+</current_dom>

@@ -1,0 +1,57 @@
+# [AI Producer Architecture] Alpha Agent V8 Upgrade Plan
+
+## Background & Goal
+사용자님이 제공해주신 'AI 비즈니스 스쿨' 노션 자료와 유튜브 영상을 완벽히 숙지했습니다. 핵심은 단순히 AI에게 일을 시키는 **소비자(Consumer)**에서 벗어나, 여러 AI 모델을 유기적으로 연결하고 구조화된 데이터(JSON)로 통신하게 하여 돈을 벌어다 주는 자동화 시스템을 구축하는 **생산자(Producer)**로 진화하는 것입니다.
+
+이 원칙(모듈화, 바이브 코딩, JSON 프롬프팅)을 바탕으로 현재의 **알파 에이전트(Alpha Agent)** 시스템을 **V8**으로 대대적으로 업그레이드하기 위한 설계도입니다.
+
+---
+
+## ⚠️ User Review Required
+
+본 설계는 알파 에이전트의 내부 통신 방식을 '자연어'에서 'JSON'으로 완전히 개편하는 구조적 변화를 포함합니다. 아래의 **'레고 블록(모듈화)' 설계**와 **'JSON 통신 체계'**에 대해 승인해 주시면 즉시 코딩에 돌입하겠습니다.
+
+---
+
+## Proposed Changes
+
+현재 알파 에이전트의 코드들은 훌륭하지만, AI에게 "대본을 써줘", "매매 판단을 해줘"라고 거대한 자연어 프롬프트를 던지는 방식(Monolithic)이 남아있습니다. 이를 **작고 특화된 기능의 에이전트들이 JSON으로 데이터를 주고받는 파이프라인(Pipeline)**으로 개조합니다.
+
+### 1. 퀀트 트레이딩 봇 모듈화 (JSON Prompting 적용)
+
+현재 봇은 지표 데이터를 텍스트로 풀어 설명한 뒤, AI에게 "Buy/Sell"을 판단하게 합니다. 이를 엄격한 JSON 통신 체계로 바꿉니다.
+
+#### [MODIFY] `core/agents/quants/upbit_hyper_scalper.py`
+- **변경 사항**: 
+  - 프롬프트 구조 개편: 지표 데이터(RSI, 볼린저밴드, 변동성 등)를 텍스트가 아닌 순수 **JSON Object**로 AI에게 전달.
+  - 출력 구조 강제: AI의 판단 결과를 자연어가 아닌 `{ "decision": "BUY", "confidence": 85, "reason": "...", "target_price": 10000 }` 형태의 JSON으로만 출력하도록 강제(JSON Prompting 기법 적용).
+  - **효과**: AI의 환각(Hallucination)을 막고, 프로그래밍 언어에서 조건문(If-else)으로 완벽하게 제어 가능.
+
+### 2. 쇼츠 자동화 파이프라인 분리 (Lego-Block Architecture)
+
+현재 파이프라인은 뉴스 수집, 대본 작성, 음성, 영상 합성이 한 스크립트에 묶여있습니다. AI 비즈니스 스쿨의 '음악 생성' 파이프라인 예시처럼 이를 모듈화합니다.
+
+#### [MODIFY] `src/luna-agent/luna_shorts_pipeline.py`
+- **변경 사항**:
+  - **데이터 전처리 에이전트**: 뉴스/주제를 받아서 영상에 적합한 "감정"과 "키워드"를 분석해 JSON으로 반환.
+  - **대본 에이전트 (JSON Prompting)**: 전처리된 JSON을 받아 정확히 `{"hook": "", "body": [], "broll_tags": []}` 구조의 JSON만 내뱉도록 시스템 프롬프트 극단적 통제.
+  - **조립 에이전트**: 생성된 JSON 데이터를 파싱하여 TTS와 FFmpeg 명령어에 기계적으로 삽입.
+  - **효과**: 오늘 겪었던 "삼성 vs 애플의 저주" 같은 엉뚱한 대답이 원천 차단되며, 언제든 '틱톡용', '인스타용' 등 다른 출력 포맷으로 레고 블록 갈아끼우듯 확장이 가능해집니다.
+
+### 3. 정보(News)와 행동(Trading)의 유기적 결합 파이프라인
+
+#### [MODIFY] `core/agents/quants/news_sentiment_gate.py`
+- **변경 사항**:
+  - 뉴스 감성 분석의 결과를 단지 '긍정/부정' 텍스트로 넘기지 않고, **스코어링된 JSON** 객체로 변환하여 `upbit_hyper_scalper`의 입력 변수로 직접 주입(Injection)하는 파이프라인 형성.
+  - 예: `{"sentiment_score": 0.8, "risk_level": "low"}` -> 이 JSON이 트레이딩 봇의 베팅 비중(Size)을 동적으로 결정하는 수식에 즉시 반영됨.
+
+---
+
+## Verification Plan
+
+### Automated Tests
+1. `luna_shorts_pipeline.py`를 실행하여, AI가 중간 과정에서 자연어 답변 없이 오직 구조화된 JSON 데이터만 넘기는지 로그를 통해 확인합니다.
+2. `upbit_hyper_scalper.py`에서 매매 신호 발생 시, 통신 로그가 순수 JSON 포맷으로 이루어지는지 검증합니다.
+
+### Manual Verification
+1. 새로운 주제(예: "주식 초보를 위한 ETF 투자법")를 넣었을 때, 파이프라인의 각 블록이 정상적으로 데이터를 이어받아 최종 결과물을 내는지 사용자님과 함께 확인합니다.

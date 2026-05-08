@@ -1,0 +1,429 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/VectifyAI' />
+	[3] (75,34)<span  />
+		[4] (75,33)<font  />
+			[5] (75,33)<font >벡티파이에이 />
+[6] (127,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/VectifyAI/PageIndex' />
+	[7] (127,34)<span  />
+		[8] (127,33)<font  />
+			[9] (127,33)<font >페이지 색인 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+	[33] (99,80)<span  />
+		[34] (99,80)<span  />
+			[35] (99,80)<font  />
+				[36] (99,80)<font >78 />
+		(
+		78
+		)
+[37] (155,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/pulls' />
+	[38] (122,80)<span  />
+	[39] (152,80)<span  />
+		[40] (152,80)<font  />
+			[41] (152,80)<font >풀 리퀘스트 />
+	[42] (184,80)<span  />
+		[43] (184,80)<span  />
+			[44] (184,80)<font  />
+				[45] (184,80)<font >63 />
+		(
+		63
+		)
+[46] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/agents?author=nowhere78' />
+	[47] (208,80)<span  />
+	[48] (234,80)<span  />
+		[49] (234,80)<font  />
+			[50] (234,80)<font >자치령 대표 />
+[51] (290,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/discussions' />
+	[52] (268,80)<span  />
+	[53] (296,80)<span  />
+		[54] (296,80)<font  />
+			[55] (296,80)<font >토론 />
+[56] (346,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/actions' />
+	[57] (331,80)<span  />
+	[58] (352,80)<span  />
+		[59] (352,80)<font  />
+			[60] (352,80)<font >행위 />
+[61] (397,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/projects' />
+	[62] (381,80)<span  />
+	[63] (403,80)<span  />
+		[64] (403,80)<font  />
+			[65] (403,80)<font >프로젝트 />
+[66] (468,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/security' />
+	[67] (433,80)<span  />
+	[68] (474,80)<span  />
+		[69] (474,80)<font  />
+			[70] (474,80)<font >보안 및 품질 />
+[71] (539,80)<a class='prc-components-UnderlineItem-7fP-n' href='/VectifyAI/PageIndex/pulse' />
+	[72] (523,80)<span  />
+	[73] (545,80)<span  />
+		[74] (545,80)<font  />
+			[75] (545,80)<font >인사이트 />
+[76] (225,139)<a class='d-block overflow-x-hidden color-fg-default' href='/VectifyAI/PageIndex' />
+	[77] (225,138)<font  />
+		[78] (225,138)<font >페이지 색인 />
+공공의
+[79] (617,138)<div  />
+	[80] (617,138)<button aria-label='영상 보기: VectifyAI/PageIndex 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_j_' />
+		[81] (613,138)<span  />
+			[82] (609,138)<span  />
+				[83] (609,137)<font  />
+					[84] (609,137)<font >보다 />
+			129
+			(
+			129
+			)
+[85] (680,139)<a class='btn-sm btn BtnGroup-item' href='/VectifyAI/PageIndex/fork' id='fork-button' />
+	[86] (676,139)<font  />
+		[87] (676,141)<font >포크 />
+	[88] (694,138)<span  />
+		[89] (694,138)<font  />
+			[90] (694,138)<font >2.5k />
+[91] (718,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-958531089' />
+	[92] (718,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[93] (765,138)<button aria-label='이 저장소에 별표를 눌러주세요 (29457)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[94] (755,138)<span  />
+		[95] (755,138)<font  />
+			[96] (755,138)<font >별 />
+	[97] (777,138)<span  />
+		[98] (777,138)<font  />
+			[99] (777,138)<font >29,500개 />
+[100] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-958531089-unstarred-button' />
+VectifyAI/페이지인덱스
+[101] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[102] (209,216)<span  />
+		[103] (203,216)<span  />
+			[104] (203,216)<div  />
+				[105] (194,216)<div  />
+				[106] (208,216)<div  />
+					[107] (208,216)<span  />
+						[108] (209,216)<font  />
+							[109] (209,216)<font >기본 />
+[110] (264,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/VectifyAI/PageIndex/branches' />
+	[111] (264,216)<span  />
+		[112] (270,216)<span  />
+			[113] (270,216)<span  />
+				[114] (259,216)<strong  />
+					[115] (258,216)<font  />
+						[116] (258,216)<font >10 />
+				[117] (275,216)<font  />
+					[118] (275,216)<font >개 지점 />
+[119] (311,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/VectifyAI/PageIndex/tags' />
+	[120] (311,216)<span  />
+		[121] (317,216)<span  />
+			[122] (317,216)<span  />
+				[123] (314,216)<strong  />
+					[124] (313,216)<font  />
+						[125] (313,216)<font >태그 0 />
+				[126] (328,216)<font  />
+					[127] (328,216)<font >개 />
+[128] (481,216)<span  />
+	[129] (431,216)<span  />
+	[130] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[131] (531,216)<span  />
+		[132] (531,216)<kbd  />
+			[133] (531,216)<span >t />
+				t
+				[134] (531,216)<span >T />
+파일 추가
+[135] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[136] (572,216)<span  />
+		[137] (572,216)<span  />
+			[138] (572,216)<span  />
+				[139] (566,216)<font  />
+					[140] (566,216)<font >파일 추가 />
+[141] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[142] (628,216)<span  />
+		[143] (628,216)<span  />
+			[144] (628,216)<font  />
+				[145] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[146] (198,278)<a class='prc-Link-Link-9ZwDx' href='/rejojer' />
+	[147] (196,279)<img  />
+[148] (215,278)<a aria-label='rejojer의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/VectifyAI/PageIndex/commits?author=rejojer' />
+	[149] (215,278)<font  />
+		[150] (215,278)<font >레조저 />
+[151] (260,278)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/f50e52975313c6716c02b20a119577a1929decba' />
+	[152] (260,278)<font  />
+		[153] (260,278)<font >README 업데이트( />
+[154] (300,278)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/262' />
+	[155] (300,278)<font  />
+		[156] (300,278)<font >#262 />
+[157] (310,278)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/f50e52975313c6716c02b20a119577a1929decba' />
+	[158] (310,278)<font  />
+		[159] (310,278)<font >) />
+[160] (322,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[161] (562,278)<a aria-label='커밋 f50e529' class='Link--secondary prc-Link-Link-9ZwDx' href='/VectifyAI/PageIndex/commit/f50e52975313c6716c02b20a119577a1929decba' />
+	[162] (562,278)<font  />
+		[163] (562,278)<font >f50e529 />
+·
+2시간 전
+역사
+[164] (626,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/VectifyAI/PageIndex/commits/main/' />
+	[165] (626,278)<span  />
+		[166] (631,278)<span  />
+			[167] (631,278)<span  />
+				[168] (631,278)<font  />
+					[169] (631,278)<font >283 커밋 />
+[170] (419,328)<tr  />
+	[171] (230,328)<a aria-label='.claude/commands, (디렉토리)' class='Link--primary' href='/VectifyAI/PageIndex/tree/main/.claude/commands' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[172] (219,328)<span  />
+			[173] (219,328)<font  />
+				[174] (219,328)<font >.claude/ />
+		[175] (243,328)<span  />
+			[176] (243,328)<font  />
+				[177] (243,328)<font >명령어 />
+	[178] (412,328)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/e5ac754828fa28798fc15c83c1b4aaf660579dad' title='루트 디렉토리 간소화' />
+		[179] (412,328)<font  />
+			[180] (412,328)<font >루트 디렉토리 간소화 />
+	2개월 전
+[181] (419,371)<tr  />
+	[182] (217,371)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/VectifyAI/PageIndex/tree/main/.github' title='.github' />
+		[183] (217,371)<font  />
+			[184] (217,371)<font >.github />
+	[185] (415,371)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/a51d97f63cedbf1d36b1121ff47386ea4e088ff5' title='보안 CI 워크플로 추가(#248) * 보안 CI 워크플로 추가 * 중복된 Python CodeQL 워크플로 제거' />
+		[186] (415,371)<font  />
+			[187] (415,371)<font >보안 CI 워크플로 추가( />
+	[188] (459,371)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/248' />
+		[189] (459,371)<font  />
+			[190] (459,371)<font >#248 />
+	[191] (470,371)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/a51d97f63cedbf1d36b1121ff47386ea4e088ff5' title='보안 CI 워크플로 추가(#248) * 보안 CI 워크플로 추가 * 중복된 Python CodeQL 워크플로 제거' />
+		[192] (470,371)<font  />
+			[193] (470,371)<font >) />
+	2주 전
+[194] (419,414)<tr  />
+	[195] (227,415)<a aria-label='요리책, (디렉토리)' class='Link--primary' href='/VectifyAI/PageIndex/tree/main/cookbook' title='자세한 해설서' />
+		[196] (227,415)<font  />
+			[197] (227,415)<font >자세한 해설서 />
+	[198] (413,415)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/89bcb9240a79363f7506328e7f88691e99d525c1' title='Merge pull request #118 from mooncos/patch-1
+
+Fix typo in header for the step: Extract JSON results' />
+		[199] (413,415)<font >mooncos/patch-1의 />
+	[200] (465,415)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/89bcb9240a79363f7506328e7f88691e99d525c1' title='Merge pull request #118 from mooncos/patch-1
+
+Fix typo in header for the step: Extract JSON results' />
+		[201] (465,415)<font >풀 리퀘스트 />
+	[202] (514,415)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/118' />
+		[203] (514,415)<font  />
+			[204] (514,415)<font >#118을 병합합니다. />
+	3개월 전
+[205] (419,458)<tr  />
+	[206] (212,458)<a aria-label='예시, (디렉토리)' class='Link--primary' href='/VectifyAI/PageIndex/tree/main/examples' title='예시' />
+		[207] (212,458)<font  />
+			[208] (212,458)<font >예시 />
+	[209] (431,458)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/28542de8898f0edc210ac50e17d4f2f304f96e18' title='폴란드 에이전트 시스템 안내 문구' />
+		[210] (431,458)<font  />
+			[211] (431,458)<font >폴란드 에이전트 시스템 안내 문구 />
+	2개월 전
+[212] (419,501)<tr  />
+	[213] (224,502)<a aria-label='페이지 색인(디렉토리)' class='Link--primary' href='/VectifyAI/PageIndex/tree/main/pageindex' title='페이지 색인' />
+		[214] (224,502)<font  />
+			[215] (224,502)<font >페이지 색인 />
+	[216] (514,502)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/a108c021aea0db10844f5ce9c7861913d9f04c55' title='에이전트 추적을 비활성화하고 retrieve_model에 litellm/ 접두사를 자동으로 추가합니다. * 에이전트 추적을 비활성화하고 retrieve_model에 litellm/ 접두사를 자동으로 추가합니다. * 지원되는 retrieve_model 접두사는 유지합니다. * 임시 retrieve_model 테스트를 제거합니다. * 추적 비활성화를 데모 실행으로 제한합니다.' />
+		[217] (514,502)<font  />
+			[218] (514,502)<font >에이전트 추적을 비활성화하고 retrieve_model에 litellm/ 접두사를 자동으로 추가합니다. />
+	2개월 전
+[219] (419,544)<tr  />
+	[220] (226,545)<a aria-label='.gitattributes, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/.gitattributes' title='.gitattributes' />
+		[221] (226,545)<font  />
+			[222] (226,545)<font >.gitattributes />
+	[223] (435,545)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/823c11e642055b55ab50b12f47632f00a70c091c' title='언어 통계 관련 노트북은 무시하세요.' />
+		[224] (435,545)<font  />
+			[225] (435,545)<font >언어 통계 관련 노트북은 무시하세요. />
+	4개월 전
+[226] (419,588)<tr  />
+	[227] (221,588)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/.gitignore' title='.gitignore' />
+		[228] (221,588)<font  />
+			[229] (221,588)<font >.gitignore />
+	[230] (476,588)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/77722838e18bfbe6522263595dbb9f69ca7fe184' title='예제 디렉토리 구조 재구성 및 문서 저장 방식 개선 (#189) * tests/ 디렉토리를 examples/documents/로 통합 * line_count 추가 및 구조 키 순서 재정렬 * _meta.json 인덱스를 사용하여 문서 지연 로드 * 데모 스크립트 업데이트 및 사전 배포된 워크스페이스 추가 * JSON 읽기 및 메타 항목 생성을 위한 공유 헬퍼 추출' />
+		[231] (476,588)<font  />
+			[232] (476,588)<font >예제 디렉토리 구조를 재구성하고 문서 저장 공간을 개선합니다( />
+	[233] (582,588)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/189' />
+		[234] (582,588)<font  />
+			[235] (582,588)<font >#189 />
+	)
+	2개월 전
+[236] (419,631)<tr  />
+	[237] (212,632)<a aria-label='라이선스, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/LICENSE' title='특허' />
+		[238] (212,632)<font  />
+			[239] (212,632)<font >특허 />
+	[240] (399,632)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/6f43b477d386796b39323de98125f8998b3f73db' title='첫 번째 커밋' />
+		[241] (399,632)<font  />
+			[242] (399,632)<font >첫 번째 커밋 />
+	벨
+[243] (419,675)<tr  />
+	[244] (226,675)<a aria-label='README.md, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/README.md' title='README.md' />
+		[245] (226,675)<font  />
+			[246] (226,675)<font >README.md />
+	[247] (411,675)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/f50e52975313c6716c02b20a119577a1929decba' title='README 업데이트 (#262)' />
+		[248] (411,675)<font  />
+			[249] (411,675)<font >README 업데이트( />
+	[250] (450,675)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/262' />
+		[251] (450,675)<font  />
+			[252] (450,675)<font >#262 />
+	[253] (460,675)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/f50e52975313c6716c02b20a119577a1929decba' title='README 업데이트 (#262)' />
+		[254] (460,675)<font  />
+			[255] (460,675)<font >) />
+	2시간 전
+[256] (419,718)<tr  />
+	[257] (232,719)<a aria-label='requirements.txt, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/requirements.txt' title='requirements.txt' />
+		[258] (232,719)<font  />
+			[259] (232,719)<font >requirements.txt />
+	[260] (482,719)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/40073375ff2ec2bae68e8ab37ef732a31a1005be' title='2개의 업데이트로 1개 디렉터리에 걸쳐 pip 그룹을 업데이트합니다(#247). / 디렉터리에 있는 2개의 업데이트([litellm](https://github.com/BerriAI/litellm) 및 [python-dotenv](https://github.com/theskumar/python-dotenv))를 통해 pip 그룹을 업데이트합니다. `litellm`을 1.83.0에서 1.83.7로 업데이트했습니다. - [릴리스 노트](https://github.com/BerriAI/litellm/releases) - [커밋](https://github.com/BerriAI/litellm/commits) `python-dotenv`를 1.1.0에서 1.2.2로 업데이트했습니다. - [릴리스 노트](https://github.com/theskumar/python-dotenv/releases) - [변경 로그](https://github.com/theskumar/python-dotenv/blob/main/CHANGELOG.md) - [커밋](https://github.com/theskumar/python-dotenv/compare/v1.1.0...v1.2.2) --- 업데이트된 종속성: - 종속성 이름: litellm 종속성 버전: 1.83.7 종속성 유형: 직접:생산 종속성 그룹: pip - 종속성 이름: python-dotenv 종속성 버전: 1.2.2 종속성 유형: 직접:생산 종속성 그룹: pip ... 서명자: dependabot[bot] <support@github.com> 공동 작성자: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>' />
+		[261] (482,719)<font  />
+			[262] (482,719)<font >pip 그룹을 1개 디렉터리에 걸쳐 2개의 업데이트로 업데이트합니다( />
+	#247
+	).
+	2주 전
+[263] (419,761)<tr  />
+	[264] (239,762)<a aria-label='run_pageindex.py, (파일)' class='Link--primary' href='/VectifyAI/PageIndex/blob/main/run_pageindex.py' title='페이지 인덱스 실행.py' />
+		[265] (239,762)<font  />
+			[266] (239,762)<font >페이지 인덱스 실행.py />
+	[267] (448,762)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/2403be8f27a3b06344485362312e8d8a8a5b1bbe' title='다중 공급자 LLM 지원을 위한 LiteLLM 통합 (#168) * 다중 공급자 LLM 지원을 위한 litellm 통합 * 기본 구성 yaml 복구 * 네이티브 비동기 지원을 위해 litellm.acompletion 사용 * tob 수정 * llm_complete/allm_complete를 llm_completion/llm_acompletion으로 이름 변경, 사용되지 않는 llm_complete_stream 제거 * litellm을 버전 1.82.0으로 고정 * 주석 해결 * cli의 인수를 사용하여 config.yaml을 재정의 * get_page_tokens의 하드코딩된 모델 기본값 수정: 토큰화가 항상 gpt-4o-2024-11-20을 사용하는 대신 구성된 모델을 따르도록 get_page_tokens에 opt.model을 전달합니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 명시적인 openai 종속성 제거: openai는 더 이상 직접 가져오지 않습니다. 이는 litellm의 전이적 종속성으로 포함됩니다. 명시적으로 고정하면 버전 충돌이 발생할 위험이 있습니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 openai==1.101.0 고정 복원 litellm==1.82.0과 openai-agents는 openai 버전 요구 사항이 충돌하지만 openai==1.101.0은 런타임에서 둘 다 작동합니다. 이 고정은 litellm이 openai>=2.x를 가져오는 것을 방지하는 데 필요하며, 그렇게 되면 openai-agents가 제대로 작동하지 않게 됩니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 명시적인 openai 종속성 제거 openai는 직접 사용되지 않으며 litellm의 전이적 종속성으로 포함됩니다. 이 브랜치에는 openai-agents가 없으므로 고정이 필요하지 않습니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> * litellm 오류 로그 수정 * 댓글 해결 --------- 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[268] (448,762)<font  />
+			[269] (448,762)<font >다중 제공자 LLM 지원을 위한 LiteLLM 통합( />
+	[270] (524,762)<a class='issue-link js-issue-link' href='https://github.com/VectifyAI/PageIndex/pull/168' />
+		[271] (524,762)<font  />
+			[272] (524,762)<font >#168 />
+	[273] (534,762)<a class='Link--secondary' href='/VectifyAI/PageIndex/commit/2403be8f27a3b06344485362312e8d8a8a5b1bbe' title='다중 공급자 LLM 지원을 위한 LiteLLM 통합 (#168) * 다중 공급자 LLM 지원을 위한 litellm 통합 * 기본 구성 yaml 복구 * 네이티브 비동기 지원을 위해 litellm.acompletion 사용 * tob 수정 * llm_complete/allm_complete를 llm_completion/llm_acompletion으로 이름 변경, 사용되지 않는 llm_complete_stream 제거 * litellm을 버전 1.82.0으로 고정 * 주석 해결 * cli의 인수를 사용하여 config.yaml을 재정의 * get_page_tokens의 하드코딩된 모델 기본값 수정: 토큰화가 항상 gpt-4o-2024-11-20을 사용하는 대신 구성된 모델을 따르도록 get_page_tokens에 opt.model을 전달합니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 명시적인 openai 종속성 제거: openai는 더 이상 직접 가져오지 않습니다. 이는 litellm의 전이적 종속성으로 포함됩니다. 명시적으로 고정하면 버전 충돌이 발생할 위험이 있습니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 openai==1.101.0 고정 복원 litellm==1.82.0과 openai-agents는 openai 버전 요구 사항이 충돌하지만 openai==1.101.0은 런타임에서 둘 다 작동합니다. 이 고정은 litellm이 openai>=2.x를 가져오는 것을 방지하는 데 필요하며, 그렇게 되면 openai-agents가 제대로 작동하지 않게 됩니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * requirements.txt에서 명시적인 openai 종속성 제거 openai는 직접 사용되지 않으며 litellm의 전이적 종속성으로 포함됩니다. 이 브랜치에는 openai-agents가 없으므로 고정이 필요하지 않습니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> * litellm 오류 로그 수정 * 댓글 해결 --------- 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[274] (534,762)<font  />
+			[275] (534,762)<font >) />
+	2개월 전
+저장소 파일 탐색
+[276] (213,828)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[277] (196,828)<span  />
+	[278] (219,828)<span  />
+		[279] (219,828)<font  />
+			[280] (219,828)<font >README />
+[281] (273,828)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[282] (250,828)<span  />
+	[283] (279,828)<span  />
+		[284] (279,828)<font  />
+			[285] (279,828)<font >MIT 라이선스 />
+[286] (620,827)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[287] (641,827)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+에 대한
+📑 PageIndex: 벡터를 사용하지 않는 추론 기반 RAG를 위한 문서 색인
+[288] (715,320)<a class='text-bold' href='https://pageindex.ai' role='link' title='https://pageindex.ai' />
+	[289] (715,320)<font  />
+		[290] (715,320)<font >페이지인덱스.에이 />
+주제
+[291] (693,361)<a class='topic-tag topic-tag-link' href='/topics/ai' title='주제: 인공지능' />
+	[292] (693,361)<font  />
+		[293] (693,361)<font >일체 포함 />
+[294] (725,361)<a class='topic-tag topic-tag-link' href='/topics/retrieval' title='주제: 검색' />
+	[295] (725,361)<font  />
+		[296] (725,361)<font >검색 />
+[297] (760,361)<a class='topic-tag topic-tag-link' href='/topics/agents' title='주제: 에이전트' />
+	[298] (760,361)<font  />
+		[299] (760,361)<font >자치령 대표 />
+[300] (795,361)<a class='topic-tag topic-tag-link' href='/topics/reasoning' title='주제: 추론' />
+	[301] (795,361)<font  />
+		[302] (795,361)<font >추리 />
+[303] (696,390)<a class='topic-tag topic-tag-link' href='/topics/ai-agents' title='주제: AI 에이전트' />
+	[304] (696,390)<font  />
+		[305] (696,390)<font >AI 에이전트 />
+[306] (731,390)<a class='topic-tag topic-tag-link' href='/topics/rag' title='주제: 헝겝' />
+	[307] (731,390)<font  />
+		[308] (731,390)<font >조각 />
+[309] (775,390)<a class='topic-tag topic-tag-link' href='/topics/vector-database' title='주제: 벡터 데이터베이스' />
+	[310] (775,390)<font  />
+		[311] (775,390)<font >벡터 데이터베이스 />
+[312] (686,420)<a class='topic-tag topic-tag-link' href='/topics/llm' title='주제: llm' />
+	[313] (686,420)<font  />
+		[314] (686,420)<font >일름 />
+[315] (725,420)<a class='topic-tag topic-tag-link' href='/topics/retrieval-augmented-generation' title='주제: 검색 증강 생성' />
+	[316] (725,420)<font  />
+		[317] (725,420)<font >검색 증강 생성 />
+[318] (776,420)<a class='topic-tag topic-tag-link' href='/topics/agentic-ai' title='주제: 에이전트형 AI' />
+	[319] (776,420)<font  />
+		[320] (776,420)<font >에이전트형 AI />
+[321] (707,450)<a class='topic-tag topic-tag-link' href='/topics/context-engineering' title='주제: 컨텍스트 엔지니어링' />
+	[322] (707,450)<font  />
+		[323] (707,450)<font >컨텍스트 엔지니어링 />
+자원
+[324] (699,495)<a class='Link--muted' href='#readme-ov-file' />
+	[325] (705,495)<font  />
+		[326] (705,495)<font >읽어보세요 />
+특허
+[327] (703,525)<a class='Link--muted' href='#MIT-1-ov-file' />
+	[328] (709,525)<font  />
+		[329] (709,525)<font >MIT 라이선스 />
+[330] (689,556)<a class='Link Link--muted' href='/VectifyAI/PageIndex/activity' />
+	[331] (696,556)<span  />
+		[332] (696,556)<font  />
+			[333] (696,556)<font >활동 />
+[334] (708,587)<a class='Link Link--muted' href='/VectifyAI/PageIndex/custom-properties' />
+	[335] (715,587)<span  />
+		[336] (715,587)<font  />
+			[337] (715,587)<font >사용자 지정 속성 />
+별들
+[338] (702,617)<a class='Link Link--muted' href='/VectifyAI/PageIndex/stargazers' />
+	[339] (709,617)<font  />
+		[340] (694,617)<font >별 />
+		[341] (714,617)<strong  />
+			[342] (714,617)<font >29,500 개 />
+감시자들
+[343] (707,648)<a class='Link Link--muted' href='/VectifyAI/PageIndex/watchers' />
+	[344] (702,648)<strong  />
+		[345] (702,648)<font  />
+			[346] (702,648)<font >129명이 />
+	[347] (726,648)<font  />
+		[348] (726,648)<font >시청 중 />
+포크스
+[349] (697,679)<a class='Link Link--muted' href='/VectifyAI/PageIndex/forks' />
+	[350] (696,679)<strong  />
+		[351] (696,679)<font  />
+			[352] (696,679)<font >2.5k />
+	[353] (711,679)<font  />
+		[354] (711,679)<font >포크 />
+[355] (696,709)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FVectifyAI%2FPageIndex&report=VectifyAI+%28user%29' />
+	[356] (696,709)<font  />
+		[357] (696,709)<font >보고서 저장소 />
+[358] (687,768)<a class='Link--primary no-underline Link' href='/VectifyAI/PageIndex/releases' />
+	[359] (687,768)<font  />
+		[360] (687,768)<font >릴리스 />
+발표된 릴리스 없음
+[361] (746,864)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/VectifyAI/packages?repo_name=PageIndex' />
+	[362] (687,864)<font  />
+		[363] (687,864)<font >패키지 />
+게시된 패키지가 없습니다.
+[364] (746,961)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/VectifyAI/PageIndex/graphs/contributors' />
+	[365] (687,961)<font  />
+		[366] (687,960)<font >기고자 />
+	[367] (707,961)<span  />
+		[368] (707,961)<font  />
+			[369] (707,961)<font >12 />
+
+</current_dom>

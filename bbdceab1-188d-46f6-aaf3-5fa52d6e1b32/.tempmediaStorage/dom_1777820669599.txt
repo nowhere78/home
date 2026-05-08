@@ -1,0 +1,341 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+		[4] (75,34)<span  />
+			[5] (75,33)<font  />
+				[6] (75,33)<font >마이크몰리넷 />
+	[7] (143,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/ai-drop-daily-content' />
+		[8] (143,34)<span  />
+			[9] (143,33)<font  />
+				[10] (143,33)<font >AI 드롭 데일리 콘텐츠 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_o_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_t_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+	[34] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulls' />
+		[35] (104,80)<span  />
+		[36] (133,80)<span  />
+			[37] (133,80)<font  />
+				[38] (133,80)<font >풀 리퀘스트 />
+	[39] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/agents?author=nowhere78' />
+		[40] (171,80)<span  />
+		[41] (197,80)<span  />
+			[42] (197,80)<font  />
+				[43] (197,80)<font >자치령 대표 />
+	[44] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/actions' />
+		[45] (232,80)<span  />
+		[46] (252,80)<span  />
+			[47] (252,80)<font  />
+				[48] (252,80)<font >행위 />
+	[49] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/projects' />
+		[50] (281,80)<span  />
+		[51] (303,80)<span  />
+			[52] (303,80)<font  />
+				[53] (303,80)<font >프로젝트 />
+	[54] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/security' />
+		[55] (333,80)<span  />
+		[56] (374,80)<span  />
+			[57] (374,80)<font  />
+				[58] (374,80)<font >보안 및 품질 />
+	[59] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulse' />
+		[60] (424,80)<span  />
+		[61] (446,80)<span  />
+			[62] (446,80)<font  />
+				[63] (446,80)<font >인사이트 />
+[64] (248,139)<a class='d-block overflow-x-hidden color-fg-default' href='/mikemolinet/ai-drop-daily-content' />
+	[65] (248,138)<font  />
+		[66] (248,138)<font >AI 드롭 데일리 콘텐츠 />
+공공의
+[67] (650,138)<div  />
+	[68] (650,138)<button aria-label='시청하기: mikemolinet/ai-drop-daily-content 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1k_' />
+		[69] (645,138)<span  />
+			[70] (644,138)<span  />
+				[71] (644,137)<font  />
+					[72] (644,137)<font >보다 />
+			0
+			(
+			0
+			)
+[73] (705,139)<a class='btn-sm btn BtnGroup-item' href='/mikemolinet/ai-drop-daily-content/fork' id='fork-button' />
+	[74] (706,139)<font  />
+		[75] (706,141)<font >포크 />
+	[76] (719,138)<span  />
+		[77] (719,138)<font  />
+			[78] (719,138)<font >0 />
+[79] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1208180823' />
+	[80] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[81] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[82] (776,138)<span  />
+		[83] (776,138)<font  />
+			[84] (776,138)<font >별 />
+	[85] (787,138)<span  />
+		[86] (787,138)<font  />
+			[87] (787,138)<font >0 />
+[88] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1208180823-unstarred-button' />
+mikemolinet/ai-drop-daily-content
+[89] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[90] (209,216)<span  />
+		[91] (203,216)<span  />
+			[92] (203,216)<div  />
+				[93] (194,216)<div  />
+				[94] (208,216)<div  />
+					[95] (208,216)<span  />
+						[96] (209,216)<font  />
+							[97] (209,216)<font >기본 />
+[98] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/ai-drop-daily-content/branches' />
+	[99] (262,216)<span  />
+		[100] (268,216)<span  />
+			[101] (268,216)<span  />
+				[102] (257,216)<strong  />
+					[103] (256,216)<font  />
+						[104] (256,216)<font >1 />
+				[105] (271,216)<font  />
+					[106] (271,216)<font >번 지점 />
+[107] (307,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/ai-drop-daily-content/tags' />
+	[108] (307,216)<span  />
+		[109] (313,216)<span  />
+			[110] (313,216)<span  />
+				[111] (310,216)<strong  />
+					[112] (309,216)<font  />
+						[113] (309,216)<font >태그 0 />
+				[114] (324,216)<font  />
+					[115] (324,216)<font >개 />
+[116] (481,216)<span  />
+	[117] (431,216)<span  />
+	[118] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[119] (531,216)<span  />
+		[120] (531,216)<kbd  />
+			[121] (531,216)<span >t />
+				t
+				[122] (531,216)<span >T />
+파일 추가
+[123] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[124] (572,216)<span  />
+		[125] (572,216)<span  />
+			[126] (572,216)<span  />
+				[127] (566,216)<font  />
+					[128] (566,216)<font >파일 추가 />
+[129] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[130] (628,216)<span  />
+		[131] (628,216)<span  />
+			[132] (628,216)<font  />
+				[133] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+ai-drop-daily-sync[봇]
+[134] (363,278)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' />
+	[135] (363,278)<font  />
+		[136] (363,278)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+[137] (455,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[138] (571,278)<a aria-label='커밋 f7f1c2b' class='Link--secondary prc-Link-Link-9ZwDx' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' />
+	[139] (571,278)<font  />
+		[140] (571,278)<font >f7f1c2b />
+·
+싫다
+역사
+[141] (625,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/ai-drop-daily-content/commits/main/' />
+	[142] (625,278)<span  />
+		[143] (630,278)<span  />
+			[144] (630,278)<span  />
+				[145] (630,278)<font  />
+					[146] (630,278)<font >32개 커밋 />
+[147] (419,328)<tr  />
+	[148] (220,328)<a aria-label='ai-101, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/ai-101' title='아이-101' />
+		[149] (220,328)<font  />
+			[150] (220,328)<font >아이-101 />
+	[151] (461,328)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/bad8998c861aa41d3e6f0e55086cdaadf96002c1' title='ai-drop-daily@8d256a3 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/8d256a3075303ce1a6d2c454f9bb3eaf8f1772e4 동기화 시간: 2026년 4월 13일 21:48:54Z' />
+		[152] (461,328)<font  />
+			[153] (461,328)<font >ai-drop-daily@8d256a3에서 콘텐츠를 동기화합니다. />
+	3주 전
+[154] (419,371)<tr  />
+	[155] (220,371)<a aria-label='ai-201, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/ai-201' title='아이-201' />
+		[156] (220,371)<font  />
+			[157] (220,371)<font >아이-201 />
+	[158] (461,371)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/bad8998c861aa41d3e6f0e55086cdaadf96002c1' title='ai-drop-daily@8d256a3 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/8d256a3075303ce1a6d2c454f9bb3eaf8f1772e4 동기화 시간: 2026년 4월 13일 21:48:54Z' />
+		[159] (461,371)<font  />
+			[160] (461,371)<font >ai-drop-daily@8d256a3에서 콘텐츠를 동기화합니다. />
+	3주 전
+[161] (419,414)<tr  />
+	[162] (212,415)<a aria-label='기사, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/articles' title='조항' />
+		[163] (212,415)<font  />
+			[164] (212,415)<font >조항 />
+	[165] (460,415)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/1a6eb47f5a33fcab2fb7fc250dff0ef2dfb109a5' title='ai-drop-daily@af41da9 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/af41da9ba99438598968d3cf312927ca2610d1f1 동기화 시간: 2026년 4월 15일 23:38:42Z' />
+		[166] (460,415)<font  />
+			[167] (460,415)<font >ai-drop-daily@af41da9에서 콘텐츠를 동기화하세요 />
+	3주 전
+[168] (419,458)<tr  />
+	[169] (224,458)<a aria-label='클로드 코스, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/claude-course' title='클로드 코스' />
+		[170] (224,458)<font  />
+			[171] (224,458)<font >클로드 코스 />
+	[172] (461,458)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/bad8998c861aa41d3e6f0e55086cdaadf96002c1' title='ai-drop-daily@8d256a3 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/8d256a3075303ce1a6d2c454f9bb3eaf8f1772e4 동기화 시간: 2026년 4월 13일 21:48:54Z' />
+		[173] (461,458)<font  />
+			[174] (461,458)<font >ai-drop-daily@8d256a3에서 콘텐츠를 동기화합니다. />
+	3주 전
+[175] (419,501)<tr  />
+	[176] (227,502)<a aria-label='클로드 코워크, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/claude-cowork' title='클로드-코워크' />
+		[177] (227,502)<font  />
+			[178] (227,502)<font >클로드-코워크 />
+	[179] (460,502)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/1a6eb47f5a33fcab2fb7fc250dff0ef2dfb109a5' title='ai-drop-daily@af41da9 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/af41da9ba99438598968d3cf312927ca2610d1f1 동기화 시간: 2026년 4월 15일 23:38:42Z' />
+		[180] (460,502)<font  />
+			[181] (460,502)<font >ai-drop-daily@af41da9에서 콘텐츠를 동기화하세요 />
+	3주 전
+[182] (419,544)<tr  />
+	[183] (219,545)<a aria-label='다운로드, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/downloads' title='다운로드' />
+		[184] (219,545)<font  />
+			[185] (219,545)<font >다운로드 />
+	[186] (459,545)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/e5317cff467d24aaa74b126bbe767a169c5ab864' title='ai-drop-daily@6f556c7 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/6f556c786e156dd0e58c1e7fe2f0883ceef89d31 동기화 시간: 2026년 4월 12일 00시 03분 21초(UTC)' />
+		[187] (459,545)<font  />
+			[188] (459,545)<font >ai-drop-daily@6f556c7에서 콘텐츠를 동기화하세요 />
+	3주 전
+[189] (419,588)<tr  />
+	[190] (216,588)<a aria-label='가이드, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/guides' title='가이드' />
+		[191] (216,588)<font  />
+			[192] (216,588)<font >가이드 />
+	[193] (461,588)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/3fb6a971e698ae6435b2a660cd94b9e57541c956' title='ai-drop-daily@cc29103 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/cc29103b992ec804608b8ad8189ba6ed38fc3e07 동기화 시간: 2026년 4월 21일 20:30:14Z' />
+		[194] (461,588)<font  />
+			[195] (461,588)<font >ai-drop-daily@cc29103에서 콘텐츠를 동기화합니다. />
+	2주 전
+[196] (419,631)<tr  />
+	[197] (212,632)<a aria-label='뉴스, (디렉토리)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/tree/main/news' title='소식' />
+		[198] (212,632)<font  />
+			[199] (212,632)<font >소식 />
+	[200] (461,632)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' title='ai-drop-daily@dea8299 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/dea8299aa2758540527622aff004525b2fe00d49 동기화 시간: 2026-05-01T18:33:07Z' />
+		[201] (461,632)<font  />
+			[202] (461,632)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+	싫다
+[203] (419,675)<tr  />
+	[204] (225,675)<a aria-label='.last-synced, (파일)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/blob/main/.last-synced' title='.last-synced' />
+		[205] (225,675)<font  />
+			[206] (225,675)<font >.last-synced />
+	[207] (461,675)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' title='ai-drop-daily@dea8299 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/dea8299aa2758540527622aff004525b2fe00d49 동기화 시간: 2026-05-01T18:33:07Z' />
+		[208] (461,675)<font  />
+			[209] (461,675)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+	싫다
+[210] (419,718)<tr  />
+	[211] (225,719)<a aria-label='AGENTS.md, (파일)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/blob/main/AGENTS.md' title='에이전트.md' />
+		[212] (225,719)<font  />
+			[213] (225,719)<font >에이전트.md />
+	[214] (461,719)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' title='ai-drop-daily@dea8299 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/dea8299aa2758540527622aff004525b2fe00d49 동기화 시간: 2026-05-01T18:33:07Z' />
+		[215] (461,719)<font  />
+			[216] (461,719)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+	싫다
+[217] (419,761)<tr  />
+	[218] (212,762)<a aria-label='라이선스, (파일)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/blob/main/LICENSE' title='특허' />
+		[219] (212,762)<font  />
+			[220] (212,762)<font >특허 />
+	[221] (459,762)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/e5317cff467d24aaa74b126bbe767a169c5ab864' title='ai-drop-daily@6f556c7 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/6f556c786e156dd0e58c1e7fe2f0883ceef89d31 동기화 시간: 2026년 4월 12일 00시 03분 21초(UTC)' />
+		[222] (459,762)<font  />
+			[223] (459,762)<font >ai-drop-daily@6f556c7에서 콘텐츠를 동기화하세요 />
+	3주 전
+[224] (419,805)<tr  />
+	[225] (226,805)<a aria-label='README.md, (파일)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/blob/main/README.md' title='README.md' />
+		[226] (226,805)<font  />
+			[227] (226,805)<font >README.md />
+	[228] (461,805)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' title='ai-drop-daily@dea8299 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/dea8299aa2758540527622aff004525b2fe00d49 동기화 시간: 2026-05-01T18:33:07Z' />
+		[229] (461,805)<font  />
+			[230] (461,805)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+	싫다
+[231] (419,848)<tr  />
+	[232] (227,849)<a aria-label='manifest.json, (파일)' class='Link--primary' href='/mikemolinet/ai-drop-daily-content/blob/main/manifest.json' title='manifest.json' />
+		[233] (227,849)<font  />
+			[234] (227,849)<font >manifest.json />
+	[235] (461,849)<a class='Link--secondary' href='/mikemolinet/ai-drop-daily-content/commit/f7f1c2b3bfd33be19c99d5f1120285d31fb51f41' title='ai-drop-daily@dea8299 소스 커밋의 콘텐츠를 동기화했습니다. 소스 커밋: https://github.com/mikemolinet/ai-drop-daily/commit/dea8299aa2758540527622aff004525b2fe00d49 동기화 시간: 2026-05-01T18:33:07Z' />
+		[236] (461,849)<font  />
+			[237] (461,849)<font >ai-drop-daily@dea8299에서 콘텐츠를 동기화하세요. />
+	싫다
+저장소 파일 탐색
+[238] (213,914)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[239] (196,914)<span  />
+	[240] (219,914)<span  />
+		[241] (219,914)<font  />
+			[242] (219,914)<font >README />
+[243] (264,914)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[244] (250,914)<span  />
+	[245] (271,914)<span  />
+		[246] (271,914)<font  />
+			[247] (271,914)<font >특허 />
+[248] (620,914)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[249] (641,914)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+AI 드롭 데일리 — 공개 콘텐츠 미러
+[250] (193,995)<a aria-label='고유 링크: AI Drop Daily — 공개 콘텐츠 미러' class='anchor' href='#ai-drop-daily--public-content-mirror' id='user-content-ai-drop-daily--public-content-mirror' />
+에 대한
+AI Drop Daily 콘텐츠의 공개 미러입니다. 매일 AI 뉴스 기사, 강좌 강의 및 가이드를 제공합니다. 소스 저장소에서 자동으로 동기화됩니다. CC-BY-4.0 라이선스가 적용됩니다.
+자원
+[251] (699,396)<a class='Link--muted' href='#readme-ov-file' />
+	[252] (705,396)<font  />
+		[253] (705,396)<font >읽어보세요 />
+특허
+[254] (703,427)<a class='Link--muted' href='#License-1-ov-file' />
+	[255] (710,427)<font  />
+		[256] (710,427)<font >라이선스 보기 />
+[257] (689,458)<a class='Link Link--muted' href='/mikemolinet/ai-drop-daily-content/activity' />
+	[258] (696,458)<span  />
+		[259] (696,458)<font  />
+			[260] (696,458)<font >활동 />
+별들
+[261] (693,488)<a class='Link Link--muted' href='/mikemolinet/ai-drop-daily-content/stargazers' />
+	[262] (700,488)<font  />
+		[263] (694,488)<font >별 />
+		[264] (705,488)<strong  />
+			[265] (705,488)<font >0 개 />
+감시자들
+[266] (703,519)<a class='Link Link--muted' href='/mikemolinet/ai-drop-daily-content/watchers' />
+	[267] (698,519)<strong  />
+		[268] (698,519)<font  />
+			[269] (698,519)<font >0명이 />
+	[270] (719,519)<font  />
+		[271] (719,519)<font >시청 중 />
+포크스
+[272] (696,550)<a class='Link Link--muted' href='/mikemolinet/ai-drop-daily-content/forks' />
+	[273] (704,550)<font  />
+		[274] (697,550)<font >포크 />
+		[275] (711,550)<strong  />
+			[276] (711,550)<font >0 개 />
+[277] (696,580)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmikemolinet%2Fai-drop-daily-content&report=mikemolinet+%28user%29' />
+	[278] (696,580)<font  />
+		[279] (696,580)<font >보고서 저장소 />
+[280] (687,639)<a class='Link--primary no-underline Link' href='/mikemolinet/ai-drop-daily-content/releases' />
+	[281] (687,639)<font  />
+		[282] (687,639)<font >릴리스 />
+발표된 릴리스 없음
+[283] (746,735)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/mikemolinet/packages?repo_name=ai-drop-daily-content' />
+	[284] (687,735)<font  />
+		[285] (687,735)<font >패키지 />
+게시된 패키지가 없습니다.
+[286] (746,832)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mikemolinet/ai-drop-daily-content/graphs/contributors'>Contributors />
+	[287] (730,832)<span >1 />
+[288] (683,878)<a class='mr-2' href='https://github.com/mikemolinet' />
+	[289] (683,878)<img  />
+[290] (716,878)<a class='Link--primary no-underline flex-self-center' href='https://github.com/mikemolinet' />
+	[291] (716,878)<strong >mikemolinet />
+
+</current_dom>

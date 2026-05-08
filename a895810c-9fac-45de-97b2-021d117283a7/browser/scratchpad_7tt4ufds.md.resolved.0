@@ -1,0 +1,22 @@
+# Task: Business Success LLM Resources Extraction
+
+## Checklist
+- [ ] Search 1: `stars:>10000 topic:llm-automation business` (Extract 2 top stable systems)
+- [ ] Search 2: `created:>2024-01-01 stars:300..1500 topic:multi-agent-orchestration` (Extract 2 cutting-edge hidden gems)
+- [ ] Search 3: `topic:passive-income ai-workflow` (Extract 1 actionable money-making tool)
+- [ ] Analyze findings and summarize 'Business Value'
+- [ ] Update `ai_business_base.md` with strategies
+- [ ] Final summary to user
+
+## Findings
+### Search 1
+- 
+- 
+### Search 2
+- 
+- 
+### Search 3
+- 
+
+## Strategies for ai_business_base.md
+- 

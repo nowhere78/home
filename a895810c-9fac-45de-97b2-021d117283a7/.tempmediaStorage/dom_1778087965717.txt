@@ -1,0 +1,47 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (273,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (279,25)<span  />
+		[8] (279,25)<font  />
+			[9] (279,25)<font >MIT 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[12] (375,203)<a href='https://user-images.githubusercontent.com/98803599/183292813-2cf2b6e8-1dad-4998-9047-b1e311fc646d.png' />
+	[13] (375,52)<img  />
+'직접 목소리를 학습하는 TTS(Text To Speech)를 만드는 서비스'
+를
+[14] (193,252)<a aria-label='고유 링크: '직접 음성을 학습하는 TTS(Text To Speech)를 만드는 서비스'를' class='anchor' href='#직접-목소리를-학습시켜-ttstext-to-speech를-만드는-서비스-를' id='user-content-직접-목소리를-학습시켜-ttstext-to-speech를-만드는-서비스-를' />
+'새로운, 그리고 엔터테인먼트 사업의 홍보 수단'
+으로 활용해 본다는 생각이
+[15] (193,299)<a aria-label='Permalink: '새로운, 그리고 사랑받는 사업의 홍보 수단' 으로 활용해 본다면 있다는 생각이' class='anchor' href='#새로운-그리고-색다른-엔터테인먼트-사업의-홍보수단-으로-활용해본다면-어떨까하는-생각이' id='user-content-새로운-그리고-색다른-엔터테인먼트-사업의-홍보수단-으로-활용해본다면-어떨까하는-생각이' />
+이 프로젝트를 시작하게 되었습니다.
+[16] (193,345)<a aria-label='고유 링크: 이 프로젝트를 시작하게 됩니다.' class='anchor' href='#들어서-이-프로젝트를-시작하게-되었습니다' id='user-content-들어서-이-프로젝트를-시작하게-되었습니다' />
+1. 목적
+[17] (193,426)<a aria-label='고유 주소: 1. 목적' class='anchor' href='#1-목적' id='user-content-1-목적' />
+❤️‍🔥최애의 목소리로 자신이 입력한 문장을 입력하는 기능을 목표로 하고 있습니다.
+[18] (193,490)<a aria-label='고유 링크: ❤️‍🔥최애의 목소리로 자신이 입력한 문장을 읽어주는 기능을 목표로 하고있습니다.' class='anchor' href='#️‍최애의-목소리로-자신이-입력한-문장을-읽어주는-기능을-목표로-하고있습니다' id='user-content-️‍최애의-목소리로-자신이-입력한-문장을-읽어주는-기능을-목표로-하고있습니다' />
+🗣️'팀원들의 목소리로 TTS 서비스를 제공하는 프로젝트'를
+아티스트 홍보 페이지의 한 예시
+로 제시합니다.
+[19] (193,555)<a aria-label='고유 링크: 🗣️'팀원들의 목소리로 TTS 서비스를 제공하는 프로젝트'를 아티스트 홍보 페이지의 한 예시로 제시합니다.' class='anchor' href='#️팀원들의-목소리로-tts-서비스를-제공하는-프로젝트를-아티스트-홍보-페이지의-한-예시-로-제시합니다' id='user-content-️팀원들의-목소리로-tts-서비스를-제공하는-프로젝트를-아티스트-홍보-페이지의-한-예시-로-제시합니다' />
+🌻TTS를
+해탈 그룹
+이나
+아티스트
+를
+지원
+합니다.
+[20] (193,620)<a aria-label='고유 링크: 🌻TTS를 해체한 아이돌 그룹이나 아티스트를 지원합니다.' class='anchor' href='#tts를-이용해-아이돌-그룹이나-아티스트를-효과적으로-홍보합니다' id='user-content-tts를-이용해-아이돌-그룹이나-아티스트를-효과적으로-홍보합니다' />
+2. 놔둬
+[21] (193,703)<a aria-label='고유 링크: 2.' class='anchor' href='#2-아키텍처' id='user-content-2-아키텍처' />
+
+</current_dom>

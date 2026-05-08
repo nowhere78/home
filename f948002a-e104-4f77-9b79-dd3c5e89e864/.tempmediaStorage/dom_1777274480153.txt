@@ -1,0 +1,441 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div class='sc-BuZMY eZsyOn' scrollable='true' />
+		[2] (27,35)<button aria-label='Go Back' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Go Back'>arrow_back />
+		[3] (448,35)<input aria-label='Kaggle에서 검색' class='sc-hlRwsT fTRnHJ' />
+		[4] (886,35)<button aria-label='Search on Kaggle' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Search on Kaggle'>search />
+		[5] (941,35)<button aria-label='Exit Search' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Exit Search'>clear />
+		[6] (97,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[7] (54,122)<span >code />
+			[8] (111,122)<span  />
+				[9] (94,121)<font  />
+					[10] (94,121)<font >노트북 />
+				[11] (138,121)<span  />
+					[12] (138,121)<font  />
+						[13] (138,121)<font >738 />
+		[14] (234,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[15] (198,122)<span >comment />
+			[16] (249,122)<span  />
+				[17] (231,121)<font  />
+					[18] (231,121)<font >주제 />
+				[19] (269,121)<span  />
+					[20] (269,121)<font  />
+						[21] (269,121)<font >486 />
+		[22] (373,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[23] (330,122)<span >reply />
+			[24] (387,122)<span  />
+				[25] (363,121)<font  />
+					[26] (363,121)<font >댓글 />
+				[27] (407,121)<span  />
+					[28] (407,121)<font  />
+						[29] (407,121)<font >364개 />
+		[30] (528,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[31] (475,122)<span >table_chart />
+			[32] (543,122)<span  />
+				[33] (530,121)<font  />
+					[34] (530,121)<font >데이터 세트 />
+				[35] (585,121)<span  />
+					[36] (585,121)<font  />
+						[37] (585,121)<font >76 />
+		[38] (668,122)<button class='sc-eYKebJ bMTSxs' role='checkbox' />
+			[39] (640,122)<span >emoji_events />
+			[40] (682,122)<span  />
+				[41] (673,121)<font  />
+					[42] (673,121)<font >대회 />
+				[43] (702,121)<span  />
+					[44] (702,121)<font  />
+						[45] (702,121)<font >6 />
+		필터 기준
+		날짜
+		[46] (72,292)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[47] (40,292)<span  />
+				[48] (40,292)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[49] (93,292)<span  />
+				[50] (93,292)<p  />
+					[51] (93,292)<font  />
+						[52] (93,292)<font >지난 90일 />
+		50
+		[53] (62,337)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[54] (40,337)<span  />
+				[55] (40,337)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[56] (84,337)<span  />
+				[57] (84,337)<p  />
+					[58] (84,336)<font  />
+						[59] (84,336)<font >이번 주 />
+		5
+		[60] (53,381)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[61] (40,381)<span  />
+				[62] (40,381)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[63] (75,381)<span  />
+				[64] (75,381)<p  />
+					[65] (75,380)<font  />
+						[66] (75,380)<font >오늘 />
+		4
+		창조자
+		[67] (46,472)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[68] (40,472)<span  />
+				[69] (40,472)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[70] (68,472)<span  />
+				[71] (68,472)<p  />
+					[72] (68,471)<font  />
+						[73] (68,471)<font >너 />
+		0
+		[74] (53,516)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[75] (40,516)<span  />
+				[76] (40,516)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[77] (75,516)<span  />
+				[78] (75,516)<p  />
+					[79] (75,516)<font  />
+						[80] (75,516)<font >기타 />
+		1,670
+		주제 유형
+		[81] (62,607)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[82] (40,607)<span  />
+				[83] (40,607)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[84] (84,607)<span  />
+				[85] (84,607)<p  />
+					[86] (84,607)<font  />
+						[87] (84,607)<font >글 작성 />
+		16
+		[88] (87,652)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+			[89] (40,652)<span  />
+				[90] (40,652)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+			[91] (109,652)<span  />
+				[92] (109,652)<p  />
+					[93] (109,651)<font  />
+						[94] (109,651)<font >모든 주제 및 글 />
+		486
+		작성 유형
+		[95] (149,787)<fieldset class='sc-bpSeEy dnVhtq' role='listbox' />
+			[96] (89,743)<label aria-label='해커톤 프로젝트, 6개 결과' class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+				[97] (40,743)<span  />
+					[98] (40,743)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+				[99] (111,743)<span  />
+					[100] (111,743)<p  />
+						[101] (111,742)<font  />
+							[102] (111,742)<font >해커톤 프로젝트 />
+			6
+			[103] (76,787)<label aria-label='경쟁 솔루션, 9개 결과' class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+				[104] (40,787)<span  />
+					[105] (40,787)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+				[106] (98,787)<span  />
+					[107] (98,787)<p  />
+						[108] (98,787)<font  />
+							[109] (98,787)<font >경쟁 솔루션 />
+			9
+			[110] (67,832)<label aria-label='프로젝트, 결과 1개' class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-a0r9nr' />
+				[111] (40,832)<span  />
+					[112] (40,832)<input class='PrivateSwitchBase-input css-1m9pwf3' />
+				[113] (89,832)<span  />
+					[114] (89,832)<p  />
+						[115] (89,831)<font  />
+							[116] (89,831)<font >프로젝트 />
+			1
+		1,670개 결과
+		[117] (930,211)<div  />
+			[118] (930,211)<div aria-label='콤보박스를 선택하세요. 현재 '관련성'이 선택되어 있습니다.' class='MuiSelect-select MuiSelect-standard MuiInputBase-input MuiInput-input css-1ii1y2a' role='combobox' />
+				[119] (921,211)<div  />
+					[120] (921,211)<div  />
+						[121] (915,211)<font  />
+							[122] (915,211)<font >관련성 />
+		[123] (590,308)<a aria-label='암호화폐 - 비트코인(BTC): 고급 분석 및 예측' class='sc-XaaoV fdjENb' href='/code/vbmokin/crypto-btc-advanced-analysis-forecasting' role='link' />
+			[124] (598,308)<div  />
+				[125] (344,308)<div  />
+					[126] (344,308)<div  />
+						[127] (344,308)<span  />
+							[128] (370,333)<div  />
+								[129] (370,333)<span >code />
+				[130] (640,308)<div  />
+					[131] (640,287)<div  />
+						[132] (552,287)<font  />
+							[133] (552,287)<font >암호화폐 - 비트코인(BTC): 고급 분석 및 예측 />
+					[134] (640,310)<span  />
+						[135] (414,310)<font  />
+							[136] (414,310)<font >노트북 />
+						[137] (437,310)<font  />
+							[138] (437,310)<font >· />
+						[139] (459,310)<span  />
+							[140] (459,310)<font  />
+								[141] (459,310)<font >4년 전 />
+						[142] (482,310)<font  />
+							[143] (482,310)<font >· />
+						[144] (509,310)<font  />
+							[145] (509,310)<font >작성자: />
+						[146] (568,310)<a aria-label='비탈리 모킨 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/vbmokin' />
+							[147] (568,310)<font  />
+								[148] (568,310)<font >Vitalii Mokin />
+					[149] (640,331)<span  />
+						[150] (693,331)<span  />
+							[151] (482,331)<font  />
+								[152] (482,331)<font >/code/vbmokin/btc-growth- />
+							[153] (607,331)<span  />
+								[154] (607,331)<font  />
+									[155] (607,331)<font >forecasting- />
+							[156] (780,331)<font  />
+								[157] (780,331)<font >with-advanced-fe-for-ohlc) - [G-Research />
+							암호화폐
+							예측]
+		[158] (926,287)<div  />
+			arrow_drop_up
+			382
+		댓글 10개
+		[159] (590,411)<a aria-label='간단한 탐색 노트 - 암호화폐 예측' class='sc-XaaoV fdjENb' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting' role='link' />
+			[160] (598,411)<div  />
+				[161] (344,411)<div  />
+					[162] (344,411)<div  />
+						[163] (344,411)<span  />
+							[164] (370,436)<div  />
+								[165] (370,436)<span >code />
+				[166] (640,411)<div  />
+					[167] (640,389)<div  />
+						[168] (509,389)<font  />
+							[169] (509,389)<font >간단한 탐색 노트 - 암호화폐 예측 />
+					[170] (640,413)<span  />
+						[171] (414,412)<font  />
+							[172] (414,412)<font >노트북 />
+						[173] (437,412)<font  />
+							[174] (437,412)<font >· />
+						[175] (459,412)<span  />
+							[176] (459,412)<font  />
+								[177] (459,412)<font >4년 전 />
+						[178] (495,413)<font  />
+							[179] (482,412)<font >· />
+							[180] (500,413)<a aria-label='SRK (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/sudalairajkumar' />
+								[181] (500,412)<font >SRK />
+						[182] (527,412)<font  />
+							[183] (527,412)<font >작성 />
+					[184] (640,434)<span  />
+						[185] (696,433)<span  />
+							[186] (453,433)<font  />
+								[187] (453,433)<font >/input/g-research- />
+							[188] (532,433)<span  />
+								[189] (532,433)<font  />
+									[190] (532,433)<font >crypto />
+							[191] (559,433)<font  />
+								[192] (559,433)<font >- />
+							[193] (602,433)<span  />
+								[194] (602,433)<font  />
+									[195] (602,433)<font >forecasting />
+							[196] (818,433)<font  />
+								[197] (818,433)<font >/" ## 자산 데이터 탐색 assets_df = pd.read_csv(os.path.join) />
+		[198] (927,389)<div  />
+			arrow_drop_up
+			262
+		댓글 17개
+		[199] (591,513)<a aria-label='G-Research 암호화폐 예측 - 기준선 및 최종 예측' class='sc-XaaoV fdjENb' href='/code/vbmokin/g-research-crypto-forecasting-baseline-fe' role='link' />
+			[200] (599,513)<div  />
+				[201] (344,513)<div  />
+					[202] (344,513)<div  />
+						[203] (344,513)<span  />
+							[204] (370,539)<div  />
+								[205] (370,539)<span >code />
+				[206] (582,513)<div  />
+					[207] (582,492)<div  />
+						[208] (430,492)<font  />
+							[209] (430,492)<font >G-리서치 />
+						[210] (513,492)<span  />
+							[211] (513,492)<span  />
+								[212] (513,492)<font  />
+									[213] (513,492)<font >암호화폐 예측 />
+						[214] (612,492)<font  />
+							[215] (612,492)<font >- 기준선 및 FE />
+					[216] (582,515)<span  />
+						[217] (414,515)<font  />
+							[218] (414,515)<font >노트북 />
+						[219] (437,515)<font  />
+							[220] (437,515)<font >· />
+						[221] (459,515)<span  />
+							[222] (459,515)<font  />
+								[223] (459,515)<font >4년 전 />
+						[224] (482,515)<font  />
+							[225] (482,515)<font >· />
+						[226] (509,515)<font  />
+							[227] (509,515)<font >작성자: />
+						[228] (568,515)<a aria-label='비탈리 모킨 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/vbmokin' />
+							[229] (568,515)<font  />
+								[230] (568,515)<font >Vitalii Mokin />
+					[231] (582,537)<span  />
+						[232] (582,536)<span  />
+							[233] (458,536)<font  />
+								[234] (458,536)<font ># 경쟁 "[G-Research />
+							[235] (546,536)<span  />
+								[236] (546,536)<font  />
+									[237] (546,536)<font >암호화폐 />
+							[238] (583,536)<span  />
+								[239] (583,536)<font  />
+									[240] (583,536)<font >예측 />
+							[241] (682,536)<font  />
+								[242] (682,536)<font >](https://www.kaggle.com/c />
+		[243] (928,492)<div  />
+			arrow_drop_up
+			190
+		댓글 6개
+		[244] (599,616)<a aria-label='다음 글에 댓글을 남겨주세요:' class='sc-XaaoV fdjENb' href='/code/soumyajitdatta/crypto-forecasting/comments#1587702' role='link' />
+			[245] (607,616)<div  />
+				[246] (344,616)<div  />
+					[247] (344,616)<div  />
+						[248] (344,616)<span  />
+							[249] (370,641)<div  />
+								[250] (370,641)<span >reply />
+				[251] (530,616)<div  />
+					[252] (530,595)<div  />
+						[253] (496,595)<font  />
+							[254] (496,595)<font >다음 글에 댓글을 남겨주세요: />
+					[255] (530,618)<span  />
+						[256] (428,617)<font  />
+							[257] (428,617)<font >토론 코멘트 />
+						[258] (464,617)<font  />
+							[259] (464,617)<font >· />
+						[260] (486,617)<span  />
+							[261] (486,617)<font  />
+								[262] (486,617)<font >4년 전 />
+						[263] (509,617)<font  />
+							[264] (509,617)<font >· />
+						[265] (590,618)<font  />
+							[266] (536,617)<font >작성자: />
+							[267] (611,618)<a aria-label='Berk Karabilioglu (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/berkkarabilliolu' />
+								[268] (611,617)<font >Berk Karabillioglu />
+					[269] (530,639)<span  />
+						[270] (516,639)<font  />
+							[271] (489,639)<a aria-label='g-research-crypto-forecasting 새 창에서 열기' class='sc-lmgQQD hpXnyH' href='/code/soumyajitdatta/crypto-forecasting/comments' />
+								[272] (489,639)<font >g-research-crypto-forecasting />
+							[273] (598,639)<font >포럼 />
+							[274] (625,639)<font >에서 />
+		[275] (936,595)<div  />
+			arrow_drop_up
+			0
+		답글 0개
+		[276] (594,719)<a aria-label='[모음] 초보자를 위한 유용한 노트 - G-Research 암호화폐 예측 ₿💵' class='sc-XaaoV fdjENb' href='/competitions/g-research-crypto-forecasting/discussion/289519' role='link' />
+			[277] (603,719)<div  />
+				[278] (344,719)<div  />
+					[279] (344,719)<div  />
+						[280] (344,719)<span  />
+							[281] (370,744)<div  />
+								[282] (370,744)<span >comment />
+				[283] (644,719)<div  />
+					[284] (644,697)<div  />
+						[285] (592,697)<font  />
+							[286] (592,697)<font >[편집본] 초보자를 위한 유용한 노트 모음 - G-Research />
+						[287] (838,697)<span  />
+							[288] (838,697)<span  />
+								[289] (839,697)<font  />
+									[290] (839,697)<font >암호화폐 예측 />
+						₿💵
+					[291] (644,721)<span  />
+						[292] (422,720)<font  />
+							[293] (422,720)<font >토론 주제 />
+						[294] (453,720)<font  />
+							[295] (453,720)<font >· />
+						[296] (474,720)<span  />
+							[297] (474,720)<font  />
+								[298] (474,720)<font >4년 전 />
+						[299] (498,720)<font  />
+							[300] (498,720)<font >· />
+						[301] (525,720)<font  />
+							[302] (525,720)<font >작성자: />
+						[303] (582,721)<a aria-label='KritiDoneria가 새 창에서 열립니다' class='sc-lmgQQD hpXnyH' href='/kritidoneria' />
+							[304] (582,720)<font  />
+								[305] (582,720)<font >KritiDoneria />
+					[306] (644,742)<span  />
+						[307] (497,742)<font  />
+							[308] (470,742)<a aria-label='G-Research 암호화폐 예측(새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/competitions/g-research-crypto-forecasting' />
+								[309] (470,741)<font >G-Research 암호화폐 예측 />
+							[310] (560,741)<font >포럼 />
+							[311] (588,741)<font >에서 />
+		[312] (931,697)<div  />
+			arrow_drop_up
+			43
+		댓글 6개
+		[313] (596,821)<a aria-label='암호화폐 - 비트코인(BTC): 분석 및 예측' class='sc-XaaoV fdjENb' href='/code/vbmokin/crypto-btc-analysis-forecasting' role='link' />
+			[314] (605,821)<div  />
+				[315] (344,821)<div  />
+					[316] (344,821)<div  />
+						[317] (344,821)<span  />
+							[318] (370,847)<div  />
+								[319] (370,847)<span >code />
+				[320] (647,821)<div  />
+					[321] (647,800)<div  />
+						[322] (534,800)<font  />
+							[323] (534,800)<font >암호화폐 - 비트코인(BTC): 분석 및 예측 />
+					[324] (647,823)<span  />
+						[325] (414,823)<font  />
+							[326] (414,823)<font >노트북 />
+						[327] (437,823)<font  />
+							[328] (437,823)<font >· />
+						[329] (459,823)<span  />
+							[330] (459,823)<font  />
+								[331] (459,823)<font >3년 전 />
+						[332] (482,823)<font  />
+							[333] (482,823)<font >· />
+						[334] (509,823)<font  />
+							[335] (509,823)<font >작성자: />
+						[336] (567,823)<a aria-label='비탈리 모킨 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/vbmokin' />
+							[337] (567,823)<font  />
+								[338] (567,823)<font >Vitalii Mokin />
+					[339] (647,844)<span  />
+						[340] (693,844)<span  />
+							[341] (482,844)<font  />
+								[342] (482,844)<font >/code/vbmokin/btc-growth- />
+							[343] (607,844)<span  />
+								[344] (607,844)<font  />
+									[345] (607,844)<font >forecasting- />
+							[346] (780,844)<font  />
+								[347] (780,844)<font >with-advanced-fe-for-ohlc) - [G-Research />
+							암호화폐
+							예측]
+		[348] (933,800)<div  />
+			arrow_drop_up
+			71
+		댓글 2개
+		[349] (596,924)<a aria-label='암호화폐 예측' class='sc-XaaoV fdjENb' href='/code/soumyajitdatta/crypto-forecasting' role='link' />
+			[350] (605,924)<div  />
+				[351] (344,924)<div  />
+					[352] (344,924)<div  />
+						[353] (344,924)<span  />
+							[354] (370,949)<div  />
+								[355] (370,949)<span >code />
+				[356] (646,924)<div  />
+					[357] (646,903)<div  />
+						[358] (443,903)<font  />
+							[359] (443,903)<font >암호화폐 예측 />
+					[360] (646,926)<span  />
+						[361] (414,925)<font  />
+							[362] (414,925)<font >노트북 />
+						[363] (437,925)<font  />
+							[364] (437,925)<font >· />
+						[365] (459,925)<span  />
+							[366] (459,925)<font  />
+								[367] (459,925)<font >4년 전 />
+						[368] (482,925)<font  />
+							[369] (482,925)<font >· />
+						[370] (509,925)<font  />
+							[371] (509,925)<font >작성자: />
+						[372] (579,926)<a aria-label='소우미야짓 다타 (새 창에서 열기)' class='sc-lmgQQD hpXnyH' href='/soumyajitdatta' />
+							[373] (579,925)<font  />
+								[374] (579,925)<font >Soumyajit Datta />
+					[375] (646,947)<span  />
+						[376] (717,947)<span  />
+							[377] (455,947)<font  />
+								[378] (455,947)<font >/input/g-research - />
+							[379] (536,947)<span  />
+								[380] (536,947)<font  />
+									[381] (536,947)<font >crypto />
+							[382] (563,947)<font  />
+								[383] (563,947)<font >- />
+							[384] (606,947)<span  />
+								[385] (606,947)<font  />
+									[386] (606,947)<font >forecasting />
+							[387] (840,947)<font  />
+								[388] (840,947)<font >' assets = pd.read_csv(os.path.join(data_path, 'asset_details.csv />
+		[389] (933,903)<div  />
+			arrow_drop_up
+			15
+		댓글 1개
+		API 상세 소개
+		arrow_drop_up
+		698
+
+</current_dom>

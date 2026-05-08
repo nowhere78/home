@@ -1,0 +1,224 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (492,500)<div  />
+[1] (106,47)<a class='group/headerlogo min-w-0 shrink flex items-center' href='/docs' />
+	[2] (106,47)<img  />
+[3] (457,47)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! text-tint border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1.5 text-sm/normal px-3 group/dropdown -mx-3 bg-transparent lg:max-w-64 max-md:[&_.button-content]:hidden md:[&_.button-leading-icon]:hidden [&_.button-leading-icon]:block! ml-auto py-2 [&_.button-content]:hidden' id='radix-_r_l_' />
+	[4] (468,47)<span  />
+[5] (252,503)<div class='flex-1 overflow-hidden min-h-0 hide-scrollbar overflow-y-auto mask-b-from-[calc(100%-1rem)] flex flex-col p-2 gutter-stable' scrollable='true' />
+	[6] (247,110)<button class='relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance text-tint-strong hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12 toc-group min-h-8 w-full border-0 text-left font-semibold text-xs uppercase tracking-wide appearance-none [&_.toc-group-chevron]:transition-opacity hover:[&_.toc-group-chevron]:opacity-11 focus-visible:[&_.toc-group-chevron]:opacity-11 cursor-pointer' />
+		[7] (238,110)<span  />
+			[8] (60,110)<font  />
+				[9] (60,110)<font >시작하기 />
+	[10] (247,147)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs' />
+		[11] (45,147)<span  />
+			[12] (45,147)<font  />
+				[13] (45,147)<font >🦥 />
+		[14] (97,147)<font  />
+			[15] (97,147)<font >홈페이지 />
+	[16] (247,187)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-for-beginners' />
+		[17] (45,187)<span  />
+			[18] (45,187)<font  />
+				[19] (45,187)<font >⭐ />
+		[20] (187,187)<font  />
+			[21] (187,187)<font >초보자이신가요? 여기서 시작하세요! />
+		[22] (456,187)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1 text-sm/tight rounded-corners:rounded-lg ml-auto text-current hover:bg-tint-base' />
+	[23] (247,228)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/unsloth-notebooks' />
+		[24] (45,228)<span  />
+			[25] (45,227)<font  />
+				[26] (45,227)<font >📒 />
+		[27] (121,228)<font  />
+			[28] (121,227)<font >언슬로스 노트북 />
+	[29] (247,268)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/unsloth-model-catalog' />
+		[30] (45,268)<span  />
+			[31] (45,267)<font  />
+				[32] (45,267)<font >🔮 />
+		[33] (130,268)<font  />
+			[34] (130,267)<font >저희의 모든 모델들 />
+	[35] (247,308)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install' />
+		[36] (45,308)<span  />
+			[37] (45,308)<font  />
+				[38] (45,308)<font >📥 />
+		[39] (82,308)<font  />
+			[40] (82,308)<font >설치 />
+		[41] (456,308)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1 text-sm/tight rounded-corners:rounded-lg ml-auto text-current hover:bg-tint-base' />
+	[42] (258,353)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance text-sm contrast-more:hover:ring-1 font-semibold sidebar-list-line:before:w-0.5 before:bg-primary-solid text-primary-subtle sidebar-list-pill:bg-primary [html.sidebar-list-pill.theme-muted_&]:bg-primary-hover [html.sidebar-list-pill.theme-bold.tint_&]:bg-primary-hover [html.sidebar-filled.sidebar-list-pill.theme-muted_&]:bg-primary [html.sidebar-filled.sidebar-list-pill.theme-bold.tint_&]:bg-primary hover:bg-primary-hover hover:text-primary hover:before:bg-primary-solid-hover hover:sidebar-list-pill:bg-primary-hover contrast-more:text-primary contrast-more:hover:text-primary-strong contrast-more:bg-primary contrast-more:ring-1 contrast-more:ring-primary contrast-more:hover:ring-primary-hover' href='/docs/get-started/install/pip-install' />
+		[43] (168,353)<font  />
+			[44] (168,352)<font >uv, pip install 및 venv />
+	[45] (258,389)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/mac' />
+		[46] (119,389)<font  />
+			[47] (119,388)<font >MacOS />
+	[48] (258,425)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/windows-installation' />
+		[49] (116,425)<font  />
+			[50] (116,424)<font >윈도우 />
+	[51] (258,461)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/docker' />
+		[52] (109,461)<font  />
+			[53] (109,460)<font >도커 />
+	[54] (258,497)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/updating' />
+		[55] (133,497)<font  />
+			[56] (133,496)<font >업데이트 중 />
+	[57] (258,533)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/amd' />
+		[58] (111,533)<font  />
+			[59] (111,532)<font >AMD />
+	[60] (258,569)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/install/intel' />
+		[61] (109,569)<font  />
+			[62] (109,568)<font >인텔 />
+	[63] (247,615)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-llms-guide' />
+		[64] (45,615)<span  />
+			[65] (45,615)<font  />
+				[66] (45,615)<font >🧬 />
+		[67] (123,615)<font  />
+			[68] (123,615)<font >미세 조정 가이드 />
+		[69] (456,615)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1 text-sm/tight rounded-corners:rounded-lg ml-auto text-current hover:bg-tint-base' />
+	[70] (258,662)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-llms-guide/datasets-guide' />
+		[71] (75,662)<span  />
+			[72] (75,662)<font  />
+				[73] (75,662)<font >📈 />
+		[74] (151,662)<font  />
+			[75] (151,662)<font >데이터셋 가이드 />
+	[76] (258,702)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-llms-guide/lora-hyperparameters-guide' />
+		[77] (75,702)<span  />
+			[78] (75,702)<font  />
+				[79] (75,702)<font >🧠 />
+		[80] (173,702)<font  />
+			[81] (173,702)<font >하이퍼파라미터 가이드 />
+	[82] (258,743)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-llms-guide/what-model-should-i-use' />
+		[83] (75,743)<span  />
+			[84] (75,742)<font  />
+				[85] (75,742)<font >❓ />
+		[86] (196,743)<font  />
+			[87] (196,742)<font >어떤 모델을 사용해야 할까요? />
+	[88] (258,783)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/fine-tuning-llms-guide/tutorial-how-to-finetune-llama-3-and-use-in-ollama' />
+		[89] (75,783)<span  />
+			[90] (75,782)<font  />
+				[91] (75,782)<font >🦙 />
+		[92] (267,783)<font  />
+			[93] (267,782)<font >튜토리얼: Llama-3 미세 조정 및 Ollama에서의 사용 />
+	[94] (247,832)<a class='group/toclink toclink relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance font-normal text-sm text-tint-strong/7 hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12' href='/docs/get-started/reinforcement-learning-rl-guide' />
+		[95] (45,832)<span  />
+			[96] (45,831)<font  />
+				[97] (45,831)<font >💡 />
+		[98] (123,832)<font  />
+			[99] (123,831)<font >강화 학습 가이드 />
+		[100] (456,832)<button class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1 text-sm/tight rounded-corners:rounded-lg ml-auto text-current hover:bg-tint-base' />
+	[101] (247,885)<button class='relative transition-colors flex flex-row justify-start items-center gap-3 circular-corners:rounded-2xl rounded-md straight-corners:rounded-none p-1.5 pl-3 focus-visible:-outline-offset-2 before:contents[] before:-left-px before:absolute before:inset-y-0 sidebar-list-line:rounded-l-none! sidebar-list-line:before:w-px [&+div_a]:sidebar-list-default:rounded-l-none [&+div_a]:pl-5 [&+div_a]:sidebar-list-default:before:w-px text-balance text-tint-strong hover:bg-tint-hover hover:text-tint-strong contrast-more:text-tint-strong contrast-more:hover:text-tint-strong contrast-more:hover:ring-1 contrast-more:hover:ring-tint-12 toc-group min-h-8 w-full border-0 text-left font-semibold text-xs uppercase tracking-wide appearance-none [&_.toc-group-chevron]:transition-opacity hover:[&_.toc-group-chevron]:opacity-11 focus-visible:[&_.toc-group-chevron]:opacity-11 cursor-pointer' />
+		[102] (238,885)<span  />
+			[103] (54,884)<font  />
+				[104] (54,884)<font >새로운 />
+	🦥
+	언슬로스 스튜디오를 소개합니다
+	언슬로스 업데이트
+[105] (252,948)<a aria-label='GitBook 기반' class='button group/button inline-flex rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border hover:border-tint-hover disabled:border-tint hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! depth-flat:bg-transparent hover:bg-tint-hover hover:not-disabled:depth-flat:bg-tint-hover hover:not-disabled:text-tint contrast-more:bg-tint-subtle disabled:bg-transparent disabled:text-tint/8 p-3 text-sm font-semibold text-tint items-center gap-3 bg-transparent depth-subtle:shadow-none border-tint-subtle m-2 mt-auto px-4 py-3.5 layout-wide:no-sidebar:lg:max-3xl:hidden layout-default:no-sidebar:lg:max-xl:hidden' href='https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=xhOjnexMCB3dmuQFQ2Zq&utm_content=site_mXXTe' />
+	[106] (117,948)<span  />
+		[107] (117,947)<font  />
+			[108] (117,947)<font >GitBook 기반 />
+[109] (528,38)<button aria-label='닫다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle leading-normal disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! depth-flat:bg-transparent text-tint hover:bg-tint-hover hover:not-disabled:depth-flat:bg-tint-hover hover:not-disabled:text-tint contrast-more:bg-tint-subtle disabled:bg-transparent disabled:text-tint/8 p-2 absolute top-4 bg-tint-base! transition-discrete left-full ml-4 animate-blur-in' />
+시작하다:
+unsloth
+studio
+-H
+0.0.0.0
+-p
+8888
+Unsloth Studio 설치에 대한 자세한 지침 및 요구 사항은
+가이드를 참조하십시오
+.
+메인 저장소에서 설치하세요
+macOS, Linux, WSL 개발자 설치:
+git
+clone
+https://github.com/unslothai/unsloth
+cd
+unsloth
+./install.sh
+--local
+unsloth
+studio
+-H
+0.0.0.0
+-p
+8888
+Windows PowerShell 개발자 설치:
+winget install
+-
+e
+--
+id Python.Python.
+3.13
+--
+source winget
+winget install
+--
+id
+=
+astral
+-
+sh.uv
+-
+e
+--
+source winget
+winget install
+--
+id Git.Git
+-
+e
+--
+source winget
+git clone https:
+//
+github.com
+/
+unslothai
+/
+unsloth
+cd unsloth
+Set-ExecutionPolicy
+-
+Scope
+Process
+-
+ExecutionPolicy Bypass
+.\install.ps1
+--
+local
+unsloth studio
+-
+H
+0.0
+.
+0.0
+-
+p
+8888
+야간 설치
+나이틀리 빌드 - MacOS, Linux, WSL:
+git
+clone
+https://github.com/unslothai/unsloth
+cd
+unsloth
+git
+checkout
+nightly
+./install.sh
+--local
+그런 다음 매번 실행하려면:
+이 사이트는 서비스 제공 및 트래픽 분석을 위해 쿠키를 사용합니다. 이 사이트를 탐색함으로써 귀하는
+[110] (585,905)<a class='underline decoration-[max(0.07em,1px)] underline-offset-2 links-accent:underline-offset-4 links-default:decoration-primary/6 links-default:text-primary-subtle hover:links-default:text-primary-strong contrast-more:links-default:text-primary contrast-more:hover:links-default:text-primary-strong links-accent:decoration-primary-subtle hover:links-accent:decoration-[3px] hover:links-accent:[text-decoration-skip-ink:none] transition-all duration-100' href='https://policies.gitbook.com/privacy/cookies' />
+	[111] (585,905)<font  />
+		[112] (585,905)<font >개인정보 보호정책에 />
+동의하는 것으로 간주됩니다 .
+[113] (942,862)<button aria-label='닫다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-transparent text-tint border-0 contrast-more:border shadow-none! translate-y-0! hover:not-disabled:bg-tint-hover hover:not-disabled:text-tint-strong focus-visible:bg-tint-hover focus-visible:text-tint-strong aria-expanded:bg-tint-hover aria-expanded:text-tint-strong contrast-more:bg-tint-subtle disabled:text-tint/8 disabled:bg-transparent p-1.5 text-sm/normal absolute top-2 right-2 hover:bg-tint-hover' />
+[114] (559,948)<button aria-label='수용하다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border hover:border-tint-hover depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-primary-original text-contrast-primary-original hover:not-disabled:bg-primary-solid-hover hover:not-disabled:border-primary-solid-hover hover:not-disabled:text-contrast-primary-solid-hover border-primary-original contrast-more:bg-primary-solid contrast-more:text-contrast-primary-solid disabled:border-primary-2 disabled:bg-primary-subtle disabled:text-primary/8 p-1.5 text-sm/normal px-3' />
+	[115] (559,948)<span  />
+		[116] (559,948)<font  />
+			[117] (559,948)<font >수용하다 />
+[118] (653,948)<button aria-label='거부하다' class='button group/button inline-flex items-center gap-2 rounded-xl straight-corners:rounded-none circular-corners:rounded-3xl border border-tint hover:border-tint-hover disabled:border-tint depth-subtle:shadow-xs hover:depth-subtle:shadow-md focus-visible:depth-subtle:shadow-md active:depth-subtle:shadow-xs shadow-tint/6 dark:shadow-tint-1 not-focus-visible:outline-0 contrast-more:border-tint-12 contrast-more:hover:outline-2 contrast-more:hover:outline-tint-12 contrast-more:hover:border-tint-12 contrast-more:focus-visible:border-tint-12 contrast-more:focus-visible:outline-tint-12 hover:depth-subtle:-translate-y-px focus-visible:depth-subtle:-translate-y-px data-[state=open]:depth-subtle:-translate-y-px active:depth-subtle:translate-y-0 transition-all grow-0 shrink-0 truncate max-w-full align-middle disabled:cursor-not-allowed disabled:translate-y-0! disabled:shadow-none! bg-tint depth-flat:bg-transparent text-tint hover:bg-tint-hover hover:not-disabled:depth-flat:bg-tint-hover hover:not-disabled:text-tint contrast-more:bg-tint-subtle disabled:bg-transparent disabled:text-tint/8 p-1.5 text-sm/normal px-3' />
+	[119] (653,948)<span  />
+		[120] (653,948)<font  />
+			[121] (653,948)<font >거부하다 />
+
+</current_dom>

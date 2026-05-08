@@ -1,0 +1,108 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (264,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (271,25)<span  />
+		[8] (271,25)<font  />
+			[9] (271,25)<font >특허 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+from
+tabpfn
+.
+constants
+import
+ModelVersion
+classifier
+=
+TabPFNClassifier
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+regressor
+=
+TabPFNRegressor
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+자세한 예제는
+[12] (314,172)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_binary_classification.py' />
+	[13] (314,172)<font  />
+		[14] (314,172)<font >tabpfn_for_binary_classification.py />
+,
+[15] (451,172)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_multiclass_classification.py' />
+	[16] (451,172)<font  />
+		[17] (451,172)<font >tabpfn_for_multiclass_classification.py />
+및
+[18] (578,172)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_regression.py' />
+	[19] (578,172)<font  />
+		[20] (578,172)<font >tabpfn_for_regression.py />
+파일을 참조하십시오.
+사용 팁
+[21] (193,249)<a aria-label='고유 링크: 사용 팁' class='anchor' href='#usage-tips' id='user-content-usage-tips' />
+배치 예측 모드를 사용하세요
+. 각
+predict
+호출마다 학습 데이터셋을 다시 계산합니다.
+predict
+100개의 샘플을 개별적으로 호출하는 것은 단일 호출보다 거의 100배 느리고 비용이 많이 듭니다. 테스트 데이터셋이 매우 큰 경우, 1000개 샘플씩 여러 덩어리로 나누세요.
+데이터 전처리를 피하십시오
+: 모델에 데이터를 입력할 때 데이터 스케일링이나 원핫 인코딩을 적용하지 마십시오.
+GPU를 사용하세요
+: TabPFN은 CPU에서 실행하면 속도가 느립니다. 더 나은 성능을 위해 GPU를 사용할 수 있는지 확인하세요.
+데이터셋 크기에 유의하세요
+. TabPFN은 샘플 수가 10만 개 미만이고 특징점이 2,000개 미만인 데이터셋에서 가장 잘 작동합니다. 더 큰 데이터셋의 경우,
+[22] (369,482)<a href='https://github.com/PriorLabs/tabpfn-extensions/blob/main/examples/large_datasets/large_datasets_example.py' />
+	[23] (369,482)<font  />
+		[24] (369,482)<font >대규모 데이터셋 가이드를 />
+참조하시기 바랍니다 .
+TabPFN 생태계
+[25] (193,536)<a aria-label='고유 링크: TabPFN 생태계' class='anchor' href='#tabpfn-ecosystem' id='user-content-tabpfn-ecosystem' />
+필요에 맞는 TabPFN 구현 방식을 선택하세요.
+[26] (253,633)<a href='https://github.com/priorlabs/tabpfn-client' />
+	[27] (253,633)<font  />
+		[28] (253,633)<font >TabPFN 클라이언트: />
+클라우드 기반 추론을 통해 TabPFN을 사용하기 위한 간단한 API 클라이언트입니다.
+[29] (261,675)<a href='https://github.com/priorlabs/tabpfn-extensions' />
+	[30] (261,675)<font  />
+		[31] (261,675)<font >TabPFN 확장 프로그램은 />
+고급 유틸리티, 통합 기능 및 다양한 기능을 제공하는 강력한 보조 저장소입니다. 기여하기에 좋은 곳입니다.
+interpretability
+SHAP 기반 설명, 특징 중요도 및 선택 도구를 통해 통찰력을 얻으세요.
+unsupervised
+이상치 탐지 및 합성 표 형식 데이터 생성 도구.
+embeddings
+TabPFN이 내부적으로 학습한 임베딩을 추출하여 후속 작업이나 분석에 사용합니다.
+many_class
+TabPFN의 내장 클래스 제한을 초과하는 다중 클래스 분류 문제를 처리합니다.
+rf_pfn
+TabPFN을 랜덤 포레스트와 같은 기존 모델과 결합하여 하이브리드 접근 방식을 구현합니다.
+hpo
+TabPFN에 맞춰 설계된 자동화된 하이퍼파라미터 최적화 기능.
+post_hoc_ensembles
+학습 후 여러 TabPFN 모델을 앙상블하여 성능을 향상시키세요.
+설치 방법:
+
+</current_dom>

@@ -1,0 +1,18 @@
+# Unsloth Documentation Analysis Task
+
+## Goals
+1. [ ] Navigate to https://unsloth.ai/docs
+2. [ ] Explore 'Getting Started' section
+3. [ ] Explore 'Model Support' section
+4. [ ] Explore 'Performance' section
+5. [ ] Explore 'Quantization' section
+6. [ ] Extract information:
+   - [ ] Installation requirements
+   - [ ] 2x speed / 70% memory saving features
+   - [ ] Support for Gemma 4
+   - [ ] Long Context (128K) support
+7. [ ] Summarize findings and extract code snippets
+8. [ ] Final report
+
+## Findings
+- 

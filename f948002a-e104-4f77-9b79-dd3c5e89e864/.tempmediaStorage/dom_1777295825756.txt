@@ -1,0 +1,181 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DGoHighLevel%2Bhigh-ticket%2BSaaS%2Bfunnel%2Bsnapshot%2Bblueprint&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n7CZ4vA9rO5CQDZjl8jJeOEXW3tsA:1777295809493&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LCP2quGr0JCFHv6GOp0-gECfJMEPnXj-TUjjGJNG51Xa_XpD0fWtugHcjeZE_9ak2aJg6fqz41zdguRZj9G5x8CFMNaBA&q=GoHighLevel+high-ticket+SaaS+funnel+snapshot+blueprint&sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QtKgLegQIFxAB' />
+	[18] (156,121)<div  />
+		[19] (156,130)<span >이미지 />
+[20] (188,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n7CZ4vA9rO5CQDZjl8jJeOEXW3tsA:1777295809493&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LCP2quGr0JCFHv6GOp0-gECfJMEPnXj-TUjjGJNG51Xa_XpD0fWtugHcjeZE_9ak2aJg6fqz41zdguRZj9G5x8CFMNaBA&q=GoHighLevel+high-ticket+SaaS+funnel+snapshot+blueprint&sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QtKgLegQIExAB' />
+	[21] (188,121)<div  />
+		[22] (188,130)<span >동영상 />
+[23] (218,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n7CZ4vA9rO5CQDZjl8jJeOEXW3tsA:1777295809493&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LCP2quGr0JCFHv6GOp0-gECfJMEPnXj-TUjjGJNG51Xa_XpD0fWtugHcjeZE_9ak2aJg6fqz41zdguRZj9G5x8CFMNaBA&q=GoHighLevel+high-ticket+SaaS+funnel+snapshot+blueprint&ved=1t:220175&ictx=111' />
+	[24] (218,121)<div  />
+		[25] (218,130)<span >쇼핑 />
+[26] (255,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n7CZ4vA9rO5CQDZjl8jJeOEXW3tsA:1777295809493&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LCP2quGr0JCFHv6GOp0-gECfJMEPnXj-TUjjGJNG51Xa_XpD0fWtugHcjeZE_9ak2aJg6fqz41zdguRZj9G5x8CFMNaBA&q=GoHighLevel+high-ticket+SaaS+funnel+snapshot+blueprint&sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8Qs6gLegQIFRAB' />
+	[27] (255,121)<div  />
+		[28] (255,130)<span >짧은 동영상 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n7CZ4vA9rO5CQDZjl8jJeOEXW3tsA:1777295809493&q=GoHighLevel+high-ticket+SaaS+funnel+snapshot+blueprint&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LCP2quGr0JCFHv6GOp0-gECfJMEPnXj-TUjjGJNG51Xa_XpD0fWtugHcjeZE_9ak2aJg6fqz41zdguRZj9G5x8CFMNaBA&sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8Q0pQJegQIFhAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+광고: 검색 결과
+[42] (269,320)<a class='sVXRqc' href='https://www.klaviyo.com/products/email-marketing' />
+	[43] (269,315)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[44] (269,317)<span >Pre-Built Email Automations - Ecommerce Marketing Automation />
+	[45] (171,277)<div  />
+		[46] (163,277)<span  />
+			[47] (130,277)<span  />
+				[48] (127,276)<span  />
+					[49] (127,277)<div  />
+						[50] (127,277)<img  />
+			[51] (174,277)<span  />
+				[52] (174,268)<span  />
+					[53] (174,268)<div  />
+						[54] (152,268)<span >Klaviyo />
+				[55] (174,288)<span  />
+					[56] (174,289)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.klaviyo.com />
+[57] (216,290)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[58] (216,289)<span  />
+Activate your data in real-time to better target, personalize, and measure. Klaviyo syncs data in real-time across 350+ integrations for deeper email personalization.
+[59] (284,428)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='https://www.klaviyo.com/pricing?sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QwgUoAXoECBIQEA' />
+	[60] (435,429)<span  />
+	[61] (275,428)<div  />
+		[62] (154,428)<span >View Pricing />
+[63] (284,481)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='https://www.klaviyo.com/solutions/ai/marketing-agent?sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QwgUoA3oECBIQEg' />
+	[64] (435,483)<span  />
+	[65] (275,481)<div  />
+		[66] (179,481)<span >Meet AI Marketing Agent />
+[67] (284,535)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='/aclk?sa=L&ai=DChsSEwiPlZLrjo6UAxVdU38AHQ68CQsYACICCAEQBhoCb2E&ae=2&co=1&ase=2&gclid=Cj0KCQjwkrzPBhCqARIsAJN460k9E9NqSjV4ZAeXjU0FJ1Um8V9mkvJKccqQp1UkVCxsbFa3J2gHFiEaAtKkEALw_wcB&cid=CAASWeRoyc_lc0BOv8xcxO-EjkzWsBkl0_L2HHrwiPDcFM93Pl-tN_KKTqBYV_5vHS_V6FHjn5y2jGcj0vOrCWhc1Tvtv4ul0146Q_-gOaTinqT4hMeoR4Lp-RdO&cce=2&category=acrcp_v1_71&sig=AOD64_2h3PUJdYLll6JjAOm41OsduQTktw&q=&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QwgUoBXoECBIQFA&adurl=' />
+	[68] (435,537)<span  />
+	[69] (275,535)<div  />
+		[70] (191,535)<span >Powered by 350+ Integrations />
+[71] (284,589)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='/aclk?sa=L&ai=DChsSEwiPlZLrjo6UAxVdU38AHQ68CQsYACICCAEQBxoCb2E&ae=2&co=1&ase=2&gclid=Cj0KCQjwkrzPBhCqARIsAJN460loO34mK5rsmPoTIOsXbTaYuv1N4gDtmpk_FqNWVJRm6XNQ8BRVWE0aAgEcEALw_wcB&cid=CAASWeRoyc_lc0BOv8xcxO-EjkzWsBkl0_L2HHrwiPDcFM93Pl-tN_KKTqBYV_5vHS_V6FHjn5y2jGcj0vOrCWhc1Tvtv4ul0146Q_-gOaTinqT4hMeoR4Lp-RdO&cce=2&category=acrcp_v1_71&sig=AOD64_0JhcAXzbzV3ZY-4iWgAHBIhQqVtg&q=&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QwgUoB3oECBIQFg&adurl=' />
+	[72] (435,591)<span  />
+	[73] (275,589)<div  />
+		[74] (194,589)<span >Fuel Ecommerce Sales All Year />
+[75] (284,643)<a class='tNxQIb ynAwRc nEWj3b OMVs0e gpHVGb Cxb6Wc Mywnqb wGP9id' href='https://www.klaviyo.com/grow/request-a-demo?sa=X&ved=2ahUKEwjuyIrrjo6UAxUOw8kDHU_jBQ8QwgUoCXoECBIQGA' />
+	[76] (435,644)<span  />
+	[77] (275,643)<div  />
+		[78] (174,643)<span >Request a Free Demo />
+[79] (275,778)<a class='sVXRqc' href='https://thrivecart.com/features/advanced-funnel-automation/' />
+	[80] (275,774)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[81] (275,776)<span >High-Converting Templates - Automated Sales Funnels - ThriveCart />
+	[82] (174,735)<div  />
+		[83] (167,735)<span  />
+			[84] (130,735)<span  />
+				[85] (127,734)<span  />
+					[86] (127,735)<div  />
+						[87] (127,735)<img  />
+			[88] (177,735)<span  />
+				[89] (177,726)<span  />
+					[90] (177,726)<div  />
+						[91] (158,726)<span >ThriveCart />
+				[92] (177,746)<span  />
+					[93] (177,747)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.thrivecart.com />
+[94] (222,748)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[95] (222,747)<span  />
+Build
+High
+-Converting
+Funnels
+in Minutes—No Tech, No Monthly Fees. Try it for Free! Create
+high
+-converting customer journeys with...
+[96] (223,933)<a class='sVXRqc' href='https://www.gohighlevel.com/startp' />
+	[97] (223,929)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[98] (223,931)<span >GoHighLevel - All-In-One Marketing Platform />
+	[99] (177,891)<div  />
+		[100] (170,891)<span  />
+			[101] (130,891)<span  />
+				[102] (127,891)<span  />
+					[103] (127,891)<div  />
+						[104] (127,891)<img  />
+			[105] (180,891)<span  />
+				[106] (180,881)<span  />
+					[107] (180,881)<div  />
+						[108] (162,881)<span >GoHighLevel />
+				[109] (180,902)<span  />
+					[110] (180,903)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.gohighlevel.com />
+[111] (228,904)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[112] (228,903)<span  />
+GoHighLevel
+Includes
+Funnels
+, Landing Pages, Websites, Emails, SMS, CRM, And Much More. Take Your Marketing & Sales To The Next Level...
+[113] (498,195)<div  />
+	[114] (498,195)<img  />
+[115] (540,195)<div >AI에게 질문하기 />
+	[116] (514,195)<img  />
+[117] (602,195)<div >검색 에이전트 />
+	[118] (580,195)<img  />
+[119] (641,190)<div  />
+[120] (654,190)<div  />
+[121] (666,190)<div  />
+[122] (512,236)<div  />
+	[123] (499,236)<img  />
+	[124] (517,236)<span >4o mini />
+[125] (553,236)<div  />
+	[126] (540,236)<img  />
+	[127] (559,236)<span >GPT-4o />
+[128] (599,236)<div  />
+	[129] (582,236)<img  />
+	[130] (605,236)<span >Claude 3.5 />
+[131] (644,236)<div  />
+	[132] (632,236)<img  />
+	[133] (650,236)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[134] (533,524)<div  />
+	[135] (533,524)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+[136] (573,562)<a >지금 로그인 />
+[137] (582,692)<div  />
+	[138] (505,653)<img  />
+	[139] (595,692)<div  />
+		[140] (595,682)<div  />
+			[141] (595,648)<p >GPT-4o: 글쓰기를 터보 충전하세요! />
+			[142] (595,695)<p >Monica를 사용하면 글쓰기 요구 사항을 개요로 만들어 자동으로 참고 자료를 수집하고 자동 조종으로 기사를 작성할 수 있습니다. />
+		[143] (595,742)<div  />
+			[144] (532,742)<span >무료 설치 />
+			[145] (656,742)<a class='label-WsBv4f' href='https://monica.im/?utm=C4G_S_2_WA'>프로모션 />
+[146] (670,633)<span  />
+
+</current_dom>

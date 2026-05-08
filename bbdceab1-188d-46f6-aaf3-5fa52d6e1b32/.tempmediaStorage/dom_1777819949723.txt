@@ -1,0 +1,206 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span  />
+		[4] (75,33)<font  />
+			[5] (75,33)<font >마이크몰리넷 />
+[6] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (756,34)<span  />
+		[8] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+사용자 탐색
+[19] (34,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet' />
+	[20] (17,80)<span  />
+	[21] (41,80)<span  />
+		[22] (41,80)<font  />
+			[23] (41,80)<font >개요 />
+[24] (104,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet?tab=repositories' />
+	[25] (73,80)<span  />
+	[26] (101,80)<span  />
+		[27] (101,80)<font  />
+			[28] (101,80)<font >저장소 />
+	[29] (132,80)<span  />
+		[30] (132,80)<span  />
+			[31] (132,80)<font  />
+				[32] (132,80)<font >16 />
+		(
+		16
+		)
+[33] (171,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet?tab=projects' />
+	[34] (156,80)<span  />
+	[35] (177,80)<span  />
+		[36] (177,80)<font  />
+			[37] (177,80)<font >프로젝트 />
+[38] (225,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet?tab=packages' />
+	[39] (208,80)<span  />
+	[40] (231,80)<span  />
+		[41] (231,80)<font  />
+			[42] (231,80)<font >패키지 />
+[43] (281,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet?tab=stars' />
+	[44] (263,80)<span  />
+	[45] (279,80)<span  />
+		[46] (279,80)<font  />
+			[47] (279,80)<font >별들 />
+	[48] (297,80)<span  />
+		[49] (297,80)<span  />
+			[50] (297,80)<font  />
+				[51] (297,80)<font >5 />
+		(
+		5
+		)
+[52] (260,305)<a class='d-block' href='https://avatars.githubusercontent.com/u/237856306?v=4' />
+	[53] (260,305)<img  />
+마이크몰리넷
+[54] (260,538)<input aria-label='mikemolinet을 팔로우하세요' class='btn btn-block' title='mikemolinet을 팔로우하세요' />
+[55] (191,619)<a class='Link--primary mb-2' href='/mikemolinet?tab=achievements' />
+	[56] (191,619)<font  />
+		[57] (191,619)<font >업적 />
+[58] (200,677)<a class='position-relative' href='/mikemolinet?achievement=pair-extraordinaire&tab=achievements' />
+	[59] (200,674)<img  />
+	[60] (209,698)<span  />
+		[61] (209,698)<font  />
+			[62] (209,698)<font >x4 />
+[63] (233,677)<a class='position-relative' href='/mikemolinet?achievement=quickdraw&tab=achievements' />
+	[64] (233,674)<img  />
+[65] (267,677)<a class='position-relative' href='/mikemolinet?achievement=pull-shark&tab=achievements' />
+	[66] (267,674)<img  />
+	[67] (275,698)<span  />
+		[68] (275,698)<font  />
+			[69] (275,698)<font >x2 />
+[70] (300,677)<a class='position-relative' href='/mikemolinet?achievement=yolo&tab=achievements' />
+	[71] (300,674)<img  />
+하이라이트
+찬성
+[72] (217,850)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-101624ee-f249-4689-af40-c30b70d391e7' />
+	[73] (217,850)<span  />
+		[74] (217,850)<span  />
+			[75] (217,850)<font  />
+				[76] (217,850)<font >사용자 차단 또는 신고 />
+인기 있는 저장소
+로딩 중
+[77] (384,203)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/agent-university' id='1157415016' />
+	[78] (384,203)<span  />
+		[79] (384,203)<font  />
+			[80] (384,203)<font >에이전트-대학교 />
+공공의
+AI 에이전트를 위한 지혜 계층. 기술이 아니라 학습 내용입니다.
+아스트로
+[81] (606,203)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/clawbar' id='1160496031' />
+	[82] (606,203)<span  />
+		[83] (606,203)<font  />
+			[84] (606,203)<font >클로바 />
+공공의
+스위프트
+[85] (377,344)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/openclaw-pair' id='1166322832' />
+	[86] (377,344)<span  />
+		[87] (377,344)<font  />
+			[88] (377,344)<font >오픈클로 쌍 />
+공공의
+한 번의 스캔으로 iPhone과 OpenClaw를 페어링하세요
+자바스크립트
+[89] (630,344)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/ai-drop-daily-content' id='1208180823' />
+	[90] (630,344)<span  />
+		[91] (630,344)<font  />
+			[92] (630,344)<font >AI 드롭 데일리 콘텐츠 />
+공공의
+AI Drop Daily 콘텐츠의 공개 미러입니다. 매일 AI 뉴스 기사, 강좌 강의 및 가이드를 제공합니다. 소스 저장소에서 자동으로 동기화됩니다. CC-BY-4.0 라이선스가 적용됩니다.
+[93] (370,505)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/EnvCP' id='1208927503' />
+	[94] (370,505)<span  />
+		[95] (370,505)<font  />
+			[96] (370,505)<font >환경CP />
+공공의
+[97] (379,529)<a class='Link--muted Link--inTextBlock' href='/fentz26/EnvCP' />
+	[98] (379,529)<font >fentz26/EnvCP />
+에서 포크됨
+AI 기반 코딩을 위한 안전한 환경 변수 관리. AI가 비밀 값을 직접 보지 않고도 참조할 수 있도록 하는 MCP 서버.
+타입스크립트
+[99] (625,505)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/mikemolinet/markdown-matters' id='1209839095' />
+	[100] (625,505)<span  />
+		[101] (625,505)<font  />
+			[102] (625,505)<font >마크다운 관련 사항 />
+공공의
+[103] (637,529)<a class='Link--muted Link--inTextBlock' href='/srobinson/markdown-matters' />
+	[104] (637,529)<font >srobinson/markdown-matters />
+에서 포크됨
+LLM을 위한 구조적 마크다운 인텔리전스 - 토큰 수를 80% 줄여 검색, 색인화 및 요약
+타입스크립트
+지난 한 해 동안 2,297건의 기부가 있었습니다.
+기부 내역 연도 목록으로 바로 가기
+기여도 그래프
+요일
+5월
+5월
+6월
+6월
+칠월
+7월
+팔월
+8월
+구월
+9월
+십월
+10월
+십일월
+11월
+12월
+12월
+1월
+얀
+2월
+2월
+3월
+3월
+4월
+4월
+일요일
+해
+월요일
+월요일
+화요일
+화요일
+수요일
+수요일
+목요일
+목
+금요일
+금요일
+토요일
+앉았다
+[105] (419,871)<a class='Link--muted' href='https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile' />
+	[106] (419,871)<font  />
+		[107] (419,871)<font >기부금 집계 방식에 대해 알아보세요. />
+더 적은
+기부금이 없습니다.
+낮은 기여도.
+중하위 기여도.
+중상급 기여도.
+높은 기여도.
+더
+기여 활동
+2026년
+5월
+[108] (786,708)<a aria-label='2026년 기부 활동' class='js-year-link filter-item tmp-px-3 mb-2 py-2 selected' href='/mikemolinet?tab=overview&from=2026-05-01&to=2026-05-03' id='year-link-2026' />
+	[109] (771,708)<font  />
+		[110] (771,708)<font >2026 />
+[111] (786,752)<a aria-label='2025년 기여 활동' class='js-year-link filter-item tmp-px-3 mb-2 py-2' href='/mikemolinet?tab=overview&from=2025-12-01&to=2025-12-31' id='year-link-2025' />
+	[112] (771,752)<font  />
+		[113] (771,752)<font >2025 />
+
+</current_dom>

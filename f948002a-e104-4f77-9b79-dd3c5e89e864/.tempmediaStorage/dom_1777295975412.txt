@@ -1,0 +1,196 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiEpaq4j46UAxU218kDHdHtC9cQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DGoogle%2BAds%2Baccount%2Bwarming%2Bschedule%2B2026%2Banti-ban%2Bmeasures%2Baggressive%2Bscaling&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (152,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4WLhM1P6-dAlfVnDFFTzLwMH1Ahw:1777295971492&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJQ3-fTjv2_KvGT9PZO5Il_OEnrFJznZvMy5RSPoMngNCcFcz4VxRzCOLa9dTCb6AtM3kLUNyczvMki8Do7SlcYKe7JJA&q=Google+Ads+account+warming+schedule+2026+anti-ban+measures+aggressive+scaling&ved=1t:220175&ictx=111' />
+	[18] (152,121)<div  />
+		[19] (152,130)<span >쇼핑 />
+[20] (182,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4WLhM1P6-dAlfVnDFFTzLwMH1Ahw:1777295971492&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJQ3-fTjv2_KvGT9PZO5Il_OEnrFJznZvMy5RSPoMngNCcFcz4VxRzCOLa9dTCb6AtM3kLUNyczvMki8Do7SlcYKe7JJA&q=Google+Ads+account+warming+schedule+2026+anti-ban+measures+aggressive+scaling&sa=X&ved=2ahUKEwiEpaq4j46UAxU218kDHdHtC9cQtKgLegQIFRAB' />
+	[21] (182,121)<div  />
+		[22] (182,130)<span >이미지 />
+[23] (214,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4WLhM1P6-dAlfVnDFFTzLwMH1Ahw:1777295971492&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJQ3-fTjv2_KvGT9PZO5Il_OEnrFJznZvMy5RSPoMngNCcFcz4VxRzCOLa9dTCb6AtM3kLUNyczvMki8Do7SlcYKe7JJA&q=Google+Ads+account+warming+schedule+2026+anti-ban+measures+aggressive+scaling&sa=X&ved=2ahUKEwiEpaq4j46UAxU218kDHdHtC9cQtKgLegQIFBAB' />
+	[24] (214,121)<div  />
+		[25] (214,130)<span >동영상 />
+[26] (255,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4WLhM1P6-dAlfVnDFFTzLwMH1Ahw:1777295971492&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJQ3-fTjv2_KvGT9PZO5Il_OEnrFJznZvMy5RSPoMngNCcFcz4VxRzCOLa9dTCb6AtM3kLUNyczvMki8Do7SlcYKe7JJA&q=Google+Ads+account+warming+schedule+2026+anti-ban+measures+aggressive+scaling&sa=X&ved=2ahUKEwiEpaq4j46UAxU218kDHdHtC9cQs6gLegQIExAB' />
+	[27] (255,121)<div  />
+		[28] (255,130)<span >짧은 동영상 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n4WLhM1P6-dAlfVnDFFTzLwMH1Ahw:1777295971492&q=Google+Ads+account+warming+schedule+2026+anti-ban+measures+aggressive+scaling&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJQ3-fTjv2_KvGT9PZO5Il_OEnrFJznZvMy5RSPoMngNCcFcz4VxRzCOLa9dTCb6AtM3kLUNyczvMki8Do7SlcYKe7JJA&sa=X&ved=2ahUKEwiEpaq4j46UAxU218kDHdHtC9cQ0pQJegQIEhAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+AI 개요
+[42] (688,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+In 2026, Google Ads AI-driven enforcement focuses on granular, creative-level analysis rather than blunt account-wide suspensions, reducing incorrect bans by 80% year-over-year
+. However, aggressive scaling still triggers "System Circumvention" bans if patterns appear suspicious. The key to aggressive scaling is to move from a "campaign-level" mindset to an "account trust" framework.
+YouTube
++2
+I. 2026 Account Warming Schedule (3-Phase Plan)
+Do not scale aggressively immediately. A 3-4 week warming period is essential to establish trust with Google’s automated enforcement mechanisms.
+Orange Trail
+Week 1: Foundations & Trust (Daily Budget: $50-$100)
+Goal:
+No conversions needed, focus on traffic quality.
+Actions:
+Run search campaigns with high-intent exact match keywords. Setup
+GA4
+and
+Enhanced Conversions
+immediately.
+Ads:
+Use 3-4 simple Responsive Search Ads (RSAs).
+Constraint:
+Do not use broad match or display network.
+Week 2: Data Accumulation (Daily Budget: $100-$250)
+Goal:
+Generate 15-25 conversions.
+Actions:
+Turn on
+Automated Bidding
+(Maximize Conversions or Target CPA) once data starts flowing.
+Constraint:
+No structural changes; small, gradual adjustments only.
+Week 3-4: Gradual Scaling (Increase by 20% every 3 days)
+Goal:
+Increase budget to desired level.
+Actions:
+Introduce Performance Max (PMax) to complement search.
+[43] (406,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[44] (284,538)<div  />
+		[45] (284,538)<div >더보기 />
+			더보기
+			[46] (296,538)<span  />
+Web results
+[47] (240,661)<a class='zReHs' href='https://orangetrail.io/blog/how-to-avoid-google-ads-account-suspension/' />
+	[48] (240,682)<h3 >How to Avoid Google Ads Account Suspension 2026 />
+	[49] (167,644)<div  />
+		[50] (167,644)<div  />
+			[51] (127,644)<span  />
+				[52] (127,644)<div  />
+					[53] (127,644)<img  />
+			[54] (177,644)<div  />
+				[55] (177,635)<div  />
+					[56] (177,635)<span >Orange Trail />
+				[57] (177,655)<div  />
+					[58] (177,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://orangetrail.io />
+						[59] (205,655)<span class='ylgVCe ob9lvb' role='text'>› Blog />
+[60] (224,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (224,654)<span  />
+		[62] (224,655)<span  />
+2026. 1. 21.
+—
+This
+scale
+demands
+aggressive
+policy enforcement
+Google
+protects its ecosystem through sophisticated detection systems and swift
+account
+...
+[63] (235,813)<a class='zReHs' href='https://www.youtube.com/watch?v=J5JvOfvtQyw' />
+	[64] (235,836)<h3 >How to Aggressively Scale on Google Ads in 2026 />
+	[65] (219,800)<div  />
+		[66] (219,800)<div  />
+			[67] (127,800)<span  />
+				[68] (127,800)<div  />
+					[69] (127,800)<img  />
+			[70] (229,800)<div  />
+				[71] (229,790)<div  />
+					[72] (229,790)<span >YouTube · Ali Raza Marketing | Google Ads | Aarswebs />
+				[73] (229,810)<div  />
+					[74] (177,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 30회 이상  ·  3개월 전 />
+[75] (329,809)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[76] (329,809)<span  />
+		[77] (329,810)<span  />
+[78] (164,906)<div aria-label='Ali Raza Marketing | Google Ads | Aarswebs님이 YouTube에 게시한 How to Aggressively Scale on Google Ads in 2026. Google에서 재생. 6:12' class='rIRoqf hXY9cf' role='button' />
+	[79] (158,908)<div  />
+		[80] (158,908)<div  />
+			[81] (158,908)<div  />
+				[82] (134,933)<div  />
+					[83] (134,933)<span >6:12 />
+				[84] (188,883)<div  />
+					[85] (188,883)<span  />
+How to
+Aggressively Scale
+on
+Google Ads
+in
+2026
+. 36 views · 3 months ... Why I'm Deleting My Google
+Account
+in
+2026
+(And What I Use Instead).
+누락된 검색어:
+anti-
+‎
+ban
+‎
+measures
+[86] (498,641)<div  />
+	[87] (498,641)<img  />
+[88] (540,641)<div >AI에게 질문하기 />
+	[89] (514,641)<img  />
+[90] (602,641)<div >검색 에이전트 />
+	[91] (580,641)<img  />
+[92] (641,637)<div  />
+[93] (654,637)<div  />
+[94] (666,637)<div  />
+[95] (512,683)<div  />
+	[96] (499,683)<img  />
+	[97] (517,683)<span >4o mini />
+[98] (553,683)<div  />
+	[99] (540,683)<img  />
+	[100] (559,683)<span >GPT-4o />
+[101] (599,683)<div  />
+	[102] (582,683)<img  />
+	[103] (605,683)<span >Claude 3.5 />
+[104] (644,683)<div  />
+	[105] (632,683)<img  />
+	[106] (650,683)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[107] (533,970)<div  />
+	[108] (533,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

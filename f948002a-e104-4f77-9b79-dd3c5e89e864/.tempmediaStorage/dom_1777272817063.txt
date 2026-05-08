@@ -1,0 +1,178 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjws-yQuY2UAxUX38kDHWPrLswQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DYouTube%2BShorts%2Bchannel%2Bgrowth%2Bcase%2Bstudy%2Bnames%2B0%2Bto%2B100k%2B2026&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n65z9ubTKdNcbWSWZyBniCZbNKmeQ:1777272803240&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWppEZjjXIKd5QsDgblCQ8rSlmwdFzunArKt_cm_P51I4YYssLqMkx8CNwGKZ6iwUWZgPEa2lvJX8Enbi_4YE7Nbzq2X8eA&q=YouTube+Shorts+channel+growth+case+study+names+0+to+100k+2026&sa=X&ved=2ahUKEwjws-yQuY2UAxUX38kDHWPrLswQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >동영상 />
+[20] (180,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n65z9ubTKdNcbWSWZyBniCZbNKmeQ:1777272803240&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWppEZjjXIKd5QsDgblCQ8rSlmwdFzunArKt_cm_P51I4YYssLqMkx8CNwGKZ6iwUWZgPEa2lvJX8Enbi_4YE7Nbzq2X8eA&q=YouTube+Shorts+channel+growth+case+study+names+0+to+100k+2026&sa=X&ved=2ahUKEwjws-yQuY2UAxUX38kDHWPrLswQtKgLegQIFRAB' />
+	[21] (180,121)<div  />
+		[22] (180,130)<span >이미지 />
+[23] (239,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n65z9ubTKdNcbWSWZyBniCZbNKmeQ:1777272803240&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWppEZjjXIKd5QsDgblCQ8rSlmwdFzunArKt_cm_P51I4YYssLqMkx8CNwGKZ6iwUWZgPEa2lvJX8Enbi_4YE7Nbzq2X8eA&q=YouTube+Shorts+channel+growth+case+study+names+0+to+100k+2026&ved=1t:220175&ictx=111' />
+	[24] (239,121)<div  />
+		[25] (239,130)<span >쇼핑 />
+[26] (291,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n65z9ubTKdNcbWSWZyBniCZbNKmeQ:1777272803240&q=YouTube+Shorts+channel+growth+case+study+names+0+to+100k+2026&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWppEZjjXIKd5QsDgblCQ8rSlmwdFzunArKt_cm_P51I4YYssLqMkx8CNwGKZ6iwUWZgPEa2lvJX8Enbi_4YE7Nbzq2X8eA&sa=X&ved=2ahUKEwjws-yQuY2UAxUX38kDHWPrLswQ0pQJegQIEhAB' />
+	[27] (291,121)<div  />
+		[28] (291,130)<span >뉴스 />
+[29] (365,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n65z9ubTKdNcbWSWZyBniCZbNKmeQ:1777272803240&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWppEZjjXIKd5QsDgblCQ8rSlmwdFzunArKt_cm_P51I4YYssLqMkx8CNwGKZ6iwUWZgPEa2lvJX8Enbi_4YE7Nbzq2X8eA&q=YouTube+Shorts+channel+growth+case+study+names+0+to+100k+2026&sa=X&ved=2ahUKEwjws-yQuY2UAxUX38kDHWPrLswQs6gLegQIExAB' />
+	[30] (365,121)<div  />
+		[31] (365,130)<span >짧은 동영상 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+Based on 2026 data and case studies, the most successful YouTube Shorts channels growing from 0 to 100k subscribers are utilizing a
+"Hybrid Creator"
+strategy, combining high-frequency short-form content with long-form, topical videos to build loyalty.
+[43] (425,312)<button aria-label='InfluenceFlow - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	InfluenceFlow
+Here are the key approaches, strategies, and types of channels that are succeeding in 2026:
+Top 2026 Growth Strategies (0 to 100k)
+The Hybrid Model (Shorts + Long-Form):
+Channels that pair daily/weekly Shorts with at least one weekly long-form video grow 3x faster than single-format channels. Shorts act as the discovery engine (traffic), while long-form builds a loyal, monetizable audience.
+The "Niche Authority" Shift:
+Rather than broad "comedy" or "facts," successful channels focus on one specific niche, such as AI-assisted storytelling, "brain rot" culture, or specific product reviews, allowing them to attract a highly engaged audience faster.
+AI-Enhanced Storytelling:
+Creators are using AI tools (e.g., Sora for visuals, ChatGPT for scripting) to produce high-quality, emotionally resonant content, such as animal rescue narratives or unique historical anecdotes, which have high virality potential.
+Serial Content Consistency:
+Instead of random daily topics, channels create "seasons" or daily series (e.g., "Day 1 of trying to survive with $1"), which encourages viewers to subscribe to see the next installment.
+InfluenceFlow
++5
+This video explains how to use YouTube Shorts to grow your channel:
+[44] (793,304)<a aria-label='YouTube Shorts and Long-Form Video Strategy - InfluenceFlow. 새 탭에서 열립니다.' class='NDNGvf' href='https://influenceflow.io/resources/youtube-shorts-and-long-form-video-strategy-the-complete-2026-creators-guide-1/' />
+YouTube Shorts and Long-Form Video Strategy - InfluenceFlow
+2026. 3. 17. —
+Why YouTube Shorts and Long-Form Video Strategy Matters. The...
+InfluenceFlow
+[45] (931,359)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-5AfvaaDqBonOp84PprHVuAQ_7' role='button' />
+YouTube Channel Growth Case Studies (100K Subscribers)
+2025. 11. 5. —
+Months 1-6: Gained 2,500 subscribers with traditional recipe...
+elitewealthplan.com
+Want to start a YouTube channel but confused about what content to ...
+2026. 4. 14. —
+Want to start a YouTube channel but confused about what cont...
+Instagram
+·
+zinmatt_official
+모두 표시
+[46] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[47] (372,538)<div  />
+		[48] (372,538)<div >더보기 />
+			더보기
+			[49] (397,538)<span  />
+Web results
+[50] (319,661)<a class='zReHs' href='https://elitewealthplan.com/youtube-channel-growth-case-studies/' />
+	[51] (319,682)<h3 >YouTube Channel Growth Case Studies (100K Subscribers) />
+	[52] (221,644)<div  />
+		[53] (221,644)<div  />
+			[54] (57,644)<span  />
+				[55] (57,644)<div  />
+					[56] (57,644)<img  />
+			[57] (242,644)<div  />
+				[58] (242,635)<div  />
+					[59] (242,635)<span >elitewealthplan.com />
+				[60] (242,655)<div  />
+					[61] (242,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://elitewealthplan.com />
+						[62] (315,655)<span class='ylgVCe ob9lvb' role='text'>› youtube-channel-growth-c... />
+[63] (419,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[64] (419,654)<span  />
+		[65] (419,655)<span  />
+YouTube Channel Growth Case Studies
+: How 3 Creators Reached 100K Subscribers in Different Niches · Case Study #1: Alex Chen · Case Study #2: Maya Johnson · Case ...
+동영상
+[66] (133,793)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[67] (133,793)<span  />
+		[68] (133,794)<span  />
+[69] (471,872)<a class='rIRoqf' href='https://www.youtube.com/watch?v=kWkO8crwr6I' />
+	[70] (471,872)<div class='V5XKdd' role='heading' />
+		[71] (471,841)<div  />
+			[72] (439,841)<div  />
+				[73] (439,841)<span >How To Grow A Channel From 0 Subs In 2026 (Complete ... />
+		[74] (471,893)<div  />
+			[75] (471,893)<div  />
+				[76] (471,881)<span  />
+					[77] (247,881)<span >YouTube />
+					[78] (328,881)<span >Marcus Jones />
+						[79] (280,881)<span >· />
+				[80] (471,904)<div  />
+					[81] (238,904)<span >1주 전 />
+[82] (400,880)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[83] (400,880)<span  />
+		[84] (400,881)<span  />
+[85] (120,872)<div aria-label='Marcus Jones님이 YouTube에 게시한 How To Grow A Channel From 0 Subs In 2026 (Complete .... Google에서 재생. 26:45' class='rIRoqf hXY9cf' role='button' />
+	[86] (120,872)<div  />
+		[87] (120,872)<div  />
+			[88] (75,897)<div  />
+				[89] (75,897)<span >26:45 />
+			[90] (178,847)<div  />
+				[91] (178,847)<span  />
+How To Grow A YouTube Channel From 0 Subs In 2026 (Full ...
+[92] (247,995)<span >YouTube />
+[93] (309,995)<span >Belmont />
+	[94] (280,995)<span >· />
+[95] (363,994)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[96] (363,994)<span  />
+		[97] (363,995)<span  />
+[98] (120,986)<div aria-label='Belmont님이 YouTube에 게시한 How To Grow A YouTube Channel From 0 Subs In 2026 (Full .... Google에서 재생. 36:10' class='rIRoqf hXY9cf' role='button' />
+	[99] (120,986)<div  />
+		[100] (120,986)<div  />
+			[101] (178,961)<div  />
+				[102] (178,961)<span  />
+[103] (802,641)<div  />
+	[104] (802,641)<img  />
+[105] (884,641)<div >AI에게 질문하기 />
+	[106] (833,641)<img  />
+검색 에이전트
+[107] (829,683)<div  />
+	[108] (803,683)<img  />
+	[109] (840,683)<span >4o mini />
+[110] (912,683)<div  />
+	[111] (886,683)<img  />
+	[112] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[113] (872,970)<div  />
+	[114] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

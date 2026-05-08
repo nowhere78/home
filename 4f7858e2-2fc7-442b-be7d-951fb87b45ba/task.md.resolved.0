@@ -1,0 +1,15 @@
+# Alpha Agent 'Soul' Upgrade Task List
+
+- [ ] Modify `alpha_memory.py` to include interaction logging
+    - [ ] Update `_load` to initialize `interaction_log`
+    - [ ] Add `add_interaction` method
+    - [ ] Add `get_recent_interactions` method
+- [ ] Upgrade `telegram_listener.py`
+    - [ ] Initialize `AlphaNarrativeMemory` in `TelegramListener`
+    - [ ] Add `성찰` and `보고` command handling
+    - [ ] Integrate novel context and interaction history into the chat loop
+    - [ ] Save interaction to memory after each response
+- [ ] Verification
+    - [ ] Verify `memory_stream.json` structure
+    - [ ] Test Telegram interaction context awareness
+    - [ ] Test `성찰` command

@@ -1,0 +1,134 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (154,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/RichardTang-Aden' />
+	[3] (154,34)<span  />
+		[4] (154,33)<font  />
+			[5] (154,33)<font >리차드탕-아덴 />
+[6] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[7] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (740,34)<span  />
+[11] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (967,34)<img  />
+사용자 탐색
+[17] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/RichardTang-Aden' />
+	[18] (33,81)<span  />
+	[19] (81,81)<span  />
+		[20] (81,81)<font  />
+			[21] (81,81)<font >개요 />
+[22] (205,81)<a class='prc-components-UnderlineItem-7fP-n' href='/RichardTang-Aden?tab=repositories' />
+	[23] (146,81)<span  />
+	[24] (203,81)<span  />
+		[25] (203,81)<font  />
+			[26] (203,81)<font >저장소 />
+	[27] (263,81)<span  />
+		[28] (263,81)<span  />
+			[29] (263,81)<font  />
+				[30] (263,81)<font >6 />
+		(
+		6
+		)
+[31] (338,81)<a class='prc-components-UnderlineItem-7fP-n' href='/RichardTang-Aden?tab=projects' />
+	[32] (307,81)<span  />
+	[33] (351,81)<span  />
+		[34] (351,81)<font  />
+			[35] (351,81)<font >프로젝트 />
+[36] (446,81)<a class='prc-components-UnderlineItem-7fP-n' href='/RichardTang-Aden?tab=packages' />
+	[37] (411,81)<span  />
+	[38] (458,81)<span  />
+		[39] (458,81)<font  />
+			[40] (458,81)<font >패키지 />
+[41] (567,81)<a class='prc-components-UnderlineItem-7fP-n' href='/RichardTang-Aden?tab=stars' />
+	[42] (522,81)<span  />
+	[43] (555,81)<span  />
+		[44] (555,81)<font  />
+			[45] (555,81)<font >별들 />
+	[46] (600,81)<span  />
+		[47] (600,81)<span  />
+			[48] (600,81)<font  />
+				[49] (600,81)<font >5천+ />
+		(
+		5천+
+		)
+[50] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/236647419?v=4' />
+	[51] (159,284)<img  />
+리차드탕-아덴
+[52] (159,496)<input aria-label='RichardTang-Aden을 팔로우하세요' class='btn btn-block' title='RichardTang-Aden을 팔로우하세요' />
+[53] (75,541)<a class='Link--secondary no-underline no-wrap' href='https://github.com/RichardTang-Aden?tab=followers' />
+	[54] (86,541)<font  />
+		[55] (68,541)<font >팔로워 />
+		[56] (108,541)<span  />
+			[57] (108,541)<font >318명 />
+·
+[58] (157,541)<a class='Link--secondary no-underline no-wrap' href='https://github.com/RichardTang-Aden?tab=following' />
+	[59] (157,541)<font >팔로잉 />
+[60] (211,541)<a class='Link--secondary no-underline no-wrap' href='https://github.com/RichardTang-Aden?tab=following' />
+	[61] (211,541)<span  />
+		[62] (211,541)<font >23.2 천명 />
+[63] (40,616)<a class='Link--primary mb-2' href='/RichardTang-Aden?tab=achievements' />
+	[64] (40,616)<font  />
+		[65] (40,616)<font >업적 />
+[66] (58,674)<a class='position-relative' href='/RichardTang-Aden?achievement=pair-extraordinaire&tab=achievements' />
+	[67] (58,672)<img  />
+[68] (125,674)<a class='position-relative' href='/RichardTang-Aden?achievement=pull-shark&tab=achievements' />
+	[69] (125,672)<img  />
+	[70] (143,696)<span  />
+		[71] (143,696)<font  />
+			[72] (143,696)<font >x2 />
+[73] (192,674)<a class='position-relative' href='/RichardTang-Aden?achievement=quickdraw&tab=achievements' />
+	[74] (192,672)<img  />
+[75] (92,757)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-c07a039c-81d8-41c7-8eb5-555d9bd865da' />
+	[76] (92,757)<span  />
+		[77] (92,757)<span  />
+			[78] (92,757)<font  />
+				[79] (92,757)<font >사용자 차단 또는 신고 />
+[80] (376,176)<a class='no-underline Link--primary' href='/RichardTang-Aden/RichardTang-Aden' />
+	[81] (376,176)<font  />
+		[82] (376,176)<font >리차드탕-아덴 />
+/
+README.md
+[83] (642,343)<a href='https://private-user-images.githubusercontent.com/222145683/547356178-76879f8e-0365-4a00-9f68-b1928720ce8f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcyNTg1NzQsIm5iZiI6MTc3NzI1ODI3NCwicGF0aCI6Ii8yMjIxNDU2ODMvNTQ3MzU2MTc4LTc2ODc5ZjhlLTAzNjUtNGEwMC05ZjY4LWIxOTI4NzIwY2U4Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyN1QwMjUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDFhOGI1M2YxZmM1YzNmMjY5ZGJmYzA1OGIwNWU1NWM3NjRiYjZkYzZkZTVhNzRjMzU4ODJjOTZhYjEyYTM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.C1t8iQ5m4OEtXpv9LMeB-E36pV7aoVz48AoAHaqppmo' />
+	[84] (642,275)<img  />
+Aden Hive는 빠르게 성장하고 있습니다.
+[85] (320,392)<a aria-label='Permalink: Aden Hive는 빠르게 성장하고 있습니다' class='anchor' href='#aden-hive-is-growing-fast' id='user-content-aden-hive-is-growing-fast' />
+[86] (414,443)<a href='https://github.com/adenhq/hive' />
+	[87] (414,443)<font  />
+		[88] (414,443)<font >약 15일 만에 GitHub 스타 />
+8,500개 이상 획득
+.
+저는
+프로덕션 환경을 위해 개발된 오픈소스 기반의 안정적인 에이전트 생성 프레임워크인
+Aden Hive 에 기여하고 있습니다.
+Hive는 다음과 같은 에이전트 생성에 중점을 둡니다.
+자율적으로 실행
+실패로부터 발전한다
+실제 비즈니스 프로세스를 실행합니다
+저는 생태계 내부에서 일하며 이러한 에이전트들이 어떻게 구축되고 현실 세계에서 어떻게 생존하는지를 결정하는 데 도움을 주고 있습니다.
+이 점을 일찍 알아차린다면, 당신은 앞서 나가는 겁니다.
+Aden Hive
+[89] (429,812)<a href='https://github.com/adenhq/hive' />
+	[90] (429,812)<font >Hive를 />
+확인해 보세요
+[91] (349,851)<a href='https://github.com/adenhq/hive' />
+	[92] (349,851)<font >Hive />
+의 에이전트 인프라가 나아갈 방향을 알고 싶다면
+Aden을
+팔로우하세요
+!
+[93] (362,890)<a href='https://discord.com/invite/MXE49hrKDk' />
+	[94] (362,890)<font >디스코드 />
+에서 저를 찾아보세요
+인기 있는 저장소
+로딩 중
+
+</current_dom>

@@ -1,0 +1,412 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (496,34)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (430,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[4] (430,34)<span  />
+			[5] (117,34)<span  />
+				[6] (117,34)<span >Automated Dropshipping AI />
+	[7] (820,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[8] (834,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_2e_' />
+	[9] (867,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_2j_' />
+		[10] (863,34)<span  />
+	[11] (892,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[12] (913,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[13] (934,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[14] (955,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[15] (976,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[16] (976,34)<img  />
+[17] (496,870)<div  />
+	저장소 검색 결과 · 자동 드롭쉬핑 AI
+	[18] (77,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+		필터 기준
+		[19] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=code' id='_r_4_' />
+			[20] (79,148)<span  />
+				[21] (66,148)<span  />
+					[22] (32,148)<font  />
+						[23] (32,148)<font >암호 />
+				18.3k
+				(
+				18.3k
+				)
+				결과
+		[24] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=repositories' id='_r_5_' />
+			[25] (79,182)<span  />
+				[26] (69,182)<span  />
+					[27] (35,181)<font  />
+						[28] (35,181)<font >저장소 />
+				20
+				(
+				20
+				)
+				결과
+		[29] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=issues' id='_r_6_' />
+			[30] (79,216)<span  />
+				[31] (70,216)<span  />
+					[32] (35,215)<font  />
+						[33] (35,215)<font >문제점 />
+				18
+				(
+				18
+				)
+				결과
+		[34] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=pullrequests' id='_r_7_' />
+			[35] (79,250)<span  />
+				[36] (69,250)<span  />
+					[37] (43,249)<font  />
+						[38] (43,249)<font >풀 리퀘스트 />
+				47
+				(
+				47
+				)
+				결과
+		[39] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=discussions' id='_r_8_' />
+			[40] (79,284)<span  />
+				[41] (71,284)<span  />
+					[42] (32,283)<font  />
+						[43] (32,283)<font >토론 />
+				1
+				(
+				1
+				)
+				결과
+		[44] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI&type=users' id='_r_9_' />
+			[45] (79,317)<span  />
+				[46] (71,317)<span  />
+					[47] (35,317)<font  />
+						[48] (35,317)<font >사용자 />
+				1
+				(
+				1
+				)
+				결과
+		[49] (73,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+			[50] (79,351)<span  />
+				[51] (79,351)<span  />
+					[52] (28,351)<font  />
+						[53] (28,351)<font >더 />
+		언어
+		[54] (73,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3APython&type=repositories&s=updated&o=desc' id='_r_c_' />
+			[55] (78,435)<span  />
+				[56] (78,435)<span  />
+					[57] (78,435)<div  />
+						[58] (78,435)<div  />
+							[59] (32,434)<font  />
+								[60] (32,434)<font >파이썬 />
+		[61] (73,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3ATypeScript&type=repositories&s=updated&o=desc' id='_r_d_' />
+			[62] (78,469)<span  />
+				[63] (78,469)<span  />
+					[64] (78,469)<div  />
+						[65] (78,469)<div  />
+							[66] (42,468)<font  />
+								[67] (42,468)<font >타입스크립트 />
+		[68] (73,503)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3AJavaScript&type=repositories&s=updated&o=desc' id='_r_e_' />
+			[69] (78,503)<span  />
+				[70] (78,503)<span  />
+					[71] (78,503)<div  />
+						[72] (78,503)<div  />
+							[73] (42,502)<font  />
+								[74] (42,502)<font >자바스크립트 />
+		[75] (73,537)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3ACSS&type=repositories&s=updated&o=desc' id='_r_f_' />
+			[76] (78,537)<span  />
+				[77] (78,537)<span  />
+					[78] (78,537)<div  />
+						[79] (78,537)<div  />
+							[80] (28,536)<font  />
+								[81] (28,536)<font >CSS />
+		[82] (73,570)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3AHTML&type=repositories&s=updated&o=desc' id='_r_g_' />
+			[83] (78,570)<span  />
+				[84] (78,570)<span  />
+					[85] (78,570)<div  />
+						[86] (78,570)<div  />
+							[87] (31,570)<font  />
+								[88] (31,570)<font >HTML />
+		[89] (73,604)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=Automated+Dropshipping+AI+language%3AJupyter+Notebook&type=repositories&s=updated&o=desc' id='_r_h_' />
+			[90] (78,604)<span  />
+				[91] (78,604)<span  />
+					[92] (78,604)<div  />
+						[93] (78,604)<div  />
+							[94] (43,604)<font  />
+								[95] (43,604)<font >주피터 노트북 />
+		[96] (73,638)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_i_' />
+			[97] (79,638)<span  />
+				[98] (79,638)<span  />
+					[99] (79,638)<div  />
+						[100] (46,638)<font  />
+							[101] (46,638)<font >더 많은 언어... />
+		고급의
+		[102] (73,722)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+			[103] (79,722)<span  />
+				[104] (79,722)<span  />
+					[105] (79,722)<div  />
+						[106] (79,722)<div  />
+							[107] (35,721)<font  />
+								[108] (35,721)<font >소유자 />
+		[109] (73,756)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+			[110] (79,756)<span  />
+				[111] (79,756)<span  />
+					[112] (79,756)<div  />
+						[113] (79,756)<div  />
+							[114] (32,755)<font  />
+								[115] (32,755)<font >크기 />
+		[116] (73,789)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+			[117] (79,789)<span  />
+				[118] (79,789)<span  />
+					[119] (79,789)<div  />
+						[120] (79,789)<div  />
+							[121] (39,789)<font  />
+								[122] (39,789)<font >팔로워 수 />
+		[123] (73,823)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_n_' />
+			[124] (79,823)<span  />
+				[125] (79,823)<span  />
+					[126] (79,823)<div  />
+						[127] (79,823)<div  />
+							[128] (43,823)<font  />
+								[129] (43,823)<font >포크의 개수 />
+		[130] (73,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+			[131] (79,857)<span  />
+				[132] (79,857)<span  />
+					[133] (79,857)<div  />
+						[134] (79,857)<div  />
+							[135] (39,857)<font  />
+								[136] (39,857)<font >별의 개수 />
+		[137] (73,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+			[138] (79,891)<span  />
+				[139] (79,891)<span  />
+					[140] (79,891)<div  />
+						[141] (79,891)<div  />
+							[142] (35,890)<font  />
+								[143] (35,890)<font >생성일 />
+		[144] (73,925)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+			[145] (79,925)<span  />
+				[146] (79,925)<span  />
+					[147] (79,925)<div  />
+						[148] (79,925)<div  />
+							[149] (60,924)<font  />
+								[150] (60,924)<font >날짜가 변경되었습니다 />
+		[151] (73,959)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_r_' />
+			[152] (79,959)<span  />
+				[153] (79,959)<span  />
+					[154] (79,959)<div  />
+						[155] (79,959)<div  />
+							[156] (32,958)<font  />
+								[157] (32,958)<font >주제 />
+		[158] (73,993)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_s_' />
+			[159] (79,993)<span  />
+				[160] (79,993)<span  />
+					[161] (79,993)<div  />
+						[162] (79,993)<div  />
+							[163] (32,992)<font  />
+								[164] (32,992)<font >특허 />
+	[165] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	20개 결과
+	(
+	166ms
+	)
+	20개 결과
+	[166] (660,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_15_' />
+		[167] (656,99)<span  />
+			[168] (656,99)<span  />
+				[169] (634,99)<span  />
+					[170] (634,99)<font  />
+						[171] (634,99)<font >정렬 기준: />
+				[172] (670,99)<font  />
+					[173] (670,99)<font >최근 업데이트됨 />
+	[174] (727,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[175] (727,99)<span  />
+			[176] (727,99)<span  />
+				[177] (727,99)<div  />
+					[178] (732,99)<font  />
+						[179] (732,99)<font >구하다 />
+	[180] (757,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1f_' />
+	[181] (277,162)<a class='prc-Link-Link-9ZwDx' href='/adrianohenriqueuna-pixel/printkk-agent-skill' />
+		[182] (277,161)<span  />
+			[183] (277,161)<font  />
+				[184] (277,161)<font >adrianohenriqueuna-pixel/printkk-agent-skill />
+	AI
+	코딩 에이전트를 PrintKK API에
+	연결하여
+	이미지 관리, 디자인 생성, 주문 처리 및 제품 카탈로그 조회를
+	자동화하세요 .
+	[185] (196,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ecommerce' />
+		[186] (196,221)<font  />
+			[187] (196,221)<font >전자상거래 />
+	[188] (236,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/dropshipping' />
+		[189] (236,221)<font  />
+			[190] (236,221)<font >드롭쉬핑 />
+	[191] (277,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/print-on-demand' />
+		[192] (277,221)<font  />
+			[193] (277,221)<font >주문형 인쇄 />
+	[194] (328,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/dropshipping-automation' />
+		[195] (328,221)<font  />
+			[196] (328,221)<font >드롭쉬핑 자동화 />
+	[197] (382,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/agent-skills' />
+		[198] (382,221)<font  />
+			[199] (382,221)<font >에이전트 스킬 />
+	[200] (183,252)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/adrianohenriqueuna-pixel/printkk-agent-skill/stargazers' />
+		[201] (189,252)<span  />
+			[202] (189,252)<font  />
+				[203] (189,252)<font >0 />
+	·
+	업데이트됨
+	1시간 전
+	[204] (742,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[205] (742,168)<span  />
+			[206] (748,168)<span  />
+				[207] (748,167)<font  />
+					[208] (748,167)<font >별 />
+	[209] (263,329)<a class='prc-Link-Link-9ZwDx' href='/PrathamITHub/dsers-mcp-product-py' />
+		[210] (263,329)<span  />
+			[211] (263,329)<font  />
+				[212] (263,329)<font >PrathamITHub/dsers-mcp-product-py />
+	Python MCP 서버를 사용하여
+	AI
+	기반으로 AliExpress에서 DSers 제품 가져오기, 대량 옵션 수정 및 Shopify 푸시를
+	자동화하세요.
+	[213] (190,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python' />
+		[214] (190,388)<font  />
+			[215] (190,388)<font >파이썬 />
+	[216] (219,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/mcp' />
+		[217] (219,388)<font  />
+			[218] (219,388)<font >mcp />
+	[219] (251,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/shopify' />
+		[220] (251,388)<font  />
+			[221] (251,388)<font >쇼피파이 />
+	[222] (289,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/stdio' />
+		[223] (289,388)<font  />
+			[224] (289,388)<font >스튜디오 />
+	[225] (335,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/aliexpress' />
+		[226] (335,388)<font  />
+			[227] (335,388)<font >알리익스프레스 />
+	파이썬
+	·
+	[228] (220,420)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/PrathamITHub/dsers-mcp-product-py/stargazers' />
+		[229] (226,420)<span  />
+			[230] (226,420)<font  />
+				[231] (226,420)<font >0 />
+	·
+	업데이트됨
+	1시간 전
+	[232] (742,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[233] (742,335)<span  />
+			[234] (748,335)<span  />
+				[235] (748,335)<font  />
+					[236] (748,335)<font >별 />
+	[237] (256,496)<a class='prc-Link-Link-9ZwDx' href='/uszefapromo-hub/qualitet-market' />
+		[238] (256,496)<span  />
+			[239] (256,496)<font  />
+				[240] (256,496)<font >uszefapromo-hub/qualitet-market />
+	QualitetMarket은
+	공급업체, 판매자 및 크리에이터를 연결하는
+	AI 기반 마켓플레이스 플랫폼입니다.
+	드롭쉬핑
+	,
+	자동화된
+	제품 배송 등에 최적화되어 있습니다.
+	자바스크립트
+	·
+	[241] (237,551)<a aria-label='별 1개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/uszefapromo-hub/qualitet-market/stargazers' />
+		[242] (243,551)<span  />
+			[243] (243,551)<font  />
+				[244] (243,551)<font >1 />
+	·
+	업데이트됨
+	14일 전
+	[245] (742,503)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[246] (742,503)<span  />
+			[247] (748,503)<span  />
+				[248] (748,502)<font  />
+					[249] (748,502)<font >별 />
+	[250] (242,628)<a class='prc-Link-Link-9ZwDx' href='/headdira/omnitrack-ai-operation' />
+		[251] (242,627)<span  />
+			[252] (225,627)<font  />
+				[253] (225,627)<font >헤드디라/옴니트랙 />
+			[254] (266,627)<em  />
+				[255] (266,627)<font  />
+					[256] (266,627)<font >-AI- />
+			[257] (283,627)<font  />
+				[258] (283,627)<font >운영 />
+	OmniTrack
+	AI
+	- 자율
+	드롭쉬핑
+	운영.
+	Agno Agents와 Netlify를 통해
+	자동화되었습니다 .
+	[259] (183,682)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/headdira/omnitrack-ai-operation/stargazers' />
+		[260] (189,682)<span  />
+			[261] (189,682)<font  />
+				[262] (189,682)<font >0 />
+	·
+	업데이트됨
+	17일 전
+	[263] (742,634)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[264] (742,634)<span  />
+			[265] (748,634)<span  />
+				[266] (748,633)<font  />
+					[267] (748,633)<font >별 />
+	[268] (230,759)<a class='prc-Link-Link-9ZwDx' href='/Ryon003/Up-shipper' />
+		[269] (230,758)<span  />
+			[270] (230,758)<font  />
+				[271] (230,758)<font >Ryon003/상위 배송자 />
+	업쉬퍼(Up-shipper)는 광고 분석, 제품 조사, 공급업체 마켓플레이스를
+	모두 갖춘 올인원
+	드롭쉬핑 플랫폼입니다. 사용자는 다음을 찾을 수 있습니다…
+	타입스크립트
+	·
+	[272] (237,813)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Ryon003/Up-shipper/stargazers' />
+		[273] (243,813)<span  />
+			[274] (243,813)<font  />
+				[275] (243,813)<font >0 />
+	·
+	업데이트됨
+	22일 전
+	[276] (742,765)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[277] (742,765)<span  />
+			[278] (748,765)<span  />
+				[279] (748,764)<font  />
+					[280] (748,764)<font >별 />
+	[281] (265,890)<a class='prc-Link-Link-9ZwDx' href='/popstarpopstar08-ship-it/kogis-visions' />
+		[282] (265,889)<span  />
+			[283] (265,889)<font  />
+				[284] (265,889)<font >popstarpopstar08-ship-it/kogis-visions />
+	Kogis Visions —
+	AI
+	디렉터가 포함된 완전
+	자동화
+	드롭쉬핑
+	비즈니스
+	파이썬
+	·
+	[285] (220,944)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/popstarpopstar08-ship-it/kogis-visions/stargazers' />
+		[286] (226,944)<span  />
+			[287] (226,944)<font  />
+				[288] (226,944)<font >0 />
+	·
+	업데이트됨
+	25일 전
+	[289] (742,896)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[290] (742,896)<span  />
+			[291] (748,896)<span  />
+				[292] (748,896)<font  />
+					[293] (748,896)<font >별 />
+	여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+	기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+	[294] (878,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+		[295] (831,312)<font  />
+			[296] (831,312)<font >후원 가능한 프로젝트를 살펴보세요 />
+	검색 기능을 어떻게 개선할 수 있을까요?
+	[297] (918,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+		[298] (918,386)<span  />
+			[299] (918,386)<font  />
+				[300] (918,386)<font >피드백을 제공하세요 />
+	꿀팁!
+	누르세요
+	/
+	검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

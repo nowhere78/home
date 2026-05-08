@@ -1,0 +1,232 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (275,2)<a aria-label='generate_modes_txt_20250407_223319.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250407_223319.log' title='generate_modes_txt_20250407_223319.log' />
+	[1] (275,2)<font  />
+		[2] (275,2)<font >generate_modes_txt_20250407_223319.log />
+[3] (387,2)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+	[4] (387,2)<font  />
+		[5] (387,2)<font >자원 />
+벨
+[6] (419,45)<tr  />
+	[7] (275,46)<a aria-label='generate_modes_txt_20250408_030250.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250408_030250.log' title='generate_modes_txt_20250408_030250.log' />
+		[8] (275,46)<font  />
+			[9] (275,46)<font >generate_modes_txt_20250408_030250.log />
+	[10] (387,46)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[11] (387,46)<font  />
+			[12] (387,46)<font >자원 />
+	벨
+[13] (419,88)<tr  />
+	[14] (275,89)<a aria-label='generate_modes_txt_20250408_031751.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250408_031751.log' title='generate_modes_txt_20250408_031751.log' />
+		[15] (275,89)<font  />
+			[16] (275,89)<font >generate_modes_txt_20250408_031751.log />
+	[17] (387,89)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[18] (387,89)<font  />
+			[19] (387,89)<font >자원 />
+	벨
+[20] (419,132)<tr  />
+	[21] (275,132)<a aria-label='generate_modes_txt_20250408_033613.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250408_033613.log' title='generate_modes_txt_20250408_033613.log' />
+		[22] (275,132)<font  />
+			[23] (275,132)<font >generate_modes_txt_20250408_033613.log />
+	[24] (387,132)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[25] (387,132)<font  />
+			[26] (387,132)<font >자원 />
+	벨
+[27] (419,175)<tr  />
+	[28] (275,176)<a aria-label='generate_modes_txt_20250409_002327.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250409_002327.log' title='generate_modes_txt_20250409_002327.log' />
+		[29] (275,176)<font  />
+			[30] (275,176)<font >generate_modes_txt_20250409_002327.log />
+	[31] (387,176)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[32] (387,176)<font  />
+			[33] (387,176)<font >자원 />
+	벨
+[34] (419,219)<tr  />
+	[35] (275,219)<a aria-label='generate_modes_txt_20250409_012508.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250409_012508.log' title='generate_modes_txt_20250409_012508.log' />
+		[36] (275,219)<font  />
+			[37] (275,219)<font >generate_modes_txt_20250409_012508.log />
+	[38] (387,219)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[39] (387,219)<font  />
+			[40] (387,219)<font >자원 />
+	벨
+[41] (419,262)<tr  />
+	[42] (275,262)<a aria-label='generate_modes_txt_20250409_034115.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250409_034115.log' title='generate_modes_txt_20250409_034115.log' />
+		[43] (275,262)<font  />
+			[44] (275,262)<font >generate_modes_txt_20250409_034115.log />
+	[45] (387,262)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8afc092308e724f2f541e381582e829e8319c3c7' title='자원' />
+		[46] (387,262)<font  />
+			[47] (387,262)<font >자원 />
+	벨
+[48] (419,305)<tr  />
+	[49] (275,306)<a aria-label='generate_modes_txt_20250409_044704.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250409_044704.log' title='generate_modes_txt_20250409_044704.log' />
+		[50] (275,306)<font  />
+			[51] (275,306)<font >generate_modes_txt_20250409_044704.log />
+	[52] (387,306)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/3d0b710c6a511ac59b979908388e510e44066d2e' title='자원' />
+		[53] (387,306)<font  />
+			[54] (387,306)<font >자원 />
+	벨
+[55] (419,349)<tr  />
+	[56] (275,349)<a aria-label='generate_modes_txt_20250409_122820.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250409_122820.log' title='generate_modes_txt_20250409_122820.log' />
+		[57] (275,349)<font  />
+			[58] (275,349)<font >generate_modes_txt_20250409_122820.log />
+	[59] (394,349)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/8a9359e41dbcfabb91a1cef0cd0eb4cec67d96e8' title='움직이는' />
+		[60] (394,349)<font  />
+			[61] (394,349)<font >움직이는 />
+	벨
+[62] (419,392)<tr  />
+	[63] (275,393)<a aria-label='generate_modes_txt_20250410_235959.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250410_235959.log' title='generate_modes_txt_20250410_235959.log' />
+		[64] (275,393)<font  />
+			[65] (275,393)<font >generate_modes_txt_20250410_235959.log />
+	[66] (390,393)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ea3fa99032bda3bfb5e1e24d9c8c80ee33d80a6c' title='제거됨' />
+		[67] (390,393)<font  />
+			[68] (390,393)<font >제거됨 />
+	벨
+[69] (419,435)<tr  />
+	[70] (275,436)<a aria-label='generate_modes_txt_20250411_013735.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250411_013735.log' title='generate_modes_txt_20250411_013735.log' />
+		[71] (275,436)<font  />
+			[72] (275,436)<font >generate_modes_txt_20250411_013735.log />
+	[73] (390,436)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ea3fa99032bda3bfb5e1e24d9c8c80ee33d80a6c' title='제거됨' />
+		[74] (390,436)<font  />
+			[75] (390,436)<font >제거됨 />
+	벨
+[76] (419,479)<tr  />
+	[77] (275,479)<a aria-label='generate_modes_txt_20250412_234505.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250412_234505.log' title='generate_modes_txt_20250412_234505.log' />
+		[78] (275,479)<font  />
+			[79] (275,479)<font >generate_modes_txt_20250412_234505.log />
+	[80] (394,479)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/b6f2639dfa47e31a91ab21e4d8b19fdb6288c4a1' title='추가하다' />
+		[81] (394,479)<font  />
+			[82] (394,479)<font >추가하다 />
+	벨
+[83] (419,522)<tr  />
+	[84] (275,523)<a aria-label='generate_modes_txt_20250423_054946.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250423_054946.log' title='generate_modes_txt_20250423_054946.log' />
+		[85] (275,523)<font  />
+			[86] (275,523)<font >generate_modes_txt_20250423_054946.log />
+	[87] (387,523)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[88] (387,523)<font  />
+			[89] (387,523)<font >비프 />
+	벨
+[90] (419,566)<tr  />
+	[91] (275,566)<a aria-label='generate_modes_txt_20250423_065356.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250423_065356.log' title='generate_modes_txt_20250423_065356.log' />
+		[92] (275,566)<font  />
+			[93] (275,566)<font >generate_modes_txt_20250423_065356.log />
+	[94] (387,566)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[95] (387,566)<font  />
+			[96] (387,566)<font >비프 />
+	벨
+[97] (419,609)<tr  />
+	[98] (275,610)<a aria-label='generate_modes_txt_20250424_163649.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250424_163649.log' title='generate_modes_txt_20250424_163649.log' />
+		[99] (275,610)<font  />
+			[100] (275,610)<font >generate_modes_txt_20250424_163649.log />
+	[101] (387,610)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[102] (387,610)<font  />
+			[103] (387,610)<font >비프 />
+	벨
+[104] (419,652)<tr  />
+	[105] (275,653)<a aria-label='generate_modes_txt_20250426_075909.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250426_075909.log' title='generate_modes_txt_20250426_075909.log' />
+		[106] (275,653)<font  />
+			[107] (275,653)<font >generate_modes_txt_20250426_075909.log />
+	[108] (387,653)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[109] (387,653)<font  />
+			[110] (387,653)<font >비프 />
+	벨
+[111] (419,696)<tr  />
+	[112] (275,696)<a aria-label='generate_modes_txt_20250426_081013.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250426_081013.log' title='generate_modes_txt_20250426_081013.log' />
+		[113] (275,696)<font  />
+			[114] (275,696)<font >generate_modes_txt_20250426_081013.log />
+	[115] (387,696)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[116] (387,696)<font  />
+			[117] (387,696)<font >비프 />
+	벨
+[118] (419,739)<tr  />
+	[119] (275,740)<a aria-label='generate_modes_txt_20250427_170539.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_170539.log' title='generate_modes_txt_20250427_170539.log' />
+		[120] (275,740)<font  />
+			[121] (275,740)<font >generate_modes_txt_20250427_170539.log />
+	[122] (387,740)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[123] (387,740)<font  />
+			[124] (387,740)<font >비프 />
+	벨
+[125] (419,783)<tr  />
+	[126] (275,783)<a aria-label='generate_modes_txt_20250427_183317.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_183317.log' title='generate_modes_txt_20250427_183317.log' />
+		[127] (275,783)<font  />
+			[128] (275,783)<font >generate_modes_txt_20250427_183317.log />
+	[129] (387,783)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[130] (387,783)<font  />
+			[131] (387,783)<font >비프 />
+	벨
+[132] (419,826)<tr  />
+	[133] (275,826)<a aria-label='generate_modes_txt_20250427_190101.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_190101.log' title='generate_modes_txt_20250427_190101.log' />
+		[134] (275,826)<font  />
+			[135] (275,826)<font >generate_modes_txt_20250427_190101.log />
+	[136] (387,826)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[137] (387,826)<font  />
+			[138] (387,826)<font >비프 />
+	벨
+[139] (419,869)<tr  />
+	[140] (275,870)<a aria-label='generate_modes_txt_20250427_194350.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_194350.log' title='generate_modes_txt_20250427_194350.log' />
+		[141] (275,870)<font  />
+			[142] (275,870)<font >generate_modes_txt_20250427_194350.log />
+	[143] (387,870)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[144] (387,870)<font  />
+			[145] (387,870)<font >비프 />
+	벨
+[146] (419,913)<tr  />
+	[147] (275,913)<a aria-label='generate_modes_txt_20250427_194637.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_194637.log' title='generate_modes_txt_20250427_194637.log' />
+		[148] (275,913)<font  />
+			[149] (275,913)<font >generate_modes_txt_20250427_194637.log />
+	[150] (387,913)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[151] (387,913)<font  />
+			[152] (387,913)<font >비프 />
+	벨
+[153] (419,956)<tr  />
+	[154] (275,957)<a aria-label='generate_modes_txt_20250427_195624.log, (파일)' class='Link--primary' href='/mind-protocol/kinos10/blob/main/generate_modes_txt_20250427_195624.log' title='generate_modes_txt_20250427_195624.log' />
+		[155] (275,957)<font  />
+			[156] (275,957)<font >generate_modes_txt_20250427_195624.log />
+	[157] (387,957)<a class='Link--secondary' href='/mind-protocol/kinos10/commit/ee58ef7045b58232d77434fa316aec09b0ab4fc2' title='비프' />
+		[158] (387,957)<font  />
+			[159] (387,957)<font >비프 />
+	벨
+generate_modes_txt_20250427_200000.log
+비프
+벨
+[160] (683,32)<a class='mr-2' href='https://github.com/nlr-ai' />
+	[161] (683,32)<img  />
+[162] (712,32)<a class='Link--primary no-underline flex-self-center' href='https://github.com/nlr-ai' />
+	[163] (705,32)<strong  />
+		[164] (705,32)<font  />
+			[165] (705,32)<font >nlr-ai />
+	[166] (722,32)<span  />
+		[167] (722,32)<font  />
+			[168] (722,32)<font >NLR />
+언어
+[169] (699,161)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/kinos10/search?l=python' />
+	[170] (696,161)<span  />
+		[171] (696,161)<font  />
+			[172] (696,161)<font >파이썬 />
+	[173] (715,161)<span  />
+		[174] (715,161)<font  />
+			[175] (715,161)<font >81.4% />
+[176] (765,161)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/kinos10/search?l=javascript' />
+	[177] (764,161)<span  />
+		[178] (764,161)<font  />
+			[179] (764,161)<font >자바스크립트 />
+	[180] (789,161)<span  />
+		[181] (789,161)<font  />
+			[182] (789,161)<font >9.8% />
+[183] (694,184)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/kinos10/search?l=css' />
+	[184] (693,184)<span  />
+		[185] (693,184)<font  />
+			[186] (693,184)<font >CSS />
+	[187] (707,184)<span  />
+		[188] (707,184)<font  />
+			[189] (707,184)<font >4.9% />
+[190] (746,184)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/kinos10/search?l=html' />
+	[191] (745,184)<span  />
+		[192] (745,184)<font  />
+			[193] (745,184)<font >HTML />
+	[194] (762,184)<span  />
+		[195] (762,184)<font  />
+			[196] (762,184)<font >3.7% />
+다른
+0.2%
+
+</current_dom>

@@ -1,0 +1,164 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (77,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/alirezarezvani' />
+	[3] (77,34)<span >alirezarezvani />
+[4] (144,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/alirezarezvani/claude-code-tresor' />
+	[5] (144,34)<span >claude-code-tresor />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (96,80)<span >(
+1
+) />
+		[26] (96,80)<span >1 />
+		(
+		1
+		)
+[27] (141,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/pulls' />
+	[28] (117,80)<span  />
+	[29] (147,80)<span >Pull requests />
+[30] (198,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/agents?author=nowhere78' />
+	[31] (185,80)<span  />
+	[32] (205,80)<span >Agents />
+[33] (247,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/actions' />
+	[34] (233,80)<span  />
+	[35] (254,80)<span >Actions />
+[36] (298,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/projects' />
+	[37] (283,80)<span  />
+	[38] (304,80)<span >Projects />
+[39] (369,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/security' />
+	[40] (334,80)<span  />
+	[41] (375,80)<span >Security and quality />
+[42] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/alirezarezvani/claude-code-tresor/pulse' />
+	[43] (424,80)<span  />
+	[44] (446,80)<span >Insights />
+[45] (245,139)<a class='d-block overflow-x-hidden color-fg-default' href='/alirezarezvani/claude-code-tresor'>claude-code-tresor />
+Public
+[46] (630,138)<button aria-label='Sponsor alirezarezvani/claude-code-tresor' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-alirezarezvani-claude-code-tresor' />
+	[47] (630,138)<span  />
+		[48] (630,138)<span  />
+			[49] (636,137)<span >Sponsor />
+[50] (685,138)<a class='btn-sm btn BtnGroup-item' href='/alirezarezvani/claude-code-tresor/fork' id='fork-button'>Fork />
+	[51] (700,138)<span >160 />
+[52] (723,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1057848324' />
+	[53] (723,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[54] (765,138)<button aria-label='Star this repository (704)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[55] (763,138)<span >Star />
+	[56] (780,138)<span >704 />
+[57] (804,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1057848324-unstarred-button' />
+alirezarezvani/claude-code-tresor
+[58] (211,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[59] (211,215)<span  />
+		[60] (205,215)<span  />
+			[61] (205,215)<div  />
+				[62] (194,215)<div  />
+				[63] (210,215)<div  />
+					[64] (210,215)<span >main />
+[65] (266,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/alirezarezvani/claude-code-tresor/branches' />
+	[66] (266,215)<span  />
+		[67] (272,215)<span >Branches />
+[68] (306,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/alirezarezvani/claude-code-tresor/tags' />
+	[69] (306,215)<span  />
+		[70] (312,215)<span >Tags />
+Add file
+[71] (569,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[72] (569,215)<span  />
+		[73] (569,215)<span  />
+			[74] (569,215)<span >Add file />
+[75] (626,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[76] (626,215)<span  />
+		[77] (626,215)<span >Code />
+Folders and files
+Latest commit
+History
+[78] (621,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/alirezarezvani/claude-code-tresor/commits/main/' />
+	[79] (621,277)<span  />
+		[80] (626,277)<span  />
+			[81] (626,276)<span >37 Commits />
+[82] (419,326)<tr  />
+	[83] (226,327)<a aria-label='.cursor/plans, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/.cursor/plans' title='This path skips through empty directories' />
+		[84] (218,327)<span >.cursor/ />
+		[85] (239,327)<span >plans />
+[86] (217,370)<a aria-label='.github, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/.github' title='.github'>.github />
+[87] (216,414)<a aria-label='agents, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/agents' title='agents'>agents />
+[88] (223,457)<a aria-label='commands, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/commands' title='commands'>commands />
+[89] (213,501)<a aria-label='docs, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/docs' title='docs'>docs />
+[90] (230,544)<a aria-label='documentation, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/documentation' title='documentation'>documentation />
+[91] (221,587)<a aria-label='examples, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/examples' title='examples'>examples />
+[92] (219,631)<a aria-label='prompts, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/prompts' title='prompts'>prompts />
+[93] (216,674)<a aria-label='scripts, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/scripts' title='scripts'>scripts />
+[94] (213,717)<a aria-label='skills, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/skills' title='skills'>skills />
+[95] (221,761)<a aria-label='standards, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/standards' title='standards'>standards />
+[96] (222,804)<a aria-label='subagents, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/subagents' title='subagents'>subagents />
+[97] (221,848)<a aria-label='validation, (Directory)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/tree/main/validation' title='validation'>validation />
+[98] (221,891)<a aria-label='.gitignore, (File)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/blob/main/.gitignore' title='.gitignore'>.gitignore />
+[99] (237,934)<a aria-label='ARCHITECTURE.md, (File)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/blob/main/ARCHITECTURE.md' title='ARCHITECTURE.md'>ARCHITECTURE.md />
+[100] (233,978)<a aria-label='CHANGELOG.md, (File)' class='Link--primary' href='/alirezarezvani/claude-code-tresor/blob/main/CHANGELOG.md' title='CHANGELOG.md'>CHANGELOG.md />
+About
+A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow
+[101] (718,395)<a class='text-bold' href='https://alirezarezvani.com' role='link' title='https://alirezarezvani.com'>alirezarezvani.com />
+Topics
+[102] (690,436)<a class='topic-tag topic-tag-link' href='/topics/agents' title='Topic: agents'>agents />
+[103] (738,436)<a class='topic-tag topic-tag-link' href='/topics/anthropic-claude' title='Topic: anthropic-claude'>anthropic-claude />
+[104] (706,466)<a class='topic-tag topic-tag-link' href='/topics/agentic-workflow' title='Topic: agentic-workflow'>agentic-workflow />
+[105] (758,466)<a class='topic-tag topic-tag-link' href='/topics/agentic-ai' title='Topic: agentic-ai'>agentic-ai />
+[106] (698,495)<a class='topic-tag topic-tag-link' href='/topics/claude-code' title='Topic: claude-code'>claude-code />
+[107] (762,495)<a class='topic-tag topic-tag-link' href='/topics/agent-development-kit' title='Topic: agent-development-kit'>agent-development-kit />
+[108] (702,525)<a class='topic-tag topic-tag-link' href='/topics/agentic-coding' title='Topic: agentic-coding'>agentic-coding />
+Resources
+[109] (695,570)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[110] (700,600)<a class='Link--muted' href='#MIT-1-ov-file'>MIT license />
+Contributing
+[111] (703,631)<a class='Link--muted' href='#contributing-ov-file'>Contributing />
+[112] (694,662)<a class='Link Link--muted' href='/alirezarezvani/claude-code-tresor/activity' />
+	[113] (701,662)<span >Activity />
+Stars
+[114] (697,693)<a class='Link Link--muted' href='/alirezarezvani/claude-code-tresor/stargazers'>stars />
+	[115] (696,693)<strong >704 />
+Watchers
+[116] (701,723)<a class='Link Link--muted' href='/alirezarezvani/claude-code-tresor/watchers'>watching />
+	[117] (693,723)<strong >18 />
+Forks
+[118] (697,754)<a class='Link Link--muted' href='/alirezarezvani/claude-code-tresor/forks'>forks />
+	[119] (695,754)<strong >160 />
+[120] (703,785)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Falirezarezvani%2Fclaude-code-tresor&report=alirezarezvani+%28user%29'>Report repository />
+[121] (698,843)<a class='Link--primary no-underline Link' href='/alirezarezvani/claude-code-tresor/releases'>Releases />
+	[122] (715,844)<span >2 />
+[123] (746,894)<a class='Link--primary d-flex no-underline' href='/alirezarezvani/claude-code-tresor/releases/tag/v2.6.0' />
+	[124] (752,894)<div  />
+		[125] (752,884)<div  />
+			[126] (738,884)<span >v2.6.0 - Quality Improvements & Design Category Transformation />
+			[127] (805,884)<span >Latest />
+		[128] (752,905)<div  />
+			[129] (710,905)<relative-time  />
+[130] (693,942)<a class='Link' href='/alirezarezvani/claude-code-tresor/releases'>+ 1 release />
+Sponsor this project
+
+</current_dom>

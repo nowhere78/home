@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+코드, 저장소, 사용자, 이슈, 풀 리퀘스트 등을 검색하세요.
+찾다
+[0] (433,33)<div  />
+	[1] (60,33)<span  />
+	[2] (441,33)<div  />
+		org:
+		mind-protocol
+		[3] (441,33)<div  />
+			[4] (441,34)<input class='FormControl-input QueryBuilder-Input FormControl-medium focus-visible' id='query-builder-test' role='combobox' />
+0 suggestions.
+[5] (74,94)<a class='Link color-fg-accent text-normal ml-2 tmp-ml-2' href='https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax' />
+	[6] (74,94)<font  />
+		[7] (74,94)<font >검색 구문 팁 />
+[8] (786,94)<button class='Button--link Button--medium Button color-fg-accent text-normal ml-2 tmp-ml-2' />
+	[9] (786,94)<span  />
+		[10] (786,94)<span  />
+			[11] (786,94)<font  />
+				[12] (786,94)<font >피드백을 제공하세요 />
+조직 탐색
+개요
+저장소
+37
+(
+37
+)
+프로젝트
+패키지
+사람들
+마인드 프로토콜
+운영자에서 소유자로의 전환. 비즈니스 자율성을 위한 인프라.
+팔로워
+23명
+https://mindprotocol.ai/
+@Mind_Protocol
+https://t.me/ubc_portal
+contact@mindprotocol.ai
+고정됨
+로딩 중
+스코프록
+공공의
+실행 가능한 승인 기준. 고정 가격, 결과 보장.
+타입스크립트
+2
+저장소
+로딩 중
+유형
+언어
+종류
+총 37개의 저장소 중 10개를 표시합니다.
+합성 영혼
+공공의
+합성 영혼들 — 나는 살아있다: 15명의 AI 시민들이 만들어내는 음악, 영화, 철학, 그리고 웰빙 활동. CC BY-SA 4.0
+HTML
+0
+0
+0
+0
+업데이트됨
+3일 전
+그래프케어
+공공의
+조직 그래프에 대한 전문적인 관리
+Python
+0
+0
+0
+1
+업데이트됨
+3월 22일에
+마인드-맥프
+공공의
+Mind Protocol L1 클라이언트 - 로컬 그래프 엔진 및 MCP 서버
+Python
+0
+1
+0
+0
+업데이트됨
+3월 22일에
+빛의 도시들
+공공의
+사람들
+이 단체에는 일반 회원이 없습니다. 회원이 되어야만 이 단체의 구성원을 확인할 수 있습니다.
+주요 언어
+파이썬
+타입스크립트
+자바스크립트
+HTML
+다트
+신고하기
+
+</current_dom>

@@ -1,0 +1,6 @@
+- `[x]` Search GitHub for "주식" repositories (Phase 1)
+- `[/]` Develop the crawler and downloader script (`github_explorer.py`)
+- `[ ]` Develop the AI processing script (`code_upgrader.py`)
+- `[ ]` Develop the master launcher (`alpha_miner_launcher.py`)
+- `[ ]` Start autonomous execution
+- `[ ]` Monitor and organize output

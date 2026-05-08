@@ -1,0 +1,463 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (125,34)<span  />
+			[5] (116,34)<span >awesome indie hacker stars: />
+			[6] (170,34)<span >>=50 />
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+[17] (500,602)<div  />
+	저장소 검색 결과 · 멋진 인디 해커 별점: 50점 이상
+	필터 기준
+	[18] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=code&sort=stars&order=desc' id='_r_4_' />
+		[19] (83,148)<span  />
+			[20] (75,148)<span  />
+				[21] (32,148)<font  />
+					[22] (32,148)<font >암호 />
+			2
+			(
+			2
+			)
+			결과
+	[23] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=repositories&sort=stars&order=desc' id='_r_5_' />
+		[24] (83,182)<span  />
+			[25] (75,182)<span  />
+				[26] (35,181)<font  />
+					[27] (35,181)<font >저장소 />
+			6
+			(
+			6
+			)
+			결과
+	[28] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=issues&sort=stars&order=desc' id='_r_6_' />
+		[29] (83,216)<span  />
+			[30] (74,216)<span  />
+				[31] (35,215)<font  />
+					[32] (35,215)<font >문제점 />
+			61
+			(
+			61
+			)
+			결과
+	[33] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=pullrequests&sort=stars&order=desc' id='_r_7_' />
+		[34] (83,250)<span  />
+			[35] (73,250)<span  />
+				[36] (43,249)<font  />
+					[37] (43,249)<font >풀 리퀘스트 />
+			25
+			(
+			25
+			)
+			결과
+	[38] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=discussions&sort=stars&order=desc' id='_r_8_' />
+		[39] (83,284)<span  />
+			[40] (75,284)<span  />
+				[41] (32,283)<font  />
+					[42] (32,283)<font >토론 />
+			0
+			(
+			0
+			)
+			결과
+	[43] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50&type=users&sort=stars&order=desc' id='_r_9_' />
+		[44] (83,317)<span  />
+			[45] (75,317)<span  />
+				[46] (35,317)<font  />
+					[47] (35,317)<font >사용자 />
+			0
+			(
+			0
+			)
+			결과
+	[48] (77,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+		[49] (83,351)<span  />
+			[50] (83,351)<span  />
+				[51] (28,351)<font  />
+					[52] (28,351)<font >더 />
+	언어
+	[53] (77,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50+language%3AJavaScript&type=repositories&sort=stars&order=desc' id='_r_c_' />
+		[54] (82,435)<span  />
+			[55] (82,435)<span  />
+				[56] (82,435)<div  />
+					[57] (82,435)<div  />
+						[58] (42,434)<font  />
+							[59] (42,434)<font >자바스크립트 />
+	[60] (77,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50+language%3ATypeScript&type=repositories&sort=stars&order=desc' id='_r_d_' />
+		[61] (82,469)<span  />
+			[62] (82,469)<span  />
+				[63] (82,469)<div  />
+					[64] (82,469)<div  />
+						[65] (42,468)<font  />
+							[66] (42,468)<font >타입스크립트 />
+	[67] (77,503)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_e_' />
+		[68] (83,503)<span  />
+			[69] (83,503)<span  />
+				[70] (83,503)<div  />
+					[71] (46,502)<font  />
+						[72] (46,502)<font >더 많은 언어... />
+	고급의
+	[73] (77,586)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_g_' />
+		[74] (83,586)<span  />
+			[75] (83,586)<span  />
+				[76] (83,586)<div  />
+					[77] (83,586)<div  />
+						[78] (35,586)<font  />
+							[79] (35,586)<font >소유자 />
+	[80] (77,620)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_h_' />
+		[81] (83,620)<span  />
+			[82] (83,620)<span  />
+				[83] (83,620)<div  />
+					[84] (83,620)<div  />
+						[85] (32,620)<font  />
+							[86] (32,620)<font >크기 />
+	[87] (77,654)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_i_' />
+		[88] (83,654)<span  />
+			[89] (83,654)<span  />
+				[90] (83,654)<div  />
+					[91] (83,654)<div  />
+						[92] (39,653)<font  />
+							[93] (39,653)<font >팔로워 수 />
+	[94] (77,688)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_j_' />
+		[95] (83,688)<span  />
+			[96] (83,688)<span  />
+				[97] (83,688)<div  />
+					[98] (83,688)<div  />
+						[99] (43,687)<font  />
+							[100] (43,687)<font >포크의 개수 />
+	[101] (77,722)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+		[102] (83,722)<span  />
+			[103] (83,722)<span  />
+				[104] (83,722)<div  />
+					[105] (83,722)<div  />
+						[106] (39,721)<font  />
+							[107] (39,721)<font >별의 개수 />
+	[108] (77,756)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+		[109] (83,756)<span  />
+			[110] (83,756)<span  />
+				[111] (83,756)<div  />
+					[112] (83,756)<div  />
+						[113] (35,755)<font  />
+							[114] (35,755)<font >생성일 />
+	[115] (77,789)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+		[116] (83,789)<span  />
+			[117] (83,789)<span  />
+				[118] (83,789)<div  />
+					[119] (83,789)<div  />
+						[120] (60,789)<font  />
+							[121] (60,789)<font >날짜가 변경되었습니다 />
+	[122] (77,823)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_n_' />
+		[123] (83,823)<span  />
+			[124] (83,823)<span  />
+				[125] (83,823)<div  />
+					[126] (83,823)<div  />
+						[127] (32,823)<font  />
+							[128] (32,823)<font >주제 />
+	[129] (77,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+		[130] (83,857)<span  />
+			[131] (83,857)<span  />
+				[132] (83,857)<div  />
+					[133] (83,857)<div  />
+						[134] (32,857)<font  />
+							[135] (32,857)<font >특허 />
+	[136] (77,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+		[137] (83,891)<span  />
+			[138] (83,891)<span  />
+				[139] (83,891)<div  />
+					[140] (83,891)<div  />
+						[141] (35,890)<font  />
+							[142] (35,890)<font >보관됨 />
+	[143] (77,925)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50+is%3Apublic&type=repositories&sort=stars&order=desc' id='_r_q_' />
+		[144] (83,925)<span  />
+			[145] (83,925)<span  />
+				[146] (83,925)<div  />
+					[147] (83,925)<div  />
+						[148] (35,924)<font  />
+							[149] (35,924)<font >공공의 />
+	[150] (77,959)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+indie+hacker+stars%3A%3E%3D50+is%3Aprivate&type=repositories&sort=stars&order=desc' id='_r_r_' />
+		[151] (83,959)<span  />
+			[152] (83,959)<span  />
+				[153] (83,959)<div  />
+					[154] (83,959)<div  />
+						[155] (35,958)<font  />
+							[156] (35,958)<font >사적인 />
+	고급 검색
+	[157] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	6개 결과
+	(
+	144ms
+	)
+	6개 결과
+	[158] (662,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_11_' />
+		[159] (658,99)<span  />
+			[160] (658,99)<span  />
+				[161] (633,99)<span  />
+					[162] (633,99)<font  />
+						[163] (633,99)<font >정렬 기준: />
+				[164] (672,99)<font  />
+					[165] (672,99)<font >가장 일치하는 항목 />
+	[166] (733,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[167] (733,99)<span  />
+			[168] (733,99)<span  />
+				[169] (733,99)<div  />
+					[170] (738,99)<font  />
+						[171] (738,99)<font >구하다 />
+	[172] (763,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1b_' />
+	[173] (256,162)<a class='prc-Link-Link-9ZwDx' href='/iAmCorey/awesome-indie-hacker-tools' />
+		[174] (256,161)<span  />
+			[175] (213,161)<font  />
+				[176] (213,161)<font >iAmCorey/ />
+			[177] (242,161)<em  />
+				[178] (242,161)<font  />
+					[179] (242,161)<font >멋진 />
+			[180] (254,161)<font  />
+				[181] (254,161)<font >- />
+			[182] (265,161)<em  />
+				[183] (265,161)<font  />
+					[184] (265,161)<font >인디 />
+			[185] (277,161)<font  />
+				[186] (277,161)<font >- />
+			[187] (291,161)<em  />
+				[188] (291,161)<font  />
+					[189] (291,161)<font >해커 - />
+			[190] (311,161)<font  />
+				[191] (311,161)<font >도구 />
+	独立开发/take海开发关技术栈及工具收录 / 여기에서
+	인디
+	해커를
+	위한 최고의 도구를 찾아보세요
+	[192] (194,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome-list' />
+		[193] (194,221)<font  />
+			[194] (194,221)<font >멋진 목록 />
+	[195] (235,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/indiehackers' />
+		[196] (235,221)<font  />
+			[197] (235,221)<font >인디해커스 />
+	[198] (275,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/indiehacker' />
+		[199] (275,221)<font  />
+			[200] (275,221)<font >인디해커 />
+	타입스크립트
+	·
+	[201] (241,252)<a aria-label='별 1328개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/iAmCorey/awesome-indie-hacker-tools/stargazers' />
+		[202] (247,252)<span  />
+			[203] (247,252)<font  />
+				[204] (247,252)<font >1.3k />
+	·
+	업데이트됨
+	3월 9일
+	[205] (748,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[206] (748,168)<span  />
+			[207] (754,168)<span  />
+				[208] (754,167)<font  />
+					[209] (754,167)<font >별 />
+	[210] (258,329)<a class='prc-Link-Link-9ZwDx' href='/XiaomingX/indie-hacker-tools-plus' />
+		[211] (258,329)<span  />
+			[212] (215,329)<font  />
+				[213] (215,329)<font >XiaomingX/ />
+			[214] (246,329)<em  />
+				[215] (246,329)<font  />
+					[216] (246,329)<font >인디 />
+			[217] (258,329)<font  />
+				[218] (258,329)<font >- />
+			[219] (270,329)<em  />
+				[220] (270,329)<font  />
+					[221] (270,329)<font >해커 />
+			[222] (300,329)<font  />
+				[223] (300,329)<font >-툴즈 플러스 />
+	为独立开发者准备的精选技术栈와工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具city是city场上热门的，经过验证的。🚀A 실제로 사용하도록 맞춤화된 엄선된 기술 스택 및 도구 컬렉션
+	[224] (190,411)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/github' />
+		[225] (190,411)<font  />
+			[226] (190,411)<font >깃허브 />
+	[227] (222,411)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/agent' />
+		[228] (222,411)<font  />
+			[229] (222,411)<font >대리인 />
+	[230] (252,411)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/aws' />
+		[231] (252,411)<font  />
+			[232] (252,411)<font >AWS />
+	[233] (282,411)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome' />
+		[234] (282,411)<font  />
+			[235] (282,411)<font >엄청난 />
+	[236] (317,411)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+		[237] (317,411)<font  />
+			[238] (317,411)<font >일체 포함 />
+	[239] (187,442)<a aria-label='1661개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/XiaomingX/indie-hacker-tools-plus/stargazers' />
+		[240] (193,442)<span  />
+			[241] (193,442)<font  />
+				[242] (193,442)<font >1.7k />
+	·
+	업데이트됨
+	3시간 전
+	[243] (748,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[244] (748,335)<span  />
+			[245] (754,335)<span  />
+				[246] (754,335)<font  />
+					[247] (754,335)<font >별 />
+	[248] (241,519)<a class='prc-Link-Link-9ZwDx' href='/johackim/awesome-indiehackers' />
+		[249] (241,518)<span  />
+			[250] (212,518)<font  />
+				[251] (212,518)<font >johackim/ />
+			[252] (239,518)<em  />
+				[253] (239,518)<font  />
+					[254] (239,518)<font >멋진 />
+			[255] (269,518)<font  />
+				[256] (269,518)<font >-인디해커스 />
+	인디
+	해커 에 대한
+	멋진
+	목록입니다.
+	[257] (190,578)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome' />
+		[258] (190,578)<font  />
+			[259] (190,578)<font >엄청난 />
+	[260] (222,578)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/hackers' />
+		[261] (222,578)<font  />
+			[262] (222,578)<font >해커들 />
+	[263] (251,578)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/indie' />
+		[264] (251,578)<font  />
+			[265] (251,578)<font >인디 />
+	[266] (277,578)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/saas' />
+		[267] (277,578)<font  />
+			[268] (277,578)<font >사스 />
+	[269] (309,578)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/freelance' />
+		[270] (309,578)<font  />
+			[271] (309,578)<font >프리랜서 />
+	[272] (187,609)<a aria-label='별 583개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/johackim/awesome-indiehackers/stargazers' />
+		[273] (193,609)<span  />
+			[274] (193,609)<font  />
+				[275] (193,609)<font >583 />
+	·
+	업데이트됨
+	3월 27일
+	[276] (705,525)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[277] (705,525)<span  />
+			[278] (711,525)<span  />
+				[279] (711,524)<font  />
+					[280] (711,524)<font >별 />
+	[281] (742,525)<button aria-label='johackim/awesome-indiehackers를 후원해 주세요.' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-johackim-awesome-indiehackers' />
+		[282] (742,525)<span  />
+			[283] (742,525)<span  />
+				[284] (748,524)<span  />
+					[285] (748,524)<font  />
+						[286] (748,524)<font >스폰서 />
+	[287] (248,686)<a class='prc-Link-Link-9ZwDx' href='/lincolixavier/awesome-indie-hackers' />
+		[288] (248,685)<span  />
+			[289] (217,685)<font  />
+				[290] (217,685)<font >lincolixavier/ />
+			[291] (250,685)<em  />
+				[292] (250,685)<font  />
+					[293] (250,685)<font >멋진 />
+			[294] (262,685)<font  />
+				[295] (262,685)<font >- />
+			[296] (276,685)<em  />
+				[297] (276,685)<font  />
+					[298] (276,685)<font >인디 - />
+			[299] (295,685)<font  />
+				[300] (295,685)<font >해커 />
+	Um lista de ferramentas e recursos pra você construir seu SaaS
+	[301] (187,740)<a aria-label='별 114개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/lincolixavier/awesome-indie-hackers/stargazers' />
+		[302] (193,740)<span  />
+			[303] (193,740)<font  />
+				[304] (193,740)<font >114 />
+	·
+	업데이트됨
+	29일 전
+	[305] (748,692)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[306] (748,692)<span  />
+			[307] (754,692)<span  />
+				[308] (754,691)<font  />
+					[309] (754,691)<font >별 />
+	[310] (252,817)<a class='prc-Link-Link-9ZwDx' href='/Alex0x47/awesome-indie-hackers-tools' />
+		[311] (252,816)<span  />
+			[312] (212,816)<font  />
+				[313] (212,816)<font >Alex0x47/ />
+			[314] (240,816)<em  />
+				[315] (240,816)<font  />
+					[316] (240,816)<font >멋진 />
+			[317] (251,816)<font  />
+				[318] (251,816)<font >- />
+			[319] (263,816)<em  />
+				[320] (263,816)<font  />
+					[321] (263,816)<font >인디 />
+			[322] (291,816)<font  />
+				[323] (291,816)<font >- 해커 도구 />
+	인디
+	개발자를 위한
+	훌륭한
+	도구
+	목록
+	[324] (185,871)<a aria-label='별 51개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Alex0x47/awesome-indie-hackers-tools/stargazers' />
+		[325] (191,871)<span  />
+			[326] (191,871)<font  />
+				[327] (191,871)<font >51 />
+	·
+	업데이트됨
+	2024년 12월 6일
+	[328] (748,823)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[329] (748,823)<span  />
+			[330] (754,823)<span  />
+				[331] (754,822)<font  />
+					[332] (754,822)<font >별 />
+	[333] (238,948)<a class='prc-Link-Link-9ZwDx' href='/s87343472/backlink-pilot' />
+		[334] (238,948)<span  />
+			[335] (238,948)<font  />
+				[336] (238,948)<font >s87343472/백링크 파일럿 />
+	인디
+	개발자를
+	위한 자동 백링크 제출 툴킷 — 디렉토리 사이트,
+	추천
+	목록, 검색 엔진
+	에 제품을 제출하세요 …
+	마케팅
+	오토메이션
+	서
+	백링크
+	멋진 목록
+	[337] (748,954)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[338] (748,954)<span  />
+			[339] (754,954)<span  />
+				[340] (754,954)<font  />
+					[341] (754,954)<font >별 />
+	멋진 목록들
+	멋진 목록은 커뮤니티에서 엄선한 멋진 것들의 목록입니다.
+	[342] (885,231)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/topics/awesome' id='_r_1r_' />
+		[343] (891,231)<span  />
+			[344] (891,231)<span  />
+				[345] (821,230)<font  />
+					[346] (821,230)<font >깃허브닷컴 />
+	[347] (885,265)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/sindresorhus/awesome' id='_r_1s_' />
+		[348] (891,265)<span  />
+			[349] (891,265)<span  />
+				[350] (835,264)<font  />
+					[351] (835,264)<font >신드레소르후스/멋진 />
+	[352] (885,298)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/topics/awesome' id='_r_1t_' />
+		[353] (891,298)<span  />
+			[354] (891,298)<span  />
+				[355] (818,298)<font  />
+					[356] (818,298)<font >주제 보기 />
+	여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+	기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+	[357] (885,531)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+		[358] (837,527)<font  />
+			[359] (837,527)<font >후원 가능한 프로젝트를 살펴보세요 />
+	검색 기능을 어떻게 개선할 수 있을까요?
+	[360] (923,601)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+		[361] (923,601)<span  />
+			[362] (923,601)<font  />
+				[363] (923,601)<font >피드백을 제공하세요 />
+	꿀팁!
+	누르세요
+	/
+	검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

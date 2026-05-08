@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='Awesome AGI, ASI, and Collective Intelligence' class='md-header__button md-logo' href='../..' title='Awesome AGI, ASI, and Collective Intelligence' />
+Awesome AGI, ASI, and Collective Intelligence
+[1] (549,28)<label class='md-header__button md-icon' title='Switch to light mode' />
+[2] (630,28)<input aria-label='Search' class='md-search__input' placeholder='Search' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='Go to repository' />
+	[4] (775,28)<div >nellaivijay/awesome-agi-aci-asi />
+		[5] (787,38)<ul  />
+			[6] (744,39)<li >7 />
+			[7] (760,39)<li >1 />
+[8] (171,85)<a class='md-tabs__link' href='../..'>Home />
+[9] (218,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/'>Understand />
+[10] (263,85)<a class='md-tabs__link' href='../frameworks/'>Build />
+[11] (312,85)<a class='md-tabs__link' href='../../infrastructure/llm-frameworks/'>Infrastructure />
+[12] (392,85)<a class='md-tabs__link' href='../../safety/safety-alignment/'>Safety & Governance />
+[13] (479,85)<a class='md-tabs__link' href='../../research/papers-blogs/'>Research & Learn />
+[14] (535,85)<a class='md-tabs__link' href='../../blog/'>Blog />
+[15] (566,85)<a class='md-tabs__link' href='../../tags/'>Tags />
+[16] (612,85)<a class='md-tabs__link' href='../../contributing/'>Contributing />
+Build
+[17] (219,285)<a class='md-nav__link' href='../frameworks/' />
+	[18] (217,285)<span >Frameworks and Platforms />
+[19] (219,325)<a class='md-nav__link' href='../agents/' />
+	[20] (179,325)<span >Agents />
+[21] (219,376)<a class='md-nav__link' href='../physical-ai/' />
+	[22] (219,376)<span >Physical AI & Embodied Intelligence />
+[23] (219,437)<a class='md-nav__link md-nav__link--active' href='./' />
+	[24] (220,437)<span >Paper-to-Code Automation />
+[25] (223,510)<a class='md-nav__link' href='#paper-to-code-automation_1' />
+	[26] (224,510)<span >Paper-to-Code Automation />
+Paper-to-Code Automation
+[27] (748,331)<a class='headerlink' href='#paper-to-code-automation' title='Permanent link' />
+The leap from research paper to working implementation is one of the biggest bottlenecks in AI progress. These tools automate the translation of academic papers into production-ready code repositories -- accelerating the research-to-engineering pipeline and democratizing access to frontier techniques.
+[28] (364,703)<a class='glightbox' href='https://img.shields.io/badge/Automation-Paper→Code-blue?style=flat-square' />
+	[29] (364,700)<img  />
+[30] (448,703)<a class='glightbox' href='https://img.shields.io/badge/Research-Implementation-green?style=flat-square' />
+	[31] (448,700)<img  />
+[32] (523,703)<a class='glightbox' href='https://img.shields.io/badge/Agentic-Multi--Step-purple?style=flat-square' />
+	[33] (523,700)<img  />
+Paper-to-Code Automation
+[34] (604,798)<a class='headerlink' href='#paper-to-code-automation_1' title='Permanent link' />
+Tool
+Description
+Links
+[35] (376,990)<a href='https://github.com/nellaivijay/Research2Repo'>Research2Repo />
+Multi-model agentic framework that converts ML research papers (PDFs) into production-ready GitHub repos. 4-stage decomposed planning, per-file analysis, self-refine loops, Docker sandbox with auto-debugging (19+ error types), CodeRAG for reference mining, and full DevOps generation (Dockerfile, CI, Makefile). Supports Gemini (2M context), GPT-4o/o3, Claude, and Ollama.
+GitHub
+
+</current_dom>

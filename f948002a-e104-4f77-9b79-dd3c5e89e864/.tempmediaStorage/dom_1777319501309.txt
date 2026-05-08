@@ -1,0 +1,201 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjdna6J546UAxVMna8BHb-dARsQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D2026%2B%25EC%25BF%25A0%25ED%258C%25A1%2B%25ED%258C%258C%25ED%258A%25B8%25EB%2584%2588%25EC%258A%25A4%2B%25EC%259C%25A0%25ED%258A%259C%25EB%25B8%258C%2B%25EC%2587%25BC%25EC%25B8%25A0%2B%25EC%2588%2598%25EC%259D%25B5%2B%25EA%25B7%25B9%25EB%258C%2580%25ED%2599%2594%2B%25EC%25A0%2584%25EB%259E%25B5%2B%25ED%258E%25B8%25EC%25A7%2591%2B%25ED%258A%25B8%25EB%25A0%258C%25EB%2593%259C&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (108,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%ED%8A%B8%EB%A0%8C%EB%93%9C&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaA_St-PJRPWsDV-mZWIuWGfOsS9lyJsgey5MVXil9DDva3OzXW92y720laJsz3rNqzo7A_ws0G-XW_3SAq85os9zHZ5H-o4QbRQ6nirglCu8rX4QFE84AM-UzDrIhyXVm18t-IetDXRLBDxEHgzj_yDKibm6eUVafkjro7hiM4qn561ZNk-tXL6Vw_MST4Y7BfxHGyw&sa=X&ved=2ahUKEwjdna6J546UAxVMna8BHb-dARsQ0pQJegQIFhAB' />
+	[18] (108,121)<div  />
+		[19] (108,130)<span >뉴스 />
+[20] (167,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaA_St-PJRPWsDV-mZWIuWGfOsS9lyJsgey5MVXil9DDva3OzXW92y720laJsz3rNqzo7A_ws0G-XW_3SAq85os9zHZ5H-o4QbRQ6nirglCu8rX4QFE84AM-UzDrIhyXVm18t-IetDXRLBDxEHgzj_yDKibm6eUVafkjro7hiM4qn561ZNk-tXL6Vw_MST4Y7BfxHGyw&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%ED%8A%B8%EB%A0%8C%EB%93%9C&sa=X&ved=2ahUKEwjdna6J546UAxVMna8BHb-dARsQtKgLegQIEhAB' />
+	[21] (167,121)<div  />
+		[22] (167,130)<span >동영상 />
+[23] (226,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaA_St-PJRPWsDV-mZWIuWGfOsS9lyJsgey5MVXil9DDva3OzXW92y720laJsz3rNqzo7A_ws0G-XW_3SAq85os9zHZ5H-o4QbRQ6nirglCu8rX4QFE84AM-UzDrIhyXVm18t-IetDXRLBDxEHgzj_yDKibm6eUVafkjro7hiM4qn561ZNk-tXL6Vw_MST4Y7BfxHGyw&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%ED%8A%B8%EB%A0%8C%EB%93%9C&ved=1t:220175&ictx=111' />
+	[24] (226,121)<div  />
+		[25] (226,130)<span >쇼핑 />
+[26] (284,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaA_St-PJRPWsDV-mZWIuWGfOsS9lyJsgey5MVXil9DDva3OzXW92y720laJsz3rNqzo7A_ws0G-XW_3SAq85os9zHZ5H-o4QbRQ6nirglCu8rX4QFE84AM-UzDrIhyXVm18t-IetDXRLBDxEHgzj_yDKibm6eUVafkjro7hiM4qn561ZNk-tXL6Vw_MST4Y7BfxHGyw&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%ED%8A%B8%EB%A0%8C%EB%93%9C&sa=X&ved=2ahUKEwjdna6J546UAxVMna8BHb-dARsQtKgLegQIFBAB' />
+	[27] (284,121)<div  />
+		[28] (284,130)<span >이미지 />
+[29] (365,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaA_St-PJRPWsDV-mZWIuWGfOsS9lyJsgey5MVXil9DDva3OzXW92y720laJsz3rNqzo7A_ws0G-XW_3SAq85os9zHZ5H-o4QbRQ6nirglCu8rX4QFE84AM-UzDrIhyXVm18t-IetDXRLBDxEHgzj_yDKibm6eUVafkjro7hiM4qn561ZNk-tXL6Vw_MST4Y7BfxHGyw&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%ED%8A%B8%EB%A0%8C%EB%93%9C&sa=X&ved=2ahUKEwjdna6J546UAxVMna8BHb-dARsQs6gLegQIFRAB' />
+	[30] (365,121)<div  />
+		[31] (365,130)<span >짧은 동영상 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+2026년 기준 유튜브 쇼츠와 쿠팡 파트너스를 연계한 수익화는 단순 조회수 수익을 넘어
+‘유튜브 쇼핑(제휴)’과 ‘커머스 전환’이 핵심
+입니다
+. AI 기술 발달로 얼굴 없이 하루 수십 개의 쇼츠를 생산할 수 있는 환경에서,
+‘시청 지속 시간’을 유지하는 스토리텔링과 ‘행동 유도(CTA)’
+가 수익을 극대화하는 핵심 전략입니다
+.
+[43] (110,338)<button aria-label='피카클립 외 3개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	피카클립
+	+3
+1. 2026 쿠팡 파트너스 쇼츠 수익 극대화 전략
+2026년에는 단순 조회수 기반 애드센스 수익보다 쿠팡 상품 태그(유튜브 쇼핑)를 통한 수수료 수익이 훨씬 높은 것으로 나타났습니다.
+YouTube
+구독자 0명부터 시작하는 쇼핑 쇼츠:
+구독자 수와 무관하게 제휴 상품을 쇼츠에 직접 태그하여 구매 전환을 일으킬 수 있습니다.
+고단가/생활 밀착형 큐레이션:
+1만원 미만 저가 상품보다는 3~5만원대 혹은 주기적으로 구매가 필요한 ‘생활/가전’ 제품이 전환율이 높습니다.
+AIO(AI-Optimized) 대본 및 3중 수익화:
+Sora 2.0, Suno v5 등의 AI 툴을 활용해 대본과 영상을 생성하고, YPP 광고 수익, 쿠팡 파트너스 수수료, 그리고 자체적인 AI 기반 음원 수익을 묶어 수익 파이프라인을 다각화합니다.
+쇼츠 → 연관 쇼츠/롱폼 연결:
+하나의 쇼츠로 끝나지 않고, 댓글이나 관련 영상 기능을 통해 다른 상품 리뷰 쇼츠나 롱폼 영상으로 트래픽을 유도하여 구매 전환율을 높입니다.
+오가닉 노출 극대화:
+해시태그는 제목에 3개 이내로 제한하고, 영상 내 텍스트와 음성, 댓글에 상품명 키워드를 배치하여 검색 및 추천 알고리즘을 공략합니다.
+피카클립
++4
+이 영상에서는 유튜브 쇼츠에 상품 태그를 다는 방법을 안내합니다:
+[44] (793,299)<a aria-label='조회수 낮아도 월급만큼 버는 법? 2026년 유튜브 수익 구조의 비밀. 새 탭에서 열립니다.' class='NDNGvf' href='https://www.youtube.com/watch?v=L9ETT4nWlqQ' />
+조회수 낮아도 월급만큼 버는 법? 2026년 유튜브 수익 구조의 비밀
+2026. 1. 12. —
+2026년 유튜브의 규칙이 완전히 바뀌어 가고 있습니다. 앞으로는 구독자 조회수 바탕으로 에드센스 수익만으로...
+[45] (867,283)<div class='nrdPJf' role='button' />
+	[46] (823,307)<div >5:44 />
+	[47] (867,283)<div  />
+		[48] (867,283)<div  />
+	[49] (922,258)<div  />
+		[50] (922,258)<div  />
+YouTube
+·
+유튜브신쌤
+[51] (931,347)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-R77vadrXKNbg2roP06_o6A0_9' role='button' />
+유튜브 조회수 수익의 한계? 2026년은 '유튜브 쇼핑'이 정답입니다
+2026. 4. 10. —
+“조회수는 터졌는데, 정산금은 왜 이렇죠?” 아마 많은 크리에이터분들이 공감하실 겁니다. 밤새워 편집한 영상...
+vpick.ai
+[2026 Latest] Shopping Shorts 🔥 Coupang Partners, available ...
+2026. 1. 23. —
+구독자 영명 쇼핑 쇼츠 30초 요약 인스타에서 제품을 선정하고 해당 영상 다운받기. 다운받은 영상으로 해당 ...
+0:32
+YouTube
+·
+사직인생 | 부산 AI 콘텐츠 마케팅 코칭
+모두 표시
+[52] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[53] (372,538)<div  />
+		[54] (372,538)<div >더보기 />
+			더보기
+			[55] (397,538)<span  />
+웹 검색결과
+[56] (327,661)<a class='zReHs' href='https://vpick.ai/blog/blog-article/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%A1%B0%ED%9A%8C%EC%88%98-%EC%88%98%EC%9D%B5%EC%9D%98-%ED%95%9C%EA%B3%84-2026%EB%85%84%EC%9D%80-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%87%BC%ED%95%91%EC%9D%B4-%EC%A0%95/' />
+	[57] (327,681)<h3 >유튜브 조회수 수익의 한계? 2026년은 '유튜브 쇼핑'이 정답입니다 />
+	[58] (206,644)<div  />
+		[59] (206,644)<div  />
+			[60] (57,644)<span  />
+				[61] (57,644)<div  />
+					[62] (57,644)<img  />
+			[63] (227,644)<div  />
+				[64] (227,635)<div  />
+					[65] (227,635)<span >vpick.ai />
+				[66] (227,655)<div  />
+					[67] (227,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://vpick.ai />
+						[68] (267,655)<span class='ylgVCe ob9lvb' role='text'>› blog › blog-article › 유튜브-조회수-... />
+[69] (391,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[70] (391,654)<span  />
+		[71] (391,655)<span  />
+2026. 4. 9.
+—
+특히 숏폼(Shorts)의 경우, 긴 영상(Long-form)에 비해 RPM(조회수 1,000회당
+수익
+)이 현저히 낮습니다.
+2026
+년 현재, 단순히 '조회수'만으로 의미 있는 ...
+[72] (312,816)<a class='zReHs' href='https://alphacut.video/blog/youtube-shorts-monetization-conditions-strategy-2026' />
+	[73] (312,835)<h3 >유튜브 쇼츠 수익화 조건부터 전략까지, 2026년 최신 총정리 ... />
+	[74] (146,799)<div  />
+		[75] (146,799)<div  />
+			[76] (57,799)<span  />
+				[77] (57,799)<div  />
+					[78] (57,799)<img  />
+			[79] (167,799)<div  />
+				[80] (167,789)<div  />
+					[81] (167,789)<span >Alphacut />
+				[82] (167,810)<div  />
+					[83] (167,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://alphacut.video />
+						[84] (226,810)<span class='ylgVCe ob9lvb' role='text'>› 블로그 />
+[85] (270,808)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[86] (270,808)<span  />
+		[87] (270,810)<span  />
+2026. 1. 19.
+—
+이 글에서는
+2026
+년 최신 기준
+유튜브 쇼츠 수익
+화의 모든 것을 정리했습니다. YPP 가입 조건, 4가지
+수익
+화 방식, 그리고
+수익
+을
+극대화
+하는 실전
+전략
+...
+4.8
+(5,798)
+누락된 검색어:
+트렌드
+‎| 필수 포함 항목:
+[88] (305,937)<a href='/search?newwindow=1&sca_esv=461cceef532bce02&sxsrf=ANbL-n55LnKBEFqmerHcl7-wjlao3EIzfQ:1777319495312&q=2026+%EC%BF%A0%ED%8C%A1+%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4+%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%9D%B5+%EA%B7%B9%EB%8C%80%ED%99%94+%EC%A0%84%EB%9E%B5+%ED%8E%B8%EC%A7%91+%22%ED%8A%B8%EB%A0%8C%EB%93%9C%22&sa=X&ved=2ahUKEwjdna6J546UAxVMna8BHb-dARsQ5t4CegQIJRAB' />
+	[89] (305,937)<span >트렌드 />
+[90] (215,990)<div  />
+	[91] (215,990)<span >티스토리 />
+[92] (802,641)<div  />
+	[93] (802,641)<img  />
+[94] (884,641)<div >AI에게 질문하기 />
+	[95] (833,641)<img  />
+검색 에이전트
+[96] (829,683)<div  />
+	[97] (803,683)<img  />
+	[98] (840,683)<span >4o mini />
+[99] (912,683)<div  />
+	[100] (886,683)<img  />
+	[101] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[102] (872,970)<div  />
+	[103] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

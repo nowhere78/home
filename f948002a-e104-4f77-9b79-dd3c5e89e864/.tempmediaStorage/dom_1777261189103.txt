@@ -1,0 +1,88 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%25BF%25A0%25ED%258C%25A1%2B%25EC%25A3%25BC%25EB%25B0%25A9%2B%25EC%258B%25A0%25EB%25B0%2595%25ED%2585%259C%2B2026%2Bbest%2Bsellers%2Bkitchen%2Bgadgets&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (108,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&ved=1t:220175&ictx=111' />
+	[18] (108,121)<div  />
+		[19] (108,130)<span >쇼핑 />
+[20] (167,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQtKgLegQIIBAB' />
+	[21] (167,121)<div  />
+		[22] (167,130)<span >이미지 />
+[23] (248,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQs6gLegQIHxAB' />
+	[24] (248,121)<div  />
+		[25] (248,130)<span >짧은 동영상 />
+[26] (329,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQtKgLegQIHhAB' />
+	[27] (329,121)<div  />
+		[28] (329,130)<span >동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6EasJA_87d5SduEJEFO1syPswNqQ:1777261181332&q=%EC%BF%A0%ED%8C%A1+%EC%A3%BC%EB%B0%A9+%EC%8B%A0%EB%B0%95%ED%85%9C+2026+best+sellers+kitchen+gadgets&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkVOLusaiCmu52eZOwG5ZtiKxOLjGb9k96py6HZnBQnUC4UhSRWmGWl3QHUfOtzntVZ10HW3m4s3iEzDlD2uUNxeBjxOHA&sa=X&ved=2ahUKEwjYsYvrjY2UAxX6T0EAHYtELLgQ0pQJegQIHRAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+2026년 기준 쿠팡에서 인기 있는 주방 신박템 및 베스트셀러 주방 가젯을 추천해 드립니다. 주방의 편리함을 극대화하고 시간을 절약해 주는 실용적인 아이템 위주로 구성했습니다.
+[2026 쿠팡 주방 신박템 베스트셀러]
+[43] (180,370)<a class='GI370e' href='https://www.google.com/search?q=%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%9D%BD+%EB%A0%8C%EC%A7%80%EC%BF%A1+%EC%B4%89%EC%B4%89%ED%95%9C+%ED%96%87%EB%B0%A5%EC%9A%A9%EA%B8%B0&mstk=AUtExfCtiiDWB1bNvYORVmZep8g3bP51KhDcrrxYc3Bvug8Mn83MwpKy7MvrThlC33HKHR3klq4De8eG3NuJL2moga1-D9eIOt2aY5cKIeXzhVCjH_YNB_UYJNN6RoSXp7RIQOCogYsKYXK0neTr_nFxgI4_G8V2aQMshRNCraXobgKbCAwiMF7D--UeAWWOODh6-GFnSCYFXiNaq4shaSS4HtmuljDIemw-PpMqtyeY4zpr0Di4mk1nIhlGZzRw__sNpJg&csui=3&ved=2ahUKEwiS_7rrjY2UAxUQQUEAHUHUC-sQgK4QegQIAxAB'>글라스락 렌지쿡 촉촉한 햇밥용기 />
+(무드브릭 등)
+특징:
+냉동 밥을 갓 지은 밥처럼 촉촉하게 데워주는 렌지 전용 용기.
+추천 이유:
+밀폐력이 뛰어나고 유리 소재라 환경호르몬 걱정 없이 위생적이며, 1인 가구 및 맞벌이 부부 필수템.
+[44] (152,519)<a class='GI370e' href='https://www.google.com/search?q=%EB%A6%BF%EC%B2%BC+TLI+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%B4%EC%9C%A0%EC%8A%A4%ED%91%BC&mstk=AUtExfCtiiDWB1bNvYORVmZep8g3bP51KhDcrrxYc3Bvug8Mn83MwpKy7MvrThlC33HKHR3klq4De8eG3NuJL2moga1-D9eIOt2aY5cKIeXzhVCjH_YNB_UYJNN6RoSXp7RIQOCogYsKYXK0neTr_nFxgI4_G8V2aQMshRNCraXobgKbCAwiMF7D--UeAWWOODh6-GFnSCYFXiNaq4shaSS4HtmuljDIemw-PpMqtyeY4zpr0Di4mk1nIhlGZzRw__sNpJg&csui=3&ved=2ahUKEwiS_7rrjY2UAxUQQUEAHUHUC-sQgK4QegQIAxAF'>릿첼 TLI 소프트이유스푼 />
+세트
+특징:
+부드러운 소재로 아기 입에 자극이 없고, 케이스가 포함되어 외출 시 편리함.
+추천 이유:
+이유식 초기 단계에서 엄마들 사이에서 롱런하는 베스트셀러.
+[45] (165,667)<a class='GI370e' href='https://www.google.com/search?q=%EC%8B%A4%EB%A6%AC%EC%BD%98+%EB%A7%88%EB%8A%98+%EB%8B%A4%EC%A7%80%EA%B8%B0%2F%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%84%9C&mstk=AUtExfCtiiDWB1bNvYORVmZep8g3bP51KhDcrrxYc3Bvug8Mn83MwpKy7MvrThlC33HKHR3klq4De8eG3NuJL2moga1-D9eIOt2aY5cKIeXzhVCjH_YNB_UYJNN6RoSXp7RIQOCogYsKYXK0neTr_nFxgI4_G8V2aQMshRNCraXobgKbCAwiMF7D--UeAWWOODh6-GFnSCYFXiNaq4shaSS4HtmuljDIemw-PpMqtyeY4zpr0Di4mk1nIhlGZzRw__sNpJg&csui=3&ved=2ahUKEwiS_7rrjY2UAxUQQUEAHUHUC-sQgK4QegQIAxAJ'>실리콘 마늘 다지기/슬라이서 />
+특징:
+손에 마늘 냄새를 묻히지 않고 순식간에 다지거나 슬라이스할 수 있는 도구.
+추천 이유:
+요리 시간 단축의 핵심 아이템.
+[46] (190,815)<a class='GI370e' href='https://www.google.com/search?q=%EB%AC%B4%EC%84%A0+%EC%95%BC%EC%B1%84+%EC%B5%B8%ED%8D%BC+%28%EB%AF%B8%EB%8B%88+%ED%91%B8%EB%93%9C+%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%29&mstk=AUtExfCtiiDWB1bNvYORVmZep8g3bP51KhDcrrxYc3Bvug8Mn83MwpKy7MvrThlC33HKHR3klq4De8eG3NuJL2moga1-D9eIOt2aY5cKIeXzhVCjH_YNB_UYJNN6RoSXp7RIQOCogYsKYXK0neTr_nFxgI4_G8V2aQMshRNCraXobgKbCAwiMF7D--UeAWWOODh6-GFnSCYFXiNaq4shaSS4HtmuljDIemw-PpMqtyeY4zpr0Di4mk1nIhlGZzRw__sNpJg&csui=3&ved=2ahUKEwiS_7rrjY2UAxUQQUEAHUHUC-sQgK4QegQIAxAN'>무선 야채 쵸퍼 (미니 푸드 프로세서) />
+특징:
+충전식으로 장소 제한 없이 사용 가능하며, 10초 내로 마늘, 양파, 야채를 다질 수 있음.
+추천 이유:
+볶음밥, 이유식, 찌개 요리 시 도마와 칼 사용을 최소화.
+[47] (199,963)<a class='GI370e' href='https://www.google.com/search?q=360%EB%8F%84+%ED%9A%8C%EC%A0%84+%EC%96%91%EB%85%90+%ED%86%B5+%EC%84%A0%EB%B0%98+%28%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4+%EB%9E%99%29&mstk=AUtExfCtiiDWB1bNvYORVmZep8g3bP51KhDcrrxYc3Bvug8Mn83MwpKy7MvrThlC33HKHR3klq4De8eG3NuJL2moga1-D9eIOt2aY5cKIeXzhVCjH_YNB_UYJNN6RoSXp7RIQOCogYsKYXK0neTr_nFxgI4_G8V2aQMshRNCraXobgKbCAwiMF7D--UeAWWOODh6-GFnSCYFXiNaq4shaSS4HtmuljDIemw-PpMqtyeY4zpr0Di4mk1nIhlGZzRw__sNpJg&csui=3&ved=2ahUKEwiS_7rrjY2UAxUQQUEAHUHUC-sQgK4QegQIAxAR'>360도 회전 양념 통 선반 (스파이스 랙) />
+특징:
+회전식으로 안쪽에 있는 양념병도 쉽게 꺼낼 수 있어 공간 활용도가 높음.
+[48] (793,304)<a aria-label='쿠팡이 추천하는 주방 BEST 상품 시크릿 쿠폰 기획전 관련 혜택 .... 새 탭에서 열립니다.' class='NDNGvf' href='https://pages.coupang.com/m/168515' />
+쿠팡이 추천하는 주방 BEST 상품 시크릿 쿠폰 기획전 관련 혜택 ...
+릿첼 TLI 소프트이유스푼 2종 + 케이스 세트, 혼합색상, 1세트. 10,800원. badge. 글라스락 ...
+쿠팡
+[49] (931,359)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-ftruaZLIBpCChbIPwaiv2A4_9' role='button' />
+
+</current_dom>

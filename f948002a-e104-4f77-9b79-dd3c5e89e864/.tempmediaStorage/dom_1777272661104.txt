@@ -1,0 +1,197 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiT5rnIuI2UAxXBN94AHUpTGWwQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DJustice%2BBuys%2BAmazon%2BStorefront%2Blink&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (108,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5_5oeMMdbXXwFQamjOW_kgFh5Urw:1777272651417&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=Justice+Buys+Amazon+Storefront+link&ved=1t:220175&ictx=111' />
+	[18] (108,121)<div  />
+		[19] (108,130)<span >쇼핑 />
+[20] (167,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5_5oeMMdbXXwFQamjOW_kgFh5Urw:1777272651417&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=Justice+Buys+Amazon+Storefront+link&sa=X&ved=2ahUKEwiT5rnIuI2UAxXBN94AHUpTGWwQtKgLegQIExAB' />
+	[21] (167,121)<div  />
+		[22] (167,130)<span >이미지 />
+[23] (232,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5_5oeMMdbXXwFQamjOW_kgFh5Urw:1777272651417&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=Justice+Buys+Amazon+Storefront+link&sa=X&ved=2ahUKEwiT5rnIuI2UAxXBN94AHUpTGWwQtKgLegQIERAB' />
+	[24] (232,121)<div  />
+		[25] (232,130)<span >동영상 />
+[26] (313,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5_5oeMMdbXXwFQamjOW_kgFh5Urw:1777272651417&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=Justice+Buys+Amazon+Storefront+link&sa=X&ved=2ahUKEwiT5rnIuI2UAxXBN94AHUpTGWwQs6gLegQIEhAB' />
+	[27] (313,121)<div  />
+		[28] (313,130)<span >짧은 동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5_5oeMMdbXXwFQamjOW_kgFh5Urw:1777272651417&q=Justice+Buys+Amazon+Storefront+link&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&sa=X&ved=2ahUKEwiT5rnIuI2UAxXBN94AHUpTGWwQ0pQJegQIEBAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+Web results
+[42] (197,214)<a class='zReHs' href='https://www.amazon.com/shop/justicethetutor' />
+	[43] (101,235)<h3 >Justice Buys />
+	[44] (197,198)<div  />
+		[45] (197,198)<div  />
+			[46] (57,198)<span  />
+				[47] (57,198)<div  />
+					[48] (57,198)<img  />
+			[49] (218,198)<div  />
+				[50] (218,188)<div  />
+					[51] (218,188)<span >Amazon.com />
+				[52] (218,208)<div  />
+					[53] (218,208)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.amazon.com />
+						[54] (287,208)<span class='ylgVCe ob9lvb' role='text'>› shop › justicethetutor />
+[55] (372,207)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (372,207)<span  />
+		[57] (372,208)<span  />
+Official @justicebuys Amazon Storefront
+1,000+ products reviewed Bringing you the quirkiest, coolest finds I can get my hands on!
+[58] (675,235)<a href='https://www.amazon.com/shop/justicethetutor' />
+	[59] (675,235)<div  />
+		[60] (675,235)<img  />
+[61] (210,369)<a class='zReHs' href='https://www.amazon.com/shop/justicethetutor/list/KL4OZ9BFWATH' />
+	[62] (176,390)<h3 >Justice Buys's Amazon Page />
+	[63] (210,353)<div  />
+		[64] (210,353)<div  />
+			[65] (57,353)<span  />
+				[66] (57,353)<div  />
+					[67] (57,353)<img  />
+			[68] (231,353)<div  />
+				[69] (231,343)<div  />
+					[70] (231,343)<span >Amazon.com />
+				[71] (231,364)<div  />
+					[72] (231,364)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.amazon.com />
+						[73] (301,364)<span class='ylgVCe ob9lvb' role='text'>› shop › justicethetutor › list />
+[74] (399,362)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[75] (399,362)<span  />
+		[76] (399,364)<span  />
+Shop recommended products from Justice Buys on www.amazon.com
+. Learn more about Justice Buys's favorite products.
+[77] (675,390)<a href='https://www.amazon.com/shop/justicethetutor/list/KL4OZ9BFWATH' />
+	[78] (675,390)<div  />
+		[79] (675,390)<img  />
+[80] (210,524)<a class='zReHs' href='https://www.amazon.com/shop/justicethetutor/list/1X3MUA5F08D4X' />
+	[81] (176,545)<h3 >Justice Buys's Amazon Page />
+	[82] (210,508)<div  />
+		[83] (210,508)<div  />
+			[84] (57,508)<span  />
+				[85] (57,508)<div  />
+					[86] (57,508)<img  />
+			[87] (231,508)<div  />
+				[88] (231,498)<div  />
+					[89] (231,498)<span >Amazon.com />
+				[90] (231,519)<div  />
+					[91] (231,519)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.amazon.com />
+						[92] (301,519)<span class='ylgVCe ob9lvb' role='text'>› shop › justicethetutor › list />
+[93] (399,518)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[94] (399,518)<span  />
+		[95] (399,519)<span  />
+Shop recommended products from Justice Buys on www.amazon.com
+. Learn more about Justice Buys's favorite products.
+[96] (675,545)<a href='https://www.amazon.com/shop/justicethetutor/list/1X3MUA5F08D4X' />
+	[97] (675,545)<div  />
+		[98] (675,545)<img  />
+[99] (142,680)<a class='zReHs' href='https://www.justicebuys.com/' />
+	[100] (101,700)<h3 >Justice Buys />
+	[101] (142,663)<div  />
+		[102] (142,663)<div  />
+			[103] (57,663)<span  />
+				[104] (57,663)<div  />
+					[105] (57,663)<img  />
+			[106] (163,663)<div  />
+				[107] (163,654)<div  />
+					[108] (163,654)<span >Justice Buys />
+				[109] (163,674)<div  />
+					[110] (163,674)<cite class='tjvcx GvPZzd cHaqb' role='text'>https://www.justicebuys.com />
+[111] (262,673)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[112] (262,673)<span  />
+		[113] (262,674)<span  />
+Amazon finds, product reviews, and exclusive deals
+from viral videos on @justicebuys (TikTok, Instagram, YouTube, & Facebook)
+[114] (210,835)<a class='zReHs' href='https://www.amazon.com/shop/justicethetutor/list/1E5I3LFK9NLJT' />
+	[115] (176,855)<h3 >Justice Buys's Amazon Page />
+	[116] (210,818)<div  />
+		[117] (210,818)<div  />
+			[118] (57,818)<span  />
+				[119] (57,818)<div  />
+					[120] (57,818)<img  />
+			[121] (231,818)<div  />
+				[122] (231,809)<div  />
+					[123] (231,809)<span >Amazon.com />
+				[124] (231,829)<div  />
+					[125] (231,829)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.amazon.com />
+						[126] (301,829)<span class='ylgVCe ob9lvb' role='text'>› shop › justicethetutor › list />
+[127] (399,828)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[128] (399,828)<span  />
+		[129] (399,829)<span  />
+Shop recommended products from Justice Buys on www.amazon.com
+. Learn more about Justice Buys's favorite products.
+[130] (183,990)<a class='zReHs' href='https://www.facebook.com/justicebuysreview/' />
+	[131] (143,973)<div  />
+		[132] (143,973)<div  />
+			[133] (57,973)<span  />
+				[134] (57,973)<div  />
+					[135] (57,973)<img  />
+			[136] (164,973)<div  />
+				[137] (164,964)<div  />
+					[138] (164,964)<span >Facebook · Justice Buys />
+				[139] (164,984)<div  />
+					[140] (137,984)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>팔로어 3.2천명 이상 />
+[141] (265,983)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[142] (265,983)<span  />
+		[143] (265,984)<span  />
+[144] (802,195)<div  />
+	[145] (802,195)<img  />
+[146] (884,195)<div >AI에게 질문하기 />
+	[147] (833,195)<img  />
+[148] (964,195)<img  />
+검색 에이전트
+[149] (829,236)<div  />
+	[150] (803,236)<img  />
+	[151] (840,236)<span >4o mini />
+[152] (912,236)<div  />
+	[153] (886,236)<img  />
+	[154] (923,236)<span >GPT-4o />
+[155] (969,236)<img  />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[156] (872,524)<div  />
+	[157] (872,524)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+[158] (951,562)<a >지금 로그인 />
+[159] (814,653)<img  />
+[160] (995,648)<p >GPT-4o로 온라인 강좌를 5초 만에 요약하세요. />
+Monica를 사용하여 YouTube 비디오를 몇 초 만에 요약하고 질문을 통해 콘텐츠를 맞춤 설정하여 더 빨리 더 많은 것을 발견하세요!
+[161] (868,742)<span >무료 설치 />
+
+</current_dom>

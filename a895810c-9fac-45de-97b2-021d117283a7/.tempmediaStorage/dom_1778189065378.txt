@@ -1,0 +1,65 @@
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (340,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (347,25)<span  />
+		[13] (347,25)<font  />
+			[14] (347,25)<font >MIT 라이선스 />
+[15] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[16] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+빠른 시작
+온라인으로 시도해 보세요
+[17] (232,90)<a href='https://openreel.video' />
+	[18] (232,90)<font  />
+		[19] (232,90)<font >openreel.video를 />
+방문하여
+바로 편집을 시작하세요.
+로컬에서 실행
+[20] (193,141)<a aria-label='고유 링크: 로컬에서 실행' class='anchor' href='#run-locally' id='user-content-run-locally' />
+#
+Clone the repository
+git clone https://github.com/Augani/openreel-video.git
+cd
+openreel-video
+#
+Install dependencies (requires Node.js 18+)
+pnpm install
+#
+Start development server
+pnpm dev
+#
+Open http://localhost:5173
+[21] (626,195)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+프로덕션용으로 빌드
+[22] (193,473)<a aria-label='영구 링크: 프로덕션 환경용으로 빌드' class='anchor' href='#build-for-production' id='user-content-build-for-production' />
+pnpm build
+pnpm preview
+[23] (626,527)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+브라우저 요구 사항
+[24] (193,649)<a aria-label='고유 링크: 브라우저 요구 사항' class='anchor' href='#browser-requirements' id='user-content-browser-requirements' />
+브라우저
+버전
+상태
+크롬
+94세 이상
+전폭적인 지원
+가장자리
+94세 이상
+전폭적인 지원
+파이어폭스
+130개 이상
+전폭적인 지원
+원정 여행
+16.4+
+전폭적인 지원
+이제 모든 주요 브라우저는 하드웨어 가속 비디오 인코딩/디코딩을 위한 WebCodecs를 지원합니다.
+추천:

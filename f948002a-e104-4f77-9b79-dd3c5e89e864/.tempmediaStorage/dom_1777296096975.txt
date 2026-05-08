@@ -1,0 +1,200 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+This 7-day automated email sequence is designed for a high-ticket B2B financial SaaS, focusing on building authority, establishing trust, and encouraging a consultative demo rather than an immediate, impulsive purchase.
+High-ticket financial SaaS requires educational content that positions the tool as an investment rather than an expense.
+The 7-Day High-Ticket Finance Sequence
+Goal:
+Book a 15-min discovery call.
+Target Persona:
+CFO, VP of Finance, or Finance Director.
+Day 1: The "Aha Moment" Lead Magnet Delivery
+Subject:
+Here is the [Report Name/Tool] for [Company Name]
+Body:
+Keep it short. Deliver the promised resource (whitepaper, ROI calculator, template) immediately. Position it as a way to solve a specific, expensive problem (e.g., "manual reconciliation errors" or "forecasting inaccuracies").
+CTA:
+No hard sell. Just, "Let me know if this helps."
+Day 2: The "Expensive Problem" (Education)
+Subject:
+The hidden cost of [Problem]
+Body:
+Explain the cost of inaction. In finance, this is about risk, lost revenue, or inefficient capital allocation. Use specific figures.
+Goal:
+Establish authority and make them realize their current process is costing them money.
+Day 3: The "Social Proof" (Case Study)
+Subject:
+How [Customer] reduced [Risk/Cost] by [X%]
+Body:
+Share a brief case study, preferably from a similar company in the same industry. Highlight the metrics and outcomes to reduce doubt.
+Goal:
+Build credibility and trust.
+Day 4: Soft Pitch - The "Aha Moment" Product Focus
+Subject:
+A new way to handle [Finance Task]
+Body:
+Introduce how your SaaS solves the problem mentioned on Day 2. Focus on the benefit, not the feature (e.g., "Automated reconciliation" vs. "Gain 10 hours back per week").
+[0] (581,190)<a aria-label='How to craft a winning email sequence | Jeremy Basset posted on .... 새 탭에서 열립니다.' class='NDNGvf' href='https://www.linkedin.com/posts/jeremybasset_how-to-create-an-excellent-email-sequence-activity-7338470362608791553-AuYt' />
+How to craft a winning email sequence | Jeremy Basset posted on ...
+2025. 6. 11. —
+P.S. Skip the images, links, and fancy formatting. \(at leas...
+LinkedIn
+·
+Jeremy Basset
+Email Sequences to Convert SaaS Free Trials (2026 Guide)
+2026. 2. 16. —
+Behavior-Based vs. ... The sequence above is time-based, whi...
+Sequenzy
+Best Practices for High-Ticket Email Sequences - LinkedIn
+I discovered that these 5 principles consistently kept peopl...
+LinkedIn
+모두 표시
+[1] (406,303)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[2] (284,303)<div  />
+		[3] (284,303)<div >더보기 />
+			더보기
+			[4] (296,303)<span  />
+Web results
+[5] (263,426)<a class='zReHs' href='https://www.sequenzy.com/blog/best-email-marketing-sequence' />
+	[6] (263,446)<h3 >The 10 Best Email Marketing Sequences for SaaS (Ranked ... />
+	[7] (207,410)<div  />
+		[8] (207,410)<div  />
+			[9] (127,410)<span  />
+				[10] (127,410)<div  />
+					[11] (127,410)<img  />
+			[12] (217,410)<div  />
+				[13] (217,400)<div  />
+					[14] (217,400)<span >Sequenzy />
+				[15] (217,420)<div  />
+					[16] (217,420)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.sequenzy.com />
+						[17] (254,420)<span class='ylgVCe ob9lvb' role='text'>› blog › best-email-marketi... />
+[18] (304,419)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[19] (304,419)<span  />
+		[20] (304,420)<span  />
+2026. 1. 15.
+—
+Best For: Any SaaS with a free trial model (7-day, 14-day, or 30-day trials).
+7-Day Trial Sequence
+14-Day Trial Sequence 30-Day Trial Sequence
+4.8
+(127)
+·
+무료 · ‎비즈니스/생산성
+누락된 검색어:
+ticket
+‎
+finance
+[21] (210,624)<a class='zReHs' href='https://bika.ai/template/marketing-email-series-for-new-users-over-a-period-of-7-days' />
+	[22] (199,647)<h3 >7-Day Automated Email Marketing />
+	[23] (210,611)<div  />
+		[24] (210,611)<div  />
+			[25] (127,611)<span  />
+				[26] (127,611)<div  />
+					[27] (127,611)<img  />
+			[28] (220,611)<div  />
+				[29] (220,601)<div  />
+					[30] (220,601)<span >Bika.ai />
+				[31] (220,621)<div  />
+					[32] (220,621)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://bika.ai />
+						[33] (238,621)<span class='ylgVCe ob9lvb' role='text'>› template › marketing-email-series-for-ne... />
+[34] (311,620)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[35] (311,620)<span  />
+		[36] (311,621)<span  />
+This
+template
+is designed to guide users through a
+series
+of carefully crafted marketing emails over the crucial first
+7
+days after registration.
+누락된 검색어:
+high-
+‎
+ticket
+‎
+finance
+[37] (252,805)<a class='zReHs' href='https://smashsend.com/blog/onboarding-email-sequence-examples' />
+	[38] (252,825)<h3 >7 Best Onboarding Email Sequence Examples for B2B ... />
+	[39] (195,788)<div  />
+		[40] (195,788)<div  />
+			[41] (127,788)<span  />
+				[42] (127,788)<div  />
+					[43] (127,788)<img  />
+			[44] (205,788)<div  />
+				[45] (205,779)<div  />
+					[46] (205,779)<span >SMASHSEND.com />
+				[47] (205,799)<div  />
+					[48] (205,799)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://smashsend.com />
+						[49] (237,799)<span class='ylgVCe ob9lvb' role='text'>› Email Marketing Blog />
+[50] (280,798)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[51] (280,798)<span  />
+		[52] (280,799)<span  />
+Discover 7 powerful onboarding email sequence examples for B2B SaaS.
+Get actionable templates, strategic insights, and tips
+to boost user activation.
+4.9
+(189)
+누락된 검색어:
+ticket
+‎| 필수 포함 항목:
+[53] (246,926)<a href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5lw1BrUKFdVUdbmH_KLmmc3I-O8w:1777296090607&q=7-day+automated+email+sequence+template+high-+%22ticket%22+SaaS+finance&sa=X&ved=2ahUKEwjBrJDxj46UAxWV5MkDHSVyCbgQ5t4CegQIIRAB' />
+	[54] (246,926)<span >ticket />
+[55] (256,1006)<a class='zReHs' href='https://insiderone.com/automated-email-workflow-examples-best-practices/' />
+	[56] (209,989)<div  />
+		[57] (209,989)<div  />
+			[58] (127,989)<span  />
+				[59] (127,989)<div  />
+					[60] (127,989)<img  />
+			[61] (219,989)<div  />
+				[62] (219,980)<div  />
+					[63] (219,980)<span >Insider One />
+				https://insiderone.com
+				› automated-email-workflow-exa...
+[64] (308,999)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[65] (308,999)<span  />
+[66] (498,406)<div  />
+	[67] (498,406)<img  />
+[68] (540,406)<div >AI에게 질문하기 />
+	[69] (514,406)<img  />
+[70] (602,406)<div >검색 에이전트 />
+	[71] (580,406)<img  />
+[72] (641,402)<div  />
+[73] (654,402)<div  />
+[74] (666,402)<div  />
+[75] (512,448)<div  />
+	[76] (499,448)<img  />
+	[77] (517,448)<span >4o mini />
+[78] (553,448)<div  />
+	[79] (540,448)<img  />
+	[80] (559,448)<span >GPT-4o />
+[81] (599,448)<div  />
+	[82] (582,448)<img  />
+	[83] (605,448)<span >Claude 3.5 />
+[84] (644,448)<div  />
+	[85] (632,448)<img  />
+	[86] (650,448)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[87] (533,735)<div  />
+	[88] (533,735)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+[89] (573,774)<a >지금 로그인 />
+[90] (582,903)<div  />
+	[91] (505,865)<img  />
+	[92] (595,903)<div  />
+		[93] (595,894)<div  />
+			[94] (595,870)<p >당신의 비전을 목소리로 전달하면, 저는 그것을 예술로 창조합니다. />
+			[95] (595,917)<p >Monica로 상상력을 발휘하여 텍스트 비전을 멋진 고정밀 디지털 걸작으로 변환해보세요. />
+		[96] (595,953)<div  />
+			[97] (532,953)<span >무료 설치 />
+			[98] (656,953)<a class='label-WsBv4f' href='https://monica.im/?utm=C4G_S_2_AT'>프로모션 />
+[99] (670,844)<span  />
+
+</current_dom>

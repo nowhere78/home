@@ -1,0 +1,229 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwi7h5D6j46UAxVP2ckDHXx8CggQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dbest%2Bfree%2Blow-cost%2Bhosting%2Bfor%2BStreamlit%2BPython%2Bmicro-tools%2B2026%2BVercel%2BNetlify%2BStreamlit%2BCloud%2BRailway&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (152,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n42HvpFwQWjJt75zNGI4_pu0onctQ:1777296109475&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKK_ppPjOG8zdHmChP7NYP5Fd1T7bYE06BHcEWRzmomNxJXcADVvCq4vL4_E8jDRWxLYhMsLDNxL9ANfPJnPu4c-qVKC9fT29-yMbqb1Ots22ErwtiMVzZCBaM_RGgIfIDDIOldA814B1PbAZnT4vE1rnOI31ZtMwipUeY4rNbyOR0GM6zA&q=best+free+low-cost+hosting+for+Streamlit+Python+micro-tools+2026+Vercel+Netlify+Streamlit+Cloud+Railway&ved=1t:220175&ictx=111' />
+	[18] (152,121)<div  />
+		[19] (152,130)<span >쇼핑 />
+[20] (189,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n42HvpFwQWjJt75zNGI4_pu0onctQ:1777296109475&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKK_ppPjOG8zdHmChP7NYP5Fd1T7bYE06BHcEWRzmomNxJXcADVvCq4vL4_E8jDRWxLYhMsLDNxL9ANfPJnPu4c-qVKC9fT29-yMbqb1Ots22ErwtiMVzZCBaM_RGgIfIDDIOldA814B1PbAZnT4vE1rnOI31ZtMwipUeY4rNbyOR0GM6zA&q=best+free+low-cost+hosting+for+Streamlit+Python+micro-tools+2026+Vercel+Netlify+Streamlit+Cloud+Railway&sa=X&ved=2ahUKEwi7h5D6j46UAxVP2ckDHXx8CggQs6gLegQIExAB' />
+	[21] (189,121)<div  />
+		[22] (189,130)<span >짧은 동영상 />
+[23] (230,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n42HvpFwQWjJt75zNGI4_pu0onctQ:1777296109475&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKK_ppPjOG8zdHmChP7NYP5Fd1T7bYE06BHcEWRzmomNxJXcADVvCq4vL4_E8jDRWxLYhMsLDNxL9ANfPJnPu4c-qVKC9fT29-yMbqb1Ots22ErwtiMVzZCBaM_RGgIfIDDIOldA814B1PbAZnT4vE1rnOI31ZtMwipUeY4rNbyOR0GM6zA&q=best+free+low-cost+hosting+for+Streamlit+Python+micro-tools+2026+Vercel+Netlify+Streamlit+Cloud+Railway&sa=X&ved=2ahUKEwi7h5D6j46UAxVP2ckDHXx8CggQtKgLegQIFBAB' />
+	[24] (230,121)<div  />
+		[25] (230,130)<span >이미지 />
+[26] (262,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n42HvpFwQWjJt75zNGI4_pu0onctQ:1777296109475&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKK_ppPjOG8zdHmChP7NYP5Fd1T7bYE06BHcEWRzmomNxJXcADVvCq4vL4_E8jDRWxLYhMsLDNxL9ANfPJnPu4c-qVKC9fT29-yMbqb1Ots22ErwtiMVzZCBaM_RGgIfIDDIOldA814B1PbAZnT4vE1rnOI31ZtMwipUeY4rNbyOR0GM6zA&q=best+free+low-cost+hosting+for+Streamlit+Python+micro-tools+2026+Vercel+Netlify+Streamlit+Cloud+Railway&sa=X&ved=2ahUKEwi7h5D6j46UAxVP2ckDHXx8CggQtKgLegQIFRAB' />
+	[27] (262,121)<div  />
+		[28] (262,130)<span >동영상 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n42HvpFwQWjJt75zNGI4_pu0onctQ:1777296109475&q=best+free+low-cost+hosting+for+Streamlit+Python+micro-tools+2026+Vercel+Netlify+Streamlit+Cloud+Railway&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKK_ppPjOG8zdHmChP7NYP5Fd1T7bYE06BHcEWRzmomNxJXcADVvCq4vL4_E8jDRWxLYhMsLDNxL9ANfPJnPu4c-qVKC9fT29-yMbqb1Ots22ErwtiMVzZCBaM_RGgIfIDDIOldA814B1PbAZnT4vE1rnOI31ZtMwipUeY4rNbyOR0GM6zA&sa=X&ved=2ahUKEwi7h5D6j46UAxVP2ckDHXx8CggQ0pQJegQIFhAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+AI 개요
+[42] (688,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+For 2026, the best hosting for Streamlit Python micro-tools depends on whether you value ease of use, backend flexibility, or scaling.
+[43] (304,259)<button aria-label='관련 링크 보기' class='rBl3me' />
+	[44] (304,259)<span  />
+1.
+[45] (188,315)<a class='qNqJIe zhJmAf' href='https://streamlit.io/cloud'>Streamlit Community Cloud />
+	[46] (239,315)<span  />
+(Best for Ease of Use)
+[47] (364,314)<button aria-label='관련 링크 보기' class='rBl3me' />
+	[48] (364,314)<span  />
+This remains the fastest way to host for free, especially for public tools.
+Cost:
+100% free for public apps.
+Key Features:
+One-click deployment directly from
+GitHub
+, automatic live updates on push, and support for interactive data tools.
+Best For:
+Open-source projects, portfolios, and tools where visibility isn't restricted.
+Streamlit
++5
+2.
+Railway
+(Best for Full-Stack & Flexibility)
+Railway provides more robust infrastructure than simple static hosts, making it ideal if your micro-tool needs a database or Docker.
+Cost:
+Usage-based with a limited free trial; offers 750 free instance hours per month with predictable cycles.
+Key Features:
+Native Docker support, managed
+PostgreSQL
+databases, and background workers.
+Best For:
+Applications that require persistent storage or specific system dependencies beyond basic Python libraries.
+Railway
++2
+3.
+Vercel
+(Best for Performance & Edge)
+While primarily for frontend,
+Vercel
+supports Python through serverless functions.
+Cost:
+Hobby Plan
+is free for personal, non-commercial use with ~100GB bandwidth/month.
+[49] (581,296)<a aria-label='Deploy Streamlit - Railway. 새 탭에서 열립니다.' class='NDNGvf' href='https://railway.com/deploy/streamlit' />
+Deploy Streamlit - Railway
+2025. 10. 28. —
+Railway will host your infrastructure so you don't have to d...
+Railway
+[50] (680,344)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-7mLvae_YIcjdwN4Pqpa6gAk_6' role='button' />
+Top 5 Free Full-Stack Web Hosting Platforms 2026 - Medium
+2026. 4. 20. —
+Pros: * Automatic Git-based deployments with live preview UR...
+Medium
+·
+Muhammad Hassan Ali
+Vercel vs Netlify vs Railway (2026): Deploy Platforms - 13Labs
+Winner by Category * Best for Beginners. Netlify. Easiest fo...
+www.13labs.au
+모두 표시
+[51] (406,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[52] (284,538)<div  />
+		[53] (284,538)<div >더보기 />
+			더보기
+			[54] (296,538)<span  />
+Web results
+[55] (187,661)<a class='zReHs' href='https://railway.com/deploy/streamlit' />
+	[56] (158,682)<h3 >Deploy Streamlit />
+	[57] (187,644)<div  />
+		[58] (187,644)<div  />
+			[59] (127,644)<span  />
+				[60] (127,644)<div  />
+					[61] (127,644)<img  />
+			[62] (197,644)<div  />
+				[63] (197,635)<div  />
+					[64] (197,635)<span >Railway />
+				[65] (197,655)<div  />
+					[66] (197,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://railway.com />
+						[67] (223,655)<span class='ylgVCe ob9lvb' role='text'>› Templates › Starters />
+[68] (264,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[69] (264,654)<span  />
+		[70] (264,655)<span  />
+2025. 10. 28.
+—
+Deploy Streamlit to the cloud for free with Railway
+, the all-in-one intelligent cloud provider. Deploy and Host Streamlit with Railway.
+누락된 검색어:
+best
+‎
+free
+‎
+cost
+‎
+micro-
+‎
+Vercel
+‎
+Netlify
+‎
+Cloud
+[71] (257,836)<a class='zReHs' href='https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026' />
+	[72] (257,860)<h3 >iSoumyaDey/Awesome-Web-Hosting-2026: The Ultimate ... />
+	[73] (209,823)<div  />
+		[74] (209,823)<div  />
+			[75] (127,823)<span  />
+				[76] (127,823)<div  />
+					[77] (127,823)<img  />
+			[78] (220,823)<div  />
+				[79] (220,813)<div  />
+					[80] (220,813)<span >GitHub />
+				[81] (220,833)<div  />
+					[82] (220,833)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://github.com />
+						[83] (244,833)<span class='ylgVCe ob9lvb' role='text'>› iSoumyaDey › Awesome-Web-Host... />
+[84] (310,832)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[85] (310,832)<span  />
+		[86] (310,833)<span  />
+The Ultimate Guide to
+Free Cloud Hosting
+. Compare 100+
+Free
+Tier vs Paid platforms:
+Vercel
+,
+Netlify
+, Heroku, AWS, & VPS. Deploy Node.js,
+Python
+, Docker, ...
+[87] (187,994)<a class='zReHs' href='https://railway.com/deploy/nj-Wms' />
+	[88] (187,978)<div  />
+		[89] (187,978)<div  />
+			[90] (127,978)<span  />
+				[91] (127,978)<div  />
+					[92] (127,978)<img  />
+			[93] (197,978)<div  />
+				[94] (197,968)<div  />
+					[95] (197,968)<span >Railway />
+				[96] (197,988)<div  />
+					[97] (197,988)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://railway.com />
+						[98] (223,988)<span class='ylgVCe ob9lvb' role='text'>› Templates › Starters />
+[99] (264,987)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[100] (264,987)<span  />
+		[101] (264,988)<span  />
+[102] (498,641)<div  />
+	[103] (498,641)<img  />
+[104] (540,641)<div >AI에게 질문하기 />
+	[105] (514,641)<img  />
+[106] (602,641)<div >검색 에이전트 />
+	[107] (580,641)<img  />
+[108] (641,637)<div  />
+[109] (654,637)<div  />
+[110] (666,637)<div  />
+[111] (512,683)<div  />
+	[112] (499,683)<img  />
+	[113] (517,683)<span >4o mini />
+[114] (553,683)<div  />
+	[115] (540,683)<img  />
+	[116] (559,683)<span >GPT-4o />
+[117] (599,683)<div  />
+	[118] (582,683)<img  />
+	[119] (605,683)<span >Claude 3.5 />
+[120] (644,683)<div  />
+	[121] (632,683)<img  />
+	[122] (650,683)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+🚀 지금 업그레이드
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

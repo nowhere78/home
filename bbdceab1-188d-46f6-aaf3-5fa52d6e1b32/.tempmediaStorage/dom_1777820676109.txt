@@ -1,0 +1,270 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span >mikemolinet />
+[4] (145,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/ai-drop-daily-content' />
+	[5] (145,34)<span >ai-drop-daily-content />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[44] (73,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[45] (73,190)<span  />
+		[46] (67,190)<span  />
+			[47] (67,190)<div  />
+				[48] (19,190)<div  />
+				[49] (35,190)<div  />
+					[50] (35,190)<span >main />
+[51] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[52] (83,233)<span  />
+	[53] (17,233)<span  />
+	[54] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[55] (148,233)<span  />
+		[56] (148,233)<kbd  />
+			[57] (148,233)<span >t />
+				t
+				[58] (148,233)<span >T />
+[59] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ai-101-item' role='treeitem' />
+	[60] (79,279)<div  />
+		[61] (13,279)<div  />
+		[62] (84,279)<div  />
+			[63] (25,279)<div  />
+				[64] (25,279)<div  />
+			[65] (90,279)<span  />
+				[66] (43,279)<span >ai-101 />
+[67] (79,314)<div  />
+	[68] (13,314)<div  />
+	[69] (84,314)<div  />
+		[70] (25,313)<div  />
+			[71] (25,313)<div  />
+		[72] (90,314)<span  />
+			[73] (43,314)<span >ai-201 />
+[74] (79,348)<div  />
+	[75] (13,348)<div  />
+	[76] (84,348)<div  />
+		[77] (25,347)<div  />
+			[78] (25,347)<div  />
+		[79] (90,348)<span  />
+			[80] (45,348)<span >articles />
+[81] (79,382)<div  />
+	[82] (13,382)<div  />
+	[83] (84,382)<div  />
+		[84] (25,382)<div  />
+			[85] (25,382)<div  />
+		[86] (90,382)<span  />
+			[87] (56,382)<span >claude-course />
+[88] (79,416)<div  />
+	[89] (13,416)<div  />
+	[90] (84,416)<div  />
+		[91] (25,416)<div  />
+			[92] (25,416)<div  />
+		[93] (90,416)<span  />
+			[94] (57,416)<span >claude-cowork />
+[95] (79,450)<div  />
+	[96] (13,450)<div  />
+	[97] (84,450)<div  />
+		[98] (25,450)<div  />
+			[99] (25,450)<div  />
+		[100] (90,450)<span  />
+			[101] (51,450)<span >downloads />
+[102] (79,484)<div  />
+	[103] (13,484)<div  />
+	[104] (84,484)<div  />
+		[105] (25,484)<div  />
+			[106] (25,484)<div  />
+		[107] (90,484)<span  />
+			[108] (44,484)<span >guides />
+[109] (79,518)<div  />
+	[110] (13,518)<div  />
+	[111] (84,518)<div  />
+		[112] (25,518)<div  />
+			[113] (25,518)<div  />
+		[114] (90,518)<span  />
+			[115] (41,518)<span >news />
+[116] (79,552)<div  />
+	[117] (84,552)<div  />
+		[118] (25,552)<div  />
+		[119] (90,552)<span  />
+			[120] (52,552)<span >.last-synced />
+[121] (79,586)<div  />
+	[122] (84,586)<div  />
+		[123] (25,586)<div  />
+		[124] (90,586)<span  />
+			[125] (53,586)<span >AGENTS.md />
+[126] (79,620)<div  />
+	[127] (84,620)<div  />
+		[128] (25,620)<div  />
+		[129] (90,620)<span  />
+			[130] (47,620)<span >LICENSE />
+[131] (79,654)<div  />
+	[132] (84,654)<div  />
+		[133] (25,654)<div  />
+		[134] (90,654)<span  />
+			[135] (53,654)<span >README.md />
+[136] (79,688)<div  />
+	[137] (84,688)<div  />
+		[138] (25,688)<div  />
+		[139] (90,688)<span  />
+			[140] (55,688)<span >manifest.json />
+[141] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[142] (216,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mikemolinet/ai-drop-daily-content/tree/main'>ai-drop-daily-content />
+/
+AGENTS.md
+[143] (326,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[144] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_R_icql3al1d_' />
+Latest commit
+History
+[145] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/ai-drop-daily-content/commits/main/AGENTS.md' />
+	[146] (967,198)<span  />
+		[147] (972,198)<span  />
+			[148] (972,197)<span >History />
+File metadata and controls
+[149] (200,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[150] (200,263)<span  />
+		[151] (200,263)<div >Preview />
+[152] (235,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[153] (235,263)<span  />
+		[154] (235,263)<div >Code />
+[155] (268,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[156] (268,263)<span  />
+		[157] (268,263)<div >Blame />
+143 lines (117 loc) · 4.76 KB
+[158] (853,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_1kn6clal3al1d_' />
+[159] (871,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[160] (894,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/mikemolinet/ai-drop-daily-content/raw/refs/heads/main/AGENTS.md' />
+	[161] (894,263)<span  />
+		[162] (894,263)<span >Raw />
+[163] (911,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[164] (925,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[165] (943,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/mikemolinet/ai-drop-daily-content/edit/main/AGENTS.md' />
+[166] (957,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_59f6clal3al1d_' />
+[167] (976,263)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+AGENTS.md — How to consume this repository
+[168] (313,343)<a aria-label='Permalink: AGENTS.md — How to consume this repository' class='anchor' href='#agentsmd--how-to-consume-this-repository' id='user-content-agentsmd--how-to-consume-this-repository' />
+This repository is the
+public content mirror
+for
+[169] (518,404)<a href='https://aidropdaily.com'>AI Drop Daily />
+. It's designed to be read by AI
+agents as well as humans. Everything here is plain markdown with YAML
+frontmatter.
+License:
+CC-BY-4.0 (see
+[170] (423,472)<a href='/mikemolinet/ai-drop-daily-content/blob/main/LICENSE'>LICENSE />
+)
+Schema version:
+1
+Last sync timestamp:
+see
+[171] (635,472)<a href='/mikemolinet/ai-drop-daily-content/blob/main/.last-synced' />
+	[172] (635,474)<code >.last-synced />
+Start here:
+manifest.json
+[173] (313,527)<a aria-label='Permalink: Start here: manifest.json' class='anchor' href='#start-here-manifestjson' id='user-content-start-here-manifestjson' />
+The fastest way to discover what's in this repo is to fetch
+[174] (557,582)<a href='/mikemolinet/ai-drop-daily-content/blob/main/manifest.json' />
+	[175] (557,584)<code >manifest.json />
+. It contains a flat list of every
+content file with its type, path, and type-specific metadata. No
+crawling required.
+{
+"schema_version"
+:
+1
+,
+"summary"
+: {
+"news"
+:
+52
+,
+"courses"
+: {
+"ai-101"
+:
+24
+,
+"ai-201"
+:
+13
+,
+"claude-chatbot-to-coworker"
+:
+10
+,
+"claude-cowork"
+:
+10
+},
+"guides"
+:
+6
+,
+"articles"
+:
+1
+,
+"downloads"
+:
+2
+,
+"total"
+:
+118
+},
+"files"
+: [
+/* one entry per file */
+]
+}
+[176] (836,661)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+Content types
+[177] (313,962)<a aria-label='Permalink: Content types' class='anchor' href='#content-types' id='user-content-content-types' />
+
+</current_dom>

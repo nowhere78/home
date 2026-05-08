@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (237,2)<a aria-label='check_expansion.sh, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/check_expansion.sh' title='check_expansion.sh' />
+	[1] (237,2)<font  />
+		[2] (237,2)<font >check_expansion.sh />
+[3] (454,2)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' title='feat: 유니콘계록 일곱 교회 ​​완전 확장 및 UI 개선 📜 ** 데이터 확장:** • Journeys는 '요한계시록색빛 교회' 8개 제한 가능 확장 - 밧모섬, 에베소, 서머나, 버가모, 두아디라, 사데, 빌라델비아, 라오디게아 - 각 마다 HistoricalContext, important, 고고학, 관련Places 추가 - 차고 설명에서 임시로 전환 **UI 개선:** • 시계록 추가 → 퍽성경 탭으로 통합 - 덩계시록은 27권의 그냥 책으로 있어 위치 - 넉넉성경 탭에 "🔮 융계시록" 테이블 추가 - "일제거 교회" 무리 버튼 + "요한계시록 전체로 통합" 버튼 배치 **기술 개선:** • index.html: 계시 탭 제거, new-testament 탭 내 통합 • js/app.js: switchTab 함수에서 계시 케이스 제거 • js/data.js: travels.revelation_seven 완전 축소 이제 "일곱 교회" 버튼클릭 시 변화하는/신학적/고고학적 정보표시! 🎉 전체 프로젝트 100% 🎉 🎉 🤖 [Claude Code](https://claude.com/claude-code)로 생성됨 공동 작성자: Claude <noreply@anthropic.com>' />
+	[4] (454,2)<font  />
+		[5] (454,2)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+8개월 전
+[6] (419,45)<tr  />
+	[7] (224,46)<a aria-label='index.html, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/index.html' title='인덱스.html' />
+		[8] (224,46)<font  />
+			[9] (224,46)<font >인덱스.html />
+	[10] (454,46)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' title='feat: 유니콘계록 일곱 교회 ​​완전 확장 및 UI 개선 📜 ** 데이터 확장:** • Journeys는 '요한계시록색빛 교회' 8개 제한 가능 확장 - 밧모섬, 에베소, 서머나, 버가모, 두아디라, 사데, 빌라델비아, 라오디게아 - 각 마다 HistoricalContext, important, 고고학, 관련Places 추가 - 차고 설명에서 임시로 전환 **UI 개선:** • 시계록 추가 → 퍽성경 탭으로 통합 - 덩계시록은 27권의 그냥 책으로 있어 위치 - 넉넉성경 탭에 "🔮 융계시록" 테이블 추가 - "일제거 교회" 무리 버튼 + "요한계시록 전체로 통합" 버튼 배치 **기술 개선:** • index.html: 계시 탭 제거, new-testament 탭 내 통합 • js/app.js: switchTab 함수에서 계시 케이스 제거 • js/data.js: travels.revelation_seven 완전 축소 이제 "일곱 교회" 버튼클릭 시 변화하는/신학적/고고학적 정보표시! 🎉 전체 프로젝트 100% 🎉 🎉 🤖 [Claude Code](https://claude.com/claude-code)로 생성됨 공동 작성자: Claude <noreply@anthropic.com>' />
+		[11] (454,46)<font  />
+			[12] (454,46)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+	8개월 전
+저장소 파일 탐색
+[13] (213,111)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[14] (196,111)<span  />
+	[15] (219,111)<span  />
+		[16] (219,111)<font  />
+			[17] (219,111)<font >README />
+[18] (620,111)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[19] (641,111)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+📜 성경통합지도 (성경지도)
+[20] (193,192)<a aria-label='고유 링크: 📜 성경 통합 지도(성경 지도)' class='anchor' href='#-성경-통합-지도-bible-map' id='user-content--성경-통합-지도-bible-map' />
+성경 속 주요 모험과 대장을 인터랙티브한 지도로 탐험할 수 있는 웹툰입니다.
+[21] (221,297)<a href='https://camo.githubusercontent.com/7013272bd27ece47364536a221edb554cd69683b68a46fc0ee96881174c4214c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667' />
+	[22] (221,294)<img  />
+[23] (267,297)<a href='https://camo.githubusercontent.com/880e4225d1236971a3197ed92be4bc139b69167c6524ce040cb798bca7777dad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d322e302e302d677265656e2e737667' />
+	[24] (267,294)<img  />
+✨ 주요 기능
+[25] (193,351)<a aria-label='고유링크: ✨ 주요 기능' class='anchor' href='#-주요-기능' id='user-content--주요-기능' />
+🗺️ 인터랙티브 지도
+[26] (193,415)<a aria-label='고유 링크: 🗺️ 인터랙티브 지도' class='anchor' href='#️-인터랙티브-지도' id='user-content-️-인터랙티브-지도' />
+ESRI 위성 지도 기반의 고해상도 지도 제공
+확대/축소 및 드래그로 전체 탐색
+🔍 스마트검색
+[27] (193,539)<a aria-label='고유링크: 🔍 스마트 검색' class='anchor' href='#-스마트-검색' id='user-content--스마트-검색' />
+지도자 검색
+: 베들레헴 등 성경의 대장 검색
+성경책 검색
+: 특정 성경책에 등장하는 모든 지도자 표시
+설명 검색
+: 설명 내용까지 검색
+디바운싱 적용
+: 입력 후 300ms 대기 성능 최적화
+분리 제거
+: 동일한 위치를 여러 번 연결하여 자동 처리 처리
+📚 카테고리별 탐색
+[28] (193,752)<a aria-label='고유 링크: 📚 카테고리별 탐색' class='anchor' href='#-카테고리별-탐색' id='user-content--카테고리별-탐색' />
+🏛️ 구약 여행
+[29] (193,801)<a aria-label='고유 링크: 🏛️ 구약 여행' class='anchor' href='#️-구약-여정' id='user-content-️-구약-여정' />
+대륙장의 이동경로
+: 맷에서 끝까지
+출애굽 여정
+: 애굽에서 챠산까지
+광야 40년
+: 챠산에서 모압평지까지
+가나안복합
+: 여호수아의 전쟁
+바벨론 포로
+: 유다의 활동과 귀환
+✝️ 떠나는 중
+[30] (746,42)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dentalking/bible-map/graphs/contributors' />
+	[31] (687,42)<font  />
+		[32] (687,42)<font >기고자 />
+	[33] (705,42)<span  />
+		[34] (705,42)<font  />
+			[35] (705,42)<font >2 />
+[36] (683,89)<a class='mr-2' href='https://github.com/dentalking' />
+	[37] (683,89)<img  />
+[38] (706,89)<a class='Link--primary no-underline flex-self-center' href='https://github.com/dentalking' />
+	[39] (706,89)<strong  />
+		[40] (706,89)<font  />
+			[41] (706,89)<font >덴탈킹 />
+[42] (683,131)<a class='mr-2' href='https://github.com/claude' />
+	[43] (683,131)<img  />
+[44] (717,131)<a class='Link--primary no-underline flex-self-center' href='https://github.com/claude' />
+	[45] (707,131)<strong  />
+		[46] (707,131)<font  />
+			[47] (707,131)<font >클로드 />
+	[48] (728,131)<span  />
+		[49] (728,131)<font  />
+			[50] (728,131)<font >클로드 />
+언어
+[51] (708,260)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/dentalking/bible-map/search?l=javascript' />
+	[52] (705,260)<span  />
+		[53] (705,260)<font  />
+			[54] (705,260)<font >자바스크립트 />
+	[55] (732,260)<span  />
+		[56] (732,260)<font  />
+			[57] (732,260)<font >98.7% />
+다른
+1.3%
+
+</current_dom>

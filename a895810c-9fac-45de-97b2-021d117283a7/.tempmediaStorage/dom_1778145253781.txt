@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../../infrastructure/llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+연구하고 배우세요
+[41] (219,285)<a class='md-nav__link' href='../papers-blogs/' />
+	[42] (210,285)<span  />
+		[43] (210,284)<font  />
+			[44] (210,284)<font >논문, 블로그, 강좌 및 강의 />
+[45] (219,325)<a class='md-nav__link' href='../tutorials/' />
+	[46] (198,325)<span  />
+		[47] (198,324)<font  />
+			[48] (198,324)<font >튜토리얼 및 가이드 />
+[49] (219,365)<a class='md-nav__link md-nav__link--active' href='./' />
+	[50] (191,365)<span  />
+		[51] (191,365)<font  />
+			[52] (191,365)<font >주요 컨퍼런스 />
+[53] (223,427)<a class='md-nav__link' href='#top-tier-aiml-academic-conferences' />
+	[54] (224,427)<span  />
+		[55] (221,426)<font  />
+			[56] (221,426)<font >최고 수준의 AI/ML 학술 컨퍼런스 />
+[57] (223,494)<a class='md-nav__link' href='#agi-specific-conferences' />
+	[58] (209,494)<span  />
+		[59] (209,493)<font  />
+			[60] (209,493)<font >AGI 관련 컨퍼런스 />
+[61] (223,546)<a class='md-nav__link' href='#ai-safety-alignment-events' />
+	[62] (217,546)<span  />
+		[63] (217,545)<font  />
+			[64] (217,545)<font >AI 안전 및 정렬 이벤트 />
+[65] (223,612)<a class='md-nav__link' href='#industry-ai-summits-developer-conferences' />
+	[66] (224,612)<span  />
+		[67] (223,611)<font  />
+			[68] (223,611)<font >산업 AI 서밋 및 개발자 컨퍼런스 />
+주요 컨퍼런스
+[69] (518,331)<a class='headerlink' href='#top-conferences' title='영구 링크' />
+	[70] (518,330)<font  />
+		[71] (518,330)<font  />
+인공 일반 지능(AGI) 커뮤니티가 모이는 곳. 기초 연구 논문을 발표하는 학술 행사부터 정부 차원의 안전 정상 회담, 그리고 인공지능의 미래를 만들어가는 업계 개발자 컨퍼런스까지.
+[72] (371,619)<a class='glightbox' href='https://img.shields.io/badge/Academic-NeurIPS_ICML_ICLR-blue?style=flat-square' />
+	[73] (371,616)<img  />
+[74] (481,619)<a class='glightbox' href='https://img.shields.io/badge/AGI_Specific-AGI_Conference_ARC_Prize-purple?style=flat-square' />
+	[75] (481,616)<img  />
+[76] (589,619)<a class='glightbox' href='https://img.shields.io/badge/Safety-Bletchley_Seoul_Paris-red?style=flat-square' />
+	[77] (589,616)<img  />
+[78] (689,619)<a class='glightbox' href='https://img.shields.io/badge/Industry-GTC_Google_I/O_DevDay-green?style=flat-square' />
+	[79] (689,616)<img  />
+최고 수준의 AI/ML 학술 컨퍼런스
+[80] (620,714)<a class='headerlink' href='#top-tier-aiml-academic-conferences' title='영구 링크' />
+	[81] (620,713)<font  />
+		[82] (620,713)<font  />
+기초적인 AGI 연구가 발표되는 주요 학술지에 게재됩니다. (LLM 아키텍처, 스케일링 법칙, 정렬 방법, 에이전트 프레임워크 등)
+회의
+성명
+언제
+웹사이트
+AGI 관련성
+
+</current_dom>

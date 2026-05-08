@@ -1,0 +1,254 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+연구 결과
+수정: knowledge_gaps.md 파일의 검색/바꾸기 블록을 수정했습니다.
+2년 전
+[0] (419,40)<tr  />
+	[1] (219,40)<a aria-label='아이디어, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/ideas' title='아이디어' />
+		[2] (219,40)<font  />
+			[3] (219,40)<font >아이디어 />
+	[4] (412,40)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ee850a12e53dafd0f5432e569fe55547a5d6893d' title='파일을 이동했습니다.' />
+		[5] (412,40)<font  />
+			[6] (412,40)<font >파일을 이동했습니다. />
+	2년 전
+[7] (419,83)<tr  />
+	[8] (216,84)<a aria-label='mathweb, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/mathweb' title='매스웹' />
+		[9] (216,84)<font  />
+			[10] (216,84)<font >매스웹 />
+	[11] (449,84)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/2675dff4edf0341623c5dfb0bb90dc515f074558' title='리팩토링: 문서의 연구 주제를 업데이트했습니다. "터미널 벨로시티" 프로젝트의 명확성과 관련성을 높이기 위해 오래된 연구 주제를 더욱 정교한 설명으로 대체했습니다.' />
+		[12] (449,84)<font  />
+			[13] (449,84)<font >리팩토링: 문서의 연구 주제를 업데이트합니다. />
+	2년 전
+[14] (419,126)<tr  />
+	[15] (219,127)<a aria-label='모니터링, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/monitoring' title='모니터링' />
+		[16] (219,127)<font  />
+			[17] (219,127)<font >모니터링 />
+	[18] (470,127)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/20aab85c496f8d3abe29fba8a94f30ea2c87e2dd' title='기능: 메트릭 수집 및 알림 기능을 갖춘 모니터링 시스템 추가' />
+		[19] (470,127)<font  />
+			[20] (470,127)<font >기능: 메트릭 수집 및 알림 기능을 갖춘 모니터링 시스템 추가 />
+	2년 전
+[21] (419,170)<tr  />
+	[22] (224,170)<a aria-label='새 문서, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/new_documentation' title='새로운 문서' />
+		[23] (224,170)<font  />
+			[24] (224,170)<font >새로운 문서 />
+	[25] (480,170)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/de682d0443181e279e58305f43307ab65201338a' title='문서: "터미널 벨로시티" 임무에 대한 중복성 검사 결과를 추가했습니다. 식별된 의미론적 중복 및 서술 파일 내 통합 권장 사항을 기록하기 위해 새 문서 파일을 생성했습니다.' />
+		[26] (480,170)<font  />
+			[27] (480,170)<font >문서: "터미널 벨로시티" 임무에 대한 중복 검사 결과를 추가합니다. />
+	2년 전
+[28] (419,213)<tr  />
+	[29] (212,214)<a aria-label='기타, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/other' title='다른' />
+		[30] (212,214)<font  />
+			[31] (212,214)<font >다른 />
+	[32] (395,214)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/9caca6c49e9b22e937dac34c524242fe93d0db81' title='파일 이동' />
+		[33] (395,214)<font  />
+			[34] (395,214)<font >파일 이동 />
+	벨
+[35] (419,257)<tr  />
+	[36] (212,257)<a aria-label='연구, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/research' title='연구' />
+		[37] (212,257)<font  />
+			[38] (212,257)<font >연구 />
+	[39] (479,257)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/a36022c1b719934263e71ca477fc0f04d116388d' title='특징: 2025년 양자 컴퓨팅 및 AI 보안 프로토콜 관련 기술 연구 파일 추가' />
+		[40] (479,257)<font  />
+			[41] (479,257)<font >특징: 2025년 양자 컴퓨팅 및 인공지능 관련 기술 연구 파일 추가… />
+	2년 전
+[42] (419,300)<tr  />
+	[43] (219,301)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/scripts' title='스크립트' />
+		[44] (219,301)<font  />
+			[45] (219,301)<font >스크립트 />
+	[46] (473,301)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ff86fbc9ac4fa28f3df523e6c5ff3f22a7272d4a' title='리팩토링: concatenate_final_text에서 장면 번호 추출 및 필터링 기능을 개선했습니다.' />
+		[47] (473,301)<font  />
+			[48] (473,301)<font >리팩토링: 연결 작업에서 장면 번호 추출 및 필터링 기능 개선… />
+	2년 전
+[49] (419,343)<tr  />
+	[50] (212,344)<a aria-label='정적, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/static' title='공전' />
+		[51] (212,344)<font  />
+			[52] (212,344)<font >공전 />
+	[53] (391,344)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/a3951caa30cd416db9c6fcb169c016c94f5da29f' title='삭제 중' />
+		[54] (391,344)<font  />
+			[55] (391,344)<font >삭제 중 />
+	2년 전
+[56] (419,387)<tr  />
+	[57] (216,387)<a aria-label='스토리, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/story' title='이야기' />
+		[58] (216,387)<font  />
+			[59] (216,387)<font >이야기 />
+	[60] (387,387)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/7a89404bbd1ff1360c576d59ad7347f5c0044b84' title='미는' />
+		[61] (387,387)<font  />
+			[62] (387,387)<font >미는 />
+	2년 전
+[63] (419,430)<tr  />
+	[64] (212,431)<a aria-label='요약, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/summary' title='요약' />
+		[65] (212,431)<font  />
+			[66] (212,431)<font >요약 />
+	[67] (476,431)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/7703895d54bdce51e4ef82f4c3bca5780d6fc41e' title='수정: 캐릭터 개발 파일의 서식 및 제목을 수정했습니다. 일관성과 명확성을 위해 `character_development.md` 및 `chapter_and_character_summary.md` 파일의 제목을 업데이트했습니다.' />
+		[68] (476,431)<font  />
+			[69] (476,431)<font >수정: 캐릭터 개발 파일의 서식과 제목을 올바르게 수정했습니다. />
+	2년 전
+[70] (419,474)<tr  />
+	[71] (220,474)<a aria-label='기술 검토, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/technical_review' title='기술 검토' />
+		[72] (220,474)<font  />
+			[73] (220,474)<font >기술 검토 />
+	[74] (459,474)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/6b8788837bdaa46ac3e6dc2ad1cd30b66cf0c59c' title='리팩토링: 스토리 개요 및 기술 검토 자료를 개선했습니다. 1막 개요를 업데이트하여 등장인물의 동기를 더욱 심층적으로 묘사하고, 기술 검토 자료를 다듬어 등장인물의 변화 과정이 전체적인 주제와 일치하도록 했습니다.' />
+		[75] (459,474)<font  />
+			[76] (459,474)<font >리팩토링: 서술 개요 및 기술 검토 자료를 개선합니다. />
+	2년 전
+[77] (419,517)<tr  />
+	[78] (216,517)<a aria-label='템플릿, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/templates' title='템플릿' />
+		[79] (216,517)<font  />
+			[80] (216,517)<font >템플릿 />
+	[81] (387,517)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/8090dcb622e48e0ee38bb7a74d289aa73d728fa9' title='미는' />
+		[82] (387,517)<font  />
+			[83] (387,517)<font >미는 />
+	2년 전
+[84] (419,560)<tr  />
+	[85] (212,561)<a aria-label='테마, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/themes' title='테마' />
+		[86] (212,561)<font  />
+			[87] (212,561)<font >테마 />
+	[88] (495,561)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/45a9a98a6a666cb695aeb2dc8c2ff6587aa399b2' title='리팩토링: 캐릭터 개발에 대한 통찰력을 통합하고 주제 요소를 간소화했습니다. 내러티브 파일을 업데이트하여 중복을 제거하고 AI 통합과 관련된 캐릭터 동기 및 주제 요소를 명확히 했습니다.' />
+		[89] (495,561)<font  />
+			[90] (495,561)<font >리팩토링: 캐릭터 개발에 대한 통찰력을 통합하고 프로세스를 간소화합니다… />
+	2년 전
+[91] (419,604)<tr  />
+	[92] (233,604)<a aria-label='track07_의식_통합, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/track07_consciousness_integration' title='트랙07_의식_통합' />
+		[93] (233,604)<font  />
+			[94] (233,604)<font >트랙07_의식_통합 />
+	[95] (470,604)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/6c971e6c21532ffc70e9f8bc8ae8d5bdd6e660d6' title='문서: 트랙 07 "의식 통합"에 대한 종합 검토 문서를 작성하세요.' />
+		[96] (470,604)<font  />
+			[97] (470,604)<font >문서: 트랙 07 "의식…"에 대한 종합 검토 문서를 작성하세요. />
+	2년 전
+[98] (419,647)<tr  />
+	[99] (227,648)<a aria-label='시각 자료, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/visuals' title='시각적인 요소' />
+		[100] (227,648)<font  />
+			[101] (227,648)<font >시각적인 요소 />
+	[102] (394,648)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/06c80b98ac82d463fe503ab7ddb66c9c52e2d476' title='구조조정' />
+		[103] (394,648)<font  />
+			[104] (394,648)<font >구조조정 />
+	2년 전
+[105] (419,690)<tr  />
+	[106] (220,691)<a aria-label='세계 건설, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/world_building' title='세계 건설' />
+		[107] (220,691)<font  />
+			[108] (220,691)<font >세계 건설 />
+	[109] (480,691)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/d252bc6b2e618e15b2dfcb04d60f4de4d58c0c88' title='특징: UBC Seekers 연구 그룹 및 UBC 기원에 대한 서사적 탐구 추가' />
+		[110] (480,691)<font  />
+			[111] (480,691)<font >특징: UBC Seekers 연구 그룹 및 UBC에 대한 내러티브 탐색 추가… />
+	2년 전
+[112] (419,734)<tr  />
+	[113] (226,734)<a aria-label='.gitattributes, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/.gitattributes' title='.gitattributes' />
+		[114] (226,734)<font  />
+			[115] (226,734)<font >.gitattributes />
+	[116] (441,734)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/9a88706156c998912f430cabb50ddafd9274da8f' title='.jsonl 파일에 대한 Git LFS를 구성합니다.' />
+		[117] (441,734)<font  />
+			[118] (441,734)<font >.jsonl 파일에 대한 Git LFS를 구성합니다. />
+	2년 전
+[119] (419,777)<tr  />
+	[120] (221,778)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/.gitignore' title='.gitignore' />
+		[121] (221,778)<font  />
+			[122] (221,778)<font >.gitignore />
+	[123] (390,778)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/c149a7453ab294635b8f7c9eec65f5132f399362' title='추가됨' />
+		[124] (390,778)<font  />
+			[125] (390,778)<font >추가됨 />
+	2년 전
+[126] (419,821)<tr  />
+	[127] (226,821)<a aria-label='README.md, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/README.md' title='README.md' />
+		[128] (226,821)<font  />
+			[129] (226,821)<font >README.md />
+	[130] (482,821)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/d62248be80fd64ad2f5c40c0602cc6c9fcd30a7b' title='문서: README.md 링크에서 원고 파일 이름을 올바르게 수정하세요' />
+		[131] (482,821)<font  />
+			[132] (482,821)<font >문서: README.md 링크에서 원고 파일 이름을 올바르게 수정하세요 />
+	벨
+[133] (419,864)<tr  />
+	[134] (246,865)<a aria-label='complete_manuscript.md, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/complete_manuscript.md' title='complete_manuscript.md' />
+		[135] (246,865)<font  />
+			[136] (246,865)<font >complete_manuscript.md />
+	[137] (398,865)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/83dd49e997efea9708c9fc666be91c59af01cfc8' title='마무리 작업' />
+		[138] (398,865)<font  />
+			[139] (398,865)<font >마무리 작업 />
+	2년 전
+[140] (419,907)<tr  />
+	[141] (245,908)<a aria-label='complete_manuscript.txt, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/complete_manuscript.txt' title='complete_manuscript.txt' />
+		[142] (245,908)<font  />
+			[143] (245,908)<font >complete_manuscript.txt />
+	[144] (398,908)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/83dd49e997efea9708c9fc666be91c59af01cfc8' title='마무리 작업' />
+		[145] (398,908)<font  />
+			[146] (398,908)<font >마무리 작업 />
+	2년 전
+[147] (419,951)<tr  />
+	[148] (230,951)<a aria-label='diagram.png, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/diagram.png' title='다이어그램.png' />
+		[149] (230,951)<font  />
+			[150] (230,951)<font >다이어그램.png />
+	[151] (387,951)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/6f3aa68fd60fb35fb1ee44cdfa40cd90b0b4882c' title='영상' />
+		[152] (387,951)<font  />
+			[153] (387,951)<font >영상 />
+	벨
+[154] (419,994)<tr  />
+	[155] (229,995)<a aria-label='diagram.svg, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/diagram.svg' title='다이어그램.svg' />
+		[156] (229,995)<font  />
+			[157] (229,995)<font >다이어그램.svg />
+	[158] (387,995)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/6f3aa68fd60fb35fb1ee44cdfa40cd90b0b4882c' title='영상' />
+		[159] (387,995)<font  />
+			[160] (387,995)<font >영상 />
+	벨
+[161] (687,13)<a class='Link--primary no-underline Link' href='/mind-protocol/terminal-velocity/releases' />
+	[162] (687,13)<font  />
+		[163] (687,13)<font >릴리스 />
+발표된 릴리스 없음
+[164] (746,110)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/mind-protocol/packages?repo_name=terminal-velocity' />
+	[165] (687,110)<font  />
+		[166] (687,110)<font >패키지 />
+게시된 패키지가 없습니다.
+[167] (746,206)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mind-protocol/terminal-velocity/graphs/contributors' />
+	[168] (687,206)<font  />
+		[169] (687,206)<font >기고자 />
+	[170] (705,206)<span  />
+		[171] (705,206)<font  />
+			[172] (705,206)<font >3 />
+[173] (683,253)<a class='mr-2' href='https://github.com/nlr-ai' />
+	[174] (683,253)<img  />
+[175] (712,253)<a class='Link--primary no-underline flex-self-center' href='https://github.com/nlr-ai' />
+	[176] (705,253)<strong  />
+		[177] (705,253)<font  />
+			[178] (705,253)<font >nlr-ai />
+	[179] (722,253)<span  />
+		[180] (722,253)<font  />
+			[181] (722,253)<font >NLR />
+[182] (683,295)<a class='mr-2' href='https://github.com/alx' />
+	[183] (683,295)<img  />
+[184] (746,295)<a class='Link--primary no-underline flex-self-center' href='https://github.com/alx' />
+	[185] (707,295)<strong  />
+		[186] (707,295)<font  />
+			[187] (707,295)<font >알렉스 />
+	[188] (757,295)<span  />
+		[189] (757,295)<font  />
+			[190] (757,295)<font >알렉상드르 지라르 다빌라 />
+언어
+[191] (699,424)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/terminal-velocity/search?l=python' />
+	[192] (696,424)<span  />
+		[193] (696,424)<font  />
+			[194] (696,424)<font >파이썬 />
+	[195] (715,424)<span  />
+		[196] (715,424)<font  />
+			[197] (715,424)<font >78.6% />
+[198] (765,424)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/terminal-velocity/search?l=javascript' />
+	[199] (764,424)<span  />
+		[200] (764,424)<font  />
+			[201] (764,424)<font >자바스크립트 />
+	[202] (789,424)<span  />
+		[203] (789,424)<font  />
+			[204] (789,424)<font >9.5% />
+[205] (694,448)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/terminal-velocity/search?l=css' />
+	[206] (693,448)<span  />
+		[207] (693,448)<font  />
+			[208] (693,448)<font >CSS />
+	[209] (707,448)<span  />
+		[210] (707,448)<font  />
+			[211] (707,448)<font >8.2% />
+[212] (746,448)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/mind-protocol/terminal-velocity/search?l=html' />
+	[213] (745,448)<span  />
+		[214] (745,448)<font  />
+			[215] (745,448)<font >HTML />
+	[216] (762,448)<span  />
+		[217] (762,448)<font  />
+			[218] (762,448)<font >3.7% />
+
+</current_dom>

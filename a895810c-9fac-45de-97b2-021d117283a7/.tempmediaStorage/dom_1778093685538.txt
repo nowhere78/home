@@ -1,0 +1,416 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (80,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mind-protocol' />
+	[3] (80,34)<span  />
+		[4] (80,33)<font  />
+			[5] (80,33)<font >마인드 프로토콜 />
+[6] (133,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mind-protocol/terminal-velocity' />
+	[7] (133,34)<span  />
+		[8] (133,33)<font  />
+			[9] (133,33)<font >종단 속도 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+	[33] (96,80)<span  />
+		[34] (96,80)<span  />
+			[35] (96,80)<font  />
+				[36] (96,80)<font >1 />
+		(
+		1
+		)
+[37] (141,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/pulls' />
+	[38] (118,80)<span  />
+	[39] (147,80)<span  />
+		[40] (147,80)<font  />
+			[41] (147,80)<font >풀 리퀘스트 />
+[42] (205,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/agents?author=nowhere78' />
+	[43] (185,80)<span  />
+	[44] (211,80)<span  />
+		[45] (211,80)<font  />
+			[46] (211,80)<font >자치령 대표 />
+[47] (260,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/actions' />
+	[48] (246,80)<span  />
+	[49] (266,80)<span  />
+		[50] (266,80)<font  />
+			[51] (266,80)<font >행위 />
+[52] (311,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/projects' />
+	[53] (295,80)<span  />
+	[54] (317,80)<span  />
+		[55] (317,80)<font  />
+			[56] (317,80)<font >프로젝트 />
+[57] (382,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/security' />
+	[58] (347,80)<span  />
+	[59] (388,80)<span  />
+		[60] (388,80)<font  />
+			[61] (388,80)<font >보안 및 품질 />
+[62] (453,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/pulse' />
+	[63] (438,80)<span  />
+	[64] (460,80)<span  />
+		[65] (460,80)<font  />
+			[66] (460,80)<font >인사이트 />
+[67] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[68] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[69] (65,190)<span  />
+		[70] (58,190)<span  />
+			[71] (58,190)<div  />
+				[72] (19,190)<div  />
+				[73] (33,190)<div  />
+					[74] (33,190)<span  />
+						[75] (34,190)<font  />
+							[76] (34,190)<font >기본 />
+[77] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/mind-protocol/terminal-velocity/new/main/scripts' />
+[78] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[79] (83,233)<span  />
+	[80] (17,233)<span  />
+	[81] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[82] (148,233)<span  />
+		[83] (148,233)<kbd  />
+			[84] (148,233)<span >t />
+				t
+				[85] (148,233)<span >T />
+[86] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[87] (79,914)<div  />
+		[88] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='Update `-item' role='treeitem' />
+			[89] (79,279)<div  />
+				[90] (13,279)<div  />
+				[91] (84,279)<div  />
+					[92] (25,279)<div  />
+						[93] (25,279)<div  />
+					[94] (90,279)<span  />
+						[95] (47,279)<span  />
+							[96] (47,279)<font  />
+								[97] (47,279)<font >업데이트 />
+		[98] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='chapters-item' role='treeitem' />
+			[99] (79,314)<div  />
+				[100] (13,314)<div  />
+				[101] (84,314)<div  />
+					[102] (25,313)<div  />
+						[103] (25,313)<div  />
+					[104] (90,314)<span  />
+						[105] (40,314)<span  />
+							[106] (40,314)<font  />
+								[107] (40,314)<font >챕터 />
+		[108] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='characters-item' role='treeitem' />
+			[109] (79,348)<div  />
+				[110] (13,348)<div  />
+				[111] (84,348)<div  />
+					[112] (25,347)<div  />
+						[113] (25,347)<div  />
+					[114] (90,348)<span  />
+						[115] (43,348)<span  />
+							[116] (43,348)<font  />
+								[117] (43,348)<font >캐릭터 />
+		[118] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='chronicles-item' role='treeitem' />
+			[119] (79,382)<div  />
+				[120] (13,382)<div  />
+				[121] (84,382)<div  />
+					[122] (25,382)<div  />
+						[123] (25,382)<div  />
+					[124] (90,382)<span  />
+						[125] (43,382)<span  />
+							[126] (43,382)<font  />
+								[127] (43,382)<font >연대기 />
+		[128] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='documentation-item' role='treeitem' />
+			[129] (79,416)<div  />
+				[130] (13,416)<div  />
+				[131] (84,416)<div  />
+					[132] (25,416)<div  />
+						[133] (25,416)<div  />
+					[134] (90,416)<span  />
+						[135] (55,416)<span  />
+							[136] (55,416)<font  />
+								[137] (55,416)<font >선적 서류 비치 />
+		[138] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='evaluation-item' role='treeitem' />
+			[139] (79,450)<div  />
+				[140] (13,450)<div  />
+				[141] (84,450)<div  />
+					[142] (25,450)<div  />
+						[143] (25,450)<div  />
+					[144] (90,450)<span  />
+						[145] (40,450)<span  />
+							[146] (40,450)<font  />
+								[147] (40,450)<font >평가 />
+		[148] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='final_text-item' role='treeitem' />
+			[149] (79,484)<div  />
+				[150] (13,484)<div  />
+				[151] (84,484)<div  />
+					[152] (25,484)<div  />
+						[153] (25,484)<div  />
+					[154] (90,484)<span  />
+						[155] (51,484)<span  />
+							[156] (51,484)<font  />
+								[157] (51,484)<font >최종 텍스트 />
+		[158] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='findings-item' role='treeitem' />
+			[159] (79,518)<div  />
+				[160] (13,518)<div  />
+				[161] (84,518)<div  />
+					[162] (25,518)<div  />
+						[163] (25,518)<div  />
+					[164] (90,518)<span  />
+						[165] (48,518)<span  />
+							[166] (48,518)<font  />
+								[167] (48,518)<font >연구 결과 />
+		[168] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ideas-item' role='treeitem' />
+			[169] (79,552)<div  />
+				[170] (13,552)<div  />
+				[171] (84,552)<div  />
+					[172] (25,552)<div  />
+						[173] (25,552)<div  />
+					[174] (90,552)<span  />
+						[175] (47,552)<span  />
+							[176] (47,552)<font  />
+								[177] (47,552)<font >아이디어 />
+		[178] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='mathweb-item' role='treeitem' />
+			[179] (79,586)<div  />
+				[180] (13,586)<div  />
+				[181] (84,586)<div  />
+					[182] (25,586)<div  />
+						[183] (25,586)<div  />
+					[184] (90,586)<span  />
+						[185] (43,586)<span  />
+							[186] (43,586)<font  />
+								[187] (43,586)<font >매스웹 />
+		[188] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='monitoring-item' role='treeitem' />
+			[189] (79,620)<div  />
+				[190] (13,620)<div  />
+				[191] (84,620)<div  />
+					[192] (25,620)<div  />
+						[193] (25,620)<div  />
+					[194] (90,620)<span  />
+						[195] (47,620)<span  />
+							[196] (47,620)<font  />
+								[197] (47,620)<font >모니터링 />
+		[198] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='new_documentation-item' role='treeitem' />
+			[199] (79,654)<div  />
+				[200] (13,654)<div  />
+				[201] (84,654)<div  />
+					[202] (25,654)<div  />
+						[203] (25,654)<div  />
+					[204] (90,654)<span  />
+						[205] (51,654)<span  />
+							[206] (51,654)<font  />
+								[207] (51,654)<font >새로운 문서 />
+		[208] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='other-item' role='treeitem' />
+			[209] (79,688)<div  />
+				[210] (13,688)<div  />
+				[211] (84,688)<div  />
+					[212] (25,688)<div  />
+						[213] (25,688)<div  />
+					[214] (90,688)<span  />
+						[215] (40,688)<span  />
+							[216] (40,688)<font  />
+								[217] (40,688)<font >다른 />
+		[218] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='research-item' role='treeitem' />
+			[219] (79,722)<div  />
+				[220] (13,722)<div  />
+				[221] (84,722)<div  />
+					[222] (25,722)<div  />
+						[223] (25,722)<div  />
+					[224] (90,722)<span  />
+						[225] (40,722)<span  />
+							[226] (40,722)<font  />
+								[227] (40,722)<font >연구 />
+		[228] (79,841)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts-item' role='treeitem' />
+			[229] (79,756)<div  />
+				[230] (13,756)<div  />
+				[231] (84,756)<div  />
+					[232] (25,756)<div  />
+						[233] (25,756)<div  />
+					[234] (90,756)<span  />
+						[235] (47,756)<span  />
+							[236] (47,756)<font  />
+								[237] (47,756)<font >스크립트 />
+			[238] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts/clean_line_breaks.py-item' role='treeitem' />
+				[239] (79,790)<div  />
+					[240] (10,790)<div  />
+						[241] (10,790)<div  />
+							[242] (10,790)<div  />
+					[243] (86,790)<div  />
+						[244] (29,790)<div  />
+						[245] (92,790)<span  />
+							[246] (70,790)<span  />
+								[247] (70,790)<font  />
+									[248] (70,790)<font >clean_line_breaks.py />
+			[249] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts/concatenate_final_text.py-item' role='treeitem' />
+				[250] (79,824)<div  />
+					[251] (10,824)<div  />
+						[252] (10,824)<div  />
+							[253] (10,824)<div  />
+					[254] (86,824)<div  />
+						[255] (29,824)<div  />
+						[256] (92,824)<span  />
+							[257] (78,824)<span  />
+								[258] (78,824)<font  />
+									[259] (78,824)<font >concatenate_final_text.py />
+			[260] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts/count_words.py-item' role='treeitem' />
+				[261] (79,858)<div  />
+					[262] (10,858)<div  />
+						[263] (10,858)<div  />
+							[264] (10,858)<div  />
+					[265] (86,858)<div  />
+						[266] (29,858)<div  />
+						[267] (92,858)<span  />
+							[268] (63,858)<span  />
+								[269] (63,858)<font  />
+									[270] (63,858)<font >count_words.py />
+			[271] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts/create_final_text_structure.py-item' role='treeitem' />
+				[272] (79,893)<div  />
+					[273] (10,893)<div  />
+						[274] (10,893)<div  />
+							[275] (10,893)<div  />
+					[276] (86,893)<div  />
+						[277] (29,892)<div  />
+						[278] (92,893)<span  />
+							[279] (84,893)<span  />
+								[280] (84,893)<font  />
+									[281] (84,893)<font >create_final_text_structure.py />
+			[282] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts/encode_utf8.py-item' role='treeitem' />
+				[283] (79,927)<div  />
+					[284] (10,927)<div  />
+						[285] (10,927)<div  />
+							[286] (10,927)<div  />
+					[287] (86,927)<div  />
+						[288] (29,927)<div  />
+						[289] (92,927)<span  />
+							[290] (62,927)<span  />
+								[291] (62,927)<font  />
+									[292] (62,927)<font >encode_utf8.py />
+		[293] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='static-item' role='treeitem' />
+			[294] (79,961)<div  />
+				[295] (13,961)<div  />
+				[296] (84,961)<div  />
+					[297] (25,961)<div  />
+						[298] (25,961)<div  />
+					[299] (90,961)<span  />
+						[300] (40,961)<span  />
+							[301] (40,961)<font  />
+								[302] (40,961)<font >공전 />
+		[303] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='story-item' role='treeitem' />
+			[304] (79,995)<div  />
+				[305] (13,995)<div  />
+				[306] (84,995)<div  />
+					[307] (25,995)<div  />
+						[308] (25,995)<div  />
+					[309] (90,995)<span  />
+						[310] (43,995)<span  />
+							[311] (43,995)<font  />
+								[312] (43,995)<font >이야기 />
+[313] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[314] (192,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mind-protocol/terminal-velocity/tree/main' />
+	[315] (192,139)<font  />
+		[316] (192,139)<font >종단 속도 />
+/
+스크립트
+/
+[317] (274,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[318] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_4q_' />
+	[319] (945,140)<span  />
+		[320] (945,140)<span  />
+			[321] (945,140)<span  />
+				[322] (941,140)<font  />
+					[323] (941,140)<font >파일 추가 />
+더 많은 옵션
+[324] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='더 많은 옵션' />
+최신 커밋
+저장소 시각화 도구(aider)
+[325] (374,198)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ff86fbc9ac4fa28f3df523e6c5ff3f22a7272d4a' />
+	[326] (374,198)<font  />
+		[327] (374,198)<font >리팩토링: 연결 작업에서 장면 번호 추출 및 필터링 기능 개선… />
+[328] (478,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[329] (921,198)<a aria-label='ff86fbc 커밋' class='Link--secondary prc-Link-Link-9ZwDx' href='/mind-protocol/terminal-velocity/commit/ff86fbc9ac4fa28f3df523e6c5ff3f22a7272d4a' />
+	[330] (921,198)<font  />
+		[331] (921,198)<font >ff86fbc />
+·
+2년 전
+역사
+[332] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mind-protocol/terminal-velocity/commits/main/scripts' />
+	[333] (971,198)<span  />
+		[334] (977,198)<span  />
+			[335] (977,197)<span  />
+				[336] (977,197)<font  />
+					[337] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[338] (584,304)<tr  />
+	상위 디렉토리
+	[339] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/mind-protocol/terminal-velocity/tree/main' />
+		[340] (584,304)<div  />
+			[341] (201,304)<font  />
+				[342] (201,304)<font >.. />
+[343] (584,347)<tr  />
+	[344] (230,347)<a aria-label='clean_line_breaks.py, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/scripts/clean_line_breaks.py' title='clean_line_breaks.py' />
+		[345] (230,347)<font  />
+			[346] (230,347)<font >clean_line_breaks.py />
+	[347] (625,347)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/c18e084ce22a5b349d2521c2cbafedbbdb736d46' title='리팩터링: 🔧 Améliorer le script de nettoyage des sauts de ligne avec regex et support étendu. Amélioration du script de nettoyage des fichiers avec une gestion plus Stronge des sauts de ligne, ajout de support pour plus d'extensions de fichiers et 억제 des espaces de fin de ligne via des 표현 régulières.' />
+		[348] (625,347)<font  />
+			[349] (625,347)<font >리팩터링: 🔧 Améliorer le script de nettoyage des sauts de ligne avec … />
+	2년 전
+[350] (584,390)<tr  />
+	[351] (238,390)<a aria-label='concatenate_final_text.py, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/scripts/concatenate_final_text.py' title='concatenate_final_text.py' />
+		[352] (238,390)<font  />
+			[353] (238,390)<font >concatenate_final_text.py />
+	[354] (603,390)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ff86fbc9ac4fa28f3df523e6c5ff3f22a7272d4a' title='리팩토링: concatenate_final_text에서 장면 번호 추출 및 필터링 기능을 개선했습니다.' />
+		[355] (603,390)<font  />
+			[356] (603,390)<font >리팩토링: 연결 작업에서 장면 번호 추출 및 필터링 기능 개선… />
+	2년 전
+[357] (584,433)<tr  />
+	[358] (223,434)<a aria-label='count_words.py, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/scripts/count_words.py' title='count_words.py' />
+		[359] (223,434)<font  />
+			[360] (223,434)<font >count_words.py />
+	[361] (596,434)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/30f178447b66e8d19f874dbb0815e479a4fb5090' title='기능: 단어 수 분석 스크립트에 색상으로 구분된 출력 추가' />
+		[362] (596,434)<font  />
+			[363] (596,434)<font >기능: 단어 수 분석 스크립트에 색상으로 구분된 출력 추가 />
+	2년 전
+[364] (584,477)<tr  />
+	[365] (244,477)<a aria-label='create_final_text_structure.py, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/scripts/create_final_text_structure.py' title='create_final_text_structure.py' />
+		[366] (244,477)<font  />
+			[367] (244,477)<font >create_final_text_structure.py />
+	[368] (623,477)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/67f4a23abf92b88597b63024322d4b35d1f280b4' title='리팩터링: 🔍 Corrige l'indentation du script de Création de Structure de répertoires. 들여쓰기 및 주석 작성 및 스크립트 수정 Python은 코드 일관성 및 허용 가능한 구조를 보장합니다.' />
+		[369] (623,477)<font  />
+			[370] (623,477)<font >리팩터링: 🔍 Corrige l'indentation du script de création de Structure ... />
+	2년 전
+[371] (584,520)<tr  />
+	[372] (222,521)<a aria-label='encode_utf8.py, (파일)' class='Link--primary' href='/mind-protocol/terminal-velocity/blob/main/scripts/encode_utf8.py' title='encode_utf8.py' />
+		[373] (222,521)<font  />
+			[374] (222,521)<font >encode_utf8.py />
+	[375] (605,521)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/60a76cffe914283ee1260132061d552e73b480a6' title='기능: 텍스트 파일을 UTF-8 인코딩으로 변환하는 스크립트 추가' />
+		[376] (605,521)<font  />
+			[377] (605,521)<font >기능: 텍스트 파일을 UTF-8 인코딩으로 변환하는 스크립트 추가 />
+	2년 전
+
+</current_dom>

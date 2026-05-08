@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "업비트 자동매매 봇(trading_bot_v5_luna.py)에 24시간 무한 조사하는 '왼쪽뇌(Left Brain)' 엔진을 연결하는 구현 계획. 시장 데이터 수집봇, 뉴스 감성 감시봇, 전략 라이브러리 마이너 3종을 만들고, 통합 Intelligence DB를 통해 기존 매매 봇에 실시간 신호를 공급하는 아키텍처. 마스터 런처로 전체 시스템을 24시간 자동 관리.",
+  "updatedAt":  "2026-04-30T12:40:38.628639Z",
+  "requestFeedback":  true
+}

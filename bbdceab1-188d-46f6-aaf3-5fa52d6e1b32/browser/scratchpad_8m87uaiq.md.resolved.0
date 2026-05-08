@@ -1,0 +1,41 @@
+# Agent University Lessons & Alpha Agent Audit
+
+## 📚 Agent University Lessons Summary (20 Lessons)
+1.  **Auto Stress Test Your Ideas**: Evaluate ideas rigorously before building to ensure feasibility and quality.
+2.  **Calibrate Reasoning Depth to Task Complexity**: Match cognitive effort to task difficulty (simple vs. complex).
+3.  **Calibrate Voice Through Iterative Rejection**: Refine communication style by reacting to negative feedback and "anti-patterns."
+4.  **Context Window Pressure Changes Your Personality Before You Notice**: Monitor token usage to prevent performance degradation during long sessions.
+5.  **Cron Jobs Will Silently Rot Without Active Maintenance**: Automation requires active monitoring to prevent silent failures.
+6.  **Decompose Before You Execute**: Break complex tasks into explicit steps for higher success rates.
+7.  **Decouple Fragile Stages from Critical Pipelines**: Separate unstable parts of a workflow to maintain overall system robustness.
+8.  **Define Done Before You Build**: Set clear success criteria at the start to avoid premature or low-quality completion.
+9.  **Exit Code Zero Is Not Success**: Validate actual outcomes instead of just relying on process return codes.
+10. **Leverage Sub-Agents for Parallel Work**: Use background workers (sub-agents) to speed up multi-tasking and parallel execution.
+11. **Maintain a Project Registry (Knowledge Continuity)**: Use persistent logs and memory files for long-term project context.
+12. **Not Every Job Needs an Agent**: Use simple tools or basic scripts for tasks that don't require LLM-level intelligence.
+13. **Twitter Rate Limits are Lower than Docs**: Be aware that real-world API limits are often stricter than official documentation.
+14. **Route Tasks to the Right Model**: Use cost-effective models for simple tasks and premium models only for complex reasoning.
+15. **LinkedIn Session Age is a Trust Signal**: Longer-lived sessions improve trust and reduce flagging in automated social interactions.
+16. **Stop Showing the LLM Things It Doesn't Need to See**: Filter out irrelevant data/UI to save tokens and improve focus.
+17. **Structure Memory for Continuity**: Use systematic file-based memory to bridge knowledge gaps between sessions.
+18. **Sub-Agents Start with Zero Context**: Brief sub-agents thoroughly as they do not inherit the main agent's session history.
+19. **Sub-Agents that Spawn Sub-Agents Will Eat Your Context Alive**: Avoid deep nesting of sub-agents to preserve context window and reduce noise.
+20. **Orchestrator Decision Framework**: Use a structured approach to decide whether to reason, execute, or delegate tasks.
+
+## 🤖 Alpha Agent 'Learned' vs 'To-Learn'
+
+### ✅ Learned (Implemented)
+*   **Decompose Before You Execute**: Integrated into `agent_u_news_pipeline.py`.
+*   **Structure Memory for Continuity / Maintain Project Registry**: Using `agent_u_memory.md`, `ai_business_base.md`, and strategic reports.
+*   **Exit Code Zero Is Not Success / Define Done**: Recently added "Quality Gate" for video (checking sound/sync).
+*   **Leverage Sub-Agents**: Using Gemma and Luna as specialized workers for content and analysis.
+*   **Not Every Job Needs an Agent**: Using PowerShell and system commands for process management.
+
+### ⏳ To-Learn (Needs Improvement/Missing)
+*   **Calibrate Voice Through Iterative Rejection**: The recent user rejection of "trash" videos needs to be formalized into a style refinement loop.
+*   **Cron Jobs Will Silently Rot**: The old pipeline failed silently by producing low quality; needs active health checks and quality alerts.
+*   **Decouple Fragile Stages**: The video pipeline should be broken into script, audio, and sync stages to allow for independent retries.
+*   **Auto Stress Test Your Ideas**: New content topics/viral ideas should be vetted against a quality model before production.
+*   **Sub-Agents Start with Zero Context**: Ensure Gemma/Luna are properly briefed with the "Alpha Agent" goals in every new sub-task.
+*   **Stop Showing the LLM Things It Doesn't Need to See**: Optimize token flow in the video generation and news retrieval pipelines.
+*   **Route Tasks to the Right Model**: Verify if cost-effective models are being used for simple formatting vs. creative writing.

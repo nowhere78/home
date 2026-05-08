@@ -1,0 +1,931 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (72,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/vercel-labs' />
+		[4] (72,34)<span  />
+			[5] (72,33)<font  />
+				[6] (72,33)<font >베르셀랩스 />
+	[7] (124,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/vercel-labs/open-agents' />
+		[8] (124,34)<span  />
+			[9] (124,33)<font  />
+				[10] (124,33)<font >오픈 에이전트 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_f1_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_f6_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (99,80)<span  />
+			[35] (99,80)<span  />
+				[36] (99,80)<font  />
+					[37] (99,80)<font >28 />
+			(
+			28
+			)
+	[38] (155,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/pulls' />
+		[39] (122,80)<span  />
+		[40] (152,80)<span  />
+			[41] (152,80)<font  />
+				[42] (152,80)<font >풀 리퀘스트 />
+		[43] (184,80)<span  />
+			[44] (184,80)<span  />
+				[45] (184,80)<font  />
+					[46] (184,80)<font >22 />
+			(
+			22
+			)
+	[47] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/agents?author=nowhere78' />
+		[48] (208,80)<span  />
+		[49] (234,80)<span  />
+			[50] (234,80)<font  />
+				[51] (234,80)<font >자치령 대표 />
+	[52] (283,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/actions' />
+		[53] (269,80)<span  />
+		[54] (289,80)<span  />
+			[55] (289,80)<font  />
+				[56] (289,80)<font >행위 />
+	[57] (334,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/projects' />
+		[58] (318,80)<span  />
+		[59] (340,80)<span  />
+			[60] (340,80)<font  />
+				[61] (340,80)<font >프로젝트 />
+	[62] (405,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/security' />
+		[63] (370,80)<span  />
+		[64] (411,80)<span  />
+			[65] (411,80)<font  />
+				[66] (411,80)<font >보안 및 품질 />
+	[67] (476,80)<a class='prc-components-UnderlineItem-7fP-n' href='/vercel-labs/open-agents/pulse' />
+		[68] (461,80)<span  />
+		[69] (482,80)<span  />
+			[70] (482,80)<font  />
+				[71] (482,80)<font >인사이트 />
+[72] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[73] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[74] (65,190)<span  />
+		[75] (58,190)<span  />
+			[76] (58,190)<div  />
+				[77] (19,190)<div  />
+				[78] (33,190)<div  />
+					[79] (33,190)<span  />
+						[80] (34,190)<font  />
+							[81] (34,190)<font >기본 />
+[82] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/vercel-labs/open-agents/new/main/apps/web/components/tool-call/renderers' />
+[83] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[84] (83,233)<span  />
+	[85] (17,233)<span  />
+	[86] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[87] (148,233)<span  />
+		[88] (148,233)<kbd  />
+			[89] (148,233)<span >t />
+				t
+				[90] (148,233)<span >T />
+[91] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[92] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.agents-item' role='treeitem' />
+		[93] (79,279)<div  />
+			[94] (13,279)<div  />
+			[95] (84,279)<div  />
+				[96] (25,279)<div  />
+					[97] (25,279)<div  />
+				[98] (90,279)<span  />
+					[99] (52,279)<span  />
+						[100] (52,279)<font  />
+							[101] (52,279)<font >.자치령 대표 />
+	[102] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[103] (79,314)<div  />
+			[104] (13,314)<div  />
+			[105] (84,314)<div  />
+				[106] (25,313)<div  />
+					[107] (25,313)<div  />
+				[108] (90,314)<span  />
+					[109] (45,314)<span  />
+						[110] (45,314)<font  />
+							[111] (45,314)<font >.github />
+	[112] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscode-item' role='treeitem' />
+		[113] (79,348)<div  />
+			[114] (13,348)<div  />
+			[115] (84,348)<div  />
+				[116] (25,347)<div  />
+					[117] (25,347)<div  />
+				[118] (90,348)<span  />
+					[119] (45,348)<span  />
+						[120] (45,348)<font  />
+							[121] (45,348)<font >.vscode />
+	[122] (79,382)<div  />
+		[123] (13,382)<div  />
+		[124] (84,382)<div  />
+			[125] (25,382)<div  />
+				[126] (25,382)<div  />
+			[127] (90,382)<span  />
+				[128] (42,382)<span  />
+					[129] (39,382)<font  />
+						[130] (39,382)<font >앱/ />
+					[131] (48,382)<font  />
+						[132] (48,382)<font >웹 />
+	[133] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/app-item' role='treeitem' />
+		[134] (79,416)<div  />
+			[135] (10,416)<div  />
+				[136] (10,416)<div  />
+					[137] (10,416)<div  />
+			[138] (17,416)<div  />
+			[139] (86,416)<div  />
+				[140] (29,416)<div  />
+					[141] (29,416)<div  />
+				[142] (92,416)<span  />
+					[143] (41,416)<span  />
+						[144] (41,416)<font  />
+							[145] (41,416)<font >앱 />
+	[146] (79,450)<div  />
+		[147] (10,450)<div  />
+			[148] (10,450)<div  />
+				[149] (10,450)<div  />
+		[150] (17,450)<div  />
+		[151] (86,450)<div  />
+			[152] (29,450)<div  />
+				[153] (29,450)<div  />
+			[154] (92,450)<span  />
+				[155] (52,450)<span  />
+					[156] (52,450)<font  />
+						[157] (52,450)<font >구성 요소 />
+	[158] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/auth-item' role='treeitem' />
+		[159] (79,484)<div  />
+			[160] (13,484)<div  />
+				[161] (13,484)<div  />
+					[162] (10,484)<div  />
+					[163] (15,484)<div  />
+			[164] (21,484)<div  />
+			[165] (88,484)<div  />
+				[166] (33,484)<div  />
+					[167] (33,484)<div  />
+				[168] (94,484)<span  />
+					[169] (48,484)<span  />
+						[170] (48,484)<font  />
+							[171] (48,484)<font >인증 />
+	[172] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/landing-item' role='treeitem' />
+		[173] (79,518)<div  />
+			[174] (13,518)<div  />
+				[175] (13,518)<div  />
+					[176] (10,518)<div  />
+					[177] (15,518)<div  />
+			[178] (21,518)<div  />
+			[179] (88,518)<div  />
+				[180] (33,518)<div  />
+					[181] (33,518)<div  />
+				[182] (94,518)<span  />
+					[183] (48,518)<span  />
+						[184] (48,518)<font  />
+							[185] (48,518)<font >착륙 />
+	[186] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call-item' role='treeitem' />
+		[187] (79,552)<div  />
+			[188] (13,552)<div  />
+				[189] (13,552)<div  />
+					[190] (10,552)<div  />
+					[191] (15,552)<div  />
+			[192] (21,552)<div  />
+			[193] (88,552)<div  />
+				[194] (33,552)<div  />
+					[195] (33,552)<div  />
+				[196] (94,552)<span  />
+					[197] (48,552)<span  />
+						[198] (48,552)<font  />
+							[199] (48,552)<font >툴콜 />
+		[200] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers-item' role='treeitem' />
+			[201] (79,586)<div  />
+				[202] (15,586)<div  />
+					[203] (15,586)<div  />
+						[204] (10,586)<div  />
+						[205] (15,586)<div  />
+						[206] (19,586)<div  />
+				[207] (25,586)<div  />
+				[208] (90,586)<div  />
+					[209] (38,586)<div  />
+						[210] (38,586)<div  />
+					[211] (96,586)<span  />
+						[212] (56,586)<span  />
+							[213] (56,586)<font  />
+								[214] (56,586)<font >렌더러 />
+			[215] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/ask-user-question-renderer.tsx-item' role='treeitem' />
+				[216] (79,620)<div  />
+					[217] (17,620)<div  />
+						[218] (17,620)<div  />
+							[219] (10,620)<div  />
+							[220] (15,620)<div  />
+							[221] (19,620)<div  />
+							[222] (23,620)<div  />
+					[223] (92,620)<div  />
+						[224] (42,620)<div  />
+						[225] (98,620)<span  />
+							[226] (99,620)<span  />
+								[227] (99,620)<font  />
+									[228] (99,620)<font >ask-user-question-renderer.tsx />
+			[229] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/bash-renderer.test.tsx-item' role='treeitem' />
+				[230] (79,654)<div  />
+					[231] (17,654)<div  />
+						[232] (17,654)<div  />
+							[233] (10,654)<div  />
+							[234] (15,654)<div  />
+							[235] (19,654)<div  />
+							[236] (23,654)<div  />
+					[237] (92,654)<div  />
+						[238] (42,654)<div  />
+						[239] (98,654)<span  />
+							[240] (85,654)<span  />
+								[241] (85,654)<font  />
+									[242] (85,654)<font >bash-renderer.test.tsx />
+			[243] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/bash-renderer.tsx-item' role='treeitem' />
+				[244] (79,688)<div  />
+					[245] (17,688)<div  />
+						[246] (17,688)<div  />
+							[247] (10,688)<div  />
+							[248] (15,688)<div  />
+							[249] (19,688)<div  />
+							[250] (23,688)<div  />
+					[251] (92,688)<div  />
+						[252] (42,688)<div  />
+						[253] (98,688)<span  />
+							[254] (78,688)<span  />
+								[255] (78,688)<font  />
+									[256] (78,688)<font >bash-renderer.tsx />
+			[257] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/edit-renderer.tsx-item' role='treeitem' />
+				[258] (79,722)<div  />
+					[259] (17,722)<div  />
+						[260] (17,722)<div  />
+							[261] (10,722)<div  />
+							[262] (15,722)<div  />
+							[263] (19,722)<div  />
+							[264] (23,722)<div  />
+					[265] (92,722)<div  />
+						[266] (42,722)<div  />
+						[267] (98,722)<span  />
+							[268] (77,722)<span  />
+								[269] (77,722)<font  />
+									[270] (77,722)<font >edit-renderer.tsx />
+			[271] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/fetch-renderer.tsx-item' role='treeitem' />
+				[272] (79,756)<div  />
+					[273] (17,756)<div  />
+						[274] (17,756)<div  />
+							[275] (10,756)<div  />
+							[276] (15,756)<div  />
+							[277] (19,756)<div  />
+							[278] (23,756)<div  />
+					[279] (92,756)<div  />
+						[280] (42,756)<div  />
+						[281] (98,756)<span  />
+							[282] (78,756)<span  />
+								[283] (78,756)<font  />
+									[284] (78,756)<font >fetch-renderer.tsx />
+			[285] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/glob-renderer.tsx-item' role='treeitem' />
+				[286] (79,790)<div  />
+					[287] (17,790)<div  />
+						[288] (17,790)<div  />
+							[289] (10,790)<div  />
+							[290] (15,790)<div  />
+							[291] (19,790)<div  />
+							[292] (23,790)<div  />
+					[293] (92,790)<div  />
+						[294] (42,790)<div  />
+						[295] (98,790)<span  />
+							[296] (76,790)<span  />
+								[297] (76,790)<font  />
+									[298] (76,790)<font >글로브 렌더러.tsx />
+			[299] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/grep-renderer.tsx-item' role='treeitem' />
+				[300] (79,824)<div  />
+					[301] (17,824)<div  />
+						[302] (17,824)<div  />
+							[303] (10,824)<div  />
+							[304] (15,824)<div  />
+							[305] (19,824)<div  />
+							[306] (23,824)<div  />
+					[307] (92,824)<div  />
+						[308] (42,824)<div  />
+						[309] (98,824)<span  />
+							[310] (78,824)<span  />
+								[311] (78,824)<font  />
+									[312] (78,824)<font >grep-renderer.tsx />
+			[313] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/read-renderer.tsx-item' role='treeitem' />
+				[314] (79,858)<div  />
+					[315] (17,858)<div  />
+						[316] (17,858)<div  />
+							[317] (10,858)<div  />
+							[318] (15,858)<div  />
+							[319] (19,858)<div  />
+							[320] (23,858)<div  />
+					[321] (92,858)<div  />
+						[322] (42,858)<div  />
+						[323] (98,858)<span  />
+							[324] (78,858)<span  />
+								[325] (78,858)<font  />
+									[326] (78,858)<font >read-renderer.tsx />
+			[327] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/skill-renderer.tsx-item' role='treeitem' />
+				[328] (79,893)<div  />
+					[329] (17,893)<div  />
+						[330] (17,893)<div  />
+							[331] (10,893)<div  />
+							[332] (15,893)<div  />
+							[333] (19,893)<div  />
+							[334] (23,893)<div  />
+					[335] (92,893)<div  />
+						[336] (42,892)<div  />
+						[337] (98,893)<span  />
+							[338] (73,893)<span  />
+								[339] (73,893)<font  />
+									[340] (73,893)<font >스킬 렌더러.tsx />
+			[341] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/task-renderer.tsx-item' role='treeitem' />
+				[342] (79,927)<div  />
+					[343] (17,927)<div  />
+						[344] (17,927)<div  />
+							[345] (10,927)<div  />
+							[346] (15,927)<div  />
+							[347] (19,927)<div  />
+							[348] (23,927)<div  />
+					[349] (92,927)<div  />
+						[350] (42,927)<div  />
+						[351] (98,927)<span  />
+							[352] (77,927)<span  />
+								[353] (77,927)<font  />
+									[354] (77,927)<font >task-renderer.tsx />
+			[355] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/todo-renderer.tsx-item' role='treeitem' />
+				[356] (79,961)<div  />
+					[357] (17,961)<div  />
+						[358] (17,961)<div  />
+							[359] (10,961)<div  />
+							[360] (15,961)<div  />
+							[361] (19,961)<div  />
+							[362] (23,961)<div  />
+					[363] (92,961)<div  />
+						[364] (42,961)<div  />
+						[365] (98,961)<span  />
+							[366] (74,961)<span  />
+								[367] (74,961)<font  />
+									[368] (74,961)<font >할 일 렌더러.tsx />
+			[369] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps/web/components/tool-call/renderers/write-renderer.tsx-item' role='treeitem' />
+				[370] (79,995)<div  />
+					[371] (17,995)<div  />
+						[372] (17,995)<div  />
+							[373] (10,995)<div  />
+							[374] (15,995)<div  />
+							[375] (19,995)<div  />
+							[376] (23,995)<div  />
+					[377] (92,995)<div  />
+						[378] (42,995)<div  />
+						[379] (98,995)<span  />
+							[380] (78,995)<span  />
+								[381] (78,995)<font  />
+									[382] (78,995)<font >write-renderer.tsx />
+[383] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[384] (200,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main' />
+	[385] (200,139)<font  />
+		[386] (200,139)<font >오픈 에이전트 />
+/
+[387] (242,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main/apps' />
+	[388] (242,139)<font  />
+		[389] (242,139)<font >앱 />
+/
+[390] (263,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main/apps/web' />
+	[391] (263,139)<font  />
+		[392] (263,139)<font >웹 />
+/
+[393] (297,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main/apps/web/components' />
+	[394] (297,139)<font  />
+		[395] (297,139)<font >구성 요소 />
+/
+[396] (335,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main/apps/web/components/tool-call' />
+	[397] (335,139)<font  />
+		[398] (335,139)<font >툴콜 />
+/
+렌더러
+/
+[399] (401,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[400] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_ea_' />
+	[401] (945,140)<span  />
+		[402] (945,140)<span  />
+			[403] (945,140)<span  />
+				[404] (941,140)<font  />
+					[405] (941,140)<font >파일 추가 />
+더 많은 옵션
+[406] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='더 많은 옵션' />
+최신 커밋
+오픈에이전트봇[봇]
+그리고
+[407] (294,198)<a aria-label='윌새더의 커밋' class='AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/commits?author=willsather' />
+	[408] (294,198)<font  />
+		[409] (294,198)<font >윌사더 />
+[410] (317,198)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' />
+	[411] (317,198)<font  />
+		[412] (317,198)<font >작업: />
+[413] (327,198)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' />
+	[414] (327,198)<font >( />
+[415] (338,198)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+	[416] (338,198)<font >#703 />
+[417] (350,198)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' />
+	[418] (350,198)<font >) />
+[419] (372,199)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe'>open-harness />
+[420] (417,198)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' />
+	[421] (417,198)<font  />
+		[422] (417,198)<font >으로 이름 변경 />
+[423] (460,199)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe'>open-agents />
+[424] (490,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[425] (509,198)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[426] (919,198)<a aria-label='커밋 9679c86' class='Link--secondary prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' />
+	[427] (919,198)<font  />
+		[428] (919,198)<font >9679c86 />
+·
+2주 전
+역사
+[429] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/vercel-labs/open-agents/commits/main/apps/web/components/tool-call/renderers' />
+	[430] (971,198)<span  />
+		[431] (977,198)<span  />
+			[432] (977,197)<span  />
+				[433] (977,197)<font  />
+					[434] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[435] (584,304)<tr  />
+	상위 디렉토리
+	[436] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/vercel-labs/open-agents/tree/main/apps/web/components/tool-call' />
+		[437] (584,304)<div  />
+			[438] (201,304)<font  />
+				[439] (201,304)<font >.. />
+[440] (584,347)<tr  />
+	[441] (247,347)<a aria-label='ask-user-question-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/ask-user-question-renderer.tsx' title='ask-user-question-renderer.tsx' />
+		[442] (247,347)<font  />
+			[443] (247,347)<font >ask-user-question-renderer.tsx />
+	[444] (584,347)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[445] (584,347)<font  />
+			[446] (584,347)<font >기능: 개선된 도구 호출 UI 및 고정된 할 일 패널 ( />
+	[447] (666,347)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/612' />
+		[448] (666,347)<font  />
+			[449] (666,347)<font >#612 />
+	[450] (676,347)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[451] (676,347)<font  />
+			[452] (676,347)<font >) />
+	왜냐
+[453] (584,390)<tr  />
+	[454] (233,390)<a aria-label='bash-renderer.test.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/bash-renderer.test.tsx' title='bash-renderer.test.tsx' />
+		[455] (233,390)<font  />
+			[456] (233,390)<font >bash-renderer.test.tsx />
+	[457] (519,390)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[458] (519,390)<font  />
+			[459] (519,390)<font >작업: />
+	[460] (530,390)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[461] (530,390)<font >( />
+	[462] (541,390)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+		[463] (541,390)<font >#703 />
+	[464] (552,390)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[465] (552,390)<font >) />
+	[466] (575,392)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-harness />
+	[467] (619,390)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[468] (619,390)<font  />
+			[469] (619,390)<font >으로 이름 변경 />
+	[470] (662,392)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-agents />
+	2주 전
+[471] (584,433)<tr  />
+	[472] (226,434)<a aria-label='bash-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/bash-renderer.tsx' title='bash-renderer.tsx' />
+		[473] (226,434)<font  />
+			[474] (226,434)<font >bash-renderer.tsx />
+	[475] (567,434)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/56f98c2acaa2ba5883a176a29fddbe6bab5e3aa6' title='작업: 도구 호출 오류 상태 요약 개선 (#617) * 기능: 도구 호출 실패 UI에 오류 상태 스타일 추가 * 테스트: 도구 호출에 대한 오류 상태 UI 어설션 업데이트 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com>' />
+		[476] (567,434)<font  />
+			[477] (567,434)<font >작업: 도구 호출 오류 상태 요약 개선 ( />
+	[478] (633,434)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/617' />
+		[479] (633,434)<font  />
+			[480] (633,434)<font >#617 />
+	[481] (643,434)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/56f98c2acaa2ba5883a176a29fddbe6bab5e3aa6' title='작업: 도구 호출 오류 상태 요약 개선 (#617) * 기능: 도구 호출 실패 UI에 오류 상태 스타일 추가 * 테스트: 도구 호출에 대한 오류 상태 UI 어설션 업데이트 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com>' />
+		[482] (643,434)<font  />
+			[483] (643,434)<font >) />
+	왜냐
+[484] (584,477)<tr  />
+	[485] (225,477)<a aria-label='edit-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/edit-renderer.tsx' title='edit-renderer.tsx' />
+		[486] (225,477)<font  />
+			[487] (225,477)<font >edit-renderer.tsx />
+	[488] (519,477)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[489] (519,477)<font  />
+			[490] (519,477)<font >작업: />
+	[491] (530,477)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[492] (530,477)<font >( />
+	[493] (541,477)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+		[494] (541,477)<font >#703 />
+	[495] (552,477)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[496] (552,477)<font >) />
+	[497] (575,479)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-harness />
+	[498] (619,477)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[499] (619,477)<font  />
+			[500] (619,477)<font >으로 이름 변경 />
+	[501] (662,479)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-agents />
+	2주 전
+[502] (584,520)<tr  />
+	[503] (226,521)<a aria-label='fetch-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/fetch-renderer.tsx' title='fetch-renderer.tsx' />
+		[504] (226,521)<font  />
+			[505] (226,521)<font >fetch-renderer.tsx />
+	[506] (593,521)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/eab74b1f05d0cf5faec6199b12f9b19a4b5c8402' title='fix(fetch): 오류 처리 개선 및 최대 본문 길이 제한 증가 (#780) * fix: 접두사 마커를 사용한 fetch 응답 파싱 개선 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com> * fix: fetch 도구 오류 처리 및 네이티브 fetch API로 마이그레이션 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com> * refactor: curl을 사용한 fetch 도구 재구현 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com> * fix: fetch 도구의 최대 본문 길이를 10KB로 증가 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com> * 리팩토링: MAX_BODY_LENGTH 상수 내보내기 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com> --------- 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[507] (593,521)<font  />
+			[508] (593,521)<font >fix(fetch): 오류 처리 개선 및 최대 본문 길이 제한 증가( />
+	[509] (681,521)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/780' />
+		[510] (681,521)<font  />
+			[511] (681,521)<font >… ) />
+	3주 전
+[512] (584,563)<tr  />
+	[513] (224,564)<a aria-label='glob-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/glob-renderer.tsx' title='글로브 렌더러.tsx' />
+		[514] (224,564)<font  />
+			[515] (224,564)<font >글로브 렌더러.tsx />
+	[516] (584,564)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[517] (584,564)<font  />
+			[518] (584,564)<font >기능: 개선된 도구 호출 UI 및 고정된 할 일 패널 ( />
+	[519] (666,564)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/612' />
+		[520] (666,564)<font  />
+			[521] (666,564)<font >#612 />
+	[522] (676,564)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[523] (676,564)<font  />
+			[524] (676,564)<font >) />
+	왜냐
+[525] (584,607)<tr  />
+	[526] (226,607)<a aria-label='grep-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/grep-renderer.tsx' title='grep-renderer.tsx' />
+		[527] (226,607)<font  />
+			[528] (226,607)<font >grep-renderer.tsx />
+	[529] (584,607)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[530] (584,607)<font  />
+			[531] (584,607)<font >기능: 개선된 도구 호출 UI 및 고정된 할 일 패널 ( />
+	[532] (666,607)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/612' />
+		[533] (666,607)<font  />
+			[534] (666,607)<font >#612 />
+	[535] (676,607)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[536] (676,607)<font  />
+			[537] (676,607)<font >) />
+	왜냐
+[538] (584,650)<tr  />
+	[539] (226,651)<a aria-label='read-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/read-renderer.tsx' title='read-renderer.tsx' />
+		[540] (226,651)<font  />
+			[541] (226,651)<font >read-renderer.tsx />
+	[542] (519,651)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[543] (519,651)<font  />
+			[544] (519,651)<font >작업: />
+	[545] (530,651)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[546] (530,651)<font >( />
+	[547] (541,651)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+		[548] (541,651)<font >#703 />
+	[549] (552,651)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[550] (552,651)<font >) />
+	[551] (575,652)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-harness />
+	[552] (619,651)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[553] (619,651)<font  />
+			[554] (619,651)<font >으로 이름 변경 />
+	[555] (662,652)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-agents />
+	2주 전
+[556] (584,694)<tr  />
+	[557] (221,694)<a aria-label='skill-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/skill-renderer.tsx' title='스킬 렌더러.tsx' />
+		[558] (221,694)<font  />
+			[559] (221,694)<font >스킬 렌더러.tsx />
+	[560] (584,694)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[561] (584,694)<font  />
+			[562] (584,694)<font >기능: 개선된 도구 호출 UI 및 고정된 할 일 패널 ( />
+	[563] (666,694)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/612' />
+		[564] (666,694)<font  />
+			[565] (666,694)<font >#612 />
+	[566] (676,694)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/756f5b4d859ffba7809cae8c6524a50297c9fc04' title='기능: 도구 호출 UI 및 고정 할 일 패널 개선 (#612) * 기능: 세션 채팅에 고정 할 일 패널 UI 추가 * 기능: 고정 할 일 패널을 입력 컨테이너 내부로 이동 * 기능: 아이콘 및 레이아웃 개선을 통해 고정 할 일 패널 UI 재설계 * 기능: 입력란 위에 고정 할 일 패널 위치 조정 및 아이콘 개선 * 기능: 고정 할 일 패널 스타일 및 정렬 조정 * 스타일: 고정 할 일 패널 가로 여백을 3에서 4로 조정 * 기능: 하위 에이전트 아이콘 및 통계 개선을 통해 할 일 목록 UI 재설계 * 기능: 사고 블록 UI 개선 및 파일 이름 입력란 구성 요소 추가 * 기능: 파일 컨텍스트를 위해 채팅 콘텐츠를 OpenFileProvider로 래핑 * 기능: 도구 렌더러에서 UI 간격 및 경로 잘림 개선 * 리팩토링: 간격 개선 및 콘텐츠 확장을 통해 도구 호출 UI 개선 * 리팩토링: 사용자 지정 아이콘 및 간격을 통해 도구 호출 UI 개선 * 리팩토링: 작업 그룹 렌더링 제거 및 UI 로직 단순화 * 기능: 애니메이션 및 메타데이터 개선을 통해 도구 호출 UI 향상 * 리팩토링: 도구 호출 렌더링 단순화 및 속성 이름 수정 * 리팩토링: bash 렌더러 오류 처리 및 작업 출력 표시 개선 * 리팩토링: bash 및 작업 명령 출력 렌더링 개선 * 기능: 줄 번호 패딩 및 확장 기능을 사용하여 도구 호출 렌더러 개선 * 스타일: 도구 호출 블록에 왼쪽 패딩 추가 및 렌더러 개선 * 리팩토링: 줄 오프셋에 대한 CSS 카운터를 사용하여 도구 호출 UI 개선 * 수정: 읽기 도구 렌더러의 줄 번호 및 이상한 렌더링 문제 해결 * 리팩토링: 빈 상태 처리 개선 및 원시 출력 대체 기능 추가 * 리팩토링: 도구 출력 언래핑 로직을 헬퍼로 추출 * 리팩토링: 도구 호출 렌더링 로직을 재사용 가능한 부분으로 추출 * 리팩토링: 상태 메타데이터를 별도의 prop으로 추출 * 리팩토링: 도구 호출 구성 요소 형식 지정 및 하위 에이전트 렌더러 추가 ​​* 리팩토링: 도구 호출 UI 및 할 일 패널 상태 처리 개선 * 기능: 요약 텍스트를 사용하여 오류 표시 레이아웃 개선 * 리팩토링: 할 일 패널 가시성 로직 간소화 * 수정: 스트리밍 업데이트 중 할 일 패널 깜빡임 방지 --------- 공동 저자: willsather <56037657+willsather@users.noreply.github.com> 공동 저작자: nicoalbanese <49612682+nicoalbanese@users.noreply.github.com>' />
+		[567] (676,694)<font  />
+			[568] (676,694)<font >) />
+	왜냐
+[569] (584,737)<tr  />
+	[570] (225,738)<a aria-label='task-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/task-renderer.tsx' title='task-renderer.tsx' />
+		[571] (225,738)<font  />
+			[572] (225,738)<font >task-renderer.tsx />
+	[573] (519,738)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[574] (519,738)<font  />
+			[575] (519,738)<font >작업: />
+	[576] (530,738)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[577] (530,738)<font >( />
+	[578] (541,738)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+		[579] (541,738)<font >#703 />
+	[580] (552,738)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[581] (552,738)<font >) />
+	[582] (575,739)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-harness />
+	[583] (619,738)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[584] (619,738)<font  />
+			[585] (619,738)<font >으로 이름 변경 />
+	[586] (662,739)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-agents />
+	2주 전
+[587] (584,780)<tr  />
+	[588] (222,781)<a aria-label='todo-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/todo-renderer.tsx' title='할 일 렌더러.tsx' />
+		[589] (222,781)<font  />
+			[590] (222,781)<font >할 일 렌더러.tsx />
+	[591] (598,781)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/26d69355c3cea9dc6e74ce98db1b9446f9635b2c' title='기능: 작업 목록 컨테이너에 스크롤 가능한 최대 높이 추가 (#734) 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[592] (598,781)<font  />
+			[593] (598,781)<font >기능: 작업 목록 컨테이너에 스크롤 가능한 최대 높이 추가( />
+	[594] (696,781)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/734' />
+		[595] (696,781)<font  />
+			[596] (696,781)<font >#734 />
+	[597] (706,781)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/26d69355c3cea9dc6e74ce98db1b9446f9635b2c' title='기능: 작업 목록 컨테이너에 스크롤 가능한 최대 높이 추가 (#734) 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[598] (706,781)<font  />
+			[599] (706,781)<font >) />
+	3주 전
+[600] (584,824)<tr  />
+	[601] (226,824)<a aria-label='write-renderer.tsx, (파일)' class='Link--primary' href='/vercel-labs/open-agents/blob/main/apps/web/components/tool-call/renderers/write-renderer.tsx' title='write-renderer.tsx' />
+		[602] (226,824)<font  />
+			[603] (226,824)<font >write-renderer.tsx />
+	[604] (519,824)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[605] (519,824)<font  />
+			[606] (519,824)<font >작업: />
+	[607] (530,824)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[608] (530,824)<font >( />
+	[609] (541,824)<a class='issue-link js-issue-link' href='https://github.com/vercel-labs/open-agents/pull/703' />
+		[610] (541,824)<font >#703 />
+	[611] (552,824)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[612] (552,824)<font >) />
+	[613] (575,826)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-harness />
+	[614] (619,824)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: `open-harness`를 `open-agents`로 이름 변경 (#703) * refactor: open-harness를 open-agents로 이름 변경 * refactor: ai-sdk import를 인라인 FetchFunction 타입으로 대체 * refactor: "Open Agents"를 "Open Agent"로 이름 변경 * fix: 채팅 런타임 패키지 import 정렬 --------- 공동 작성자: willsather <56037657+willsather@users.noreply.github.com> 공동 작성자: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>' />
+		[615] (619,824)<font  />
+			[616] (619,824)<font >으로 이름 변경 />
+	[617] (662,826)<a class='Link--secondary' href='/vercel-labs/open-agents/commit/9679c867ceb4d86872dcc056cf30257c25de0fbe' title='chore: rename `open-harness` to `open-agents` (#703)
+
+* refactor: rename open-harness to open-agents
+
+* refactor: replace ai-sdk import with inline FetchFunction type
+
+* refactor: rename "Open Agents" to "Open Agent"
+
+* fix: align chat runtime package imports
+
+---------
+
+Co-authored-by: willsather <56037657+willsather@users.noreply.github.com>
+Co-authored-by: open-agents-bot[bot] <260704009+open-agents-bot[bot]@users.noreply.github.com>'>open-agents />
+	2주 전
+
+</current_dom>

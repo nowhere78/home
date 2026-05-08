@@ -1,0 +1,166 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (63,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/z-lab' />
+	[3] (63,34)<span >z-lab />
+[4] (95,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/z-lab/dflash' />
+	[5] (95,34)<span >dflash />
+[6] (759,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (759,34)<span  />
+		[8] (765,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (820,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (834,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (867,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (863,34)<span  />
+[13] (892,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (913,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (934,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (955,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (976,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (976,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (98,80)<span >(
+44
+) />
+		[26] (98,80)<span >44 />
+		(
+		44
+		)
+[27] (153,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/pulls' />
+	[28] (122,80)<span  />
+	[29] (152,80)<span >Pull requests />
+	[30] (182,80)<span >(
+7
+) />
+		[31] (182,80)<span >7 />
+		(
+		7
+		)
+[32] (218,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/agents?author=nowhere78' />
+	[33] (204,80)<span  />
+	[34] (224,80)<span >Agents />
+[35] (274,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/discussions' />
+	[36] (252,80)<span  />
+	[37] (280,80)<span >Discussions />
+[38] (330,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/actions' />
+	[39] (315,80)<span  />
+	[40] (336,80)<span >Actions />
+[41] (380,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/projects' />
+	[42] (365,80)<span  />
+	[43] (386,80)<span >Projects />
+[44] (451,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/security' />
+	[45] (416,80)<span  />
+	[46] (457,80)<span >Security and quality />
+[47] (522,80)<a class='prc-components-UnderlineItem-7fP-n' href='/z-lab/dflash/pulse' />
+	[48] (507,80)<span  />
+	[49] (528,80)<span >Insights />
+[50] (210,139)<a class='d-block overflow-x-hidden color-fg-default' href='/z-lab/dflash'>dflash />
+Public
+Watch
+[51] (684,138)<a class='btn-sm btn BtnGroup-item' href='/z-lab/dflash/fork' id='fork-button'>Fork />
+	[52] (698,138)<span >242 />
+[53] (722,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1127887181' />
+	[54] (722,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[55] (765,138)<button aria-label='Star this repository (3428)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[56] (761,138)<span >Star />
+	[57] (779,138)<span >3.4k />
+[58] (804,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1127887181-unstarred-button' />
+z-lab/dflash
+[59] (207,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[60] (207,215)<span  />
+		[61] (201,215)<span  />
+			[62] (201,215)<div  />
+				[63] (190,215)<div  />
+				[64] (206,215)<div  />
+					[65] (206,215)<span >main />
+[66] (262,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/z-lab/dflash/branches' />
+	[67] (262,215)<span  />
+		[68] (269,215)<span >Branches />
+[69] (302,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/z-lab/dflash/tags' />
+	[70] (302,215)<span  />
+		[71] (308,215)<span >Tags />
+Add file
+[72] (565,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[73] (565,215)<span  />
+		[74] (565,215)<span  />
+			[75] (565,215)<span >Add file />
+[76] (622,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[77] (622,215)<span  />
+		[78] (622,215)<span >Code />
+Folders and files
+Latest commit
+History
+[79] (617,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/z-lab/dflash/commits/main/' />
+	[80] (617,277)<span  />
+		[81] (622,277)<span  />
+			[82] (622,276)<span >89 Commits />
+[83] (211,327)<a aria-label='dflash, (Directory)' class='Link--primary' href='/z-lab/dflash/tree/main/dflash' title='dflash'>dflash />
+[84] (217,370)<a aria-label='.gitignore, (File)' class='Link--primary' href='/z-lab/dflash/blob/main/.gitignore' title='.gitignore'>.gitignore />
+[85] (215,414)<a aria-label='LICENSE, (File)' class='Link--primary' href='/z-lab/dflash/blob/main/LICENSE' title='LICENSE'>LICENSE />
+[86] (222,457)<a aria-label='README.md, (File)' class='Link--primary' href='/z-lab/dflash/blob/main/README.md' title='README.md'>README.md />
+[87] (225,501)<a aria-label='pyproject.toml, (File)' class='Link--primary' href='/z-lab/dflash/blob/main/pyproject.toml' title='pyproject.toml'>pyproject.toml />
+Repository files navigation
+[88] (209,566)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[89] (192,566)<span  />
+	[90] (215,566)<span >README />
+[91] (267,566)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[92] (246,566)<span  />
+	[93] (273,566)<span >MIT license />
+[94] (616,566)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[95] (637,566)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+DFlash: Block Diffusion for Flash Speculative Decoding
+[96] (189,647)<a aria-label='Permalink: DFlash: Block Diffusion for Flash Speculative Decoding' class='anchor' href='#dflash-block-diffusion-for-flash-speculative-decoding' id='user-content-dflash-block-diffusion-for-flash-speculative-decoding' />
+[97] (207,708)<a href='https://arxiv.org/abs/2602.06036' />
+	[98] (207,708)<strong >Paper />
+|
+[99] (233,708)<a href='https://z-lab.ai/projects/dflash/' />
+	[100] (233,708)<strong >Blog />
+|
+[101] (262,708)<a href='https://huggingface.co/collections/z-lab/dflash' />
+	[102] (262,708)<strong >Models />
+DFlash
+is a lightweight
+block diffusion
+model designed for speculative decoding. It enables efficient and high-quality parallel drafting.
+About
+DFlash: Block Diffusion for Flash Speculative Decoding
+[103] (706,319)<a class='text-bold' href='https://dflash.z-lab.ai' role='link' title='https://dflash.z-lab.ai'>dflash.z-lab.ai />
+Resources
+[104] (691,358)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[105] (696,389)<a class='Link--muted' href='#MIT-1-ov-file'>MIT license />
+[106] (690,420)<a class='Link Link--muted' href='/z-lab/dflash/activity' />
+	[107] (697,420)<span >Activity />
+[108] (708,450)<a class='Link Link--muted' href='/z-lab/dflash/custom-properties' />
+	[109] (715,450)<span >Custom properties />
+Stars
+[110] (694,481)<a class='Link Link--muted' href='/z-lab/dflash/stargazers'>stars />
+	[111] (693,481)<strong >3.4k />
+Watchers
+[112] (698,512)<a class='Link Link--muted' href='/z-lab/dflash/watchers'>watching />
+	[113] (690,512)<strong >33 />
+Forks
+[114] (693,542)<a class='Link Link--muted' href='/z-lab/dflash/forks'>forks />
+	[115] (692,542)<strong >242 />
+[116] (699,573)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fz-lab%2Fdflash&report=z-lab+%28user%29'>Report repository />
+[117] (687,631)<a class='Link--primary no-underline Link' href='/z-lab/dflash/releases'>Releases />
+No releases published
+[118] (742,728)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/z-lab/packages?repo_name=dflash'>Packages />
+[119] (742,897)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/z-lab/dflash/graphs/contributors'>Contributors />
+Languages
+
+</current_dom>

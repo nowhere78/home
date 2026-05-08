@@ -1,0 +1,224 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjetc29j46UAxX-8MkDHcNQA7EQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DAI%2Bmicro-tool%2Blead%2Bmagnet%2Bexamples%2Bfor%2BSaaS%2Baffiliate%2Bmarketing%2B2026&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n566hWzLyrD7J8Ny-sRWAvRNr2sDQ:1777295982555&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=AI+micro-tool+lead+magnet+examples+for+SaaS+affiliate+marketing+2026&sa=X&ved=2ahUKEwjetc29j46UAxX-8MkDHcNQA7EQtKgLegQIEBAB' />
+	[18] (156,121)<div  />
+		[19] (156,130)<span >이미지 />
+[20] (196,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n566hWzLyrD7J8Ny-sRWAvRNr2sDQ:1777295982555&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=AI+micro-tool+lead+magnet+examples+for+SaaS+affiliate+marketing+2026&sa=X&ved=2ahUKEwjetc29j46UAxX-8MkDHcNQA7EQs6gLegQIERAB' />
+	[21] (196,121)<div  />
+		[22] (196,130)<span >짧은 동영상 />
+[23] (236,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n566hWzLyrD7J8Ny-sRWAvRNr2sDQ:1777295982555&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=AI+micro-tool+lead+magnet+examples+for+SaaS+affiliate+marketing+2026&sa=X&ved=2ahUKEwjetc29j46UAxX-8MkDHcNQA7EQtKgLegQIExAB' />
+	[24] (236,121)<div  />
+		[25] (236,130)<span >동영상 />
+[26] (266,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n566hWzLyrD7J8Ny-sRWAvRNr2sDQ:1777295982555&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&q=AI+micro-tool+lead+magnet+examples+for+SaaS+affiliate+marketing+2026&ved=1t:220175&ictx=111' />
+	[27] (266,121)<div  />
+		[28] (266,130)<span >쇼핑 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n566hWzLyrD7J8Ny-sRWAvRNr2sDQ:1777295982555&q=AI+micro-tool+lead+magnet+examples+for+SaaS+affiliate+marketing+2026&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJCXklOWNDNB0e_1bQW6pIcfK-1IHpfvLNnUdD4lZqBgTY5Q0NCri61HgAsZF5U3ub1FuA0BhJfopvIFiByvVVll6Pihu_QDCGw7h3eX8FZE1g1GdYNvSdDiV9jNXSOnBbI42hsQ&sa=X&ved=2ahUKEwjetc29j46UAxX-8MkDHcNQA7EQ0pQJegQIFRAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+AI 개요
+[42] (688,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+In 2026, the most effective AI micro-tool lead magnets for SaaS affiliate marketing have shifted from passive PDFs to
+active, agent-driven mini-apps
+that deliver immediate value or data-driven insights in under 60 seconds. Successful lead magnets now focus on solving one specific pain point, often using simple AI wrappers or custom GPTs to demonstrate the power of the premium affiliate product.
+[43] (348,338)<button aria-label='YouTube 외 3개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	YouTube
+	+3
+Here are top AI micro-tool lead magnet examples for SaaS affiliate marketing in 2026:
+1. Content & SEO AI Tools (Targeting Marketers/Bloggers)
+AI "Humanizer" Tool
+:
+A tool that takes generic GPT-4/5 output and rewrites it to avoid AI detection, optimizing for EEAT (Experience, Expertise, Authoritativeness, Trust).
+Affiliate Product:
+Surfer SEO
+or
+Writesonic
+.
+Programmatic SEO Generator
+:
+Users enter a niche (e.g., "bike repair"), and the tool generates 50 tailored programmatic SEO article headlines, meta descriptions, and outline structures.
+Affiliate Product:
+Jasper AI
+or
+Scalenut
+.
+AI Topic Cluster Mapper
+:
+Generates a comprehensive semantic keyword map for any topic to help with content planning.
+The Smarketers
++4
+2. Growth & Sales AI Tools (Targeting B2B/SaaS Founders)
+AI Cold Email Personalizer
+:
+A tool where users paste a LinkedIn profile URL, and the AI generates three highly personalized icebreakers for cold outreach, showcasing a tool's capability before requiring a sign-up.
+Affiliate Product:
+Lemlist
+,
+Apollo.io
+, or
+Clay
+.
+[44] (581,299)<a aria-label='How to Start Affiliate Marketing in 2026 (Using AI). 새 탭에서 열립니다.' class='NDNGvf' href='https://www.youtube.com/watch?v=Lir5W8vWV2U' />
+How to Start Affiliate Marketing in 2026 (Using AI)
+2025. 10. 6. —
+7 days and $847 generated with affiliate marketing these are...
+[45] (648,283)<div class='nrdPJf' role='button' />
+	[46] (627,307)<div >17:23 />
+	[47] (648,283)<div  />
+		[48] (648,283)<div  />
+	[49] (675,258)<div  />
+		[50] (675,258)<div  />
+YouTube
+·
+Ross Minchev
+[51] (680,347)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-b2Lvaca-G-qdp84PxeCjuAk_5' role='button' />
+Best AI Marketing Tools for 2026 (Full Guide) - The Smarketers
+2026. 1. 6. —
+Generate entire blog posts optimized for both search engines...
+The Smarketers
+My Exact Strategy to Hit $10k/Month with AI + Affiliate ...
+2026. 3. 30. —
+so if you want to make money with affiliate marketing and AI...
+23:34
+YouTube
+·
+Adam Enfroy
+모두 표시
+[52] (406,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[53] (284,538)<div  />
+		[54] (284,538)<div >더보기 />
+			더보기
+			[55] (296,538)<span  />
+Web results
+[56] (268,661)<a class='zReHs' href='https://checkmysaas.com/reviews/best-ai-tools-for-affiliate-marketing' />
+	[57] (268,682)<h3 >10 Best AI Tools for Affiliate Marketing in 2026 - Check My SaaS />
+	[58] (180,644)<div  />
+		[59] (180,644)<div  />
+			[60] (127,644)<span  />
+				[61] (127,644)<div  />
+					[62] (127,644)<img  />
+			[63] (190,644)<div  />
+				[64] (190,635)<div  />
+					[65] (190,635)<span >checkmysaas.com />
+				[66] (190,655)<div  />
+					[67] (190,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://checkmysaas.com />
+						[68] (225,655)<span class='ylgVCe ob9lvb' role='text'>› Reviews />
+[69] (250,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[70] (250,654)<span  />
+		[71] (250,655)<span  />
+2026. 4. 9.
+—
+Instead of ranking these
+tools
+from "best" to "worst" (which is meaningless without context), I've focused on which
+tool
+fits which use case — ...
+[72] (223,816)<a class='zReHs' href='https://thesmarketers.com/blogs/best-ai-tools-marketing-2026/' />
+	[73] (223,837)<h3 >Best AI Marketing Tools for 2026 (Full Guide) />
+	[74] (209,800)<div  />
+		[75] (209,800)<div  />
+			[76] (127,800)<span  />
+				[77] (127,800)<div  />
+					[78] (127,800)<img  />
+			[79] (220,800)<div  />
+				[80] (220,790)<div  />
+					[81] (220,790)<span >The Smarketers />
+				[82] (220,810)<div  />
+					[83] (220,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://thesmarketers.com />
+						[84] (256,810)<span class='ylgVCe ob9lvb' role='text'>› blogs › best-ai-tools-market... />
+[85] (309,809)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[86] (309,809)<span  />
+		[87] (309,810)<span  />
+2026. 1. 6.
+—
+Generate social media captions, subject lines, and headlines optimized for engagement. Ranked Comparison:
+AI
+Writing & Copywriting
+Tools
+.
+Tool
+...
+[88] (248,971)<a class='zReHs' href='https://adkit.so/resources/ads-examples/saas-ad-examples' />
+	[89] (248,992)<h3 >Best SaaS Ads in 2026: 45 Examples With Breakdowns />
+	[90] (195,955)<div  />
+		[91] (195,955)<div  />
+			[92] (127,955)<span  />
+				[93] (127,955)<div  />
+					[94] (127,955)<img  />
+			[95] (206,955)<div  />
+				[96] (206,945)<div  />
+					[97] (206,945)<span >AdKit />
+				[98] (206,965)<div  />
+					[99] (206,965)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://adkit.so />
+						[100] (226,965)<span class='ylgVCe ob9lvb' role='text'>› resources › saas-ad-examples />
+[101] (281,964)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[102] (281,964)<span  />
+		[103] (281,965)<span  />
+[104] (498,641)<div  />
+	[105] (498,641)<img  />
+[106] (540,641)<div >AI에게 질문하기 />
+	[107] (514,641)<img  />
+[108] (602,641)<div >검색 에이전트 />
+	[109] (580,641)<img  />
+[110] (641,637)<div  />
+[111] (654,637)<div  />
+[112] (666,637)<div  />
+[113] (512,683)<div  />
+	[114] (499,683)<img  />
+	[115] (517,683)<span >4o mini />
+[116] (553,683)<div  />
+	[117] (540,683)<img  />
+	[118] (559,683)<span >GPT-4o />
+[119] (599,683)<div  />
+	[120] (582,683)<img  />
+	[121] (605,683)<span >Claude 3.5 />
+[122] (644,683)<div  />
+	[123] (632,683)<img  />
+	[124] (650,683)<span >Gemini />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+🚀 지금 업그레이드
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

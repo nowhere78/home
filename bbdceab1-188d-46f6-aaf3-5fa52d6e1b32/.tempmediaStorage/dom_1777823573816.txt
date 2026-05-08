@@ -1,0 +1,347 @@
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sungcheolkim78' />
+	[3] (69,34)<span  />
+		[4] (69,33)<font  />
+			[5] (69,33)<font >성철김78 />
+[6] (115,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sungcheolkim78/becoming_church' />
+	[7] (115,34)<span  />
+		[8] (115,33)<font  />
+			[9] (115,33)<font >교회가 되다 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sungcheolkim78/becoming_church/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (225,139)<a class='d-block overflow-x-hidden color-fg-default' href='/sungcheolkim78/becoming_church' />
+	[64] (225,138)<font  />
+		[65] (225,138)<font >교회가 되다 />
+공공의
+[66] (650,138)<div  />
+	[67] (650,138)<button aria-label='영상 보기: sungcheolkim78/becoming_church 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_c_' />
+		[68] (645,138)<span  />
+			[69] (644,138)<span  />
+				[70] (644,137)<font  />
+					[71] (644,137)<font >보다 />
+			0
+			(
+			0
+			)
+[72] (705,139)<a class='btn-sm btn BtnGroup-item' href='/sungcheolkim78/becoming_church/fork' id='fork-button' />
+	[73] (706,139)<font  />
+		[74] (706,141)<font >포크 />
+	[75] (719,138)<span  />
+		[76] (719,138)<font  />
+			[77] (719,138)<font >0 />
+[78] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-177371121' />
+	[79] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[80] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[81] (776,138)<span  />
+		[82] (776,138)<font  />
+			[83] (776,138)<font >별 />
+	[84] (787,138)<span  />
+		[85] (787,138)<font  />
+			[86] (787,138)<font >0 />
+[87] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-177371121-unstarred-button' />
+sungcheolkim78/becoming_church
+[88] (209,216)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[89] (209,216)<span  />
+		[90] (203,216)<span  />
+			[91] (203,216)<div  />
+				[92] (194,216)<div  />
+				[93] (208,216)<div  />
+					[94] (208,216)<span  />
+						[95] (209,216)<font  />
+							[96] (209,216)<font >주인 />
+[97] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/sungcheolkim78/becoming_church/branches' />
+	[98] (262,216)<span  />
+		[99] (268,216)<span  />
+			[100] (268,216)<span  />
+				[101] (257,216)<strong  />
+					[102] (256,216)<font  />
+						[103] (256,216)<font >1 />
+				[104] (271,216)<font  />
+					[105] (271,216)<font >번 지점 />
+[106] (307,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/sungcheolkim78/becoming_church/tags' />
+	[107] (307,216)<span  />
+		[108] (313,216)<span  />
+			[109] (313,216)<span  />
+				[110] (310,216)<strong  />
+					[111] (309,216)<font  />
+						[112] (309,216)<font >태그 0 />
+				[113] (324,216)<font  />
+					[114] (324,216)<font >개 />
+[115] (481,216)<span  />
+	[116] (431,216)<span  />
+	[117] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[118] (531,216)<span  />
+		[119] (531,216)<kbd  />
+			[120] (531,216)<span >t />
+				t
+				[121] (531,216)<span >T />
+파일 추가
+[122] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[123] (572,216)<span  />
+		[124] (572,216)<span  />
+			[125] (572,216)<span  />
+				[126] (566,216)<font  />
+					[127] (566,216)<font >파일 추가 />
+[128] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[129] (628,216)<span  />
+		[130] (628,216)<span  />
+			[131] (628,216)<font  />
+				[132] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[133] (198,278)<a class='prc-Link-Link-9ZwDx' href='/asm4g' />
+	[134] (196,279)<img  />
+[135] (216,278)<a aria-label='asm4g의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/commits?author=asm4g' />
+	[136] (216,278)<font  />
+		[137] (216,278)<font >asm4g />
+[138] (245,278)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/11de53422f098bd673a2c6f4bb1fd3c6504824c1' />
+	[139] (245,278)<font  />
+		[140] (245,278)<font >NIV 버전 />
+[141] (565,278)<a aria-label='커밋 11de534' class='Link--secondary prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/commit/11de53422f098bd673a2c6f4bb1fd3c6504824c1' />
+	[142] (565,278)<font  />
+		[143] (565,278)<font >11de534 />
+·
+7년 전
+역사
+[144] (625,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/sungcheolkim78/becoming_church/commits/master/' />
+	[145] (625,278)<span  />
+		[146] (630,278)<span  />
+			[147] (630,278)<span  />
+				[148] (630,278)<font  />
+					[149] (630,278)<font >17명 커밋 />
+[150] (419,328)<tr  />
+	[151] (220,328)<a aria-label='md_40days, (디렉토리)' class='Link--primary' href='/sungcheolkim78/becoming_church/tree/master/md_40days' title='md_40일' />
+		[152] (220,328)<font  />
+			[153] (220,328)<font >md_40일 />
+	[154] (394,328)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/11de53422f098bd673a2c6f4bb1fd3c6504824c1' title='NIV 버전' />
+		[155] (394,328)<font  />
+			[156] (394,328)<font >NIV 버전 />
+	7년 전
+[157] (419,371)<tr  />
+	[158] (221,371)<a aria-label='yaml_40days, (디렉토리)' class='Link--primary' href='/sungcheolkim78/becoming_church/tree/master/yaml_40days' title='야믈_40일' />
+		[159] (221,371)<font  />
+			[160] (221,371)<font >야믈_40일 />
+	[161] (397,371)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/e60780f42190dc4477332d760006104c08298ac1' title='YAML 추가' />
+		[162] (397,371)<font  />
+			[163] (397,371)<font >YAML 추가 />
+	7년 전
+[164] (419,414)<tr  />
+	[165] (212,415)<a aria-label='라이선스, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/LICENSE' title='특허' />
+		[166] (212,415)<font  />
+			[167] (212,415)<font >특허 />
+	[168] (395,415)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/1ccaae05d89f81692603109bed6fcdbf61b0f9e4' title='초기 커밋' />
+		[169] (395,415)<font  />
+			[170] (395,415)<font >초기 커밋 />
+	7년 전
+[171] (419,458)<tr  />
+	[172] (226,458)<a aria-label='README.md, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/README.md' title='README.md' />
+		[173] (226,458)<font  />
+			[174] (226,458)<font >README.md />
+	[175] (398,458)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/16fcef5b2fd93fdd18173714b8f414dc44e52c14' title='사소한 수정' />
+		[176] (398,458)<font  />
+			[177] (398,458)<font >사소한 수정 />
+	7년 전
+[178] (419,501)<tr  />
+	[179] (229,502)<a aria-label='gen_40days.py, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/gen_40days.py' title='gen_40days.py' />
+		[180] (229,502)<font  />
+			[181] (229,502)<font >gen_40days.py />
+	[182] (399,502)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/e8d1ae44a21b1e4bf57d068006d247207957aaa0' title='첫 번째 커밋' />
+		[183] (399,502)<font  />
+			[184] (399,502)<font >첫 번째 커밋 />
+	7년 전
+[185] (419,544)<tr  />
+	[186] (229,545)<a aria-label='gen_mpage.py, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/gen_mpage.py' title='gen_mpage.py' />
+		[187] (229,545)<font  />
+			[188] (229,545)<font >gen_mpage.py />
+	[189] (399,545)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/e8d1ae44a21b1e4bf57d068006d247207957aaa0' title='첫 번째 커밋' />
+		[190] (399,545)<font  />
+			[191] (399,545)<font >첫 번째 커밋 />
+	7년 전
+[192] (419,588)<tr  />
+	[193] (236,588)<a aria-label='gen_yaml_templ.sh, (파일)' class='Link--primary' href='/sungcheolkim78/becoming_church/blob/master/gen_yaml_templ.sh' title='gen_yaml_templ.sh' />
+		[194] (236,588)<font  />
+			[195] (236,588)<font >gen_yaml_templ.sh />
+	[196] (383,588)<a class='Link--secondary' href='/sungcheolkim78/becoming_church/commit/f742149ea1fac48576d73cf394ca5cad4b5a68f2' title='더' />
+		[197] (383,588)<font  />
+			[198] (383,588)<font >더 />
+	7년 전
+저장소 파일 탐색
+[199] (213,654)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[200] (196,654)<span  />
+	[201] (219,654)<span  />
+		[202] (219,654)<font  />
+			[203] (219,654)<font >README />
+[204] (285,654)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[205] (250,654)<span  />
+	[206] (291,654)<span  />
+		[207] (291,654)<font  />
+			[208] (291,654)<font >Apache-2.0 라이선스 />
+[209] (620,653)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[210] (641,653)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+교회가 됨 40일 (교회가 됨)
+[211] (193,735)<a aria-label='Permalink: 교회가 됨 40일 (교회가 됨)' class='anchor' href='#교회됨의-양육-40일-becoming-church' id='user-content-교회됨의-양육-40일-becoming-church' />
+[212] (226,796)<a href='http://www.goodtreech.org' />
+	[213] (226,796)<font  />
+		[214] (226,796)<font >좋은 나무 교회 />
+의 이강우 목사님께서 여러분의
+교회됨의 양육 40일 새벽기도
+내용을 가지고 각자의 일차에 해당하는 성경말씀을 주시는 사이트를 만들었습니다. 흥미진진한 관계이거나 주제에 해당하는 요약 내용을 yaml 파일로 만들기 면에서 부터
+[215] (218,847)<a href='https://github.com/sungcheolkim78/py_kbible' />
+	[216] (218,847)<font  />
+		[217] (218,847)<font >py_kbible />
+을 따라서 성경 표시를 찾고 관련 정보를 추가하여 markdown 형식의 문서를 출력하는 python 스크립트를 만들었습니다. 이 github에는 소스가 있는 yaml 파일들과 그로부터 아래 마크다운 문서, 및 관련 스크립트를 저장하고 있습니다.
+YAML 형식
+[218] (193,926)<a aria-label='고유 링크: yaml 형식' class='anchor' href='#yaml-format' id='user-content-yaml-format' />
+각 개인의 데이트는 소주제를 관련하여 존경하고 존경합니다. 예를 들어 1일차
+영광과 흑암
+에 해당하는 yaml 파일은 다음과 같습니다.
+에 대한
+교회의 존재 40일 관련 성경 연구 자료
+주제
+[219] (689,296)<a class='topic-tag topic-tag-link' href='/topics/python' title='주제: 파이썬' />
+	[220] (689,296)<font  />
+		[221] (689,296)<font >파이썬 />
+[222] (724,296)<a class='topic-tag topic-tag-link' href='/topics/markdown' title='주제: 마크다운' />
+	[223] (724,296)<font  />
+		[224] (724,296)<font >가격 인하 />
+[225] (756,296)<a class='topic-tag topic-tag-link' href='/topics/bible' title='주제: 성경' />
+	[226] (756,296)<font  />
+		[227] (756,296)<font >성경 />
+자원
+[228] (699,341)<a class='Link--muted' href='#readme-ov-file' />
+	[229] (705,341)<font  />
+		[230] (705,341)<font >읽어보세요 />
+특허
+[231] (715,372)<a class='Link--muted' href='#Apache-2.0-1-ov-file' />
+	[232] (721,372)<font  />
+		[233] (721,372)<font >Apache-2.0 라이선스 />
+[234] (689,403)<a class='Link Link--muted' href='/sungcheolkim78/becoming_church/activity' />
+	[235] (696,403)<span  />
+		[236] (696,403)<font  />
+			[237] (696,403)<font >활동 />
+별들
+[238] (693,433)<a class='Link Link--muted' href='/sungcheolkim78/becoming_church/stargazers' />
+	[239] (700,433)<font  />
+		[240] (694,433)<font >별 />
+		[241] (705,433)<strong  />
+			[242] (705,433)<font >0 개 />
+감시자들
+[243] (703,464)<a class='Link Link--muted' href='/sungcheolkim78/becoming_church/watchers' />
+	[244] (698,464)<strong  />
+		[245] (698,464)<font  />
+			[246] (698,464)<font >0명이 />
+	[247] (719,464)<font  />
+		[248] (719,464)<font >시청 중 />
+포크스
+[249] (696,495)<a class='Link Link--muted' href='/sungcheolkim78/becoming_church/forks' />
+	[250] (704,495)<font  />
+		[251] (697,495)<font >포크 />
+		[252] (711,495)<strong  />
+			[253] (711,495)<font >0 개 />
+[254] (696,525)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsungcheolkim78%2Fbecoming_church&report=sungcheolkim78+%28user%29' />
+	[255] (696,525)<font  />
+		[256] (696,525)<font >보고서 저장소 />
+[257] (687,584)<a class='Link--primary no-underline Link' href='/sungcheolkim78/becoming_church/releases' />
+	[258] (687,584)<font  />
+		[259] (687,584)<font >릴리스 />
+발표된 릴리스 없음
+[260] (746,680)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/sungcheolkim78/packages?repo_name=becoming_church' />
+	[261] (687,680)<font  />
+		[262] (687,680)<font >패키지 />
+게시된 패키지가 없습니다.
+[263] (746,777)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/sungcheolkim78/becoming_church/graphs/contributors' />
+	[264] (687,777)<font  />
+		[265] (687,776)<font >기고자 />
+	[266] (705,777)<span  />
+		[267] (705,777)<font  />
+			[268] (705,777)<font >2 />
+[269] (683,823)<a class='mr-2' href='https://github.com/asm4g' />
+	[270] (683,823)<img  />
+[271] (718,823)<a class='Link--primary no-underline flex-self-center' href='https://github.com/asm4g' />
+	[272] (708,823)<strong  />
+		[273] (708,823)<font  />
+			[274] (708,823)<font >asm4g />
+	[275] (730,823)<span  />
+		[276] (730,823)<font  />
+			[277] (730,823)<font >김성철 />
+[278] (683,866)<a class='mr-2' href='https://github.com/sungcheolkim78' />
+	[279] (683,866)<img  />
+[280] (734,866)<a class='Link--primary no-underline flex-self-center' href='https://github.com/sungcheolkim78' />
+	[281] (724,866)<strong  />
+		[282] (724,866)<font  />
+			[283] (724,866)<font >sungcheolkim78 />
+	[284] (762,866)<span  />
+		[285] (762,866)<font  />
+			[286] (762,866)<font >김성철 />
+언어
+[287] (699,995)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/sungcheolkim78/becoming_church/search?l=python' />
+	[288] (696,995)<span  />
+		[289] (696,995)<font  />
+			[290] (696,995)<font >파이썬 />
+	[291] (715,995)<span  />
+		[292] (715,995)<font  />
+			[293] (715,995)<font >75.3% />
+[294] (758,995)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/sungcheolkim78/becoming_church/search?l=shell' />
+	[295] (755,995)<span  />
+		[296] (755,995)<font  />
+			[297] (755,995)<font >껍데기 />
+	[298] (774,995)<span  />
+		[299] (774,995)<font  />
+			[300] (774,995)<font >24.7% />

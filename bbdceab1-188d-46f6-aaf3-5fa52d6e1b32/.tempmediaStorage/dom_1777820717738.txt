@@ -1,0 +1,229 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span  />
+		[4] (75,33)<font  />
+			[5] (75,33)<font >마이크몰리넷 />
+[6] (143,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/ai-drop-daily-content' />
+	[7] (143,34)<span  />
+		[8] (143,33)<font  />
+			[9] (143,33)<font >AI 드롭 데일리 콘텐츠 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/ai-drop-daily-content/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[64] (73,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[65] (73,190)<span  />
+		[66] (67,190)<span  />
+			[67] (67,190)<div  />
+				[68] (19,190)<div  />
+				[69] (33,190)<div  />
+					[70] (33,190)<span  />
+						[71] (34,190)<font  />
+							[72] (34,190)<font >기본 />
+[73] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[74] (83,233)<span  />
+	[75] (17,233)<span  />
+	[76] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[77] (148,233)<span  />
+		[78] (148,233)<kbd  />
+			[79] (148,233)<span >t />
+				t
+				[80] (148,233)<span >T />
+[81] (79,488)<div  />
+	[82] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ai-101-item' role='treeitem' />
+		[83] (79,279)<div  />
+			[84] (13,279)<div  />
+			[85] (84,279)<div  />
+				[86] (25,279)<div  />
+					[87] (25,279)<div  />
+				[88] (90,279)<span  />
+					[89] (47,279)<span  />
+						[90] (47,279)<font  />
+							[91] (47,279)<font >아이-101 />
+	[92] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ai-201-item' role='treeitem' />
+		[93] (79,314)<div  />
+			[94] (13,314)<div  />
+			[95] (84,314)<div  />
+				[96] (25,313)<div  />
+					[97] (25,313)<div  />
+				[98] (90,314)<span  />
+					[99] (47,314)<span  />
+						[100] (47,314)<font  />
+							[101] (47,314)<font >아이-201 />
+	[102] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='articles-item' role='treeitem' />
+		[103] (79,348)<div  />
+			[104] (13,348)<div  />
+			[105] (84,348)<div  />
+				[106] (25,347)<div  />
+					[107] (25,347)<div  />
+				[108] (90,348)<span  />
+					[109] (40,348)<span  />
+						[110] (40,348)<font  />
+							[111] (40,348)<font >조항 />
+	[112] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='claude-course-item' role='treeitem' />
+		[113] (79,382)<div  />
+			[114] (13,382)<div  />
+			[115] (84,382)<div  />
+				[116] (25,382)<div  />
+					[117] (25,382)<div  />
+				[118] (90,382)<span  />
+					[119] (51,382)<span  />
+						[120] (51,382)<font  />
+							[121] (51,382)<font >클로드 코스 />
+	[122] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='claude-cowork-item' role='treeitem' />
+		[123] (79,416)<div  />
+			[124] (13,416)<div  />
+			[125] (84,416)<div  />
+				[126] (25,416)<div  />
+					[127] (25,416)<div  />
+				[128] (90,416)<span  />
+					[129] (55,416)<span  />
+						[130] (55,416)<font  />
+							[131] (55,416)<font >클로드-코워크 />
+	[132] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='downloads-item' role='treeitem' />
+		[133] (79,450)<div  />
+			[134] (13,450)<div  />
+			[135] (84,450)<div  />
+				[136] (25,450)<div  />
+					[137] (25,450)<div  />
+				[138] (90,450)<span  />
+					[139] (47,450)<span  />
+						[140] (47,450)<font  />
+							[141] (47,450)<font >다운로드 />
+	[142] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='guides-item' role='treeitem' />
+		[143] (79,484)<div  />
+			[144] (13,484)<div  />
+			[145] (84,484)<div  />
+				[146] (25,484)<div  />
+					[147] (25,484)<div  />
+				[148] (90,484)<span  />
+					[149] (43,484)<span  />
+						[150] (43,484)<font  />
+							[151] (43,484)<font >가이드 />
+	[152] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='news-item' role='treeitem' />
+		[153] (79,518)<div  />
+			[154] (13,518)<div  />
+			[155] (84,518)<div  />
+				[156] (25,518)<div  />
+					[157] (25,518)<div  />
+				[158] (90,518)<span  />
+					[159] (40,518)<span  />
+						[160] (40,518)<font  />
+							[161] (40,518)<font >소식 />
+	[162] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.last-synced-item' role='treeitem' />
+		[163] (79,552)<div  />
+			[164] (84,552)<div  />
+				[165] (25,552)<div  />
+				[166] (90,552)<span  />
+					[167] (52,552)<span  />
+						[168] (52,552)<font  />
+							[169] (52,552)<font >.last-synced />
+	[170] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='AGENTS.md-item' role='treeitem' />
+		[171] (79,586)<div  />
+			[172] (84,586)<div  />
+				[173] (25,586)<div  />
+				[174] (90,586)<span  />
+					[175] (53,586)<span  />
+						[176] (53,586)<font  />
+							[177] (53,586)<font >에이전트.md />
+	[178] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[179] (79,620)<div  />
+			[180] (84,620)<div  />
+				[181] (25,620)<div  />
+				[182] (90,620)<span  />
+					[183] (40,620)<span  />
+						[184] (40,620)<font  />
+							[185] (40,620)<font >특허 />
+	[186] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[187] (79,654)<div  />
+			[188] (84,654)<div  />
+				[189] (25,654)<div  />
+				[190] (90,654)<span  />
+					[191] (53,654)<span  />
+						[192] (53,654)<font  />
+							[193] (53,654)<font >README.md />
+	[194] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='manifest.json-item' role='treeitem' />
+		[195] (79,688)<div  />
+			[196] (84,688)<div  />
+				[197] (25,688)<div  />
+				[198] (90,688)<span  />
+					[199] (55,688)<span  />
+						[200] (55,688)<font  />
+							[201] (55,688)<font >manifest.json />
+[202] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+404 - 페이지를 찾을 수 없습니다
+그만큼
+기본
+지점
+AI 드롭 데일리 콘텐츠
+경로가 포함되어 있지 않습니다.
+ai-101/주-1/일
+-1.md.
+[203] (584,312)<a aria-label='개요로 이동' class='prc-Button-ButtonBase-9n-Xk tmp-mt-4 LinkButton-module__linkButton__nFnov' href='/mikemolinet/ai-drop-daily-content' />
+	[204] (584,312)<span  />
+		[205] (584,312)<span  />
+			[206] (584,312)<font  />
+				[207] (584,312)<font >저장소 개요로 돌아가기 />
+
+</current_dom>

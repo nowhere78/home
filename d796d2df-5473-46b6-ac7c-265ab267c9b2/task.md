@@ -1,0 +1,5 @@
+- [ ] Fix `llm_reasoning.py` safety bug (Fail-Safe Rejection)
+- [ ] Implement weight update logic in `performance_monitor.py`
+- [ ] Update `brain_aggregator.py` to use dynamic weights
+- [ ] Refine risk parameters in `trading_bot_v5_luna.py`
+- [ ] Verify everything by running the aggregation and monitoring cycle once

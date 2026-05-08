@@ -1,0 +1,64 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (340,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (347,25)<span  />
+		[13] (347,25)<font  />
+			[14] (347,25)<font >MIT 라이선스 />
+[15] (399,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (384,25)<span  />
+	[17] (405,25)<span  />
+		[18] (405,25)<font  />
+			[19] (405,25)<font >보안 />
+[20] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_18_' />
+약 30초 후에 http://localhost:5000을
+여세요
+. GPU 설정, 환경 변수 등에 대한 자세한 내용은
+Docker Compose 가이드를
+참조하세요 .
+옵션 3: pip install
+pip install local-deep-research
+[22] (626,150)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+Windows, macOS 및 Linux에서 작동합니다. SQLCipher 암호화는 사전 빌드된 휠 형태로 제공되므로 컴파일이 필요하지 않습니다. Windows에서 PDF 내보내기를 하려면 Pango가 필요합니다(
+[23] (485,236)<a href='https://doc.courtbouillon.org/weasyprint/stable/first_steps.html' />
+	[24] (485,236)<font  />
+		[25] (485,236)<font >설치 가이드 참조 />
+export LDR_BOOTSTRAP_ALLOW_UNENCRYPTED=true
+). 암호화에 문제가 발생하는 경우 표준 SQLite를 사용하도록
+설정하십시오 .
+[26] (231,304)<a href='#-installation-options' />
+	[27] (231,304)<font  />
+		[28] (231,304)<font >추가 설치 옵션 → />
+🏗️ 이용 방법
+[29] (193,357)<a aria-label='고유 링크: 🏗️ 이용 방법' class='anchor' href='#️-how-it-works' id='user-content-️-how-it-works' />
+연구
+[30] (193,421)<a aria-label='고유 링크: 연구' class='anchor' href='#research' id='user-content-research' />
+복잡한 질문을 하셨네요. LDR:
+자동으로 조사를 해 줍니다.
+웹, 학술 논문 및 사용자 작성 문서 전반에 걸친 검색
+모든 내용을 종합하여 적절한 인용을 포함한 보고서를 작성합니다.
+신속한 사실 확인, 심층 분석 또는 학술 연구를 위한 20가지 이상의 조사 전략 중에서 선택하세요.
+새로운 기능: LangGraph 에이전트 전략
+— LLM이 검색할 내용, 사용할 전문 검색 엔진(arXiv, PubMed, Semantic Scholar 등), 그리고 결과를 종합할 시점을 스스로 결정하는 자율적인 에이전트 기반 연구 모드입니다. 초기 결과는 매우 고무적입니다. 검색 결과에 따라 검색 엔진을 적응적으로 전환하며, 파이프라인 기반 전략보다 훨씬 더 많은 자료를 수집합니다.
+langgraph-agent
+설정에서 선택하여 사용해 보세요.
+지식 기반을 구축하세요
+[31] (193,778)<a aria-label='고유 링크: 지식 기반 구축' class='anchor' href='#build-your-knowledge-base' id='user-content-build-your-knowledge-base' />
+[32] (602,835)<summary aria-label='대화 상자 열기' class='btn my-2 mr-2 p-0 d-inline-flex' role='button' />
+[33] (624,835)<clipboard-copy aria-label='인어 코드 복사' class='btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay' role='button' />
+
+</current_dom>

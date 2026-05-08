@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+📜 성경 통합 지도
+[0] (12,93)<button aria-label='패널 접기/펼치기' class='toggle-btn' id='togglePanel'>◀ />
+	◀
+[1] (50,122)<input aria-label='지명이나 성경책 검색' class='search-input' id='searchInput' placeholder='지명이나 성경책을 검색하세요...' />
+🔍
+[2] (15,147)<button class='tab-btn active' role='tab'>여정 />
+[3] (45,147)<button class='tab-btn' role='tab'>구약성경 />
+[4] (81,147)<button class='tab-btn' role='tab'>신약성경 />
+🏛️ 구약 여정
+[5] (69,208)<button aria-label='족장들의 이동경로 보기: 아브라함에서 요셉까지' class='journey-btn'>👨‍👩‍👦 />
+	👨‍👩‍👦
+	족장들의 이동경로
+	아브라함에서 요셉까지
+[6] (187,208)<button class='journey-btn'>🏃 />
+	🏃
+	출애굽 여정
+	애굽에서 시내산까지
+[7] (297,208)<button class='journey-btn'>🏜️ />
+	🏜️
+	광야 40년
+	시내산에서 모압평지까지
+[8] (408,208)<button class='journey-btn'>⚔️ />
+	⚔️
+	가나안 정복
+	여호수아의 정복 전쟁
+[9] (512,208)<button class='journey-btn'>⛓️ />
+	⛓️
+	바벨론 포로
+	유다의 멸망과 귀환
+✝️ 신약 여정
+[10] (76,278)<button class='journey-btn'>⭐ />
+	⭐
+	예수님 탄생과 유년기
+	베들레헴에서 나사렛까지
+[11] (206,278)<button class='journey-btn'>🕊️ />
+	🕊️
+	예수님의 공생애
+	갈릴리와 유대 사역
+[12] (313,278)<button class='journey-btn'>✝️ />
+	✝️
+	고난주간
+	마지막 예루살렘 여정
+[13] (430,278)<button class='journey-btn'>⛵ />
+	⛵
+	바울 1차 선교여행
+	AD 46-48년 (귀환 포함)
+[14] (565,278)<button class='journey-btn'>🌍 />
+	🌍
+	바울 2차 선교여행
+	AD 49-52년 (귀환 포함)
+[15] (700,278)<button class='journey-btn'>🏛️ />
+	🏛️
+	바울 3차 선교여행
+	AD 53-57년 (귀환 포함)
+[16] (821,278)<button class='journey-btn'>⛓️ />
+	⛓️
+	바울의 로마 여행
+	죄수로서의 여정
+모세오경
+[17] (18,383)<button class='book-btn'>창세기 />
+[18] (51,383)<button class='book-btn'>출애굽기 />
+[19] (84,383)<button class='book-btn'>레위기 />
+[20] (114,383)<button class='book-btn'>민수기 />
+[21] (144,383)<button class='book-btn'>신명기 />
+역사서
+[22] (21,479)<button class='book-btn'>여호수아 />
+[23] (54,479)<button class='book-btn'>사사기 />
+[24] (81,479)<button class='book-btn'>룻기 />
+[25] (111,479)<button class='book-btn'>사무엘상 />
+[26] (147,479)<button class='book-btn'>사무엘하 />
+[27] (183,479)<button class='book-btn'>열왕기상 />
+[28] (219,479)<button class='book-btn'>열왕기하 />
+[29] (252,479)<button class='book-btn'>역대상 />
+[30] (282,479)<button class='book-btn'>역대하 />
+[31] (312,479)<button class='book-btn'>에스라 />
+[32] (345,479)<button class='book-btn'>느헤미야 />
+[33] (378,479)<button class='book-btn'>에스더 />
+시가서
+[34] (15,574)<button class='book-btn'>욥기 />
+[35] (38,574)<button class='book-btn'>시편 />
+[36] (62,574)<button class='book-btn'>잠언 />
+[37] (88,574)<button class='book-btn'>전도서 />
+[38] (115,574)<button class='book-btn'>아가 />
+선지서
+[39] (18,670)<button class='book-btn'>이사야 />
+[40] (51,670)<button class='book-btn'>예레미야 />
+[41] (81,670)<button class='book-btn'>애가 />
+[42] (107,670)<button class='book-btn'>에스겔 />
+[43] (137,670)<button class='book-btn'>다니엘 />
+[44] (167,670)<button class='book-btn'>호세아 />
+[45] (194,670)<button class='book-btn'>요엘 />
+[46] (220,670)<button class='book-btn'>아모스 />
+[47] (250,670)<button class='book-btn'>오바댜 />
+[48] (277,670)<button class='book-btn'>요나 />
+[49] (300,670)<button class='book-btn'>미가 />
+[50] (324,670)<button class='book-btn'>나훔 />
+[51] (350,670)<button class='book-btn'>하박국 />
+[52] (380,670)<button class='book-btn'>스바냐 />
+[53] (407,670)<button class='book-btn'>학개 />
+[54] (433,670)<button class='book-btn'>스가랴 />
+[55] (463,670)<button class='book-btn'>말라기 />
+📜 신구약 중간시대
+[56] (49,766)<button class='book-btn'>침묵의 400년 (BC 430-5년) />
+복음서
+[57] (21,861)<button class='book-btn'>마태복음 />
+[58] (57,861)<button class='book-btn'>마가복음 />
+[59] (94,861)<button class='book-btn'>누가복음 />
+[60] (130,861)<button class='book-btn'>요한복음 />
+역사서
+[61] (21,957)<button class='book-btn'>사도행전 />
+바울서신
+
+</current_dom>

@@ -1,0 +1,48 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+메인 콘텐츠로 건너뛰기
+[0] (64,32)<a class='Header_modern-logo__gi7Yn Header_home-logo___C7bI flex-a-center' href='/pages' title='공개 페이지' />
+	[1] (64,32)<img  />
+[2] (568,32)<button aria-label='knarchive의 노트 검색' class='Header_header-btn___zEi8 Header_search-btn__oi_IQ Header_search-btn-docs__dncf5' title='knarchive의 노트 검색' />
+	[3] (463,32)<span  />
+		[4] (463,32)<img  />
+	[5] (560,32)<span >knarchive의 노트 검색 />
+[6] (729,32)<button aria-label='언어 선택' class='jsx-7dfb20af51cbdbd7 language-button' />
+	[7] (729,32)<span >KR />
+[8] (798,32)<a class='Header_login-btn__f_DUQ' href='/login'>로그인 />
+[9] (892,32)<a class='tn-btn tn-btn--sm tn-btn--secondary' href='/register'>회원 가입 />
+[10] (198,145)<a class='PublicShow_docAuthorAvatar__xA033' href='https://tilnote.io/@knarchive' />
+	[11] (198,145)<div >K />
+[12] (268,142)<a class='PublicShow_docAuthorName__oAXi6' href='https://tilnote.io/@knarchive'>knarchive />
+[13] (237,204)<button class='tn-btn tn-btn--sm tn-btn--secondary' />
+	[14] (202,204)<img  />
+	[15] (251,204)<span >링크 복사 />
+공개 노트
+2026 유튜브 쇼츠 수익화 완벽 가이드: 조건, 수익성, 전략 분석
+2026-04-02
+조회수
+8
+약
+11
+분
+[16] (228,466)<button class='tn-btn tn-btn--sm tn-btn--subtle' />
+	[17] (202,466)<img  />
+	[18] (242,466)<span >좋아요 />
+요약
+[19] (773,583)<button aria-label='요약 복사' class='PublicShow_summaryCopyButton__ieUrT tn-btn tn-btn--icon tn-btn--subtle ' title='요약 복사'>복사 />
+	[20] (773,583)<img  />
+	복사
+2026년 유튜브 쇼츠는 다양한 수익 창출 방식과 성공 전략이 필요한 필수 채널입니다.
+[21] (260,665)<div aria-label='동영상 공유' class='google-anno-skip google-anno-sc' role='link' />
+	[22] (218,666)<span  />
+	[23] (272,667)<span >동영상 공유 />
+유튜브 쇼츠의 수익 구조와 조건은 크게 완화되고, 광고 수익 외 팬 펀딩·제휴 마케팅 등 다양한 부가 수입원이 중요해졌습니다.
+알고리즘 최적화, 강렬한 도입·참여 유도 등 쇼츠에 특화된 콘텐츠 전략이 성과에 큰 영향을 끼칩니다.
+성공을 위해서는 쇼츠와 긴 영상의 결합, AI 도구 활용, 꾸준한 채널 성장 전략이 필요합니다.
+유튜브 쇼츠 수익 창출의 진화와 2026년 기준 심층 분석: 성공을 위한 심층 전략과 실제 수익성 탐구
+[24] (939,939)<button aria-label='틸노트 에이전트 열기' />
+	[25] (939,939)<img  />
+
+</current_dom>

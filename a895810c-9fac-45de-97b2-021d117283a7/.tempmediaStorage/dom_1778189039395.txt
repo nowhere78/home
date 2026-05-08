@@ -1,0 +1,149 @@
+[0] (419,15)<tr  />
+	[1] (229,16)<a aria-label='mediabunny.d.ts, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/mediabunny.d.ts' title='미디어버니.d.ts' />
+		[2] (229,16)<font  />
+			[3] (229,16)<font >미디어버니.d.ts />
+	[4] (483,16)<a class='Link--secondary' href='/Augani/openreel-video/commit/cfa29d81b48b11a569dc8fcdbb837fa7ffbfd0be' title='최초 커밋: OpenReel Video - 전문가용 브라우저 기반 비디오 편집기' />
+		[5] (483,16)<font  />
+			[6] (483,16)<font >최초 커밋: OpenReel Video - 전문가용 브라우저 기반 비디오 편집기 />
+	4개월 전
+[7] (419,59)<tr  />
+	[8] (223,59)<a aria-label='package.json, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/package.json' title='패키지.json' />
+		[9] (223,59)<font  />
+			[10] (223,59)<font >패키지.json />
+	[11] (448,59)<a class='Link--secondary' href='/Augani/openreel-video/commit/4d58644389fd7f04ad7ed5675d48bafe9ae43080' title='성능 개선: 오디오 처리를 위한 WASM 최적화 추가 - O(n log n) Cooley-Tukey 알고리즘을 사용하여 오디오 효과 엔진에서 공유 FFT 클래스 추출 - FFT, WAV 인코딩 및 비트 감지를 위한 WASM 모듈 추가(JavaScript 대체 기능 포함) - 노이즈 감소, 비트 감지 및 내보내기 엔진에 WASM FFT 통합 - 웹 빌드 전에 WASM을 컴파일하도록 빌드 스크립트 업데이트 - CI 호환성을 위해 테스트 명령이 감시 모드가 아닌 다른 모드를 사용하도록 수정' />
+		[12] (448,59)<font  />
+			[13] (448,59)<font >성능: 오디오 처리를 위한 WASM 최적화 추가 />
+	4개월 전
+[14] (419,102)<tr  />
+	[15] (232,103)<a aria-label='pnpm-lock.yaml, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/pnpm-lock.yaml' title='pnpm-lock.yaml' />
+		[16] (232,103)<font  />
+			[17] (232,103)<font >pnpm-lock.yaml />
+	[18] (433,103)<a class='Link--secondary' href='/Augani/openreel-video/commit/0c5d5e2d9208c3600c6ded4d93b73229289f530f' title='특징: 초기 이미지 코어 패키지 추출 에이전트 로그 URL: https://github.com/Augani/openreel-video/sessions/e1873190-d7a2-4348-bde5-3b0a440eb668 공동 저자: Augani <13237525+Augani@users.noreply.github.com>' />
+		[19] (433,103)<font  />
+			[20] (433,103)<font >기능: 초기 이미지 코어 패키지 추출 />
+	15시간 전
+[21] (419,146)<tr  />
+	[22] (242,146)<a aria-label='pnpm-workspace.yaml, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/pnpm-workspace.yaml' title='pnpm-workspace.yaml' />
+		[23] (242,146)<font  />
+			[24] (242,146)<font >pnpm-workspace.yaml />
+	[25] (483,146)<a class='Link--secondary' href='/Augani/openreel-video/commit/cfa29d81b48b11a569dc8fcdbb837fa7ffbfd0be' title='최초 커밋: OpenReel Video - 전문가용 브라우저 기반 비디오 편집기' />
+		[26] (483,146)<font  />
+			[27] (483,146)<font >최초 커밋: OpenReel Video - 전문가용 브라우저 기반 비디오 편집기 />
+	4개월 전
+[28] (419,189)<tr  />
+	[29] (217,189)<a aria-label='start.sh, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/start.sh' title='시작.sh' />
+		[30] (217,189)<font  />
+			[31] (217,189)<font >시작.sh />
+	[32] (499,189)<a class='Link--secondary' href='/Augani/openreel-video/commit/bfea0bb19d51ec2d0c502049fcf8e9dd645d6e45' title='feat(assets): JSON에 폴더 힌트를 추가하고 자동 복원을 위해 디렉터리 핸들을 저장합니다. - MediaItem에 `sourceFile.folder`(폴더 이름)를 추가합니다. "폴더에서 다시 연결"을 통해 다시 연결할 때 채워지므로 JSON에 에셋이 어느 폴더에서 왔는지 표시됩니다(브라우저는 드롭된 파일에서 전체 OS 경로를 노출할 수 없습니다). - 프로젝트 ID를 키로 사용하는 `DIR_HANDLES` IndexedDB 저장소(DB v3)를 추가하여 마지막 "폴더에서 다시 연결" 세션의 `FileSystemDirectoryHandle`을 저장합니다. - `handleRelinkFromFolder`는 이제 디렉터리 핸들(프로젝트 전체), 파일별 핸들(개별 빠른 조회용)을 저장하고 `dirHandle.name`을 `sourceFolder`로 `replaceMediaAsset`에 전달합니다. - `loadProject`의 자동 복원 기능에 2단계 대체 기능이 추가되었습니다. 개별 파일 핸들이 오래되었거나 누락된 경우 저장된 다시 연결 폴더에서 이름과 크기가 일치하는 항목을 검색합니다. - `replaceMediaAsset`는 선택적 `sourceFolder`를 허용하고 이를 저장합니다. `sourceFile.folder`를 사용하면 다시 연결된 에셋은 향후 내보내기에서 해당 폴더를 유지합니다.' />
+		[33] (499,189)<font  />
+			[34] (499,189)<font >feat(assets): JSON에 폴더 힌트를 추가하고 디렉터리 핸들을 영구 저장합니다… />
+	2개월 전
+[35] (419,232)<tr  />
+	[36] (234,233)<a aria-label='tsconfig.base.json, (파일)' class='Link--primary' href='/Augani/openreel-video/blob/main/tsconfig.base.json' title='tsconfig.base.json' />
+		[37] (234,233)<font  />
+			[38] (234,233)<font >tsconfig.base.json />
+	[39] (433,233)<a class='Link--secondary' href='/Augani/openreel-video/commit/0c5d5e2d9208c3600c6ded4d93b73229289f530f' title='특징: 초기 이미지 코어 패키지 추출 에이전트 로그 URL: https://github.com/Augani/openreel-video/sessions/e1873190-d7a2-4348-bde5-3b0a440eb668 공동 저자: Augani <13237525+Augani@users.noreply.github.com>' />
+		[40] (433,233)<font  />
+			[41] (433,233)<font >기능: 초기 이미지 코어 패키지 추출 />
+	15시간 전
+저장소 파일 탐색
+[42] (213,298)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[43] (196,298)<span  />
+	[44] (219,298)<span  />
+		[45] (219,298)<font  />
+			[46] (219,298)<font >README />
+[47] (274,298)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[48] (250,298)<span  />
+	[49] (280,298)<span  />
+		[50] (280,298)<font  />
+			[51] (280,298)<font >기여하기 />
+[52] (340,298)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[53] (318,298)<span  />
+	[54] (347,298)<span  />
+		[55] (347,298)<font  />
+			[56] (347,298)<font >MIT 라이선스 />
+[57] (620,298)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[58] (641,298)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+오픈릴 비디오
+[59] (193,379)<a aria-label='고유 링크: OpenReel 비디오' class='anchor' href='#openreel-video' id='user-content-openreel-video' />
+CapCut의 오픈 소스 대안입니다. 브라우저에서 전문가 수준의 비디오 편집이 가능합니다. 업로드나 설치가 필요 없으며, 100% 오픈 소스입니다.
+OpenReel Video는 모든 기능을 갖춘 브라우저 기반 비디오 편집기로, 클라이언트 측에서만 작동합니다. React, TypeScript, WebCodecs 및 WebGPU를 사용하여 구축되었으며, 고가의 소프트웨어나 클라우드 처리 없이도 전문가 수준의 비디오 편집이 가능합니다.
+[60] (229,601)<a href='https://openreel.video' />
+	[61] (229,601)<font  />
+		[62] (229,601)<font >직접 사용해보기 />
+|
+[63] (270,601)<a href='/Augani/openreel-video/blob/main/CONTRIBUTING.md' />
+	[64] (270,601)<font  />
+		[65] (270,601)<font >문서 />
+|
+[66] (291,601)<a href='https://github.com/Augani/openreel-video/discussions' />
+	[67] (291,601)<font  />
+		[68] (291,601)<font >토론 />
+|
+[69] (317,601)<a href='https://x.com/python_xi' />
+	[70] (317,601)<font  />
+		[71] (317,601)<font >트위터 />
+[72] (235,646)<a href='https://camo.githubusercontent.com/da8d9f91ca4b2031db81d92dbeeb3b595cbab7f2f5331542dbec2955302df95d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e65732532306f66253230436f64652d3133306b2b2d626c7565' />
+	[73] (235,642)<img  />
+[74] (293,646)<a href='https://camo.githubusercontent.com/5caa455d8debc46fb23abbadb45a733a937f3910a73fc875c2f7820468e1bb54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e' />
+	[75] (293,642)<img  />
+[76] (337,646)<a href='https://camo.githubusercontent.com/6c051737ab536cd59d27a094f81057e32cab3f3e92f040fab3742959e2328daf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d426574612d6f72616e6765' />
+	[77] (337,642)<img  />
+[78] (393,646)<a href='https://camo.githubusercontent.com/f7092ff5a2b977c3ec0dde9369a3dbb24bd5e00965de45eaf3825ee6134aecd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e253230536f757263652d3130302532352d627269676874677265656e' />
+	[79] (393,642)<img  />
+OpenReel을 선택하는 이유는 무엇일까요?
+[80] (193,729)<a aria-label='고유 링크: OpenReel을 선택하는 이유?' class='anchor' href='#why-openreel' id='user-content-why-openreel' />
+100% 클라이언트 측 처리
+- 동영상은 기기를 벗어나지 않습니다. 업로드도 없고, 클라우드 처리도 없어 완벽한 개인정보 보호를 보장합니다.
+설치가 필요 없습니다
+. Chrome/Edge에서 바로 사용 가능합니다. 열고 편집을 시작하세요.
+전문적인 기능
+- 멀티트랙 타임라인, 키프레임 애니메이션, 색상 보정, 오디오 효과 등 다양한 기능을 제공합니다.
+GPU 가속
+- WebGPU 및 WebCodecs를 통해 부드러운 4K 편집과 빠른 내보내기가 가능합니다.
+평생 무료
+- MIT 라이선스 적용, 구독료 없음, 워터마크 없음.
+특징
+[81] (683,7)<a class='mr-2' href='https://github.com/Augani' />
+	[82] (683,7)<img  />
+[83] (738,7)<a class='Link--primary no-underline flex-self-center' href='https://github.com/Augani' />
+	[84] (710,7)<strong  />
+		[85] (710,7)<font  />
+			[86] (710,7)<font >아우가니 />
+	[87] (753,7)<span  />
+		[88] (753,7)<font  />
+			[89] (753,7)<font >아우구스투스 오투 />
+[90] (683,50)<a class='mr-2' href='https://github.com/lvalics' />
+	[91] (683,50)<img  />
+[92] (728,50)<a class='Link--primary no-underline flex-self-center' href='https://github.com/lvalics' />
+	[93] (710,50)<strong  />
+		[94] (710,50)<font  />
+			[95] (710,50)<font >이발릭스 />
+	[96] (742,50)<span  />
+		[97] (742,50)<font  />
+			[98] (742,50)<font >발릭스 레헬 />
+[99] (683,92)<a class='mr-2' href='https://github.com/apps/copilot-swe-agent' />
+	[100] (683,92)<img  />
+[101] (709,92)<a class='Link--primary no-underline flex-self-center' href='https://github.com/apps/copilot-swe-agent' />
+	[102] (709,92)<strong  />
+		[103] (709,92)<font  />
+			[104] (709,92)<font >부조종사 />
+[105] (683,134)<a class='mr-2' href='https://github.com/joshmoy' />
+	[106] (683,134)<img  />
+[107] (724,134)<a class='Link--primary no-underline flex-self-center' href='https://github.com/joshmoy' />
+	[108] (710,134)<strong  />
+		[109] (710,134)<font  />
+			[110] (710,134)<font >조슈모이 />
+	[111] (738,134)<span  />
+		[112] (738,134)<font  />
+			[113] (738,134)<font >코드셰프 />
+언어
+[114] (708,263)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/Augani/openreel-video/search?l=typescript' />
+	[115] (705,263)<span  />
+		[116] (705,263)<font  />
+			[117] (705,263)<font >타입스크립트 />
+	[118] (732,263)<span  />
+		[119] (732,263)<font  />
+			[120] (732,263)<font >98.7% />
+다른
+1.3%

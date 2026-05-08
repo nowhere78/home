@@ -1,0 +1,105 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (144,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/aden-hive' />
+	[3] (144,34)<span >aden-hive />
+[4] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[5] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (740,34)<span  />
+[9] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (967,34)<img  />
+Organization navigation
+[15] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive' />
+	[16] (33,81)<span  />
+	[17] (81,81)<span >Overview />
+[18] (205,81)<a class='prc-components-UnderlineItem-7fP-n' href='/orgs/aden-hive/repositories' />
+	[19] (146,81)<span  />
+	[20] (203,81)<span >Repositories />
+	[21] (263,81)<span >(
+3
+) />
+		[22] (263,81)<span >3 />
+		(
+		3
+		)
+[23] (338,81)<a class='prc-components-UnderlineItem-7fP-n' href='/orgs/aden-hive/projects' />
+	[24] (307,81)<span  />
+	[25] (350,81)<span >Projects />
+[26] (444,81)<a class='prc-components-UnderlineItem-7fP-n' href='/orgs/aden-hive/packages' />
+	[27] (410,81)<span  />
+	[28] (457,81)<span >Packages />
+[29] (547,81)<a class='prc-components-UnderlineItem-7fP-n' href='/orgs/aden-hive/people' />
+	[30] (521,81)<span  />
+	[31] (560,81)<span >People />
+Aden
+Aden Hive is an open-source, Python-based framework designed for building production-grade, autonomous, and self-improving AI agents.
+[32] (228,279)<a class='Link--primary no-wrap' href='/orgs/aden-hive/followers'>followers />
+	[33] (201,279)<span >143 />
+United States of America
+[34] (548,279)<a class='Link--primary' href='https://adenhq.com/' title='https://adenhq.com/'>https://adenhq.com/ />
+[35] (304,306)<a class='Link--primary' href='https://discord.com/invite/hQdU7QDkgR'>https://discord.com/invite/hQdU7QDkgR />
+[36] (512,306)<a class='Link--primary' href='https://linkedin.com/company/teamaden'>company/teamaden />
+[37] (640,306)<a class='Link--primary' href='https://www.youtube.com/@adenhq'>@adenhq />
+[38] (741,306)<a class='Link--primary' href='https://x.com/aden_hq'>@aden_hq />
+[39] (252,334)<a class='Link--primary' href='mailto:contact@adenhq.com'>contact@adenhq.com />
+[40] (919,192)<input aria-label='Follow aden-hive' class='btn ml-1' title='Follow aden-hive' />
+Popular repositories
+Loading
+[41] (73,467)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/aden-hive/hive' id='1132431999' />
+	[42] (73,467)<span >hive />
+Public
+Multi-Agent Harness for Production AI
+Python
+[43] (159,552)<a class='pinned-item-meta Link--muted' href='/aden-hive/hive/stargazers'>10.2k />
+[44] (225,552)<a class='pinned-item-meta Link--muted' href='/aden-hive/hive/forks'>5.6k />
+[45] (451,467)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/aden-hive/honeycomb-skills' id='1191083287' />
+	[46] (451,467)<span >honeycomb-skills />
+Public
+Agent Skills for trading on the HoneyComb job position exchange
+Python
+[47] (481,552)<a class='pinned-item-meta Link--muted' href='/aden-hive/honeycomb-skills/stargazers'>1 />
+[48] (528,552)<a class='pinned-item-meta Link--muted' href='/aden-hive/honeycomb-skills/forks'>3 />
+[49] (117,626)<a class='min-width-0 Link text-bold flex-auto wb-break-all' href='/aden-hive/hive-skill-registry' id='1192016498' />
+	[50] (117,626)<span >hive-skill-registry />
+Public
+A curated skill registry that provides ready-to-use, proven skills so developers don’t start from scratch, while enabling contributors to share and grow a community-driven ecosystem.
+[51] (73,750)<a class='pinned-item-meta Link--muted' href='/aden-hive/hive-skill-registry/forks'>1 />
+Repositories
+[52] (367,879)<input aria-label='Find a repository…' class='auto-search-input form-control width-full' id='your-repos-filter' placeholder='Find a repository…' />
+Loading
+[53] (83,922)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0 mr-1 ml-lg-2' id='type-options' />
+	[54] (83,922)<summary class='btn' role='button' />
+		[55] (75,921)<span >Type />
+		[56] (103,923)<span  />
+[57] (196,922)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0 mr-md-2 ml-md-2' id='language-options' />
+	[58] (196,922)<summary class='btn' role='button' />
+		[59] (188,921)<span >Language />
+		[60] (233,923)<span  />
+[61] (307,922)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0 ml-1' id='sort-options' />
+	[62] (307,922)<summary class='btn' role='button' />
+		[63] (299,921)<span >Sort />
+		[64] (325,923)<span  />
+Showing 3 of 3 repositories
+[65] (75,986)<a class='Link f4 d-inline-block text-bold mr-1 tmp-mr-1' href='/aden-hive/hive'>hive />
+Public
+[66] (867,416)<a class='d-block color-fg-default' href='/orgs/aden-hive/people' />
+	[67] (867,416)<h4 >People />
+This organization has no public members. You must be a member to see who’s a part of this organization.
+Top languages
+[68] (785,640)<a class='no-wrap color-fg-muted d-inline-block Link--muted mt-2' href='/orgs/aden-hive/repositories?language=python&type=all' />
+	[69] (781,640)<span  />
+		[70] (756,641)<span  />
+		[71] (789,640)<span >Python />
+[72] (787,697)<a aria-label='Report abuse' class='text-small Link--secondary' href='/contact/report-abuse?report=aden-hive'>Report abuse />
+
+</current_dom>

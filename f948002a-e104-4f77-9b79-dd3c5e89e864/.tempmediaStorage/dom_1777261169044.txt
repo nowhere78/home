@@ -1,0 +1,125 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,22)<a class='md-banner__inner' href='/pages/mothers-day-2026' />
+	[1] (101,22)<span  />
+		[2] (101,22)<font  />
+			[3] (101,22)<font >2026년 어머니의 날 />
+	[4] (483,22)<span  />
+		[5] (228,21)<strong  />
+			[6] (228,21)<font  />
+				[7] (228,21)<font >MOTHERS10 />
+		[8] (528,21)<font  />
+			[9] (391,21)<font >코드를 사용하시면 10% 할인됩니다. />
+			[10] (646,21)<font >· 5월 6일까지 주문하시면 제때 도착합니다. />
+	[11] (868,22)<span  />
+		[12] (868,21)<font  />
+			[13] (868,21)<font >선물 추천 상품 보기 → />
+[14] (976,22)<button aria-label='어머니의 날 배너를 닫으세요' class='md-banner__close' />
+	[15] (976,22)<font  />
+		[16] (976,22)<font >× />
+[17] (500,67)<a href='/discount/MOTHERS10?redirect=/collections/mothers-day-gifts' />
+	[18] (500,66)<font  />
+		[19] (500,66)<font >💐 어버이날 특별 할인 — 코드 MOTHERS10 입력 시 10% 할인 — 24시간 내 배송 />
+[20] (969,64)<button aria-label='공지 종료' class='announcement-bar__close' />
+	[21] (969,64)<font  />
+		[22] (969,64)<font >✕ />
+[23] (90,119)<a class='site-header__logo' href='/' />
+	[24] (90,117)<span  />
+		[25] (90,117)<span  />
+			[26] (90,117)<font  />
+				[27] (90,117)<font >스트라벨라 />
+[28] (354,119)<a class='site-header__nav-link ' href='/pages/mothers-day-2026' />
+	[29] (354,119)<font  />
+		[30] (354,118)<font >2026년 어머니의 날 />
+[31] (426,119)<a class='site-header__nav-link ' href='/' />
+	[32] (426,119)<font  />
+		[33] (426,118)<font >집 />
+[34] (455,119)<a class='site-header__nav-link ' href='/collections/all' />
+	[35] (455,119)<font  />
+		[36] (455,118)<font >가게 />
+[37] (502,119)<a class='site-header__nav-link ' href='/pages/contact-us' />
+	[38] (502,119)<font  />
+		[39] (502,118)<font >연락하다 />
+[40] (555,119)<a class='site-header__nav-link ' href='/pages/wholesale' />
+	[41] (555,119)<font  />
+		[42] (555,118)<font >모조리 />
+[43] (620,119)<a class='site-header__nav-link ' href='https://www.strabellahome.com/apps/track123' />
+	[44] (620,119)<font  />
+		[45] (620,118)<font >주문 추적하기 />
+[46] (697,119)<a class='site-header__nav-link ' href='/collections/best-selling-products' />
+	[47] (697,119)<font  />
+		[48] (697,118)<font >베스트셀러 />
+[49] (755,119)<a class='site-header__nav-link ' href='/blogs/news' />
+	[50] (755,119)<font  />
+		[51] (755,118)<font >블로그 />
+[52] (835,119)<button aria-label='찾다' class='site-header__search-btn' />
+[53] (896,119)<a aria-label='계정' class='site-header__account-btn' href='/account' />
+[54] (956,119)<button aria-label='카트' class='site-header__cart-btn' />
+[55] (31,180)<a href='/' />
+	[56] (31,180)<font  />
+		[57] (31,180)<font >집 />
+[58] (65,180)<a href='/blogs/news' />
+	[59] (65,180)<font  />
+		[60] (65,180)<font >소식 />
+2026년 필수 주방 도구 15가지: 꼭 필요한 것들...
+[61] (153,275)<a class='article-tag' href='/blogs/news/tagged/best-kitchen-tools' />
+	[62] (153,274)<font  />
+		[63] (153,274)<font >최고의 주방 도구 />
+[64] (256,275)<a class='article-tag' href='/blogs/news/tagged/cooking-accessories' />
+	[65] (256,274)<font  />
+		[66] (256,274)<font >조리 도구 />
+[67] (339,275)<a class='article-tag' href='/blogs/news/tagged/cooking-equipment' />
+	[68] (339,274)<font  />
+		[69] (339,274)<font >조리 기구 />
+[70] (422,275)<a class='article-tag' href='/blogs/news/tagged/cooking-utensils' />
+	[71] (422,274)<font  />
+		[72] (422,274)<font >조리 도구 />
+[73] (518,275)<a class='article-tag' href='/blogs/news/tagged/essential-kitchen-equipment' />
+	[74] (518,274)<font  />
+		[75] (518,274)<font >필수 주방 장비 />
+[76] (680,275)<a class='article-tag' href='/blogs/news/tagged/home-cooking-essentials' />
+	[77] (680,274)<font  />
+		[78] (680,274)<font >집에서 요리할 때 꼭 필요한 필수품 />
+[79] (847,275)<a class='article-tag' href='/blogs/news/tagged/home-cooking-tools' />
+	[80] (847,274)<font  />
+		[81] (847,274)<font >가정용 조리 도구 />
+[82] (145,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-equipment-guide' />
+	[83] (145,310)<font  />
+		[84] (145,310)<font >주방 장비 가이드 />
+[85] (267,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-essentials-list' />
+	[86] (267,310)<font  />
+		[87] (267,310)<font >주방 필수품 목록 />
+[88] (367,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-gadgets' />
+	[89] (367,310)<font  />
+		[90] (367,310)<font >주방용품 />
+[91] (478,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-must-haves-2026' />
+	[92] (478,310)<font  />
+		[93] (478,310)<font >2026년 주방 필수품 />
+[94] (590,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-organization' />
+	[95] (590,310)<font  />
+		[96] (590,310)<font >주방 정리 />
+[97] (692,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-storage-solutions' />
+	[98] (692,310)<font  />
+		[99] (692,310)<font >주방 수납 솔루션 />
+[100] (793,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-supplies' />
+	[101] (793,310)<font  />
+		[102] (793,310)<font >주방용품 />
+[103] (874,310)<a class='article-tag' href='/blogs/news/tagged/kitchen-tools' />
+	[104] (874,310)<font  />
+		[105] (874,310)<font >주방 도구 />
+2026년 필수 주방 도구 15가지: 현대 가정 요리를 위한 필수 장비
+마커스 웹
+·
+2026년 4월 7일
+·
+5분 읽기
+[106] (933,956)<button aria-label='채팅방 열기' class='strab-chat__toggle' id='strab-chat-toggle' />
+	[107] (947,956)<span  />
+		[108] (947,956)<font  />
+			[109] (947,956)<font >묻다 />
+	[110] (966,944)<span  />
+
+</current_dom>

@@ -1,0 +1,258 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+✨ 구스가 에이전트 AI 재단(AAIF)으로 이전했습니다!
+[0] (572,15)<a href='/blog/2026/04/07/goose-moves-to-aaif' />
+	[1] (572,15)<font  />
+		[2] (572,15)<font >자세히 알아보세요 />
+! ✨
+[3] (987,15)<button aria-label='닫다' class='clean-btn close closeButton_CVFx announcementBarClose_gvF7' />
+[4] (17,63)<a class='navbar__brand' href='/' />
+	[5] (17,63)<div  />
+		[6] (17,63)<img  />
+[7] (47,63)<a class='navbar__item navbar__link' href='/docs/quickstart' />
+	[8] (47,63)<font  />
+		[9] (47,62)<font >빠른 시작 />
+[10] (84,63)<a class='navbar__item navbar__link' href='/docs/category/guides' />
+	[11] (84,63)<font  />
+		[12] (84,62)<font >문서 />
+[13] (119,63)<a class='navbar__item navbar__link' href='/docs/category/tutorials' />
+	[14] (119,63)<font  />
+		[15] (119,62)<font >튜토리얼 />
+[16] (158,63)<a class='navbar__item navbar__link' href='/docs/category/mcp-servers' />
+	[17] (158,63)<font  />
+		[18] (158,62)<font >MCPs />
+[19] (193,63)<a class='navbar__item navbar__link' href='/blog' />
+	[20] (193,63)<font  />
+		[21] (193,62)<font >블로그 />
+[22] (229,63)<a class='navbar__link' href='#' role='button' />
+	[23] (225,62)<font  />
+		[24] (225,62)<font >자원 />
+[25] (749,63)<a class='navbar__item navbar__link' href='https://discord.gg/goose-oss' />
+	[26] (743,63)<font  />
+		[27] (743,62)<font >불화 />
+[28] (792,63)<a class='navbar__item navbar__link' href='https://github.com/aaif-goose/goose' />
+	[29] (786,63)<font  />
+		[30] (786,62)<font >깃허브 />
+[31] (823,63)<button aria-label='다크 모드와 라이트 모드(현재는 시스템 모드) 간 전환' class='clean-btn toggleButton_gllP' title='시스템 모드' />
+[32] (920,63)<div  />
+	[33] (920,63)<button class='ikp-btn ikp-btn--colorPalette_gray ikp-btn--variant_ghost ikp-btn--size_md ikp-text_gray.800 dark:ikp-text_whiteAlpha.900 hover:ikp-bg_gray.100 hover:dark:ikp-bg_whiteAlpha.200 active:ikp-bg_gray.200 active:dark:ikp-bg_whiteAlpha.300 ikp-w_100% ikp-search-bar-trigger__container ikp-search-bar-trigger__container--size_shrink ikp-search-bar-trigger__container--variant_subtle' />
+		[34] (910,63)<div  />
+			[35] (860,63)<div  />
+			[36] (914,63)<span  />
+				[37] (914,62)<font  />
+					[38] (914,62)<font >무엇이든 검색해 보세요... />
+		[39] (975,63)<kbd  />
+			[40] (975,63)<div >K />
+				[41] (973,63)<span >Ctrl />
+[42] (78,121)<a class='menu__link' href='/docs/quickstart' />
+	[43] (27,121)<span  />
+		[44] (27,120)<font  />
+			[45] (27,120)<font >빠른 시작 />
+[46] (66,159)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/getting-started' />
+	[47] (66,159)<span  />
+		[48] (26,158)<font  />
+			[49] (26,158)<font >시작하기 />
+[50] (140,159)<button aria-label='사이드바 카테고리 '시작하기'를 펼치세요' class='clean-btn menu__caret' />
+[51] (66,197)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/guides' />
+	[52] (66,197)<span  />
+		[53] (22,196)<font  />
+			[54] (22,196)<font >가이드 />
+[55] (140,197)<button aria-label='사이드바 카테고리 '가이드'를 펼치세요' class='clean-btn menu__caret' />
+[56] (66,235)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/tutorials' />
+	[57] (66,235)<span  />
+		[58] (26,234)<font  />
+			[59] (26,234)<font >튜토리얼 />
+[60] (140,235)<button aria-label='사이드바 카테고리 '튜토리얼'을 펼치세요' class='clean-btn menu__caret' />
+[61] (66,273)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/mcp-servers' />
+	[62] (66,273)<span  />
+		[63] (28,272)<font  />
+			[64] (28,272)<font >MCP 서버 />
+[65] (140,273)<button aria-label='사이드바 카테고리 'MCP 서버'를 펼치세요' class='clean-btn menu__caret' />
+[66] (66,311)<a class='categoryLink_byQd menu__link menu__link--sublist menu__link--active' href='/docs/category/architecture-overview' />
+	[67] (66,311)<span  />
+		[68] (27,311)<font  />
+			[69] (27,311)<font >건축 개요 />
+[70] (140,311)<button aria-label='사이드바 카테고리 '아키텍처 개요'를 접으세요.' class='clean-btn menu__caret' />
+[71] (81,349)<a class='menu__link' href='/docs/goose-architecture/' />
+	[72] (33,349)<span  />
+		[73] (33,349)<font  />
+			[74] (33,349)<font >거위 건축 />
+[75] (81,387)<a class='menu__link menu__link--active' href='/docs/goose-architecture/extensions-design' />
+	[76] (37,387)<span  />
+		[77] (37,387)<font  />
+			[78] (37,387)<font >확장 디자인 />
+[79] (81,425)<a class='menu__link' href='/docs/goose-architecture/error-handling' />
+	[80] (33,425)<span  />
+		[81] (33,425)<font  />
+			[82] (33,425)<font >오류 처리 />
+[83] (66,463)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/experimental/' />
+	[84] (66,463)<span  />
+		[85] (26,463)<font  />
+			[86] (26,463)<font >실험적인 />
+[87] (140,463)<button aria-label='사이드바 카테고리 '실험적'을 펼치세요' class='clean-btn menu__caret' />
+[88] (66,502)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/troubleshooting/' />
+	[89] (66,502)<span  />
+		[90] (27,501)<font  />
+			[91] (27,501)<font >문제 해결 />
+[92] (140,502)<button aria-label='사이드바 카테고리 '문제 해결'을 펼치세요' class='clean-btn menu__caret' />
+[93] (196,129)<a aria-label='홈페이지' class='breadcrumbs__link' href='/' />
+[94] (237,129)<a class='breadcrumbs__link' href='/docs/category/architecture-overview' />
+	[95] (237,128)<span  />
+		[96] (237,128)<font  />
+			[97] (237,128)<font >건축 개요 />
+확장 디자인
+[98] (723,176)<button aria-label='페이지를 클립보드에 복사' class='flex items-center gap-1.5 px-3 py-1.5 bg-black dark:bg-white text-white dark:text-black rounded-md text-sm font-medium transition-all duration-200 ease-in-out hover:opacity-90 hover:-translate-y-px focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white focus:ring-offset-2 active:translate-y-px disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:opacity-60 disabled:hover:translate-y-0' />
+	페이지 복사
+[99] (761,176)<button aria-label='추가 페이지 작업' class='px-2 py-1.5 bg-black dark:bg-white text-white dark:text-black rounded-l-none rounded-r-md text-sm font-medium transition-all duration-200 ease-in-out hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white focus:ring-offset-2 flex items-center justify-center' />
+확장 디자인
+[100] (264,313)<a href='/docs/getting-started/using-extensions' />
+	[101] (264,313)<font  />
+		[102] (264,313)<font >이 문서에서는 Goose의 확장 기능 프레임워크 />
+의 설계 및 구현에 대해 설명합니다
+. 이 프레임워크를 통해 AI 에이전트는 통합된 도구 기반 인터페이스를 통해 다양한 확장 기능과 상호 작용할 수 있습니다.
+핵심 개념
+[103] (259,419)<a aria-label='Direct link to Core Concepts' class='hash-link' href='#core-concepts' title='Direct link to Core Concepts' />
+확대
+[104] (216,487)<a aria-label='Direct link to Extension' class='hash-link' href='#extension' title='Direct link to Extension' />
+확장 기능은 AI 에이전트가 조작할 수 있는 모든 구성 요소를 나타냅니다. 확장 기능은 도구를 통해 기능을 노출하고 자체 상태를 유지합니다. 핵심 인터페이스는 특성에 의해 정의됩니다
+Extension
+.
+#[async_trait]
+pub
+trait
+Extension
+:
+Send
++
+Sync
+{
+fn
+name
+(
+&
+self
+)
+->
+&
+str
+;
+fn
+description
+(
+&
+self
+)
+->
+&
+str
+;
+fn
+instructions
+(
+&
+self
+)
+->
+&
+str
+;
+fn
+tools
+(
+&
+self
+)
+->
+&
+[
+Tool
+]
+;
+async
+fn
+status
+(
+&
+self
+)
+->
+AnyhowResult
+<
+HashMap
+<
+String
+,
+Value
+>>
+;
+async
+fn
+call_tool
+(
+&
+self
+,
+tool_name
+:
+&
+str
+,
+parameters
+:
+HashMap
+<
+String
+,
+Value
+>
+)
+->
+ToolResult
+<
+Value
+>
+;
+}
+[105] (757,629)<button aria-label='코드를 클립보드에 복사하세요' class='clean-btn' title='복사' />
+	[106] (757,629)<span  />
+도구
+[107] (216,894)<a aria-label='Direct link to Tools' class='hash-link' href='#tools' title='Direct link to Tools' />
+도구는 확장 프로그램이 에이전트에 기능을 노출하는 주요 방법입니다. 각 도구에는 다음과 같은 기능이 있습니다.
+이름
+[108] (880,140)<a class='table-of-contents__link toc-highlight table-of-contents__link--active' href='#core-concepts' />
+	[109] (808,140)<font  />
+		[110] (808,140)<font >핵심 개념 />
+[111] (883,171)<a class='table-of-contents__link toc-highlight' href='#extension' />
+	[112] (810,170)<font  />
+		[113] (810,170)<font >확대 />
+[114] (883,202)<a class='table-of-contents__link toc-highlight' href='#tools' />
+	[115] (810,201)<font  />
+		[116] (810,201)<font >도구 />
+[117] (880,233)<a class='table-of-contents__link toc-highlight' href='#architecture' />
+	[118] (805,232)<font  />
+		[119] (805,232)<font >건축학 />
+[120] (883,263)<a class='table-of-contents__link toc-highlight' href='#component-overview' />
+	[121] (823,263)<font  />
+		[122] (823,263)<font >구성 요소 개요 />
+[123] (883,294)<a class='table-of-contents__link toc-highlight' href='#error-handling' />
+	[124] (817,294)<font  />
+		[125] (817,294)<font >오류 처리 />
+[126] (880,325)<a class='table-of-contents__link toc-highlight' href='#best-practices' />
+	[127] (808,325)<font  />
+		[128] (808,325)<font >모범 사례 />
+[129] (883,356)<a class='table-of-contents__link toc-highlight' href='#tool-design' />
+	[130] (817,355)<font  />
+		[131] (817,355)<font >도구 설계 />
+[132] (883,387)<a class='table-of-contents__link toc-highlight' href='#extension-implementation' />
+	[133] (817,386)<font  />
+		[134] (817,386)<font >확장 구현 />
+[135] (883,418)<a class='table-of-contents__link toc-highlight' href='#example-implementation' />
+	[136] (817,417)<font  />
+		[137] (817,417)<font >구현 예시 />
+[138] (880,448)<a class='table-of-contents__link toc-highlight' href='#testing' />
+	[139] (805,448)<font  />
+		[140] (805,448)<font >테스트 />
+
+</current_dom>

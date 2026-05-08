@@ -1,0 +1,665 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/yangsijun' />
+		[4] (65,34)<span  />
+			[5] (65,33)<font  />
+				[6] (65,33)<font >양시준 />
+	[7] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/yangsijun/Bible-Flash' />
+		[8] (111,34)<span  />
+			[9] (111,33)<font  />
+				[10] (111,33)<font >바이블 플래시 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_m_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_r_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+	[34] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/pulls' />
+		[35] (104,80)<span  />
+		[36] (133,80)<span  />
+			[37] (133,80)<font  />
+				[38] (133,80)<font >풀 리퀘스트 />
+	[39] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/agents?author=nowhere78' />
+		[40] (171,80)<span  />
+		[41] (197,80)<span  />
+			[42] (197,80)<font  />
+				[43] (197,80)<font >자치령 대표 />
+	[44] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/actions' />
+		[45] (232,80)<span  />
+		[46] (252,80)<span  />
+			[47] (252,80)<font  />
+				[48] (252,80)<font >행위 />
+	[49] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/projects' />
+		[50] (281,80)<span  />
+		[51] (303,80)<span  />
+			[52] (303,80)<font  />
+				[53] (303,80)<font >프로젝트 />
+	[54] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/security' />
+		[55] (333,80)<span  />
+		[56] (374,80)<span  />
+			[57] (374,80)<font  />
+				[58] (374,80)<font >보안 및 품질 />
+	[59] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/yangsijun/Bible-Flash/pulse' />
+		[60] (424,80)<span  />
+		[61] (446,80)<span  />
+			[62] (446,80)<font  />
+				[63] (446,80)<font >인사이트 />
+[64] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[65] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[66] (65,190)<span  />
+		[67] (58,190)<span  />
+			[68] (58,190)<div  />
+				[69] (19,190)<div  />
+				[70] (33,190)<div  />
+					[71] (33,190)<span  />
+						[72] (34,190)<font  />
+							[73] (34,190)<font >기본 />
+[74] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/yangsijun/Bible-Flash/new/main/bible-flash/src' />
+[75] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[76] (83,233)<span  />
+	[77] (17,233)<span  />
+	[78] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[79] (148,233)<span  />
+		[80] (148,233)<kbd  />
+			[81] (148,233)<span >t />
+				t
+				[82] (148,233)<span >T />
+[83] (79,590)<div  />
+	[84] (79,569)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash-item' role='treeitem' />
+		[85] (79,279)<div  />
+			[86] (13,279)<div  />
+			[87] (84,279)<div  />
+				[88] (25,279)<div  />
+					[89] (25,279)<div  />
+				[90] (90,279)<span  />
+					[91] (54,279)<span  />
+						[92] (54,279)<font  />
+							[93] (54,279)<font >바이블 플래시 />
+		[94] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/assets/icons-item' role='treeitem' />
+			[95] (79,314)<div  />
+				[96] (10,314)<div  />
+					[97] (10,314)<div  />
+						[98] (10,314)<div  />
+				[99] (17,314)<div  />
+				[100] (86,314)<div  />
+					[101] (29,313)<div  />
+						[102] (29,313)<div  />
+					[103] (92,314)<span  />
+						[104] (57,314)<span >assets/
+icons />
+		[105] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src-item' role='treeitem' />
+			[106] (79,348)<div  />
+				[107] (10,348)<div  />
+					[108] (10,348)<div  />
+						[109] (10,348)<div  />
+				[110] (17,348)<div  />
+				[111] (86,348)<div  />
+					[112] (29,347)<div  />
+						[113] (29,347)<div  />
+					[114] (92,348)<span  />
+						[115] (42,348)<span >src />
+			[116] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/control.html-item' role='treeitem' />
+				[117] (79,382)<div  />
+					[118] (13,382)<div  />
+						[119] (13,382)<div  />
+							[120] (10,382)<div  />
+							[121] (15,382)<div  />
+					[122] (88,382)<div  />
+						[123] (33,382)<div  />
+						[124] (94,382)<span  />
+							[125] (61,382)<span >control.html />
+			[126] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/control.js-item' role='treeitem' />
+				[127] (79,416)<div  />
+					[128] (13,416)<div  />
+						[129] (13,416)<div  />
+							[130] (10,416)<div  />
+							[131] (15,416)<div  />
+					[132] (88,416)<div  />
+						[133] (33,416)<div  />
+						[134] (94,416)<span  />
+							[135] (56,416)<span >control.js />
+			[136] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/db.js-item' role='treeitem' />
+				[137] (79,450)<div  />
+					[138] (13,450)<div  />
+						[139] (13,450)<div  />
+							[140] (10,450)<div  />
+							[141] (15,450)<div  />
+					[142] (88,450)<div  />
+						[143] (33,450)<div  />
+						[144] (94,450)<span  />
+							[145] (49,450)<span >db.js />
+			[146] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/display.css-item' role='treeitem' />
+				[147] (79,484)<div  />
+					[148] (13,484)<div  />
+						[149] (13,484)<div  />
+							[150] (10,484)<div  />
+							[151] (15,484)<div  />
+					[152] (88,484)<div  />
+						[153] (33,484)<div  />
+						[154] (94,484)<span  />
+							[155] (58,484)<span >display.css />
+			[156] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/display.html-item' role='treeitem' />
+				[157] (79,518)<div  />
+					[158] (13,518)<div  />
+						[159] (13,518)<div  />
+							[160] (10,518)<div  />
+							[161] (15,518)<div  />
+					[162] (88,518)<div  />
+						[163] (33,518)<div  />
+						[164] (94,518)<span  />
+							[165] (61,518)<span >display.html />
+			[166] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/display.js-item' role='treeitem' />
+				[167] (79,552)<div  />
+					[168] (13,552)<div  />
+						[169] (13,552)<div  />
+							[170] (10,552)<div  />
+							[171] (15,552)<div  />
+					[172] (88,552)<div  />
+						[173] (33,552)<div  />
+						[174] (94,552)<span  />
+							[175] (56,552)<span >display.js />
+			[176] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/index.css-item' role='treeitem' />
+				[177] (79,586)<div  />
+					[178] (13,586)<div  />
+						[179] (13,586)<div  />
+							[180] (10,586)<div  />
+							[181] (15,586)<div  />
+					[182] (88,586)<div  />
+						[183] (33,586)<div  />
+						[184] (94,586)<span  />
+							[185] (56,586)<span >index.css />
+			[186] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/index.js-item' role='treeitem' />
+				[187] (79,620)<div  />
+					[188] (13,620)<div  />
+						[189] (13,620)<div  />
+							[190] (10,620)<div  />
+							[191] (15,620)<div  />
+					[192] (88,620)<div  />
+						[193] (33,620)<div  />
+						[194] (94,620)<span  />
+							[195] (54,620)<span >index.js />
+			[196] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/menuTemplate.js-item' role='treeitem' />
+				[197] (79,654)<div  />
+					[198] (13,654)<div  />
+						[199] (13,654)<div  />
+							[200] (10,654)<div  />
+							[201] (15,654)<div  />
+					[202] (88,654)<div  />
+						[203] (33,654)<div  />
+						[204] (94,654)<span  />
+							[205] (69,654)<span >menuTemplate.js />
+			[206] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/src/preload.js-item' role='treeitem' />
+				[207] (79,688)<div  />
+					[208] (13,688)<div  />
+						[209] (13,688)<div  />
+							[210] (10,688)<div  />
+							[211] (15,688)<div  />
+					[212] (88,688)<div  />
+						[213] (33,688)<div  />
+						[214] (94,688)<span  />
+							[215] (57,688)<span >preload.js />
+		[216] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/.gitignore-item' role='treeitem' />
+			[217] (79,722)<div  />
+				[218] (10,722)<div  />
+					[219] (10,722)<div  />
+						[220] (10,722)<div  />
+				[221] (86,722)<div  />
+					[222] (29,722)<div  />
+					[223] (92,722)<span  />
+						[224] (53,722)<span >.gitignore />
+		[225] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/forge.config.js-item' role='treeitem' />
+			[226] (79,756)<div  />
+				[227] (10,756)<div  />
+					[228] (10,756)<div  />
+						[229] (10,756)<div  />
+				[230] (86,756)<div  />
+					[231] (29,756)<div  />
+					[232] (92,756)<span  />
+						[233] (60,756)<span >forge.config.js />
+		[234] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/package-lock.json-item' role='treeitem' />
+			[235] (79,790)<div  />
+				[236] (10,790)<div  />
+					[237] (10,790)<div  />
+						[238] (10,790)<div  />
+				[239] (86,790)<div  />
+					[240] (29,790)<div  />
+					[241] (92,790)<span  />
+						[242] (66,790)<span >package-lock.json />
+		[243] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/package.json-item' role='treeitem' />
+			[244] (79,824)<div  />
+				[245] (10,824)<div  />
+					[246] (10,824)<div  />
+						[247] (10,824)<div  />
+				[248] (86,824)<div  />
+					[249] (29,824)<div  />
+					[250] (92,824)<span  />
+						[251] (58,824)<span >package.json />
+		[252] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bible-flash/yarn.lock-item' role='treeitem' />
+			[253] (79,858)<div  />
+				[254] (10,858)<div  />
+					[255] (10,858)<div  />
+						[256] (10,858)<div  />
+				[257] (86,858)<div  />
+					[258] (29,858)<div  />
+					[259] (92,858)<span  />
+						[260] (52,858)<span >yarn.lock />
+	[261] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[262] (79,893)<div  />
+			[263] (84,893)<div  />
+				[264] (25,892)<div  />
+				[265] (90,893)<span  />
+					[266] (53,893)<span  />
+						[267] (53,893)<font  />
+							[268] (53,893)<font >README.md />
+[269] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[270] (200,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/yangsijun/Bible-Flash/tree/main' />
+	[271] (200,139)<font  />
+		[272] (200,139)<font >바이블 플래시 />
+/
+[273] (261,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/yangsijun/Bible-Flash/tree/main/bible-flash' />
+	[274] (261,139)<font  />
+		[275] (261,139)<font >바이블플래시 />
+/
+[276] (305,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/yangsijun/Bible-Flash/tree/main/bible-flash/src' />
+	[277] (305,139)<font  />
+		[278] (305,139)<font >소스 />
+/
+db.js
+[279] (354,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[280] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_8p_' />
+최신 커밋
+[281] (190,198)<a class='prc-Link-Link-9ZwDx' href='/yangsijun' />
+	[282] (188,199)<img  />
+[283] (207,198)<a aria-label='양시준의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/yangsijun/Bible-Flash/commits?author=yangsijun' />
+	[284] (207,198)<font  />
+		[285] (207,198)<font >양시준 />
+[286] (269,198)<a class='Link--secondary' href='/yangsijun/Bible-Flash/commit/9c7c0ae05f98736f9a663882dc40fc603b6f2ada' />
+	[287] (269,198)<font  />
+		[288] (269,198)<font >책의 짧은 레이블을 수정합니다. />
+[289] (919,198)<a aria-label='커밋 9c7c0ae' class='Link--secondary prc-Link-Link-9ZwDx' href='/yangsijun/Bible-Flash/commit/9c7c0ae05f98736f9a663882dc40fc603b6f2ada' />
+	[290] (919,198)<font  />
+		[291] (919,198)<font >9c7c0ae />
+·
+2년 전
+역사
+[292] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/yangsijun/Bible-Flash/commits/main/bible-flash/src/db.js' />
+	[293] (971,198)<span  />
+		[294] (977,198)<span  />
+			[295] (977,197)<span  />
+				[296] (977,197)<font  />
+					[297] (977,197)<font >역사 />
+파일 메타데이터 및 제어
+[298] (196,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[299] (196,263)<span  />
+		[300] (196,263)<div  />
+			[301] (196,263)<font  />
+				[302] (196,263)<font >암호 />
+[303] (228,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[304] (228,263)<span  />
+		[305] (228,263)<div  />
+			[306] (228,263)<font  />
+				[307] (228,263)<font >탓하다 />
+411줄 (376개 위치) · 10.2KB
+[308] (851,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_9h_' />
+[309] (870,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[310] (895,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/yangsijun/Bible-Flash/raw/refs/heads/main/bible-flash/src/db.js' />
+	[311] (895,263)<span  />
+		[312] (895,263)<span  />
+			[313] (895,263)<font  />
+				[314] (895,263)<font >날것의 />
+[315] (915,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[316] (929,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[317] (947,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/yangsijun/Bible-Flash/edit/main/bible-flash/src/db.js' />
+[318] (961,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_a0_' />
+[319] (980,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[320] (202,307)<div  />
+	[321] (203,307)<font  />
+		[322] (203,307)<font >1 />
+[323] (202,328)<div  />
+	[324] (203,328)<font  />
+		[325] (203,328)<font >2 />
+[326] (202,349)<div  />
+	[327] (203,349)<font  />
+		[328] (203,349)<font >3 />
+[329] (202,370)<div  />
+	[330] (203,370)<font  />
+		[331] (203,370)<font >4 />
+[332] (202,392)<div  />
+	[333] (203,392)<font  />
+		[334] (203,392)<font >5 />
+[335] (202,413)<div  />
+	[336] (203,413)<font  />
+		[337] (203,413)<font >6 />
+[338] (202,434)<div  />
+	[339] (203,434)<font  />
+		[340] (203,434)<font >7 />
+	[341] (214,435)<div aria-label='코드 섹션 접기' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+[342] (202,455)<div  />
+	[343] (203,455)<font  />
+		[344] (203,455)<font >8 />
+[345] (202,476)<div  />
+	[346] (203,476)<font  />
+		[347] (203,476)<font >9 />
+[348] (202,497)<div  />
+	[349] (202,497)<font  />
+		[350] (202,497)<font >10 />
+[351] (202,519)<div  />
+	[352] (202,519)<font  />
+		[353] (202,519)<font >11 />
+[354] (202,540)<div  />
+	[355] (202,540)<font  />
+		[356] (202,540)<font >12 />
+[357] (202,561)<div  />
+	[358] (202,561)<font  />
+		[359] (202,561)<font >13 />
+[360] (202,582)<div  />
+	[361] (202,582)<font  />
+		[362] (202,582)<font >14 />
+[363] (202,603)<div  />
+	[364] (202,603)<font  />
+		[365] (202,603)<font >15 />
+[366] (202,624)<div  />
+	[367] (202,624)<font  />
+		[368] (202,624)<font >16 />
+[369] (202,646)<div  />
+	[370] (202,646)<font  />
+		[371] (202,646)<font >17 />
+[372] (202,667)<div  />
+	[373] (202,667)<font  />
+		[374] (202,667)<font >18 />
+[375] (202,688)<div  />
+	[376] (202,688)<font  />
+		[377] (202,688)<font >19 />
+[378] (202,709)<div  />
+	[379] (202,709)<font  />
+		[380] (202,709)<font >20 />
+[381] (202,730)<div  />
+	[382] (202,730)<font  />
+		[383] (202,730)<font >21 />
+[384] (202,751)<div  />
+	[385] (202,751)<font  />
+		[386] (202,751)<font >22 />
+[387] (202,772)<div  />
+	[388] (202,772)<font  />
+		[389] (202,772)<font >23 />
+[390] (202,794)<div  />
+	[391] (202,794)<font  />
+		[392] (202,794)<font >24 />
+[393] (202,815)<div  />
+	[394] (202,815)<font  />
+		[395] (202,815)<font >25 />
+	[396] (214,816)<div aria-label='코드 섹션 접기' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+[397] (202,836)<div  />
+	[398] (202,836)<font  />
+		[399] (202,836)<font >26 />
+[400] (202,857)<div  />
+	[401] (202,857)<font  />
+		[402] (202,857)<font >27 />
+[403] (202,878)<div  />
+	[404] (202,878)<font  />
+		[405] (202,878)<font >28 />
+[406] (202,899)<div  />
+	[407] (202,899)<font  />
+		[408] (202,899)<font >29 />
+[409] (202,921)<div  />
+	[410] (202,921)<font  />
+		[411] (202,921)<font >30 />
+[412] (202,942)<div  />
+	[413] (202,942)<font  />
+		[414] (202,942)<font >31 />
+[415] (202,963)<div  />
+	[416] (202,963)<font  />
+		[417] (202,963)<font >32 />
+[418] (202,984)<div  />
+	[419] (202,984)<font  />
+		[420] (202,984)<font >33 />
+34
+const
+fs
+=
+필요하다
+(
+'fs'
+)
+;
+const
+CSV
+=
+필요하다
+(
+'csv-parser'
+)
+;
+const
+{
+앱
+}
+=
+필요하다
+(
+'전자'
+)
+;
+const
+길
+=
+필요하다
+(
+'길'
+)
+;
+const
+sqlite3
+=
+필요하다
+(
+'sqlite3'
+)
+.
+말 수가 많은
+(
+)
+;
+const
+createSettingDatabase
+=
+(
+)
+=>
+{
+const
+설정DB
+=
+새로운
+sqlite3
+.
+데이터 베이스
+(
+길
+.
+가입하다
+(
+앱
+.
+getPath
+(
+'사용자 데이터'
+)
+,
+'setting.db'
+)
+,
+(
+오류
+)
+=>
+{
+만약에
+(
+오류
+)
+{
+콘솔
+.
+오류
+(
+오류
+.
+메시지
+)
+;
+}
+}
+)
+;
+설정DB
+.
+직렬화
+(
+(
+)
+=>
+{
+설정DB
+.
+달리다
+(
+'CREATE TABLE IF NOT EXISTS settings (id INTEGER PRIMARY KEY, font TEXT, background TEXT)'
+)
+;
+}
+)
+;
+설정DB
+.
+닫다
+(
+(
+오류
+)
+=>
+{
+만약에
+(
+오류
+)
+{
+콘솔
+.
+오류
+(
+오류
+.
+메시지
+)
+;
+}
+}
+)
+;
+}
+;
+const
+성경 데이터베이스를 로드하세요
+=
+(
+csvPath
+)
+=>
+{
+const
+바이블DbPath
+=
+길
+.
+가입하다
+(
+앱
+.
+getPath
+(
+'사용자 데이터'
+)
+,
+'bible.db'
+)
+;
+const
+바이블DB
+=
+새로운
+sqlite3
+.
+데이터 베이스
+(
+바이블DbPath
+,
+(
+오류
+)
+=>
+{
+만약에
+(
+오류
+)
+{
+콘솔
+.
+오류
+(
+오류
+.
+메시지
+)
+;
+}
+}
+)
+;
+바이블DB
+.
+직렬화
+(
+(
+)
+=>
+{
+바이블DB
+.
+달리다
+(
+'drop TABLE IF EXISTS bible'
+)
+;
+
+</current_dom>

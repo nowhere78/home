@@ -1,0 +1,452 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/khoj-ai' />
+		[4] (65,34)<span  />
+			[5] (65,33)<font  />
+				[6] (65,33)<font >코자이 />
+	[7] (96,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/khoj-ai/khoj' />
+		[8] (96,34)<span  />
+			[9] (96,33)<font  />
+				[10] (96,33)<font >코지 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_o_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_t_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (99,80)<span  />
+			[35] (99,80)<span  />
+				[36] (99,80)<font  />
+					[37] (99,80)<font >80 />
+			(
+			80
+			)
+	[38] (154,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/pulls' />
+		[39] (122,80)<span  />
+		[40] (152,80)<span  />
+			[41] (152,80)<font  />
+				[42] (152,80)<font >풀 리퀘스트 />
+		[43] (184,80)<span  />
+			[44] (184,80)<span  />
+				[45] (184,80)<font  />
+					[46] (184,80)<font >19 />
+			(
+			19
+			)
+	[47] (227,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/agents?author=nowhere78' />
+		[48] (207,80)<span  />
+		[49] (233,80)<span  />
+			[50] (233,80)<font  />
+				[51] (233,80)<font >자치령 대표 />
+	[52] (289,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/discussions' />
+		[53] (268,80)<span  />
+		[54] (295,80)<span  />
+			[55] (295,80)<font  />
+				[56] (295,80)<font >토론 />
+	[57] (345,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/actions' />
+		[58] (331,80)<span  />
+		[59] (351,80)<span  />
+			[60] (351,80)<font  />
+				[61] (351,80)<font >행위 />
+	[62] (396,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/projects' />
+		[63] (380,80)<span  />
+		[64] (402,80)<span  />
+			[65] (402,80)<font  />
+				[66] (402,80)<font >프로젝트 />
+	[67] (474,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/security' />
+		[68] (432,80)<span  />
+		[69] (473,80)<span  />
+			[70] (473,80)<font  />
+				[71] (473,80)<font >보안 및 품질 />
+		[72] (515,80)<span  />
+			[73] (515,80)<span  />
+				[74] (515,80)<font  />
+					[75] (515,80)<font >5 />
+			(
+			5
+			)
+	[76] (553,80)<a class='prc-components-UnderlineItem-7fP-n' href='/khoj-ai/khoj/pulse' />
+		[77] (537,80)<span  />
+		[78] (559,80)<span  />
+			[79] (559,80)<font  />
+				[80] (559,80)<font >인사이트 />
+[81] (210,139)<a class='d-block overflow-x-hidden color-fg-default' href='/khoj-ai/khoj' />
+	[82] (210,138)<font  />
+		[83] (210,138)<font >코지 />
+공공의
+[84] (574,138)<a aria-label='스폰서 @khoj-ai' class='Button--secondary Button--small Button' href='/sponsors/khoj-ai' />
+	[85] (574,138)<span  />
+		[86] (574,138)<span  />
+			[87] (580,136)<span  />
+				[88] (580,137)<font  />
+					[89] (580,138)<font >스폰서 />
+[90] (626,138)<div  />
+	[91] (626,138)<button aria-label='보기: khoj-ai/khoj에 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1k_' />
+		[92] (622,138)<span  />
+			[93] (618,138)<span  />
+				[94] (618,137)<font  />
+					[95] (618,137)<font >보다 />
+			166
+			(
+			166
+			)
+[96] (689,139)<a class='btn-sm btn BtnGroup-item' href='/khoj-ai/khoj/fork' id='fork-button' />
+	[97] (686,139)<font  />
+		[98] (686,141)<font >포크 />
+	[99] (703,138)<span  />
+		[100] (703,138)<font  />
+			[101] (703,138)<font >2.2k />
+[102] (727,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-396569538' />
+	[103] (727,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[104] (770,138)<button aria-label='이 저장소에 별점을 주세요 (34411)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[105] (764,138)<span  />
+		[106] (764,138)<font  />
+			[107] (764,138)<font >별 />
+	[108] (781,138)<span  />
+		[109] (781,138)<font  />
+			[110] (781,138)<font >34.4k />
+[111] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-396569538-unstarred-button' />
+코자이/코자
+[112] (209,216)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[113] (209,216)<span  />
+		[114] (203,216)<span  />
+			[115] (203,216)<div  />
+				[116] (194,216)<div  />
+				[117] (208,216)<div  />
+					[118] (208,216)<span  />
+						[119] (209,216)<font  />
+							[120] (209,216)<font >주인 />
+[121] (264,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/khoj-ai/khoj/branches' />
+	[122] (264,216)<span  />
+		[123] (270,216)<span  />
+			[124] (270,216)<span  />
+				[125] (259,216)<strong  />
+					[126] (258,216)<font  />
+						[127] (258,216)<font >18 />
+				[128] (275,216)<font  />
+					[129] (275,216)<font >개 지점 />
+[130] (315,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/khoj-ai/khoj/tags' />
+	[131] (315,216)<span  />
+		[132] (321,216)<span  />
+			[133] (321,216)<span  />
+				[134] (317,216)<strong  />
+					[135] (316,216)<font  />
+						[136] (316,216)<font >태그 175 />
+				[137] (335,216)<font  />
+					[138] (335,216)<font >개 />
+[139] (481,216)<span  />
+	[140] (431,216)<span  />
+	[141] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[142] (531,216)<span  />
+		[143] (531,216)<kbd  />
+			[144] (531,216)<span >t />
+				t
+				[145] (531,216)<span >T />
+파일 추가
+[146] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[147] (572,216)<span  />
+		[148] (572,216)<span  />
+			[149] (572,216)<span  />
+				[150] (566,216)<font  />
+					[151] (566,216)<font >파일 추가 />
+[152] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[153] (628,216)<span  />
+		[154] (628,216)<span  />
+			[155] (628,216)<font  />
+				[156] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[157] (198,278)<a class='prc-Link-Link-9ZwDx' href='/debanjum' />
+	[158] (196,279)<img  />
+[159] (215,278)<a aria-label='debanjum의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/khoj-ai/khoj/commits?author=debanjum' />
+	[160] (215,278)<font  />
+		[161] (215,278)<font >데반줌 />
+[162] (274,278)<a class='Link--secondary' href='/khoj-ai/khoj/commit/9258f57dceab19d52a1a0bdac54eb38576c29187' />
+	[163] (274,278)<font  />
+		[164] (274,278)<font >Khoj 버전 2.0.0-beta.28 출시 />
+[165] (330,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[166] (558,278)<a aria-label='커밋 9258f57' class='Link--secondary prc-Link-Link-9ZwDx' href='/khoj-ai/khoj/commit/9258f57dceab19d52a1a0bdac54eb38576c29187' />
+	[167] (558,278)<font  />
+		[168] (558,278)<font >9258f57 />
+·
+2개월 전
+역사
+[169] (624,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/khoj-ai/khoj/commits/master/' />
+	[170] (624,278)<span  />
+		[171] (629,278)<span  />
+			[172] (629,278)<span  />
+				[173] (629,278)<font  />
+					[174] (629,278)<font >5,168 커밋 />
+[175] (419,328)<tr  />
+	[176] (227,328)<a aria-label='.devcontainer, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/.devcontainer' title='.devcontainer' />
+		[177] (227,328)<font  />
+			[178] (227,328)<font >.devcontainer />
+	[179] (527,328)<a class='Link--secondary' href='/khoj-ai/khoj/commit/80cce7b4399f9e2948a2aefad4d6d7cb7d0212b5' title='개발 컨테이너 설정 시 서버 및 웹 애플리케이션이 미리 빌드된 종속성을 재사용하도록 수정합니다.' />
+		[180] (527,328)<font  />
+			[181] (527,328)<font >개발 컨테이너 설정 시 서버 및 웹 애플리케이션이 미리 빌드된 종속성을 재사용하도록 수정합니다. />
+	10개월 전
+[182] (419,371)<tr  />
+	[183] (217,371)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/.github' title='.github' />
+		[184] (217,371)<font  />
+			[185] (217,371)<font >.github />
+	[186] (538,371)<a class='Link--secondary' href='/khoj-ai/khoj/commit/f356386f3aed45fed9f98a386f7e0d11cb9692a0' title='PyPI 휠 유효성 검사에서 중복 파일 오류를 무시합니다. 예상되는 Next 15 동작입니다.' />
+		[187] (538,371)<font  />
+			[188] (538,371)<font >pypi wheel 유효성 검사에서 중복 파일 오류를 무시합니다. 예상되는 다음 15개 항목은 다음과 같습니다… />
+	2개월 전
+[189] (419,414)<tr  />
+	[190] (218,415)<a aria-label='.vscode, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/.vscode' title='.vscode' />
+		[191] (218,415)<font  />
+			[192] (218,415)<font >.vscode />
+	[193] (497,415)<a class='Link--secondary' href='/khoj-ai/khoj/commit/32966646e250a632eb64e00741fbd07426059261' title='VS Code 개발 환경에서는 당분간 AI 마우스오버 요약 기능을 사용하지 마세요.' />
+		[194] (497,415)<font  />
+			[195] (497,415)<font >VS Code 개발 환경에서는 당분간 AI 마우스오버 요약 기능을 사용하지 마세요. />
+	6개월 전
+[196] (419,458)<tr  />
+	[197] (228,458)<a aria-label='문서 (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/documentation' title='선적 서류 비치' />
+		[198] (228,458)<font  />
+			[199] (228,458)<font >선적 서류 비치 />
+	[200] (424,458)<a class='Link--secondary' href='/khoj-ai/khoj/commit/8965db70874386a5866448d95aee971947101105' title='범프 서버, 클라이언트 종속성' />
+		[201] (424,458)<font  />
+			[202] (424,458)<font >범프 서버, 클라이언트 종속성 />
+	2개월 전
+[203] (419,501)<tr  />
+	[204] (219,502)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/scripts' title='스크립트' />
+		[205] (219,502)<font  />
+			[206] (219,502)<font >스크립트 />
+	[207] (527,502)<a class='Link--secondary' href='/khoj-ai/khoj/commit/80cce7b4399f9e2948a2aefad4d6d7cb7d0212b5' title='개발 컨테이너 설정 시 서버 및 웹 애플리케이션이 미리 빌드된 종속성을 재사용하도록 수정합니다.' />
+		[208] (527,502)<font  />
+			[209] (527,502)<font >개발 컨테이너 설정 시 서버 및 웹 애플리케이션이 미리 빌드된 종속성을 재사용하도록 수정합니다. />
+	10개월 전
+[210] (419,544)<tr  />
+	[211] (210,545)<a aria-label='src, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/src' title='src' />
+		[212] (210,545)<font  />
+			[213] (210,545)<font >src />
+	[214] (425,545)<a class='Link--secondary' href='/khoj-ai/khoj/commit/9258f57dceab19d52a1a0bdac54eb38576c29187' title='Khoj 버전 2.0.0-beta.28 출시' />
+		[215] (425,545)<font  />
+			[216] (425,545)<font >Khoj 버전 2.0.0-beta.28 출시 />
+	2개월 전
+[217] (419,588)<tr  />
+	[218] (216,588)<a aria-label='테스트, (디렉토리)' class='Link--primary' href='/khoj-ai/khoj/tree/master/tests' title='테스트' />
+		[219] (216,588)<font  />
+			[220] (216,588)<font >테스트 />
+	[221] (484,588)<a class='Link--secondary' href='/khoj-ai/khoj/commit/51a56af7cabafea56eece5d34e3895b1a73362eb' title='GEMINI_API_KEY가 설정되지 않은 경우 자동화 테스트를 건너뛰도록 수정 - test_create_automation에 누락된 skipif 데코레이터 추가 - GitHub 시크릿을 포크 PR에서 사용할 수 없는 경우 발생하는 빈 문자열도 처리할 수 있도록 건너뛰기 조건을 'is None'에서 'not'(거짓 검사)으로 변경' />
+		[222] (484,588)<font  />
+			[223] (484,588)<font >GEMINI_API_KEY가 설정되지 않은 경우 자동화 테스트를 건너뜁니다. />
+	2개월 전
+[224] (419,631)<tr  />
+	[225] (228,632)<a aria-label='.dockerignore, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/.dockerignore' title='.dockerignore' />
+		[226] (228,632)<font  />
+			[227] (228,632)<font >.dockerignore />
+	[228] (464,632)<a class='Link--secondary' href='/khoj-ai/khoj/commit/4b486ea5f6dcd93ae178615c87d7b5756261c83c' title='최종 Docker 빌드에서 불필요한 디렉터리를 제외합니다.' />
+		[229] (464,632)<font  />
+			[230] (464,632)<font >최종 Docker 빌드에서 불필요한 디렉터리를 제외합니다. />
+	2년 전
+[231] (419,675)<tr  />
+	[232] (226,675)<a aria-label='.gitattributes, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/.gitattributes' title='.gitattributes' />
+		[233] (226,675)<font  />
+			[234] (226,675)<font >.gitattributes />
+	[235] (479,675)<a class='Link--secondary' href='/khoj-ai/khoj/commit/c93dcc948a6e7f43755e1f190ddd272cda028ac6' title='GitHub의 프로그래밍 통계에서 테스트 데이터 파일을 제외하려면, 테스트/데이터 파일에 `linguist-vendored` 속성을 추가하여 GitHub에서 해당 파일을 통계에 포함하지 않도록 하세요. 그렇지 않으면 테스트 데이터에 있는 완보동물 HTML 페이지 때문에 Khoj 프로젝트가 HTML 프로젝트로 잘못 표시될 수 있습니다. 현재 Khoj는 주로 파이썬 프로젝트입니다.' />
+		[236] (479,675)<font  />
+			[237] (479,675)<font >GitHub의 프로그래밍 통계에서 테스트 데이터 파일을 제외합니다. />
+	3년 전
+[238] (419,718)<tr  />
+	[239] (221,719)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/.gitignore' title='.gitignore' />
+		[240] (221,719)<font  />
+			[241] (221,719)<font >.gitignore />
+	[242] (447,719)<a class='Link--secondary' href='/khoj-ai/khoj/commit/bdda03b0bff9faaa4213557a4e9a242d91d4e65c' title='Git은 Obsidian 설정 디렉토리를 무시합니다.' />
+		[243] (447,719)<font  />
+			[244] (447,719)<font >Git은 Obsidian 설정 디렉토리를 무시합니다. />
+	11개월 전
+[245] (419,761)<tr  />
+	[246] (245,762)<a aria-label='.pre-commit-config.yaml, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/.pre-commit-config.yaml' title='.pre-commit-config.yaml' />
+		[247] (245,762)<font  />
+			[248] (245,762)<font >.pre-commit-config.yaml />
+	[249] (480,762)<a class='Link--secondary' href='/khoj-ai/khoj/commit/4a3ed9e5a497c2d6796abdd6f3e3ba79266a0097' title='더 빠른 린팅 및 서식 지정을 위해 isort, black을 ruff로 교체하세요.' />
+		[250] (480,762)<font  />
+			[251] (480,762)<font >더 빠른 린팅 및 서식 지정을 위해 isort, black을 ruff로 교체하세요. />
+	10개월 전
+[252] (419,805)<tr  />
+	[253] (219,805)<a aria-label='도커파일, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/Dockerfile' title='도커파일' />
+		[254] (219,805)<font  />
+			[255] (219,805)<font >도커파일 />
+	[256] (484,805)<a class='Link--secondary' href='/khoj-ai/khoj/commit/8ad38dfe11a9c502156678aa4c780cd510952555' title='웹 앱 빌드 속도를 높이려면 Deno(또는 Yarn) 대신 Bun을 사용하세요.' />
+		[257] (484,805)<font  />
+			[258] (484,805)<font >웹 앱 빌드 속도를 높이려면 Deno(또는 Yarn) 대신 Bun을 사용하세요. />
+	10개월 전
+[259] (419,848)<tr  />
+	[260] (212,849)<a aria-label='라이선스, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/LICENSE' title='특허' />
+		[261] (212,849)<font  />
+			[262] (212,849)<font >특허 />
+	[263] (470,849)<a class='Link--secondary' href='/khoj-ai/khoj/commit/1466aef554ae8dce580541a36b63b129c172bcb7' title='라이선스를 GNU GPLv3에서 GNU AGPLv3으로 변경합니다. 이렇게 하면 이 코드의 상위 사용자들이 네트워크 분산 서비스용 소프트웨어를 오픈 소스로 제공해야 합니다.' />
+		[264] (470,849)<font  />
+			[265] (470,849)<font >라이선스를 GNU GPLv3에서 GNU AGPLv3으로 변경합니다. />
+	3년 전
+[266] (419,892)<tr  />
+	[267] (226,892)<a aria-label='README.md, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/README.md' title='README.md' />
+		[268] (226,892)<font  />
+			[269] (226,892)<font >README.md />
+	[270] (472,892)<a class='Link--secondary' href='/khoj-ai/khoj/commit/17be2d4800c4573c586d99501064955321dc030d' title='README 파일의 Pipali 프로젝트 공지사항을 업데이트하세요.' />
+		[271] (472,892)<font  />
+			[272] (472,892)<font >README 파일의 Pipali 프로젝트 공지사항을 업데이트하세요. />
+	2개월 전
+[273] (419,935)<tr  />
+	[274] (230,935)<a aria-label='컴퓨터.Dockerfile, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/computer.Dockerfile' title='컴퓨터.도커파일' />
+		[275] (230,935)<font  />
+			[276] (230,935)<font >컴퓨터.도커파일 />
+	[277] (482,935)<a class='Link--secondary' href='/khoj-ai/khoj/commit/e0f363d7184270952bec4f97d4b578d861efa79d' title='UV를 사용하여 khoj 컴퓨터의 Python 버전 및 환경 변수를 관리하세요. khoj의 컴퓨터에서 khoj 사용자 이름을 사용하세요. UV는 빌드 속도가 훨씬 빠릅니다.' />
+		[278] (482,935)<font  />
+			[279] (482,935)<font >UV를 사용하여 khoj 컴퓨터에서 Python 버전 및 환경을 관리하세요. />
+	10개월 전
+[280] (419,978)<tr  />
+	[281] (239,979)<a aria-label='docker-compose.yml, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/docker-compose.yml' title='docker-compose.yml' />
+		[282] (239,979)<font  />
+			[283] (239,979)<font >docker-compose.yml />
+	Exa를 사용하여 웹페이지 읽기를 활성화합니다. Jina 웹페이지 리더를 제거합니다.
+	6개월 전
+에 대한
+나만의 AI 두뇌. 자체 호스팅 가능. 웹이나 문서에서 답을 찾아보세요. 맞춤형 에이전트를 구축하고, 자동화를 예약하고, 심층적인 조사를 수행하세요. 모든 온라인 또는 로컬 LLM(gpt, claude, gemini, llama, qwen, mistral)을 나만의 자율적인 AI로 전환하세요. 지금 무료로 시작하세요.
+[284] (702,447)<a class='text-bold' href='https://khoj.dev' role='link' title='https://khoj.dev' />
+	[285] (702,447)<font  />
+		[286] (702,447)<font >코지.데브 />
+주제
+[287] (686,488)<a class='topic-tag topic-tag-link' href='/topics/chat' title='주제: 채팅' />
+	[288] (686,488)<font  />
+		[289] (686,488)<font >채팅 />
+[290] (715,488)<a class='topic-tag topic-tag-link' href='/topics/agent' title='주제: 에이전트' />
+	[291] (715,488)<font  />
+		[292] (715,488)<font >대리인 />
+[293] (746,488)<a class='topic-tag topic-tag-link' href='/topics/productivity' title='주제: 생산성' />
+	[294] (746,488)<font  />
+		[295] (746,488)<font >생산력 />
+[296] (774,488)<a class='topic-tag topic-tag-link' href='/topics/research' title='주제: 연구' />
+	[297] (774,488)<font  />
+		[298] (774,488)<font >연구 />
+[299] (693,517)<a class='topic-tag topic-tag-link' href='/topics/ai' title='주제: 인공지능' />
+	[300] (693,517)<font  />
+		[301] (693,517)<font >일체 포함 />
+[302] (728,517)<a class='topic-tag topic-tag-link' href='/topics/emacs' title='주제: 에맥스' />
+	[303] (728,517)<font  />
+		[304] (728,517)<font >이맥스 />
+[305] (766,517)<a class='topic-tag topic-tag-link' href='/topics/self-hosted' title='주제: 자체 호스팅' />
+	[306] (766,517)<font  />
+		[307] (766,517)<font >자체 호스팅 />
+[308] (695,547)<a class='topic-tag topic-tag-link' href='/topics/assistant' title='주제: 조수' />
+	[309] (695,547)<font  />
+		[310] (695,547)<font >어시스턴트 />
+[311] (739,547)<a class='topic-tag topic-tag-link' href='/topics/image-generation' title='주제: 이미지 생성' />
+	[312] (739,547)<font  />
+		[313] (739,547)<font >이미지 생성 />
+[314] (776,547)<a class='topic-tag topic-tag-link' href='/topics/obsidian' title='주제: 흑요석' />
+	[315] (776,547)<font  />
+		[316] (776,547)<font >흑요석 />
+[317] (803,547)<a class='topic-tag topic-tag-link' href='/topics/stt' title='주제: stt' />
+	[318] (803,547)<font  />
+		[319] (803,547)<font >stt />
+[320] (693,577)<a class='topic-tag topic-tag-link' href='/topics/semantic-search' title='주제: 의미 검색' />
+	[321] (693,577)<font  />
+		[322] (693,577)<font >의미 검색 />
+[323] (725,577)<a class='topic-tag topic-tag-link' href='/topics/rag' title='주제: 헝겝' />
+	[324] (725,577)<font  />
+		[325] (725,577)<font >조각 />
+[326] (759,577)<a class='topic-tag topic-tag-link' href='/topics/obsidian-md' title='주제: obsidian-md' />
+	[327] (759,577)<font  />
+		[328] (759,577)<font >흑요석-md />
+[329] (794,577)<a class='topic-tag topic-tag-link' href='/topics/llm' title='주제: llm' />
+	[330] (794,577)<font  />
+		[331] (794,577)<font >일름 />
+[332] (686,606)<a class='topic-tag topic-tag-link' href='/topics/chatgpt' title='주제: chatgpt' />
+	[333] (686,606)<font  />
+		[334] (686,606)<font >채팅 />
+[335] (719,606)<a class='topic-tag topic-tag-link' href='/topics/whatsapp-ai' title='주제: 왓츠앱 AI' />
+	[336] (719,606)<font  />
+		[337] (719,606)<font >왓츠앱-AI />
+[338] (755,606)<a class='topic-tag topic-tag-link' href='/topics/llamacpp' title='주제: llamacpp' />
+	[339] (755,606)<font  />
+		[340] (755,606)<font >라맥pp />
+[341] (698,636)<a class='topic-tag topic-tag-link' href='/topics/offline-llm' title='주제: 오프라인-llm' />
+	[342] (698,636)<font  />
+		[343] (698,636)<font >오프라인-llm />
+[344] (736,636)<a class='topic-tag topic-tag-link' href='/topics/llama3' title='주제: llama3' />
+	[345] (736,636)<font  />
+		[346] (736,636)<font >라마3 />
+자원
+[347] (699,681)<a class='Link--muted' href='#readme-ov-file' />
+	[348] (705,681)<font  />
+		[349] (705,681)<font >읽어보세요 />
+특허
+[350] (711,712)<a class='Link--muted' href='#AGPL-3.0-1-ov-file' />
+	[351] (718,712)<font  />
+		[352] (718,712)<font >AGPL-3.0 라이선스 />
+[353] (689,742)<a class='Link Link--muted' href='/khoj-ai/khoj/activity' />
+	[354] (696,742)<span  />
+		[355] (696,742)<font  />
+			[356] (696,742)<font >활동 />
+[357] (708,773)<a class='Link Link--muted' href='/khoj-ai/khoj/custom-properties' />
+	[358] (715,773)<span  />
+		[359] (715,773)<font  />
+			[360] (715,773)<font >사용자 지정 속성 />
+별들
+[361] (702,804)<a class='Link Link--muted' href='/khoj-ai/khoj/stargazers' />
+	[362] (709,804)<font  />
+		[363] (694,804)<font >별 />
+		[364] (714,804)<strong  />
+			[365] (714,804)<font >34,400 개 />
+감시자들
+[366] (707,834)<a class='Link Link--muted' href='/khoj-ai/khoj/watchers' />
+	[367] (702,834)<strong  />
+		[368] (702,834)<font  />
+			[369] (702,834)<font >166명이 />
+	[370] (726,834)<font  />
+		[371] (726,834)<font >시청 중 />
+포크스
+[372] (697,865)<a class='Link Link--muted' href='/khoj-ai/khoj/forks' />
+	[373] (696,865)<strong  />
+		[374] (696,865)<font  />
+			[375] (696,865)<font >2.2k />
+	[376] (711,865)<font  />
+		[377] (711,865)<font >포크 />
+[378] (696,896)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fkhoj-ai%2Fkhoj&report=khoj-ai+%28user%29' />
+	[379] (696,896)<font  />
+		[380] (696,896)<font >보고서 저장소 />
+[381] (696,954)<a class='Link--primary no-underline Link' href='/khoj-ai/khoj/releases' />
+	[382] (688,954)<font  />
+		[383] (688,954)<font >릴리스 />
+	[384] (709,955)<span  />
+		[385] (709,955)<font  />
+			[386] (709,955)<font >173 />
+[387] (720,995)<div  />
+	[388] (708,995)<span  />
+		[389] (708,995)<font  />
+			[390] (708,995)<font >2.0.0-베타.28 />
+	[391] (743,995)<span  />
+		[392] (743,995)<font  />
+			[393] (743,995)<font >최신 />
+
+</current_dom>

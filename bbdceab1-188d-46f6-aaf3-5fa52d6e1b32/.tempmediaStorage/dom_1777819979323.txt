@@ -1,0 +1,369 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+		[4] (75,34)<span  />
+			[5] (75,33)<font  />
+				[6] (75,33)<font >마이크몰리넷 />
+	[7] (125,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/EnvCP' />
+		[8] (121,34)<span  />
+			[9] (121,33)<font  />
+				[10] (121,33)<font >환경CP />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_j_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_o_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/pulls' />
+		[30] (59,80)<span  />
+		[31] (88,80)<span  />
+			[32] (88,80)<font  />
+				[33] (88,80)<font >풀 리퀘스트 />
+	[34] (146,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/agents?author=nowhere78' />
+		[35] (126,80)<span  />
+		[36] (152,80)<span  />
+			[37] (152,80)<font  />
+				[38] (152,80)<font >자치령 대표 />
+	[39] (201,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/actions' />
+		[40] (187,80)<span  />
+		[41] (207,80)<span  />
+			[42] (207,80)<font  />
+				[43] (207,80)<font >행위 />
+	[44] (252,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/projects' />
+		[45] (236,80)<span  />
+		[46] (258,80)<span  />
+			[47] (258,80)<font  />
+				[48] (258,80)<font >프로젝트 />
+	[49] (323,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/security' />
+		[50] (288,80)<span  />
+		[51] (329,80)<span  />
+			[52] (329,80)<font  />
+				[53] (329,80)<font >보안 및 품질 />
+	[54] (394,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/EnvCP/pulse' />
+		[55] (379,80)<span  />
+		[56] (400,80)<span  />
+			[57] (400,80)<font  />
+				[58] (400,80)<font >인사이트 />
+[59] (216,139)<a class='d-block overflow-x-hidden color-fg-default' href='/mikemolinet/EnvCP' />
+	[60] (216,138)<font  />
+		[61] (216,138)<font >환경CP />
+공공의
+[62] (203,166)<a class='Link--inTextBlock' href='/fentz26/EnvCP' />
+	[63] (203,166)<font >fentz26/EnvCP />
+에서 포크됨
+[64] (650,138)<div  />
+	[65] (650,138)<button aria-label='영상 보기: mikemolinet/EnvCP 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1e_' />
+		[66] (645,138)<span  />
+			[67] (644,138)<span  />
+				[68] (644,137)<font  />
+					[69] (644,137)<font >보다 />
+			0
+			(
+			0
+			)
+[70] (705,139)<a class='btn-sm btn BtnGroup-item' href='/mikemolinet/EnvCP/fork' id='fork-button' />
+	[71] (706,139)<font  />
+		[72] (706,141)<font >포크 />
+	[73] (719,138)<span  />
+		[74] (719,138)<font  />
+			[75] (719,138)<font >0 />
+[76] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1208927503' />
+	[77] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[78] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[79] (776,138)<span  />
+		[80] (776,138)<font  />
+			[81] (776,138)<font >별 />
+	[82] (787,138)<span  />
+		[83] (787,138)<font  />
+			[84] (787,138)<font >0 />
+[85] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1208927503-unstarred-button' />
+mikemolinet/EnvCP
+[86] (209,237)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[87] (209,237)<span  />
+		[88] (203,237)<span  />
+			[89] (203,237)<div  />
+				[90] (194,237)<div  />
+				[91] (208,237)<div  />
+					[92] (208,237)<span  />
+						[93] (209,237)<font  />
+							[94] (209,237)<font >기본 />
+[95] (262,237)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/EnvCP/branches' />
+	[96] (262,237)<span  />
+		[97] (269,237)<span  />
+			[98] (269,237)<span  />
+				[99] (258,237)<strong  />
+					[100] (257,237)<font  />
+						[101] (257,237)<font >5 />
+				[102] (272,237)<font  />
+					[103] (272,237)<font >개 지점 />
+[104] (312,237)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/EnvCP/tags' />
+	[105] (312,237)<span  />
+		[106] (318,237)<span  />
+			[107] (318,237)<span  />
+				[108] (312,237)<strong  />
+					[109] (311,237)<font  />
+						[110] (311,237)<font >21개의 />
+				[111] (330,237)<font  />
+					[112] (330,237)<font >태그 />
+[113] (481,237)<span  />
+	[114] (431,237)<span  />
+	[115] (480,237)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[116] (531,237)<span  />
+		[117] (531,237)<kbd  />
+			[118] (531,237)<span >t />
+				t
+				[119] (531,237)<span >T />
+파일 추가
+[120] (572,237)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[121] (572,237)<span  />
+		[122] (572,237)<span  />
+			[123] (572,237)<span  />
+				[124] (566,237)<font  />
+					[125] (566,237)<font >파일 추가 />
+[126] (628,237)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[127] (628,237)<span  />
+		[128] (628,237)<span  />
+			[129] (628,237)<font  />
+				[130] (628,237)<font >암호 />
+이 브랜치는
+[131] (254,296)<a class='prc-Link-Link-9ZwDx' href='/mikemolinet/EnvCP/compare/main...fentz26%3AEnvCP%3Amain' />
+	[132] (254,296)<font >206개의 커밋이 />
+[133] (305,296)<a class='prc-Link-Link-9ZwDx' href='/mikemolinet/EnvCP/compare/main...fentz26%3AEnvCP%3Amain' />
+	[134] (305,296)<font >뒤쳐져 있습니다 . />
+fentz26/EnvCP:main
+.
+폴더와 파일
+최신 커밋
+[135] (198,369)<a class='prc-Link-Link-9ZwDx' href='/fentz26' />
+	[136] (196,370)<img  />
+[137] (216,369)<a aria-label='fentz26의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/mikemolinet/EnvCP/commits?author=fentz26' />
+	[138] (216,369)<font  />
+		[139] (216,369)<font >펜츠26 />
+[140] (302,369)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/33103aa6d9333d3d3af79b94968ee7eccb788743' />
+	[141] (302,369)<font  />
+		[142] (302,369)<font >README 파일에 MCP 설치 링크를 추가하세요. />
+[143] (384,369)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[144] (567,369)<a aria-label='커밋 33103aa' class='Link--secondary prc-Link-Link-9ZwDx' href='/mikemolinet/EnvCP/commit/33103aa6d9333d3d3af79b94968ee7eccb788743' />
+	[145] (567,369)<font  />
+		[146] (567,369)<font >33103aa />
+·
+3주 전
+역사
+[147] (626,369)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/EnvCP/commits/main/' />
+	[148] (626,369)<span  />
+		[149] (631,369)<span  />
+			[150] (631,369)<span  />
+				[151] (631,369)<font  />
+					[152] (631,369)<font >264 커밋 />
+[153] (419,419)<tr  />
+	[154] (231,419)<a aria-label='.claude-plugin, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/.claude-plugin' title='.클로드 플러그인' />
+		[155] (231,419)<font  />
+			[156] (231,419)<font >.클로드 플러그인 />
+	[157] (475,419)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/c5ec13695a939ef7f32b11965817415e7a1aeacb' title='특징: 버전 번호의 단일 소스로 VERSION 파일 사용 - src/version.ts: 런타임에 VERSION 파일을 읽고 VERSION 상수를 내보냄 - src/cli/index.ts, src/mcp/server.ts, src/adapters/rest.ts, src/server/unified.ts: '1.0.0'을 하드코딩하는 대신 VERSION을 임포트함 - scripts/sync-version.js: package.json, plugins/envcp/.claude-plugin/plugin.json, .claude-plugin/marketplace.json에 VERSION을 전파함 - package.json: sync-version 스크립트를 추가하고, 게시된 npm 패키지에 포함되도록 files[]에 VERSION을 추가함 - 모든 매니페스트를 동기화하려면 VERSION을 수정한 후 `npm run sync-version`을 실행하십시오. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[158] (475,419)<font  />
+			[159] (475,419)<font >특징: 버전 번호에 대한 단일 정보 소스로서 VERSION 파일 사용 />
+	3주 전
+[160] (419,462)<tr  />
+	[161] (217,462)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/.github' title='.github' />
+		[162] (217,462)<font  />
+			[163] (217,462)<font >.github />
+	[164] (448,462)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/4982665b0a714bca3b8ee6db30a78a3d22ab9fdb' title='CI: Codecov 통합 및 코드 커버리지 부족 문제 수정 - jest.config.js: src/utils/hsm.ts를 코드 커버리지에서 제외(YubiKey 하드웨어 필요, CI에서 테스트 불가); 기존 라인/문장(95%) 임계값 외에 브랜치(90%) 및 함수(95%) 임계값 추가 - codecov.yml: jest 설정과 일치하도록 src/utils/hsm.ts를 무시 목록에 추가 - ci.yml: Node 20에서의 이중 테스트 실행 제거 — 이제 Node 20에서는 --coverage 옵션을 사용하여 한 번, 18/22에서는 --coverage 옵션 없이 한 번 실행됩니다. Node 20 CI 작업당 약 33초 절약 - storage-advanced.test.ts: 이전에 커버되지 않았던 삭제 경로(mtime < cutoff)와 로그 파일이 아닌 건너뛰기 경로를 커버하는 두 개의 pruneOldLogs 테스트 추가 전체 분기 커버리지 94.3% → 95.27% (테스트 647개 후): 문장 99.44%, 분기 95.27%, 함수 98.86%, 코드 라인 99.94% — 모두 임계값 초과. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[165] (448,462)<font  />
+			[166] (448,462)<font >ci: Codecov 통합 및 코드 커버리지 격차 수정 />
+	3주 전
+[167] (419,505)<tr  />
+	[168] (216,506)<a aria-label='__테스트__, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/__tests__' title='테스트' />
+		[169] (216,506)<font  />
+			[170] (216,506)<font >테스트 />
+	[171] (497,506)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/91361c9f75f9ce6140b51b1663b69a34811d1336' title='feat(audit): 선택 가능한 로그 필드, HMAC 무결성 및 로그 CLI 명령어를 통한 향상된 감사 추적 - AuditFieldsSchema를 통한 필드별 로그 필터링 추가(session_id, ip, duration_ms 등) - 로그 항목 무결성을 위한 HMAC-SHA256 서명 및 시간 안전 검증 추가 - AuditConfig.retain_days를 통해 구성 가능한 로그 보존 기간 추가(초기화 시 자동 삭제) - 작업/변수/소스/성공/테일별로 getLogs()를 필터링하는 LogFilter 인터페이스 추가 - 사용 가능한 로그 파일 목록을 표시하는 getLogDates() 추가 - 필드 구성이 적용되도록 BaseAdapter의 LogManager에 config.audit 전달 - --date, --operation, --variable, --source, --success, --failure, --tail, --dates 및 --verify 플래그를 지원하는 `envcp logs` CLI 명령어 추가 - 시간적 데드존 오류를 수정하기 위해 AuditConfigSchema를 EnvCPConfigSchema 앞으로 이동 - 필드 필터링에 대한 포괄적인 테스트 추가 HMAC 서명, 변조 감지 및 getLogs 필터 관련 이슈 #153 해결 - 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[172] (497,506)<font  />
+			[173] (497,506)<font >feat(audit): 선택 가능한 로그 필드, HMAC 등을 포함한 향상된 감사 추적 기능 />
+	3주 전
+[174] (419,549)<tr  />
+	[175] (212,549)<a aria-label='자산, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/assets' title='자산' />
+		[176] (212,549)<font  />
+			[177] (212,549)<font >자산 />
+	[178] (530,549)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/e4205baad0b06f61a17c497a89f3e469d2e6858d' title='문서: 로고 텍스트에 위에서 아래로 어두운 회색에서 밝은 회색으로 변하는 그라데이션을 적용합니다.' />
+		[179] (530,549)<font  />
+			[180] (530,549)<font >문서: 로고 텍스트에 위에서 아래로 어두운 회색에서 밝은 회색으로 변하는 그라데이션을 적용합니다. />
+	왜냐
+[181] (419,592)<tr  />
+	[182] (229,593)<a aria-label='클라우드플레어, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/cloudflare' title='클라우드플레어' />
+		[183] (229,593)<font  />
+			[184] (229,593)<font >클라우드플레어 />
+	[185] (472,593)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/bda586e4bad6ada42759a9711d698f1e4afe0c91' title='기능: envcp_run을 파괴적인 명령 주입으로부터 보호 (#138) * 수정: wrangler.toml의 zone_name을 fentz.dev에서 envcp.org로 업데이트 * 기능: envcp.org 루트를 /docs로 리디렉션 * 기능: HSM/GPG/YubiKey 하드웨어 보안 지원 추가 (#131) GPG 키, YubiKey PIV 및 일반 PKCS#11 HSM을 통한 하드웨어 기반 인증이 추가됩니다. HSM은 키 보호기 역할을 하며, 저장된 금고 암호를 암호화하여 하드웨어 장치로만 잠금 해제할 수 있도록 합니다. 새로운 인증 방식: hsm(하드웨어 전용) 및 multi(HSM + 암호/키체인). 금고 암호화 형식(AES-256-GCM/Argon2id)은 변경되지 않았습니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> * 수정: HSM 구현 관련 PR 검토 의견 반영 - GPG --trust-model always 제거 (사용자 키링 신뢰도 존중) - ykman PIV 복호화 명령어를 위치 인수로 수정 ​​(ykman 5.1 이상 필요) - PKCS#11 세션 누수 수정: finally 절에서 C_Finalize 호출 전 세션 닫기 - PKCS#11 isAvailable() 오류 경로에서 C_Finalize가 호출되지 않는 문제 수정 - protectVaultPassword에서 쓰기 전 lstat 심볼릭 링크 검사 추가 - withSession, unlock, init에서 HsmManager.fromConfig()를 try/catch로 감싸기 - 다단계 인증 수정: .hsm-key에 임의의 비밀 키를 저장하고 combineSecrets(random, password)로 볼트를 다시 암호화하여 두 가지 인증 요소 모두 적용 - 다단계 잠금 해제 시 두 번째 인증 요소가 비어 있지 않아야 함 (비어 있을 경우 오류 발생) - recovery_key 대체 처리를 유용한 메시지와 함께 제공 암호 입력 프롬프트 대체 기능 - 다중 요소 등록을 위해 `envcp unlock --setup-hsm`에 --multi 플래그 추가 - 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * 수정: combineSecrets에서 HMAC-SHA256을 HKDF-SHA256으로 교체 (CodeQL #28) HMAC-SHA256은 암호 정보가 통과되어 CodeQL js/insufficient-password-hash 플래그가 지정되었습니다. 표준 키 유도 함수인 crypto.hkdfSync로 대체되었습니다. HSM 난수는 IKM을 제공하고 사용자 암호는 HKDF 정보 필드를 통해 연결됩니다. 두 요소 모두 암호학적으로 필요합니다. 출력은 encrypt()에서 Argon2id에 의해 계속 처리됩니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> * 기능: envcp_run을 파괴적인 명령 주입으로부터 보호 (#132) AI 에이전트 명령 실행을 위한 구성 가능한 안전 계층 추가: - command_blacklist: 실행 전에 명령을 차단하는 사용자 구성 가능한 부분 문자열 목록(대소문자 구분 안 함, 기본값은 일반적인 디스크 파괴 프로그램: mkfs, shred, wipefs, fdisk, parted) - run_safety.disallow_root_delete(기본값 true): /, /*, 또는 /를 대상으로 하는 재귀 플래그(-r/-rf/--recursive)가 있는 rm 호출을 감지하고 거부합니다. 인자 순서와 관계없이 - run_safety.disallow_path_manipulation(기본값 true): 상속된 중요 환경 변수(PATH, HOME, TMPDIR/TMP/TEMP)의 유효성을 검사하고 PATH 또는 루트를 대상으로 하는 HOME/TMPDIR 값에 대한 디렉터리 탐색을 거부합니다. - run_safety.require_command_whitelist(기본값 false): 활성화된 경우,모든 명령이 allowed_commands에 나타나야 함을 강제합니다. 세 가지 보호 메커니즘을 모두 다루는 11개의 새로운 테스트가 추가되었습니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com> * CI: CI 워크플로에 Codecov 커버리지 업로드 추가 * CI: JUnit XML 출력을 포함한 Codecov 테스트 분석 추가 * 문서: README에 Codecov 커버리지 배지 추가 * 수정: PR #138 검토 의견 처리 - disallow_path_manipulation 우회: 환경 변수 유효성 검사를 주입 루프 후에 실행되도록 이동하여 PATH/HOME/TMPDIR이라는 이름의 주입된 Vault 변수가 유효성 검사를 거친 상속 값을 덮어쓰지 못하도록 함(Copilot, Augment, CodeRabbit, cubic에서 보고됨) - 루트 삭제 정규화: 인수에 path.resolve()를 사용하여 //, /./, /../와 같은 경로와 동일한 변형을 올바르게 감지합니다. /* 처리 방식 수정: 해결 전 후행 glob을 /로 대체(cubic P1) - PATH 유효성 검사: ':'.split에서 path.delimiter로 전환(크로스 플랫폼), /foo..bar와 같은 이름에 대한 오탐을 방지하기 위해 부분 문자열 일치 대신 path.normalize().split()을 통해 '..'를 경로 세그먼트로 확인(cubic P2) - 오류 메시지: 메타 문자 거부 메시지에 줄 바꿈(\n) 추가(Copilot) - Cloudflare 워커: 리디렉션 동작을 반영하도록 GET / 엔드포인트 설명 업데이트(CodeRabbit) - CI: 공급망 위험을 방지하기 위해 codecov 작업을 전체 커밋 SHA에 고정; 커버리지 업로드에 files/flags/fail_ci_if_error 추가; 테스트 결과 업로드가 노드 20에서만 실행되도록 수정(CodeRabbit, cubic) - 테스트: disallow_path_manipulation(HOME/PATH 우회, 안전한 PATH 주입)을 다루는 5개의 새로운 테스트와 루트 삭제 경로 정규화(//, /.)에 대한 2개의 테스트를 추가했습니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> --------- 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>공급망 위험을 방지하기 위해 코드커버 액션을 전체 커밋 SHA에 고정합니다. 커버리지 업로드에 파일/플래그/fail_ci_if_error를 추가합니다. 테스트 결과 업로드가 노드 20에서만 실행되도록 수정합니다(CodeRabbit, cubic). 테스트: disallow_path_manipulation(HOME/PATH 우회, 안전한 PATH 주입)을 다루는 5개의 새로운 테스트와 루트 삭제 경로 정규화(//, /.)에 대한 2개의 테스트를 추가합니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> --------- 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>공급망 위험을 방지하기 위해 코드커버 액션을 전체 커밋 SHA에 고정합니다. 커버리지 업로드에 파일/플래그/fail_ci_if_error를 추가합니다. 테스트 결과 업로드가 노드 20에서만 실행되도록 수정합니다(CodeRabbit, cubic). 테스트: disallow_path_manipulation(HOME/PATH 우회, 안전한 PATH 주입)을 다루는 5개의 새로운 테스트와 루트 삭제 경로 정규화(//, /.)에 대한 2개의 테스트를 추가합니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com> --------- 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[186] (472,593)<font  />
+			[187] (472,593)<font >기능: envcp_run을 파괴적인 명령 주입으로부터 보호합니다( />
+	[188] (577,593)<a class='issue-link js-issue-link' href='https://github.com/fentz26/EnvCP/pull/138' />
+		[189] (577,593)<font  />
+			[190] (577,593)<font >fentz2…). />
+	3주 전
+[191] (419,635)<tr  />
+	[192] (212,636)<a aria-label='도커, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/docker' title='도커' />
+		[193] (212,636)<font  />
+			[194] (212,636)<font >도커 />
+	[195] (478,636)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/f98f18cff017c6d75ca899eba171f5f1883f5ebd' title='주요 기능: 릴리스 워크플로에 Docker Hub 및 GHCR 게시 추가 - 버전 태그 기반 Docker 이미지 빌드 및 푸시 - 태그: fentz26/envcp:latest 및 fentz26/envcp:$VERSION - GitHub 컨테이너 레지스트리(ghcr.io)에도 푸시 - 프로덕션 환경에 최적화된 Dockerfile 생성 (Alpine 기반)' />
+		[196] (478,636)<font  />
+			[197] (478,636)<font >기능: Docker Hub 및 GHCR 게시 기능을 릴리스 워크플로에 추가 />
+	3주 전
+[198] (419,679)<tr  />
+	[199] (212,679)<a aria-label='문서, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/docs' title='문서' />
+		[200] (212,679)<font  />
+			[201] (212,679)<font >문서 />
+	[202] (443,679)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/569150e5eeb3ec8167b183e5713c044cbe62e077' title='fix(docs): Mintlify 설정 및 깨진 링크 수정 - docs.json: 잘못된 appearance.theme, styling.code 필드 제거; 인식되지 않는 컨텍스트 옵션(mcp, cursor, vscode) 제거 - index.mdx: 위키 스타일의 깨진 링크 10개를 올바른 /path 형식으로 수정; 라이선스를 MIT에서 SAL v1.0으로 수정 - installation.mdx: Node.js 요구 사항을 14+에서 18+로, npm 6+에서 9+로 수정 - quick-start.mdx: 깨진 링크 2개 수정(AI-Access-Control, Troubleshooting) 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[203] (443,679)<font  />
+			[204] (443,679)<font >fix(docs): Mintlify 설정 및 깨진 링크 수정 />
+	3주 전
+[205] (419,722)<tr  />
+	[206] (231,723)<a aria-label='plugins/envcp, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/plugins/envcp' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[207] (222,723)<span  />
+			[208] (222,723)<font  />
+				[209] (222,723)<font >플러그인/ />
+		[210] (247,723)<span  />
+			[211] (247,723)<font  />
+				[212] (247,723)<font >envcp />
+	[213] (475,723)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/c5ec13695a939ef7f32b11965817415e7a1aeacb' title='특징: 버전 번호의 단일 소스로 VERSION 파일 사용 - src/version.ts: 런타임에 VERSION 파일을 읽고 VERSION 상수를 내보냄 - src/cli/index.ts, src/mcp/server.ts, src/adapters/rest.ts, src/server/unified.ts: '1.0.0'을 하드코딩하는 대신 VERSION을 임포트함 - scripts/sync-version.js: package.json, plugins/envcp/.claude-plugin/plugin.json, .claude-plugin/marketplace.json에 VERSION을 전파함 - package.json: sync-version 스크립트를 추가하고, 게시된 npm 패키지에 포함되도록 files[]에 VERSION을 추가함 - 모든 매니페스트를 동기화하려면 VERSION을 수정한 후 `npm run sync-version`을 실행하십시오. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[214] (475,723)<font  />
+			[215] (475,723)<font >특징: 버전 번호에 대한 단일 정보 소스로서 VERSION 파일 사용 />
+	3주 전
+[216] (419,766)<tr  />
+	[217] (216,766)<a aria-label='파이썬, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/python' title='파이썬' />
+		[218] (216,766)<font  />
+			[219] (216,766)<font >파이썬 />
+	[220] (464,766)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/649c9fc61fd61bf02d59f19f08f3cf8d5272debf' title='주요 변경 사항: envcp.fentz.dev 도메인을 envcp.org로 이전 - 문서, 구성 파일 및 스크립트의 모든 도메인 참조 업데이트 - 패키지 메타데이터(package.json, pyproject.toml) 수정 - Cloudflare Worker 구성 및 라우팅 업데이트 - 모든 국제화된 README 파일 업데이트 - 설치 스크립트 및 문서 링크 업데이트 - MCP 레지스트리 게시를 위한 CI/CD 워크플로 업데이트 - 이전 버전과의 호환성 유지' />
+		[221] (464,766)<font  />
+			[222] (464,766)<font >주요 기능: envcp.fentz.dev 도메인을 envcp.org로 이전 />
+	3주 전
+[223] (419,809)<tr  />
+	[224] (219,810)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/scripts' title='스크립트' />
+		[225] (219,810)<font  />
+			[226] (219,810)<font >스크립트 />
+	[227] (475,810)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/c5ec13695a939ef7f32b11965817415e7a1aeacb' title='특징: 버전 번호의 단일 소스로 VERSION 파일 사용 - src/version.ts: 런타임에 VERSION 파일을 읽고 VERSION 상수를 내보냄 - src/cli/index.ts, src/mcp/server.ts, src/adapters/rest.ts, src/server/unified.ts: '1.0.0'을 하드코딩하는 대신 VERSION을 임포트함 - scripts/sync-version.js: package.json, plugins/envcp/.claude-plugin/plugin.json, .claude-plugin/marketplace.json에 VERSION을 전파함 - package.json: sync-version 스크립트를 추가하고, 게시된 npm 패키지에 포함되도록 files[]에 VERSION을 추가함 - 모든 매니페스트를 동기화하려면 VERSION을 수정한 후 `npm run sync-version`을 실행하십시오. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[228] (475,810)<font  />
+			[229] (475,810)<font >특징: 버전 번호에 대한 단일 정보 소스로서 VERSION 파일 사용 />
+	3주 전
+[230] (419,852)<tr  />
+	[231] (210,853)<a aria-label='src, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/src' title='src' />
+		[232] (210,853)<font  />
+			[233] (210,853)<font >src />
+	[234] (475,853)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/c5ec13695a939ef7f32b11965817415e7a1aeacb' title='특징: 버전 번호의 단일 소스로 VERSION 파일 사용 - src/version.ts: 런타임에 VERSION 파일을 읽고 VERSION 상수를 내보냄 - src/cli/index.ts, src/mcp/server.ts, src/adapters/rest.ts, src/server/unified.ts: '1.0.0'을 하드코딩하는 대신 VERSION을 임포트함 - scripts/sync-version.js: package.json, plugins/envcp/.claude-plugin/plugin.json, .claude-plugin/marketplace.json에 VERSION을 전파함 - package.json: sync-version 스크립트를 추가하고, 게시된 npm 패키지에 포함되도록 files[]에 VERSION을 추가함 - 모든 매니페스트를 동기화하려면 VERSION을 수정한 후 `npm run sync-version`을 실행하십시오. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[235] (475,853)<font  />
+			[236] (475,853)<font >특징: 버전 번호에 대한 단일 정보 소스로서 VERSION 파일 사용 />
+	3주 전
+[237] (419,896)<tr  />
+	[238] (224,896)<a aria-label='위키 콘텐츠, (디렉토리)' class='Link--primary' href='/mikemolinet/EnvCP/tree/main/wiki-content' title='위키 콘텐츠' />
+		[239] (224,896)<font  />
+			[240] (224,896)<font >위키 콘텐츠 />
+	[241] (477,896)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/6656483677dffb37fb0cd6b222cf3eac4bd2069a' title='문서: 글로벌 볼트 및 변수별 보호 관련 문서 업데이트 - CLI 참조에 볼트 명령 추가 - README에 글로벌 볼트 및 명명된 볼트 섹션 추가 - 변수별 암호 보호 기능 문서화 - 볼트 설정으로 구성 참조 업데이트 - 새로운 도구 매개변수로 MCP 통합 문서 업데이트' />
+		[242] (477,896)<font  />
+			[243] (477,896)<font >문서: 글로벌 볼트 및 변수별 보호에 대한 문서를 업데이트합니다. />
+	3주 전
+[244] (419,939)<tr  />
+	[245] (221,940)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/mikemolinet/EnvCP/blob/main/.gitignore' title='.gitignore' />
+		[246] (221,940)<font  />
+			[247] (221,940)<font >.gitignore />
+	[248] (454,940)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/bbad628e67a3fa0c97d9fc32062fed9429d1e99e' title='작업: 기존 mint.json 및 SLSA 빌드 아티팩트 제거 - mint.json 삭제 — 기존 Mintlify v1 루트 구성 파일로, 현재 활성 Mintlify 구성인 docs/docs.json으로 대체되었습니다. - multiple.intoto.jsonl 삭제 — slsa.yml 워크플로를 통해 GitHub 릴리스에 업로드된 SLSA 출처 아티팩트로, 저장소에 존재해서는 안 됩니다. - 향후 실수로 커밋되는 것을 방지하기 위해 *.intoto.jsonl을 .gitignore에 추가합니다. 공동 작성자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[249] (454,940)<font  />
+			[250] (454,940)<font >작업: 기존 mint.json 및 SLSA 빌드 아티팩트 제거 />
+	3주 전
+[251] (419,983)<tr  />
+	[252] (224,983)<a aria-label='.npmignore, (파일)' class='Link--primary' href='/mikemolinet/EnvCP/blob/main/.npmignore' title='.npmignore' />
+		[253] (224,983)<font  />
+			[254] (224,983)<font >.npmignore />
+	[255] (444,983)<a class='Link--secondary' href='/mikemolinet/EnvCP/commit/b28e226542c078ce4ff1a3f4ca6dd265c40eb1bd' title='주요 기능: Mintlify 문서와 위키 동기화 CD 추가 - Mintlify 설정이 포함된 /docs/ 폴더 생성 - 위키 콘텐츠를 MDX 형식으로 변환 - 위키 동기화를 위한 GitHub Actions 워크플로 추가 - ASCII 아트에서 SVG 로고 생성 - 패키지에서 문서를 제외하는 .npmignore 파일 추가 - 다크 모노 테마(진회색/밝은 회색) 설정. 문서는 Mintlify를 통해 envcp.fentz.dev/docs/에 배포됩니다.' />
+		[256] (444,983)<font  />
+			[257] (444,983)<font >기능: Mintlify 문서와 위키 동기화 CD 추가 />
+	왜냐
+에 대한
+AI 기반 코딩을 위한 안전한 환경 변수 관리. AI가 비밀 값을 직접 보지 않고도 참조할 수 있도록 하는 MCP 서버.
+[258] (704,367)<a class='text-bold' href='https://envcp.org' role='link' title='https://envcp.org' />
+	[259] (704,367)<font  />
+		[260] (704,367)<font >envcp.org />
+자원
+[261] (699,406)<a class='Link--muted' href='#readme-ov-file' />
+	[262] (705,406)<font  />
+		[263] (705,406)<font >읽어보세요 />
+특허
+[264] (703,437)<a class='Link--muted' href='#License-1-ov-file' />
+	[265] (710,437)<font  />
+		[266] (710,437)<font >라이선스 보기 />
+행동 강령
+[267] (697,467)<a class='Link--muted' href='#coc-ov-file' />
+	[268] (703,467)<font  />
+		[269] (703,467)<font >행동 강령 />
+기여하기
+[270] (696,498)<a class='Link--muted' href='#contributing-ov-file' />
+	[271] (702,498)<font  />
+		[272] (702,498)<font >기여하기 />
+보안 정책
+[273] (697,529)<a class='Link--muted' href='#security-ov-file' />
+	[274] (703,529)<font  />
+		[275] (703,529)<font >보안 정책 />
+[276] (689,559)<a class='Link Link--muted' href='/mikemolinet/EnvCP/activity' />
+	[277] (696,559)<span  />
+		[278] (696,559)<font  />
+			[279] (696,559)<font >활동 />
+별들
+[280] (693,590)<a class='Link Link--muted' href='/mikemolinet/EnvCP/stargazers' />
+	[281] (700,590)<font  />
+		[282] (694,590)<font >별 />
+		[283] (705,590)<strong  />
+			[284] (705,590)<font >0 개 />
+감시자들
+[285] (703,621)<a class='Link Link--muted' href='/mikemolinet/EnvCP/watchers' />
+	[286] (698,621)<strong  />
+		[287] (698,621)<font  />
+			[288] (698,621)<font >0명이 />
+	[289] (719,621)<font  />
+		[290] (719,621)<font >시청 중 />
+포크스
+[291] (696,651)<a class='Link Link--muted' href='/mikemolinet/EnvCP/forks' />
+	[292] (704,651)<font  />
+		[293] (697,651)<font >포크 />
+		[294] (711,651)<strong  />
+			[295] (711,651)<font >0 개 />
+[296] (696,682)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmikemolinet%2FEnvCP&report=mikemolinet+%28user%29' />
+	[297] (696,682)<font  />
+		[298] (696,682)<font >보고서 저장소 />
+[299] (687,740)<a class='Link--primary no-underline Link' href='/mikemolinet/EnvCP/releases' />
+	[300] (687,740)<font  />
+		[301] (687,740)<font >릴리스 />
+[302] (698,781)<a class='Link--primary no-underline' href='/mikemolinet/EnvCP/tags' />
+	[303] (697,781)<span  />
+		[304] (697,781)<font  />
+			[305] (697,781)<font >21개의 />
+	[306] (714,781)<span  />
+		[307] (714,781)<font  />
+			[308] (714,781)<font >태그 />
+[309] (746,840)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/mikemolinet/packages?repo_name=EnvCP' />
+	[310] (687,840)<font  />
+		[311] (687,840)<font >패키지 />
+게시된 패키지가 없습니다.
+[312] (746,937)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mikemolinet/EnvCP/graphs/contributors' />
+	[313] (687,937)<font  />
+		[314] (687,936)<font >기고자 />
+기여자 없음
+
+</current_dom>

@@ -1,0 +1,406 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (87,34)<span  />
+			[5] (87,34)<span >anthropic />
+[6] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[7] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[8] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[9] (870,34)<span  />
+[10] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[11] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[12] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[13] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[14] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[15] (983,34)<img  />
+코드 검색 결과 · 인류
+[16] (77,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+	필터 기준
+	[17] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=code' id='_R_5sraqdb_' />
+		[18] (79,148)<span  />
+			[19] (64,148)<span  />
+				[20] (32,148)<font  />
+					[21] (32,148)<font >암호 />
+			460만
+			(
+			460만
+			)
+			결과
+	[22] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=repositories' id='_r_25_' />
+		[23] (79,182)<span  />
+			[24] (63,182)<span  />
+				[25] (35,181)<font  />
+					[26] (35,181)<font >저장소 />
+			2만 1천
+			(
+			21k
+			)
+			결과
+	[27] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=issues' id='_R_9sraqdb_' />
+		[28] (79,216)<span  />
+			[29] (66,216)<span  />
+				[30] (35,215)<font  />
+					[31] (35,215)<font >문제점 />
+			197k
+			(
+			197k
+			)
+			결과
+	[32] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=pullrequests' id='_R_dsraqdb_' />
+		[33] (79,250)<span  />
+			[34] (66,250)<span  />
+				[35] (43,249)<font  />
+					[36] (43,249)<font >풀 리퀘스트 />
+			494k
+			(
+			494k
+			)
+			결과
+	[37] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=discussions' id='_R_hsraqdb_' />
+		[38] (79,284)<span  />
+			[39] (68,284)<span  />
+				[40] (32,283)<font  />
+					[41] (32,283)<font >토론 />
+			6천
+			(
+			6k
+			)
+			결과
+	[42] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=users' id='_r_26_' />
+		[43] (79,317)<span  />
+			[44] (67,317)<span  />
+				[45] (35,317)<font  />
+					[46] (35,317)<font >사용자 />
+			494
+			(
+			494
+			)
+			결과
+	[47] (73,351)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=commits' id='_R_lsraqdb_' />
+		[48] (79,351)<span  />
+			[49] (66,351)<span  />
+				[50] (32,351)<font  />
+					[51] (32,351)<font >커밋 />
+			39M
+			(
+			39M
+			)
+			결과
+	[52] (73,385)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=registrypackages' id='_R_psraqdb_' />
+		[53] (79,385)<span  />
+			[54] (67,385)<span  />
+				[55] (35,385)<font  />
+					[56] (35,385)<font >패키지 />
+			206
+			(
+			206
+			)
+			결과
+	[57] (73,419)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=wikis' id='_R_tsraqdb_' />
+		[58] (79,419)<span  />
+			[59] (68,419)<span  />
+				[60] (32,419)<font  />
+					[61] (32,419)<font >위키 />
+			6천
+			(
+			6k
+			)
+			결과
+	[62] (73,453)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=topics' id='_r_27_' />
+		[63] (79,453)<span  />
+			[64] (69,453)<span  />
+				[65] (32,452)<font  />
+					[66] (32,452)<font >주제 />
+			78
+			(
+			78
+			)
+			결과
+	[67] (73,487)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic&type=marketplace' id='_r_28_' />
+		[68] (79,487)<span  />
+			[69] (69,487)<span  />
+				[70] (32,486)<font  />
+					[71] (32,486)<font >시장 />
+			42
+			(
+			42
+			)
+			결과
+	언어
+	[72] (73,570)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+language%3AMarkdown&type=code' id='_r_4_' />
+		[73] (78,570)<span  />
+			[74] (78,570)<span  />
+				[75] (78,570)<div  />
+					[76] (78,570)<div  />
+						[77] (36,570)<font  />
+							[78] (36,570)<font >가격 인하 />
+	[79] (73,604)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+language%3AText&type=code' id='_r_7_' />
+		[80] (78,604)<span  />
+			[81] (78,604)<span  />
+				[82] (78,604)<div  />
+					[83] (78,604)<div  />
+						[84] (32,604)<font  />
+							[85] (32,604)<font >텍스트 />
+	[86] (73,638)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+language%3AOrg&type=code' id='_r_a_' />
+		[87] (78,638)<span  />
+			[88] (78,638)<span  />
+				[89] (78,638)<div  />
+					[90] (78,638)<div  />
+						[91] (29,638)<font  />
+							[92] (29,638)<font >조직 />
+	[93] (73,672)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+language%3ARMarkdown&type=code' id='_r_d_' />
+		[94] (78,672)<span  />
+			[95] (78,672)<span  />
+				[96] (78,672)<div  />
+					[97] (78,672)<div  />
+						[98] (41,671)<font  />
+							[99] (41,671)<font >RMarkdown />
+	[100] (73,706)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_g_' />
+		[101] (79,706)<span  />
+			[102] (79,706)<span  />
+				[103] (79,706)<div  />
+					[104] (46,705)<font  />
+						[105] (46,705)<font >더 많은 언어... />
+	저장소
+	[106] (73,789)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+repo%3AKxiandaoyan%2FMemoh-v2&type=code' id='_r_i_' />
+		[107] (79,789)<span  />
+			[108] (79,789)<span  />
+				[109] (79,789)<div  />
+					[110] (79,789)<div  />
+						[111] (58,789)<font  />
+							[112] (58,789)<font >크시안다오얀/메모-v2 />
+	[113] (73,823)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+repo%3AWeatherPal-AI%2FMCP-handle&type=code' id='_r_l_' />
+		[114] (79,823)<span  />
+			[115] (79,823)<span  />
+				[116] (79,823)<div  />
+					[117] (79,823)<div  />
+						[118] (65,823)<font  />
+							[119] (65,823)<font >WeatherPal-AI/MCP 핸들 />
+	[120] (73,857)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+repo%3Adatasets%2Fcommons&type=code' id='_r_o_' />
+		[121] (79,857)<span  />
+			[122] (79,857)<span  />
+				[123] (79,857)<div  />
+					[124] (79,857)<div  />
+						[125] (47,857)<font  />
+							[126] (47,857)<font >데이터셋/공용 />
+	[127] (73,891)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+repo%3Ajohnlindquist%2Fkit&type=code' id='_r_r_' />
+		[128] (79,891)<span  />
+			[129] (79,891)<span  />
+				[130] (79,891)<div  />
+					[131] (79,891)<div  />
+						[132] (50,890)<font  />
+							[133] (50,890)<font >존린드퀴스트/킷 />
+	[134] (73,925)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=anthropic+repo%3ApremAI-io%2Fstate-of-open-source-ai&type=code' id='_r_u_' />
+		[135] (79,925)<span  />
+			[136] (79,925)<span  />
+				[137] (79,925)<div  />
+					[138] (79,925)<div  />
+						[139] (68,924)<font  />
+							[140] (68,924)<font >premAI-io/오픈소스 AI 현황 />
+	[141] (73,959)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_11_' />
+		[142] (79,959)<span  />
+			[143] (79,959)<span  />
+				[144] (79,959)<div  />
+					[145] (49,958)<font  />
+						[146] (49,958)<font >더 많은 저장소... />
+[147] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+460만 개 파일
+(
+325ms
+)
+460만 개 파일
+[148] (950,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[149] (950,99)<span  />
+		[150] (950,99)<span  />
+			[151] (950,99)<div  />
+				[152] (955,99)<font  />
+					[153] (955,99)<font >구하다 />
+[154] (980,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_21_' />
+내용이 동일한 파일들은 함께 그룹화됩니다.
+[155] (326,141)<button class='prc-Link-Link-9ZwDx' href='#' />
+	[156] (326,141)<font  />
+		[157] (326,141)<font >이 추가 파일들을 숨기세요. />
+[158] (178,193)<button aria-label='Collapse datasets/commons · ai.md' class='Code-module__openCloseButton__kiIQw' />
+[159] (232,193)<a class='prc-Link-Link-9ZwDx' href='/datasets/commons' />
+	[160] (232,193)<span >datasets/commons />
+·
+[161] (279,193)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/datasets/commons/blob/58136d1b3687109a52c44b14d9ab8db53ca41e6b/ai.md?plain=1#L25'>ai.md />
+Markdown
+·
+1
+(
+1
+)
+[162] (577,233)<div  />
+	[163] (577,233)<table role='table' />
+		[164] (577,233)<tbody role='rowgroup' />
+			[165] (577,233)<tr role='row' />
+				[166] (181,233)<td class='blob-num' role='cell' />
+					[167] (186,233)<a class='prc-Link-Link-9ZwDx' href='/datasets/commons/blob/58136d1b3687109a52c44b14d9ab8db53ca41e6b/ai.md?plain=1#L25' />
+						[168] (186,233)<span >25 />
+				[169] (590,233)<td class='blob-code blob-code-inner' role='cell' />
+					[170] (405,233)<span >…mber of organizations (Google, OpenAI, Meta, DeepMind,
+) account for the majority of frontier model developme… />
+						[171] (407,233)<mark >Anthropic />
+[172] (178,291)<button aria-label='Collapse johnlindquist/kit · API.md' class='Code-module__openCloseButton__kiIQw' />
+[173] (228,291)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit' />
+	[174] (228,291)<span >johnlindquist/kit />
+·
+[175] (274,291)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L482'>API.md />
+Markdown
+·
+4
+(
+4
+)
+[176] (577,395)<div  />
+	[177] (577,395)<table role='table' />
+		[178] (577,395)<tbody role='rowgroup' />
+			[179] (577,331)<tr role='row' />
+				[180] (181,331)<td class='blob-num' role='cell' />
+					[181] (184,331)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L479' />
+						[182] (184,331)<span >479 />
+				[183] (590,331)<td class='blob-code blob-code-inner' role='cell' />
+					[184] (249,331)<span  />
+						[185] (249,331)<span >### ai with Provider Swapping />
+			[186] (577,352)<tr role='row' />
+				[187] (181,352)<td class='blob-num' role='cell' />
+					[188] (184,352)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L480' />
+						[189] (184,352)<span >480 />
+				[190] (590,352)<td class='blob-code blob-code-inner' role='cell' />
+			[191] (577,374)<tr role='row' />
+				[192] (181,374)<td class='blob-num' role='cell' />
+					[193] (184,374)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L481' />
+						[194] (184,374)<span >481 />
+				[195] (590,374)<td class='blob-code blob-code-inner' role='cell' />
+					[196] (208,374)<span >js />
+						[197] (204,374)<span  />
+							[198] (201,374)<span >` />
+							[199] (204,374)<span >` />
+							[200] (208,374)<span >` />
+			[201] (577,395)<tr role='row' />
+				[202] (181,395)<td class='blob-num' role='cell' />
+					[203] (184,395)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L482' />
+						[204] (184,395)<span >482 />
+				[205] (590,395)<td class='blob-code blob-code-inner' role='cell' />
+					[206] (276,395)<span >{
+} />
+						[207] (209,395)<span >import />
+						[208] (245,395)<mark  />
+							[209] (245,395)<span >anthropic />
+						[210] (278,395)<span >from />
+						[211] (321,395)<span >@ai-sdk/ />
+							[212] (290,395)<span >' />
+							[213] (335,395)<mark >anthropic />
+							[214] (352,395)<span >' />
+			[215] (577,416)<tr role='row' />
+				[216] (181,416)<td class='blob-num' role='cell' />
+					[217] (184,416)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L483' />
+						[218] (184,416)<span >483 />
+				[219] (590,416)<td class='blob-code blob-code-inner' role='cell' />
+			[220] (577,437)<tr role='row' />
+				[221] (181,437)<td class='blob-num' role='cell' />
+					[222] (184,437)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L484' />
+						[223] (184,437)<span >484 />
+				[224] (590,437)<td class='blob-code blob-code-inner' role='cell' />
+					[225] (285,437)<span >(
+, { />
+						[226] (208,437)<span >const />
+						[227] (233,437)<span >creative />
+						[228] (252,437)<span >= />
+						[229] (261,437)<span >ai />
+						[230] (314,437)<span >You are a creative writer />
+							[231] (269,437)<span >" />
+							[232] (359,437)<span >" />
+			[233] (577,458)<tr role='row' />
+				[234] (181,458)<td class='blob-num' role='cell' />
+					[235] (184,458)<a class='prc-Link-Link-9ZwDx' href='/johnlindquist/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L485' />
+						[236] (184,458)<span >485 />
+				[237] (590,458)<td class='blob-code blob-code-inner' role='cell' />
+					[238] (283,458)<span >model
+(
+), />
+						[239] (225,458)<span >: />
+						[240] (245,458)<mark >anthropic />
+						[241] (312,458)<span >claude-3-5-sonnet-20241022 />
+							[242] (266,458)<span >' />
+							[243] (359,458)<span >' />
+[244] (577,498)<a class='Code-module__showMoreLink__xzoav Code-module__showMoreLinkTopBorder__nfEUp Code-module__showMoreLinkNoBorderBottom__fci5C prc-Link-Link-9ZwDx' href='#' />
+	[245] (205,499)<font  />
+		[246] (205,499)<font >하나 더 보기 />
+[247] (178,541)<button aria-label='Expand TheRakeshPurohit/kit-1 · API.md' class='Code-module__openCloseButton__kiIQw' />
+[248] (240,541)<a class='prc-Link-Link-9ZwDx' href='/TheRakeshPurohit/kit-1' />
+	[249] (240,541)<span >TheRakeshPurohit/kit-1 />
+·
+[250] (298,541)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/TheRakeshPurohit/kit-1/blob/063e5c3c8576683d64d1aa963d55320f474d2c08/API.md?plain=1#L482'>API.md />
+[251] (178,584)<button aria-label='Expand dorucioclea/kit · API.md' class='Code-module__openCloseButton__kiIQw' />
+[252] (225,584)<a class='prc-Link-Link-9ZwDx' href='/dorucioclea/kit' />
+	[253] (225,584)<span >dorucioclea/kit />
+·
+[254] (269,584)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/dorucioclea/kit/blob/ef8957825d0e272f74685917064cecec2429cf08/API.md?plain=1#L482'>API.md />
+[255] (178,626)<button aria-label='Expand dylantliao/kit · API.md' class='Code-module__openCloseButton__kiIQw' />
+[256] (223,626)<a class='prc-Link-Link-9ZwDx' href='/dylantliao/kit' />
+	[257] (223,626)<span >dylantliao/kit />
+·
+[258] (263,626)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/dylantliao/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L482'>API.md />
+[259] (178,668)<button aria-label='Expand payers1/kit · API.md' class='Code-module__openCloseButton__kiIQw' />
+[260] (219,668)<a class='prc-Link-Link-9ZwDx' href='/payers1/kit' />
+	[261] (219,668)<span >payers1/kit />
+·
+[262] (255,668)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/payers1/kit/blob/e82e7846392ba7ec8dac252a12af317d14486579/API.md?plain=1#L482'>API.md />
+이 내용을 포함하는 파일 경로의 일부만 표시합니다. 더 많은 경로를 보려면 검색 조건을 구체화하세요.
+[263] (178,763)<button aria-label='Collapse premAI-io/state-of-open-source-ai · sdk.md' class='Code-module__openCloseButton__kiIQw' />
+[264] (259,763)<a class='prc-Link-Link-9ZwDx' href='/premAI-io/state-of-open-source-ai' />
+	[265] (259,763)<span >premAI-io/state-of-open-source-ai />
+·
+[266] (336,763)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/premAI-io/state-of-open-source-ai/blob/81d36c662f631f38ce0dc13b8f4419b02f88c731/sdk.md?plain=1#L192'>sdk.md />
+Markdown
+·
+2
+(
+2
+)
+[267] (577,817)<div  />
+	[268] (577,817)<table role='table' />
+		[269] (577,817)<tbody role='rowgroup' />
+			[270] (577,803)<tr role='row' />
+				[271] (181,803)<td class='blob-num' role='cell' />
+					[272] (184,803)<a class='prc-Link-Link-9ZwDx' href='/premAI-io/state-of-open-source-ai/blob/81d36c662f631f38ce0dc13b8f4419b02f88c731/sdk.md?plain=1#L192' />
+						[273] (184,803)<span >192 />
+				[274] (590,803)<td class='blob-code blob-code-inner' role='cell' />
+					[275] (405,803)<span >…d providers](https://docs.litellm.ai/docs/providers), including HuggingFace, Cohere, OpenAI, Replicate,
+, etc. />
+						[276] (575,803)<mark >Anthropic />
+			[277] (577,817)<tr role='row' />
+				[278] (577,817)<td role='cell' />
+			[279] (577,832)<tr role='row' />
+				[280] (181,832)<td class='blob-num' role='cell' />
+					[281] (184,832)<a class='prc-Link-Link-9ZwDx' href='/premAI-io/state-of-open-source-ai/blob/81d36c662f631f38ce0dc13b8f4419b02f88c731/sdk.md?plain=1#L196' />
+						[282] (184,832)<span >196 />
+				[283] (590,832)<td class='blob-code blob-code-inner' role='cell' />
+					[284] (405,832)<span >…ator response in the output. But this is currently supported for models like OpenAI, Azure,
+, and HuggingFace. />
+						[285] (534,832)<mark >Anthropic />
+[286] (178,872)<button aria-label='Expand HimoriK/state-of-open-source-ai · sdk.md' class='Code-module__openCloseButton__kiIQw' />
+[287] (256,872)<a class='prc-Link-Link-9ZwDx' href='/HimoriK/state-of-open-source-ai' />
+	[288] (256,872)<span >HimoriK/state-of-open-source-ai />
+·
+[289] (330,872)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/HimoriK/state-of-open-source-ai/blob/1638fe8fc7d44d7ceb2eb7ad8633f70c7d3c05d6/sdk.md?plain=1#L192'>sdk.md />
+[290] (178,915)<button aria-label='Expand agisota/state-of-open-source-ai · sdk.md' class='Code-module__openCloseButton__kiIQw' />
+[291] (254,915)<a class='prc-Link-Link-9ZwDx' href='/agisota/state-of-open-source-ai' />
+	[292] (254,915)<span >agisota/state-of-open-source-ai />
+·
+[293] (326,915)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/agisota/state-of-open-source-ai/blob/c89350d80b2ff63d03756af4cebd30f99afc9b66/sdk.md?plain=1#L192'>sdk.md />
+[294] (178,957)<button aria-label='Expand l16by/state-of-open-source-ai · sdk.md' class='Code-module__openCloseButton__kiIQw' />
+[295] (251,957)<a class='prc-Link-Link-9ZwDx' href='/l16by/state-of-open-source-ai' />
+	[296] (251,957)<span >l16by/state-of-open-source-ai />
+·
+[297] (320,957)<a class='Code-module__filePathLink__AW6te prc-Link-Link-9ZwDx' href='/l16by/state-of-open-source-ai/blob/64b30726b1f7a674bc2318d6170fb1cef64c55d8/sdk.md?plain=1#L192'>sdk.md />
+
+</current_dom>

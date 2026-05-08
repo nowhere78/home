@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,31)<a class='navbar__brand' href='/' />
+	[1] (17,31)<div  />
+		[2] (17,31)<img  />
+[3] (47,31)<a class='navbar__item navbar__link' href='/docs/quickstart' />
+	[4] (47,31)<font  />
+		[5] (47,30)<font >빠른 시작 />
+[6] (84,31)<a class='navbar__item navbar__link' href='/docs/category/guides' />
+	[7] (84,31)<font  />
+		[8] (84,30)<font >문서 />
+[9] (119,31)<a class='navbar__item navbar__link' href='/docs/category/tutorials' />
+	[10] (119,31)<font  />
+		[11] (119,30)<font >튜토리얼 />
+[12] (158,31)<a class='navbar__item navbar__link' href='/docs/category/mcp-servers' />
+	[13] (158,31)<font  />
+		[14] (158,30)<font >MCPs />
+[15] (193,31)<a class='navbar__item navbar__link' href='/blog' />
+	[16] (193,31)<font  />
+		[17] (193,30)<font >블로그 />
+[18] (229,31)<a class='navbar__link' href='#' role='button' />
+	[19] (225,30)<font  />
+		[20] (225,30)<font >자원 />
+[21] (749,31)<a class='navbar__item navbar__link' href='https://discord.gg/goose-oss' />
+	[22] (743,31)<font  />
+		[23] (743,30)<font >불화 />
+[24] (792,31)<a class='navbar__item navbar__link' href='https://github.com/aaif-goose/goose' />
+	[25] (786,31)<font  />
+		[26] (786,30)<font >깃허브 />
+[27] (823,31)<button aria-label='다크 모드와 라이트 모드(현재는 시스템 모드) 간 전환' class='clean-btn toggleButton_gllP' title='시스템 모드' />
+[28] (920,31)<div  />
+	[29] (920,31)<button class='ikp-btn ikp-btn--colorPalette_gray ikp-btn--variant_ghost ikp-btn--size_md ikp-text_gray.800 dark:ikp-text_whiteAlpha.900 hover:ikp-bg_gray.100 hover:dark:ikp-bg_whiteAlpha.200 active:ikp-bg_gray.200 active:dark:ikp-bg_whiteAlpha.300 ikp-w_100% ikp-search-bar-trigger__container ikp-search-bar-trigger__container--size_shrink ikp-search-bar-trigger__container--variant_subtle' />
+		[30] (910,31)<div  />
+			[31] (860,31)<div  />
+			[32] (914,31)<span  />
+				[33] (914,31)<font  />
+					[34] (914,31)<font >무엇이든 검색해 보세요... />
+		[35] (975,31)<kbd  />
+			[36] (975,31)<div >K />
+				[37] (973,31)<span >Ctrl />
+[38] (78,89)<a class='menu__link' href='/docs/quickstart' />
+	[39] (27,89)<span  />
+		[40] (27,88)<font  />
+			[41] (27,88)<font >빠른 시작 />
+[42] (66,127)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/getting-started' />
+	[43] (66,127)<span  />
+		[44] (26,126)<font  />
+			[45] (26,126)<font >시작하기 />
+[46] (140,127)<button aria-label='사이드바 카테고리 '시작하기'를 펼치세요' class='clean-btn menu__caret' />
+[47] (66,165)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/guides' />
+	[48] (66,165)<span  />
+		[49] (22,165)<font  />
+			[50] (22,165)<font >가이드 />
+[51] (140,165)<button aria-label='사이드바 카테고리 '가이드'를 펼치세요' class='clean-btn menu__caret' />
+[52] (66,203)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/tutorials' />
+	[53] (66,203)<span  />
+		[54] (26,203)<font  />
+			[55] (26,203)<font >튜토리얼 />
+[56] (140,203)<button aria-label='사이드바 카테고리 '튜토리얼'을 펼치세요' class='clean-btn menu__caret' />
+[57] (66,241)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/mcp-servers' />
+	[58] (66,241)<span  />
+		[59] (28,241)<font  />
+			[60] (28,241)<font >MCP 서버 />
+[61] (140,241)<button aria-label='사이드바 카테고리 'MCP 서버'를 펼치세요' class='clean-btn menu__caret' />
+[62] (66,279)<a class='categoryLink_byQd menu__link menu__link--sublist menu__link--active' href='/docs/category/architecture-overview' />
+	[63] (66,279)<span  />
+		[64] (27,279)<font  />
+			[65] (27,279)<font >건축 개요 />
+[66] (140,279)<button aria-label='사이드바 카테고리 '아키텍처 개요'를 접으세요.' class='clean-btn menu__caret' />
+[67] (81,317)<a class='menu__link menu__link--active' href='/docs/goose-architecture/' />
+	[68] (33,317)<span  />
+		[69] (33,317)<font  />
+			[70] (33,317)<font >거위 건축 />
+[71] (81,356)<a class='menu__link' href='/docs/goose-architecture/extensions-design' />
+	[72] (37,356)<span  />
+		[73] (37,355)<font  />
+			[74] (37,355)<font >확장 디자인 />
+[75] (81,394)<a class='menu__link' href='/docs/goose-architecture/error-handling' />
+	[76] (33,394)<span  />
+		[77] (33,393)<font  />
+			[78] (33,393)<font >오류 처리 />
+[79] (66,432)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/experimental/' />
+	[80] (66,432)<span  />
+		[81] (26,431)<font  />
+			[82] (26,431)<font >실험적인 />
+[83] (140,432)<button aria-label='사이드바 카테고리 '실험적'을 펼치세요' class='clean-btn menu__caret' />
+[84] (66,470)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/troubleshooting/' />
+	[85] (66,470)<span  />
+		[86] (27,469)<font  />
+			[87] (27,469)<font >문제 해결 />
+[88] (140,470)<button aria-label='사이드바 카테고리 '문제 해결'을 펼치세요' class='clean-btn menu__caret' />
+확장 기능과의 상호 운용성
+[89] (238,115)<a href='https://modelcontextprotocol.io/' />
+	[90] (238,115)<font  />
+		[91] (238,115)<font >모델 컨텍스트 프로토콜(MCP) />
+은 데이터 소스와 AI 에이전트 간의 상호 운용성을 가능하게 하는 개방형 표준입니다. goose는 MCP를 사용하여
+[92] (698,115)<a href='https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#model-context-protocol-servers' />
+	[93] (698,115)<font  />
+		[94] (698,115)<font >MCP 시스템/서버 />
+에 연결합니다 . goose에서 이러한 시스템/서버는 확장 기능이라고 합니다.
+확장 프로그램은 도구를 통해 Goose에 기능을 제공합니다. 도구는 확장 프로그램이 명령을 실행하거나 파일 작업을 수행하는 등 특정 작업을 수행할 수 있도록 하는 기능입니다. 예를 들어 Google Drive 확장 프로그램에는 문서 검색 도구가 포함되어 있습니다. 바로 이 도구 덕분에 Goose가 해당 작업을 수행할 수 있는 것입니다.
+goose는 사용자의 상호 작용을 향상시키도록 설계된 다양한
+[95] (419,269)<a href='/docs/getting-started/using-extensions#built-in-extensions' />
+	[96] (419,269)<font  />
+		[97] (419,269)<font >내장 확장 기능을 />
+제공합니다 . 이러한 확장 기능에는 개발, 웹 스크래핑, 자동화, 메모리 관리 등을 위한 도구가 포함됩니다. 또한 goose는
+[98] (307,297)<a href='/docs/getting-started/using-extensions#adding-extensions' />
+	[99] (307,297)<font  />
+		[100] (307,297)<font >외부 확장 기능에 연결 />
+하거나
+MCP 서버로서
+[101] (510,297)<a href='/docs/tutorials/custom-extensions' />
+	[102] (510,297)<font  />
+		[103] (510,297)<font >사용자 지정 확장 기능을 생성하는 것도 지원합니다. />
+확장 기능과 도구의 설계 및 구현에 대한 자세한 내용은
+[104] (412,346)<a href='/docs/goose-architecture/extensions-design#tools' />
+	[105] (412,346)<font  />
+		[106] (412,346)<font >확장 기능 설계 가이드를 />
+참조하십시오 .
+에이전트 클라이언트 프로토콜(ACP)
+[107] (444,424)<a aria-label='Direct link to Agent Client Protocol (ACP)' class='hash-link' href='#agent-client-protocol-acp' title='Direct link to Agent Client Protocol (ACP)' />
+goose는
+두 가지 방식으로
+[108] (365,479)<a href='https://agentclientprotocol.com/' />
+	[109] (365,479)<font  />
+		[110] (365,479)<font >에이전트 클라이언트 프로토콜(ACP)을 지원합니다. />
+ACP 서버로서의 거위
+[111] (303,541)<a aria-label='Direct link to goose as an ACP Server' class='hash-link' href='#goose-as-an-acp-server' title='Direct link to goose as an ACP Server' />
+goose acp
+goose를 stdio를 통해 ACP 서버로 시작하여 JetBrains 및 Zed와 같은 에디터가 직접 연결할 수 있도록 합니다.
+[112] (663,592)<a href='/docs/guides/acp-clients' />
+	[113] (663,592)<font  />
+		[114] (663,592)<font >ACP 클라이언트에서 goose 사용을 />
+참조하세요 .
+ACP 에이전트의 서비스 제공자로서의 역할
+[115] (412,655)<a aria-label='Direct link to ACP Agents as Providers' class='hash-link' href='#acp-agents-as-providers' title='Direct link to ACP Agents as Providers' />
+goose는 외부 ACP 에이전트(예: Claude Code 또는 Codex)를
+[116] (412,706)<a href='/docs/guides/acp-providers' />
+	[117] (412,706)<font  />
+		[118] (412,706)<font >공급자 />
+로 위임할 수 있습니다 . ACP 에이전트는 도구 실행을 내부적으로 처리합니다. goose는 구성된 확장 기능을 MCP 서버로 전달합니다.
+인터랙티브 루프
+[119] (305,812)<a aria-label='Direct link to Interactive Loop' class='hash-link' href='#interactive-loop' title='Direct link to Interactive Loop' />
+[120] (880,109)<a class='table-of-contents__link toc-highlight' href='#goose-components' />
+	[121] (815,108)<font  />
+		[122] (815,108)<font >거위 구성 요소 />
+[123] (880,139)<a class='table-of-contents__link toc-highlight' href='#interoperability-with-extensions' />
+	[124] (831,139)<font  />
+		[125] (831,139)<font >확장 기능과의 상호 운용성 />
+[126] (880,170)<a class='table-of-contents__link toc-highlight table-of-contents__link--active' href='#agent-client-protocol-acp' />
+	[127] (845,170)<font  />
+		[128] (845,170)<font >에이전트 클라이언트 프로토콜(ACP) />
+[129] (883,201)<a class='table-of-contents__link toc-highlight' href='#goose-as-an-acp-server' />
+	[130] (833,200)<font  />
+		[131] (833,200)<font >ACP 서버로서의 거위 />
+[132] (883,232)<a class='table-of-contents__link toc-highlight' href='#acp-agents-as-providers' />
+	[133] (862,231)<font  />
+		[134] (862,231)<font >ACP 에이전트의 서비스 제공자로서의 역할 />
+[135] (880,263)<a class='table-of-contents__link toc-highlight' href='#interactive-loop' />
+	[136] (817,262)<font  />
+		[137] (817,262)<font >인터랙티브 루프 />
+[138] (880,293)<a class='table-of-contents__link toc-highlight' href='#error-handling-in-goose' />
+	[139] (828,293)<font  />
+		[140] (828,293)<font >Goose에서의 오류 처리 />
+[141] (880,324)<a class='table-of-contents__link toc-highlight' href='#context-revision-token-management' />
+	[142] (829,324)<font  />
+		[143] (829,324)<font >컨텍스트 수정: 토큰 관리 />
+
+</current_dom>

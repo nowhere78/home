@@ -1,0 +1,31 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (462,27)<div  />
+	[1] (205,28)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa] twc-border-b-0 twc-bg-[#fff] twc-text-[#111]'>상품상세 />
+	[2] (377,28)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품평
+(
+7,881
+) />
+	[3] (548,28)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품문의 />
+	[4] (719,28)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>배송/교환/반품 안내 />
+[5] (462,630)<button class='data-[focus-visible=true]:twc-outline-2 data-[focus-visible=true]:twc-outline data-[focus-visible=true]:twc-outline-ui-c-Button-Color-Border-Blue-Normal data-[focus-visible=true]:twc-outline-offset-4 twc-rounded-ui-c-button-radius-radius twc-min-h-ui-c-button-2xl-min-height twc-text-[16px] twc-leading-[20px] twc-px-ui-c-button-2xl-px twc-py-ui-c-button-2xl-py twc-border-ui-c-Button-Color-Border-Blue-Normal twc-text-ui-c-Button-Color-Text-Blue-Normal twc-bg-white twc-inline-flex twc-items-center twc-justify-center twc-border-[1px] twc-font-[700] twc-border-solid twc-w-[268px]' />
+	[6] (457,630)<span >상품정보 더보기 />
+	[7] (494,630)<span  />
+다른 고객이 함께 본 상품
+1
+/
+3
+[8] (275,970)<a href='//www.coupang.com/vp/products/5449134726?vendorItemId=75598125472&sourceType=SDP_ALSO_VIEWED' title='로보카폴리 익스트림 자동 버블건, 블루, 1개' />
+	[9] (275,906)<img  />
+[10] (368,970)<a href='//www.coupang.com/vp/products/5449519553?vendorItemId=75599613173&sourceType=SDP_ALSO_VIEWED' title='타요 익스트림 자동버블건 2종 세트, 타요 + 라니, 1개' />
+	[11] (368,906)<img  />
+[12] (462,906)<img  />
+[13] (556,906)<img  />
+[14] (650,970)<a href='//www.coupang.com/vp/products/8647857079?vendorItemId=92194269453&sourceType=SDP_ALSO_VIEWED' title='산리오 포차코 멜로디 자동 버블건, 혼합색상, 1개' />
+	[15] (650,906)<img  />
+[16] (206,970)<div  />
+[17] (718,970)<div  />
+
+</current_dom>

@@ -1,0 +1,4 @@
+- [ ] 비즈니스 인텔리전스 베이스(`ai_business_base.md`) 구축
+- [ ] 젬마 감독관 SOP(`luna_shorts_pipeline.py`) 업데이트
+- [ ] 감성 스토리텔링 템플릿(`emotional_scenario_v1.py`) 생성
+- [ ] 통합 테스트 및 결과 검증(`test_gemma_director.py`)

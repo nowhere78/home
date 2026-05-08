@@ -1,0 +1,190 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (79,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/LearningCircuit' />
+	[3] (79,34)<span >LearningCircuit />
+[4] (150,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/LearningCircuit/local-deep-research' />
+	[5] (150,34)<span >local-deep-research />
+[6] (759,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (759,34)<span  />
+		[8] (765,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (820,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (834,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (867,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (863,34)<span  />
+[13] (892,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (913,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (934,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (955,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (976,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (976,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (98,80)<span >(
+79
+) />
+		[26] (98,80)<span >79 />
+		(
+		79
+		)
+[27] (155,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/pulls' />
+	[28] (122,80)<span  />
+	[29] (151,80)<span >Pull requests />
+	[30] (184,80)<span >(
+181
+) />
+		[31] (184,80)<span >181 />
+		(
+		181
+		)
+[32] (223,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/agents?author=nowhere78' />
+	[33] (209,80)<span  />
+	[34] (229,80)<span >Agents />
+[35] (278,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/discussions' />
+	[36] (257,80)<span  />
+	[37] (285,80)<span >Discussions />
+[38] (335,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/actions' />
+	[39] (320,80)<span  />
+	[40] (341,80)<span >Actions />
+[41] (385,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/projects' />
+	[42] (370,80)<span  />
+	[43] (391,80)<span >Projects />
+[44] (435,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/models' />
+	[45] (421,80)<span  />
+	[46] (442,80)<span >Models />
+[47] (480,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/wiki' />
+	[48] (470,80)<span  />
+	[49] (486,80)<span >Wiki />
+[50] (552,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/security' />
+	[51] (510,80)<span  />
+	[52] (551,80)<span >Security and quality />
+	[53] (594,80)<span >(
+2
+) />
+		[54] (594,80)<span >2 />
+		(
+		2
+		)
+[55] (631,80)<a class='prc-components-UnderlineItem-7fP-n' href='/LearningCircuit/local-deep-research/pulse' />
+	[56] (616,80)<span  />
+	[57] (637,80)<span >Insights />
+[58] (243,139)<a class='d-block overflow-x-hidden color-fg-default' href='/LearningCircuit/local-deep-research'>local-deep-research />
+Public
+Watch
+[59] (680,138)<a class='btn-sm btn BtnGroup-item' href='/LearningCircuit/local-deep-research/fork' id='fork-button'>Fork />
+	[60] (694,138)<span >544 />
+[61] (718,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-929868765' />
+	[62] (718,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[63] (761,138)<button aria-label='Star this repository (6162)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[64] (757,138)<span >Star />
+	[65] (775,138)<span >6.2k />
+[66] (800,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-929868765-unstarred-button' />
+LearningCircuit/local-deep-research
+[67] (207,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[68] (207,215)<span  />
+		[69] (201,215)<span  />
+			[70] (201,215)<div  />
+				[71] (190,215)<div  />
+				[72] (206,215)<div  />
+					[73] (206,215)<span >main />
+[74] (262,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/LearningCircuit/local-deep-research/branches' />
+	[75] (262,215)<span  />
+		[76] (269,215)<span >Branches />
+[77] (302,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/LearningCircuit/local-deep-research/tags' />
+	[78] (302,215)<span  />
+		[79] (308,215)<span >Tags />
+Add file
+[80] (565,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[81] (565,215)<span  />
+		[82] (565,215)<span  />
+			[83] (565,215)<span >Add file />
+[84] (622,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[85] (622,215)<span  />
+		[86] (622,215)<span >Code />
+Folders and files
+Latest commit
+History
+[87] (612,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/LearningCircuit/local-deep-research/commits/main/' />
+	[88] (612,277)<span  />
+		[89] (618,277)<span  />
+			[90] (618,276)<span >6,299 Commits />
+[91] (213,327)<a aria-label='.github, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/.github' title='.github'>.github />
+[92] (233,370)<a aria-label='.pre-commit-hooks, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/.pre-commit-hooks' title='.pre-commit-hooks'>.pre-commit-hooks />
+[93] (226,414)<a aria-label='.semgrep/rules, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/.semgrep/rules' title='This path skips through empty directories' />
+	[94] (218,414)<span >.semgrep/ />
+	[95] (242,414)<span >rules />
+[96] (208,457)<a aria-label='.zap, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/.zap' title='.zap'>.zap />
+[97] (222,501)<a aria-label='changelog.d, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/changelog.d' title='changelog.d'>changelog.d />
+[98] (251,544)<a aria-label='community_benchmark_results, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/community_benchmark_results' title='community_benchmark_results'>community_benchmark_results />
+[99] (234,587)<a aria-label='cookiecutter-docker, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/cookiecutter-docker' title='cookiecutter-docker'>cookiecutter-docker />
+[100] (209,631)<a aria-label='docs, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/docs' title='docs'>docs />
+[101] (217,674)<a aria-label='examples, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/examples' title='examples'>examples />
+[102] (212,717)<a aria-label='scripts, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/scripts' title='scripts'>scripts />
+[103] (240,761)<a aria-label='src/local_deep_research, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/src/local_deep_research' title='This path skips through empty directories' />
+	[104] (208,761)<span >src/ />
+	[105] (246,761)<span >local_deep_research />
+[106] (209,804)<a aria-label='tests, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/tests' title='tests'>tests />
+[107] (229,848)<a aria-label='unraid-templates, (Directory)' class='Link--primary' href='/LearningCircuit/local-deep-research/tree/main/unraid-templates' title='unraid-templates'>unraid-templates />
+[108] (227,891)<a aria-label='.file-whitelist.txt, (File)' class='Link--primary' href='/LearningCircuit/local-deep-research/blob/main/.file-whitelist.txt' title='.file-whitelist.txt'>.file-whitelist.txt />
+[109] (217,934)<a aria-label='.gitignore, (File)' class='Link--primary' href='/LearningCircuit/local-deep-research/blob/main/.gitignore' title='.gitignore'>.gitignore />
+[110] (223,978)<a aria-label='.gitleaks.toml, (File)' class='Link--primary' href='/LearningCircuit/local-deep-research/blob/main/.gitleaks.toml' title='.gitleaks.toml'>.gitleaks.toml />
+About
+~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+Topics
+[111] (703,448)<a class='topic-tag topic-tag-link' href='/topics/home-automation' title='Topic: home-automation'>home-automation />
+[112] (758,448)<a class='topic-tag topic-tag-link' href='/topics/encryption' title='Topic: encryption'>encryption />
+[113] (689,477)<a class='topic-tag topic-tag-link' href='/topics/research' title='Topic: research'>research />
+[114] (721,477)<a class='topic-tag topic-tag-link' href='/topics/local' title='Topic: local'>local />
+[115] (758,477)<a class='topic-tag topic-tag-link' href='/topics/homeserver' title='Topic: homeserver'>homeserver />
+[116] (693,507)<a class='topic-tag topic-tag-link' href='/topics/self-hosted' title='Topic: self-hosted'>self-hosted />
+[117] (734,507)<a class='topic-tag topic-tag-link' href='/topics/pubmed' title='Topic: pubmed'>pubmed />
+[118] (770,507)<a class='topic-tag topic-tag-link' href='/topics/openai' title='Topic: openai'>openai />
+[119] (685,536)<a class='topic-tag topic-tag-link' href='/topics/brave' title='Topic: brave'>brave />
+[120] (725,536)<a class='topic-tag topic-tag-link' href='/topics/research-tool' title='Topic: research-tool'>research-tool />
+[121] (765,536)<a class='topic-tag topic-tag-link' href='/topics/arxiv' title='Topic: arxiv'>arxiv />
+[122] (690,566)<a class='topic-tag topic-tag-link' href='/topics/academia' title='Topic: academia'>academia />
+[123] (727,566)<a class='topic-tag topic-tag-link' href='/topics/mistral' title='Topic: mistral'>mistral />
+[124] (762,566)<a class='topic-tag topic-tag-link' href='/topics/searxng' title='Topic: searxng'>searxng />
+[125] (690,596)<a class='topic-tag topic-tag-link' href='/topics/anthropic' title='Topic: anthropic'>anthropic />
+[126] (730,596)<a class='topic-tag topic-tag-link' href='/topics/local-llm' title='Topic: local-llm'>local-llm />
+[127] (723,625)<a class='topic-tag topic-tag-link' href='/topics/retrieval-augmented-generation' title='Topic: retrieval-augmented-generation'>retrieval-augmented-generation />
+[128] (792,625)<a class='topic-tag topic-tag-link' href='/topics/ollama' title='Topic: ollama'>ollama />
+[129] (697,655)<a class='topic-tag topic-tag-link' href='/topics/deep-research' title='Topic: deep-research'>deep-research />
+[130] (759,655)<a class='topic-tag topic-tag-link' href='/topics/local-deep-research' title='Topic: local-deep-research'>local-deep-research />
+Resources
+[131] (691,700)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[132] (696,731)<a class='Link--muted' href='#MIT-1-ov-file'>MIT license />
+Contributing
+[133] (699,761)<a class='Link--muted' href='#contributing-ov-file'>Contributing />
+Security policy
+[134] (702,792)<a class='Link--muted' href='#security-ov-file'>Security policy />
+[135] (690,823)<a class='Link Link--muted' href='/LearningCircuit/local-deep-research/activity' />
+	[136] (697,823)<span >Activity />
+Stars
+[137] (694,853)<a class='Link Link--muted' href='/LearningCircuit/local-deep-research/stargazers'>stars />
+	[138] (692,853)<strong >6.2k />
+Watchers
+[139] (698,884)<a class='Link Link--muted' href='/LearningCircuit/local-deep-research/watchers'>watching />
+	[140] (690,884)<strong >34 />
+Forks
+[141] (693,915)<a class='Link Link--muted' href='/LearningCircuit/local-deep-research/forks'>forks />
+	[142] (692,915)<strong >544 />
+[143] (699,945)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FLearningCircuit%2Flocal-deep-research&report=LearningCircuit+%28user%29'>Report repository />
+Releases
+153
+
+</current_dom>

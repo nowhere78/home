@@ -1,0 +1,179 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjy-pfqjI2UAxU4VvEDHerrDPYQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dmost%2Bviral%2Bkitchen%2Bgadgets%2B2025%2B2026%2Btiktok%2Breels%2Bshorts&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (130,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n62c4LXap1cLjbK32jLYdsashdCLA:1777260911006&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEALG-4vcgPD5XGMSJdHt9iE2pWPZnwuH7DcZvuff1VfwAAJkQxjyk6u15Lbf32DHgiETc_99Duw8H6_8JcN5iRLwujm067ECFvWS3RvEnoLE79DE-bBkiH3VLDwTMlZCHrCwv7cAhRm3Bq2Qz-reM2pZTOAjA&q=most+viral+kitchen+gadgets+2025+2026+tiktok+reels+shorts&sa=X&ved=2ahUKEwjy-pfqjI2UAxU4VvEDHerrDPYQs6gLegQIFxAB' />
+	[18] (130,121)<div  />
+		[19] (130,130)<span >짧은 동영상 />
+[20] (211,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n62c4LXap1cLjbK32jLYdsashdCLA:1777260911006&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEALG-4vcgPD5XGMSJdHt9iE2pWPZnwuH7DcZvuff1VfwAAJkQxjyk6u15Lbf32DHgiETc_99Duw8H6_8JcN5iRLwujm067ECFvWS3RvEnoLE79DE-bBkiH3VLDwTMlZCHrCwv7cAhRm3Bq2Qz-reM2pZTOAjA&q=most+viral+kitchen+gadgets+2025+2026+tiktok+reels+shorts&sa=X&ved=2ahUKEwjy-pfqjI2UAxU4VvEDHerrDPYQtKgLegQIFhAB' />
+	[21] (211,121)<div  />
+		[22] (211,130)<span >이미지 />
+[23] (270,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n62c4LXap1cLjbK32jLYdsashdCLA:1777260911006&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEALG-4vcgPD5XGMSJdHt9iE2pWPZnwuH7DcZvuff1VfwAAJkQxjyk6u15Lbf32DHgiETc_99Duw8H6_8JcN5iRLwujm067ECFvWS3RvEnoLE79DE-bBkiH3VLDwTMlZCHrCwv7cAhRm3Bq2Qz-reM2pZTOAjA&q=most+viral+kitchen+gadgets+2025+2026+tiktok+reels+shorts&ved=1t:220175&ictx=111' />
+	[24] (270,121)<div  />
+		[25] (270,130)<span >쇼핑 />
+[26] (329,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n62c4LXap1cLjbK32jLYdsashdCLA:1777260911006&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEALG-4vcgPD5XGMSJdHt9iE2pWPZnwuH7DcZvuff1VfwAAJkQxjyk6u15Lbf32DHgiETc_99Duw8H6_8JcN5iRLwujm067ECFvWS3RvEnoLE79DE-bBkiH3VLDwTMlZCHrCwv7cAhRm3Bq2Qz-reM2pZTOAjA&q=most+viral+kitchen+gadgets+2025+2026+tiktok+reels+shorts&sa=X&ved=2ahUKEwjy-pfqjI2UAxU4VvEDHerrDPYQtKgLegQIFBAB' />
+	[27] (329,121)<div  />
+		[28] (329,130)<span >동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n62c4LXap1cLjbK32jLYdsashdCLA:1777260911006&q=most+viral+kitchen+gadgets+2025+2026+tiktok+reels+shorts&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEALG-4vcgPD5XGMSJdHt9iE2pWPZnwuH7DcZvuff1VfwAAJkQxjyk6u15Lbf32DHgiETc_99Duw8H6_8JcN5iRLwujm067ECFvWS3RvEnoLE79DE-bBkiH3VLDwTMlZCHrCwv7cAhRm3Bq2Qz-reM2pZTOAjA&sa=X&ved=2ahUKEwjy-pfqjI2UAxU4VvEDHerrDPYQ0pQJegQIExAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+Web results
+[42] (172,215)<a class='zReHs' href='https://www.tiktok.com/discover/kitchen-gadgets-2025-2026' />
+	[43] (172,235)<h3 >Kitchen Gadgets 2025 2026 />
+	[44] (156,198)<div  />
+		[45] (156,198)<div  />
+			[46] (57,198)<span  />
+				[47] (57,198)<div  />
+					[48] (57,198)<img  />
+			[49] (176,198)<div  />
+				[50] (176,189)<div  />
+					[51] (176,189)<span >TikTok />
+				[52] (176,209)<div  />
+					[53] (176,209)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.tiktok.com />
+						[54] (238,209)<span class='ylgVCe ob9lvb' role='text'>› Discover />
+[55] (289,208)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (289,208)<span  />
+		[57] (289,209)<span  />
+From high-tech coffee makers ☕️ to smart air fryers , these innovative
+tools
+will make
+cooking
+a breeze. Watch as I show you some of the coolest,
+most
+efficient ...
+[58] (297,369)<a class='zReHs' href='https://www.tiktok.com/@asr_store_/video/7612947398590991638' />
+	[59] (297,389)<h3 >The Most Viral Gadget of 2026: Must-Have Innovations />
+	[60] (146,353)<div  />
+		[61] (146,353)<div  />
+			[62] (57,353)<span  />
+				[63] (57,353)<div  />
+					[64] (57,353)<img  />
+			[65] (167,353)<div  />
+				[66] (167,343)<div  />
+					[67] (167,343)<span >TikTok · ASR Store />
+				[68] (167,363)<div  />
+					[69] (167,363)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 570만회 이상  ·  1개월 전 />
+[70] (270,362)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (270,362)<span  />
+		[72] (270,363)<span  />
+[73] (130,459)<a aria-label='asr_store_님이 TikTok에 게시한 The Most Viral Gadget of 2026: Must-Have Innovations. TikTok에서 재생. 0:20' class='rIRoqf' href='https://www.tiktok.com/@asr_store_/video/7612947398590991638' />
+	[74] (120,461)<div  />
+		[75] (120,461)<div  />
+			[76] (120,461)<div  />
+				[77] (72,486)<div  />
+					[78] (72,486)<span >0:20 />
+Buy link in bio The
+Most Viral
+Gadget of
+2026
+– You Need This Cool Gadgets! Smart Appliances, New Gadgets,
+Kitchen Gadgets
+, Home Gadgets, ...
+[79] (170,574)<a class='zReHs' href='https://www.tiktok.com/discover/viral-kitchen-gadgets-2026' />
+	[80] (170,594)<h3 >Viral Kitchen Gadgets 2026 />
+	[81] (156,557)<div  />
+		[82] (156,557)<div  />
+			[83] (57,557)<span  />
+				[84] (57,557)<div  />
+					[85] (57,557)<img  />
+			[86] (176,557)<div  />
+				[87] (176,548)<div  />
+					[88] (176,548)<span >TikTok />
+				[89] (176,568)<div  />
+					[90] (176,568)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.tiktok.com />
+						[91] (238,568)<span class='ylgVCe ob9lvb' role='text'>› Discover />
+[92] (289,567)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[93] (289,567)<span  />
+		[94] (289,568)<span  />
+2026. 2. 12.
+—
+Discover the
+top kitchen gadgets of 2026
+that will transform your cooking experience! Affordable, innovative, and functional finds await you ...
+[95] (327,728)<a class='zReHs' href='https://www.instagram.com/reel/DTxulTziYU6/' />
+	[96] (327,748)<h3 >Tools Items! New Viral Gedgets, Smart Appliances, Kitchen ... />
+	[97] (165,712)<div  />
+		[98] (165,712)<div  />
+			[99] (57,712)<span  />
+				[100] (57,712)<div  />
+					[101] (57,712)<img  />
+			[102] (186,712)<div  />
+				[103] (186,702)<div  />
+					[104] (186,702)<span >Instagram · newhouseholdtools />
+				[105] (186,722)<div  />
+					[106] (158,722)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 10개 이상  ·  3개월 전 />
+[107] (309,721)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[108] (309,721)<span  />
+		[109] (309,722)<span  />
+[110] (130,818)<a aria-label='New HouseHold Items님이 Instagram에 게시한 Tools Items! New Viral Gedgets, Smart Appliances, Kitchen .... Instagram에서 재생. 0:26' class='rIRoqf' href='https://www.instagram.com/reel/DTxulTziYU6/' />
+	[111] (120,820)<div  />
+		[112] (120,820)<div  />
+			[113] (120,820)<div  />
+				[114] (72,845)<div  />
+					[115] (72,845)<span >0:26 />
+Tools Items! New
+Viral
+Gedgets, Smart Appliances,
+Kitchen Utensils
+/Home Inventions #
+shorts
+· ‎Cool Gadgets! · The
+Most Viral
+Gadget of
+2026
+– Must ...
+[116] (230,933)<a class='zReHs' href='https://www.tiktok.com/@asr_store_/video/7611809238545009943' />
+	[117] (230,953)<h3 >Discover the Most Viral Gadgets of 2026 />
+	[118] (144,916)<div  />
+		[119] (144,916)<div  />
+			[120] (57,916)<span  />
+				[121] (57,916)<div  />
+					[122] (57,916)<img  />
+			[123] (165,916)<div  />
+				[124] (165,907)<div  />
+					[125] (165,907)<span >TikTok · ASR Store />
+				[126] (165,927)<div  />
+					[127] (165,927)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 3.8천회 이상  ·  1개월 전 />
+[128] (267,926)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[129] (267,926)<span  />
+		[130] (267,927)<span  />
+Buy link in bio The
+Most Viral
+Gadget of
+2026
+– You Need This Cool Gadgets! Smart Appliances, New Gadgets,
+
+</current_dom>

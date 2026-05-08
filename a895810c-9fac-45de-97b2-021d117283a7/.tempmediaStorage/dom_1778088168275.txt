@@ -1,0 +1,617 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >기본 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/2022SiliconValley-Team-ForV/TTS/new/main/backend/modelserver' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (83,579)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	hubconf.py
+	pyproject.toml
+	requirements.dev.txt
+	requirements.notebooks.txt
+	[20] (79,158)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/TTS/requirements.tf.txt-item' role='treeitem' />
+		[21] (79,158)<div  />
+			[22] (15,158)<div  />
+				[23] (15,158)<div  />
+					[24] (10,158)<div  />
+					[25] (15,158)<div  />
+					[26] (19,158)<div  />
+			[27] (90,158)<div  />
+				[28] (38,158)<div  />
+				[29] (96,158)<span  />
+					[30] (75,158)<span >requirements.tf.txt />
+	[31] (79,192)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/TTS/requirements.txt-item' role='treeitem' />
+		[32] (79,192)<div  />
+			[33] (15,192)<div  />
+				[34] (15,192)<div  />
+					[35] (10,192)<div  />
+					[36] (15,192)<div  />
+					[37] (19,192)<div  />
+			[38] (90,192)<div  />
+				[39] (38,192)<div  />
+				[40] (96,192)<span  />
+					[41] (72,192)<span >requirements.txt />
+	[42] (79,226)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/TTS/run_bash_tests.sh-item' role='treeitem' />
+		[43] (79,226)<div  />
+			[44] (15,226)<div  />
+				[45] (15,226)<div  />
+					[46] (10,226)<div  />
+					[47] (15,226)<div  />
+					[48] (19,226)<div  />
+			[49] (90,226)<div  />
+				[50] (38,226)<div  />
+				[51] (96,226)<span  />
+					[52] (74,226)<span >run_bash_tests.sh />
+	[53] (79,260)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/TTS/setup.cfg-item' role='treeitem' />
+		[54] (79,260)<div  />
+			[55] (15,260)<div  />
+				[56] (15,260)<div  />
+					[57] (10,260)<div  />
+					[58] (15,260)<div  />
+					[59] (19,260)<div  />
+			[60] (90,260)<div  />
+				[61] (38,260)<div  />
+				[62] (96,260)<span  />
+					[63] (60,260)<span >setup.cfg />
+	[64] (79,294)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/TTS/setup.py-item' role='treeitem' />
+		[65] (79,294)<div  />
+			[66] (15,294)<div  />
+				[67] (15,294)<div  />
+					[68] (10,294)<div  />
+					[69] (15,294)<div  />
+					[70] (19,294)<div  />
+			[71] (90,294)<div  />
+				[72] (38,294)<div  />
+				[73] (96,294)<span  />
+					[74] (59,294)<span >setup.py />
+	[75] (79,345)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/temp-item' role='treeitem' />
+		[76] (79,328)<div  />
+			[77] (13,328)<div  />
+				[78] (13,328)<div  />
+					[79] (10,328)<div  />
+					[80] (15,328)<div  />
+			[81] (21,328)<div  />
+			[82] (88,328)<div  />
+				[83] (33,328)<div  />
+					[84] (33,328)<div  />
+				[85] (94,328)<span  />
+					[86] (50,328)<span >temp />
+		[87] (79,362)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/temp/.gitkeep-item' role='treeitem' />
+			[88] (79,362)<div  />
+				[89] (15,362)<div  />
+					[90] (15,362)<div  />
+						[91] (10,362)<div  />
+						[92] (15,362)<div  />
+						[93] (19,362)<div  />
+				[94] (90,362)<div  />
+					[95] (38,362)<div  />
+					[96] (96,362)<span  />
+						[97] (59,362)<span >.gitkeep />
+	[98] (79,396)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/voice_model-item' role='treeitem' />
+		[99] (79,396)<div  />
+			[100] (13,396)<div  />
+				[101] (13,396)<div  />
+					[102] (10,396)<div  />
+					[103] (15,396)<div  />
+			[104] (21,396)<div  />
+			[105] (88,396)<div  />
+				[106] (33,396)<div  />
+					[107] (33,396)<div  />
+				[108] (94,396)<span  />
+					[109] (62,396)<span >voice_model />
+	[110] (79,430)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/.gitignore-item' role='treeitem' />
+		[111] (79,430)<div  />
+			[112] (13,430)<div  />
+				[113] (13,430)<div  />
+					[114] (10,430)<div  />
+					[115] (15,430)<div  />
+			[116] (88,430)<div  />
+				[117] (33,430)<div  />
+				[118] (94,430)<span  />
+					[119] (57,430)<span >.gitignore />
+	[120] (79,464)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/Dockerfile-item' role='treeitem' />
+		[121] (79,464)<div  />
+			[122] (13,464)<div  />
+				[123] (13,464)<div  />
+					[124] (10,464)<div  />
+					[125] (15,464)<div  />
+			[126] (88,464)<div  />
+				[127] (33,464)<div  />
+				[128] (94,464)<span  />
+					[129] (58,464)<span >Dockerfile />
+	[130] (79,498)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/README.md-item' role='treeitem' />
+		[131] (79,498)<div  />
+			[132] (13,498)<div  />
+				[133] (13,498)<div  />
+					[134] (10,498)<div  />
+					[135] (15,498)<div  />
+			[136] (88,498)<div  />
+				[137] (33,498)<div  />
+				[138] (94,498)<span  />
+					[139] (62,498)<span >README.md />
+	[140] (79,533)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/app.py-item' role='treeitem' />
+		[141] (79,533)<div  />
+			[142] (13,533)<div  />
+				[143] (13,533)<div  />
+					[144] (10,533)<div  />
+					[145] (15,533)<div  />
+			[146] (88,533)<div  />
+				[147] (33,532)<div  />
+				[148] (94,533)<span  />
+					[149] (53,533)<span >app.py />
+	[150] (79,567)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/celery_app.py-item' role='treeitem' />
+		[151] (79,567)<div  />
+			[152] (13,567)<div  />
+				[153] (13,567)<div  />
+					[154] (10,567)<div  />
+					[155] (15,567)<div  />
+			[156] (88,567)<div  />
+				[157] (33,566)<div  />
+				[158] (94,567)<span  />
+					[159] (63,567)<span >celery_app.py />
+	[160] (79,601)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/requirements.txt-item' role='treeitem' />
+		[161] (79,601)<div  />
+			[162] (13,601)<div  />
+				[163] (13,601)<div  />
+					[164] (10,601)<div  />
+					[165] (15,601)<div  />
+			[166] (88,601)<div  />
+				[167] (33,601)<div  />
+				[168] (94,601)<span  />
+					[169] (68,601)<span >requirements.txt />
+	[170] (79,635)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/requirements_TTS.txt-item' role='treeitem' />
+		[171] (79,635)<div  />
+			[172] (13,635)<div  />
+				[173] (13,635)<div  />
+					[174] (10,635)<div  />
+					[175] (15,635)<div  />
+			[176] (88,635)<div  />
+				[177] (33,635)<div  />
+				[178] (94,635)<span  />
+					[179] (75,635)<span >requirements_TTS.txt />
+	[180] (79,669)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/simple_task.py-item' role='treeitem' />
+		[181] (79,669)<div  />
+			[182] (13,669)<div  />
+				[183] (13,669)<div  />
+					[184] (10,669)<div  />
+					[185] (15,669)<div  />
+			[186] (88,669)<div  />
+				[187] (33,669)<div  />
+				[188] (94,669)<span  />
+					[189] (65,669)<span >simple_task.py />
+	[190] (79,703)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/test_tasks.py-item' role='treeitem' />
+		[191] (79,703)<div  />
+			[192] (13,703)<div  />
+				[193] (13,703)<div  />
+					[194] (10,703)<div  />
+					[195] (15,703)<div  />
+			[196] (88,703)<div  />
+				[197] (33,703)<div  />
+				[198] (94,703)<span  />
+					[199] (62,703)<span >test_tasks.py />
+	[200] (79,737)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/modelserver/tts_modules.py-item' role='treeitem' />
+		[201] (79,737)<div  />
+			[202] (13,737)<div  />
+				[203] (13,737)<div  />
+					[204] (10,737)<div  />
+					[205] (15,737)<div  />
+			[206] (88,737)<div  />
+				[207] (33,737)<div  />
+				[208] (94,737)<span  />
+					[209] (66,737)<span >tts_modules.py />
+	[210] (79,771)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='backend/.gitignore-item' role='treeitem' />
+		[211] (79,771)<div  />
+			[212] (10,771)<div  />
+				[213] (10,771)<div  />
+					[214] (10,771)<div  />
+			[215] (86,771)<div  />
+				[216] (29,771)<div  />
+				[217] (92,771)<span  />
+					[218] (53,771)<span >.gitignore />
+	[219] (79,805)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='frontend-item' role='treeitem' />
+		[220] (79,805)<div  />
+			[221] (13,805)<div  />
+			[222] (84,805)<div  />
+				[223] (25,805)<div  />
+					[224] (25,805)<div  />
+				[225] (90,805)<span  />
+					[226] (50,805)<span  />
+						[227] (50,805)<font  />
+							[228] (50,805)<font >프런트엔드 />
+	[229] (79,839)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitattributes-item' role='treeitem' />
+		[230] (79,839)<div  />
+			[231] (84,839)<div  />
+				[232] (25,839)<div  />
+				[233] (90,839)<span  />
+					[234] (54,839)<span  />
+						[235] (54,839)<font  />
+							[236] (54,839)<font >.gitattributes />
+	[237] (79,873)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[238] (79,873)<div  />
+			[239] (84,873)<div  />
+				[240] (25,873)<div  />
+				[241] (90,873)<span  />
+					[242] (49,873)<span  />
+						[243] (49,873)<font  />
+							[244] (49,873)<font >.gitignore />
+	[245] (79,907)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[246] (79,907)<div  />
+			[247] (84,907)<div  />
+				[248] (25,907)<div  />
+				[249] (90,907)<span  />
+					[250] (40,907)<span  />
+						[251] (40,907)<font  />
+							[252] (40,907)<font >특허 />
+	[253] (79,941)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[254] (79,941)<div  />
+			[255] (84,941)<div  />
+				[256] (25,941)<div  />
+				[257] (90,941)<span  />
+					[258] (53,941)<span  />
+						[259] (53,941)<font  />
+							[260] (53,941)<font >README.md />
+	[261] (79,975)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docker-compose.yml-item' role='treeitem' />
+		[262] (79,975)<div  />
+			[263] (84,975)<div  />
+				[264] (25,975)<div  />
+				[265] (90,975)<span  />
+					[266] (67,975)<span  />
+						[267] (67,975)<font  />
+							[268] (67,975)<font >docker-compose.yml />
+[269] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[270] (183,33)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/2022SiliconValley-Team-ForV/TTS/tree/main' />
+	[271] (183,33)<font  />
+		[272] (183,33)<font >티츠 />
+/
+[273] (216,33)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/2022SiliconValley-Team-ForV/TTS/tree/main/backend' />
+	[274] (216,33)<font  />
+		[275] (216,33)<font >백엔드 />
+/
+[276] (257,33)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/2022SiliconValley-Team-ForV/TTS/tree/main/backend/modelserver' />
+	[277] (257,33)<font  />
+		[278] (257,33)<font >모델서버 />
+/
+앱.파이
+[279] (320,34)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[280] (983,34)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_fv_' />
+최신 커밋
+[281] (190,92)<a class='prc-Link-Link-9ZwDx' href='/hi-june' />
+	[282] (188,93)<img  />
+[283] (221,92)<a aria-label='hi-june의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/2022SiliconValley-Team-ForV/TTS/commits?author=hi-june' />
+	[284] (221,92)<font  />
+		[285] (221,92)<font >안녕하세요, 6월 />
+[286] (292,92)<a class='Link--secondary' href='/2022SiliconValley-Team-ForV/TTS/commit/e44173671fa251de553eeba559230400e64f25fa' />
+	[287] (292,92)<font  />
+		[288] (292,92)<font >업적: 셀러리 용기 분리 성공! />
+[289] (347,92)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[290] (918,92)<a aria-label='Commit e441736' class='Link--secondary prc-Link-Link-9ZwDx' href='/2022SiliconValley-Team-ForV/TTS/commit/e44173671fa251de553eeba559230400e64f25fa'>e441736 />
+·
+역사
+[291] (971,92)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/2022SiliconValley-Team-ForV/TTS/commits/main/backend/modelserver/app.py' />
+	[292] (971,92)<span  />
+		[293] (977,92)<span  />
+			[294] (977,91)<span  />
+				[295] (977,91)<font  />
+					[296] (977,91)<font >역사 />
+파일 메타데이터 및 제어
+[297] (196,158)<button class='prc-SegmentedControl-Button-E48xz' />
+	[298] (196,158)<span  />
+		[299] (196,158)<div  />
+			[300] (196,158)<font  />
+				[301] (196,158)<font >암호 />
+[302] (228,158)<button class='prc-SegmentedControl-Button-E48xz' />
+	[303] (228,158)<span  />
+		[304] (228,158)<div  />
+			[305] (228,158)<font  />
+				[306] (228,158)<font >탓하다 />
+51 lines (37 loc) · 1.46 KB
+[307] (851,158)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_gn_' />
+[308] (870,158)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[309] (895,158)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/2022SiliconValley-Team-ForV/TTS/raw/refs/heads/main/backend/modelserver/app.py' />
+	[310] (895,158)<span  />
+		[311] (895,158)<span  />
+			[312] (895,157)<font  />
+				[313] (895,157)<font >날것의 />
+[314] (915,158)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[315] (929,158)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[316] (947,158)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/2022SiliconValley-Team-ForV/TTS/edit/main/backend/modelserver/app.py' />
+[317] (961,158)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_h6_' />
+[318] (980,158)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[319] (584,728)<textarea aria-label='파일 내용' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' />
+[320] (202,201)<div  />
+	[321] (203,201)<font  />
+		[322] (203,201)<font >1 />
+[323] (202,222)<div  />
+	[324] (203,222)<font  />
+		[325] (203,222)<font >2 />
+[326] (202,243)<div  />
+	[327] (203,243)<font  />
+		[328] (203,243)<font >3 />
+[329] (202,265)<div  />
+	[330] (203,265)<font  />
+		[331] (203,265)<font >4 />
+[332] (202,286)<div  />
+	[333] (203,286)<font  />
+		[334] (203,286)<font >5 />
+[335] (202,307)<div  />
+	[336] (203,307)<font  />
+		[337] (203,307)<font >6 />
+[338] (202,328)<div  />
+	[339] (203,328)<font  />
+		[340] (203,328)<font >7 />
+[341] (202,349)<div  />
+	[342] (203,349)<font  />
+		[343] (203,349)<font >8 />
+[344] (202,370)<div  />
+	[345] (203,370)<font  />
+		[346] (203,370)<font >9 />
+[347] (202,392)<div  />
+	[348] (202,392)<font  />
+		[349] (202,392)<font >10 />
+[350] (202,413)<div  />
+	[351] (202,413)<font  />
+		[352] (202,413)<font >11 />
+[353] (202,434)<div  />
+	[354] (202,434)<font  />
+		[355] (202,434)<font >12 />
+[356] (202,455)<div  />
+	[357] (202,455)<font  />
+		[358] (202,455)<font >13 />
+[359] (202,476)<div  />
+	[360] (202,476)<font  />
+		[361] (202,476)<font >14 />
+[362] (202,497)<div  />
+	[363] (202,497)<font  />
+		[364] (202,497)<font >15 />
+[365] (202,519)<div  />
+	[366] (202,519)<font  />
+		[367] (202,519)<font >16 />
+[368] (202,540)<div  />
+	[369] (202,540)<font  />
+		[370] (202,540)<font >17 />
+	[371] (214,541)<div aria-label='코드 섹션 접기' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+[372] (202,561)<div  />
+	[373] (202,561)<font  />
+		[374] (202,561)<font >18 />
+[375] (202,582)<div  />
+	[376] (202,582)<font  />
+		[377] (202,582)<font >19 />
+[378] (202,603)<div  />
+	[379] (202,603)<font  />
+		[380] (202,603)<font >20 />
+[381] (202,624)<div  />
+	[382] (202,624)<font  />
+		[383] (202,624)<font >21 />
+[384] (202,646)<div  />
+	[385] (202,646)<font  />
+		[386] (202,646)<font >22 />
+[387] (202,667)<div  />
+	[388] (202,667)<font  />
+		[389] (202,667)<font >23 />
+[390] (202,688)<div  />
+	[391] (202,688)<font  />
+		[392] (202,688)<font >24 />
+[393] (202,709)<div  />
+	[394] (202,709)<font  />
+		[395] (202,709)<font >25 />
+[396] (202,730)<div  />
+	[397] (202,730)<font  />
+		[398] (202,730)<font >26 />
+[399] (202,751)<div  />
+	[400] (202,751)<font  />
+		[401] (202,751)<font >27 />
+[402] (202,772)<div  />
+	[403] (202,772)<font  />
+		[404] (202,772)<font >28 />
+[405] (202,794)<div  />
+	[406] (202,794)<font  />
+		[407] (202,794)<font >29 />
+[408] (202,815)<div  />
+	[409] (202,815)<font  />
+		[410] (202,815)<font >30 />
+[411] (202,836)<div  />
+	[412] (202,836)<font  />
+		[413] (202,836)<font >31 />
+[414] (202,857)<div  />
+	[415] (202,857)<font  />
+		[416] (202,857)<font >32 />
+[417] (202,878)<div  />
+	[418] (202,878)<font  />
+		[419] (202,878)<font >33 />
+[420] (202,899)<div  />
+	[421] (202,899)<font  />
+		[422] (202,899)<font >34 />
+[423] (202,921)<div  />
+	[424] (202,921)<font  />
+		[425] (202,921)<font >35 />
+[426] (202,942)<div  />
+	[427] (202,942)<font  />
+		[428] (202,942)<font >36 />
+[429] (202,963)<div  />
+	[430] (202,963)<font  />
+		[431] (202,963)<font >37 />
+[432] (202,984)<div  />
+	[433] (202,984)<font  />
+		[434] (202,984)<font >38 />
+39
+수입
+시간
+~에서
+플라스크
+수입
+플라스크
+,
+jsonify
+,
+요구
+~에서
+플라스크_코르스
+수입
+CORS
+#test_tasks에서 test를 가져옵니다.
+앱
+=
+플라스크
+(
+__이름__
+)
+코르스
+=
+CORS
+(
+앱
+,
+자원
+=
+{
+아르 자형"/*"
+: {
+"태생"
+:
+"*"
+}})
+@
+앱
+.
+노선
+(
+'/'
+)
+정의
+안녕하세요_세계
+():
+반품
+{
+'결과'
+:
+'안녕하세요, 세상!'
+}
+@
+앱
+.
+노선
+(
+'/api/texts'
+,
+행동 양식
+=
+[
+'우편'
+,
+'얻다'
+])
+정의
+get_text
+():
+~에서
+테스트 작업
+수입
+시험
+만약에
+요구
+.
+방법
+==
+'우편'
+:
+매개변수
+=
+요구
+.
+get_json
+()
+uuid
+=
+매개변수
+[
+'uuid'
+]
+멤버_id
+=
+매개변수
+[
+'회원 ID'
+]
+텍스트
+=
+매개변수
+[
+'텍스트'
+]
+created_at
+=
+매개변수
+[
+'생성일'
+]
+에이
+=
+시험
+.
+지연
+(
+uuid
+,
+멤버_id
+,
+텍스트
+,
+created_at
+)
+~하는 동안
+진실
+:
+만약에
+에이
+.
+준비가 된
+()
+==
+거짓
+:
+시간
+.
+잠
+(
+5
+)
+계속하다
+또 다른
+:
+반품
+{
+'uuid'
+:
+uuid
+,
+'회원 ID'
+:
+멤버_id
+,
+'생성일'
+:
+created_at
+}
+# elif request.method == 'GET': # 이 부분은 테스트용입니다. 처리하지 않으면 처리할 수 없습니다!
+
+</current_dom>

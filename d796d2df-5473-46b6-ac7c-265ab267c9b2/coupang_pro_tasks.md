@@ -1,0 +1,4 @@
+- [x] Create `trend_radar.py` to scrape real-time trends (e.g., TV broadcast items) and extract 3 products.
+- [x] Create `coupang_matcher.py` for product matching (fallback mode for missing API keys).
+- [x] Upgrade `coupang_agent.py` to orchestrate Trend -> Match -> Script -> Video (loops 3 times).
+- [x] Test the pipeline with a simulated trend.

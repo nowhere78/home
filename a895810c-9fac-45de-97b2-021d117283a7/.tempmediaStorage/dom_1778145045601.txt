@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='./' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../../infrastructure/llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+짓다
+[41] (219,285)<a class='md-nav__link md-nav__link--active' href='./' />
+	[42] (203,285)<span  />
+		[43] (203,284)<font  />
+			[44] (203,284)<font >프레임워크 및 플랫폼 />
+[45] (223,347)<a class='md-nav__link' href='#next-generation-agent-frameworks-2025-2026' />
+	[46] (224,347)<span  />
+		[47] (219,346)<font  />
+			[48] (219,346)<font >차세대 에이전트 프레임워크(2025-2026) />
+[49] (223,427)<a class='md-nav__link' href='#established-agent-frameworks' />
+	[50] (224,427)<span  />
+		[51] (219,426)<font  />
+			[52] (219,426)<font >기존 에이전트 프레임워크 />
+[53] (223,507)<a class='md-nav__link' href='#agent-infrastructure-governance' />
+	[54] (224,507)<span  />
+		[55] (220,506)<font  />
+			[56] (220,506)<font >에이전트 인프라 및 거버넌스 />
+[57] (223,586)<a class='md-nav__link' href='#specialized-utility-frameworks' />
+	[58] (224,586)<span  />
+		[59] (220,585)<font  />
+			[60] (220,585)<font >특수 및 유틸리티 프레임워크 />
+[61] (223,666)<a class='md-nav__link' href='#alternative-architectures-openclaw-ecosystem' />
+	[62] (224,666)<span  />
+		[63] (210,665)<font  />
+			[64] (210,665)<font >대안적 아키텍처 및 OpenClaw 생태계 />
+[65] (219,747)<a class='md-nav__link' href='../agents/' />
+	[66] (186,747)<span  />
+		[67] (186,746)<font  />
+			[68] (186,746)<font >자치령 대표 />
+[69] (219,787)<a class='md-nav__link' href='../physical-ai/' />
+	[70] (218,787)<span  />
+		[71] (218,786)<font  />
+			[72] (218,786)<font >물리적 인공지능 및 체현된 지능 />
+[73] (219,827)<a class='md-nav__link' href='../paper-to-code/' />
+	[74] (195,827)<span  />
+		[75] (195,827)<font  />
+			[76] (195,827)<font >문서-코드 자동화 />
+프레임워크 및 플랫폼
+[77] (611,331)<a class='headerlink' href='#frameworks-and-platforms' title='영구 링크' />
+	[78] (611,330)<font  />
+		[79] (611,330)<font  />
+차세대 자율 AI를 구현하는 인프라입니다. 이러한 프레임워크를 통해 단일 에이전트 도구부터 다중 에이전트 오케스트레이션 플랫폼에 이르기까지 추론, 탐색, 코딩 및 협업이 가능한 AI 에이전트를 구축, 오케스트레이션 및 배포할 수 있습니다.
+[80] (341,661)<a class='glightbox' href='https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white' />
+	[81] (341,658)<img  />
+[82] (385,661)<a class='glightbox' href='https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white' />
+	[83] (385,658)<img  />
+[84] (424,661)<a class='glightbox' href='https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white' />
+	[85] (424,658)<img  />
+[86] (460,661)<a class='glightbox' href='https://img.shields.io/badge/Multi--Agent-blue?style=flat-square' />
+	[87] (460,658)<img  />
+[88] (514,661)<a class='glightbox' href='https://img.shields.io/badge/Browser_Automation-orange?style=flat-square' />
+	[89] (514,658)<img  />
+[90] (571,661)<a class='glightbox' href='https://img.shields.io/badge/Open_Source-green?style=flat-square' />
+	[91] (571,658)<img  />
+차세대 에이전트 프레임워크(2025-2026)
+[92] (696,756)<a class='headerlink' href='#next-generation-agent-frameworks-2025-2026' title='영구 링크' />
+	[93] (696,755)<font  />
+		[94] (696,755)<font  />
+이름
+깃허브 스타
+소개
+메모
+[95] (362,974)<a href='https://github.com/All-Hands-AI/OpenHands' />
+	[96] (362,973)<font  />
+		[97] (362,973)<font >오픈핸즈 />
+AI 기반 소프트웨어 개발 에이전트 플랫폼(이전 명칭: OpenDevin). 코드를 처음부터 끝까지 작성, 테스트 및 디버깅할 수 있는 자율 코딩 에이전트입니다.
+별점 7만 1천 개 이상. SWE-bench 1위. 샌드박스 실행 환경.
+
+</current_dom>

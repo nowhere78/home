@@ -1,0 +1,373 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (133,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sstklen' />
+		[4] (133,34)<span  />
+			[5] (133,33)<font  />
+				[6] (133,33)<font >sstklen />
+	[7] (219,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/sstklen/trump-code' />
+		[8] (219,34)<span  />
+			[9] (219,33)<font  />
+				[10] (219,33)<font >트럼프 코드 />
+	[11] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+	[12] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[13] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_m_' />
+	[14] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_r_' />
+		[15] (740,34)<span  />
+	[16] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[17] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[18] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[19] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[20] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[21] (967,34)<img  />
+	저장소 탐색
+	[22] (42,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code' />
+		[23] (42,80)<span  />
+			[24] (42,80)<font  />
+				[25] (42,80)<font >암호 />
+	[26] (119,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/issues' />
+		[27] (105,80)<span  />
+			[28] (105,80)<font  />
+				[29] (105,80)<font >문제점 />
+		[30] (143,80)<span  />
+			[31] (143,80)<span  />
+				[32] (143,80)<font  />
+					[33] (143,80)<font >1 />
+			(
+			1
+			)
+	[34] (220,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/pulls' />
+		[35] (220,80)<span  />
+			[36] (220,80)<font  />
+				[37] (220,80)<font >풀 리퀘스트 />
+	[38] (323,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/agents?author=nowhere78' />
+		[39] (323,80)<span  />
+			[40] (323,80)<font  />
+				[41] (323,80)<font >자치령 대표 />
+	[42] (422,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/discussions' />
+		[43] (422,80)<span  />
+			[44] (422,80)<font  />
+				[45] (422,80)<font >토론 />
+	[46] (510,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/actions' />
+		[47] (510,80)<span  />
+			[48] (510,80)<font  />
+				[49] (510,80)<font >행위 />
+	[50] (586,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/projects' />
+		[51] (586,80)<span  />
+			[52] (586,80)<font  />
+				[53] (586,80)<font >프로젝트 />
+	[54] (704,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/security' />
+		[55] (704,80)<span  />
+			[56] (704,80)<font  />
+				[57] (704,80)<font >보안 및 품질 />
+	[58] (822,80)<a class='prc-components-UnderlineItem-7fP-n' href='/sstklen/trump-code/pulse' />
+		[59] (822,80)<span  />
+			[60] (822,80)<font  />
+				[61] (822,80)<font >인사이트 />
+[62] (101,139)<a class='d-block overflow-x-hidden color-fg-default' href='/sstklen/trump-code' />
+	[63] (101,138)<font  />
+		[64] (101,138)<font >트럼프 코드 />
+공공의
+[65] (622,138)<div  />
+	[66] (622,138)<button aria-label='영상 보기: sstklen/trump-code 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1i_' />
+		[67] (614,138)<span  />
+			[68] (612,138)<span  />
+				[69] (612,137)<font  />
+					[70] (612,137)<font >보다 />
+			4
+			(
+			4
+			)
+[71] (740,139)<a class='btn-sm btn BtnGroup-item' href='/sstklen/trump-code/fork' id='fork-button' />
+	[72] (735,139)<font  />
+		[73] (735,141)<font >포크 />
+	[74] (768,138)<span  />
+		[75] (768,138)<font  />
+			[76] (768,138)<font >102 />
+[77] (815,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1182098521' />
+	[78] (815,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[79] (894,138)<button aria-label='이 저장소에 별표를 눌러주세요 (743)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[80] (888,138)<span  />
+		[81] (888,138)<font  />
+			[82] (888,138)<font >별 />
+	[83] (918,138)<span  />
+		[84] (918,138)<font  />
+			[85] (918,138)<font >743 />
+[86] (966,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1182098521-unstarred-button' />
+sstklen/트럼프 코드
+[87] (69,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[88] (69,216)<span  />
+		[89] (56,216)<span  />
+			[90] (56,216)<div  />
+				[91] (39,216)<div  />
+				[92] (67,216)<div  />
+					[93] (67,216)<span  />
+						[94] (69,216)<font  />
+							[95] (69,216)<font >기본 />
+[96] (151,216)<a aria-label='지점 페이지로 이동' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/sstklen/trump-code/branches' />
+[97] (195,216)<a aria-label='태그 페이지로 이동' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/sstklen/trump-code/tags' />
+[98] (502,216)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[99] (502,216)<span  />
+		[100] (502,216)<span  />
+			[101] (502,216)<font  />
+				[102] (502,216)<font >파일로 이동 />
+파일 추가
+[103] (577,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[104] (577,216)<span  />
+		[105] (577,216)<span  />
+[106] (656,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[107] (656,216)<span  />
+		[108] (656,216)<span  />
+			[109] (656,216)<font  />
+				[110] (656,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[111] (45,278)<a class='prc-Link-Link-9ZwDx' href='/apps/github-actions' />
+	[112] (42,279)<img  />
+[113] (108,278)<a aria-label='github-actions[봇]에 의한 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/sstklen/trump-code/commits?author=github-actions%5Bbot%5D' />
+	[114] (108,278)<font  />
+		[115] (108,278)<font >깃허브 액션[봇] />
+[116] (337,278)<a class='Link--secondary' href='/sstklen/trump-code/commit/86f1da5b54ecd3eff9ee9797571f6b268eb97ebb' />
+	[117] (337,278)<font  />
+		[118] (337,278)<font >작업: 일일 파이프라인 데이터 업데이트(2026년 4월 26일) />
+[119] (567,278)<a aria-label='커밋 86f1da5' class='Link--secondary prc-Link-Link-9ZwDx' href='/sstklen/trump-code/commit/86f1da5b54ecd3eff9ee9797571f6b268eb97ebb' />
+	[120] (567,278)<font  />
+		[121] (567,278)<font >86f1da5 />
+·
+16시간 전
+역사
+[122] (676,278)<a aria-label='이 파일의 커밋 기록을 보려면 여기를 클릭하세요.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/sstklen/trump-code/commits/main/' />
+	[123] (676,278)<span  />
+[124] (362,328)<tr  />
+	[125] (91,328)<a aria-label='.githooks, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/.githooks' title='.githooks' />
+		[126] (91,328)<font  />
+			[127] (91,328)<font >.githooks />
+	[128] (499,328)<a class='Link--secondary' href='/sstklen/trump-code/commit/51613967ce577ceacb3dff8bdb60642e74a88738' title='보안: 사전 커밋 후크는 API 키가 git에 입력되는 것을 차단합니다. 自동擋住 7 種敏感資訊: 1. Google/Gemini API 키(AIzaSy...) 2. AWS 액세스 키(AKIA...) 3. X/Twitter Bearer 토큰 4. 硬編碼 비밀번호/비밀/api_key 5.環境變數直接寫程式碼裡 6. 私鑰 (BEGIN PRIVATE KEY) 7. 本機路徑 (/Users/xxx/Projects) 커밋 전 자동掃描,有問題直接擋掉不讓 push. 공동 저작자: Claude Opus 4.6(1M 컨텍스트) <noreply@anthropic.com>' />
+		[129] (499,328)<font  />
+			[130] (499,328)<font >보안: 사전 커밋 훅은 API 키가 Git에 입력되는 것을 차단합니다. />
+	왜냐
+[131] (362,371)<tr  />
+	[132] (123,371)<a aria-label='.github/workflows (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/.github/workflows' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[133] (89,371)<span  />
+			[134] (89,371)<font  />
+				[135] (89,371)<font >.github/ />
+		[136] (150,371)<span  />
+			[137] (150,371)<font  />
+				[138] (150,371)<font >워크플로우 />
+	[139] (514,371)<a class='Link--secondary' href='/sstklen/trump-code/commit/5a53a9f3bcc961caa209c379f1087adbcd9154be' title='주요 기능: 크라우드 인텔리전스 대시보드 + GitHub Actions 일일 자동화 C1: public/insights.html - 다크 웜 테마, 3개 국어 지원(영어/취리히어/일본어) - 4개 섹션: 시스템 상태, 신호, 모델 순위, 크라우드 인사이트 - 30초마다 자동 새로 고침 - XSS 보호, 모바일 반응형 C2: .github/workflows/daily.yml - 매일 UTC 14:00(미국 시장 개장 전)에 실행 - Python 3.11, pip 캐시, 파이프라인 오류 발생 시 계속 실행 - 데이터/변경 사항 자동 커밋 및 푸시 - 모든 API 키는 시크릿을 통해 관리(하드코딩 없음) - 수동 트리거 지원(workflow_dispatch) 공동 작성자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[140] (514,371)<font  />
+			[141] (514,371)<font >특징: 크라우드 인텔리전스 대시보드 + GitHub Actions 일일 자동화 />
+	왜냐
+[142] (362,414)<tr  />
+	[143] (75,415)<a aria-label='기사, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/articles' title='조항' />
+		[144] (75,415)<font  />
+			[145] (75,415)<font >조항 />
+	[146] (474,415)<a class='Link--secondary' href='/sstklen/trump-code/commit/7355ad8ea50e96a59723ff085be94956a51ecc3b' title='플래시: 116308992209421747 即TIME快報 (DOWN)' />
+		[147] (474,415)<font  />
+			[148] (474,415)<font >플래시: 116308992209421747 即TIME快報 (DOWN) />
+	3주 전
+[149] (362,458)<tr  />
+	[150] (82,458)<a aria-label='데이터, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/data' title='데이터' />
+		[151] (82,458)<font  />
+			[152] (82,458)<font >데이터 />
+	[153] (483,458)<a class='Link--secondary' href='/sstklen/trump-code/commit/86f1da5b54ecd3eff9ee9797571f6b268eb97ebb' title='작업: 일일 파이프라인 데이터 업데이트(2026년 4월 26일)' />
+		[154] (483,458)<font  />
+			[155] (483,458)<font >작업: 일일 파이프라인 데이터 업데이트(2026년 4월 26일) />
+	16시간 전
+[156] (362,501)<tr  />
+	[157] (75,502)<a aria-label='문서, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/docs' title='문서' />
+		[158] (75,502)<font  />
+			[159] (75,502)<font >문서 />
+	[160] (423,502)<a class='Link--secondary' href='/sstklen/trump-code/commit/31d621d915f079e1d6fff22cca3c1f72c786dd84' title='문서: X-PLAYBOOK 加血淚教訓警告' />
+		[161] (423,502)<font  />
+			[162] (423,502)<font >문서: X-PLAYBOOK 加血淚教訓警告 />
+	왜냐
+[163] (362,544)<tr  />
+	[164] (82,545)<a aria-label='공개, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/public' title='공공의' />
+		[165] (82,545)<font  />
+			[166] (82,545)<font >공공의 />
+	[167] (401,545)<a class='Link--secondary' href='/sstklen/trump-code/commit/f7f814f0159c902cd9d851246a3615e65ecf570f' title='병합: 충돌 해결 + 문서 동기화' />
+		[168] (401,545)<font  />
+			[169] (401,545)<font >병합: 충돌 해결 + 문서 동기화 />
+	왜냐
+[170] (362,588)<tr  />
+	[171] (82,588)<a aria-label='테스트, (디렉토리)' class='Link--primary' href='/sstklen/trump-code/tree/main/tests' title='테스트' />
+		[172] (82,588)<font  />
+			[173] (82,588)<font >테스트 />
+	[174] (487,588)<a class='Link--secondary' href='/sstklen/trump-code/commit/38042bae0fec04168d9b2b04b10f48e518568ffb' title='5단계 및 6단계: 강화된 면책 조항, 설치 가이드, 통계적 참고 사항, 테스트 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[175] (487,588)<font  />
+			[176] (487,588)<font >5단계 및 6단계: 강화된 면책 조항, 설치 가이드, 통계 자료… />
+	왜냐
+[177] (362,631)<tr  />
+	[178] (93,632)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/.gitignore' title='.gitignore' />
+		[179] (93,632)<font  />
+			[180] (93,632)<font >.gitignore />
+	[181] (512,632)<a class='Link--secondary' href='/sstklen/trump-code/commit/361d78d6ed2f0a8271c7086ad2a01d8862db24f9' title='0단계: 보안 수정 — 유출된 토큰 및 경로 제거, 라이선스 및 종속성 관리 추가 P0-1: results_03_hidden.json(루트 + data/)에서 JWT 토큰(pwapi_token) 제거 P0-2: data_stats.json 및 clean_data.py에서 절대 경로 /Users/tkman/을 파일 이름으로 대체 P0-3: MIT 라이선스 파일 추가(2025-2026, Washin Mura Contributors) P0-4: requirements.txt 추가(yfinance>=0.2.36), overnight_search.py에서 런타임 pip 설치 제거 P0-5: JSON 파일 통합 — 루트 중복 삭제, market_*.json을 data/로 이동, 모든 분석/파이프라인 스크립트가 data/ 디렉터리에서 읽고 쓰도록 업데이트 P0-6: .gitignore 강화 — .env*, *.key, *.pem, venv/, IDE 디렉터리 추가 P0-7: daily_pipeline.py의 sync_to_github() 함수에 민감한 파일 감지 기능 추가 — .env/.key/.pem/credential 파일이 감지되면 푸시를 중단합니다. 공동 작성자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[182] (512,632)<font  />
+			[183] (512,632)<font >0단계: 보안 수정 — 유출된 토큰 및 경로 제거, LICENSE 및 d 추가… />
+	왜냐
+[184] (362,675)<tr  />
+	[185] (87,675)<a aria-label='CONTRIBUTING.md, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/CONTRIBUTING.md' title='기여.md' />
+		[186] (87,675)<font  />
+			[187] (87,675)<font >기여.md />
+	[188] (556,675)<a class='Link--secondary' href='/sstklen/trump-code/commit/99499941c06111cfa38bb1f86071edc06b6b3171' title='문서: CONTRIBUTING.md 추가 + 기여자 섹션 + README에 게임 링크 추가 - CONTRIBUTING.md: 기여 방법, 프로젝트 구조, 가이드라인 - README: 기여자 목록 (첫 번째 기여자: @yongjer) - README: 예측 게임 섹션 및 플레이 링크 추가 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[189] (556,675)<font  />
+			[190] (556,675)<font >문서: CONTRIBUTING.md 추가 + 기여자 섹션 추가 + README에 게임 링크 추가 />
+	왜냐
+[191] (362,718)<tr  />
+	[192] (75,719)<a aria-label='라이선스, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/LICENSE' title='특허' />
+		[193] (75,719)<font  />
+			[194] (75,719)<font >특허 />
+	[195] (512,719)<a class='Link--secondary' href='/sstklen/trump-code/commit/361d78d6ed2f0a8271c7086ad2a01d8862db24f9' title='0단계: 보안 수정 — 유출된 토큰 및 경로 제거, 라이선스 및 종속성 관리 추가 P0-1: results_03_hidden.json(루트 + data/)에서 JWT 토큰(pwapi_token) 제거 P0-2: data_stats.json 및 clean_data.py에서 절대 경로 /Users/tkman/을 파일 이름으로 대체 P0-3: MIT 라이선스 파일 추가(2025-2026, Washin Mura Contributors) P0-4: requirements.txt 추가(yfinance>=0.2.36), overnight_search.py에서 런타임 pip 설치 제거 P0-5: JSON 파일 통합 — 루트 중복 삭제, market_*.json을 data/로 이동, 모든 분석/파이프라인 스크립트가 data/ 디렉터리에서 읽고 쓰도록 업데이트 P0-6: .gitignore 강화 — .env*, *.key, *.pem, venv/, IDE 디렉터리 추가 P0-7: daily_pipeline.py의 sync_to_github() 함수에 민감한 파일 감지 기능 추가 — .env/.key/.pem/credential 파일이 감지되면 푸시를 중단합니다. 공동 작성자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[196] (512,719)<font  />
+			[197] (512,719)<font >0단계: 보안 수정 — 유출된 토큰 및 경로 제거, LICENSE 및 d 추가… />
+	왜냐
+[198] (362,761)<tr  />
+	[199] (102,762)<a aria-label='README.md, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/README.md' title='README.md' />
+		[200] (102,762)<font  />
+			[201] (102,762)<font >README.md />
+	[202] (529,762)<a class='Link--secondary' href='/sstklen/trump-code/commit/f74899289338f46faefdd3fdd5a03ee3b50e4762' title='README 상단에 고양이 트리하우스 경품 이벤트 배너를 추가하세요. 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[203] (529,762)<font  />
+			[204] (529,762)<font >README 파일 상단에 고양이 트리하우스 경품 이벤트 배너를 추가하세요 />
+	왜냐
+[205] (362,805)<tr  />
+	[206] (120,805)<a aria-label='ai_signal_agent.py, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/ai_signal_agent.py' title='ai_signal_agent.py' />
+		[207] (120,805)<font  />
+			[208] (120,805)<font >ai_signal_agent.py />
+	[209] (524,805)<a class='Link--secondary' href='/sstklen/trump-code/commit/b3ca7d5228ad661aa4b09b89733e5e811f50ab2a' title='주요 특징: AI 에이전트 재설계 — 로컬 Opus(Claude Code) 사용, API 키 불필요 아키텍처: - 파이프라인 실행 → prepare_briefing() → opus_briefing.txt 저장 - Claude Code(Opus)가 온라인 상태일 때 → 브리핑 읽기 → 분석 → 다시 저장 - API 키 불필요, 추가 비용 없음 — Opus 자체가 실행 중인 Claude Code 세션임 - 오프라인 상태일 경우? 브리핑은 opus_pending.json에 대기열에 저장되고, Opus가 온라인 상태가 되면 분석됨 파일: - data/opus_briefing.txt: Opus가 직접 읽을 수 있는 사람이 읽기 쉬운 브리핑 - data/opus_briefing.json: 프로그래밍 방식으로 사용할 수 있는 구조화된 버전 - data/opus_pending.json: 처리되지 않은 브리핑 대기열 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[210] (524,805)<font  />
+			[211] (524,805)<font >특징: AI 에이전트 재설계 - API 키 없이 로컬 Opus(Claude 코드) 사용… />
+	왜냐
+[212] (362,848)<tr  />
+	[213] (124,849)<a aria-label='analysis_01_caps.py, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/analysis_01_caps.py' title='analysis_01_caps.py' />
+		[214] (124,849)<font  />
+			[215] (124,849)<font >analysis_01_caps.py />
+	[216] (470,849)<a class='Link--secondary' href='/sstklen/trump-code/commit/e61124874799f00f3f4eb579d0a7df9ed84191f3' title='3단계+4단계: 코드 품질 및 방어적 프로그래밍 수정 사항 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[217] (470,849)<font  />
+			[218] (470,849)<font >3단계 및 4단계: 코드 품질 및 방어적 프로그래밍 개선 />
+	왜냐
+[219] (362,892)<tr  />
+	[220] (119,892)<a aria-label='analysis_02_timing.py, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/analysis_02_timing.py' title='분석_02_타이밍.py' />
+		[221] (119,892)<font  />
+			[222] (119,892)<font >분석_02_타이밍.py />
+	[223] (553,892)<a class='Link--secondary' href='/sstklen/trump-code/commit/6e5460c9aab1944831c481ecaf16198c13212b88' title='알려진 문제 3가지 수정: 일광 절약 시간(DST) 하드코딩, 동적 시간 구분, JWT 기록 정리 1. DST 수정: 7개 파일(02, 07, 08, 09, 11, 12, overnight)에서 하드코딩된 모든 (dt.hour - 5) % 24 EST 변환을 `from utils import est_hour`로 대체했습니다. analysis_07 파일도 _dt 기반 계산을 위해 to_eastern을 가져옵니다. 2. 동적 시간 구분: analysis_12_big_moves.py는 이제 하드코딩된 2025-12-01 대신 75%/25%로 학습/테스트 분할을 계산합니다. 3. JWT 기록: git-filter-repo를 실행하여 초기 릴리스, 폴리마켓 커밋, 보안 수정 커밋의 세 가지 과거 커밋에서 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9를 삭제했습니다. 이것들은 트럼프의 원문 ​​게시글에서 가져온 워싱턴 포스트 유료 구독 토큰이지, 저희 API 키가 아닙니다. 공동 저자: Claude Sonnet 4.6 <noreply@anthropic.com>' />
+		[224] (553,892)<font  />
+			[225] (553,892)<font >알려진 3가지 문제 수정: 일광 절약 시간 하드코딩, 동적 마감 시간, JWT 기록 정리 />
+	왜냐
+[226] (362,935)<tr  />
+	[227] (132,935)<a aria-label='analysis_03_hidden.py, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/analysis_03_hidden.py' title='analysis_03_hidden.py' />
+		[228] (132,935)<font  />
+			[229] (132,935)<font >analysis_03_hidden.py />
+	[230] (470,935)<a class='Link--secondary' href='/sstklen/trump-code/commit/e61124874799f00f3f4eb579d0a7df9ed84191f3' title='3단계+4단계: 코드 품질 및 방어적 프로그래밍 수정 사항 공동 저자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[231] (470,935)<font  />
+			[232] (470,935)<font >3단계 및 4단계: 코드 품질 및 방어적 프로그래밍 개선 />
+	왜냐
+[233] (362,978)<tr  />
+	[234] (133,979)<a aria-label='analysis_04_entities.py, (파일)' class='Link--primary' href='/sstklen/trump-code/blob/main/analysis_04_entities.py' title='analysis_04_entities.py' />
+		[235] (133,979)<font  />
+			[236] (133,979)<font >analysis_04_entities.py />
+	3단계 및 4단계: 코드 품질 및 방어적 프로그래밍 개선
+	왜냐
+에 대한
+🔐 AI가 트럼프 게시물 × 주식시장 | AI 解碼gawa普推文 × 美股 | AI Detransp投稿×株式市場を解読 — 31.5M 모델, 61.3% 적중률, 오픈 소스
+주제
+[237] (776,389)<a class='topic-tag topic-tag-link' href='/topics/machine-learning' title='주제: 기계 학습' />
+	[238] (776,389)<font  />
+		[239] (776,389)<font >머신러닝 />
+[240] (844,389)<a class='topic-tag topic-tag-link' href='/topics/trump' title='주제: 트럼프' />
+	[241] (844,389)<font  />
+		[242] (844,389)<font >지우다 />
+[243] (914,389)<a class='topic-tag topic-tag-link' href='/topics/ai' title='주제: 인공지능' />
+	[244] (914,389)<font  />
+		[245] (914,389)<font >일체 포함 />
+[246] (764,419)<a class='topic-tag topic-tag-link' href='/topics/prediction' title='주제: 예측' />
+	[247] (764,419)<font  />
+		[248] (764,419)<font >예측 />
+[249] (834,419)<a class='topic-tag topic-tag-link' href='/topics/open-data' title='주제: 공개 데이터' />
+	[250] (834,419)<font  />
+		[251] (834,419)<font >오픈 데이터 />
+[252] (917,419)<a class='topic-tag topic-tag-link' href='/topics/stock-market' title='주제: 주식 시장' />
+	[253] (917,419)<font  />
+		[254] (917,419)<font >주식 시장 />
+[255] (783,449)<a class='topic-tag topic-tag-link' href='/topics/brute-force' title='주제: 무차별 대입' />
+	[256] (783,449)<font  />
+		[257] (783,449)<font >무차별 대입 />
+[258] (866,449)<a class='topic-tag topic-tag-link' href='/topics/signal-analysis' title='주제: 신호 분석' />
+	[259] (866,449)<font  />
+		[260] (866,449)<font >신호 분석 />
+[261] (776,478)<a class='topic-tag topic-tag-link' href='/topics/polymarket' title='주제: 폴리마켓' />
+	[262] (776,478)<font  />
+		[263] (776,478)<font >폴리마켓 />
+[264] (858,478)<a class='topic-tag topic-tag-link' href='/topics/truth-social' title='주제: 진실-사회' />
+	[265] (858,478)<font  />
+		[266] (858,478)<font >진실-사회적 />
+자원
+[267] (789,523)<a class='Link--muted' href='#readme-ov-file' />
+	[268] (802,523)<font  />
+		[269] (802,523)<font >읽어보세요 />
+특허
+[270] (797,554)<a class='Link--muted' href='#MIT-1-ov-file' />
+	[271] (809,554)<font  />
+		[272] (809,554)<font >MIT 라이선스 />
+기여하기
+[273] (783,585)<a class='Link--muted' href='#contributing-ov-file' />
+	[274] (795,585)<font  />
+		[275] (795,585)<font >기여하기 />
+[276] (769,615)<a class='Link Link--muted' href='/sstklen/trump-code/activity' />
+	[277] (784,615)<span  />
+		[278] (784,615)<font  />
+			[279] (784,615)<font >활동 />
+별들
+[280] (792,646)<a class='Link Link--muted' href='/sstklen/trump-code/stargazers' />
+	[281] (782,646)<strong  />
+		[282] (782,646)<font  />
+			[283] (782,646)<font >743 />
+	[284] (819,646)<font  />
+		[285] (819,646)<font >개의 별 />
+감시자들
+[286] (811,677)<a class='Link Link--muted' href='/sstklen/trump-code/watchers' />
+	[287] (788,677)<strong  />
+		[288] (788,677)<font  />
+			[289] (788,677)<font >4명이 />
+	[290] (843,677)<font  />
+		[291] (843,677)<font >보고 있어요 />
+포크스
+[292] (791,707)<a class='Link Link--muted' href='/sstklen/trump-code/forks' />
+	[293] (805,707)<font  />
+		[294] (786,707)<font >포크 />
+		[295] (821,707)<strong  />
+			[296] (821,707)<font >102 개 />
+[297] (783,738)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsstklen%2Ftrump-code&report=sstklen+%28user%29' />
+	[298] (783,738)<font  />
+		[299] (783,738)<font >보고서 저장소 />
+[300] (777,796)<a class='Link--primary no-underline Link' href='/sstklen/trump-code/releases' />
+	[301] (766,796)<font  />
+		[302] (766,796)<font >릴리스 />
+	[303] (802,798)<span  />
+		[304] (802,798)<font  />
+			[305] (802,798)<font >1 />
+[306] (858,847)<a class='Link--primary d-flex no-underline' href='/sstklen/trump-code/releases/tag/v2.8.0' />
+	[307] (871,847)<div  />
+		[308] (871,838)<div  />
+			[309] (848,838)<span  />
+				[310] (910,838)<font  />
+					[311] (910,838)<font >🐱 고양이 나무집 증정 이벤트 + 매일 업데이트 />
+			[312] (956,838)<span  />
+				[313] (956,837)<font  />
+					[314] (956,837)<font >최신 />
+		[315] (871,858)<div  />
+			[316] (795,858)<relative-time  />
+				[317] (795,858)<font  />
+					[318] (795,858)<font >3월 22일에 />
+[319] (858,915)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/sstklen/packages?repo_name=trump-code' />
+	[320] (764,915)<font  />
+		[321] (764,915)<font >패키지 />
+게시된 패키지가 없습니다.
+기고자
+
+</current_dom>

@@ -1,0 +1,91 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Python
+Apache License 2.0
+업데이트됨
+2주 전
+[0] (379,88)<a href='/mikemolinet/agentlens' />
+	[1] (379,88)<font  />
+		[2] (379,88)<font >에이전트렌즈 />
+공공의
+[3] (396,118)<a class='Link--muted Link--inTextBlock' href='/sauravbhattacharya001/agentlens' />
+	[4] (396,118)<font >sauravbhattacharya001/agentlens />
+에서 포크됨
+AgentLens — AI 에이전트를 위한 관찰 가능성 및 설명 가능성 도구
+Python
+MIT 라이선스
+업데이트됨
+2주 전
+[5] (782,101)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[6] (789,101)<span  />
+		[7] (789,101)<font  />
+			[8] (789,101)<font >별 />
+[9] (808,101)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1213874472-unstarred-button' />
+[10] (364,258)<a href='/mikemolinet/silos' />
+	[11] (364,258)<font  />
+		[12] (364,258)<font >사일로 />
+공공의
+[13] (382,288)<a class='Link--muted Link--inTextBlock' href='/cheapestinference/silos' />
+	[14] (382,288)<font >cheapestinference/silos />
+에서 포크됨
+OpenClaw AI 에이전트를 위한 오픈 소스 웹 대시보드 — 공유 브라우저, Google 인증, 흐름, 작업, 에이전트, 채팅, 스킬, 채널 관리. 자체 호스팅 또는 관리형 서비스를 이용할 수 있습니다.
+TypeScript
+MIT 라이선스
+업데이트됨
+2주 전
+[15] (782,282)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[16] (789,282)<span  />
+		[17] (789,282)<font  />
+			[18] (789,282)<font >별 />
+[19] (808,282)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1212946701-unstarred-button' />
+[20] (395,472)<a href='/mikemolinet/opencode-llm-proxy' />
+	[21] (395,472)<font  />
+		[22] (395,472)<font >오픈코드-llm-프록시 />
+공공의
+[23] (388,502)<a class='Link--muted Link--inTextBlock' href='/KochC/opencode-llm-proxy' />
+	[24] (388,502)<font >KochC/opencode-llm-proxy />
+에서 포크됨
+OpenCode용 로컬 AI 게이트웨이 — OpenAI, Anthropic 또는 Gemini API를 통해 모든 모델을 사용하세요.
+JavaScript
+MIT 라이선스
+업데이트됨
+3주 전
+[25] (782,490)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[26] (789,490)<span  />
+		[27] (789,490)<font  />
+			[28] (789,490)<font >별 />
+[29] (808,490)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1211916654-unstarred-button' />
+[30] (369,665)<a href='/mikemolinet/SynapseKit' />
+	[31] (369,665)<font  />
+		[32] (369,665)<font >시냅스킷 />
+공공의
+[33] (381,694)<a class='Link--muted Link--inTextBlock' href='/SynapseKit/SynapseKit' />
+	[34] (381,694)<font >SynapseKit/SynapseKit />
+에서 포크됨
+최소한의 비동기 우선 방식으로 작동하는 프로덕션 LLM 앱을 위한 Python 프레임워크 — 필수 의존성 2개, 복잡한 기능이나 SaaS 방식이 아닙니다. RAG · 에이전트 · 그래프 · 30개의 프로바이더 · 46개의 툴 · 33개의 로더 · 9개의 벡터 스토어를 제공합니다.
+Python
+Apache License 2.0
+업데이트됨
+3주 전
+[35] (782,694)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[36] (789,694)<span  />
+		[37] (789,694)<font  />
+			[38] (789,694)<font >별 />
+[39] (808,694)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1210915647-unstarred-button' />
+[40] (366,901)<a href='/mikemolinet/EnvCP' />
+	[41] (366,901)<font  />
+		[42] (366,901)<font >환경CP />
+공공의
+[43] (370,931)<a class='Link--muted Link--inTextBlock' href='/fentz26/EnvCP' />
+	[44] (370,931)<font >fentz26/EnvCP />
+에서 포크됨
+AI 기반 코딩을 위한 안전한 환경 변수 관리. AI가 비밀 값을 직접 보지 않고도 참조할 수 있도록 하는 MCP 서버.
+[45] (782,919)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[46] (789,919)<span  />
+		[47] (789,919)<font  />
+			[48] (789,919)<font >별 />
+[49] (808,919)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1208927503-unstarred-button' />
+
+</current_dom>

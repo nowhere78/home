@@ -1,0 +1,124 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='./' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+하부 구조
+[41] (219,285)<a class='md-nav__link md-nav__link--active' href='./' />
+	[42] (203,285)<span  />
+		[43] (203,284)<font  />
+			[44] (203,284)<font >LLM 응용 프레임워크 />
+[45] (223,347)<a class='md-nav__link' href='#core-orchestration-frameworks' />
+	[46] (224,347)<span  />
+		[47] (219,346)<font  />
+			[48] (219,346)<font >핵심 오케스트레이션 프레임워크 />
+[49] (223,427)<a class='md-nav__link' href='#llm-platforms-developer-tools' />
+	[50] (224,427)<span  />
+		[51] (223,426)<font  />
+			[52] (223,426)<font >LLM 플랫폼 및 개발자 도구 />
+[53] (223,507)<a class='md-nav__link' href='#structured-output-prompt-engineering-tools' />
+	[54] (224,507)<span  />
+		[55] (220,506)<font  />
+			[56] (220,506)<font >구조화된 출력 및 프롬프트 엔지니어링 도구 />
+[57] (223,573)<a class='md-nav__link' href='#llm-observability-evaluation' />
+	[58] (223,573)<span  />
+		[59] (223,572)<font  />
+			[60] (223,572)<font >LLM 관찰 가능성 및 평가 />
+[61] (219,640)<a class='md-nav__link' href='../rag-vector-db/' />
+	[62] (211,640)<span  />
+		[63] (211,639)<font  />
+			[64] (211,639)<font >RAG 및 벡터 데이터베이스 />
+[65] (219,680)<a class='md-nav__link' href='../data-infra/' />
+	[66] (219,680)<span  />
+		[67] (219,679)<font  />
+			[68] (219,679)<font >대규모 AI를 위한 데이터 인프라 />
+[69] (219,720)<a class='md-nav__link' href='../fine-tuning/' />
+	[70] (200,720)<span  />
+		[71] (200,720)<font  />
+			[72] (200,720)<font >LLM 미세 조정 기법 />
+[73] (219,760)<a class='md-nav__link' href='../deployment/' />
+	[74] (208,760)<span  />
+		[75] (208,760)<font  />
+			[76] (208,760)<font >LLM 배포 및 서비스 제공 />
+[77] (219,801)<a class='md-nav__link' href='../distributed-training/' />
+	[78] (205,801)<span  />
+		[79] (205,800)<font  />
+			[80] (205,800)<font >분산형 교육 프레임워크 />
+[81] (219,841)<a class='md-nav__link' href='../compute-hardware/' />
+	[82] (211,841)<span  />
+		[83] (211,840)<font  />
+			[84] (211,840)<font >컴퓨팅, 하드웨어 및 양자화 />
+[85] (219,881)<a class='md-nav__link' href='../prompt-engineering/' />
+	[86] (200,881)<span  />
+		[87] (200,880)<font  />
+			[88] (200,880)<font >프롬프트 엔지니어링 />
+LLM 응용 프레임워크
+[89] (618,331)<a class='headerlink' href='#llm-application-frameworks' title='영구 링크' />
+	[90] (618,330)<font  />
+		[91] (618,330)<font  />
+LLM(Long-Term Management) 애플리케이션을 구축하기 위한 개발자 툴킷입니다. 오케스트레이션 체인부터 관찰 플랫폼에 이르기까지, 이러한 프레임워크는 오늘날 출시되는 모든 AI 제품의 핵심 기반입니다.
+[92] (363,661)<a class='glightbox' href='https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=flat-square' />
+	[93] (363,658)<img  />
+[94] (434,661)<a class='glightbox' href='https://img.shields.io/badge/LlamaIndex-RAG-purple?style=flat-square' />
+	[95] (434,658)<img  />
+[96] (512,661)<a class='glightbox' href='https://img.shields.io/badge/Observability-Tracing_&_Evals-blue?style=flat-square' />
+	[97] (512,658)<img  />
+[98] (605,661)<a class='glightbox' href='https://img.shields.io/badge/Structured_Output-Pydantic-green?style=flat-square' />
+	[99] (605,658)<img  />
+핵심 오케스트레이션 프레임워크
+[100] (608,756)<a class='headerlink' href='#core-orchestration-frameworks' title='영구 링크' />
+	[101] (608,755)<font  />
+		[102] (608,755)<font  />
+이름
+설명
+모래밭
+[103] (358,948)<a href='https://github.com/langchain-ai/langchain' />
+	[104] (358,948)<font  />
+		[105] (358,948)<font >랭체인 />
+에이전트 엔지니어링 플랫폼. 체이닝, 도구, 메모리 및 검색 기능을 갖춘 LLM 기반 애플리케이션 개발 프레임워크. 13만 3천 개 이상의 별점.
+[106] (748,962)<a href='https://python.langchain.com/docs/' />
+	[107] (748,961)<font  />
+		[108] (748,961)<font >문서 />
+
+</current_dom>

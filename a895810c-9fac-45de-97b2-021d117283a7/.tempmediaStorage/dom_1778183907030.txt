@@ -1,0 +1,261 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (258,29)<a class='js-selected-navigation-item d-inline-block subnav-primary f5 py-0 tmp-py-md-3 mt-2 mt-md-0 mr-0 tmp-mr-md-4 no-underline subnav-link' href='/explore' />
+	[1] (258,28)<font  />
+		[2] (258,28)<font >탐구하다 />
+[3] (291,29)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/topics' />
+	[4] (291,28)<font  />
+		[5] (291,28)<font >주제 />
+[6] (328,29)<a class='js-selected-navigation-item selected d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/trending' />
+	[7] (328,28)<font  />
+		[8] (328,28)<font >인기 급상승 />
+[9] (368,29)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/collections' />
+	[10] (368,28)<font  />
+		[11] (368,28)<font >컬렉션 />
+[12] (401,29)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/events' />
+	[13] (401,28)<font  />
+		[14] (401,28)<font >이벤트 />
+[15] (446,29)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/sponsors/explore' />
+	[16] (446,28)<font  />
+		[17] (446,28)<font >GitHub 스폰서 />
+별
+z-lab /
+dflash
+DFlash: 플래시 추측 디코딩을 위한 블록 확산
+파이썬
+[18] (301,108)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/z-lab/dflash/stargazers' />
+	[19] (306,108)<font  />
+		[20] (306,108)<font >3,424 />
+[21] (334,108)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/z-lab/dflash/forks' />
+	[22] (338,108)<font  />
+		[23] (338,108)<font >242 />
+제작:
+[24] (374,110)<a class='d-inline-block' href='/jianc99' />
+	[25] (374,108)<img  />
+[26] (386,110)<a class='d-inline-block' href='/shaun0927' />
+	[27] (386,108)<img  />
+[28] (398,110)<a class='d-inline-block' href='/zhijian-liu' />
+	[29] (398,108)<img  />
+[30] (410,110)<a class='d-inline-block' href='/xiziqiao' />
+	[31] (410,108)<img  />
+오늘 별 654개
+[32] (672,171)<a aria-label='스폰서 @InsForge' class='Button--secondary Button--small Button mr-2 tmp-mr-2' href='/sponsors/InsForge' />
+	[33] (672,171)<span  />
+		[34] (672,171)<span  />
+			[35] (678,170)<span  />
+				[36] (678,170)<font  />
+					[37] (678,172)<font >스폰서 />
+[38] (712,171)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[39] (720,171)<span  />
+		[40] (720,171)<font  />
+			[41] (720,171)<font >별 />
+[42] (738,171)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1028159967-unstarred-button' />
+[43] (304,170)<a class='Link' href='/InsForge/InsForge' />
+	[44] (291,170)<span  />
+		[45] (291,170)<font  />
+			[46] (291,170)<font >인스포지 / />
+	[47] (334,170)<font  />
+		[48] (334,170)<font >인스포지 />
+InsForge는 PostgreSQL 기반 백엔드로, 인증, 스토리지, 컴퓨팅, 호스팅 및 AI 게이트웨이 기능을 제공합니다. 코딩 에이전트를 위해 설계되었습니다.
+타입스크립트
+[49] (319,252)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/InsForge/InsForge/stargazers' />
+	[50] (323,252)<font  />
+		[51] (323,252)<font >8,786 />
+[52] (351,252)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/InsForge/InsForge/forks' />
+	[53] (355,252)<font  />
+		[54] (355,252)<font >727 />
+제작:
+[55] (391,254)<a class='d-inline-block' href='/Fermionic-Lyu' />
+	[56] (391,252)<img  />
+[57] (403,254)<a class='d-inline-block' href='/tonychang04' />
+	[58] (403,252)<img  />
+[59] (415,254)<a class='d-inline-block' href='/Leo-rq-yu' />
+	[60] (415,252)<img  />
+[61] (427,254)<a class='d-inline-block' href='/jwfing' />
+	[62] (427,252)<img  />
+[63] (440,254)<a class='d-inline-block' href='/claude' />
+	[64] (440,252)<img  />
+오늘 별 459개
+[65] (672,315)<a aria-label='스폰서 @LearningCircuit' class='Button--secondary Button--small Button mr-2 tmp-mr-2' href='/sponsors/LearningCircuit' />
+	[66] (672,315)<span  />
+		[67] (672,315)<span  />
+			[68] (678,314)<span  />
+				[69] (678,314)<font  />
+					[70] (678,316)<font >스폰서 />
+[71] (712,315)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[72] (720,315)<span  />
+		[73] (720,315)<font  />
+			[74] (720,315)<font >별 />
+[75] (738,315)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-929868765-unstarred-button' />
+[76] (317,314)<a class='Link' href='/LearningCircuit/local-deep-research' />
+	[77] (291,314)<span  />
+		[78] (291,314)<font  />
+			[79] (291,314)<font >러닝서킷 / />
+	[80] (348,314)<font  />
+		[81] (348,314)<font >로컬-딥-리서치 />
+SimpleQA에서 약 95%의 성능을 보여줍니다(예: 3090에서 Qwen3.6-27B). 모든 로컬 및 클라우드 기반 언어 관리 도구(llama.cpp, Ollama, Google 등)를 지원합니다. arXiv, PubMed, 개인 문서 등 10개 이상의 검색 엔진을 제공합니다. 모든 데이터는 로컬에 저장되고 암호화됩니다.
+파이썬
+[82] (301,418)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/LearningCircuit/local-deep-research/stargazers' />
+	[83] (306,418)<font  />
+		[84] (306,418)<font >6,160 />
+[85] (334,418)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/LearningCircuit/local-deep-research/forks' />
+	[86] (338,418)<font  />
+		[87] (338,418)<font >544 />
+제작:
+[88] (374,420)<a class='d-inline-block' href='/LearningCircuit' />
+	[89] (374,418)<img  />
+[90] (386,420)<a class='d-inline-block' href='/apps/github-actions' />
+	[91] (386,418)<img  />
+[92] (398,420)<a class='d-inline-block' href='/djpetti' />
+	[93] (398,418)<img  />
+[94] (410,420)<a class='d-inline-block' href='/apps/dependabot' />
+	[95] (410,418)<img  />
+[96] (422,420)<a class='d-inline-block' href='/HashedViking' />
+	[97] (422,418)<img  />
+오늘 별 564개
+[98] (712,481)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[99] (720,481)<span  />
+		[100] (720,481)<font  />
+			[101] (720,481)<font >별 />
+[102] (738,481)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1158722119-unstarred-button' />
+[103] (323,480)<a class='Link' href='/addyosmani/agent-skills' />
+	[104] (300,480)<span  />
+		[105] (300,480)<font  />
+			[106] (300,480)<font >addyosmani / />
+	[107] (363,480)<font  />
+		[108] (363,480)<font >에이전트 스킬 />
+AI 코딩 에이전트를 위한 실무 수준의 엔지니어링 기술.
+껍데기
+[109] (303,540)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/addyosmani/agent-skills/stargazers' />
+	[110] (307,540)<font  />
+		[111] (307,540)<font >32,719 />
+[112] (340,540)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/addyosmani/agent-skills/forks' />
+	[113] (344,540)<font  />
+		[114] (344,540)<font >3,790 />
+제작:
+[115] (382,542)<a class='d-inline-block' href='/addyosmani' />
+	[116] (382,540)<img  />
+[117] (394,542)<a class='d-inline-block' href='/federicobartoli' />
+	[118] (394,540)<img  />
+[119] (406,542)<a class='d-inline-block' href='/nucliweb' />
+	[120] (406,540)<img  />
+[121] (418,542)<a class='d-inline-block' href='/dj2313' />
+	[122] (418,540)<img  />
+[123] (430,542)<a class='d-inline-block' href='/claude' />
+	[124] (430,540)<img  />
+오늘 별 3,058개
+[125] (672,603)<a aria-label='@VectifyAI 후원' class='Button--secondary Button--small Button mr-2 tmp-mr-2' href='/sponsors/VectifyAI' />
+	[126] (672,603)<span  />
+		[127] (672,603)<span  />
+			[128] (678,602)<span  />
+				[129] (678,602)<font  />
+					[130] (678,604)<font >스폰서 />
+[131] (712,603)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[132] (720,603)<span  />
+		[133] (720,603)<font  />
+			[134] (720,603)<font >별 />
+[135] (738,603)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-958531089-unstarred-button' />
+[136] (314,602)<a class='Link' href='/VectifyAI/PageIndex' />
+	[137] (292,602)<span  />
+		[138] (292,602)<font  />
+			[139] (292,602)<font >VectifyAI / />
+	[140] (345,602)<font  />
+		[141] (345,602)<font >페이지인덱스 />
+📑 PageIndex: 벡터를 사용하지 않는 추론 기반 RAG를 위한 문서 색인
+파이썬
+[142] (303,661)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/VectifyAI/PageIndex/stargazers' />
+	[143] (307,661)<font  />
+		[144] (307,661)<font >29,445 />
+[145] (340,661)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/VectifyAI/PageIndex/forks' />
+	[146] (344,661)<font  />
+		[147] (344,661)<font >2,485 />
+제작:
+[148] (382,663)<a class='d-inline-block' href='/rejojer' />
+	[149] (382,661)<img  />
+[150] (394,663)<a class='d-inline-block' href='/zmtomorrow' />
+	[151] (394,661)<img  />
+[152] (406,663)<a class='d-inline-block' href='/BukeLy' />
+	[153] (406,661)<img  />
+[154] (418,663)<a class='d-inline-block' href='/KylinMountain' />
+	[155] (418,661)<img  />
+[156] (430,663)<a class='d-inline-block' href='/luojiyin1987' />
+	[157] (430,661)<img  />
+오늘 953개의 별
+[158] (712,725)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[159] (720,725)<span  />
+		[160] (720,725)<font  />
+			[161] (720,725)<font >별 />
+[162] (738,725)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1123338559-unstarred-button' />
+[163] (318,723)<a class='Link' href='/vercel-labs/open-agents' />
+	[164] (296,723)<span  />
+		[165] (296,723)<font  />
+			[166] (296,723)<font >베르셀랩스 / />
+	[167] (353,723)<font  />
+		[168] (353,723)<font >오픈에이전트 />
+클라우드 에이전트 구축을 위한 오픈 소스 템플릿입니다.
+타입스크립트
+[169] (319,783)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/vercel-labs/open-agents/stargazers' />
+	[170] (323,783)<font  />
+		[171] (323,783)<font >4,991 />
+[172] (351,783)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/vercel-labs/open-agents/forks' />
+	[173] (355,783)<font  />
+		[174] (355,783)<font >631 />
+제작:
+[175] (391,785)<a class='d-inline-block' href='/nicoalbanese' />
+	[176] (391,783)<img  />
+[177] (403,785)<a class='d-inline-block' href='/willsather' />
+	[178] (403,783)<img  />
+[179] (415,785)<a class='d-inline-block' href='/yavorpunchev' />
+	[180] (415,783)<img  />
+[181] (427,785)<a class='d-inline-block' href='/claude' />
+	[182] (427,783)<img  />
+[183] (440,785)<a class='d-inline-block' href='/pranaygp' />
+	[184] (440,783)<img  />
+오늘 별 160개
+[185] (712,847)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[186] (720,847)<span  />
+		[187] (720,847)<font  />
+			[188] (720,847)<font >별 />
+[189] (738,847)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-661850205-unstarred-button' />
+[190] (299,845)<a class='Link' href='/docusealco/docuseal' />
+	[191] (291,845)<span  />
+		[192] (291,845)<font  />
+			[193] (291,845)<font >도큐씰코 / />
+	[194] (329,845)<font  />
+		[195] (329,845)<font >도큐씰 />
+오픈 소스 DocuSign 대체 도구입니다. 디지털 문서를 생성, 작성 및 서명하세요 ✍️
+루비
+[196] (297,905)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/docusealco/docuseal/stargazers' />
+	[197] (301,905)<font  />
+		[198] (301,905)<font >15,497 />
+[199] (334,905)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/docusealco/docuseal/forks' />
+	[200] (338,905)<font  />
+		[201] (338,905)<font >1,402 />
+제작:
+[202] (376,907)<a class='d-inline-block' href='/omohokcoj' />
+	[203] (376,905)<img  />
+[204] (388,907)<a class='d-inline-block' href='/AlexBTurchyn' />
+	[205] (388,905)<img  />
+[206] (400,907)<a class='d-inline-block' href='/apps/dependabot' />
+	[207] (400,905)<img  />
+[208] (413,907)<a class='d-inline-block' href='/jbenguira' />
+	[209] (413,905)<img  />
+[210] (425,907)<a class='d-inline-block' href='/imchairmanm' />
+	[211] (425,905)<img  />
+오늘 별 899개
+[212] (712,968)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[213] (720,968)<span  />
+		[214] (720,968)<font  />
+			[215] (720,968)<font >별 />
+[216] (738,968)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1128025899-unstarred-button' />
+[217] (302,967)<a class='Link' href='/decolua/9router' />
+	[218] (291,967)<span  />
+		[219] (291,967)<font  />
+			[220] (291,967)<font >데콜루아 / />
+	[221] (332,967)<font  />
+		[222] (332,967)<font >9라우터 />
+🆓 무제한 무료 AI 코딩. Claude Code, Codex, Cursor, Cline, Copilot, Antigravity를 40개 이상의 제공업체를 통해 무료 Claude/GPT/Gemini에 연결하세요. 자동 폴백, RTK 토큰 40% 할인, 사용 한도 초과 걱정 없음.
+
+</current_dom>

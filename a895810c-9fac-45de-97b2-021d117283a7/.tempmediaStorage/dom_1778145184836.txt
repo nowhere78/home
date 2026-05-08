@@ -1,0 +1,120 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../../infrastructure/llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='./' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+안전 및 거버넌스
+[41] (219,285)<a class='md-nav__link md-nav__link--active' href='./' />
+	[42] (205,285)<span  />
+		[43] (205,284)<font  />
+			[44] (205,284)<font >안전, 정렬 및 거버넌스 />
+[45] (223,333)<a class='md-nav__link' href='#safety-and-alignment' />
+	[46] (195,333)<span  />
+		[47] (195,332)<font  />
+			[48] (195,332)<font >안전 및 정렬 />
+[49] (223,399)<a class='md-nav__link' href='#scalable-oversight-automated-alignment' />
+	[50] (224,399)<span  />
+		[51] (222,399)<font  />
+			[52] (222,399)<font >확장 가능한 감독 및 자동화된 정렬 />
+[53] (223,466)<a class='md-nav__link' href='#mechanistic-interpretability' />
+	[54] (214,466)<span  />
+		[55] (214,465)<font  />
+			[56] (214,465)<font >기계론적 해석 가능성 />
+[57] (223,518)<a class='md-nav__link' href='#ai-generated-text-detection' />
+	[58] (211,518)<span  />
+		[59] (211,517)<font  />
+			[60] (211,517)<font >AI 생성 텍스트 감지 />
+[61] (223,585)<a class='md-nav__link' href='#ai-governance-planetary-scale-challenges' />
+	[62] (224,585)<span  />
+		[63] (219,584)<font  />
+			[64] (219,584)<font >인공지능 거버넌스와 지구적 규모의 과제 />
+[65] (223,651)<a class='md-nav__link' href='#critical-infrastructure-threats' />
+	[66] (211,651)<span  />
+		[67] (211,650)<font  />
+			[68] (211,650)<font >핵심 기반 시설 위협 />
+[69] (223,703)<a class='md-nav__link' href='#ai-specific-security-threats' />
+	[70] (206,703)<span  />
+		[71] (206,703)<font  />
+			[72] (206,703)<font >AI 관련 보안 위협 />
+[73] (223,756)<a class='md-nav__link' href='#agent-safety-control' />
+	[74] (206,756)<span  />
+		[75] (206,755)<font  />
+			[76] (206,755)<font >요원 안전 및 통제 />
+[77] (223,809)<a class='md-nav__link' href='#infrastructure-security' />
+	[78] (194,809)<span  />
+		[79] (194,808)<font  />
+			[80] (194,808)<font >인프라 보안 />
+안전, 정렬 및 거버넌스
+[81] (628,331)<a class='headerlink' href='#safety-alignment-and-governance' title='영구 링크' />
+	[82] (628,330)<font  />
+		[83] (628,330)<font  />
+가장 중요한 부분입니다. 인공지능 시스템이 더욱 발전함에 따라, 인공지능이 안전하고 인간의 가치에 부합하며 의미 있는 통제 하에 있도록 보장하는 것이 가장 중요한 과제입니다.
+[84] (358,619)<a class='glightbox' href='https://img.shields.io/badge/Alignment-RLHF_DPO-red?style=flat-square' />
+	[85] (358,616)<img  />
+[86] (429,619)<a class='glightbox' href='https://img.shields.io/badge/Safety-Red_Teaming-orange?style=flat-square' />
+	[87] (429,616)<img  />
+[88] (509,619)<a class='glightbox' href='https://img.shields.io/badge/Governance-Policy_&_Ethics-blue?style=flat-square' />
+	[89] (509,616)<img  />
+[90] (599,619)<a class='glightbox' href='https://img.shields.io/badge/Interpretability-Mechanistic-purple?style=flat-square' />
+	[91] (599,616)<img  />
+[92] (675,619)<a class='glightbox' href='https://img.shields.io/badge/Detection-AI_Text-green?style=flat-square' />
+	[93] (675,616)<img  />
+안전 및 정렬
+[94] (444,714)<a class='headerlink' href='#safety-and-alignment' title='영구 링크' />
+	[95] (444,713)<font  />
+		[96] (444,713)<font  />
+주제
+설명
+모래밭
+LLM 환각 설문조사
+LLM 환자의 환각을 감지, 설명 및 완화하는 방법에 대한 종합적인 조사.
+[97] (742,920)<a href='https://arxiv.org/abs/2309.06794v1' />
+	[98] (742,920)<font  />
+		[99] (742,920)<font >종이 />
+,
+[100] (742,973)<a href='https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs' />
+	[101] (742,972)<font  />
+		[102] (742,972)<font >암호 />
+
+</current_dom>

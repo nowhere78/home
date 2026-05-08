@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (340,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (347,25)<span  />
+		[13] (347,25)<font  />
+			[14] (347,25)<font >MIT 라이선스 />
+[15] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[16] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+로드맵
+[17] (193,67)<a aria-label='고유 링크: 로드맵' class='anchor' href='#roadmap' id='user-content-roadmap' />
+완전한
+[18] (193,131)<a aria-label='고유 링크: 완료됨' class='anchor' href='#completed' id='user-content-completed' />
+드래그 앤 드롭 기능을 갖춘 멀티 트랙 타임라인
+GPU 가속을 이용한 실시간 비디오 미리보기
+완벽한 편집 기능 (자르기, 다듬기, 분할, 전환 효과)
+20개 이상의 애니메이션이 포함된 텍스트 편집기
+그래픽(도형, SVG, 스티커, 배경)
+효과 및 비트 감지 기능을 갖춘 오디오 믹싱
+LUT 지원을 통한 색 보정
+키프레임 애니메이션 시스템
+MP4/WebM 형식으로 내보내기 (4K 지원)
+화면 녹화
+AI 업스케일링
+실행 취소/다시 실행 및 자동 저장
+진행 중
+[19] (193,551)<a aria-label='고유 링크: 진행 중' class='anchor' href='#in-progress' id='user-content-in-progress' />
+중첩된 시퀀스(타임라인 안의 타임라인)
+동작 추적
+추가 내보내기 형식(ProRes, GIF)
+플러그인 시스템
+계획된
+[20] (193,734)<a aria-label='고유 링크: 계획됨' class='anchor' href='#planned' id='user-content-planned' />
+조정 레이어
+고급 마스킹
+오디오 스펙트럼 편집
+협업 편집
+모바일 최적화
+특허
+[21] (193,979)<a aria-label='영구 링크: 라이선스' class='anchor' href='#license' id='user-content-license' />
+
+</current_dom>

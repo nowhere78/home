@@ -1,0 +1,7 @@
+# Upbit Trinity-Fusion Scalper (V7) 개발 Task List
+
+- `[x]` 변동성 돌파(Volatility Breakout) 로직 엔진 추가
+- `[x]` 실시간 뉴스/커뮤니티 감성 분석 모듈(`news_sentiment_gate.py`) 생성
+- `[x]` 메인 봇 엔진 업그레이드: 지표 융합 (Breakout + RSI + AI Gate)
+- `[x]` 켈리 공식 2.0: AI 확신도 기반 동적 비중 조절 시스템 통합
+- `[x]` 실전 가동 및 디버깅

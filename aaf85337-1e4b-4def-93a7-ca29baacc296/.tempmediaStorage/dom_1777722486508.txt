@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (372,37)<a class='impression-logged' href='/np/campaigns/82?adType=DA&eventId=GN4U7zUv8WXh5Tww' />
+	[1] (372,37)<img  />
+[2] (628,37)<a class='impression-logged' href='https://shop.coupang.com/A00067881/243826?source=brandstore_display_ads&adType=DA&eventId=OFRZ193uTpFSUv71' />
+	[3] (628,37)<img  />
+[4] (746,93)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[5] (716,93)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[6] (688,93)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[7] (664,93)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252F' title='로그인'>로그인 />
+[8] (254,93)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[9] (285,93)<a class='dropdown_menu_flag'>입점신청 />
+	[10] (297,96)<i  />
+[11] (262,172)<div  />
+	[12] (262,157)<div  />
+		[13] (262,147)<div  />
+		[14] (262,157)<div  />
+		[15] (262,167)<div  />
+	[16] (262,195)<div >카테고리 />
+[17] (346,161)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[18] (346,161)<img  />
+[19] (435,161)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_37184947'>전체 />
+[20] (562,162)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 ad-keyword is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[21] (659,161)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[22] (675,161)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[23] (675,161)<img  />
+[24] (712,161)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[25] (712,153)<img  />
+	[26] (712,185)<div >마이쿠팡 />
+[27] (747,161)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[28] (747,153)<img  />
+	[29] (756,137)<em >0 />
+	[30] (747,185)<div >장바구니 />
+[31] (299,218)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[32] (328,218)<a href='https://www.coupangplay.com/catalog' />
+	[33] (313,218)<img  />
+	[34] (334,218)<span >쿠팡플레이 />
+[35] (376,218)<a href='https://www.coupang.com/np/campaigns/82' />
+	[36] (364,218)<img  />
+	[37] (382,218)<span >로켓배송 />
+[38] (424,218)<a href='https://www.coupang.com/np/categories/393760' />
+	[39] (410,218)<img  />
+	[40] (430,218)<span >로켓프레시 />
+[41] (477,218)<a href='https://pages.coupang.com/p/168131' />
+	[42] (461,218)<img  />
+	[43] (479,218)<span >가정의 달 />
+	[44] (496,217)<i  />
+[45] (532,218)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[46] (515,218)<img  />
+	[47] (534,218)<span >다시 구매 />
+	[48] (550,217)<i  />
+[49] (582,218)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[50] (570,218)<img  />
+	[51] (587,218)<span >쿠팡비즈 />
+[52] (627,218)<a href='https://www.coupang.com/np/coupangglobal' />
+	[53] (615,218)<img  />
+	[54] (633,218)<span >로켓직구 />
+[55] (672,218)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[56] (660,218)<img  />
+	[57] (678,218)<span >골드박스 />
+[58] (721,218)<a href='https://pages.coupang.com/p/136938' />
+	[59] (706,218)<img  />
+	[60] (726,218)<span >이달의신상 />
+판매자특가
+와우회원할인
+이벤트/쿠폰
+반품마켓
+착한상점
+[61] (756,218)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[62] (756,218)<span  />
+[63] (804,822)<a class='banner-link' href='https://shop.coupang.com/A00077176/245005?source=brandstore_display_ads&adType=DA&eventId=yszPckc29uxslMPk' />
+	[64] (804,822)<img  />
+[65] (804,992)<a class='banner-link' href='https://shop.coupang.com/maeil/262113?source=brandstore_display_ads&adType=DA&eventId=24HkuVCvOLkSFWPl' />
+	[66] (804,992)<img  />
+[67] (500,473)<a class='today-image impression-logged' href='https://shop.coupang.com/nongshim/518452?source=brandstore_display_ads&adType=DA&eventId=2Sw18nxBMAEX0i93&from=home_C1&traid=home_C1&trcid=11715707' />
+[68] (714,314)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2Fmc.coupang.com%2Fssr&from=home_C1&traid=home_C1&trcid=812431125409' />
+	[69] (714,314)<span  />
+[70] (714,378)<a href='https://shop.coupang.com/pgkr/519292?source=brandstore_display_ads&adType=DA&eventId=PFASg0Y5eQmQLX7L&from=home_C1&traid=home_C1&trcid=11715756' />
+	[71] (714,378)<span  />
+[72] (714,441)<a href='https://shop.coupang.com/nongshim/518452?source=brandstore_display_ads&adType=DA&eventId=2Sw18nxBMAEX0i93&from=home_C1&traid=home_C1&trcid=11715707' />
+	[73] (714,441)<span  />
+[74] (714,505)<a href='https://pages.coupang.com/p/168131?subSourceType=gm_crm_gwc1mainbnr_p3170_b1005102_c551517&sourceType=gm_crm_oms&from=home_C1&traid=home_C1&trcid=812431131058' />
+	[75] (714,505)<span  />
+[76] (714,568)<a href='https://www.coupang.com/mlp/web/mlp-landing-page?landingId=3653&subSourceType=gm_crm_gwc1mainbnr_p1869_b1005090_c551498&sourceType=gm_crm_mlp&from=home_C1&traid=home_C1&trcid=812431131022' />
+	[77] (714,568)<span  />
+[78] (714,632)<a href='https://shop.coupang.com/A00067881/243826?source=brandstore_display_ads&adType=DA&eventId=MlN7GsZc9nEqC9Tn&from=home_C1&traid=home_C1&trcid=11714347' />
+	[79] (714,632)<span  />
+오늘의 발견
+오늘 쿠팡이 엄선한 가장 HOT한 상품!
+[80] (369,986)<a class='impression-logged view-logged' href='https://shop.coupang.com/A00501522/41501?source=brandstore_display_ads&adType=DA&eventId=jPcqqHE6lLH7ROQd&from=home_C2&traid=home_C2&trcid=11715706' />
+	[81] (369,986)<span  />
+[82] (629,986)<a class='impression-logged view-logged' href='https://shop.coupang.com/A00077176/241914?source=brandstore_display_ads&adType=DA&eventId=16F3rNt2Z8U29zEW&from=home_C2&traid=home_C2&trcid=11714007' />
+	[83] (629,986)<span  />
+
+</current_dom>

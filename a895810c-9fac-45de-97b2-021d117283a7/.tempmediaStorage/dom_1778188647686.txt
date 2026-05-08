@@ -1,0 +1,155 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+✨ goose has moved to the Agentic AI Foundation (AAIF):
+[0] (585,15)<a href='/blog/2026/04/07/goose-moves-to-aaif'>Learn more />
+! ✨
+[1] (987,15)<button aria-label='닫다' class='clean-btn close closeButton_CVFx announcementBarClose_gvF7' />
+[2] (17,63)<a class='navbar__brand' href='/' />
+	[3] (17,63)<div  />
+		[4] (17,63)<img  />
+[5] (47,63)<a class='navbar__item navbar__link' href='/docs/quickstart' />
+	[6] (47,63)<font  />
+		[7] (47,62)<font >빠른 시작 />
+[8] (84,63)<a class='navbar__item navbar__link' href='/docs/category/guides' />
+	[9] (84,63)<font  />
+		[10] (84,62)<font >문서 />
+[11] (119,63)<a class='navbar__item navbar__link' href='/docs/category/tutorials' />
+	[12] (119,63)<font  />
+		[13] (119,62)<font >튜토리얼 />
+[14] (158,63)<a class='navbar__item navbar__link navbar__link--active' href='/docs/category/mcp-servers' />
+	[15] (158,63)<font  />
+		[16] (158,62)<font >MCPs />
+[17] (193,63)<a class='navbar__item navbar__link' href='/blog' />
+	[18] (193,63)<font  />
+		[19] (193,62)<font >블로그 />
+[20] (229,63)<a class='navbar__link' href='#' role='button' />
+	[21] (225,62)<font  />
+		[22] (225,62)<font >자원 />
+[23] (749,63)<a class='navbar__item navbar__link' href='https://discord.gg/goose-oss' />
+	[24] (743,63)<font  />
+		[25] (743,62)<font >불화 />
+[26] (792,63)<a class='navbar__item navbar__link' href='https://github.com/aaif-goose/goose' />
+	[27] (786,63)<font  />
+		[28] (786,62)<font >깃허브 />
+[29] (823,63)<button aria-label='다크 모드와 라이트 모드(현재는 시스템 모드) 간 전환' class='clean-btn toggleButton_gllP' title='시스템 모드' />
+[30] (920,63)<div  />
+	[31] (920,63)<button class='ikp-btn ikp-btn--colorPalette_gray ikp-btn--variant_ghost ikp-btn--size_md ikp-text_gray.800 dark:ikp-text_whiteAlpha.900 hover:ikp-bg_gray.100 hover:dark:ikp-bg_whiteAlpha.200 active:ikp-bg_gray.200 active:dark:ikp-bg_whiteAlpha.300 ikp-w_100% ikp-search-bar-trigger__container ikp-search-bar-trigger__container--size_shrink ikp-search-bar-trigger__container--variant_subtle' />
+		[32] (910,63)<div  />
+			[33] (860,63)<div  />
+			[34] (914,63)<span  />
+				[35] (914,62)<font  />
+					[36] (914,62)<font >무엇이든 검색해 보세요... />
+		[37] (975,63)<kbd  />
+			[38] (975,63)<div >K />
+				[39] (973,63)<span >Ctrl />
+[40] (78,548)<nav aria-label='문서 사이드바' class='menu thin-scrollbar menu_SIkG menuWithAnnouncementBar_GW3s' scrollable='true' />
+	[41] (78,121)<a class='menu__link' href='/docs/quickstart' />
+		[42] (27,121)<span  />
+			[43] (27,120)<font  />
+				[44] (27,120)<font >빠른 시작 />
+	[45] (66,159)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/getting-started' />
+		[46] (66,159)<span  />
+			[47] (26,158)<font  />
+				[48] (26,158)<font >시작하기 />
+	[49] (140,159)<button aria-label='사이드바 카테고리 '시작하기'를 펼치세요' class='clean-btn menu__caret' />
+	[50] (66,197)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/guides' />
+		[51] (66,197)<span  />
+			[52] (22,196)<font  />
+				[53] (22,196)<font >가이드 />
+	[54] (140,197)<button aria-label='사이드바 카테고리 '가이드'를 펼치세요' class='clean-btn menu__caret' />
+	[55] (66,235)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/tutorials' />
+		[56] (66,235)<span  />
+			[57] (26,234)<font  />
+				[58] (26,234)<font >튜토리얼 />
+	[59] (140,235)<button aria-label='사이드바 카테고리 '튜토리얼'을 펼치세요' class='clean-btn menu__caret' />
+	[60] (66,273)<a class='categoryLink_byQd menu__link menu__link--sublist menu__link--active' href='/docs/category/mcp-servers' />
+		[61] (66,273)<span  />
+			[62] (28,272)<font  />
+				[63] (28,272)<font >MCP 서버 />
+	[64] (140,273)<button aria-label='Collapse sidebar category 'MCP Servers'' class='clean-btn menu__caret' />
+	[65] (81,311)<a class='menu__link' href='/docs/mcp/agentql-mcp' />
+		[66] (53,311)<span >AgentQL Extension />
+	[67] (81,349)<a class='menu__link' href='/docs/mcp/alby-mcp' />
+		[68] (78,349)<span >Alby Bitcoin Payments Extension />
+	[69] (81,387)<a class='menu__link' href='/docs/mcp/apify-mcp' />
+		[70] (46,387)<span >Apify Extension />
+	[71] (81,425)<a class='menu__link' href='/docs/mcp/apps-mcp' />
+		[72] (46,425)<span >Apps Extension />
+	[73] (81,463)<a class='menu__link' href='/docs/mcp/asana-mcp' />
+		[74] (48,463)<span >Asana Extension />
+	[75] (81,502)<a class='menu__link' href='/docs/mcp/autovisualiser-mcp' />
+		[76] (64,502)<span >Auto Visualiser Extension />
+	[77] (81,540)<a class='menu__link' href='/docs/mcp/beads-mcp' />
+		[78] (48,540)<span >Beads Extension />
+	[79] (81,578)<a class='menu__link' href='/docs/mcp/blender-mcp' />
+		[80] (51,578)<span >Blender Extension />
+	[81] (81,616)<a class='menu__link' href='/docs/mcp/browserbase-mcp' />
+		[82] (60,616)<span >Browserbase Extension />
+	[83] (81,654)<a class='menu__link' href='/docs/mcp/cash-app-mcp' />
+		[84] (54,654)<span >Cash App Extension />
+	[85] (81,692)<a class='menu__link' href='/docs/mcp/chatrecall-mcp' />
+		[86] (57,692)<span >Chat Recall Extension />
+	[87] (81,730)<a class='menu__link' href='/docs/mcp/chrome-devtools-mcp' />
+		[88] (69,730)<span >Chrome DevTools Extension />
+	[89] (81,779)<a class='menu__link' href='/docs/mcp/cloudinary-asset-management-mcp' />
+		[90] (81,779)<span >Cloudinary Asset Management Extension />
+	[91] (81,828)<a class='menu__link' href='/docs/mcp/code-mode-mcp' />
+		[92] (57,828)<span >Code Mode Extension />
+	[93] (81,866)<a class='menu__link' href='/docs/mcp/cognee-mcp' />
+		[94] (50,866)<span >Cognee Extension />
+	Computer Controller Extension
+	Container Use Extension
+	Context7 Extension
+	[95] (66,905)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/architecture-overview' />
+		[96] (66,905)<span  />
+			[97] (27,905)<font  />
+				[98] (27,905)<font >건축 개요 />
+	[99] (140,905)<button aria-label='사이드바 카테고리 '아키텍처 개요'를 접으세요.' class='clean-btn menu__caret' />
+	[100] (81,943)<a class='menu__link' href='/docs/goose-architecture/' />
+		[101] (33,943)<span  />
+			[102] (33,943)<font  />
+				[103] (33,943)<font >거위 건축 />
+	[104] (81,981)<a class='menu__link' href='/docs/goose-architecture/extensions-design' />
+		[105] (37,981)<span  />
+			[106] (37,981)<font  />
+				[107] (37,981)<font >확장 디자인 />
+[108] (196,129)<a aria-label='Home page' class='breadcrumbs__link' href='/' />
+MCP Servers
+MCP Servers
+How to integrate and use MCP servers as goose extensions
+[109] (329,378)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/agentql-mcp' />
+	[110] (329,358)<h2 >📄️
+AgentQL Extension />
+	[111] (329,399)<p >Add AgentQL MCP Server as a goose Extension />
+[112] (631,378)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/alby-mcp' />
+	[113] (631,358)<h2 >📄️
+Alby Bitcoin Payments Extension />
+	[114] (631,399)<p >Connect goose to your Bitcoin Lightning Wallet />
+[115] (329,546)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/apify-mcp' />
+	[116] (329,527)<h2 >📄️
+Apify Extension />
+	[117] (329,567)<p >Add Apify MCP server as a goose Extension />
+[118] (631,546)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/apps-mcp' />
+	[119] (631,527)<h2 >📄️
+Apps Extension />
+	[120] (631,567)<p >Create, manage, and launch custom HTML apps in standalone windows />
+[121] (329,715)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/asana-mcp' />
+	[122] (329,695)<h2 >📄️
+Asana Extension />
+	[123] (329,736)<p >Add Asana MCP Server as a goose Extension />
+[124] (631,715)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/autovisualiser-mcp' />
+	[125] (631,695)<h2 >📄️
+Auto Visualiser Extension />
+	[126] (631,736)<p >Add automatic data visualization to goose />
+[127] (329,883)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/beads-mcp' />
+	[128] (329,863)<h2 >📄️
+Beads Extension />
+	[129] (329,904)<p >Add Beads MCP Server as a goose Extension />
+[130] (631,883)<a class='card padding--lg cardContainer_fWXF' href='/docs/mcp/blender-mcp' />
+	[131] (631,863)<h2 >📄️
+Blender Extension />
+	[132] (631,904)<p >Add Blender MCP Server as a goose Extension />
+
+</current_dom>

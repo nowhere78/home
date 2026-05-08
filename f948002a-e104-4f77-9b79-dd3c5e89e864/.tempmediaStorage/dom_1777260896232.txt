@@ -1,0 +1,211 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dtrending%2Bhome%2Bgadgets%2B2026%2Bkitchen%2Bideas%2Bshorts%2Bviral&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX5HLhbmX7-CllXxBGlALzwV9UHew40aYZ9DznOplRCs3YadHaEkqgdh9OIz243adKKAIrVzzwSm78uwm51hYVws_75xu1bHnj6j5N6eqJhp0ux2hhCKO42yzHRwmUUApZ9jRockG9eYPndD8IBZnW6RQlqGQ&q=trending+home+gadgets+2026+kitchen+ideas+shorts+viral&sa=X&ved=2ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >이미지 />
+[20] (174,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX5HLhbmX7-CllXxBGlALzwV9UHew40aYZ9DznOplRCs3YadHaEkqgdh9OIz243adKKAIrVzzwSm78uwm51hYVws_75xu1bHnj6j5N6eqJhp0ux2hhCKO42yzHRwmUUApZ9jRockG9eYPndD8IBZnW6RQlqGQ&q=trending+home+gadgets+2026+kitchen+ideas+shorts+viral&ved=1t:220175&ictx=111' />
+	[21] (174,121)<div  />
+		[22] (174,130)<span >쇼핑 />
+[23] (248,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX5HLhbmX7-CllXxBGlALzwV9UHew40aYZ9DznOplRCs3YadHaEkqgdh9OIz243adKKAIrVzzwSm78uwm51hYVws_75xu1bHnj6j5N6eqJhp0ux2hhCKO42yzHRwmUUApZ9jRockG9eYPndD8IBZnW6RQlqGQ&q=trending+home+gadgets+2026+kitchen+ideas+shorts+viral&sa=X&ved=2ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQs6gLegQIFBAB' />
+	[24] (248,121)<div  />
+		[25] (248,130)<span >짧은 동영상 />
+[26] (329,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX5HLhbmX7-CllXxBGlALzwV9UHew40aYZ9DznOplRCs3YadHaEkqgdh9OIz243adKKAIrVzzwSm78uwm51hYVws_75xu1bHnj6j5N6eqJhp0ux2hhCKO42yzHRwmUUApZ9jRockG9eYPndD8IBZnW6RQlqGQ&q=trending+home+gadgets+2026+kitchen+ideas+shorts+viral&sa=X&ved=2ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQtKgLegQIFRAB' />
+	[27] (329,121)<div  />
+		[28] (329,130)<span >동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&q=trending+home+gadgets+2026+kitchen+ideas+shorts+viral&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX5HLhbmX7-CllXxBGlALzwV9UHew40aYZ9DznOplRCs3YadHaEkqgdh9OIz243adKKAIrVzzwSm78uwm51hYVws_75xu1bHnj6j5N6eqJhp0ux2hhCKO42yzHRwmUUApZ9jRockG9eYPndD8IBZnW6RQlqGQ&sa=X&ved=2ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQ0pQJegQIExAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+Trending 2026 home gadgets focus on smart, space-saving, and automated kitchen tools designed for efficiency. Viral trends include
+AI-powered, predictive thermometers, dual-zone heating mats, and specialized tools like automatic chicken shredders and sleek digital measuring cups
+. These innovations maximize efficiency and reduce preparation time, perfect for compact, modern living.
+Instagram
++3
+Trending 2026 Kitchen Gadgets & Tech
+Smart Cooking & Appliances
+:
+The
+Combustion Inc. Predictive Thermometer
+and
+AI kitchen assistance
+lead, alongside
+Dual-Zone Heating Mats
+for consistent, multi-dish heating.
+Trending "Viral" Tools
+:
+Chicken Shredders
+,
+Precision Measuring Cups
+, and
+Mueller Vegetable Choppers
+.
+Efficiency & Storage
+:
+Rolling Can Organizers
+for pantries and
+Anyday Glass Food Storage
+that goes from freezer to microwave.
+Cleaning & Lighting
+:
+Under-cabinet rechargeable LED lights
+with motion sensors for improved visibility.
+Bakeware & Prep
+:
+Titanium cutting boards
+and
+reusable oven mitts
+.
+Instagram
++3
+Viral Kitchen Ideas (Shorts/TikTok Trends)
+Minimalist Pantry:
+Using aesthetic, organized containers to turn clutter into a design feature.
+Smart Upgrades:
+Replacing old tools with AI or USB-rechargeable devices.
+One-Appliance Meals:
+Air fryer toaster ovens are favored for quick, healthy meals.
+[43] (793,304)<a aria-label='Best Kitchen Gadgets and Home Products I'm Excited About in .... 새 탭에서 열립니다.' class='NDNGvf' href='https://40aprons.com/best-kitchen-gadgets/' />
+Best Kitchen Gadgets and Home Products I'm Excited About in ...
+2026. 4. 2. —
+Best Appliances and Electronics. 1. Our Place Wonder Oven. 2...
+40 Aprons
+[44] (931,359)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-XdnuaanYAYaAxc8P8MKXmQE_31' role='button' />
+Kitchen Trending Products 2026 - TikTok
+2026. 4. 13. —
+* What do I actually love about this style? Is it the specif...
+TikTok
+🏠✨ Upgrade your home with viral Smart Kitchen & Home Gadgets 🤯 ...
+2026. 4. 8. —
+Tap the link in bio to know more 🔗 From cooking faster to c...
+Instagram
+[45] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[46] (372,538)<div  />
+		[47] (372,538)<div >더보기 />
+			더보기
+			[48] (397,538)<span  />
+Web results
+[49] (287,662)<a class='zReHs' href='https://smartpursue.com/ar/blogs/blog/best-viral-home-gadgets-2026?srsltid=AfmBOoocs96rrtT6pmrDPwf3n706yem8L8yznC_jML6HJi8uyFC68Ymd' />
+	[50] (287,682)<h3 >Best Viral Home Gadgets 2026 That Actually Save ... />
+	[51] (219,645)<div  />
+		[52] (219,645)<div  />
+			[53] (57,645)<span  />
+				[54] (57,645)<div  />
+					[55] (57,645)<img  />
+			[56] (240,645)<div  />
+				[57] (240,636)<div  />
+					[58] (240,636)<span >SmartPursue />
+				[59] (240,656)<div  />
+					[60] (240,656)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://smartpursue.com />
+						[61] (307,656)<span class='ylgVCe ob9lvb' role='text'>› blogs › blog › best-viral-hom... />
+[62] (417,655)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (417,655)<span  />
+		[64] (417,656)<span  />
+2026. 1. 31.
+—
+Quick choppers, slicers and prep tools
+are some of the most viral kitchen products right now. They dramatically reduce the time spent cutting ...
+[65] (675,682)<a href='https://smartpursue.com/ar/blogs/blog/best-viral-home-gadgets-2026?srsltid=AfmBOoocs96rrtT6pmrDPwf3n706yem8L8yznC_jML6HJi8uyFC68Ymd' />
+	[66] (675,682)<div  />
+		[67] (675,682)<img  />
+[68] (341,814)<a class='zReHs' href='https://www.youtube.com/shorts/vGPVRtg9FXk' />
+	[69] (341,837)<h3 >Viral Hits: Amazon Kitchen Gadgets You'll Want in 2026! #viral ... />
+	[70] (148,800)<div  />
+		[71] (148,800)<div  />
+			[72] (57,800)<span  />
+				[73] (57,800)<div  />
+					[74] (57,800)<img  />
+			[75] (169,800)<div  />
+				[76] (169,791)<div  />
+					[77] (169,791)<span >YouTube · Ceci Finds />
+				[78] (169,811)<div  />
+					[79] (169,811)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 15.7만회 이상  ·  3개월 전 />
+[80] (276,810)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[81] (276,810)<span  />
+		[82] (276,811)<span  />
+[83] (130,907)<div aria-label='Ceci Finds님이 YouTube에 게시한 Viral Hits: Amazon Kitchen Gadgets You'll Want in 2026! #viral .... Google에서 재생. 2:21' class='rIRoqf hXY9cf' role='button' />
+	[84] (120,909)<div  />
+		[85] (120,909)<div  />
+			[86] (120,909)<div  />
+				[87] (72,934)<div  />
+					[88] (72,934)<span >2:21 />
+				[89] (178,884)<div  />
+					[90] (178,884)<span  />
+Viral
+Hits: Amazon
+Kitchen Gadgets
+You'll Want in
+2026
+! #
+viral
+#kitchengadgets #amazon #
+2026
+#
+shorts
+#amazonfinds #fypシ #fy ...
+누락된 검색어:
+trending
+‎| 필수 포함 항목:
+[91] (324,973)<a href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n5HC67wU-J7DgqhWIigXd0Fan2XSw:1777260892095&q=%22trending%22+home+gadgets+2026+kitchen+ideas+shorts+viral&sa=X&ved=2ahUKEwik35XhjI2UAxXFQ_EDHVyWCNoQ5t4CegQIGBAT' />
+	[92] (324,973)<span >trending />
+[93] (802,642)<div  />
+	[94] (802,642)<img  />
+[95] (884,642)<div >AI에게 질문하기 />
+	[96] (833,642)<img  />
+검색 에이전트
+[97] (829,683)<div  />
+	[98] (803,683)<img  />
+	[99] (840,683)<span >4o mini />
+[100] (912,683)<div  />
+	[101] (886,683)<img  />
+	[102] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[103] (872,971)<div  />
+	[104] (872,971)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

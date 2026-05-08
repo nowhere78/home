@@ -1,0 +1,9 @@
+# [Alpha-Tube Studio] 작업 진행표
+
+- [ ] `streamlit` 프레임워크 로컬 환경에 설치
+- [ ] `luna_shorts_pipeline.py` 모듈화 리팩토링 (GUI 호출용 함수 분리)
+- [ ] `coupang_matcher.py` 개선 (상품 정보 반환 구조화)
+- [ ] `alpha_tube_studio.py` (Streamlit 기반 메인 UI) 파일 생성
+- [ ] 트렌드 확인 탭, 대본 생성 탭, 영상 합성 탭 UI 설계
+- [ ] 백그라운드 모델(Gemma)과 GUI 연동 테스트
+- [ ] 로컬 실행 및 시연 준비 완료

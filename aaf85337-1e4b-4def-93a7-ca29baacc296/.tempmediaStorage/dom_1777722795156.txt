@@ -1,0 +1,163 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (181,21)<a class='_gnbHeader_link_naver_2iGJs N=a:GNB.naver _nlog_click' href='https://www.naver.com' title='나의 경쟁력, 네이버'>NAVER />
+	NAVER
+[1] (220,21)<a class='_gnbHeader_link_pay_UoJie N=a:GNB.naverpay _nlog_click' href='https://pay.naver.com/pc?page=1' title='네이버 아이디로 간편구매, 네이버페이'>네이버페이 />
+[2] (794,21)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsnxbest.naver.com%2Fproduct%2Fbest%2Fbuy%3FcategoryId%3DA%26sortType%3DPRODUCT_BUY%26periodType%3DDAILY' id='gnb_login_button' />
+	[3] (794,21)<span >로그인 />
+[4] (829,21)<a class='gnb_service' href='javascript:;' />
+	[5] (829,21)<span  />
+[6] (195,76)<a class='_gnbContent_link_U6X6b N=a:SNB.home _nlog_click _nlog_impression_element' href='https://shopping.naver.com/ns/home'>네이버플러스 스토어 />
+	네이버플러스 스토어
+검색영역
+[7] (340,76)<input class='_searchInput_search_text_83jy9 _searchInput_placeholder_AG5yA _nlog_click' placeholder='상품명 또는 브랜드 입력' title='검색어 입력' />
+[8] (463,76)<button class='_searchInput_button_arrow_FWW1U'>검색레이어 펼치기 />
+	검색레이어 펼치기
+[9] (483,76)<button class='_searchInput_button_search_wu9xq _nlog_click'>검색 />
+	검색
+[10] (743,76)<div  />
+	[11] (743,76)<button class='_gnbContent_button_dwRu0 N=a:SNB.category _nlog_click'>카테고리 />
+[12] (783,76)<button class='_gnbContent_side_link_ylLn9 N=a:SNB.m.shoppingmy _nlog_click' role='link'>마이쇼핑 />
+[13] (822,76)<a class='_gnbContent_side_link_ylLn9 N=a:GNB.cart _nlog_click' href='https://shopping.naver.com/cart?frm=gnb&prevUrl=https%3A%2F%2Fsnxbest.naver.com%2Fproduct%2Fbest%2Fbuy%3FcategoryId%3D50000008%26sortType%3DPRODUCT_BUY%26periodType%3DDAILY'>장바구니 />
+[14] (171,137)<a class='_lnb_link_FtZrM home _nlog_click _nlog_impression_element' href='https://shopping.naver.com/ns/home' />
+	[15] (170,137)<span >홈 />
+	NONE
+[16] (199,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/promotion' />
+	[17] (199,137)<span >오늘끝딜 />
+[18] (240,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/kurlynmart/home' />
+	[19] (240,137)<span >컬리N마트 />
+[20] (277,137)<a class='_lnb_link_FtZrM _lnb_active_Xzfwr _nlog_click _nlog_impression_element' href='https://snxbest.naver.com/home' />
+	[21] (277,137)<span >베스트
+선택됨 />
+		선택됨
+[22] (313,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/super-point/home' />
+	[23] (312,137)<span >슈퍼적립 />
+	NONE
+[24] (360,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shoppinglive.naver.com/home' />
+	[25] (356,137)<span >쇼핑 라이브 />
+[26] (407,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/market/home' />
+	[27] (407,137)<span >지금배달 />
+[28] (442,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/gift/home' />
+	[29] (442,137)<span >선물샵 />
+[30] (477,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/window/main/fashion-group' />
+	[31] (477,137)<span >패션타운 />
+	NONE
+[32] (511,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/logistics/home' />
+	[33] (511,137)<span >N배송 />
+[34] (545,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/fresh/directfarm/home' />
+	[35] (545,137)<span >푸드윈도 />
+[36] (584,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/highend/home' />
+	[37] (584,137)<span >하이엔드 />
+[38] (624,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/knockit/home' />
+	[39] (618,137)<span >노크잇 />
+	[40] (636,133)<em >NEW />
+		NEW
+[41] (660,137)<a class='_lnb_link_FtZrM _nlog_click _nlog_impression_element' href='https://shopping.naver.com/plan2/p/index.naver' />
+	[42] (660,137)<span >기획전 />
+[43] (408,195)<a class='lnbResponsive_link__C6dRw' href='/home' />
+	[44] (408,195)<span >베스트홈 />
+[45] (464,195)<a class='lnbResponsive_link__C6dRw' href='/brand' />
+	[46] (464,195)<span >베스트브랜드 />
+[47] (528,195)<a class='lnbResponsive_link__C6dRw' href='/keyword/best' />
+	[48] (528,195)<span >베스트키워드 />
+[49] (588,195)<a class='lnbResponsive_link__C6dRw lnbResponsive_active__BbgqL' href='/product/best/click'>선택됨 />
+	[50] (588,195)<span >베스트상품 />
+	선택됨
+[51] (434,246)<a class='tabListResponsive_link__GhTVh' href='/product/best/click'>많이 본 상품 />
+[52] (501,246)<a class='tabListResponsive_link__GhTVh tabListResponsive_active__EQKv4' href='/product/best/buy'>많이 구매한 상품
+선택됨 />
+	선택됨
+[53] (567,246)<a class='tabListResponsive_link__GhTVh' href='/product/todayitem'>오늘의 잇템 />
+쇼핑
+BEST
+베스트상품
+최근 1일간
+많이 구매한
+BEST
+[54] (252,442)<button class='imageCategoryResponsive_button__3bwVz imageCategoryResponsive_all__fdlOl _nlog_click _nlog_impression_element' />
+	[55] (252,423)<div  />
+	[56] (252,478)<span >전체 />
+[57] (302,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[58] (302,423)<div  />
+		[59] (302,423)<img  />
+	[60] (302,478)<span >패션의류 />
+[61] (351,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[62] (351,423)<div  />
+		[63] (351,423)<img  />
+	[64] (351,478)<span >패션잡화 />
+[65] (401,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[66] (401,423)<div  />
+		[67] (401,423)<img  />
+	[68] (401,478)<span >화장품/미용 />
+[69] (450,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[70] (450,423)<div  />
+		[71] (450,423)<img  />
+	[72] (450,478)<span >디지털/가전 />
+[73] (500,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[74] (500,423)<div  />
+		[75] (500,423)<img  />
+	[76] (500,478)<span >가구/인테리어 />
+[77] (549,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[78] (549,423)<div  />
+		[79] (549,423)<img  />
+	[80] (549,478)<span >출산/육아 />
+[81] (599,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[82] (599,423)<div  />
+		[83] (599,423)<img  />
+	[84] (599,478)<span >식품 />
+[85] (648,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[86] (648,423)<div  />
+		[87] (648,423)<img  />
+	[88] (648,478)<span >스포츠/레저 />
+[89] (698,442)<button class='imageCategoryResponsive_button__3bwVz imageCategoryResponsive_selected__hxgbe _nlog_click _nlog_impression_element'>선택됨 />
+	[90] (698,423)<div  />
+	[91] (698,478)<span >생활/건강 />
+	선택됨
+[92] (747,442)<button class='imageCategoryResponsive_button__3bwVz _nlog_click _nlog_impression_element' />
+	[93] (747,423)<div  />
+		[94] (747,423)<img  />
+	[95] (747,478)<span >여가/생활편의 />
+[96] (826,535)<button class='scrollTextCategoryResponsive_paging_button__lcP5m'>다음 />
+	다음
+[97] (193,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>전체 />
+[98] (228,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>자동차용품 />
+[99] (265,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>수집품 />
+[100] (299,535)<button class='scrollTextCategoryResponsive_button__IgmWo scrollTextCategoryResponsive_selected__H6LMW _nlog_click _nlog_impression_element'>주방용품
+선택됨 />
+	선택됨
+[101] (343,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>건강관리용품 />
+[102] (388,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>의료용품 />
+[103] (432,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>구강위생용품 />
+[104] (483,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>수납/정리용품 />
+[105] (528,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>청소용품 />
+[106] (565,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>생활용품 />
+[107] (603,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>원예/식물 />
+[108] (649,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>정원/원예용품 />
+[109] (694,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>반려동물 />
+[110] (731,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>욕실용품 />
+[111] (776,535)<button class='scrollTextCategoryResponsive_button__IgmWo _nlog_click _nlog_impression_element'>문구/사무용품 />
+공구
+안마용품
+발건강용품
+눈건강용품
+냉온/찜질용품
+[112] (193,587)<button class='flickingTextCategoryResponsive_button__wpfQu flickingTextCategoryResponsive_selected__zI7vr'>전체
+선택됨 />
+	선택됨
+[113] (219,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>잔/컵 />
+[114] (258,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>보관/밀폐용기 />
+[115] (303,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>주방잡화 />
+[116] (340,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>일회용품 />
+[117] (382,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>칼/커팅기구 />
+[118] (417,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>식기 />
+[119] (445,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>냄비/솥 />
+[120] (480,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>조리기구 />
+[121] (518,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>프라이팬 />
+[122] (562,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>주방수납용품 />
+[123] (613,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>제과/제빵용품 />
+[124] (652,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>도마 />
+[125] (683,587)<button class='flickingTextCategoryResponsive_button__wpfQu'>커피용품 />
+
+</current_dom>

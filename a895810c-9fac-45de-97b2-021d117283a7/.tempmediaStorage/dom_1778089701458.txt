@@ -1,0 +1,358 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (73,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/hyp1231' />
+		[4] (73,34)<span  />
+			[5] (73,33)<font  />
+				[6] (73,33)<font >하이프1231 />
+	[7] (142,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/hyp1231/awesome-llm-powered-agent' />
+		[8] (142,34)<span  />
+			[9] (142,33)<font  />
+				[10] (142,33)<font >멋진 LLM 기반 에이전트 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_o_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_t_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (98,80)<span  />
+			[35] (98,80)<span  />
+				[36] (98,80)<font  />
+					[37] (98,80)<font >10 />
+			(
+			10
+			)
+	[38] (154,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent/pulls' />
+		[39] (121,80)<span  />
+		[40] (151,80)<span  />
+			[41] (151,80)<font  />
+				[42] (151,80)<font >풀 리퀘스트 />
+		[43] (183,80)<span  />
+			[44] (183,80)<span  />
+				[45] (183,80)<font  />
+					[46] (183,80)<font >44 />
+			(
+			44
+			)
+	[47] (227,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent/agents?author=nowhere78' />
+		[48] (207,80)<span  />
+		[49] (233,80)<span  />
+			[50] (233,80)<font  />
+				[51] (233,80)<font >자치령 대표 />
+	[52] (303,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent/security' />
+		[53] (268,80)<span  />
+		[54] (309,80)<span  />
+			[55] (309,80)<font  />
+				[56] (309,80)<font >보안 및 품질 />
+	[57] (374,80)<a class='prc-components-UnderlineItem-7fP-n' href='/hyp1231/awesome-llm-powered-agent/pulse' />
+		[58] (358,80)<span  />
+		[59] (380,80)<span  />
+			[60] (380,80)<font  />
+				[61] (380,80)<font >인사이트 />
+[62] (253,139)<a class='d-block overflow-x-hidden color-fg-default' href='/hyp1231/awesome-llm-powered-agent' />
+	[63] (253,138)<font  />
+		[64] (253,138)<font >멋진 LLM 기반 에이전트 />
+공공의
+[65] (634,138)<div  />
+	[66] (634,138)<button aria-label='시청하기: hyp1231/awesome-llm-powered-agent 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1k_' />
+		[67] (629,138)<span  />
+			[68] (626,138)<span  />
+				[69] (626,137)<font  />
+					[70] (626,137)<font >보다 />
+			55
+			(
+			55
+			)
+[71] (694,139)<a class='btn-sm btn BtnGroup-item' href='/hyp1231/awesome-llm-powered-agent/fork' id='fork-button' />
+	[72] (692,139)<font  />
+		[73] (692,141)<font >포크 />
+	[74] (708,138)<span  />
+		[75] (708,138)<font  />
+			[76] (708,138)<font >216 />
+[77] (731,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-670475494' />
+	[78] (731,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[79] (772,138)<button aria-label='이 저장소에 별표를 눌러주세요 (2229)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[80] (768,138)<span  />
+		[81] (768,138)<font  />
+			[82] (768,138)<font >별 />
+	[83] (783,138)<span  />
+		[84] (783,138)<font  />
+			[85] (783,138)<font >2.2k />
+[86] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-670475494-unstarred-button' />
+hyp1231/awesome-llm-powered-agent
+[87] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[88] (209,216)<span  />
+		[89] (203,216)<span  />
+			[90] (203,216)<div  />
+				[91] (194,216)<div  />
+				[92] (208,216)<div  />
+					[93] (208,216)<span  />
+						[94] (209,216)<font  />
+							[95] (209,216)<font >기본 />
+[96] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/hyp1231/awesome-llm-powered-agent/branches' />
+	[97] (262,216)<span  />
+		[98] (269,216)<span  />
+			[99] (269,216)<span  />
+				[100] (258,216)<strong  />
+					[101] (257,216)<font  />
+						[102] (257,216)<font >2 />
+				[103] (272,216)<font  />
+					[104] (272,216)<font >개 지점 />
+[105] (308,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/hyp1231/awesome-llm-powered-agent/tags' />
+	[106] (308,216)<span  />
+		[107] (314,216)<span  />
+			[108] (314,216)<span  />
+				[109] (311,216)<strong  />
+					[110] (310,216)<font  />
+						[111] (310,216)<font >태그 0 />
+				[112] (325,216)<font  />
+					[113] (325,216)<font >개 />
+[114] (481,216)<span  />
+	[115] (431,216)<span  />
+	[116] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[117] (531,216)<span  />
+		[118] (531,216)<kbd  />
+			[119] (531,216)<span >t />
+				t
+				[120] (531,216)<span >T />
+파일 추가
+[121] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[122] (572,216)<span  />
+		[123] (572,216)<span  />
+			[124] (572,216)<span  />
+				[125] (566,216)<font  />
+					[126] (566,216)<font >파일 추가 />
+[127] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[128] (628,216)<span  />
+		[129] (628,216)<span  />
+			[130] (628,216)<font  />
+				[131] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[132] (198,278)<a class='prc-Link-Link-9ZwDx' href='/hyp1231' />
+	[133] (196,279)<img  />
+[134] (222,278)<a aria-label='hyp1231의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/hyp1231/awesome-llm-powered-agent/commits?author=hyp1231' />
+	[135] (222,278)<font  />
+		[136] (222,278)<font >하이프1231 />
+[137] (281,278)<a class='Link--secondary' href='/hyp1231/awesome-llm-powered-agent/commit/c5a681870395f8d845e30bca9627c32a7d1fe011' />
+	[138] (281,278)<font >Nicolas99-9/patch-2의 />
+[139] (337,278)<a class='Link--secondary' href='/hyp1231/awesome-llm-powered-agent/commit/c5a681870395f8d845e30bca9627c32a7d1fe011' />
+	[140] (337,278)<font >풀 리퀘스트 />
+[141] (384,278)<a class='issue-link js-issue-link' href='https://github.com/hyp1231/awesome-llm-powered-agent/pull/55' />
+	[142] (384,278)<font  />
+		[143] (384,278)<font >#55를 병합합니다. />
+[144] (423,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[145] (579,278)<a aria-label='커밋 c5a6818' class='Link--secondary prc-Link-Link-9ZwDx' href='/hyp1231/awesome-llm-powered-agent/commit/c5a681870395f8d845e30bca9627c32a7d1fe011' />
+	[146] (579,278)<font  />
+		[147] (579,278)<font >c5a6818 />
+·
+벨
+역사
+[148] (626,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/hyp1231/awesome-llm-powered-agent/commits/main/' />
+	[149] (626,278)<span  />
+		[150] (631,278)<span  />
+			[151] (631,278)<span  />
+				[152] (631,278)<font  />
+					[153] (631,278)<font >187 커밋 />
+[154] (419,328)<tr  />
+	[155] (212,328)<a aria-label='라이선스, (파일)' class='Link--primary' href='/hyp1231/awesome-llm-powered-agent/blob/main/LICENSE' title='특허' />
+		[156] (212,328)<font  />
+			[157] (212,328)<font >특허 />
+	[158] (395,328)<a class='Link--secondary' href='/hyp1231/awesome-llm-powered-agent/commit/1ac3b79a4b5bf15abbdf53dd4afd70479a82d6bc' title='초기 커밋' />
+		[159] (395,328)<font  />
+			[160] (395,328)<font >초기 커밋 />
+	3년 전
+[161] (419,371)<tr  />
+	[162] (226,371)<a aria-label='README.md, (파일)' class='Link--primary' href='/hyp1231/awesome-llm-powered-agent/blob/main/README.md' title='README.md' />
+		[163] (226,371)<font  />
+			[164] (226,371)<font >README.md />
+	[165] (428,371)<a class='Link--secondary' href='/hyp1231/awesome-llm-powered-agent/commit/3df680a51cc9a30d4f1bb9e14540e9599fbe7807' title='README.md를 업데이트하세요' />
+		[166] (428,371)<font  />
+			[167] (428,371)<font >README.md를 업데이트하세요 />
+	벨
+저장소 파일 탐색
+[168] (213,437)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[169] (196,437)<span  />
+	[170] (219,437)<span  />
+		[171] (219,437)<font  />
+			[172] (219,437)<font >README />
+[173] (273,437)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[174] (250,437)<span  />
+	[175] (279,437)<span  />
+		[176] (279,437)<font  />
+			[177] (279,437)<font >MIT 라이선스 />
+[178] (620,437)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[179] (641,437)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+LLM 자격증을 보유한 훌륭한 에이전트
+[180] (193,518)<a aria-label='고유 링크: LLM 기반 에이전트' class='anchor' href='#awesome-llm-powered-agent' id='user-content-awesome-llm-powered-agent' />
+[181] (224,581)<a href='https://github.com/hyp1231/awesome-llm-powered-agent/pulls' />
+	[182] (224,577)<img  />
+[183] (271,581)<a href='/hyp1231/awesome-llm-powered-agent/blob/main/LICENSE' />
+	[184] (271,577)<img  />
+[185] (323,581)<a href='https://awesome.re' />
+	[186] (323,577)<img  />
+대규모 언어 모델(LLM)의 뛰어난 계획, 추론 및 도구 호출 기능 덕분에 많은 사람들이
+LLM 기반 에이전트를 연구하고 개발하고 있습니다.
+이러한 에이전트는 복잡한 작업을 자율적으로(또는 협력적으로) 해결하거나 인간의 상호 작용을 시뮬레이션할 수 있습니다.
+본 프로젝트의 목표는 LLM 기반 에이전트와 관련된 논문, 저장소 등 유용한 자료들을 총망라하는 것입니다. 저희는 이러한 자료들을 정기적으로 지속적으로 업데이트할 예정입니다.
+PR, 이슈, 이메일 등 어떤 방식으로든 기여해 주시면 진심으로 감사하겠습니다.
+이 저장소는 현재 활발하게 관리되지 않고 있음을 알려드립니다. 주로 2023년 10월 이전에 발표된 논문들을 포함하고 있으며, 이후 몇몇 논문들이 추가될 예정입니다. 논문을 이 저장소에 포함시키고 싶으시다면, 언제든지
+[187] (538,873)<a href='https://github.com/hyp1231/awesome-llm-powered-agent/pulls' />
+	[188] (538,873)<font  />
+		[189] (538,873)<font >풀 리퀘스트를 />
+보내주시기 바랍니다 .
+[190] (225,979)<a href='#papers' />
+	[191] (225,979)<font  />
+		[192] (225,979)<font >서류 />
+자율 작업 해결사
+에 대한
+LLM 기반 에이전트의 놀라운 기능들. 논문 / 저장소 / 블로그 / ...
+주제
+[193] (693,322)<a class='topic-tag topic-tag-link' href='/topics/generative-model' title='주제: 생성 모델' />
+	[194] (693,322)<font  />
+		[195] (693,322)<font >생성 모델 />
+[196] (732,322)<a class='topic-tag topic-tag-link' href='/topics/awesome-list' title='주제: 멋진 목록' />
+	[197] (732,322)<font  />
+		[198] (732,322)<font >멋진 목록 />
+[199] (770,322)<a class='topic-tag topic-tag-link' href='/topics/generative-models' title='주제: 생성 모델' />
+	[200] (770,322)<font  />
+		[201] (770,322)<font >생성 모델 />
+[202] (705,351)<a class='topic-tag topic-tag-link' href='/topics/embodied-agent' title='주제: 구체화된 에이전트' />
+	[203] (705,351)<font  />
+		[204] (705,351)<font >구체화된 에이전트 />
+[205] (755,351)<a class='topic-tag topic-tag-link' href='/topics/embodied-ai' title='주제: 체화된 AI' />
+	[206] (755,351)<font  />
+		[207] (755,351)<font >체현된 AI />
+[208] (789,351)<a class='topic-tag topic-tag-link' href='/topics/gpt-4' title='주제: gpt-4' />
+	[209] (789,351)<font  />
+		[210] (789,351)<font >gpt-4 />
+[211] (693,381)<a class='topic-tag topic-tag-link' href='/topics/foundation-models' title='주제: 기초 모델' />
+	[212] (693,381)<font  />
+		[213] (693,381)<font >기초 모델 />
+[214] (741,381)<a class='topic-tag topic-tag-link' href='/topics/large-language-models' title='주제: 대규모 언어 모델' />
+	[215] (741,381)<font  />
+		[216] (741,381)<font >대규모 언어 모델 />
+[217] (783,381)<a class='topic-tag topic-tag-link' href='/topics/llm' title='주제: llm' />
+	[218] (783,381)<font  />
+		[219] (783,381)<font >일름 />
+[220] (686,411)<a class='topic-tag topic-tag-link' href='/topics/llms' title='주제: llms' />
+	[221] (686,411)<font  />
+		[222] (686,411)<font >llms />
+[223] (727,411)<a class='topic-tag topic-tag-link' href='/topics/generative-ai' title='주제: 생성형 인공지능' />
+	[224] (727,411)<font  />
+		[225] (727,411)<font >생성형 인공지능 />
+[226] (768,411)<a class='topic-tag topic-tag-link' href='/topics/chatgpt' title='주제: chatgpt' />
+	[227] (768,411)<font  />
+		[228] (768,411)<font >채팅 />
+[229] (693,440)<a class='topic-tag topic-tag-link' href='/topics/foundation-model' title='주제: 기초 모델' />
+	[230] (693,440)<font  />
+		[231] (693,440)<font >기초 모델 />
+[232] (741,440)<a class='topic-tag topic-tag-link' href='/topics/large-language-model' title='주제: 대규모 언어 모델' />
+	[233] (741,440)<font  />
+		[234] (741,440)<font >대규모 언어 모델 />
+[235] (699,470)<a class='topic-tag topic-tag-link' href='/topics/generative-agents' title='주제: 생성 에이전트' />
+	[236] (699,470)<font  />
+		[237] (699,470)<font >생성 에이전트 />
+[238] (754,470)<a class='topic-tag topic-tag-link' href='/topics/llm-powered-agents' title='주제: llm 기반 에이전트' />
+	[239] (754,470)<font  />
+		[240] (754,470)<font >llm 기반 에이전트 />
+자원
+[241] (699,515)<a class='Link--muted' href='#readme-ov-file' />
+	[242] (705,515)<font  />
+		[243] (705,515)<font >읽어보세요 />
+특허
+[244] (703,545)<a class='Link--muted' href='#MIT-1-ov-file' />
+	[245] (709,545)<font  />
+		[246] (709,545)<font >MIT 라이선스 />
+[247] (689,576)<a class='Link Link--muted' href='/hyp1231/awesome-llm-powered-agent/activity' />
+	[248] (696,576)<span  />
+		[249] (696,576)<font  />
+			[250] (696,576)<font >활동 />
+별들
+[251] (699,607)<a class='Link Link--muted' href='/hyp1231/awesome-llm-powered-agent/stargazers' />
+	[252] (706,607)<font  />
+		[253] (694,607)<font >별 />
+		[254] (711,607)<strong  />
+			[255] (711,607)<font >2.2 천개 />
+감시자들
+[256] (705,637)<a class='Link Link--muted' href='/hyp1231/awesome-llm-powered-agent/watchers' />
+	[257] (700,637)<strong  />
+		[258] (700,637)<font  />
+			[259] (700,637)<font >55명이 />
+	[260] (723,637)<font  />
+		[261] (723,637)<font >시청 중 />
+포크스
+[262] (702,668)<a class='Link Link--muted' href='/hyp1231/awesome-llm-powered-agent/forks' />
+	[263] (702,668)<strong  />
+		[264] (702,668)<font  />
+			[265] (702,668)<font >216개의 />
+	[266] (722,668)<font  />
+		[267] (722,668)<font >포크 />
+[268] (696,699)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fhyp1231%2Fawesome-llm-powered-agent&report=hyp1231+%28user%29' />
+	[269] (696,699)<font  />
+		[270] (696,699)<font >보고서 저장소 />
+[271] (746,758)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/hyp1231/awesome-llm-powered-agent/graphs/contributors' />
+	[272] (687,758)<font  />
+		[273] (687,757)<font >기고자 />
+	[274] (707,758)<span  />
+		[275] (707,758)<font  />
+			[276] (707,758)<font >33 />
+[277] (683,802)<a href='https://github.com/hyp1231' />
+	[278] (683,804)<img  />
+[279] (704,802)<a href='https://github.com/zehuichen123' />
+	[280] (704,804)<img  />
+[281] (725,802)<a href='https://github.com/night-chen' />
+	[282] (725,804)<img  />
+[283] (746,802)<a href='https://github.com/zhiyuanhubj' />
+	[284] (746,804)<img  />
+[285] (767,802)<a href='https://github.com/jeasinema' />
+	[286] (767,804)<img  />
+[287] (788,802)<a href='https://github.com/Nicolas99-9' />
+	[288] (788,804)<img  />
+[289] (683,844)<a href='https://github.com/IranQin' />
+	[290] (683,846)<img  />
+[291] (704,844)<a href='https://github.com/heroding77' />
+	[292] (704,846)<img  />
+[293] (725,844)<a href='https://github.com/boyuanzheng010' />
+	[294] (725,846)<img  />
+[295] (746,844)<a href='https://github.com/icecream-and-tea' />
+	[296] (746,846)<img  />
+[297] (767,844)<a href='https://github.com/Rosie72770' />
+	[298] (767,846)<img  />
+[299] (788,844)<a href='https://github.com/baltaci-r' />
+	[300] (788,846)<img  />
+[301] (683,887)<a href='https://github.com/whiterabbit1983' />
+	[302] (683,889)<img  />
+[303] (704,887)<a href='https://github.com/samholt' />
+	[304] (704,889)<img  />
+[305] (700,934)<a class='Link--inTextBlock Link' href='/hyp1231/awesome-llm-powered-agent/graphs/contributors' />
+	[306] (700,934)<font  />
+		[307] (700,934)<font >+ 19명의 기고자 />
+
+</current_dom>

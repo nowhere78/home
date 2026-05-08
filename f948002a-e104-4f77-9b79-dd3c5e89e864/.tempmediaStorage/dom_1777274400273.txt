@@ -1,0 +1,33 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (136,46)<a class='logo FL clearfix navbar-brand' href='https://www.quantconnect.com' id='header-qc-logo' title='QuantConnect - 금융의 민주화, 개인의 역량 강화' />
+[1] (506,42)<div class='active' id='search-wrapper' />
+	[2] (464,42)<input id='auto-complete-input-field' placeholder='' />
+	[3] (736,42)<i class='fa fa-times' />
+	↑↓ 키를 눌러 선택하고,
+	Enter 키를
+	눌러 이동하고,
+	Esc 키를
+	눌러 종료하세요.
+	[4] (500,542)<div id='header-search-hits-backdrop' />
+퀀트커넥트 커뮤니티
+연구
+공지사항
+기대다
+커뮤니티 피드
+|
+법정
+라이언 알렉스의 차익거래 자산 클래스 - QuantConnect.com
+2019년 6월 24일 ... 제 경험상, 사람들은 보통 (사실상) 동일한 두 가지를 서로 상쇄하는 거래를 차익거래라고 부릅니다...
+법정
+제임스 왓슨의 고전적인 외환 삼각 차익거래
+2020년 7월 21일 ... 제 목표는 외환 삼각 차익거래를 활용하여 학생들에게 최단 경로 알고리즘을 가르치는 것입니다. 저는 양자 컴퓨팅(QC)에 아직 익숙하지 않습니다.
+법정
+이론상으로만 작동하고 코드는 필요 없는 이중 상장 차익거래 전략
+2018년 1월 17일... 이중 상장 차익거래 전략이 논의되었지만, 코드 구현에서는 성공하지 못했습니다.
+가입하기
+검색 토론
+
+</current_dom>

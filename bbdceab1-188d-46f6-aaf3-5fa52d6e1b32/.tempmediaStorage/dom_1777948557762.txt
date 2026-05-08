@@ -1,0 +1,386 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/PrathamITHub' />
+		[4] (75,34)<span  />
+			[5] (75,33)<font  />
+				[6] (75,33)<font >프라탐이허브 />
+	[7] (147,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/PrathamITHub/dsers-mcp-product-py' />
+		[8] (147,34)<span  />
+			[9] (147,33)<font  />
+				[10] (147,33)<font >dsers-mcp-product-py />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_m_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_r_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/pulls' />
+		[30] (59,80)<span  />
+		[31] (88,80)<span  />
+			[32] (88,80)<font  />
+				[33] (88,80)<font >풀 리퀘스트 />
+	[34] (146,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/agents?author=nowhere78' />
+		[35] (126,80)<span  />
+		[36] (152,80)<span  />
+			[37] (152,80)<font  />
+				[38] (152,80)<font >자치령 대표 />
+	[39] (201,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/actions' />
+		[40] (187,80)<span  />
+		[41] (207,80)<span  />
+			[42] (207,80)<font  />
+				[43] (207,80)<font >행위 />
+	[44] (252,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/projects' />
+		[45] (236,80)<span  />
+		[46] (258,80)<span  />
+			[47] (258,80)<font  />
+				[48] (258,80)<font >프로젝트 />
+	[49] (323,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/security' />
+		[50] (288,80)<span  />
+		[51] (329,80)<span  />
+			[52] (329,80)<font  />
+				[53] (329,80)<font >보안 및 품질 />
+	[54] (394,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PrathamITHub/dsers-mcp-product-py/pulse' />
+		[55] (379,80)<span  />
+		[56] (400,80)<span  />
+			[57] (400,80)<font  />
+				[58] (400,80)<font >인사이트 />
+[59] (253,139)<a class='d-block overflow-x-hidden color-fg-default' href='/PrathamITHub/dsers-mcp-product-py' />
+	[60] (253,138)<font  />
+		[61] (253,138)<font >dsers-mcp-product-py />
+공공의
+[62] (650,138)<div  />
+	[63] (650,138)<button aria-label='영상 보기: PrathamITHub/dsers-mcp-product-py 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1j_' />
+		[64] (646,138)<span  />
+			[65] (645,138)<span  />
+				[66] (645,137)<font  />
+					[67] (645,137)<font >보다 />
+			0
+			(
+			0
+			)
+[68] (705,139)<a class='btn-sm btn BtnGroup-item' href='/PrathamITHub/dsers-mcp-product-py/fork' id='fork-button' />
+	[69] (706,139)<font  />
+		[70] (706,141)<font >포크 />
+	[71] (719,138)<span  />
+		[72] (719,138)<font  />
+			[73] (719,138)<font >1 />
+[74] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1199346468' />
+	[75] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[76] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[77] (776,138)<span  />
+		[78] (776,138)<font  />
+			[79] (776,138)<font >별 />
+	[80] (787,138)<span  />
+		[81] (787,138)<font  />
+			[82] (787,138)<font >0 />
+[83] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1199346468-unstarred-button' />
+PrathamITHub/dsers-mcp-product-py
+[84] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[85] (209,216)<span  />
+		[86] (203,216)<span  />
+			[87] (203,216)<div  />
+				[88] (194,216)<div  />
+				[89] (208,216)<div  />
+					[90] (208,216)<span  />
+						[91] (209,216)<font  />
+							[92] (209,216)<font >기본 />
+[93] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/PrathamITHub/dsers-mcp-product-py/branches' />
+	[94] (262,216)<span  />
+		[95] (268,216)<span  />
+			[96] (268,216)<span  />
+				[97] (257,216)<strong  />
+					[98] (256,216)<font  />
+						[99] (256,216)<font >1 />
+				[100] (271,216)<font  />
+					[101] (271,216)<font >번 지점 />
+[102] (307,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/PrathamITHub/dsers-mcp-product-py/tags' />
+	[103] (307,216)<span  />
+		[104] (313,216)<span  />
+			[105] (313,216)<span  />
+				[106] (310,216)<strong  />
+					[107] (309,216)<font  />
+						[108] (309,216)<font >태그 0 />
+				[109] (324,216)<font  />
+					[110] (324,216)<font >개 />
+[111] (481,216)<span  />
+	[112] (431,216)<span  />
+	[113] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[114] (531,216)<span  />
+		[115] (531,216)<kbd  />
+			[116] (531,216)<span >t />
+				t
+				[117] (531,216)<span >T />
+파일 추가
+[118] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[119] (572,216)<span  />
+		[120] (572,216)<span  />
+			[121] (572,216)<span  />
+				[122] (566,216)<font  />
+					[123] (566,216)<font >파일 추가 />
+[124] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[125] (628,216)<span  />
+		[126] (628,216)<span  />
+			[127] (628,216)<font  />
+				[128] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[129] (198,278)<a class='prc-Link-Link-9ZwDx' href='/PrathamITHub' />
+	[130] (196,279)<img  />
+[131] (225,278)<a aria-label='PrathamITHub의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/PrathamITHub/dsers-mcp-product-py/commits?author=PrathamITHub' />
+	[132] (225,278)<font  />
+		[133] (225,278)<font >프라탐이허브 />
+[134] (298,278)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/60a6bf219a4e57c84d3fa6d4f61ce8d5cc107c00' />
+	[135] (298,278)<font  />
+		[136] (298,278)<font >README.md를 업데이트하세요 />
+[137] (560,278)<a aria-label='커밋 60a6bf2' class='Link--secondary prc-Link-Link-9ZwDx' href='/PrathamITHub/dsers-mcp-product-py/commit/60a6bf219a4e57c84d3fa6d4f61ce8d5cc107c00' />
+	[138] (560,278)<font  />
+		[139] (560,278)<font >60a6bf2 />
+·
+2시간 전
+역사
+[140] (625,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/PrathamITHub/dsers-mcp-product-py/commits/main/' />
+	[141] (625,278)<span  />
+		[142] (630,278)<span  />
+			[143] (630,278)<span  />
+				[144] (630,278)<font  />
+					[145] (630,278)<font >21명 커밋 />
+[146] (419,328)<tr  />
+	[147] (237,328)<a aria-label='dsers_mcp_product, (디렉토리)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/tree/main/dsers_mcp_product' title='dsers_mcp_product' />
+		[148] (237,328)<font  />
+			[149] (237,328)<font >dsers_mcp_product />
+	[150] (510,328)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6843b0d3ce39cffbc37de64109779070a4d3c815' title='이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다.' />
+		[151] (510,328)<font  />
+			[152] (510,328)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	왜냐
+[153] (419,371)<tr  />
+	[154] (229,371)<a aria-label='dsers_provider, (디렉토리)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/tree/main/dsers_provider' title='dsers_provider' />
+		[155] (229,371)<font  />
+			[156] (229,371)<font >dsers_provider />
+	[157] (510,371)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[158] (510,371)<font  />
+			[159] (510,371)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[160] (419,414)<tr  />
+	[161] (224,415)<a aria-label='벤더-디서, (디렉토리)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/tree/main/vendor-dsers' title='벤더-디서스' />
+		[162] (224,415)<font  />
+			[163] (224,415)<font >벤더-디서스 />
+	[164] (500,415)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/8baaef70ddfb91a2e662ef36404d3cd0b4ad0143' title='Shopify 배송 프로필 자동 검색 및 프로필 선택 기능을 수정했습니다. 올바른 Shopify 전용 API 엔드포인트(GET /import-list/shopify/shipping-profile/get)를 사용하여 DeliveryProfile 및 DeliveryLocationGroup GID를 자동으로 가져옵니다. isChecked=true인 프로필이 기본값으로 사용되어 DSers 웹 UI 동작과 일치합니다. 이로써 Shopify 스토어에 제품을 푸시할 때 발생하던 "배송 프로필을 찾을 수 없음" 오류가 해결되었습니다. 추가적으로 다음과 같은 기능이 개선되었습니다. - get_rule_capabilities 함수가 이제 각 Shopify 스토어의 shipping_profiles(이름, is_default, 국가, 요금)를 반환하므로 에이전트와 사용자가 사용 가능한 프로필을 확인할 수 있습니다. - push_options.shipping_profile_name 함수를 통해 이름으로 특정 프로필을 선택할 수 있으며, 기본값을 재정의할 수 있습니다. - 항상 빈 데이터를 반환하던 불안정한 대체 기능(store-shipping-profile 엔드포인트 및 push-before/check)을 제거했습니다.' />
+		[165] (500,415)<font  />
+			[166] (500,415)<font >Shopify 배송 프로필 자동 검색 오류를 수정하고 프로필 선택 기능을 추가하세요. />
+	2개월 전
+[167] (419,458)<tr  />
+	[168] (227,458)<a aria-label='.env.example, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/.env.example' title='.env.example' />
+		[169] (227,458)<font  />
+			[170] (227,458)<font >.env.example />
+	[171] (446,458)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/a1d2b1cc824005ee6e776274d2c600c456082279' title='예시 상점 이름과 설정 기본값을 정리합니다.' />
+		[172] (446,458)<font  />
+			[173] (446,458)<font >예시 상점 이름과 설정 기본값을 정리합니다. />
+	2개월 전
+[174] (419,501)<tr  />
+	[175] (221,502)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/.gitignore' title='.gitignore' />
+		[176] (221,502)<font  />
+			[177] (221,502)<font >.gitignore />
+	[178] (482,502)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/0ee05603655fabd4f3d4fb5225044cf546a5a1cb' title='store_shipping_profile 지원 수정 및 통합 테스트 추가 - dsers_provider: push_options 지원 목록에 store_shipping_profile 추가 (이전에는 조용히 필터링되었음) - test_full_flow.py: 전체 통합 테스트 포함: - AliExpress에서 가격 배율 적용 및 제목 접두사/접미사 추가를 통한 가져오기 - AliExpress에서 고정 마크업 적용 및 제목/설명 재정의를 통한 가져오기 - Alibaba/1688 URL 파싱 검증 (3가지 패턴, 모두 통과) - 4단계 흐름: 준비 → 미리보기 → 표시 → 푸시 - .gitignore: .state-test/ 제외 참고: Alibaba 및 1688 가져오기는 테스트 계정 수준에서 차단됨(ALIBABA_NOT_AVAILABLE)이며 코드 문제는 아닙니다. 두 소스 모두 URL 파싱은 정상적으로 작동합니다. 제작 도구: Cursor' />
+		[179] (482,502)<font  />
+			[180] (482,502)<font >store_shipping_profile 지원을 수정하고 통합 테스트를 추가합니다. />
+	2개월 전
+[181] (419,544)<tr  />
+	[182] (219,545)<a aria-label='건축.md, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/ARCHITECTURE.md' title='건축.md' />
+		[183] (219,545)<font  />
+			[184] (219,545)<font >건축.md />
+	[185] (510,545)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[186] (510,545)<font  />
+			[187] (510,545)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[188] (419,588)<tr  />
+	[189] (212,588)<a aria-label='라이선스, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/LICENSE' title='특허' />
+		[190] (212,588)<font  />
+			[191] (212,588)<font >특허 />
+	[192] (430,588)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/741d930cc29174e549998f8ad055fc9700a044eb' title='최초 커밋: dropship import MCP 병합. public-dropship-import-mcp, private-dsers-provider, dsers-mcp를 3계층 아키텍처를 가진 단일 프로젝트로 통합합니다. - dropship_import_mcp/ — 프로토콜 계층 (7가지 MCP 도구) - dsers_provider/ — DSers 어댑터 (ImportProvider 구현) - vendor-dsers/ — DSers 플랫폼 API 라이브러리. ARCHITECTURE.md 기술 문서, SKILL.md 에이전트 가이드, 자격 증명 관리를 위한 .env.example 파일이 포함되어 있습니다. Cursor로 제작되었습니다.' />
+		[193] (430,588)<font  />
+			[194] (430,588)<font >초기 커밋: 드롭십 수입 MCP 병합 />
+	2개월 전
+[195] (419,631)<tr  />
+	[196] (226,632)<a aria-label='README.md, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/README.md' title='README.md' />
+		[197] (226,632)<font  />
+			[198] (226,632)<font >README.md />
+	[199] (428,632)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/60a6bf219a4e57c84d3fa6d4f61ce8d5cc107c00' title='README.md를 업데이트하세요' />
+		[200] (428,632)<font  />
+			[201] (428,632)<font >README.md를 업데이트하세요 />
+	2시간 전
+[202] (419,675)<tr  />
+	[203] (227,675)<a aria-label='SKILL-CN.md, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/SKILL-CN.md' title='SKILL-CN.md' />
+		[204] (227,675)<font  />
+			[205] (227,675)<font >SKILL-CN.md />
+	[206] (510,675)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[207] (510,675)<font  />
+			[208] (510,675)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[209] (419,718)<tr  />
+	[210] (219,719)<a aria-label='SKILL.md, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/SKILL.md' title='스킬.md' />
+		[211] (219,719)<font  />
+			[212] (219,719)<font >스킬.md />
+	[213] (510,719)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[214] (510,719)<font  />
+			[215] (510,719)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[216] (419,761)<tr  />
+	[217] (219,762)<a aria-label='사용법.md, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/USAGE.md' title='사용.md' />
+		[218] (219,762)<font  />
+			[219] (219,762)<font >사용.md />
+	[220] (510,762)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[221] (510,762)<font  />
+			[222] (510,762)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[223] (419,805)<tr  />
+	[224] (229,805)<a aria-label='pyproject.toml, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/pyproject.toml' title='pyproject.toml' />
+		[225] (229,805)<font  />
+			[226] (229,805)<font >pyproject.toml />
+	[227] (510,805)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[228] (510,805)<font  />
+			[229] (510,805)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[230] (419,848)<tr  />
+	[231] (232,849)<a aria-label='requirements.txt, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/requirements.txt' title='requirements.txt' />
+		[232] (232,849)<font  />
+			[233] (232,849)<font >requirements.txt />
+	[234] (473,849)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/58c583d7c6926f8bce85a68d445d96aeda465ad5' title='MCP 사양 준수 수정: isError, 유형이 지정된 스키마, 도구 제목' />
+		[235] (473,849)<font  />
+			[236] (473,849)<font >MCP 사양 준수 수정: isError, 유형이 지정된 스키마, 도구 제목 />
+	2개월 전
+[237] (419,892)<tr  />
+	[238] (217,892)<a aria-label='server.py, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/server.py' title='서버.py' />
+		[239] (217,892)<font  />
+			[240] (217,892)<font >서버.py />
+	[241] (510,892)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/6a865fe2ee0bf2e1f499d6ee906116db7edef4e9' title='프로젝트 이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. - pyproject.toml 파일에서 프로젝트 이름을 dsers-mcp-product-py로 변경합니다. - 모든 문서(README, ARCHITECTURE, USAGE, SKILL, SKILL-CN)에 TypeScript 마이그레이션 알림을 추가합니다. - 도구 입력 스키마를 확장합니다. 열거형 제약 조건, 규칙 및 push_options에 대한 속성 정의를 추가합니다. - AI가 이해하기 쉽도록 도구 설명을 개선합니다(무엇/언제/반환값). - 공급자 오류 메시지를 수정합니다. "테스트 환경"을 제거하고 컨텍스트를 추가하며 사용 가능한 저장소 목록을 표시합니다. - SKILL.md 워크플로에 validate_rules를 추가합니다. - SKILL.md 및 SKILL-CN.md에 반환 값 문서를 추가합니다. - SKILL-CN.md를 SKILL.md와 완전히 동일하게 만듭니다.' />
+		[242] (510,892)<font  />
+			[243] (510,892)<font >이름을 dsers-mcp-product-py로 변경하고, 도구 스키마 및 오류 메시지를 개선합니다. />
+	2개월 전
+[244] (419,935)<tr  />
+	[245] (224,935)<a aria-label='smithery.yaml, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/smithery.yaml' title='스미스.yaml' />
+		[246] (224,935)<font  />
+			[247] (224,935)<font >스미스.yaml />
+	[248] (454,935)<a class='Link--secondary' href='/PrathamITHub/dsers-mcp-product-py/commit/0d5bb3ed47b8d9cba1de15493efbb415a0d2cf39' title='Smithery 출판사의 현지 배포 지원을 추가하세요.' />
+		[249] (454,935)<font  />
+			[250] (454,935)<font >Smithery 출판사의 현지 배포 지원을 추가하세요. />
+	2개월 전
+[251] (419,978)<tr  />
+	[252] (231,979)<a aria-label='smoke_dsers.py, (파일)' class='Link--primary' href='/PrathamITHub/dsers-mcp-product-py/blob/main/smoke_dsers.py' title='smoke_dsers.py' />
+		[253] (231,979)<font  />
+			[254] (231,979)<font >smoke_dsers.py />
+	패키지 이름을 dsers-mcp-product로 변경하고 테스트 파일을 정리합니다.
+	2개월 전
+에 대한
+Python MCP 서버를 사용하여 AI 기반으로 AliExpress에서 DSers 제품 가져오기, 대량 옵션 수정 및 Shopify 푸시를 자동화하세요.
+주제
+[255] (689,372)<a class='topic-tag topic-tag-link' href='/topics/python' title='주제: 파이썬' />
+	[256] (689,372)<font  />
+		[257] (689,372)<font >파이썬 />
+[258] (718,372)<a class='topic-tag topic-tag-link' href='/topics/mcp' title='주제: mcp' />
+	[259] (718,372)<font  />
+		[260] (718,372)<font >mcp />
+[261] (750,372)<a class='topic-tag topic-tag-link' href='/topics/shopify' title='주제: 쇼피파이' />
+	[262] (750,372)<font  />
+		[263] (750,372)<font >쇼피파이 />
+[264] (787,372)<a class='topic-tag topic-tag-link' href='/topics/stdio' title='주제: 스튜디오' />
+	[265] (787,372)<font  />
+		[266] (787,372)<font >스튜디오 />
+[267] (701,402)<a class='topic-tag topic-tag-link' href='/topics/aliexpress' title='주제: 알리익스프레스' />
+	[268] (701,402)<font  />
+		[269] (701,402)<font >알리익스프레스 />
+[270] (746,402)<a class='topic-tag topic-tag-link' href='/topics/dropshipping' title='주제: 드롭쉬핑' />
+	[271] (746,402)<font  />
+		[272] (746,402)<font >드롭쉬핑 />
+[273] (787,402)<a class='topic-tag topic-tag-link' href='/topics/ai-agent' title='주제: AI 에이전트' />
+	[274] (787,402)<font  />
+		[275] (787,402)<font >AI 에이전트 />
+[276] (711,432)<a class='topic-tag topic-tag-link' href='/topics/model-context-protocol' title='주제: 모델-컨텍스트-프로토콜' />
+	[277] (711,432)<font  />
+		[278] (711,432)<font >모델 컨텍스트 프로토콜 />
+[279] (769,432)<a class='topic-tag topic-tag-link' href='/topics/mcp-server' title='주제: mcp-server' />
+	[280] (769,432)<font  />
+		[281] (769,432)<font >mcp-서버 />
+[282] (693,461)<a class='topic-tag topic-tag-link' href='/topics/product-import' title='주제: 제품 수입' />
+	[283] (693,461)<font  />
+		[284] (693,461)<font >제품 수입 />
+[285] (728,461)<a class='topic-tag topic-tag-link' href='/topics/dsers' title='주제: dsers' />
+	[286] (728,461)<font  />
+		[287] (728,461)<font >드서스 />
+자원
+[288] (699,506)<a class='Link--muted' href='#readme-ov-file' />
+	[289] (705,506)<font  />
+		[290] (705,506)<font >읽어보세요 />
+특허
+[291] (703,537)<a class='Link--muted' href='#MIT-1-ov-file' />
+	[292] (709,537)<font  />
+		[293] (709,537)<font >MIT 라이선스 />
+[294] (689,568)<a class='Link Link--muted' href='/PrathamITHub/dsers-mcp-product-py/activity' />
+	[295] (696,568)<span  />
+		[296] (696,568)<font  />
+			[297] (696,568)<font >활동 />
+별들
+[298] (693,598)<a class='Link Link--muted' href='/PrathamITHub/dsers-mcp-product-py/stargazers' />
+	[299] (700,598)<font  />
+		[300] (694,598)<font >별 />
+		[301] (705,598)<strong  />
+			[302] (705,598)<font >0 개 />
+감시자들
+[303] (703,629)<a class='Link Link--muted' href='/PrathamITHub/dsers-mcp-product-py/watchers' />
+	[304] (698,629)<strong  />
+		[305] (698,629)<font  />
+			[306] (698,629)<font >0명이 />
+	[307] (719,629)<font  />
+		[308] (719,629)<font >시청 중 />
+포크스
+[309] (695,660)<a class='Link Link--muted' href='/PrathamITHub/dsers-mcp-product-py/forks' />
+	[310] (702,660)<font  />
+		[311] (697,660)<font >포크 />
+		[312] (710,660)<strong  />
+			[313] (710,660)<font >1개 />
+[314] (696,690)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FPrathamITHub%2Fdsers-mcp-product-py&report=PrathamITHub+%28user%29' />
+	[315] (696,690)<font  />
+		[316] (696,690)<font >보고서 저장소 />
+[317] (687,749)<a class='Link--primary no-underline Link' href='/PrathamITHub/dsers-mcp-product-py/releases' />
+	[318] (687,749)<font  />
+		[319] (687,749)<font >릴리스 />
+발표된 릴리스 없음
+[320] (746,845)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/PrathamITHub/packages?repo_name=dsers-mcp-product-py' />
+	[321] (687,845)<font  />
+		[322] (687,845)<font >패키지 />
+게시된 패키지가 없습니다.
+[323] (746,942)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/PrathamITHub/dsers-mcp-product-py/graphs/contributors' />
+	[324] (687,942)<font  />
+		[325] (687,941)<font >기고자 />
+	[326] (705,942)<span  />
+		[327] (705,942)<font  />
+			[328] (705,942)<font >2 />
+[329] (683,988)<a class='mr-2' href='https://github.com/PrathamITHub' />
+	[330] (683,988)<img  />
+[331] (716,988)<a class='Link--primary no-underline flex-self-center' href='https://github.com/PrathamITHub' />
+	[332] (716,988)<strong  />
+		[333] (716,988)<font  />
+			[334] (716,988)<font >프라탐이허브 />
+
+</current_dom>

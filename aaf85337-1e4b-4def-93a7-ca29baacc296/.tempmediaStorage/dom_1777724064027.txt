@@ -1,0 +1,376 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (254,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[1] (218,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[2] (210,98)<i  />
+[3] (218,188)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1042214&recmYn=N' />
+	[4] (218,143)<div  />
+		[5] (186,143)<div  />
+			[6] (182,143)<span >1,000 />
+			[7] (201,143)<span >원 />
+	[8] (218,175)<div >알루미늄 직사각 종지 15개입 />
+	[9] (193,204)<div  />
+		[10] (179,208)<span >택배배송 />
+			택배배송
+			[11] (179,208)<i  />
+		[12] (205,208)<span >오늘배송 />
+			오늘배송
+			[13] (205,208)<i  />
+	[14] (218,235)<span  />
+		[15] (218,239)<div  />
+			[16] (185,239)<div >별점 4.8점 />
+				[17] (184,239)<div  />
+				별점 4.8점
+			[18] (210,239)<div >50
+건 작성 />
+				건 작성
+[19] (367,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[20] (331,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[21] (322,98)<i  />
+[22] (331,200)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1073092&recmYn=N' />
+	[23] (331,143)<div  />
+		[24] (291,143)<span >NEW />
+		[25] (327,143)<div  />
+			[26] (323,143)<span >1,000 />
+			[27] (342,143)<span >원 />
+	[28] (331,187)<div >NEW 맘스크린 위생백 소형 200매입 />
+	[29] (293,227)<div  />
+		[30] (292,231)<span >택배배송 />
+			택배배송
+			[31] (292,231)<i  />
+	[32] (331,258)<span  />
+		[33] (331,262)<div  />
+			[34] (298,262)<div >별점 4.9점 />
+				[35] (297,262)<div  />
+				별점 4.9점
+			[36] (322,262)<div >79
+건 작성 />
+				건 작성
+[37] (480,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[38] (443,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[39] (435,98)<i  />
+[40] (443,188)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1040084&recmYn=N' />
+	[41] (443,143)<div  />
+		[42] (412,143)<div  />
+			[43] (407,143)<span >3,000 />
+			[44] (427,143)<span >원 />
+	[45] (443,175)<div >종이 호일 30cmX33m />
+	[46] (406,204)<div  />
+		[47] (405,208)<span >택배배송 />
+			택배배송
+			[48] (405,208)<i  />
+	[49] (443,235)<span  />
+		[50] (443,239)<div  />
+			[51] (410,239)<div >별점 4.9점 />
+				[52] (410,239)<div  />
+				별점 4.9점
+			[53] (439,239)<div >1,011
+건 작성 />
+				건 작성
+[54] (593,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[55] (556,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[56] (548,98)<i  />
+[57] (556,200)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=56404&recmYn=N' />
+	[58] (556,143)<div  />
+		[59] (525,143)<div  />
+			[60] (520,143)<span >1,000 />
+			[61] (540,143)<span >원 />
+	[62] (556,187)<div >쿨맥시 직사각 밀폐 용기 4호 900 ml />
+	[63] (545,227)<div  />
+		[64] (517,231)<span >택배배송 />
+			택배배송
+			[65] (517,231)<i  />
+		[66] (544,231)<span >매장픽업 />
+			매장픽업
+			[67] (544,231)<i  />
+		[68] (570,231)<span >오늘배송 />
+			오늘배송
+			[69] (570,231)<i  />
+	[70] (556,258)<span  />
+		[71] (556,262)<div  />
+			[72] (523,262)<div >별점 4.8점 />
+				[73] (523,262)<div  />
+				별점 4.8점
+			[74] (550,262)<div >100
+건 작성 />
+				건 작성
+[75] (706,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[76] (669,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[77] (661,98)<i  />
+[78] (669,200)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1007157&recmYn=N' />
+	[79] (669,143)<div  />
+		[80] (638,143)<div  />
+			[81] (633,143)<span >1,000 />
+			[82] (653,143)<span >원 />
+	[83] (669,187)<div >프린팅 분식 용기 520ml 18개입 />
+	[84] (631,227)<div  />
+		[85] (630,231)<span >택배배송 />
+			택배배송
+			[86] (630,231)<i  />
+	[87] (669,258)<span  />
+		[88] (669,262)<div  />
+			[89] (636,262)<div >별점 4.8점 />
+				[90] (635,262)<div  />
+				별점 4.8점
+			[91] (663,262)<div >630
+건 작성 />
+				건 작성
+[92] (818,38)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[93] (782,98)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[94] (774,98)<i  />
+[95] (782,188)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=57117&recmYn=N' />
+	[96] (782,143)<div  />
+		[97] (750,143)<div  />
+			[98] (746,143)<span >2,000 />
+			[99] (765,143)<span >원 />
+	[100] (782,175)<div >그루 키친 타월 150매 2롤 />
+	[101] (744,204)<div  />
+		[102] (743,208)<span >택배배송 />
+			택배배송
+			[103] (743,208)<i  />
+	[104] (782,235)<span  />
+		[105] (782,239)<div  />
+			[106] (749,239)<div >별점 4.8점 />
+				[107] (748,239)<div  />
+				별점 4.8점
+			[108] (776,239)<div >383
+건 작성 />
+				건 작성
+현재 순위
+7
+[109] (218,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=1075293&recmYn=N' />
+	[110] (218,375)<span  />
+		[111] (218,501)<img  />
+[112] (254,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[113] (218,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[114] (210,669)<i  />
+[115] (218,760)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1075293&recmYn=N' />
+	[116] (218,715)<div  />
+		[117] (186,715)<div  />
+			[118] (182,715)<span >2,000 />
+			[119] (201,715)<span >원 />
+	[120] (218,746)<div >[근본이즘] 태화 고무장갑 대 />
+	[121] (180,775)<div  />
+		[122] (179,779)<span >택배배송 />
+			택배배송
+			[123] (179,779)<i  />
+	[124] (218,806)<span  />
+		[125] (218,810)<div  />
+			[126] (185,810)<div >별점 5.0점 />
+				[127] (185,810)<div  />
+				별점 5.0점
+			[128] (210,810)<div >45
+건 작성 />
+				건 작성
+현재 순위
+8
+[129] (331,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=1048491&recmYn=N' />
+	[130] (331,375)<span  />
+		[131] (331,501)<img  />
+[132] (367,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[133] (331,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[134] (322,669)<i  />
+[135] (331,760)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1048491&recmYn=N' />
+	[136] (331,715)<div  />
+		[137] (299,715)<div  />
+			[138] (295,715)<span >2,000 />
+			[139] (314,715)<span >원 />
+	[140] (331,746)<div >실리콘 인덕션 원형 보호 매트 />
+	[141] (306,775)<div  />
+		[142] (292,779)<span >택배배송 />
+			택배배송
+			[143] (292,779)<i  />
+		[144] (318,779)<span >매장픽업 />
+			매장픽업
+			[145] (318,779)<i  />
+	[146] (331,806)<span  />
+		[147] (331,810)<div  />
+			[148] (298,810)<div >별점 4.8점 />
+				[149] (297,810)<div  />
+				별점 4.8점
+			[150] (324,810)<div >174
+건 작성 />
+				건 작성
+현재 순위
+9
+[151] (443,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=56756&recmYn=N' />
+	[152] (443,375)<span  />
+		[153] (421,392)<div  />
+			[154] (420,392)<span >구매 1.7만+ />
+		[155] (443,501)<img  />
+[156] (480,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[157] (443,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[158] (435,669)<i  />
+[159] (443,760)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=56756&recmYn=N' />
+	[160] (443,715)<div  />
+		[161] (412,715)<div  />
+			[162] (407,715)<span >5,000 />
+			[163] (427,715)<span >원 />
+	[164] (443,746)<div >불소코팅 후라이팬 26cm />
+	[165] (419,775)<div  />
+		[166] (405,779)<span >택배배송 />
+			택배배송
+			[167] (405,779)<i  />
+		[168] (431,779)<span >매장픽업 />
+			매장픽업
+			[169] (431,779)<i  />
+	[170] (443,806)<span  />
+		[171] (443,810)<div  />
+			[172] (410,810)<div >별점 4.7점 />
+				[173] (409,810)<div  />
+				별점 4.7점
+			[174] (437,810)<div >162
+건 작성 />
+				건 작성
+현재 순위
+10
+[175] (556,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=1050569&recmYn=N' />
+	[176] (556,375)<span  />
+		[177] (556,501)<img  />
+[178] (593,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[179] (556,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[180] (548,669)<i  />
+[181] (556,760)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1050569&recmYn=N' />
+	[182] (556,715)<div  />
+		[183] (525,715)<div  />
+			[184] (520,715)<span >5,000 />
+			[185] (540,715)<span >원 />
+	[186] (556,746)<div >도기 냄비 760 ml />
+	[187] (545,775)<div  />
+		[188] (517,779)<span >택배배송 />
+			택배배송
+			[189] (517,779)<i  />
+		[190] (544,779)<span >매장픽업 />
+			매장픽업
+			[191] (544,779)<i  />
+		[192] (570,779)<span >오늘배송 />
+			오늘배송
+			[193] (570,779)<i  />
+	[194] (556,806)<span  />
+		[195] (556,810)<div  />
+			[196] (523,810)<div >별점 4.6점 />
+				[197] (522,810)<div  />
+				별점 4.6점
+			[198] (549,810)<div >113
+건 작성 />
+				건 작성
+현재 순위
+11
+[199] (669,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=1037047&recmYn=N' />
+	[200] (669,375)<span  />
+		[201] (669,501)<img  />
+[202] (706,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[203] (669,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[204] (661,669)<i  />
+[205] (669,771)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1037047&recmYn=N' />
+	[206] (669,715)<div  />
+		[207] (638,715)<div  />
+			[208] (633,715)<span >1,000 />
+			[209] (653,715)<span >원 />
+	[210] (669,758)<div >무지 원형 종이 접시 15cm 14매입 />
+	[211] (644,798)<div  />
+		[212] (630,803)<span >택배배송 />
+			택배배송
+			[213] (630,803)<i  />
+		[214] (657,803)<span >오늘배송 />
+			오늘배송
+			[215] (657,803)<i  />
+	[216] (669,830)<span  />
+		[217] (669,834)<div  />
+			[218] (636,834)<div >별점 4.9점 />
+				[219] (636,834)<div  />
+				별점 4.9점
+			[220] (661,834)<div >68
+건 작성 />
+				건 작성
+현재 순위
+12
+[221] (782,501)<a class='prod-thumb__link' href='/pd/pdr/SCR_PDR_0001?pdNo=1037276&recmYn=N' />
+	[222] (782,375)<span  />
+		[223] (782,501)<img  />
+[224] (818,610)<button aria-label='찜하기해제' class='btn-heart-prod btn-heart-prod--white' />
+[225] (782,669)<button class='btn da-btn da-btn--theme--tertiary da-btn--size--md da-btn--full da-btn--placement-left'>장바구니
+담기 />
+	장바구니
+	[226] (774,669)<i  />
+[227] (782,771)<a class='detail-link' href='/pd/pdr/SCR_PDR_0001?pdNo=1037276&recmYn=N' />
+	[228] (782,715)<div  />
+		[229] (750,715)<div  />
+			[230] (746,715)<span >1,000 />
+			[231] (765,715)<span >원 />
+	[232] (782,758)<div >태화 오웰 니트릴 장갑 M 10매입 />
+	[233] (757,798)<div  />
+		[234] (743,803)<span >택배배송 />
+			택배배송
+			[235] (743,803)<i  />
+		[236] (769,803)<span >오늘배송 />
+			오늘배송
+			[237] (769,803)<i  />
+	[238] (782,830)<span  />
+		[239] (782,834)<div  />
+			[240] (749,834)<div >별점 4.8점 />
+				[241] (748,834)<div  />
+				별점 4.8점
+			[242] (775,834)<div >261
+건 작성 />
+				건 작성
+현재 순위
+13
+[243] (218,947)<span  />
+현재 순위
+14
+[244] (331,947)<span  />
+	[245] (308,963)<div  />
+		[246] (307,963)<span >구매 1.3만+ />
+현재 순위
+15
+[247] (443,947)<span  />
+	[248] (422,963)<div  />
+		[249] (421,963)<span >구매 2.6만+ />
+현재 순위
+16
+[250] (556,947)<span  />
+현재 순위
+17
+[251] (669,947)<span  />
+	[252] (647,963)<div  />
+		[253] (646,963)<span >구매 4.1만+ />
+현재 순위
+18
+[254] (782,947)<span  />
+[255] (974,767)<button class='el-button quick-btn-recent el-button--default' />
+	최근 본 상품 열기
+[256] (974,833)<button class='el-button quick-btn-chatbot el-button--default' />
+	[257] (974,832)<span >고객센터 열기
+고객
+센터 />
+		고객센터 열기
+		고객
+		센터
+[258] (974,898)<button aria-label='맨 위로' class='el-button quick-btn-top el-button--default' />
+
+</current_dom>

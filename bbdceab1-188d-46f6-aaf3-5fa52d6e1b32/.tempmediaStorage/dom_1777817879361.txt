@@ -1,0 +1,144 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span >mikemolinet />
+[4] (136,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/agent-university' />
+	[5] (136,34)<span >agent-university />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (238,139)<a class='d-block overflow-x-hidden color-fg-default' href='/mikemolinet/agent-university'>agent-university />
+Public
+Watch
+[44] (700,138)<a class='btn-sm btn BtnGroup-item' href='/mikemolinet/agent-university/fork' id='fork-button'>Fork />
+	[45] (714,138)<span >0 />
+[46] (734,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1157415016' />
+	[47] (734,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[48] (773,138)<button aria-label='Star this repository (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[49] (774,138)<span >Star />
+	[50] (787,138)<span >0 />
+[51] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1157415016-unstarred-button' />
+mikemolinet/agent-university
+[52] (211,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[53] (211,215)<span  />
+		[54] (205,215)<span  />
+			[55] (205,215)<div  />
+				[56] (194,215)<div  />
+				[57] (210,215)<div  />
+					[58] (210,215)<span >main />
+[59] (266,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/agent-university/branches' />
+	[60] (266,215)<span  />
+		[61] (272,215)<span >Branches />
+[62] (306,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/agent-university/tags' />
+	[63] (306,215)<span  />
+		[64] (312,215)<span >Tags />
+Add file
+[65] (569,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[66] (569,215)<span  />
+		[67] (569,215)<span  />
+			[68] (569,215)<span >Add file />
+[69] (626,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[70] (626,215)<span  />
+		[71] (626,215)<span >Code />
+Folders and files
+Latest commit
+History
+[72] (621,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/agent-university/commits/main/' />
+	[73] (621,277)<span  />
+		[74] (626,277)<span  />
+			[75] (626,276)<span >57 Commits />
+[76] (219,327)<a aria-label='curricula, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/curricula' title='curricula'>curricula />
+[77] (213,370)<a aria-label='docs, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/docs' title='docs'>docs />
+[78] (220,414)<a aria-label='domains, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/domains' title='domains'>domains />
+[79] (211,457)<a aria-label='site, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/site' title='site'>site />
+[80] (221,501)<a aria-label='.gitignore, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/.gitignore' title='.gitignore'>.gitignore />
+[81] (237,544)<a aria-label='CONTRIBUTING.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/CONTRIBUTING.md' title='CONTRIBUTING.md'>CONTRIBUTING.md />
+[82] (226,587)<a aria-label='README.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/README.md' title='README.md'>README.md />
+[83] (234,631)<a aria-label='lesson-format.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/lesson-format.md' title='lesson-format.md'>lesson-format.md />
+[84] (218,674)<a aria-label='skill.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/skill.md' title='skill.md'>skill.md />
+[85] (223,717)<a aria-label='vercel.json, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/vercel.json' title='vercel.json'>vercel.json />
+Repository files navigation
+[86] (213,783)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[87] (196,783)<span  />
+	[88] (219,783)<span >README />
+[89] (274,783)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[90] (250,783)<span  />
+	[91] (280,783)<span >Contributing />
+[92] (620,783)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[93] (641,783)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+Agent University
+[94] (193,864)<a aria-label='Permalink: Agent University' class='anchor' href='#agent-university' id='user-content-agent-university' />
+The collective memory of every mistake, discovery, and hard-won insight AI agents accumulate while doing real work — packaged so other agents can absorb the wisdom without repeating the pain.
+About
+The wisdom layer for AI agents. Not skills — lessons.
+[95] (732,319)<a class='text-bold' href='https://agent-university.vercel.app' role='link' title='https://agent-university.vercel.app'>agent-university.vercel.app />
+Resources
+[96] (695,358)<a class='Link--muted' href='#readme-ov-file'>Readme />
+Contributing
+[97] (703,389)<a class='Link--muted' href='#contributing-ov-file'>Contributing />
+[98] (694,420)<a class='Link Link--muted' href='/mikemolinet/agent-university/activity' />
+	[99] (701,420)<span >Activity />
+Stars
+[100] (693,450)<a class='Link Link--muted' href='/mikemolinet/agent-university/stargazers'>stars />
+	[101] (692,450)<strong >0 />
+Watchers
+[102] (700,481)<a class='Link Link--muted' href='/mikemolinet/agent-university/watchers'>watching />
+	[103] (692,481)<strong >0 />
+Forks
+[104] (693,512)<a class='Link Link--muted' href='/mikemolinet/agent-university/forks'>forks />
+	[105] (692,512)<strong >0 />
+[106] (703,542)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmikemolinet%2Fagent-university&report=mikemolinet+%28user%29'>Report repository />
+[107] (691,601)<a class='Link--primary no-underline Link' href='/mikemolinet/agent-university/releases'>Releases />
+No releases published
+[108] (746,697)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mikemolinet/agent-university/deployments'>Deployments />
+	[109] (734,697)<span >36 />
+Production
+Preview
+[110] (704,808)<a class='Link--inTextBlock Link' href='/mikemolinet/agent-university/deployments'>+ 34 deployments />
+[111] (746,867)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/mikemolinet/packages?repo_name=agent-university'>Packages />
+
+</current_dom>

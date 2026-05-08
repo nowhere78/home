@@ -1,0 +1,137 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (223,2)<a aria-label='contributors.json, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/contributors.json' title='기여자.json' />
+	[1] (223,2)<font  />
+		[2] (223,2)<font >기여자.json />
+[3] (468,2)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/4bd3c5f7c592a29956e4a0c6cafad943c4356671' title='새로운 기능은 Kimi-K2.5 및 Step-3.5-Flash와 유사합니다.' />
+	[4] (468,2)<font  />
+		[5] (468,2)<font >새로운 기능은 Kimi-K2.5 및 Step-3.5-Flash와 유사합니다. />
+3개월 전
+[6] (419,45)<tr  />
+	[7] (236,46)<a aria-label='support_model.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/support_model.md' title='support_model.md' />
+		[8] (236,46)<font  />
+			[9] (236,46)<font >support_model.md />
+	[10] (493,46)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/23dd98a696feb1450bc185fb0dca6013ec5c13af' title='문서: MiniMax-M2.5 vLLM 배포 튜토리얼 추가 (vLLM/SGLang/Transformers) (#500) * 문서: MiniMax-M2.5 vLLM 배포 튜토리얼 추가 * 문서: MiniMax-M2.5 SGLang 배포 튜토리얼 추가 * 문서: MiniMax-M2.5 Transformers 배포 튜토리얼 추가 * 문서: 지원 모델 목록에 MiniMax-M2.5 추가 * 문서: README 모델 목록에 MiniMax-M2.5 추가 * 문서: 업그레이드 명령 및 HF-Mirror 관련 참고 사항에 대한 검토 피드백 반영 - vLLM 문제 해결에 `pip install -U vllm` 업그레이드 명령 명시적 추가 - SGLang 문제 해결에 `pip install -U sglang` 업그레이드 명령 명시적 추가 - SGLang 환경 설정에 `pip show sglang` 버전 확인 힌트 추가 - Transformers 문제 해결에 `pip install -U transformers` 업그레이드 명령 추가 - 모델스코프를 사용하여 모델을 다운로드할 때 HF-Mirror가 필요하지 않음을 명확히 설명 (vLLM, SGLang, Transformers 세 문서 모두에 적용됨) --------- 공동 저자: octo-patch <octo-patch@users.noreply.github.com>' />
+		[11] (493,46)<font  />
+			[12] (493,46)<font >문서: 새로운 MiniMax-M2.5 PART署教程(vLLM/SGLang/Transformers) ( />
+	#500
+	)
+	2개월 전
+[13] (419,88)<tr  />
+	[14] (249,89)<a aria-label='support_model_Ascend.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/support_model_Ascend.md' title='support_model_Ascend.md' />
+		[15] (249,89)<font  />
+			[16] (249,89)<font >support_model_Ascend.md />
+	[17] (425,89)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/a7cd4ef135b0e7b786ef2a7a724aad3f9833b12f' title='Qwen3.6 ascend 문서 추가 (#505)' />
+		[18] (425,89)<font  />
+			[19] (425,89)<font >Qwen3.6 ascend 문서 추가 ( />
+	[20] (479,89)<a class='issue-link js-issue-link' href='https://github.com/datawhalechina/self-llm/pull/505' />
+		[21] (479,89)<font  />
+			[22] (479,89)<font >#505 />
+	[23] (489,89)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/a7cd4ef135b0e7b786ef2a7a724aad3f9833b12f' title='Qwen3.6 ascend 문서 추가 (#505)' />
+		[24] (489,89)<font  />
+			[25] (489,89)<font >) />
+	2주 전
+[26] (419,132)<tr  />
+	[27] (245,132)<a aria-label='support_model_amd.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/support_model_amd.md' title='support_model_amd.md' />
+		[28] (245,132)<font  />
+			[29] (245,132)<font >support_model_amd.md />
+	[30] (445,132)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/2ffa2ccef2c0928b4edec5ed201f7e1341d8e7aa' title='문서: 새로운 README 结构并 새로운 增English文版本 - 重构主 README.md, 将详细的模型列表整合到 support_model.md - 새로운 README_en.md 英文版文档 - 새로운 내용 contributors.json - 새로운 AMD GPU 专区文档 support_model_amd.md - 删除过期의 별별 별표, 새로운 내용' />
+		[31] (445,132)<font  />
+			[32] (445,132)<font >문서: 更新 README 结构并新增英文版本 />
+	5개월 전
+[33] (419,175)<tr  />
+	[34] (224,176)<a aria-label='utils.py, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/utils.py' title='유틸리티.py' />
+		[35] (224,176)<font  />
+			[36] (224,176)<font >유틸리티.py />
+	[37] (538,176)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/4a794af296516d228bc3e00b18c262836e543c76' title='更新贡献者信息，添加刘十一的角color and任务，修改更新贡献者函数以包含Ascend模型支持文档' />
+		[38] (538,176)<font  />
+			[39] (538,176)<font >更新贡献者信息，添加刘十一的角color and任务，修改更新贡献者函数以包含Ascend模型支持文档 />
+	4개월 전
+저장소 파일 탐색
+[40] (213,241)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[41] (196,241)<span  />
+	[42] (219,241)<span  />
+		[43] (219,241)<font  />
+			[44] (219,241)<font >README />
+[45] (285,241)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[46] (250,241)<span  />
+	[47] (291,241)<span  />
+		[48] (291,241)<font  />
+			[49] (291,241)<font >Apache-2.0 라이선스 />
+[50] (620,241)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[51] (641,241)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_14_' />
+[52] (419,642)<a href='/datawhalechina/self-llm/blob/master/images/head-img.png' />
+	[53] (419,475)<img  />
+开源大模型식용指南
+[54] (193,702)<a aria-label='고유 링크: 开源大模型식용指南' class='anchor' href='#开源大模型食用指南' id='user-content-开源大模型食用指南' />
+중국어 |
+[55] (434,763)<a href='/datawhalechina/self-llm/blob/master/README_en.md' />
+	[56] (434,763)<font  />
+		[57] (434,763)<font >영어 />
+本项目是一个围绕开源大模型, 针对국제内初학술자, 基于 Linux平台的中國宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、본지부 적폐, 使用 및 应用流程, 让更多多普communication, 研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普communications习者的生活中。
+本项目主要内容包括：
+基于 Linux 平台적 开源 LLM 环境配置指南, 针对不同模型要求提供不同详细环境配置步骤;
+针对國内外主流开源 LLM 적부 署使用教程, ​​包括 LLaMA, ChatGLM, InternLM 等;
+开源 LLM 적 부분 署应 사용 指导, 包括命令行调사용, 현재 데모 부분, LangChain 框架集成等;
+[58] (746,30)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/datawhalechina/packages?repo_name=self-llm' />
+	[59] (687,30)<font  />
+		[60] (687,29)<font >패키지 />
+게시된 패키지가 없습니다.
+[61] (746,126)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/datawhalechina/self-llm/graphs/contributors' />
+	[62] (687,126)<font  />
+		[63] (687,125)<font >기고자 />
+	[64] (707,126)<span  />
+		[65] (707,126)<font  />
+			[66] (707,126)<font >78 />
+[67] (683,170)<a href='https://github.com/KMnO4-zx' />
+	[68] (683,172)<img  />
+[69] (704,170)<a href='https://github.com/Tsumugii24' />
+	[70] (704,172)<img  />
+[71] (725,170)<a href='https://github.com/L4HeyXiao' />
+	[72] (725,172)<img  />
+[73] (746,170)<a href='https://github.com/isaacahahah' />
+	[74] (746,172)<img  />
+[75] (767,170)<a href='https://github.com/Aphasia0515' />
+	[76] (767,172)<img  />
+[77] (788,170)<a href='https://github.com/Caleb-Sun-jz' />
+	[78] (788,172)<img  />
+[79] (683,213)<a href='https://github.com/Hongru0306' />
+	[80] (683,215)<img  />
+[81] (704,213)<a href='https://github.com/logan-zou' />
+	[82] (704,215)<img  />
+[83] (725,213)<a href='https://github.com/Zeyi-Lin' />
+	[84] (725,215)<img  />
+[85] (746,213)<a href='https://github.com/Twosugar666' />
+	[86] (746,215)<img  />
+[87] (767,213)<a href='https://github.com/moyitech' />
+	[88] (767,215)<img  />
+[89] (788,213)<a href='https://github.com/chg0901' />
+	[90] (788,215)<img  />
+[91] (683,255)<a href='https://github.com/dingyue772' />
+	[92] (683,257)<img  />
+[93] (704,255)<a href='https://github.com/Kailigithub' />
+	[94] (704,257)<img  />
+[95] (697,302)<a class='Link--inTextBlock Link' href='/datawhalechina/self-llm/graphs/contributors' />
+	[96] (697,302)<font  />
+		[97] (697,302)<font >64명의 기고자 />
+언어
+[98] (709,417)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/datawhalechina/self-llm/search?l=jupyter-notebook' />
+	[99] (706,417)<span  />
+		[100] (706,417)<font  />
+			[101] (706,417)<font >주피터 노트북 />
+	[102] (734,417)<span  />
+		[103] (734,417)<font  />
+			[104] (734,417)<font >93.0% />
+[105] (775,417)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/datawhalechina/self-llm/search?l=python' />
+	[106] (774,417)<span  />
+		[107] (774,417)<font  />
+			[108] (774,417)<font >파이썬 />
+	[109] (791,417)<span  />
+		[110] (791,417)<font  />
+			[111] (791,417)<font >6.1% />
+다른
+0.9%
+
+</current_dom>

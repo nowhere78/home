@@ -1,0 +1,192 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (163,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/TimothyZhang7' />
+	[3] (163,34)<span  />
+		[4] (163,33)<font  />
+			[5] (163,33)<font >TimothyZhang7 />
+[6] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[7] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (740,34)<span  />
+[11] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (967,34)<img  />
+사용자 탐색
+[17] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7' />
+	[18] (33,81)<span  />
+	[19] (81,81)<span  />
+		[20] (81,81)<font  />
+			[21] (81,81)<font >개요 />
+[22] (209,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=repositories' />
+	[23] (146,81)<span  />
+	[24] (203,81)<span  />
+		[25] (203,81)<font  />
+			[26] (203,81)<font >저장소 />
+	[27] (266,81)<span  />
+		[28] (266,81)<span  />
+			[29] (266,81)<font  />
+				[30] (266,81)<font >36 />
+		(
+		36
+		)
+[31] (345,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=projects' />
+	[32] (314,81)<span  />
+	[33] (358,81)<span  />
+		[34] (358,81)<font  />
+			[35] (358,81)<font >프로젝트 />
+[36] (453,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=packages' />
+	[37] (418,81)<span  />
+	[38] (465,81)<span  />
+		[39] (465,81)<font  />
+			[40] (465,81)<font >패키지 />
+[41] (574,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=stars' />
+	[42] (529,81)<span  />
+	[43] (562,81)<span  />
+		[44] (562,81)<font  />
+			[45] (562,81)<font >별들 />
+	[46] (607,81)<span  />
+		[47] (607,81)<span  />
+			[48] (607,81)<font  />
+				[49] (607,81)<font >5천+ />
+		(
+		5천+
+		)
+[50] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/19567494?v=4' />
+	[51] (159,284)<img  />
+🏹
+티모시 @에이든
+TimothyZhang7
+[52] (159,528)<input aria-label='TimothyZhang7을 팔로우하세요' class='btn btn-block' title='TimothyZhang7을 팔로우하세요' />
+Entia non sunt multiplicanda praeter necessitatem.
+[53] (76,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/TimothyZhang7?tab=followers' />
+	[54] (87,640)<font  />
+		[55] (68,640)<font >팔로워 />
+		[56] (109,640)<span  />
+			[57] (109,640)<font >382명 />
+·
+[58] (159,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/TimothyZhang7?tab=following' />
+	[59] (159,640)<font >팔로잉 />
+[60] (213,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/TimothyZhang7?tab=following' />
+	[61] (213,640)<span  />
+		[62] (213,640)<font >23.2 천명 />
+샌프란시스코
+[63] (122,715)<a class='Link--primary wb-break-all' href='mailto:timothy@adenhq.com' />
+	[64] (122,715)<font  />
+		[65] (122,715)<font >timothy@adenhq.com />
+[66] (40,773)<a class='Link--primary mb-2' href='/TimothyZhang7?tab=achievements' />
+	[67] (40,773)<font  />
+		[68] (40,773)<font >업적 />
+[69] (58,831)<a class='position-relative' href='/TimothyZhang7?achievement=pull-shark&tab=achievements' />
+	[70] (58,828)<img  />
+	[71] (76,853)<span  />
+		[72] (76,853)<font  />
+			[73] (76,853)<font >x3 />
+[74] (125,831)<a class='position-relative' href='/TimothyZhang7?achievement=pair-extraordinaire&tab=achievements' />
+	[75] (125,828)<img  />
+	[76] (143,853)<span  />
+		[77] (143,853)<font  />
+			[78] (143,853)<font >x2 />
+[79] (192,831)<a class='position-relative' href='/TimothyZhang7?achievement=yolo&tab=achievements' />
+	[80] (192,828)<img  />
+[81] (259,831)<a class='position-relative' href='/TimothyZhang7?achievement=quickdraw&tab=achievements' />
+	[82] (259,828)<img  />
+[83] (58,904)<a class='position-relative' href='/TimothyZhang7?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[84] (58,901)<img  />
+[85] (92,987)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-aaf1f340-ea44-4245-aaec-c6cfdd8eaa30' />
+	[86] (92,987)<span  />
+		[87] (92,987)<span  />
+			[88] (92,987)<font  />
+				[89] (92,987)<font >사용자 차단 또는 신고 />
+[90] (343,174)<a class='d-inline-block' href='/credkellar-boop' />
+	[91] (343,174)<img  />
+[92] (525,153)<a class='d-inline-block no-underline mb-1' href='/credkellar-boop' />
+	[93] (473,152)<span  />
+		[94] (473,152)<font  />
+			[95] (473,152)<font >다리온 켈러 />
+	[96] (568,153)<span  />
+		[97] (570,153)<font  />
+			[98] (570,153)<font >크레드켈러-부프 />
+안녕하세요 😎😎 FMOIG - @AiAreUsOk X - @DontMatterShidd
+모나드
+다운타운 로스앤젤레스
+[99] (944,155)<input aria-label='credkellar-boop을 팔로우하세요' class='btn btn-sm' title='credkellar-boop을 팔로우하세요' />
+[100] (343,302)<a class='d-inline-block' href='/TropiGal' />
+	[101] (343,302)<img  />
+[102] (510,281)<a class='d-inline-block no-underline mb-1' href='/TropiGal' />
+	[103] (481,280)<span  />
+		[104] (481,280)<font  />
+			[105] (481,280)<font >케일라 시어스 />
+	[106] (560,281)<span  />
+		[107] (562,281)<font  />
+			[108] (562,281)<font >트로피갈 />
+빛나는 창의적인 전략! 🔆🌴
+플로리다
+[109] (944,283)<input aria-label='TropiGal을 팔로우하세요' class='btn btn-sm' title='TropiGal을 팔로우하세요' />
+[110] (343,431)<a class='d-inline-block' href='/Sumersingpatil2694' />
+	[111] (343,431)<img  />
+[112] (539,409)<a class='d-inline-block no-underline mb-1' href='/Sumersingpatil2694' />
+	[113] (473,408)<span  />
+		[114] (473,408)<font  />
+			[115] (473,408)<font >수머싱 파틸 />
+	[116] (582,409)<span  />
+		[117] (584,409)<font  />
+			[118] (584,409)<font >Sumersingpatil2694 />
+AI 전공 졸업생 | Python • SQL • 머신러닝 | 머신러닝 및 데이터 분석 프로젝트 경험 보유 | 데이터 과학 및 AI 분야 채용 기회에 관심 있음 | 신입 채용 기회 모두 환영
+GH 라이소니 경영대학원, 잘가온,
+인도
+[119] (944,411)<input aria-label='Sumersingpatil2694를 팔로우하세요' class='btn btn-sm' title='Sumersingpatil2694를 팔로우하세요' />
+[120] (343,597)<a class='d-inline-block' href='/itsFZA' />
+	[121] (343,597)<img  />
+[122] (477,575)<a class='d-inline-block no-underline mb-1' href='/itsFZA' />
+	[123] (455,575)<span  />
+		[124] (455,575)<font  />
+			[125] (455,575)<font >파이잔 />
+	[126] (503,576)<span  />
+		[127] (505,576)<font  />
+			[128] (505,576)<font >itsFZA />
+컴퓨터공학 전공 졸업생, 웹 개발자이자 파트타임 탁구 고수.
+[129] (944,577)<input aria-label='itsFZA를 팔로우하세요' class='btn btn-sm' title='itsFZA를 팔로우하세요' />
+[130] (343,718)<a class='d-inline-block' href='/Satbhai444' />
+	[131] (343,718)<img  />
+[132] (529,696)<a class='d-inline-block no-underline mb-1' href='/Satbhai444' />
+	[133] (488,695)<span  />
+		[134] (488,695)<font  />
+			[135] (488,695)<font >다르샨 사트바이 />
+	[136] (588,697)<span  />
+		[137] (590,697)<font  />
+			[138] (590,697)<font >사트바이444 />
+[139] (944,698)<input aria-label='Satbhai444를 팔로우하세요' class='btn btn-sm' title='Satbhai444를 팔로우하세요' />
+[140] (343,838)<a class='d-inline-block' href='/xiaotingsong' />
+	[141] (343,838)<img  />
+[142] (496,817)<a class='d-inline-block no-underline mb-1' href='/xiaotingsong' />
+	[143] (481,816)<span  />
+		[144] (481,816)<font  />
+			[145] (481,816)<font >팅송 샤오샤오 />
+	[146] (547,817)<span  />
+		[147] (549,817)<font  />
+			[148] (549,817)<font >팅송 />
+플로리다 대학교에서 컴퓨터 과학을 전공하는 박사 과정 학생입니다.
+UFL
+[149] (944,819)<input aria-label='샤오팅송을 팔로우하세요' class='btn btn-sm' title='샤오팅송을 팔로우하세요' />
+[150] (343,967)<a class='d-inline-block' href='/AlgorithmAlchemy' />
+	[151] (343,967)<img  />
+[152] (535,945)<a class='d-inline-block no-underline mb-1' href='/AlgorithmAlchemy' />
+	[153] (486,944)<span  />
+		[154] (486,944)<font  />
+			[155] (486,944)<font >알고리즘연금술 />
+	[156] (591,945)<span  />
+		[157] (593,945)<font  />
+			[158] (593,945)<font >알고리즘연금술 />
+백엔드 엔지니어
+[159] (944,947)<input aria-label='AlgorithmAlchemy를 팔로우하세요' class='btn btn-sm' title='AlgorithmAlchemy를 팔로우하세요' />
+
+</current_dom>

@@ -1,0 +1,103 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (264,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (271,25)<span  />
+		[8] (271,25)<font  />
+			[9] (271,25)<font >특허 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_16_' />
+팁
+저희의 인터랙티브 Colab 노트북으로 바로 시작해 보세요! TabPFN을 직접 체험해 볼 수 있는 가장 좋은 방법이며, 설치, 분류 및 회귀 예제를 단계별로 안내해 드립니다.
+[12] (241,102)<a href='https://colab.research.google.com/github/PriorLabs/TabPFN/blob/main/examples/notebooks/TabPFN_Demo_Local.ipynb' />
+	[13] (241,99)<img  />
+⚡
+GPU 권장
+: 최적의 성능을 위해서는 GPU를 사용하세요(8GB VRAM 정도의 구형 GPU도 잘 작동하지만, 일부 대용량 데이터셋의 경우 16GB가 필요합니다). CPU에서는 소규모 데이터셋(샘플 수 1,000개 이하)만 처리 가능합니다. GPU가 없으신가요?
+[14] (286,204)<a href='https://github.com/PriorLabs/tabpfn-client' />
+	[15] (286,204)<font  />
+		[16] (286,204)<font >TabPFN 클라이언트를 />
+통해 무료로 제공되는 호스팅 추론 기능을 이용해 보세요 .
+설치
+[17] (193,256)<a aria-label='영구 링크: 설치' class='anchor' href='#installation' id='user-content-installation' />
+공식 설치(pip)
+pip install tabpfn
+[18] (626,351)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+또는 소스에서 설치
+pip install
+"
+tabpfn @ git+https://github.com/PriorLabs/TabPFN.git
+"
+[19] (626,466)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+또는 로컬 개발 환경 설치: 먼저 개발에 사용하는
+[20] (371,527)<a href='https://docs.astral.sh/uv/getting-started/installation' />
+	[21] (371,527)<font  />
+		[22] (371,527)<font >uv />
+(버전 0.10.0 이상 권장)를 설치한 다음 실행하세요.
+git clone https://github.com/PriorLabs/TabPFN.git --depth 1
+cd
+TabPFN
+uv sync
+[23] (626,580)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+기본 사용법
+[24] (193,692)<a aria-label='고유 링크: 기본 사용법' class='anchor' href='#basic-usage' id='user-content-basic-usage' />
+합성 데이터로만 학습된 기본 TabPFN-2.6 모델을 사용하려면 다음과 같이 하세요.
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+clf
+=
+TabPFNClassifier
+()
+clf
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+clf
+.
+predict
+(
+X_test
+)
+reg
+=
+TabPFNRegressor
+()
+reg
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+reg
+.
+predict
+(
+X_test
+)
+[25] (626,788)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

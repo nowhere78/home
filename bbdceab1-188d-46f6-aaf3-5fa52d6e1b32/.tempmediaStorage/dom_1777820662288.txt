@@ -1,0 +1,174 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span >mikemolinet />
+[4] (136,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/agent-university' />
+	[5] (136,34)<span >agent-university />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[44] (73,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[45] (73,190)<span  />
+		[46] (67,190)<span  />
+			[47] (67,190)<div  />
+				[48] (19,190)<div  />
+				[49] (35,190)<div  />
+					[50] (35,190)<span >main />
+[51] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[52] (83,233)<span  />
+	[53] (17,233)<span  />
+	[54] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[55] (148,233)<span  />
+		[56] (148,233)<kbd  />
+			[57] (148,233)<span >t />
+				t
+				[58] (148,233)<span >T />
+[59] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='curricula-item' role='treeitem' />
+	[60] (79,279)<div  />
+		[61] (13,279)<div  />
+		[62] (84,279)<div  />
+			[63] (25,279)<div  />
+				[64] (25,279)<div  />
+			[65] (90,279)<span  />
+				[66] (47,279)<span >curricula />
+[67] (79,331)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+	[68] (79,314)<div  />
+		[69] (13,314)<div  />
+		[70] (84,314)<div  />
+			[71] (25,313)<div  />
+				[72] (25,313)<div  />
+			[73] (90,314)<span  />
+				[74] (41,314)<span >docs />
+	[75] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs/agent-university-concept.md-item' role='treeitem' />
+		[76] (79,348)<div  />
+			[77] (10,348)<div  />
+				[78] (10,348)<div  />
+					[79] (10,348)<div  />
+			[80] (86,348)<div  />
+				[81] (29,347)<div  />
+				[82] (92,348)<span  />
+					[83] (84,348)<span >agent-university-concept.md />
+[84] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains-item' role='treeitem' />
+	[85] (79,382)<div  />
+		[86] (13,382)<div  />
+		[87] (84,382)<div  />
+			[88] (25,382)<div  />
+				[89] (25,382)<div  />
+			[90] (90,382)<span  />
+				[91] (47,382)<span >domains />
+[92] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site-item' role='treeitem' />
+	[93] (79,416)<div  />
+		[94] (13,416)<div  />
+		[95] (84,416)<div  />
+			[96] (25,416)<div  />
+				[97] (25,416)<div  />
+			[98] (90,416)<span  />
+				[99] (39,416)<span >site />
+[100] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+	[101] (79,450)<div  />
+		[102] (84,450)<div  />
+			[103] (25,450)<div  />
+			[104] (90,450)<span  />
+				[105] (49,450)<span >.gitignore />
+[106] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CONTRIBUTING.md-item' role='treeitem' />
+	[107] (79,484)<div  />
+		[108] (84,484)<div  />
+			[109] (25,484)<div  />
+			[110] (90,484)<span  />
+				[111] (65,484)<span >CONTRIBUTING.md />
+[112] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+	[113] (79,518)<div  />
+		[114] (84,518)<div  />
+			[115] (25,518)<div  />
+			[116] (90,518)<span  />
+				[117] (53,518)<span >README.md />
+[118] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='lesson-format.md-item' role='treeitem' />
+	[119] (79,552)<div  />
+		[120] (84,552)<div  />
+			[121] (25,552)<div  />
+			[122] (90,552)<span  />
+				[123] (62,552)<span >lesson-format.md />
+[124] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skill.md-item' role='treeitem' />
+	[125] (79,586)<div  />
+		[126] (84,586)<div  />
+			[127] (25,586)<div  />
+			[128] (90,586)<span  />
+				[129] (45,586)<span >skill.md />
+[130] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='vercel.json-item' role='treeitem' />
+	[131] (79,620)<div  />
+		[132] (84,620)<div  />
+			[133] (25,620)<div  />
+			[134] (90,620)<span  />
+				[135] (50,620)<span >vercel.json />
+[136] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[137] (206,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main'>agent-university />
+/
+docs
+/
+[138] (289,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+More options
+[139] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='More options' />
+Latest commit
+History
+[140] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/agent-university/commits/main/docs' />
+	[141] (967,198)<span  />
+		[142] (972,198)<span  />
+			[143] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+parent directory
+[144] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main' />
+	[145] (584,304)<div >.. />
+[146] (244,347)<a aria-label='agent-university-concept.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/docs/agent-university-concept.md' title='agent-university-concept.md'>agent-university-concept.md />
+
+</current_dom>

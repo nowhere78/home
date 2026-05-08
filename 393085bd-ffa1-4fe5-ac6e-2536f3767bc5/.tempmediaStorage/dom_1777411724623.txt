@@ -1,0 +1,163 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,23)<header  />
+			[3] (68,23)<div  />
+				[4] (68,23)<a class='x1hl2dhg x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' href='/4-25-34db0dd76323803184a1d062685ba28e?pvs=18' role='link' />
+					[5] (68,23)<div  />
+						[6] (68,23)<div >첫번째 4월 25일 />
+			[7] (207,23)<div class='x87ps6o xt0e3qv x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm' role='button'>1교시 : 생성형 인공지능 />
+				1교시 : 생성형 인공지능
+			[8] (744,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[9] (783,23)<div aria-label='소셜 미디어에 사이트 공유' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[10] (823,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[11] (860,23)<div aria-label='추가 작업' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+			[12] (937,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>지금 시작하기 />
+		[13] (500,523)<main  />
+			[14] (500,523)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[15] (955,279)<div  />
+					[16] (955,279)<div  />
+						[17] (951,273)<div  />
+							[18] (961,185)<div  />
+								[19] (955,185)<div  />
+							[20] (961,200)<div  />
+								[21] (957,200)<div  />
+							[22] (961,215)<div  />
+								[23] (959,215)<div  />
+							[24] (961,230)<div  />
+								[25] (959,230)<div  />
+							[26] (961,244)<div  />
+								[27] (957,244)<div  />
+							[28] (961,259)<div  />
+								[29] (957,259)<div  />
+							[30] (961,274)<div  />
+								[31] (959,274)<div  />
+							[32] (961,289)<div  />
+								[33] (959,289)<div  />
+							[34] (961,304)<div  />
+								[35] (957,304)<div  />
+							[36] (961,319)<div  />
+								[37] (959,319)<div  />
+							[38] (961,333)<div  />
+								[39] (957,333)<div  />
+							[40] (961,348)<div  />
+								[41] (959,348)<div  />
+				[42] (491,51)<div  />
+					[43] (491,51)<div  />
+						[44] (491,51)<h3 >Chapter 2. 생성형 AI의 본질 이해하기 />
+							[45] (138,51)<img  />
+				[46] (491,92)<div  />
+					[47] (491,92)<blockquote  />
+						[48] (491,92)<div  />
+							[49] (493,92)<div  />
+								[50] (387,92)<span >"결국 인공지능이란, 수학적으로 만들어진 확률 컴퓨테이션 모델입니다." />
+				[51] (491,142)<div  />
+					[52] (491,142)<div  />
+						[53] (491,142)<div  />
+							[54] (491,142)<div >생성형 AI가 글, 그림, 음악을 모두 만들어낼 수 있는 이유는 무엇일까요? />
+								[55] (484,141)<span >컴퓨터의 입장에서 모든 것은 결국 '숫자(Text)'이기 때문입니다. />
+				[56] (491,189)<div  />
+					[57] (491,189)<div  />
+						[58] (135,189)<div  />
+							[59] (135,189)<span  />
+						[60] (506,189)<div  />
+							[61] (506,189)<div  />
+								[62] (506,189)<div >단어와 문장의 확률적 나열입니다. />
+									[63] (177,188)<span >텍스트: />
+				[64] (491,222)<div  />
+					[65] (491,222)<div  />
+						[66] (135,222)<div  />
+							[67] (135,222)<span  />
+						[68] (506,222)<div  />
+							[69] (506,222)<div  />
+								[70] (506,222)<div >0부터 255 사이의 숫자(RGB 픽셀 값)들이 쌓여있는 거대한 텍스트 파일과 같습니다. />
+									[71] (177,222)<span >이미지: />
+				[72] (491,256)<div  />
+					[73] (491,256)<div  />
+						[74] (135,256)<div  />
+							[75] (135,256)<span  />
+						[76] (506,256)<div  />
+							[77] (506,256)<div  />
+								[78] (506,256)<div >그 이미지(숫자 모음)가 연속적으로 이어지는 프레임의 집합입니다. />
+									[79] (169,256)<span >영상: />
+				[80] (491,290)<div  />
+					[81] (491,290)<div  />
+						[82] (135,290)<div  />
+							[83] (135,290)<span  />
+						[84] (506,290)<div  />
+							[85] (506,290)<div  />
+								[86] (506,290)<div >음파(주파수)의 높낮이를 기록한 숫자 데이터입니다. />
+									[87] (169,290)<span >소리: />
+				[88] (491,337)<div  />
+					[89] (491,337)<div  />
+						[90] (491,337)<div  />
+							[91] (491,337)<div >모든 데이터가 숫자로 이루어져 있다면, 강력한 언어 모델 하나만으로 텍스트, 이미지, 영상, 음악을 모두 '생성'하고 통제할 수 있습니다. />
+								[92] (133,324)<img  />
+								[93] (197,323)<span >핵심 인사이트: />
+				[94] (491,374)<div  />
+					[95] (491,374)<div  />
+				[96] (491,426)<div  />
+					[97] (491,426)<div  />
+						[98] (491,426)<h3 >Chapter 3. 트랜스포머(Transformer) 모델의 혁명 />
+							[99] (138,425)<img  />
+				[100] (491,476)<div  />
+					[101] (491,476)<div  />
+						[102] (491,476)<div  />
+							[103] (491,476)<div >2017년, 챗GPT의 탄생을 이끈 구글의 핵심 아이디어입니다. 깊은 수학적 이론보다는 '인문학적'으로 이해해 봅시다. />
+				[104] (491,539)<div  />
+					[105] (491,539)<div  />
+						[106] (491,539)<h4 >과거의 모델: 순환 신경망 (RNN) />
+				[107] (491,574)<div  />
+					[108] (491,574)<div  />
+						[109] (135,574)<div  />
+							[110] (135,574)<div  />
+						[111] (506,574)<div  />
+							[112] (506,574)<div  />
+								[113] (506,574)<div >단어를 처음부터 끝까지 '순서대로' 하나씩 읽습니다. />
+									[114] (169,574)<span >방식: />
+				[115] (491,621)<div  />
+					[116] (491,621)<div  />
+						[117] (135,608)<div  />
+							[118] (135,608)<div  />
+						[119] (506,621)<div  />
+							[120] (506,621)<div  />
+								[121] (506,621)<div >문장이 길어지면 앞부분의 내용을 까먹습니다. (기억력 상실) 긴 프롬프트를 입력하면 원하는 결과가 나오지 않던 이유입니다. />
+									[122] (169,608)<span >한계: />
+				[123] (491,684)<div  />
+					[124] (491,684)<div  />
+						[125] (491,684)<h4 >현재의 모델: 트랜스포머 (Transformer) />
+				[126] (491,719)<div  />
+					[127] (491,719)<div  />
+						[128] (135,719)<div  />
+							[129] (135,719)<div  />
+						[130] (506,719)<div  />
+							[131] (506,719)<div  />
+								[132] (506,719)<div  />
+									[133] (169,719)<span >방식: />
+									[134] (401,719)<span >"단어 순서대로 보지 말고, 전체적인 맥락을 한 번에 파악해라!" />
+				[135] (491,779)<div  />
+					[136] (491,779)<div  />
+						[137] (135,753)<div  />
+							[138] (135,753)<div  />
+						[139] (506,779)<div  />
+							[140] (506,779)<div  />
+								[141] (506,779)<div >아무리 길고 복잡한 정보를 줘도 앞부분을 까먹지 않고
+합니다. 이 기술 덕분에 우리가 엄청나게 긴 지시문(프롬프트)을 내려도 AI가 찰떡같이 알아듣고 수행할 수 있게 되었습니다. />
+									[142] (169,753)<span >혁신: />
+									[143] (653,753)<span >전체 맥락(Context)을 이해 />
+				[144] (491,829)<div  />
+					[145] (491,829)<div  />
+				[146] (491,880)<div  />
+					[147] (491,880)<div  />
+						[148] (491,880)<h3 >Chapter 4. 실전! 제이슨 프롬프트 (JSON Prompt) />
+							[149] (138,880)<img  />
+				[150] (491,930)<div  />
+					[151] (491,930)<div  />
+						[152] (491,930)<div  />
+							[153] (491,930)<div >트랜스포머 모델의 뛰어난 이해력을 극대화하기 위해, 우리는 AI에게 **'제이슨(JSON)'**이라는 구조화된 언어로 명령을 내립니다. />
+				JSON 프롬프트의 특징과 장점
+
+</current_dom>

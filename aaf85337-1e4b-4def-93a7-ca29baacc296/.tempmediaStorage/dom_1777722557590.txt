@@ -1,0 +1,140 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,9)<a class='impression-logged view-logged' href='/vp/products/9450934271?vendorItemId=95071115042&sourceType=sdp_bottom_promotion&searchId=feed-aa7672a352e349cbb759973704981c0f-3.3.107:gw_promotion' />
+	[1] (105,15)<div >특가진행중 />
+	[2] (167,124)<div  />
+		[3] (167,51)<div >1+1 원터치 초강력 자석형 싱크대 음식물 거름망, 1세트, 2개 />
+		[4] (167,92)<div  />
+			[5] (79,92)<span >할인 />
+			[6] (108,92)<span >39% />
+			[7] (141,92)<span >17,800 />
+		[8] (167,115)<div  />
+			[9] (102,115)<span >10,710
+원 />
+			[10] (194,115)<div  />
+				[11] (178,115)<img  />
+				[12] (236,115)<img  />
+		[13] (167,134)<div >(1개 5,355원) />
+		[14] (167,159)<div >내일(일) 도착 보장 />
+		[15] (167,180)<div  />
+			[16] (103,180)<span  />
+				[17] (89,180)<span  />
+			[18] (155,181)<span >(
+10
+) />
+		[19] (167,206)<div  />
+			[20] (103,206)<div  />
+				[21] (103,206)<div  />
+			[22] (174,206)<div >98 % 남음 />
+[23] (389,9)<a class='impression-logged view-logged' href='/vp/products/9447348737?vendorItemId=95059406374&sourceType=sdp_bottom_promotion&searchId=feed-aa7672a352e349cbb759973704981c0f-3.3.107:gw_promotion' />
+	[24] (327,15)<div >특가진행중 />
+	[25] (389,124)<div  />
+		[26] (389,51)<div >깔끔더하기 주방 대형 음식물 거름망 물빠짐 바구니, 1개, 그린 />
+		[27] (389,92)<div  />
+			[28] (314,92)<span >쿠폰할인 />
+			[29] (355,92)<span >44% />
+			[30] (388,92)<span >12,900 />
+		[31] (389,115)<div  />
+			[32] (319,115)<span >7,220
+원 />
+			[33] (406,115)<div  />
+				[34] (390,115)<img  />
+				[35] (448,115)<img  />
+		[36] (389,134)<div >(1개 7,220원) />
+		[37] (389,159)<div >내일(일) 도착 보장 />
+		[38] (389,180)<div  />
+			[39] (325,180)<span  />
+				[40] (325,180)<span  />
+			[41] (377,181)<span >(
+12
+) />
+		[42] (389,206)<div  />
+			[43] (325,206)<div  />
+				[44] (325,206)<div  />
+			[45] (396,206)<div >99 % 남음 />
+[46] (611,9)<a class='impression-logged view-logged' href='/vp/products/9168086856?vendorItemId=93984146290&sourceType=sdp_bottom_promotion&searchId=feed-aa7672a352e349cbb759973704981c0f-3.3.107:gw_promotion' />
+	[47] (549,15)<div >특가진행중 />
+	[48] (611,124)<div  />
+		[49] (611,51)<div >깔끔더하기 싱크대 음식물 거름망 쓰레기통, 1개, 실버 />
+		[50] (611,92)<div  />
+			[51] (535,92)<span >쿠폰할인 />
+			[52] (577,92)<span >23% />
+			[53] (610,92)<span >12,900 />
+		[54] (611,115)<div  />
+			[55] (540,115)<span >9,870
+원 />
+			[56] (628,115)<div  />
+				[57] (611,115)<img  />
+				[58] (670,115)<img  />
+		[59] (611,134)<div >(1개 9,870원) />
+		[60] (611,159)<div >내일(일) 도착 보장 />
+		[61] (611,180)<div  />
+			[62] (547,180)<span  />
+				[63] (540,180)<span  />
+			[64] (598,181)<span >(
+47
+) />
+		[65] (611,206)<div  />
+			[66] (547,206)<div  />
+				[67] (547,206)<div  />
+			[68] (617,206)<div >99 % 남음 />
+[69] (833,9)<a class='impression-logged view-logged' href='/vp/products/8907154791?vendorItemId=93107311220&sourceType=sdp_bottom_promotion&searchId=feed-aa7672a352e349cbb759973704981c0f-3.3.107:gw_promotion' />
+	[70] (771,15)<div >특가진행중 />
+	[71] (833,124)<div  />
+		[72] (833,51)<div >엘스토리아 원터치 싱크대 음식물 쓰레기 물기제거 물빠짐 거름망, 2개, 민트 그린 />
+		[73] (833,92)<div  />
+			[74] (745,92)<span >할인 />
+			[75] (774,92)<span >56% />
+			[76] (806,92)<span >13,030 />
+		[77] (833,115)<div  />
+			[78] (762,115)<span >5,620
+원 />
+			[79] (849,115)<div  />
+				[80] (833,115)<img  />
+				[81] (892,115)<img  />
+		[82] (833,134)<div >(1개 2,810원) />
+		[83] (833,159)<div >내일(일) 도착 보장 />
+		[84] (833,180)<div  />
+			[85] (769,180)<span  />
+				[86] (761,180)<span  />
+			[87] (824,181)<span >(
+246
+) />
+		[88] (833,206)<div  />
+			[89] (769,206)<div  />
+				[90] (767,206)<div  />
+			[91] (839,206)<div >96 % 남음 />
+특가진행중
+젠토 녹제로 304 올스텐 싱크대 코너형 음식물 거름망, 1개, 실버
+쿠폰할인
+11,230
+(1개 11,230원)
+내일(일) 도착 보장
+[92] (500,296)<div  />
+	[93] (141,297)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa] twc-border-b-0 twc-bg-[#fff] twc-text-[#111]'>상품상세 />
+	[94] (380,297)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품평
+(
+255
+) />
+	[95] (620,297)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품문의 />
+	[96] (859,297)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>배송/교환/반품 안내 />
+필수 표기 정보
+품명 및 모델명
+켈본 떨어지지 않는 자석형 음식물 걸이형 필터 거름망 바구니
+재질
+PET
+구성품
+싱크대 거름망 1개
+크기
+컨텐츠참조
+출시년월
+업체미제공
+제조자(수입자)
+켈본 협력업체(정확한 제조사 정보 업체 미제공) /업체미제공
+[97] (500,587)<div  />
+	[98] (490,587)<span >필수 표기 정보 더보기 />
+	[99] (578,593)<span  />
+
+</current_dom>

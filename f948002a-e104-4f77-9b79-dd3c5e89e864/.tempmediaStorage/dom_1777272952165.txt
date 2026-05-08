@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+MotionVFX가 Apple의 일부가 됩니다.
+[0] (607,20)<button class='font-bold antialiased text-xs h-[28px] js2-open-announcement flex items-center whitespace-nowrap rounded-xl bg-[#111111] !px-4 text-white hover:no-underline' />
+	[1] (607,20)<font  />
+		[2] (607,20)<font >더 읽어보기 />
+[3] (690,20)<button class='js2-close-notice -m-1 flex items-center p-1' />
+	[4] (690,20)<span  />
+		[5] (698,20)<font  />
+			[6] (698,20)<font >출구 />
+[7] (76,77)<a aria-label='MotionVFX 홈페이지' class='flex h-[60px] items-center' href='/' />
+	[8] (76,77)<div  />
+		[9] (39,77)<div  />
+		[10] (98,77)<span  />
+			[11] (98,77)<font  />
+				[12] (98,77)<font >모션VFX />
+[13] (500,77)<a class='font-bold antialiased text-xs xl+:text-sm 4xl:text-base h-[28px] xl+:h-[36px] 4xl:h-[40px] flex items-center rounded-[100px] bg-yellow px-2.5 text-black hover:bg-yellow-hover hover:text-black md:px-5 xl+:hidden' href='/pricing' />
+	[14] (500,77)<font  />
+		[15] (500,77)<font >무료 체험 시작하기 />
+[16] (958,77)<a aria-label='로그인' class='dropdown-toggle-auth h-full items-center justify-center hover:text-yellow md:flex' id='authSectionBtn' role='button' />
+	[17] (958,77)<div  />
+		[18] (958,77)<span  />
+			[19] (977,77)<font  />
+				[20] (977,77)<font >사용자 />
+[21] (901,77)<button class='font-semibold antialiased text-md xl+:text-sm 4xl:text-base leading-[40px] min-h-[40px] 4xl:leading-[50px] 4xl:min-h-[50px]  flex items-center  dropdown-toggle-menu xl+:hidden flex items-center' />
+	[22] (901,77)<span  />
+		[23] (910,77)<font  />
+			[24] (910,77)<font >메뉴 />
+[25] (358,157)<a class='mx-1 block whitespace-nowrap rounded-sm font-semibold text-[#9a9a9a] transition-colors duration-200 hover:text-white py-4 text-sm px-1.5 md:px-2' href='/software' />
+	[26] (358,157)<font  />
+		[27] (358,157)<font >m소프트웨어 />
+[28] (455,157)<a class='mx-1 block whitespace-nowrap rounded-sm font-semibold transition-colors duration-200 py-4 text-sm px-1.5 md:px-2 text-[var(--accent-text)] hover:text-white' href='/collections' />
+	[29] (455,157)<font  />
+		[30] (455,157)<font >m컬렉션 />
+[31] (526,157)<a class='mx-1 block whitespace-nowrap rounded-sm font-semibold text-[#9a9a9a] transition-colors duration-200 hover:text-white py-4 text-sm px-1.5 md:px-2' href='/elements' />
+	[32] (526,157)<font  />
+		[33] (526,157)<font >요소 />
+[34] (600,157)<button class='mx-1 block whitespace-nowrap rounded-sm font-semibold text-[#9a9a9a] transition-colors duration-200 hover:text-white py-4 text-sm px-1.5 md:px-2 relative max-md:hidden' />
+	[35] (600,157)<font  />
+		[36] (600,157)<font >내 도서관 />
+[37] (673,157)<button class='mx-1 block whitespace-nowrap rounded-sm px-1 font-semibold text-[#9a9a9a] transition-colors hover:text-white text-sm py-1 duration-150 md:px-2.5 [&:hover_.i]:[font-variation-settings:'ANIM'_1000] mr-[8.5px] max-md:hidden md:mr-[1.5px]' />
+	[38] (673,157)<span  />
+		[39] (672,157)<font  />
+			[40] (672,157)<font >별 />
+찾다
+[41] (484,216)<input class='h-[30px] w-full rounded-sm bg-[var(--input-bg)] pl-[34px] text-xs text-white ring-[1px] ring-[transparent] transition-[box-shadow] duration-100 focus-visible:outline-none focus-visible:ring-[var(--accent)] pr-[60px]' placeholder='찾다' />
+[42] (599,216)<button class='absolute right-0 top-0 flex h-[30px] w-[30px] items-center justify-center rounded-sm [&:hover_.i]:[font-variation-settings:'ANIM'_750] text-[var(--light-text)] hover:text-[var(--light-hover)]' id='headlessui-popover-button-v-3' />
+	[43] (599,216)<span  />
+		[44] (599,216)<font  />
+			[45] (599,216)<font >필터_1 />
+[46] (630,216)<button class='flex h-[30px] w-[30px] items-center justify-center rounded-sm [&:hover_.i]:[font-variation-settings:'ANIM'_750] text-[var(--light-text)] hover:text-[var(--light-hover)]' id='headlessui-popover-button-v-5' />
+	[47] (630,216)<span  />
+		[48] (630,216)<font  />
+			[49] (630,216)<font >그리드_2 />
+[50] (863,854)<a class='block h-[30px] whitespace-nowrap border px-2 text-xs font-bold antialiased leading-none transition-[color,background-color,border-color,opacity] duration-200 disabled:!pointer-events-none text-[var(--light)] border-transparent bg-[var(--accent)] hover:bg-[var(--btn-accent-hover)] hover:text-[var(--light-hover)] disabled:opacity-60 rounded-sm mr-2' href='/pricing' />
+	[51] (863,854)<span >Get collection />
+		Get collection
+[52] (943,854)<a aria-label='DesignStudio Professional' class='h-[30px] whitespace-nowrap border border-transparent px-2 text-xs font-bold antialiased leading-none transition-[color,background-color,border-color,opacity] duration-200 disabled:!pointer-events-none hover:bg-[var(--btn-light-hover)] text-[var(--dark)] hover:text-[var(--dark-hover)] disabled:opacity-60 rounded-sm flex w-[30px] items-center justify-center bg-white' href='/pricing' />
+	[53] (943,854)<span  />
+		[54] (943,854)<div  />
+[55] (979,854)<button class='flex h-6 w-4 items-center justify-center rounded-sm text-sm font-semibold text-white/65 hover:text-[var(--light-hover)]' id='headlessui-menu-button-v-7' />
+	[56] (979,854)<span >more_vert />
+The world’s top tech YouTuber and vlogger, Marques Brownlee, aka MKBHD, shares his secrets and style with a toolbox of editing essentials, clever things, and tricks. From pros, for pros!
+[57] (29,981)<button class='pointer-events-auto flex items-center' />
+	[58] (29,981)<span >fcp_transitions />
+Transitions
+more_vert
+
+</current_dom>

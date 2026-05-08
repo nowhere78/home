@@ -1,0 +1,191 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (125,34)<span  />
+			[5] (80,34)<span >topic: />
+			[6] (114,34)<span >passive-income />
+			[7] (159,34)<span >ai-workflow />
+[8] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[9] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[10] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[11] (870,34)<span  />
+[12] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[13] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[14] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[15] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[16] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[17] (983,34)<img  />
+저장소 검색 결과 · 주제:수동 소득 AI 워크플로
+필터 기준
+[18] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=code' id='_R_5sraqdb_' />
+	[19] (83,148)<span  />
+		[20] (75,148)<span  />
+			[21] (32,148)<font  />
+				[22] (32,148)<font >암호 />
+		0
+		(
+		0
+		)
+		결과
+[23] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=repositories' id='_R_9sraqdb_' />
+	[24] (83,182)<span  />
+		[25] (75,182)<span  />
+			[26] (35,181)<font  />
+				[27] (35,181)<font >저장소 />
+		0
+		(
+		0
+		)
+		결과
+[28] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=issues' id='_R_dsraqdb_' />
+	[29] (83,216)<span  />
+		[30] (70,216)<span  />
+			[31] (35,215)<font  />
+				[32] (35,215)<font >문제점 />
+		246k
+		(
+		246k
+		)
+		결과
+[33] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=pullrequests' id='_R_hsraqdb_' />
+	[34] (83,250)<span  />
+		[35] (69,250)<span  />
+			[36] (43,249)<font  />
+				[37] (43,249)<font >풀 리퀘스트 />
+		100만
+		(
+		1M
+		)
+		결과
+[38] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=discussions' id='_R_lsraqdb_' />
+	[39] (83,284)<span  />
+		[40] (75,284)<span  />
+			[41] (32,283)<font  />
+				[42] (32,283)<font >토론 />
+		0
+		(
+		0
+		)
+		결과
+[43] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=users' id='_R_psraqdb_' />
+	[44] (83,317)<span  />
+		[45] (75,317)<span  />
+			[46] (35,317)<font  />
+				[47] (35,317)<font >사용자 />
+		0
+		(
+		0
+		)
+		결과
+[48] (77,351)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=commits' id='_r_2_' />
+	[49] (83,351)<span  />
+		[50] (75,351)<span  />
+			[51] (32,351)<font  />
+				[52] (32,351)<font >커밋 />
+		0
+		(
+		0
+		)
+		결과
+[53] (77,385)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=registrypackages' id='_r_3_' />
+	[54] (83,385)<span  />
+		[55] (75,385)<span  />
+			[56] (35,385)<font  />
+				[57] (35,385)<font >패키지 />
+		0
+		(
+		0
+		)
+		결과
+[58] (77,419)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=wikis' id='_r_4_' />
+	[59] (83,419)<span  />
+		[60] (75,419)<span  />
+			[61] (32,419)<font  />
+				[62] (32,419)<font >위키 />
+		0
+		(
+		0
+		)
+		결과
+[63] (77,453)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=topics' id='_r_5_' />
+	[64] (83,453)<span  />
+		[65] (75,453)<span  />
+			[66] (32,452)<font  />
+				[67] (32,452)<font >주제 />
+		0
+		(
+		0
+		)
+		결과
+[68] (77,487)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Apassive-income+ai-workflow&type=marketplace' id='_r_6_' />
+	[69] (83,487)<span  />
+		[70] (75,487)<span  />
+			[71] (32,486)<font  />
+				[72] (32,486)<font >시장 />
+		0
+		(
+		0
+		)
+		결과
+[73] (77,539)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_R_2baqdb_' />
+	[74] (83,539)<span  />
+		[75] (83,539)<span  />
+			[76] (39,538)<font  />
+				[77] (39,538)<font >고급 검색 />
+[78] (154,434)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+0개 결과
+(
+94ms
+)
+0개 결과
+[79] (880,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[80] (876,99)<span  />
+		[81] (876,99)<span  />
+			[82] (850,99)<span  />
+				[83] (850,99)<font  />
+					[84] (850,99)<font >정렬 기준: />
+			[85] (890,99)<font  />
+				[86] (890,99)<font >가장 일치하는 항목 />
+[87] (950,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[88] (950,99)<span  />
+		[89] (950,99)<span  />
+			[90] (950,99)<div  />
+				[91] (955,99)<font  />
+					[92] (955,99)<font >구하다 />
+[93] (980,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+검색 결과와 일치하는 저장소가
+없습니다.
+[94] (540,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=topic%3Apassive-income+ai-workflow&type=pullrequests' />
+	[95] (540,319)<font >하지만 검색 결과와 일치하는 풀 리퀘스트가 />
+[96] (621,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=topic%3Apassive-income+ai-workflow&type=pullrequests' />
+	[97] (620,319)<font  />
+		[98] (620,319)<font >100만 건 />
+,
+[99] (651,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=topic%3Apassive-income+ai-workflow&type=issues' />
+	[100] (651,319)<font >이슈가 />
+[101] (675,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=topic%3Apassive-income+ai-workflow&type=issues' />
+	[102] (675,319)<font >24만 6천 />
+건 발견되었습니다
+. 또는 아래 팁 중 하나를 시도해 보세요.
+[103] (630,395)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[104] (630,395)<summary class='Tips-module__tipSummary__PddGV' />
+		[105] (626,395)<span  />
+			[106] (512,395)<font  />
+				[107] (512,395)<font >조직 전체에서 검색 />
+[108] (630,437)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[109] (630,437)<summary class='Tips-module__tipSummary__PddGV' />
+		[110] (626,437)<span  />
+			[111] (501,437)<font  />
+				[112] (501,437)<font >저장된 검색 />
+[113] (489,493)<a class='prc-Link-Link-9ZwDx' href='/search/advanced?q=topic%3Apassive-income+ai-workflow' />
+	[114] (489,493)<font >고급 검색을 />
+시도해 볼 수 있습니다
+.
+
+</current_dom>

@@ -1,0 +1,396 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (80,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mind-protocol' />
+		[4] (80,34)<span  />
+			[5] (80,33)<font  />
+				[6] (80,33)<font >마인드 프로토콜 />
+	[7] (133,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mind-protocol/terminal-velocity' />
+		[8] (133,34)<span  />
+			[9] (133,33)<font  />
+				[10] (133,33)<font >종단 속도 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_1o_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_1t_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (96,80)<span  />
+			[35] (96,80)<span  />
+				[36] (96,80)<font  />
+					[37] (96,80)<font >1 />
+			(
+			1
+			)
+	[38] (141,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/pulls' />
+		[39] (118,80)<span  />
+		[40] (147,80)<span  />
+			[41] (147,80)<font  />
+				[42] (147,80)<font >풀 리퀘스트 />
+	[43] (205,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/agents?author=nowhere78' />
+		[44] (185,80)<span  />
+		[45] (211,80)<span  />
+			[46] (211,80)<font  />
+				[47] (211,80)<font >자치령 대표 />
+	[48] (260,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/actions' />
+		[49] (246,80)<span  />
+		[50] (266,80)<span  />
+			[51] (266,80)<font  />
+				[52] (266,80)<font >행위 />
+	[53] (311,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/projects' />
+		[54] (295,80)<span  />
+		[55] (317,80)<span  />
+			[56] (317,80)<font  />
+				[57] (317,80)<font >프로젝트 />
+	[58] (382,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/security' />
+		[59] (347,80)<span  />
+		[60] (388,80)<span  />
+			[61] (388,80)<font  />
+				[62] (388,80)<font >보안 및 품질 />
+	[63] (453,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mind-protocol/terminal-velocity/pulse' />
+		[64] (438,80)<span  />
+		[65] (460,80)<span  />
+			[66] (460,80)<font  />
+				[67] (460,80)<font >인사이트 />
+[68] (221,139)<a class='d-block overflow-x-hidden color-fg-default' href='/mind-protocol/terminal-velocity' />
+	[69] (221,138)<font  />
+		[70] (221,138)<font >종단 속도 />
+공공의
+[71] (638,138)<div  />
+	[72] (638,138)<button aria-label='시청하기: 마인드 프로토콜/최종 속도 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_2p_' />
+		[73] (634,138)<span  />
+			[74] (631,138)<span  />
+				[75] (631,137)<font  />
+					[76] (631,137)<font >보다 />
+			30
+			(
+			30
+			)
+[77] (697,139)<a class='btn-sm btn BtnGroup-item' href='/mind-protocol/terminal-velocity/fork' id='fork-button' />
+	[78] (696,139)<font  />
+		[79] (696,141)<font >포크 />
+	[80] (711,138)<span  />
+		[81] (711,138)<font  />
+			[82] (711,138)<font >79 />
+[83] (733,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-889673052' />
+	[84] (733,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[85] (773,138)<button aria-label='이 저장소에 별표를 눌러주세요 (1100)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[86] (770,138)<span  />
+		[87] (770,138)<font  />
+			[88] (770,138)<font >별 />
+	[89] (784,138)<span  />
+		[90] (784,138)<font  />
+			[91] (784,138)<font >1.1k />
+[92] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-889673052-unstarred-button' />
+마인드 프로토콜/종단 속도
+[93] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[94] (209,216)<span  />
+		[95] (203,216)<span  />
+			[96] (203,216)<div  />
+				[97] (194,216)<div  />
+				[98] (208,216)<div  />
+					[99] (208,216)<span  />
+						[100] (209,216)<font  />
+							[101] (209,216)<font >기본 />
+[102] (257,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mind-protocol/terminal-velocity/branches' />
+	[103] (257,216)<span  />
+		[104] (264,216)<span  />
+			[105] (264,216)<span  />
+				[106] (257,216)<strong  />
+					[107] (256,216)<font  />
+						[108] (256,216)<font >1 />
+				[109] (266,216)<font  />
+					[110] (266,216)<font >지점 />
+[111] (298,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mind-protocol/terminal-velocity/tags' />
+	[112] (298,216)<span  />
+		[113] (305,216)<span  />
+			[114] (305,216)<span  />
+				[115] (301,216)<strong  />
+					[116] (300,216)<font  />
+						[117] (300,216)<font >태그 0 />
+				[118] (315,216)<font  />
+					[119] (315,216)<font >개 />
+[120] (481,216)<span  />
+	[121] (431,216)<span  />
+	[122] (480,216)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[123] (531,216)<span  />
+		[124] (531,216)<kbd  />
+			[125] (531,216)<span >t />
+				t
+				[126] (531,216)<span >T />
+파일 추가
+[127] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_e_' />
+	[128] (572,216)<span  />
+		[129] (572,216)<span  />
+			[130] (572,216)<span  />
+				[131] (566,216)<font  />
+					[132] (566,216)<font >파일 추가 />
+[133] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_i_' />
+	[134] (628,216)<span  />
+		[135] (628,216)<span  />
+			[136] (628,216)<font  />
+				[137] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+저장소 시각화 도구(aider)
+[138] (390,278)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/d62248be80fd64ad2f5c40c0602cc6c9fcd30a7b' />
+	[139] (390,278)<font  />
+		[140] (390,278)<font >문서: README.md 링크에서 원고 파일 이름을 올바르게 수정하세요 />
+[141] (572,278)<a aria-label='커밋 d62248b' class='Link--secondary prc-Link-Link-9ZwDx' href='/mind-protocol/terminal-velocity/commit/d62248be80fd64ad2f5c40c0602cc6c9fcd30a7b' />
+	[142] (572,278)<font  />
+		[143] (572,278)<font >d62248b />
+·
+벨
+역사
+[144] (623,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mind-protocol/terminal-velocity/commits/main/' />
+	[145] (623,278)<span  />
+		[146] (628,278)<span  />
+			[147] (628,278)<span  />
+				[148] (628,278)<font  />
+					[149] (628,278)<font >5,972 커밋 />
+[150] (419,328)<tr  />
+	[151] (243,328)<a aria-label='`/story/act1` (디렉토리)을 업데이트하세요.' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/Update%20%60/story/act1' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[152] (209,328)<span  />
+			[153] (209,328)<font  />
+				[154] (209,328)<font >`/ />
+		[155] (225,328)<span  />
+			[156] (225,328)<font  />
+				[157] (225,328)<font >스토리/ />
+		[158] (259,328)<span  />
+			[159] (259,328)<font  />
+				[160] (259,328)<font >1 막 업데이트` />
+	[161] (387,328)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/8090dcb622e48e0ee38bb7a74d289aa73d728fa9' title='미는' />
+		[162] (387,328)<font  />
+			[163] (387,328)<font >미는 />
+	2년 전
+[164] (419,371)<tr  />
+	[165] (220,371)<a aria-label='챕터/1막, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/chapters/act1' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[166] (215,371)<span  />
+			[167] (215,371)<font  />
+				[168] (215,371)<font >챕터/ />
+		[169] (229,371)<span  />
+			[170] (229,371)<font  />
+				[171] (229,371)<font >1막 />
+	[172] (473,371)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/865a54530a8833da4ad04bae66656fa6756b41ca' title='주요 성과: 스토리 콘텐츠 중복 제거 프로세스 시작. 사이퍼와 이사벨라 토레스의 통합 캐릭터 프로필을 생성하고 장면 설명을 병합하여 스토리 파일의 중복을 제거했습니다.' />
+		[173] (473,371)<font  />
+			[174] (473,371)<font >주요 기능: 스토리 콘텐츠의 중복 제거 프로세스를 시작합니다. />
+	2년 전
+[175] (419,414)<tr  />
+	[176] (216,415)<a aria-label='문자, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/characters' title='캐릭터' />
+		[177] (216,415)<font  />
+			[178] (216,415)<font >캐릭터 />
+	[179] (484,415)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/75b0318ab02ef707be4b972b9e691550825911ba' title='특징: 프로필 및 성능 업데이트를 통해 인공지능 식민지의 문화적 목소리로서 합성 영혼을 강화합니다.' />
+		[180] (484,415)<font  />
+			[181] (484,415)<font >특징: 인공지능 식민지의 문화적 목소리로서 합성 영혼을 강화합니다… />
+	2년 전
+[182] (419,458)<tr  />
+	[183] (216,458)<a aria-label='연대기, (인디케이션)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/chronicles' title='연대기' />
+		[184] (216,458)<font  />
+			[185] (216,458)<font >연대기 />
+	[186] (467,458)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/cafcbf4bd8f33532360dd9e3ef34954d44ec8ec0' title='문서: "터미널 벨로시티"의 기초 문서를 작성합니다. 캐릭터 개발, 줄거리 진행, 팀 역학 및 주요 단계 등 창작 과정을 체계적으로 문서화하는 접근 방식을 수립합니다.' />
+		[187] (467,458)<font  />
+			[188] (467,458)<font >문서: "Terminal Velocity"에 대한 기본 문서를 작성합니다. />
+	2년 전
+[189] (419,501)<tr  />
+	[190] (228,502)<a aria-label='문서 (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/documentation' title='선적 서류 비치' />
+		[191] (228,502)<font  />
+			[192] (228,502)<font >선적 서류 비치 />
+	[193] (484,502)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/6213c63b99f4d3c99ba738e56b8cce0c5c6175f1' title='문서: 중복 제거 결과를 업데이트하여 감지된 중복 및 겹치는 부분을 추가했습니다. "터미널 벨로시티" 임무의 중복 제거 과정을 용이하게 하기 위해, 서술 파일에서 감지된 중복 및 부분적 겹침을 기록하는 섹션을 추가했습니다.' />
+		[194] (484,502)<font  />
+			[195] (484,502)<font >문서: 중복 제거 결과를 감지된 중복 항목 및 초과 항목으로 업데이트… />
+	2년 전
+[196] (419,544)<tr  />
+	[197] (212,545)<a aria-label='평가, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/evaluation' title='평가' />
+		[198] (212,545)<font  />
+			[199] (212,545)<font >평가 />
+	[200] (384,545)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/85238a935e53803b625597dda2519115abe4ef8d' title='```` 문서: 명확성을 위해 상세한 예시를 포함하여 스타일 가이드를 업데이트했습니다. `style_guide.md` 파일에 등장인물 대화, 능동태 사용, 내면 독백에 대한 예시를 추가하여 서술의 명확성과 몰입도를 향상시켰습니다. ````' />
+		[201] (384,545)<font  />
+			[202] (384,545)<font >```` />
+	2년 전
+[203] (419,588)<tr  />
+	[204] (224,588)<a aria-label='최종 텍스트, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/final_text' title='최종 텍스트' />
+		[205] (224,588)<font  />
+			[206] (224,588)<font >최종 텍스트 />
+	[207] (502,588)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/82b9e4695275b8f5025edaf30432e2b739a5d02b' title='리팩토링: 서문을 업데이트하여 새로운 기술 여정 및 창작 과정 섹션을 추가했습니다.' />
+		[208] (502,588)<font  />
+			[209] (502,588)<font >리팩토링: 새로운 기술 여정과 창의적인 프로세스를 담아 서문을 업데이트합니다… />
+	2년 전
+[210] (419,631)<tr  />
+	[211] (220,632)<a aria-label='조사 결과, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/findings' title='연구 결과' />
+		[212] (220,632)<font  />
+			[213] (220,632)<font >연구 결과 />
+	[214] (485,632)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/bb2ff524efdf95a74ea10bc3e8c7dc1c0ff041d0' title='수정 사항: knowledge_gaps.md 파일의 검색/바꾸기 블록을 수정했습니다. 검색/바꾸기 작업이 성공적으로 수행될 수 있도록 지식 격차 문서의 헤더를 기존 형식에 맞게 업데이트했습니다.' />
+		[215] (485,632)<font  />
+			[216] (485,632)<font >수정: knowledge_gaps.md 파일의 검색/바꾸기 블록을 수정했습니다. />
+	2년 전
+[217] (419,675)<tr  />
+	[218] (219,675)<a aria-label='아이디어, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/ideas' title='아이디어' />
+		[219] (219,675)<font  />
+			[220] (219,675)<font >아이디어 />
+	[221] (412,675)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ee850a12e53dafd0f5432e569fe55547a5d6893d' title='파일을 이동했습니다.' />
+		[222] (412,675)<font  />
+			[223] (412,675)<font >파일을 이동했습니다. />
+	2년 전
+[224] (419,718)<tr  />
+	[225] (216,719)<a aria-label='mathweb, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/mathweb' title='매스웹' />
+		[226] (216,719)<font  />
+			[227] (216,719)<font >매스웹 />
+	[228] (449,719)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/2675dff4edf0341623c5dfb0bb90dc515f074558' title='리팩토링: 문서의 연구 주제를 업데이트했습니다. "터미널 벨로시티" 프로젝트의 명확성과 관련성을 높이기 위해 오래된 연구 주제를 더욱 정교한 설명으로 대체했습니다.' />
+		[229] (449,719)<font  />
+			[230] (449,719)<font >리팩토링: 문서의 연구 주제를 업데이트합니다. />
+	2년 전
+[231] (419,761)<tr  />
+	[232] (219,762)<a aria-label='모니터링, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/monitoring' title='모니터링' />
+		[233] (219,762)<font  />
+			[234] (219,762)<font >모니터링 />
+	[235] (470,762)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/20aab85c496f8d3abe29fba8a94f30ea2c87e2dd' title='기능: 메트릭 수집 및 알림 기능을 갖춘 모니터링 시스템 추가' />
+		[236] (470,762)<font  />
+			[237] (470,762)<font >기능: 메트릭 수집 및 알림 기능을 갖춘 모니터링 시스템 추가 />
+	2년 전
+[238] (419,805)<tr  />
+	[239] (224,805)<a aria-label='새 문서, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/new_documentation' title='새로운 문서' />
+		[240] (224,805)<font  />
+			[241] (224,805)<font >새로운 문서 />
+	[242] (480,805)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/de682d0443181e279e58305f43307ab65201338a' title='문서: "터미널 벨로시티" 임무에 대한 중복성 검사 결과를 추가했습니다. 식별된 의미론적 중복 및 서술 파일 내 통합 권장 사항을 기록하기 위해 새 문서 파일을 생성했습니다.' />
+		[243] (480,805)<font  />
+			[244] (480,805)<font >문서: "터미널 벨로시티" 임무에 대한 중복 검사 결과를 추가합니다. />
+	2년 전
+[245] (419,848)<tr  />
+	[246] (212,849)<a aria-label='기타, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/other' title='다른' />
+		[247] (212,849)<font  />
+			[248] (212,849)<font >다른 />
+	[249] (395,849)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/9caca6c49e9b22e937dac34c524242fe93d0db81' title='파일 이동' />
+		[250] (395,849)<font  />
+			[251] (395,849)<font >파일 이동 />
+	벨
+[252] (419,892)<tr  />
+	[253] (212,892)<a aria-label='연구, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/research' title='연구' />
+		[254] (212,892)<font  />
+			[255] (212,892)<font >연구 />
+	[256] (479,892)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/a36022c1b719934263e71ca477fc0f04d116388d' title='특징: 2025년 양자 컴퓨팅 및 AI 보안 프로토콜 관련 기술 연구 파일 추가' />
+		[257] (479,892)<font  />
+			[258] (479,892)<font >특징: 2025년 양자 컴퓨팅 및 인공지능 관련 기술 연구 파일 추가… />
+	2년 전
+[259] (419,935)<tr  />
+	[260] (219,935)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/scripts' title='스크립트' />
+		[261] (219,935)<font  />
+			[262] (219,935)<font >스크립트 />
+	[263] (473,935)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/ff86fbc9ac4fa28f3df523e6c5ff3f22a7272d4a' title='리팩토링: concatenate_final_text에서 장면 번호 추출 및 필터링 기능을 개선했습니다.' />
+		[264] (473,935)<font  />
+			[265] (473,935)<font >리팩토링: 연결 작업에서 장면 번호 추출 및 필터링 기능 개선… />
+	2년 전
+[266] (419,978)<tr  />
+	[267] (212,979)<a aria-label='정적, (디렉토리)' class='Link--primary' href='/mind-protocol/terminal-velocity/tree/main/static' title='공전' />
+		[268] (212,979)<font  />
+			[269] (212,979)<font >공전 />
+	[270] (391,979)<a class='Link--secondary' href='/mind-protocol/terminal-velocity/commit/a3951caa30cd416db9c6fcb169c016c94f5da29f' title='삭제 중' />
+		[271] (391,979)<font  />
+			[272] (391,979)<font >삭제 중 />
+	2년 전
+에 대한
+10개의 AI 에이전트 팀이 자율적으로 만들어낸 소설
+[273] (695,320)<a class='text-bold' href='https://nlr.ai' role='link' title='https://nlr.ai' />
+	[274] (695,320)<font  />
+		[275] (695,320)<font >nlr.ai />
+주제
+[276] (684,361)<a class='topic-tag topic-tag-link' href='/topics/book' title='주제: 책' />
+	[277] (684,361)<font  />
+		[278] (684,361)<font >책 />
+[279] (709,361)<a class='topic-tag topic-tag-link' href='/topics/writing' title='주제: 글쓰기' />
+	[280] (709,361)<font  />
+		[281] (709,361)<font >글쓰기 />
+자원
+[282] (699,406)<a class='Link--muted' href='#readme-ov-file' />
+	[283] (705,406)<font  />
+		[284] (705,406)<font >읽어보세요 />
+[285] (689,436)<a class='Link Link--muted' href='/mind-protocol/terminal-velocity/activity' />
+	[286] (696,436)<span  />
+		[287] (696,436)<font  />
+			[288] (696,436)<font >활동 />
+[289] (708,467)<a class='Link Link--muted' href='/mind-protocol/terminal-velocity/custom-properties' />
+	[290] (715,467)<span  />
+		[291] (715,467)<font  />
+			[292] (715,467)<font >사용자 지정 속성 />
+별들
+[293] (698,498)<a class='Link Link--muted' href='/mind-protocol/terminal-velocity/stargazers' />
+	[294] (705,498)<font  />
+		[295] (694,498)<font >별 />
+		[296] (710,498)<strong  />
+			[297] (710,498)<font >1.1 천개 />
+감시자들
+[298] (705,529)<a class='Link Link--muted' href='/mind-protocol/terminal-velocity/watchers' />
+	[299] (700,529)<strong  />
+		[300] (700,529)<font  />
+			[301] (700,529)<font >30명이 />
+	[302] (723,529)<font  />
+		[303] (723,529)<font >시청 중 />
+포크스
+[304] (698,559)<a class='Link Link--muted' href='/mind-protocol/terminal-velocity/forks' />
+	[305] (706,559)<font  />
+		[306] (697,559)<font >포크 />
+		[307] (713,559)<strong  />
+			[308] (713,559)<font >79 개 />
+[309] (696,590)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmind-protocol%2Fterminal-velocity&report=mind-protocol+%28user%29' />
+	[310] (696,590)<font  />
+		[311] (696,590)<font >보고서 저장소 />
+[312] (687,648)<a class='Link--primary no-underline Link' href='/mind-protocol/terminal-velocity/releases' />
+	[313] (687,648)<font  />
+		[314] (687,648)<font >릴리스 />
+발표된 릴리스 없음
+[315] (746,745)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/mind-protocol/packages?repo_name=terminal-velocity' />
+	[316] (687,745)<font  />
+		[317] (687,744)<font >패키지 />
+게시된 패키지가 없습니다.
+[318] (746,841)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mind-protocol/terminal-velocity/graphs/contributors' />
+	[319] (687,841)<font  />
+		[320] (687,841)<font >기고자 />
+	[321] (705,841)<span  />
+		[322] (705,841)<font  />
+			[323] (705,841)<font >3 />
+[324] (683,888)<a class='mr-2' href='https://github.com/nlr-ai' />
+	[325] (683,888)<img  />
+[326] (712,888)<a class='Link--primary no-underline flex-self-center' href='https://github.com/nlr-ai' />
+	[327] (705,888)<strong  />
+		[328] (705,888)<font  />
+			[329] (705,888)<font >nlr-ai />
+	[330] (722,888)<span  />
+		[331] (722,888)<font  />
+			[332] (722,888)<font >NLR />
+[333] (683,930)<a class='mr-2' href='https://github.com/alx' />
+	[334] (683,930)<img  />
+[335] (746,930)<a class='Link--primary no-underline flex-self-center' href='https://github.com/alx' />
+	[336] (707,930)<strong  />
+		[337] (707,930)<font  />
+			[338] (707,930)<font >알렉스 />
+	[339] (757,930)<span  />
+		[340] (757,930)<font  />
+			[341] (757,930)<font >알렉상드르 지라르 다빌라 />
+언어
+
+</current_dom>

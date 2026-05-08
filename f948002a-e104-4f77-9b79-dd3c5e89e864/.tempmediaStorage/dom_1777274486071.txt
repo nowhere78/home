@@ -1,0 +1,154 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (38,34)<button aria-label='Navigation menu' class='sc-iBzGbX iVvDAu google-symbols notranslate' title='Navigation menu'>menu />
+	[2] (38,105)<button class='sc-gGuSxk gokKmg' scrollable='true' />
+	[3] (38,165)<div  />
+		[4] (38,165)<div  />
+			[5] (38,165)<span >explore />
+	집
+	[6] (38,212)<div  />
+		[7] (38,212)<div  />
+			[8] (38,212)<span >emoji_events />
+	대회
+	[9] (38,258)<div  />
+		[10] (38,258)<div  />
+			[11] (38,258)<span >leaderboard />
+	벤치마크
+	[12] (38,305)<div  />
+		[13] (38,305)<div  />
+			[14] (38,305)<span >smart_toy />
+	게임 아레나
+	[15] (38,351)<div  />
+		[16] (38,351)<div  />
+			[17] (38,351)<span >code />
+	데이터 허브
+	expand_more
+	[18] (38,398)<div  />
+		[19] (38,398)<div  />
+			[20] (38,398)<span >format_list_bulleted />
+	더
+	expand_more
+	[21] (403,34)<div  />
+		[22] (403,34)<div  />
+			[23] (154,34)<span >search />
+			[24] (429,34)<input class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart css-r1vfnz' id=':r18:' placeholder='찾다' />
+	[25] (759,33)<a class='sc-kLojuI gihClX' href='/account/login?phase=startSignInTab&returnUrl=%2Fcode%2Fsudalairajkumar%2Fsimple-exploration-notebook-crypto-forecasting' />
+		[26] (759,34)<button class='sc-iklHWZ dSRczT' role='button' />
+			[27] (759,34)<span  />
+				[28] (759,33)<font  />
+					[29] (759,33)<font >로그인 />
+	[30] (873,33)<a class='sc-kLojuI gihClX' href='/account/login?phase=startRegisterTab&returnUrl=%2Fcode%2Fsudalairajkumar%2Fsimple-exploration-notebook-crypto-forecasting' />
+		[31] (873,34)<button class='sc-iklHWZ hkCebg' role='button' />
+			[32] (873,34)<span  />
+				[33] (873,33)<font  />
+					[34] (873,33)<font >등록하다 />
+	[35] (535,534)<div class='sc-jYKAVK iHrVux legacy-less-light-theme' id='site-content' role='main' scrollable='true' />
+		[36] (138,119)<a aria-label='SRK의 프로필' class='sc-iIghSs ioRyhA' href='/sudalairajkumar' />
+			[37] (138,119)<div  />
+		SRK
+		·
+		4년 전
+		· 조회수
+		11,856
+		회
+		[38] (491,119)<div  />
+			[39] (465,119)<button aria-label='추천' class='sc-gyTrX sc-iEFCee SZNZz iyfrOu' />
+				[40] (467,119)<span >arrow_drop_up />
+			[41] (510,119)<button aria-label='262표' class='sc-gyTrX sc-eYZoBF SZNZz dWvUCo' />
+				[42] (508,119)<font  />
+					[43] (508,118)<font >262 />
+		[44] (606,119)<button class='sc-iklHWZ erMIMP sc-fvOWyT sc-lfKDYi ktsind bHCtrB disabled' role='button' />
+			복사 및 편집
+		[45] (686,119)<button class='sc-iklHWZ hkCebg sc-hcXwNa sc-fenCEq ganFHw dZtvCp' role='button' />
+			[46] (683,119)<span  />
+				[47] (683,118)<span  />
+					[48] (683,118)<font  />
+						[49] (683,118)<font >135 />
+		[50] (784,119)<button class='sc-iklHWZ iGvrxd' role='button' />
+			[51] (751,119)<span >file_download />
+			[52] (796,119)<span  />
+				[53] (796,118)<font  />
+					[54] (796,118)<font >다운로드 />
+		[55] (916,119)<button aria-label='More options for this notebook' class='sc-iBzGbX iVvDAu google-symbols notranslate' title='More options for this notebook'>more_vert />
+		간단한 탐색 노트 - 암호화폐 예측
+		[56] (149,307)<a aria-label='노트북, 1/5' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected sc-jFcyfo gnNvHh css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting/notebook' role='tab' />
+			[57] (149,307)<span  />
+				[58] (149,307)<font  />
+					[59] (149,307)<font >공책 />
+		[60] (205,307)<a aria-label='입력, 2/5' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo gnNvHh css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting/input' role='tab' />
+			[61] (205,307)<span  />
+				[62] (205,307)<font  />
+					[63] (205,307)<font >입력 />
+		[64] (261,307)<a aria-label='출력, 3/5' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo gnNvHh css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting/output' role='tab' />
+			[65] (261,307)<span  />
+				[66] (261,307)<font  />
+					[67] (261,307)<font >산출 />
+		[68] (316,307)<a aria-label='로그, 4/5' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo gnNvHh css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting/log' role='tab' />
+			[69] (316,307)<span  />
+				[70] (316,307)<font  />
+					[71] (316,307)<font >로그 />
+		[72] (389,307)<a aria-label='댓글(17), 5/5' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo gnNvHh css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting/comments' role='tab' />
+			[73] (389,307)<span  />
+				[74] (389,307)<font  />
+					[75] (389,307)<font >댓글 (17) />
+		[76] (765,398)<button class='sc-iklHWZ eOThzt' role='button' />
+			[77] (683,398)<span >history />
+			[78] (776,398)<span  />
+				[79] (776,397)<font  />
+					[80] (720,397)<font >8번째 />
+					[81] (796,397)<font >버전 (총 8개 버전) />
+		[82] (909,395)<button aria-label='Collapse Sidebar' class='sc-iBzGbX hvCxQu google-symbols notranslate' id='notebook-side-bar-trigger' title='Collapse Sidebar'>chevron_right />
+		실행 시간
+		play_arrow
+		3분 21초
+		[83] (801,525)<h2 aria-label='입력 탭으로 이동' class='sc-kslsaH sc-ekEfVM sc-iXJsnN dHliHo gDKydm iPZlCY' role='button' />
+			[84] (675,525)<font  />
+				[85] (675,525)<font >입력 />
+		대회
+		[86] (801,588)<div  />
+			[87] (801,588)<div  />
+				[88] (669,588)<div  />
+					[89] (669,588)<img  />
+				[90] (814,588)<div  />
+					[91] (760,588)<span  />
+						[92] (760,588)<div  />
+							[93] (760,588)<p  />
+								[94] (760,588)<font  />
+									[95] (760,588)<font >G-리서치 암호화폐 예측 />
+		태그
+		[96] (711,676)<a aria-label='통화 및 외환 (새 창에서 열기)' class='sc-eYKebJ wxexz' href='/code?tagIds=16373-Currencies+and+Foreign+Exchange' role='link' />
+			[97] (711,676)<span  />
+				[98] (711,676)<font  />
+					[99] (711,676)<font >통화 및 외환 />
+		언어
+		파이썬
+		목차
+		[100] (743,840)<a aria-label='대회 목표, 1/6' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary Mui-selected sc-jFcyfo jSNGEv css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting#Objective-of-the-competition' role='tab' />
+			[101] (743,840)<span  />
+				[102] (743,840)<font  />
+					[103] (743,840)<font >대회의 목표 />
+		[104] (721,878)<a aria-label='소개, 2/6' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo jSNGEv css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting#Introduction' role='tab' />
+			[105] (721,878)<span  />
+				[106] (721,878)<font  />
+					[107] (721,878)<font >소개 />
+		[108] (728,916)<a aria-label='데이터, 3/6' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo jSNGEv css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting#Data' role='tab' />
+			[109] (728,916)<span  />
+				[110] (728,916)<font  />
+					[111] (728,916)<font >데이터 />
+		[112] (759,954)<a aria-label='자산 데이터 탐색, 4/6' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo jSNGEv css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting#Assets-Data-Exploration' role='tab' />
+			[113] (759,954)<span  />
+				[114] (759,954)<font  />
+					[115] (759,954)<font >자산 데이터 탐색 />
+		[116] (759,993)<a aria-label='훈련 데이터 탐색, 5/6' class='MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary sc-jFcyfo jSNGEv css-i5k1e3' href='/code/sudalairajkumar/simple-exploration-notebook-crypto-forecasting#Training-Data-Exploration' role='tab' />
+			[117] (759,993)<span  />
+				[118] (759,992)<font  />
+					[119] (759,992)<font >훈련 데이터 탐색 />
+		경쟁 노트
+		[120] (320,436)<a aria-label='G-Research 암호화폐 예측(새 창에서 열기)' class='sc-lmgQQD dHpHdz' href='/competitions/g-research-crypto-forecasting' />
+			[121] (320,435)<font  />
+				[122] (320,435)<font >G-리서치 암호화폐 예측 />
+
+</current_dom>

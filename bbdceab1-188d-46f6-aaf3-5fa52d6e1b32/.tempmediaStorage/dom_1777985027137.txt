@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[6] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[7] (419,64)<div  />
+	자막 정렬(Aeneas)은
+	speechalign
+	생성된 오디오를 스크립트에 맞춰 정렬하여 타이밍이 맞는 자막을 생성합니다.
+	비디오 어셈블리(FFmpeg)
+	시스템은 다음을 병합합니다.
+	/videos
+	(이름
+	default_*.mp4
+	)
+	의 배경 영상
+	음성 해설 오디오
+	자막을 추가하여
+	최종적으로 얼굴 없는 단편 영화를 완성합니다.
+	웹 트리거 인터페이스는
+	포트에서 최소한의 프런트엔드를 제공하여
+	80
+	클릭 한 번으로 모든 것을 트리거할 수 있도록 합니다.
+	📦 폴더 구조
+	[8] (193,342)<a aria-label='고유 링크: 📦 폴더 구조' class='anchor' href='#-folder-structure' id='user-content--folder-structure' />
+	viral_faceless/
+├── trendscraper/      # Scraper + Gemini + FFmpeg composition API
+├── coqui/             # Coqui TTS container
+├── speechalign/       # Forced alignment via Aeneas
+├── nginx/             # Web interface + reverse proxy
+├── /videos/           # Background video clips (e.g., gameplay, press machine)
+├── docker-compose.yml
+	[9] (626,408)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+	참고:
+	/videos
+	배경 클립은 .과 같은 경로
+	에 배치하고 이름을 지정해야 합니다
+	default_something.mp4
+	.
+	🐳 사용법
+	[10] (193,647)<a aria-label='고유 링크: 🐳 사용법' class='anchor' href='#-usage' id='user-content--usage' />
+	파일 이름을 변경 하고
+	example.env
+	자리
+	.env
+	표시자 Gemini API 키를 Google AI Studio에서 생성한 키로 교체한 다음 다음 명령으로 파이프라인을 시작하세요.
+	docker-compose up --build
+	[11] (626,780)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+	첫 번째 바이럴 쇼츠 영상을 제작하려면
+	[12] (365,841)<a href='http://localhost' />
+		[13] (365,841)<font  />
+			[14] (365,841)<font >http://localhost />
+	에서 웹 인터페이스에 접속하세요 .
+	🧠 요구 사항
+	[15] (193,895)<a aria-label='고유 링크: 🧠 요구 사항' class='anchor' href='#-requirements' id='user-content--requirements' />
+	도커 + 도커 컴포즈
+	구글 제미니 API 키
+	적어도 하나의 비디오 클립
+
+</current_dom>

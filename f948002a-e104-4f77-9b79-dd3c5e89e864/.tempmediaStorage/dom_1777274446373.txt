@@ -1,0 +1,185 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (131,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/lalalune' />
+	[3] (131,34)<span  />
+		[4] (131,33)<font  />
+			[5] (131,33)<font >라랄룬 />
+[6] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[7] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (740,34)<span  />
+[11] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (967,34)<img  />
+사용자 탐색
+[17] (69,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune' />
+	[18] (33,80)<span  />
+	[19] (81,80)<span  />
+		[20] (81,80)<font  />
+			[21] (81,80)<font >개요 />
+[22] (212,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune?tab=repositories' />
+	[23] (146,80)<span  />
+	[24] (203,80)<span  />
+		[25] (203,80)<font  />
+			[26] (203,80)<font >저장소 />
+	[27] (270,80)<span  />
+		[28] (270,80)<span  />
+			[29] (270,80)<font  />
+				[30] (270,80)<font >222 />
+		(
+		222
+		)
+[31] (352,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune?tab=projects' />
+	[32] (321,80)<span  />
+	[33] (365,80)<span  />
+		[34] (365,80)<font  />
+			[35] (365,80)<font >프로젝트 />
+[36] (459,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune?tab=packages' />
+	[37] (425,80)<span  />
+	[38] (472,80)<span  />
+		[39] (472,80)<font  />
+			[40] (472,80)<font >패키지 />
+[41] (578,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune?tab=stars' />
+	[42] (536,80)<span  />
+	[43] (569,80)<span  />
+		[44] (569,80)<font  />
+			[45] (569,80)<font >별들 />
+	[46] (611,80)<span  />
+		[47] (611,80)<span  />
+			[48] (611,80)<font  />
+				[49] (611,80)<font >1.6k />
+		(
+		1.6k
+		)
+[50] (705,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lalalune?tab=sponsoring' />
+	[51] (663,80)<span  />
+	[52] (717,80)<span  />
+		[53] (717,80)<font  />
+			[54] (717,80)<font >후원 />
+[55] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/18633264?v=4' />
+	[56] (159,284)<img  />
+쇼
+라랄룬
+[57] (159,527)<input aria-label='라라룬을 팔로우하세요' class='btn btn-block' title='라라룬을 팔로우하세요' />
+elizaOS 개발자
+[58] (80,614)<a class='Link--secondary no-underline no-wrap' href='https://github.com/lalalune?tab=followers' />
+	[59] (90,614)<font  />
+		[60] (68,614)<font >팔로워 />
+		[61] (112,614)<span  />
+			[62] (112,614)<font >1.9천명 />
+·
+[63] (166,614)<a class='Link--secondary no-underline no-wrap' href='https://github.com/lalalune?tab=following' />
+	[64] (166,614)<font >팔로잉 />
+[65] (210,614)<a class='Link--secondary no-underline no-wrap' href='https://github.com/lalalune?tab=following' />
+	[66] (210,614)<span  />
+		[67] (210,614)<font >619 명 />
+엘리자 랩스
+샌프란시스코
+[68] (103,719)<a class='Link--primary wb-break-all' href='https://elizaos.ai' />
+	[69] (103,719)<font  />
+		[70] (103,719)<font >https://elizaos.ai />
+[71] (113,750)<a class='Link--primary wb-break-all' href='https://twitter.com/shawmakesmagic' />
+	[72] (113,750)<font  />
+		[73] (113,750)<font >@shawmakesmagic />
+[74] (171,792)<a class='Link--primary wb-break-all' href='https://warpcast.com/shawmakesmagic' />
+	[75] (168,792)<font  />
+		[76] (168,792)<font >https://warpcast.com/shawmakesmagic />
+[77] (152,833)<a class='Link--primary wb-break-all' href='https://github.com/elizaos/eliza' />
+	[78] (152,833)<font  />
+		[79] (152,833)<font >https://github.com/elizaos/eliza />
+[80] (40,892)<a class='Link--primary mb-2' href='/lalalune?tab=achievements' />
+	[81] (40,892)<font  />
+		[82] (40,892)<font >업적 />
+[83] (58,950)<a class='position-relative' href='/lalalune?achievement=starstruck&tab=achievements' />
+	[84] (58,947)<img  />
+	[85] (76,971)<span  />
+		[86] (76,971)<font  />
+			[87] (76,971)<font >x4 />
+[88] (125,950)<a class='position-relative' href='/lalalune?achievement=pull-shark&tab=achievements' />
+	[89] (125,947)<img  />
+	[90] (143,971)<span  />
+		[91] (143,971)<font  />
+			[92] (143,971)<font >x4 />
+[93] (343,174)<a class='d-inline-block' href='/crucible995' />
+	[94] (343,174)<img  />
+[95] (469,152)<a class='d-inline-block no-underline mb-1' href='/crucible995' />
+	[96] (469,153)<span  />
+		[97] (469,153)<font  />
+			[98] (469,153)<font >크루시블995 />
+[99] (944,154)<input aria-label='crucible995를 팔로우하세요' class='btn btn-sm' title='crucible995를 팔로우하세요' />
+[100] (343,295)<a class='d-inline-block' href='/Indelwin' />
+	[101] (343,295)<img  />
+[102] (478,273)<a class='d-inline-block no-underline mb-1' href='/Indelwin' />
+	[103] (455,272)<span  />
+		[104] (455,272)<font  />
+			[105] (455,272)<font >인델윈 />
+	[106] (503,274)<span  />
+		[107] (505,274)<font  />
+			[108] (505,274)<font >인델윈 />
+[109] (944,275)<input aria-label='인델윈을 팔로우하세요' class='btn btn-sm' title='인델윈을 팔로우하세요' />
+[110] (343,415)<a class='d-inline-block' href='/chaturved-axp' />
+	[111] (343,415)<img  />
+[112] (573,394)<a class='d-inline-block no-underline mb-1' href='/chaturved-axp' />
+	[113] (521,393)<span  />
+		[114] (521,393)<font  />
+			[115] (521,393)<font >차투르베드 데글루카르 차 />
+	[116] (665,394)<span  />
+		[117] (667,394)<font  />
+			[118] (667,394)<font >투르베드-액스프 />
+@Alteraxp
+하이데라바드
+[119] (343,536)<a class='d-inline-block' href='/softgineer' />
+	[120] (343,536)<img  />
+[121] (490,514)<a class='d-inline-block no-underline mb-1' href='/softgineer' />
+	[122] (448,514)<span  />
+		[123] (448,514)<font  />
+			[124] (448,514)<font >린투 />
+	[125] (508,515)<span  />
+		[126] (510,515)<font  />
+			[127] (510,515)<font >소프트지니어 />
+파이
+[128] (944,516)<input aria-label='소프트지니어를 팔로우하세요' class='btn btn-sm' title='소프트지니어를 팔로우하세요' />
+[129] (343,657)<a class='d-inline-block' href='/sauryeo' />
+	[130] (343,657)<img  />
+[131] (463,635)<a class='d-inline-block no-underline mb-1' href='/sauryeo' />
+	[132] (448,634)<span  />
+		[133] (448,634)<font  />
+			[134] (448,634)<font >꽁리 />
+	[135] (481,635)<span  />
+		[136] (483,635)<font  />
+			[137] (483,635)<font >꽁리 />
+도와주셔서 감사합니다
+[138] (944,637)<input aria-label='사려를 따라가세요' class='btn btn-sm' title='사려를 따라가세요' />
+[139] (343,777)<a class='d-inline-block' href='/Spaztazim' />
+	[140] (343,777)<img  />
+[141] (464,756)<a class='d-inline-block no-underline mb-1' href='/Spaztazim' />
+	[142] (464,756)<span  />
+		[143] (464,756)<font  />
+			[144] (464,756)<font >스파즈타짐 />
+솔
+[145] (944,758)<input aria-label='스파즈타짐을 팔로우하세요' class='btn btn-sm' title='스파즈타짐을 팔로우하세요' />
+[146] (343,898)<a class='d-inline-block' href='/forgxyz' />
+	[147] (343,898)<img  />
+[148] (491,876)<a class='d-inline-block no-underline mb-1' href='/forgxyz' />
+	[149] (465,876)<span  />
+		[150] (465,876)<font  />
+			[151] (465,876)<font >잭 포가쉬 />
+	[152] (526,877)<span  />
+		[153] (528,877)<font  />
+			[154] (528,877)<font >forgxyz />
+블록체인 데이터 전문가
+덴버, 콜로라도
+[155] (944,878)<input aria-label='forgxyz를 팔로우하세요' class='btn btn-sm' title='forgxyz를 팔로우하세요' />
+spc504NOLA로빈
+spc504NOLA리빈
+
+</current_dom>

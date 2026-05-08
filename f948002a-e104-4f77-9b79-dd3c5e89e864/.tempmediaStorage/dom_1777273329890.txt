@@ -1,0 +1,405 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[3] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[4] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[5] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[6] (740,34)<span  />
+[7] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[8] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[9] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[10] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[11] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[12] (967,34)<img  />
+저장소 검색 결과 · 2026년 암호화폐 거래 봇
+필터 기준
+[13] (154,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=code' id='_r_4_' />
+	[14] (167,148)<span  />
+		[15] (148,148)<span  />
+			[16] (64,148)<font  />
+				[17] (64,148)<font >암호 />
+		결과
+[18] (154,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=repositories' id='_r_5_' />
+	[19] (167,182)<span  />
+		[20] (148,182)<span  />
+			[21] (70,181)<font  />
+				[22] (70,181)<font >저장소 />
+		결과
+[23] (154,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=issues' id='_r_6_' />
+	[24] (167,216)<span  />
+		[25] (148,216)<span  />
+			[26] (70,215)<font  />
+				[27] (70,215)<font >문제점 />
+		결과
+[28] (154,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=pullrequests' id='_r_7_' />
+	[29] (167,250)<span  />
+		[30] (148,250)<span  />
+			[31] (86,249)<font  />
+				[32] (86,249)<font >풀 리퀘스트 />
+		결과
+[33] (154,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=discussions' id='_r_8_' />
+	[34] (167,284)<span  />
+		[35] (148,284)<span  />
+			[36] (64,283)<font  />
+				[37] (64,283)<font >토론 />
+		결과
+[38] (154,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot&type=users' id='_r_9_' />
+	[39] (167,317)<span  />
+		[40] (148,317)<span  />
+			[41] (70,317)<font  />
+				[42] (70,317)<font >사용자 />
+		결과
+[43] (154,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+	[44] (167,351)<span  />
+		[45] (167,351)<span  />
+			[46] (57,351)<font  />
+				[47] (57,351)<font >더 />
+언어
+[48] (154,425)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot+language%3APython&type=repositories' id='_r_c_' />
+	[49] (164,425)<span  />
+		[50] (164,425)<span  />
+			[51] (164,425)<div  />
+				[52] (164,425)<div  />
+					[53] (64,425)<font  />
+						[54] (64,425)<font >파이썬 />
+[55] (154,459)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot+language%3ATypeScript&type=repositories' id='_r_d_' />
+	[56] (164,459)<span  />
+		[57] (164,459)<span  />
+			[58] (164,459)<div  />
+				[59] (164,459)<div  />
+					[60] (84,459)<font  />
+						[61] (84,459)<font >타입스크립트 />
+[62] (154,493)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_e_' />
+	[63] (167,493)<span  />
+		[64] (167,493)<span  />
+			[65] (167,493)<div  />
+				[66] (92,493)<font  />
+					[67] (92,493)<font >더 많은 언어... />
+고급의
+[68] (154,577)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_g_' />
+	[69] (167,577)<span  />
+		[70] (167,577)<span  />
+			[71] (167,577)<div  />
+				[72] (167,577)<div  />
+					[73] (70,576)<font  />
+						[74] (70,576)<font >소유자 />
+[75] (154,611)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_h_' />
+	[76] (167,611)<span  />
+		[77] (167,611)<span  />
+			[78] (167,611)<div  />
+				[79] (167,611)<div  />
+					[80] (64,610)<font  />
+						[81] (64,610)<font >크기 />
+[82] (154,644)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_i_' />
+	[83] (167,644)<span  />
+		[84] (167,644)<span  />
+			[85] (167,644)<div  />
+				[86] (167,644)<div  />
+					[87] (79,644)<font  />
+						[88] (79,644)<font >팔로워 수 />
+[89] (154,678)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_j_' />
+	[90] (167,678)<span  />
+		[91] (167,678)<span  />
+			[92] (167,678)<div  />
+				[93] (167,678)<div  />
+					[94] (86,678)<font  />
+						[95] (86,678)<font >포크의 개수 />
+[96] (154,712)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+	[97] (167,712)<span  />
+		[98] (167,712)<span  />
+			[99] (167,712)<div  />
+				[100] (167,712)<div  />
+					[101] (79,712)<font  />
+						[102] (79,712)<font >별의 개수 />
+[103] (154,746)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+	[104] (167,746)<span  />
+		[105] (167,746)<span  />
+			[106] (167,746)<div  />
+				[107] (167,746)<div  />
+					[108] (70,746)<font  />
+						[109] (70,746)<font >생성일 />
+[110] (154,780)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+	[111] (167,780)<span  />
+		[112] (167,780)<span  />
+			[113] (167,780)<div  />
+				[114] (167,780)<div  />
+					[115] (119,779)<font  />
+						[116] (119,779)<font >날짜가 변경되었습니다 />
+[117] (154,814)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_n_' />
+	[118] (167,814)<span  />
+		[119] (167,814)<span  />
+			[120] (167,814)<div  />
+				[121] (167,814)<div  />
+					[122] (64,813)<font  />
+						[123] (64,813)<font >주제 />
+[124] (154,848)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+	[125] (167,848)<span  />
+		[126] (167,848)<span  />
+			[127] (167,848)<div  />
+				[128] (167,848)<div  />
+					[129] (64,847)<font  />
+						[130] (64,847)<font >특허 />
+[131] (154,881)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+	[132] (167,881)<span  />
+		[133] (167,881)<span  />
+			[134] (167,881)<div  />
+				[135] (167,881)<div  />
+					[136] (70,881)<font  />
+						[137] (70,881)<font >보관됨 />
+[138] (154,915)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot+is%3Apublic&type=repositories' id='_r_q_' />
+	[139] (167,915)<span  />
+		[140] (167,915)<span  />
+			[141] (167,915)<div  />
+				[142] (167,915)<div  />
+					[143] (70,915)<font  />
+						[144] (70,915)<font >공공의 />
+[145] (154,949)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=2026+crypto+trading+bot+is%3Aprivate&type=repositories' id='_r_r_' />
+	[146] (167,949)<span  />
+		[147] (167,949)<span  />
+			[148] (167,949)<div  />
+				[149] (167,949)<div  />
+					[150] (70,949)<font  />
+						[151] (70,949)<font >사적인 />
+고급 검색
+[152] (309,568)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+139개 결과
+(
+251ms
+)
+139개 결과
+[153] (759,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_11_' />
+	[154] (751,99)<span  />
+		[155] (751,99)<span  />
+			[156] (700,99)<span  />
+				[157] (700,99)<font  />
+					[158] (700,99)<font >정렬 기준: />
+			[159] (779,99)<font  />
+				[160] (779,99)<font >가장 일치하는 항목 />
+[161] (900,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[162] (900,99)<span  />
+		[163] (900,99)<span  />
+			[164] (900,99)<div  />
+				[165] (911,99)<font  />
+					[166] (911,99)<font >구하다 />
+[167] (960,99)<button aria-label='Open column options' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1b_' />
+[168] (608,162)<a class='prc-Link-Link-9ZwDx' href='/jesuschelbezmaski7/polymarket-trading-bot-desktop-crypto' />
+	[169] (608,161)<span  />
+		[170] (510,161)<font  />
+			[171] (510,161)<font >jesuschelbezmaski7/polymarket- />
+		[172] (651,161)<em  />
+			[173] (651,161)<font  />
+				[174] (651,161)<font >거래 />
+		[175] (674,161)<font  />
+			[176] (674,161)<font >- />
+		[177] (689,161)<em  />
+			[178] (689,161)<font  />
+				[179] (689,161)<font >봇 />
+		[180] (739,161)<font  />
+			[181] (739,161)<font >-desktop- />
+		[182] (806,161)<em  />
+			[183] (806,161)<font  />
+				[184] (806,161)<font >crypto />
+자동화된 Polymarket 예측 거래를
+위해 설계된 최고급 고성능
+2026
+데스크톱 애플리케이션입니다
+. 이 고속, 저지연 애플리케이션은…
+[185] (369,243)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bot' />
+	[186] (369,243)<font  />
+		[187] (369,243)<font >봇 />
+[188] (427,243)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/crypto' />
+	[189] (427,243)<font  />
+		[190] (427,243)<font >암호화폐 />
+[191] (502,243)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bitcoin' />
+	[192] (502,243)<font  />
+		[193] (502,243)<font >비트코인 />
+[194] (566,243)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trading' />
+	[195] (566,243)<font  />
+		[196] (566,243)<font >거래 />
+[197] (619,243)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/discord' />
+	[198] (619,243)<font  />
+		[199] (619,243)<font >불화 />
+[200] (371,275)<a aria-label='57 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/jesuschelbezmaski7/polymarket-trading-bot-desktop-crypto/stargazers' />
+	[201] (383,275)<span  />
+		[202] (383,275)<font  />
+			[203] (383,275)<font >57 />
+·
+업데이트됨
+3월 25일
+[204] (932,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[205] (932,168)<span  />
+		[206] (942,168)<span  />
+			[207] (942,167)<font  />
+				[208] (942,167)<font >별 />
+[209] (589,351)<a class='prc-Link-Link-9ZwDx' href='/wen82fastik/ai-crypto-cryptocurrency-trading-bot' />
+	[210] (589,351)<span  />
+		[211] (445,351)<font  />
+			[212] (445,351)<font >wen82fastik/ai- />
+		[213] (532,351)<em  />
+			[214] (532,351)<font  />
+				[215] (532,351)<font >crypto />
+		[216] (626,351)<font  />
+			[217] (626,351)<font >-cryptocurrency- />
+		[218] (723,351)<em  />
+			[219] (723,351)<font  />
+				[220] (723,351)<font >trading />
+		[221] (759,351)<font  />
+			[222] (759,351)<font >- />
+		[223] (781,351)<em  />
+			[224] (781,351)<font  />
+				[225] (781,351)<font >bot />
+AI 암호화폐
+거래
+봇
+: LLM 에이전트, 바이낸스, 하이퍼리퀴드, 바이빗, 솔라나 DEX, 카피 트레이딩, 차익
+거래
+, DCA, 그리드 트레이딩, 스캘핑, 백테스팅…
+[226] (371,428)<a aria-label='12 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/wen82fastik/ai-crypto-cryptocurrency-trading-bot/stargazers' />
+	[227] (383,428)<span  />
+		[228] (383,428)<font  />
+			[229] (383,428)<font >12 />
+·
+업데이트됨
+7일 전
+[230] (932,358)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[231] (932,358)<span  />
+		[232] (942,358)<span  />
+			[233] (942,357)<font  />
+				[234] (942,357)<font >별 />
+[235] (535,505)<a class='prc-Link-Link-9ZwDx' href='/booboomrtwix/Solana-FarmBot-2026' />
+	[236] (535,504)<span  />
+		[237] (494,504)<font  />
+			[238] (494,504)<font >booboomrtwix/Solana-Farm />
+		[239] (617,504)<em  />
+			[240] (617,504)<font  />
+				[241] (617,504)<font >Bot />
+		[242] (639,504)<font  />
+			[243] (639,504)<font >- />
+		[244] (666,504)<em  />
+			[245] (666,504)<font  />
+				[246] (666,504)<font >2026 />
+고성능 BIP-39 니모닉 복구 도구 및 암호화 보안 감사 도구. 블록체인 자산 복구를 위한 오픈 소스 프레임워크…
+[247] (369,586)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bot' />
+	[248] (369,586)<font  />
+		[249] (369,586)<font >봇 />
+[250] (429,586)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/open-source' />
+	[251] (429,586)<font  />
+		[252] (429,586)<font >오픈 소스 />
+[253] (512,586)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation' />
+	[254] (512,586)<font  />
+		[255] (512,586)<font >오토메이션 />
+[256] (593,586)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/crypto' />
+	[257] (593,586)<font  />
+		[258] (593,586)<font >암호화폐 />
+[259] (657,586)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trading' />
+	[260] (657,586)<font  />
+		[261] (657,586)<font >거래 />
+타입스크립트
+·
+[262] (479,617)<a aria-label='39 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/booboomrtwix/Solana-FarmBot-2026/stargazers' />
+	[263] (490,617)<span  />
+		[264] (490,617)<font  />
+			[265] (490,617)<font >39 />
+·
+업데이트됨
+3월 22일
+[266] (932,511)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[267] (932,511)<span  />
+		[268] (942,511)<span  />
+			[269] (942,510)<font  />
+				[270] (942,510)<font >별 />
+[271] (562,694)<a class='prc-Link-Link-9ZwDx' href='/Dimar282/Crypto-Trading-Bot-Starter-2026' />
+	[272] (562,694)<span  />
+		[273] (427,694)<font  />
+			[274] (427,694)<font >Dimar282/ />
+		[275] (500,694)<em  />
+			[276] (500,694)<font  />
+				[277] (500,694)<font >암호화폐 />
+		[278] (539,694)<font  />
+			[279] (539,694)<font >- />
+		[280] (570,694)<em  />
+			[281] (570,694)<font  />
+				[282] (570,694)<font >거래 - />
+		[283] (601,694)<em  />
+			[284] (601,694)<font  />
+				[285] (601,694)<font >봇 />
+		[286] (656,694)<font  />
+			[287] (617,694)<font >- />
+			[288] (664,694)<font >초보자용 - />
+		[289] (721,694)<em  />
+			[290] (721,694)<font  />
+				[291] (721,694)<font >2026 />
+3. 온체인 분석 스타터 (319개) ```마크다운 # 온체인 분석 스타터
+2026
+파이썬 + 스트림릿 템플릿 (지갑 추적 등)…
+[292] (368,771)<a aria-label='2 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Dimar282/Crypto-Trading-Bot-Starter-2026/stargazers' />
+	[293] (379,771)<span  />
+		[294] (379,771)<font  />
+			[295] (379,771)<font >2 />
+·
+업데이트됨
+1월 16일
+[296] (932,701)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[297] (932,701)<span  />
+		[298] (942,701)<span  />
+			[299] (942,700)<font  />
+				[300] (942,700)<font >별 />
+[301] (533,848)<a class='prc-Link-Link-9ZwDx' href='/fatalik98955/solana-trading-bot-2026' />
+	[302] (533,847)<span  />
+		[303] (465,847)<font  />
+			[304] (460,847)<font >fatalik98955/솔라나 />
+			[305] (541,847)<font >- />
+		[306] (579,847)<em  />
+			[307] (579,847)<font  />
+				[308] (579,847)<font >트레이딩 />
+		[309] (620,847)<em  />
+			[310] (620,847)<font  />
+				[311] (620,847)<font >봇 />
+		[312] (636,847)<font  />
+			[313] (636,847)<font >- />
+		[314] (663,847)<em  />
+			[315] (663,847)<font  />
+				[316] (663,847)<font >2026 />
+Solana-
+Trading
+-
+Bot
+-
+2026은
+Solana 네트워크에서
+암호화폐
+거래를 자동화하여 초보자와 숙련된 트레이더 모두 전략을 설정하고 모니터링할 수 있도록 지원합니다.
+[317] (386,929)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/crypto' />
+	[318] (386,929)<font  />
+		[319] (386,929)<font >암호화폐 />
+[320] (462,929)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/blockchain' />
+	[321] (462,929)<font  />
+		[322] (462,929)<font >블록체인 />
+[323] (539,929)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/auto-trading' />
+	[324] (539,929)<font  />
+		[325] (539,929)<font >자동 거래 />
+[326] (622,929)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trade-bot' />
+	[327] (622,929)<font  />
+		[328] (622,929)<font >트레이드봇 />
+[329] (720,929)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/copytrade-bot' />
+	[330] (720,929)<font  />
+		[331] (720,929)<font >카피트레이드봇 />
+[332] (368,960)<a aria-label='2 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/fatalik98955/solana-trading-bot-2026/stargazers' />
+	[333] (379,960)<span  />
+		[334] (379,960)<font  />
+			[335] (379,960)<font >2 />
+·
+업데이트됨
+1시간 전
+[336] (932,854)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[337] (932,854)<span  />
+		[338] (942,854)<span  />
+			[339] (942,853)<font  />
+				[340] (942,853)<font >별 />
+
+</current_dom>

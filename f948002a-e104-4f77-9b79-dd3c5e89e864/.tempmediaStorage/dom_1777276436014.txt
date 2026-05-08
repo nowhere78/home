@@ -1,0 +1,110 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,34)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[4] (434,34)<span  />
+			[5] (131,34)<span  />
+				[6] (131,34)<span >HFT Order Flow Analysis open source />
+	[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[8] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_f_' />
+	[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_k_' />
+		[10] (870,34)<span  />
+	[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[16] (983,34)<img  />
+저장소 검색 결과 · HFT 주문 흐름 분석 오픈 소스
+필터 기준
+[17] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=code' id='_R_5sraqdb_' />
+	[18] (83,148)<span  />
+		[19] (74,148)<span  />
+			[20] (32,148)<font  />
+				[21] (32,148)<font >암호 />
+		결과
+[22] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=repositories' id='_R_9sraqdb_' />
+	[23] (83,182)<span  />
+		[24] (74,182)<span  />
+			[25] (35,181)<font  />
+				[26] (35,181)<font >저장소 />
+		결과
+[27] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=issues' id='_R_dsraqdb_' />
+	[28] (83,216)<span  />
+		[29] (74,216)<span  />
+			[30] (35,215)<font  />
+				[31] (35,215)<font >문제점 />
+		결과
+[32] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=pullrequests' id='_R_hsraqdb_' />
+	[33] (83,250)<span  />
+		[34] (74,250)<span  />
+			[35] (43,249)<font  />
+				[36] (43,249)<font >풀 리퀘스트 />
+		결과
+[37] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=discussions' id='_R_lsraqdb_' />
+	[38] (83,284)<span  />
+		[39] (74,284)<span  />
+			[40] (32,283)<font  />
+				[41] (32,283)<font >토론 />
+		결과
+[42] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+Order+Flow+Analysis+open+source&type=users' id='_R_psraqdb_' />
+	[43] (83,317)<span  />
+		[44] (74,317)<span  />
+			[45] (35,317)<font  />
+				[46] (35,317)<font >사용자 />
+		결과
+[47] (77,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_R_2sraqdb_' />
+	[48] (83,351)<span  />
+		[49] (83,351)<span  />
+			[50] (28,351)<font  />
+				[51] (28,351)<font >더 />
+[52] (77,403)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_R_2baqdb_' />
+	[53] (83,403)<span  />
+		[54] (83,403)<span  />
+			[55] (39,403)<font  />
+				[56] (39,403)<font >고급 검색 />
+[57] (154,434)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+0개 결과
+(
+95ms
+)
+0개 결과
+[58] (880,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[59] (876,99)<span  />
+		[60] (876,99)<span  />
+			[61] (850,99)<span  />
+				[62] (850,99)<font  />
+					[63] (850,99)<font >정렬 기준: />
+			[64] (890,99)<font  />
+				[65] (890,99)<font >가장 일치하는 항목 />
+[66] (950,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[67] (950,99)<span  />
+		[68] (950,99)<span  />
+			[69] (950,99)<div  />
+				[70] (955,99)<font  />
+					[71] (955,99)<font >구하다 />
+[72] (980,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+검색 결과와 일치하는 저장소가
+없습니다.
+아래 팁 중 하나를 활용하여 더 많은 저장소를 찾아보세요.
+[73] (630,372)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[74] (630,372)<summary class='Tips-module__tipSummary__PddGV' />
+		[75] (626,373)<span  />
+			[76] (505,373)<font  />
+				[77] (505,373)<font >조직 전체 검색 />
+[78] (630,415)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[79] (630,415)<summary class='Tips-module__tipSummary__PddGV' />
+		[80] (626,415)<span  />
+			[81] (501,415)<font  />
+				[82] (501,415)<font >저장된 검색 />
+[83] (489,471)<a class='prc-Link-Link-9ZwDx' href='/search/advanced?q=HFT+Order+Flow+Analysis+open+source' />
+	[84] (489,471)<font >고급 검색을 />
+시도해 볼 수 있습니다
+.
+
+</current_dom>

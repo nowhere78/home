@@ -1,0 +1,120 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (151,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/manisharma' />
+	[3] (151,34)<span >manisharma />
+[4] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[5] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (740,34)<span  />
+[9] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (967,34)<img  />
+User navigation
+[15] (69,80)<a class='prc-components-UnderlineItem-7fP-n' href='/manisharma' />
+	[16] (33,80)<span  />
+	[17] (81,80)<span >Overview />
+[18] (208,80)<a class='prc-components-UnderlineItem-7fP-n' href='/manisharma?tab=repositories' />
+	[19] (146,80)<span  />
+	[20] (203,80)<span >Repositories />
+	[21] (265,80)<span >(
+17
+) />
+		[22] (265,80)<span >17 />
+		(
+		17
+		)
+[23] (342,80)<a class='prc-components-UnderlineItem-7fP-n' href='/manisharma?tab=projects' />
+	[24] (312,80)<span  />
+	[25] (355,80)<span >Projects />
+[26] (449,80)<a class='prc-components-UnderlineItem-7fP-n' href='/manisharma?tab=packages' />
+	[27] (415,80)<span  />
+	[28] (462,80)<span >Packages />
+[29] (561,80)<a class='prc-components-UnderlineItem-7fP-n' href='/manisharma?tab=stars' />
+	[30] (525,80)<span  />
+	[31] (558,80)<span >Stars />
+	[32] (594,80)<span >(
+3
+) />
+		[33] (594,80)<span >3 />
+		(
+		3
+		)
+[34] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/3829085?v=4' />
+	[35] (159,284)<img  />
+manish
+manisharma
+
+            ·
+he/him
+[36] (159,527)<input aria-label='Follow manisharma' class='btn btn-block' title='Follow manisharma' />
+Software Architect | Engineering Leader | Go Developer at ❤️
+[37] (68,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/manisharma?tab=followers'>follower />
+	[38] (49,640)<span >1 />
+·
+[39] (155,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/manisharma?tab=following'>following />
+	[40] (123,640)<span >2 />
+#OpenToWork - let's connect
+Bangalore
+[41] (136,744)<a class='Link--primary wb-break-all' href='mailto:bhardwaz007@yahoo.com'>bhardwaz007@yahoo.com />
+[42] (171,786)<a class='Link--primary wb-break-all' href='https://stackoverflow.com/users/2424594/manish'>https://stackoverflow.com/users/2424594/manish />
+[43] (116,828)<a class='Link--primary wb-break-all' href='https://www.linkedin.com/in/manish-bhardwaz/'>in/manish-bhardwaz />
+[44] (78,886)<a class='Link--primary mb-2' href='/manisharma?tab=achievements'>Achievements />
+[45] (58,944)<a class='position-relative' href='/manisharma?achievement=pair-extraordinaire&tab=achievements' />
+	[46] (58,942)<img  />
+[47] (125,944)<a class='position-relative' href='/manisharma?achievement=pull-shark&tab=achievements' />
+	[48] (125,942)<img  />
+Stars
+Search
+[49] (602,210)<input aria-label='Search stars' class='FormControl-input FormControl-medium color-fg-muted FormControl-input FormControl-medium' id='q' placeholder='Search stars' />
+[50] (939,210)<button class='FormField-input flex-self-start Button--secondary Button--medium Button' />
+	[51] (939,210)<span  />
+		[52] (939,210)<span >Search />
+[53] (593,248)<button class='Button--secondary Button--medium Button' id='stars-type-filter-menu-button' />
+	[54] (585,248)<span  />
+		[55] (585,248)<span >Type: All />
+[56] (706,248)<button class='Button--secondary Button--medium Button' id='stars-language-filter-menu-button' />
+	[57] (698,248)<span  />
+		[58] (698,248)<span >Language />
+[59] (872,248)<button class='Button--secondary Button--medium Button' id='stars-sort-menu-button' />
+	[60] (864,248)<span  />
+		[61] (864,248)<span >Sort by: Recently starred />
+Showing results
+[62] (380,305)<a href='/coroot/coroot'>coroot />
+	[63] (349,305)<span >coroot / />
+[64] (901,305)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[65] (914,305)<span >Star />
+[66] (957,305)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-527612250-unstarred-button' />
+Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards a…
+Go
+[67] (388,430)<a class='Link--muted tmp-mr-3' href='/coroot/coroot/stargazers'>7,580 />
+[68] (453,430)<a class='Link--muted tmp-mr-3' href='/coroot/coroot/forks'>364 />
+Updated
+[69] (391,506)<a href='/parca-dev/parca'>parca />
+	[70] (365,506)<span >parca-dev / />
+[71] (901,506)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[72] (914,506)<span >Star />
+[73] (957,506)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-159351868-unstarred-button' />
+Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+TypeScript
+[74] (429,631)<a class='Link--muted tmp-mr-3' href='/parca-dev/parca/stargazers'>4,851 />
+[75] (494,631)<a class='Link--muted tmp-mr-3' href='/parca-dev/parca/forks'>251 />
+Updated
+[76] (483,707)<a href='/manisharma/universal-log-streamer'>universal-log-streamer />
+	[77] (375,707)<span >manisharma / />
+[78] (901,707)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[79] (914,707)<span >Star />
+A high-performance, Kubernetes-aware log streaming and filtering tool that monitors container and system logs in real-time, filters them based on configurable criteria, and streams matching entries…
+Go
+[80] (376,832)<a class='Link--muted tmp-mr-3' href='/manisharma/universal-log-streamer/stargazers'>2 />
+Updated
+
+</current_dom>

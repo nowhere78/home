@@ -1,0 +1,262 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (212,2)<a aria-label='라이선스, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/LICENSE' title='특허' />
+	[1] (212,2)<font  />
+		[2] (212,2)<font >특허 />
+[3] (470,2)<a class='Link--secondary' href='/khoj-ai/khoj/commit/1466aef554ae8dce580541a36b63b129c172bcb7' title='라이선스를 GNU GPLv3에서 GNU AGPLv3으로 변경합니다. 이렇게 하면 이 코드의 상위 사용자들이 네트워크 분산 서비스용 소프트웨어를 오픈 소스로 제공해야 합니다.' />
+	[4] (470,2)<font  />
+		[5] (470,2)<font >라이선스를 GNU GPLv3에서 GNU AGPLv3으로 변경합니다. />
+3년 전
+[6] (419,45)<tr  />
+	[7] (226,46)<a aria-label='README.md, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/README.md' title='README.md' />
+		[8] (226,46)<font  />
+			[9] (226,46)<font >README.md />
+	[10] (472,46)<a class='Link--secondary' href='/khoj-ai/khoj/commit/17be2d4800c4573c586d99501064955321dc030d' title='README 파일의 Pipali 프로젝트 공지사항을 업데이트하세요.' />
+		[11] (472,46)<font  />
+			[12] (472,46)<font >README 파일의 Pipali 프로젝트 공지사항을 업데이트하세요. />
+	2개월 전
+[13] (419,88)<tr  />
+	[14] (230,89)<a aria-label='컴퓨터.Dockerfile, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/computer.Dockerfile' title='컴퓨터.도커파일' />
+		[15] (230,89)<font  />
+			[16] (230,89)<font >컴퓨터.도커파일 />
+	[17] (482,89)<a class='Link--secondary' href='/khoj-ai/khoj/commit/e0f363d7184270952bec4f97d4b578d861efa79d' title='UV를 사용하여 khoj 컴퓨터의 Python 버전 및 환경 변수를 관리하세요. khoj의 컴퓨터에서 khoj 사용자 이름을 사용하세요. UV는 빌드 속도가 훨씬 빠릅니다.' />
+		[18] (482,89)<font  />
+			[19] (482,89)<font >UV를 사용하여 khoj 컴퓨터에서 Python 버전 및 환경을 관리하세요. />
+	10개월 전
+[20] (419,132)<tr  />
+	[21] (239,132)<a aria-label='docker-compose.yml, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/docker-compose.yml' title='docker-compose.yml' />
+		[22] (239,132)<font  />
+			[23] (239,132)<font >docker-compose.yml />
+	[24] (502,132)<a class='Link--secondary' href='/khoj-ai/khoj/commit/61cb2d5b7e3349fdd6d06c92aa26b46fb8c9966d' title='Exa를 사용하여 웹페이지 읽기 기능을 활성화합니다. Jina 웹페이지 리더 지원을 제거하고 Exa를 사용하여 웹페이지를 읽도록 합니다. 현재 사용 가능한 제공업체보다 훨씬 빠른 것으로 보입니다. Jina를 웹페이지 리더에서 제거하고 코드와 문서에서 Jina 관련 모든 참조를 삭제합니다. Jina는 어차피 느렸고 API가 곧 종료될 가능성이 있습니다(Elastic에 인수됨). 웹 검색 및 웹페이지 읽기 기능에 Exa를 언급하도록 문서를 업데이트합니다.' />
+		[25] (502,132)<font  />
+			[26] (502,132)<font >Exa를 사용하여 웹페이지 읽기를 활성화합니다. Jina 웹페이지 리더를 제거합니다. />
+	6개월 전
+[27] (419,175)<tr  />
+	[28] (236,176)<a aria-label='gunicorn-config.py, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/gunicorn-config.py' title='gunicorn-config.py' />
+		[29] (236,176)<font  />
+			[30] (236,176)<font >gunicorn-config.py />
+	[31] (526,176)<a class='Link--secondary' href='/khoj-ai/khoj/commit/a9b1a260890341916be4daa95f019c2d416d8a21' title='Gunicorn의 기본 타임아웃 및 워커 설정을 업데이트합니다. 환경 변수를 통해 설정할 수 있도록 하여, 타임아웃을 기존 120초에서 180초로, 그레이스풀 타임아웃을 기본값 30초에서 90초로 늘립니다. 또한, 기본 Gunicorn 워커 수를 늘리고 (가상)CPU 활용도를 높이기 위해 설정 가능하도록 합니다. VM/컨테이너가 호스트 머신의 CPU 카운트를 참조하는 오류를 방지하기 위해, multiprocessing.cpu_count() 대신 수동으로 설정하도록 했습니다.' />
+		[32] (526,176)<font  />
+			[33] (526,176)<font >Gunicorn의 기본 타임아웃 및 워커 설정을 업데이트하세요. 환경 변수를 통해 구성할 수 있습니다. />
+	11개월 전
+[34] (419,219)<tr  />
+	[35] (227,219)<a aria-label='manifest.json, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/manifest.json' title='manifest.json' />
+		[36] (227,219)<font  />
+			[37] (227,219)<font >manifest.json />
+	[38] (425,219)<a class='Link--secondary' href='/khoj-ai/khoj/commit/9258f57dceab19d52a1a0bdac54eb38576c29187' title='Khoj 버전 2.0.0-beta.28 출시' />
+		[39] (425,219)<font  />
+			[40] (425,219)<font >Khoj 버전 2.0.0-beta.28 출시 />
+	2개월 전
+[41] (419,262)<tr  />
+	[42] (230,262)<a aria-label='prod.Dockerfile, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/prod.Dockerfile' title='prod.Dockerfile' />
+		[43] (230,262)<font  />
+			[44] (230,262)<font >prod.Dockerfile />
+	[45] (484,262)<a class='Link--secondary' href='/khoj-ai/khoj/commit/8ad38dfe11a9c502156678aa4c780cd510952555' title='웹 앱 빌드 속도를 높이려면 Deno(또는 Yarn) 대신 Bun을 사용하세요.' />
+		[46] (484,262)<font  />
+			[47] (484,262)<font >웹 앱 빌드 속도를 높이려면 Deno(또는 Yarn) 대신 Bun을 사용하세요. />
+	10개월 전
+[48] (419,305)<tr  />
+	[49] (229,306)<a aria-label='pyproject.toml, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/pyproject.toml' title='pyproject.toml' />
+		[50] (229,306)<font  />
+			[51] (229,306)<font >pyproject.toml />
+	[52] (424,306)<a class='Link--secondary' href='/khoj-ai/khoj/commit/8965db70874386a5866448d95aee971947101105' title='범프 서버, 클라이언트 종속성' />
+		[53] (424,306)<font  />
+			[54] (424,306)<font >범프 서버, 클라이언트 종속성 />
+	2개월 전
+[55] (419,349)<tr  />
+	[56] (220,349)<a aria-label='pytest.ini, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/pytest.ini' title='pytest.ini' />
+		[57] (220,349)<font  />
+			[58] (220,349)<font >pytest.ini />
+	[59] (509,349)<a class='Link--secondary' href='/khoj-ai/khoj/commit/1bbf719b04c0e45e4f0d0a497f0946ea37ddd1b9' title='테스트 실행을 위해 데이터베이스에 마이그레이션을 적용하여 pgvector를 설치합니다.' />
+		[60] (509,349)<font  />
+			[61] (509,349)<font >테스트 실행을 위해 데이터베이스에 마이그레이션을 적용하여 pgvector를 설치합니다. />
+	11개월 전
+[62] (419,392)<tr  />
+	[63] (217,393)<a aria-label='uv.lock, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/uv.lock' title='uv.lock' />
+		[64] (217,393)<font  />
+			[65] (217,393)<font >uv.lock />
+	[66] (424,393)<a class='Link--secondary' href='/khoj-ai/khoj/commit/8965db70874386a5866448d95aee971947101105' title='범프 서버, 클라이언트 종속성' />
+		[67] (424,393)<font  />
+			[68] (424,393)<font >범프 서버, 클라이언트 종속성 />
+	2개월 전
+[69] (419,435)<tr  />
+	[70] (220,436)<a aria-label='versions.json, (파일)' class='Link--primary' href='/khoj-ai/khoj/blob/master/versions.json' title='버전.json' />
+		[71] (220,436)<font  />
+			[72] (220,436)<font >버전.json />
+	[73] (425,436)<a class='Link--secondary' href='/khoj-ai/khoj/commit/9258f57dceab19d52a1a0bdac54eb38576c29187' title='Khoj 버전 2.0.0-beta.28 출시' />
+		[74] (425,436)<font  />
+			[75] (425,436)<font >Khoj 버전 2.0.0-beta.28 출시 />
+	2개월 전
+저장소 파일 탐색
+[76] (213,502)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[77] (196,502)<span  />
+	[78] (219,502)<span  />
+		[79] (219,502)<font  />
+			[80] (219,502)<font >README />
+[81] (282,502)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[82] (250,502)<span  />
+	[83] (288,502)<span  />
+		[84] (288,502)<font  />
+			[85] (288,502)<font >AGPL-3.0 라이선스 />
+[86] (620,501)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[87] (641,501)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[88] (419,664)<a href='https://camo.githubusercontent.com/aceab34fe2adf75b48319e8893632fc4dcdace9cbb4e2910f7d4106f706f6b90/68747470733a2f2f6173736574732e6b686f6a2e6465762f6b686f6a2d6c6f676f2d73696465776179732d31323030783534302e706e67' />
+	[89] (419,616)<img  />
+[90] (325,709)<a href='https://github.com/khoj-ai/khoj/actions/workflows/test.yml' />
+	[91] (325,705)<img  />
+[92] (386,709)<a href='https://github.com/khoj-ai/khoj/pkgs/container/khoj' />
+	[93] (386,705)<img  />
+[94] (449,709)<a href='https://pypi.org/project/khoj/' />
+	[95] (449,705)<img  />
+[96] (508,709)<a href='https://discord.gg/BDgyabRM6e' />
+	[97] (508,706)<img  />
+당신의 AI 두 번째 두뇌
+[98] (324,802)<a href='https://docs.khoj.dev' />
+	[99] (324,802)<font  />
+		[100] (324,802)<font >📑 문서 />
+•
+[101] (366,802)<a href='https://khoj.dev' />
+	[102] (366,802)<font  />
+		[103] (366,802)<font >🌐 웹 />
+•
+[104] (405,802)<a href='https://app.khoj.dev' />
+	[105] (405,802)<font  />
+		[106] (405,802)<font >🔥 앱 />
+•
+[107] (455,802)<a href='https://discord.gg/BDgyabRM6e' />
+	[108] (455,802)<font  />
+		[109] (455,802)<font >💬 디스코드 />
+•
+[110] (511,802)<a href='https://blog.khoj.dev' />
+	[111] (511,802)<font  />
+		[112] (511,802)<font >✍🏽 블로그 />
+[113] (419,861)<a href='https://trendshift.io/repositories/10318' />
+	[114] (419,861)<img  />
+🎁 신제품
+[115] (193,958)<a aria-label='고유 링크: 🎁 신규' class='anchor' href='#-new' id='user-content--new' />
+🌶️
+피팔리를
+소개합니다! 피팔리는 여러분
+의 컴퓨터에서 실행되는
+오픈소스 AI 동료입니다.
+[116] (697,18)<a class='Link Link--muted' href='/khoj-ai/khoj/forks' />
+	[117] (696,18)<strong  />
+		[118] (696,18)<font  />
+			[119] (696,18)<font >2.2k />
+	[120] (711,18)<font  />
+		[121] (711,18)<font >포크 />
+[122] (696,49)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fkhoj-ai%2Fkhoj&report=khoj-ai+%28user%29' />
+	[123] (696,49)<font  />
+		[124] (696,49)<font >보고서 저장소 />
+[125] (696,107)<a class='Link--primary no-underline Link' href='/khoj-ai/khoj/releases' />
+	[126] (688,107)<font  />
+		[127] (688,107)<font >릴리스 />
+	[128] (709,109)<span  />
+		[129] (709,109)<font  />
+			[130] (709,109)<font >173 />
+[131] (746,158)<a class='Link--primary d-flex no-underline' href='/khoj-ai/khoj/releases/tag/2.0.0-beta.28' />
+	[132] (720,158)<div  />
+		[133] (720,149)<div  />
+			[134] (708,149)<span  />
+				[135] (708,149)<font  />
+					[136] (708,149)<font >2.0.0-베타.28 />
+			[137] (743,149)<span  />
+				[138] (743,148)<font  />
+					[139] (743,148)<font >최신 />
+		[140] (720,169)<div  />
+			[141] (702,169)<relative-time  />
+				[142] (702,169)<font  />
+					[143] (702,169)<font >3월 26일에 />
+[144] (699,207)<a class='Link' href='/khoj-ai/khoj/releases' />
+	[145] (699,207)<font  />
+		[146] (699,207)<font >+ 172개 릴리스 />
+이 프로젝트를 후원해 주세요
+[147] (685,312)<a href='/khoj-ai' />
+	[148] (683,312)<img  />
+[149] (724,312)<a class='Link--primary no-underline' href='/khoj-ai' />
+	[150] (710,312)<strong  />
+		[151] (710,312)<font  />
+			[152] (710,312)<font >코지아이 />
+	[153] (738,312)<span  />
+		[154] (738,312)<font  />
+			[155] (738,312)<font >코지아이 />
+[156] (746,363)<a aria-label='스폰서 @khoj-ai' class='Button--secondary Button--medium Button Button--fullWidth' href='/sponsors/khoj-ai' />
+	[157] (746,363)<span  />
+		[158] (746,363)<span  />
+			[159] (752,362)<span  />
+				[160] (752,363)<font  />
+					[161] (752,365)<font >스폰서 />
+[162] (728,406)<a href='/sponsors' />
+	[163] (728,406)<font  />
+		[164] (728,406)<font >GitHub 스폰서에 대해 자세히 알아보세요 />
+[165] (746,463)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/khoj-ai/khoj/deployments' />
+	[166] (683,463)<font  />
+		[167] (683,463)<font >배포 />
+	[168] (711,463)<span  />
+		[169] (711,463)<font  />
+			[170] (711,463)<font >500개 이상 />
+[171] (724,504)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/khoj-ai/khoj/deployments/github-pages' />
+	[172] (711,504)<font  />
+		[173] (711,504)<font >깃허브페이지 />
+	[174] (745,504)<relative-time  />
+		[175] (745,504)<font  />
+			[176] (745,504)<font >2개월 전 />
+[177] (693,543)<a class='Link--inTextBlock Link' href='/khoj-ai/khoj/deployments' />
+	[178] (693,543)<font  />
+		[179] (693,543)<font >+ 추가 배포 />
+[180] (746,602)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/khoj-ai/packages?repo_name=khoj' />
+	[181] (687,602)<font  />
+		[182] (687,601)<font >패키지 />
+	[183] (705,602)<span  />
+		[184] (705,602)<font  />
+			[185] (705,602)<font >2 />
+[186] (710,641)<a class='Link--primary no-underline wb-break-word' href='/orgs/khoj-ai/packages/container/package/khoj-cloud' />
+	[187] (709,641)<span  />
+		[188] (709,641)<font  />
+			[189] (709,641)<font >코지-클라우드 />
+[190] (695,669)<a class='Link--primary no-underline wb-break-word' href='/orgs/khoj-ai/packages/container/package/khoj' />
+	[191] (694,668)<span  />
+		[192] (694,668)<font  />
+			[193] (694,668)<font >코지 />
+[194] (746,734)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/khoj-ai/khoj/graphs/contributors' />
+	[195] (687,734)<font  />
+		[196] (687,734)<font >기고자 />
+	[197] (707,734)<span  />
+		[198] (707,734)<font  />
+			[199] (707,734)<font >67 />
+[200] (683,779)<a href='https://github.com/debanjum' />
+	[201] (683,781)<img  />
+[202] (704,779)<a href='https://github.com/sabaimran' />
+	[203] (704,781)<img  />
+[204] (725,779)<a href='https://github.com/hjamet' />
+	[205] (725,781)<img  />
+[206] (746,779)<a href='https://github.com/MythicalCow' />
+	[207] (746,781)<img  />
+[208] (767,779)<a href='https://github.com/aam-at' />
+	[209] (767,781)<img  />
+[210] (788,779)<a href='https://github.com/samhoooo' />
+	[211] (788,781)<img  />
+[212] (683,821)<a href='https://github.com/eltociear' />
+	[213] (683,823)<img  />
+[214] (704,821)<a href='https://github.com/shantanuSakpal' />
+	[215] (704,823)<img  />
+[216] (725,821)<a href='https://github.com/Fh26697' />
+	[217] (725,823)<img  />
+[218] (746,821)<a href='https://github.com/majiayu000' />
+	[219] (746,823)<img  />
+[220] (767,821)<a href='https://github.com/DPS0340' />
+	[221] (767,823)<img  />
+[222] (788,821)<a href='https://github.com/emmanuel-ferdman' />
+	[223] (788,823)<img  />
+[224] (683,863)<a href='https://github.com/ArtemkaKun' />
+	[225] (683,866)<img  />
+[226] (704,863)<a href='https://github.com/Muftawo' />
+	[227] (704,866)<img  />
+[228] (697,910)<a class='Link--inTextBlock Link' href='/khoj-ai/khoj/graphs/contributors' />
+	[229] (697,910)<font  />
+		[230] (697,910)<font >53명의 기고자 />
+언어
+
+</current_dom>

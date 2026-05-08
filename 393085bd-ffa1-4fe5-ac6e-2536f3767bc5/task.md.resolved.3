@@ -1,0 +1,15 @@
+# Alpha Stock Bot v1.0 구축 Task List
+
+- `[x]` KIS API 연동 모듈 (`kis_api_helper.py`) 개발
+    - `[x]` OAuth2 토큰 발급 및 자동 갱신 로직
+    - `[x]` 계좌 잔고 및 현재가 조회 기능
+    - `[x]` 국내/미국 주문 실행 기능 (Mock 지원)
+- `[x]` 주식 전용 전략 엔진 (`stock_strategy.py`) 개발
+    - `[x]` 퀀트 모멘텀 필터링 로직
+    - `[x]` 기술적 지표 (MA, RSI, BB) 통합
+- `[x]` 메인 봇 엔진 (`stock_bot_v1_luna.py`) 개발
+    - `[x]` 시장 시간 스케줄러 로직
+    - `[x]` Luna v5 Reasoning Gate 연동
+- `[ ]` 환경 설정 및 테스트
+    - `[ ]` `.env` 설정 및 환경 변수 검증
+    - `[ ]` 모의 투자 테스트 실행

@@ -1,0 +1,413 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (173,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Drakkar-Software' />
+		[4] (173,34)<span  />
+			[5] (173,33)<font  />
+				[6] (173,33)<font >드라카르 소프트웨어 />
+	[7] (284,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Drakkar-Software/OctoBot' />
+		[8] (284,34)<span  />
+			[9] (284,33)<font  />
+				[10] (284,33)<font >옥토봇 />
+	[11] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+	[12] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[13] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_q_' />
+	[14] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_v_' />
+		[15] (740,34)<span  />
+	[16] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[17] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[18] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[19] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[20] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[21] (967,34)<img  />
+	저장소 탐색
+	[22] (42,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot' />
+		[23] (42,80)<span  />
+			[24] (42,80)<font  />
+				[25] (42,80)<font >암호 />
+	[26] (125,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/issues' />
+		[27] (105,80)<span  />
+			[28] (105,80)<font  />
+				[29] (105,80)<font >문제점 />
+		[30] (149,80)<span  />
+			[31] (149,80)<span  />
+				[32] (149,80)<font  />
+					[33] (149,80)<font >110 />
+			(
+			110
+			)
+	[34] (247,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/pulls' />
+		[35] (232,80)<span  />
+			[36] (232,80)<font  />
+				[37] (232,80)<font >풀 리퀘스트 />
+		[38] (294,80)<span  />
+			[39] (294,80)<span  />
+				[40] (294,80)<font  />
+					[41] (294,80)<font >7 />
+			(
+			7
+			)
+	[42] (365,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/agents?author=nowhere78' />
+		[43] (365,80)<span  />
+			[44] (365,80)<font  />
+				[45] (365,80)<font >자치령 대표 />
+	[46] (464,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/discussions' />
+		[47] (464,80)<span  />
+			[48] (464,80)<font  />
+				[49] (464,80)<font >토론 />
+	[50] (551,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/actions' />
+		[51] (551,80)<span  />
+			[52] (551,80)<font  />
+				[53] (551,80)<font >행위 />
+	[54] (628,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/projects' />
+		[55] (628,80)<span  />
+			[56] (628,80)<font  />
+				[57] (628,80)<font >프로젝트 />
+	[58] (746,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/security' />
+		[59] (746,80)<span  />
+			[60] (746,80)<font  />
+				[61] (746,80)<font >보안 및 품질 />
+	[62] (863,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Drakkar-Software/OctoBot/pulse' />
+		[63] (863,80)<span  />
+			[64] (863,80)<font  />
+				[65] (863,80)<font >인사이트 />
+[66] (79,139)<a class='d-block overflow-x-hidden color-fg-default' href='/Drakkar-Software/OctoBot' />
+	[67] (79,138)<font  />
+		[68] (79,138)<font >옥토봇 />
+공공의
+[69] (507,138)<a aria-label='스폰서: @Drakkar-Software' class='Button--secondary Button--small Button' href='/sponsors/Drakkar-Software' />
+	[70] (507,138)<span  />
+		[71] (507,138)<span  />
+			[72] (520,136)<span  />
+				[73] (520,137)<font  />
+					[74] (520,138)<font >스폰서 />
+[75] (612,138)<div  />
+	[76] (612,138)<button aria-label='영상 보기: Drakkar-Software/OctoBot 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1m_' />
+		[77] (604,138)<span  />
+			[78] (596,138)<span  />
+				[79] (596,137)<font  />
+					[80] (596,137)<font >보다 />
+			113
+			(
+			113
+			)
+[81] (736,139)<a class='btn-sm btn BtnGroup-item' href='/Drakkar-Software/OctoBot/fork' id='fork-button' />
+	[82] (730,139)<font  />
+		[83] (730,141)<font >포크 />
+	[84] (764,138)<span  />
+		[85] (764,138)<font  />
+			[86] (764,138)<font >1.2k />
+[87] (812,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-122682362' />
+	[88] (812,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[89] (893,138)<button aria-label='이 저장소에 별표를 눌러주세요 (5801)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[90] (886,138)<span  />
+		[91] (886,138)<font  />
+			[92] (886,138)<font >별 />
+	[93] (916,138)<span  />
+		[94] (916,138)<font  />
+			[95] (916,138)<font >5.8k />
+[96] (966,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-122682362-unstarred-button' />
+드라카르 소프트웨어/옥토봇
+[97] (69,216)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[98] (69,216)<span  />
+		[99] (56,216)<span  />
+			[100] (56,216)<div  />
+				[101] (39,216)<div  />
+				[102] (67,216)<div  />
+					[103] (67,216)<span  />
+						[104] (69,216)<font  />
+							[105] (69,216)<font >주인 />
+[106] (151,216)<a aria-label='지점 페이지로 이동' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/Drakkar-Software/OctoBot/branches' />
+[107] (195,216)<a aria-label='태그 페이지로 이동' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/Drakkar-Software/OctoBot/tags' />
+[108] (502,216)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[109] (502,216)<span  />
+		[110] (502,216)<span  />
+			[111] (502,216)<font  />
+				[112] (502,216)<font >파일로 이동 />
+파일 추가
+[113] (577,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[114] (577,216)<span  />
+		[115] (577,216)<span  />
+[116] (656,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[117] (656,216)<span  />
+		[118] (656,216)<span  />
+			[119] (656,216)<font  />
+				[120] (656,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[121] (45,278)<a class='prc-Link-Link-9ZwDx' href='/GuillaumeDSM' />
+	[122] (42,279)<img  />
+[123] (90,278)<a aria-label='GuillaumeDSM의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/Drakkar-Software/OctoBot/commits?author=GuillaumeDSM' />
+	[124] (90,278)<font  />
+		[125] (90,278)<font >기욤DSM />
+[126] (207,278)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/5c7cb4eaff521d6c90ae5f54195f2dfe407f31d4' />
+	[127] (207,278)<font >Drakkar-Software/dev의 />
+[128] (324,278)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/5c7cb4eaff521d6c90ae5f54195f2dfe407f31d4' />
+	[129] (324,278)<font >풀 리퀘스트 />
+[130] (426,278)<a class='issue-link js-issue-link' href='https://github.com/Drakkar-Software/OctoBot/pull/3356' />
+	[131] (426,278)<font  />
+		[132] (426,278)<font >#3356을 병합합니다. />
+[133] (503,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[134] (541,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[135] (595,278)<a aria-label='커밋 5c7cb4e' class='Link--secondary prc-Link-Link-9ZwDx' href='/Drakkar-Software/OctoBot/commit/5c7cb4eaff521d6c90ae5f54195f2dfe407f31d4' />
+	[136] (595,278)<font  />
+		[137] (595,278)<font >5c7cb4e />
+·
+왜냐
+역사
+[138] (676,278)<a aria-label='이 파일의 커밋 기록을 보려면 여기를 클릭하세요.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/Drakkar-Software/OctoBot/commits/master/' />
+	[139] (676,278)<span  />
+[140] (362,328)<tr  />
+	[141] (84,328)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/.github' title='.github' />
+		[142] (84,328)<font  />
+			[143] (84,328)<font >.github />
+	[144] (390,328)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/6229131fe1f9e6e03db0553c378a5cc2bb7d0168' title='[CI] Rust 패키지 설정 추가 서명자: Herklos <herklos@drakkar.software>' />
+		[145] (390,328)<font  />
+			[146] (390,328)<font >[CI] Rust 패키지 설정 추가 />
+	왜냐
+[147] (362,371)<tr  />
+	[148] (97,371)<a aria-label='추가 테스트, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/additional_tests' title='추가 테스트' />
+		[149] (97,371)<font  />
+			[150] (97,371)<font >추가 테스트 />
+	[151] (428,371)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/f5c0e76300f6444c4e1d2ed68d2620a0db7bebf1' title='[CCXT] ccxt==4.5.44로 버전 상향 조정' />
+		[152] (428,371)<font  />
+			[153] (428,371)<font >[CCXT] ccxt==4.5.44로 버전 상향 조정 />
+	왜냐
+[154] (362,414)<tr  />
+	[155] (84,415)<a aria-label='빈, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/bin' title='큰 상자' />
+		[156] (84,415)<font  />
+			[157] (84,415)<font >큰 상자 />
+	[158] (456,415)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/1fe6d8a580f5fe6fd5a6224c68e1c6f1818bb6b8' title='[요구 사항] 버전 고정 및 숨겨진 임포트 업데이트' />
+		[159] (456,415)<font  />
+			[160] (456,415)<font >[요구 사항] 버전 고정 및 숨겨진 임포트 업데이트 />
+	왜냐
+[161] (362,458)<tr  />
+	[162] (75,458)<a aria-label='도커, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/docker' title='도커' />
+		[163] (75,458)<font  />
+			[164] (75,458)<font >도커 />
+	[165] (372,458)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/e29e13960196bd000d8dde80fc89638ed7cdfa53' title='[Docker] Redis 제거 서명자: Herklos <herklos@drakkar.software>' />
+		[166] (372,458)<font  />
+			[167] (372,458)<font >[Docker] Redis 제거 />
+	왜냐
+[168] (362,501)<tr  />
+	[169] (107,502)<a aria-label='인프라/동기화, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/infra/sync' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[170] (87,502)<span  />
+			[171] (87,502)<font  />
+				[172] (87,502)<font >인프라/ />
+		[173] (132,502)<span  />
+			[174] (132,502)<font  />
+				[175] (132,502)<font >동기화 />
+	[176] (359,502)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/b5111c65359f9c52bd29d9ff7a726745cd51db85' title='[동기화] CI 구현 서명자: Herklos <herklos@drakkar.software>' />
+		[177] (359,502)<font  />
+			[178] (359,502)<font >[동기화] CI 구현 />
+	왜냐
+[179] (362,544)<tr  />
+	[180] (82,545)<a aria-label='옥토봇, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/octobot' title='옥토봇' />
+		[181] (82,545)<font  />
+			[182] (82,545)<font >옥토봇 />
+	[183] (381,545)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/a8b30bd0fc2e7681a99e3feef02d86901d64e683' title='[요청 사항] 범프 센트리' />
+		[184] (381,545)<font  />
+			[185] (381,545)<font >[요청 사항] 범프 센트리 />
+	왜냐
+[186] (362,588)<tr  />
+	[187] (82,588)<a aria-label='패키지, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/packages' title='패키지' />
+		[188] (82,588)<font  />
+			[189] (82,588)<font >패키지 />
+	[190] (402,588)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/c5e4746ccb90e0b1fdcb6b26fa51f921bebd732a' title='[웹 인터페이스] DSL 문서 개선' />
+		[191] (402,588)<font  />
+			[192] (402,588)<font >[웹 인터페이스] DSL 문서 개선 />
+	왜냐
+[193] (362,631)<tr  />
+	[194] (158,632)<a aria-label='pants-plugins/python_plugins (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/pants-plugins/python_plugins' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[195] (109,632)<span  />
+			[196] (109,632)<font  />
+				[197] (109,632)<font >바지 플러그인/ />
+		[198] (205,632)<span  />
+			[199] (205,632)<font  />
+				[200] (205,632)<font >파이썬 플러그인 />
+	[201] (456,632)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/b754c3850211bd62717459a48e8b323fafbe5413' title='[Pants] 로컬 가상 환경을 사용한 설치 종속성 수정 서명자: Herklos <herklos@drakkar.software>' />
+		[202] (456,632)<font  />
+			[203] (456,632)<font >[바지] 로컬 가상 환경을 사용한 종속성 설치 수정 />
+	왜냐
+[204] (362,675)<tr  />
+	[205] (82,675)<a aria-label='테스트, (디렉토리)' class='Link--primary' href='/Drakkar-Software/OctoBot/tree/master/tests' title='테스트' />
+		[206] (82,675)<font  />
+			[207] (82,675)<font >테스트 />
+	[208] (388,675)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/d293f297663799e6bd3226c1d546ef16222af75b' title='[노드] 업로드 자동화 로그 서명자: Herklos <herklos@drakkar.software>' />
+		[209] (388,675)<font  />
+			[210] (388,675)<font >[노드] 업로드 자동화 로그 />
+	왜냐
+[211] (362,718)<tr  />
+	[212] (106,719)<a aria-label='.dockerignore, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/.dockerignore' title='.dockerignore' />
+		[213] (106,719)<font  />
+			[214] (106,719)<font >.dockerignore />
+	[215] (390,719)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/0332168b0699c942f409bb3d6be253f7ae236528' title='모노레포로 마이그레이션(#3203) * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * tulipy 삭제 * "rm tulipy" 되돌리기 이 커밋은 86472d78b0405621cc597bdad484693db1dcab16을 되돌립니다. * tulipy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * [CI] octoBot을 사용하여 tentacles 설치 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 롤백 서명자: Herklos <herklos@drakkar.software> * docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * docker CI 수정 서명자: Herklos <herklos@drakkar.software> * Docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * Python 3.14로 업데이트 서명자: Herklos <herklos@drakkar.software> * Docker CI 수정 * Python 3.13으로 롤백 * Python 3.13으로 롤백 * Docker CI 복원 * 바이너리 설정 업데이트 * Python 3.10으로 테스트 서명자: Herklos <herklos@drakkar.software> * 린트 병합 서명자: Herklos <herklos@drakkar.software> * 3.13 복원 서명자: Herklos <herklos@drakkar.software> * Python 3.13용 [요구사항] 업데이트 * [CI] OctoBot 테스트 및 Tentacles에만 OctoBot 설치 서명자: Herklos <herklos@drakkar.software> * [TentaclesManager] 누락된 init 생성 수정 * [TentaclesManager] 상수 수정 * [요구사항] sentry 업데이트 * [CI] 패키지 테스트 속도 향상 서명자: Herklos <herklos@drakkar.software> * [CI] Docker 테스트 수정 서명자: Herklos <herklos@drakkar.software> * [평가자] 테스트 수정 * [테스트] 불필요한 conftest 제거 * [Pytest] 경고 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * [거래] 테스트 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * CI 병합 서명자: Herklos <herklos@drakkar.software> --------- 서명자: Herklos <herklos@drakkar.software> 공동 저자: Guillaume De Saint Martin <guillaumemdsm@gmail.com>' />
+		[216] (390,719)<font  />
+			[217] (390,719)<font >모노레포로 마이그레이션( />
+	[218] (492,719)<a class='issue-link js-issue-link' href='https://github.com/Drakkar-Software/OctoBot/pull/3203' />
+		[219] (492,719)<font  />
+			[220] (492,719)<font >#3203 />
+	[221] (517,719)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/0332168b0699c942f409bb3d6be253f7ae236528' title='모노레포로 마이그레이션(#3203) * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * tulipy 삭제 * "rm tulipy" 되돌리기 이 커밋은 86472d78b0405621cc597bdad484693db1dcab16을 되돌립니다. * tulipy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * [CI] octoBot을 사용하여 tentacles 설치 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 롤백 서명자: Herklos <herklos@drakkar.software> * docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * docker CI 수정 서명자: Herklos <herklos@drakkar.software> * Docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * Python 3.14로 업데이트 서명자: Herklos <herklos@drakkar.software> * Docker CI 수정 * Python 3.13으로 롤백 * Python 3.13으로 롤백 * Docker CI 복원 * 바이너리 설정 업데이트 * Python 3.10으로 테스트 서명자: Herklos <herklos@drakkar.software> * 린트 병합 서명자: Herklos <herklos@drakkar.software> * 3.13 복원 서명자: Herklos <herklos@drakkar.software> * Python 3.13용 [요구사항] 업데이트 * [CI] OctoBot 테스트 및 Tentacles에만 OctoBot 설치 서명자: Herklos <herklos@drakkar.software> * [TentaclesManager] 누락된 init 생성 수정 * [TentaclesManager] 상수 수정 * [요구사항] sentry 업데이트 * [CI] 패키지 테스트 속도 향상 서명자: Herklos <herklos@drakkar.software> * [CI] Docker 테스트 수정 서명자: Herklos <herklos@drakkar.software> * [평가자] 테스트 수정 * [테스트] 불필요한 conftest 제거 * [Pytest] 경고 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * [거래] 테스트 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * CI 병합 서명자: Herklos <herklos@drakkar.software> --------- 서명자: Herklos <herklos@drakkar.software> 공동 저자: Guillaume De Saint Martin <guillaumemdsm@gmail.com>' />
+		[222] (517,719)<font  />
+			[223] (517,719)<font >) />
+	2개월 전
+[224] (362,761)<tr  />
+	[225] (93,762)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/.gitignore' title='.gitignore' />
+		[226] (93,762)<font  />
+			[227] (93,762)<font >.gitignore />
+	[228] (478,762)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/0c0be41b9a316818dd18cd86fb676b0692876478' title='[동기화] 보안 강화, 수동 경로를 컬렉션으로 대체, 멤버 역할 추가 컬렉션: - JSON 스키마 유효성 검사를 지원하는 product-profiles 컬렉션 추가(name, description, website, twitter, tags) - MIME 유형 유효성 검사를 지원하는 product-logos 바이너리 컬렉션 추가(PNG, JPEG, GIF, WebP) - 버전 문서에 대한 JSON 스키마 유효성 검사를 지원하는 product-versions 컬렉션 추가 - readRoles 시그널을 public에서 member로 변경(온체인 has_access 게이팅) 역할 강화: - 온체인 has_access 검사를 통해 멤버 역할 할당(공개 제품은 모든 사용자에게 멤버 권한 부여, 비공개 제품은 멤버에게만 부여) - 소유자는 이제 소유자 및 멤버 역할을 모두 가짐 제거된 경로: - 모든 수동 제품 경로(GET/PUT) 제거 — 선언적 Starfish 컬렉션으로 대체 - 사용되지 않는 /verify 엔드포인트 제거(인증은 Starfish role_resolver에서 처리) - app.state 종속성 제거(object_store, registry, platform_pubkey) - find_item 헬퍼 제거(삭제된 경로에서만 사용) 보안: - 인증 실패에 대한 보안 이벤트 로깅 추가 - 인증 타임스탬프 시간 범위 축소 30초에서 10초로 단축된 Nginx 설정 생성기: - 스토리지 경로의 정규 표현식 메타 문자를 이스케이프 처리하여 인젝션 방지 - 컬렉션 이름 유효성 검사(영숫자/하이픈/밑줄만 사용) - 0 또는 음수 속도 제한 값 거부 인프라: - 방화벽 규칙을 통해 Garage RPC 포트(3901)를 피어 노드 IP로 제한 - 민감한 Ansible 작업(키 생성, .env 렌더링)에 no_log 추가 - Docker 네트워크 격리(프런트엔드/백엔드) 추가 - 컨테이너 리소스 제한 및 새로운 권한 부여 금지 보안 옵션 추가 - Nginx 상태 확인 추가 - ansible-core 버전 고정 - 모든 제품 및 사용자 컬렉션이 포함된 배포된 collections.json 파일 추가 테스트: - 멤버 및 소유자가 아닌 경우 접근 권한 없음 시나리오에 대한 역할 강화 테스트 추가 - Nginx 설정 인젝션 및 엣지 케이스 테스트 추가 - 새 컬렉션에 대한 컬렉션 개수 및 역할 어설션 업데이트 공동 작성자: Claude Opus 4.6 (1M 컨텍스트) <noreply@anthropic.com>' />
+		[229] (478,762)<font  />
+			[230] (478,762)<font >[동기화] 보안 강화, 수동 경로를 컬렉션으로 대체, 광고… />
+	왜냐
+[231] (362,805)<tr  />
+	[232] (98,805)<a aria-label='.gitpod.yml, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/.gitpod.yml' title='.gitpod.yml' />
+		[233] (98,805)<font  />
+			[234] (98,805)<font >.gitpod.yml />
+	[235] (339,805)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/5c68fdb37185cec4d59207e87b8f5a6dd1a46333' title='고정 포트' />
+		[236] (339,805)<font  />
+			[237] (339,805)<font >고정 포트 />
+	3년 전
+[238] (362,848)<tr  />
+	[239] (103,849)<a aria-label='.pants.ignore, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/.pants.ignore' title='.pants.ignore' />
+		[240] (103,849)<font  />
+			[241] (103,849)<font >.pants.ignore />
+	[242] (390,849)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/0332168b0699c942f409bb3d6be253f7ae236528' title='모노레포로 마이그레이션(#3203) * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * tulipy 삭제 * "rm tulipy" 되돌리기 이 커밋은 86472d78b0405621cc597bdad484693db1dcab16을 되돌립니다. * tulipy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * [CI] octoBot을 사용하여 tentacles 설치 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 롤백 서명자: Herklos <herklos@drakkar.software> * docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * docker CI 수정 서명자: Herklos <herklos@drakkar.software> * Docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * Python 3.14로 업데이트 서명자: Herklos <herklos@drakkar.software> * Docker CI 수정 * Python 3.13으로 롤백 * Python 3.13으로 롤백 * Docker CI 복원 * 바이너리 설정 업데이트 * Python 3.10으로 테스트 서명자: Herklos <herklos@drakkar.software> * 린트 병합 서명자: Herklos <herklos@drakkar.software> * 3.13 복원 서명자: Herklos <herklos@drakkar.software> * Python 3.13용 [요구사항] 업데이트 * [CI] OctoBot 테스트 및 Tentacles에만 OctoBot 설치 서명자: Herklos <herklos@drakkar.software> * [TentaclesManager] 누락된 init 생성 수정 * [TentaclesManager] 상수 수정 * [요구사항] sentry 업데이트 * [CI] 패키지 테스트 속도 향상 서명자: Herklos <herklos@drakkar.software> * [CI] Docker 테스트 수정 서명자: Herklos <herklos@drakkar.software> * [평가자] 테스트 수정 * [테스트] 불필요한 conftest 제거 * [Pytest] 경고 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * [거래] 테스트 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * CI 병합 서명자: Herklos <herklos@drakkar.software> --------- 서명자: Herklos <herklos@drakkar.software> 공동 저자: Guillaume De Saint Martin <guillaumemdsm@gmail.com>' />
+		[243] (390,849)<font  />
+			[244] (390,849)<font >모노레포로 마이그레이션( />
+	[245] (492,849)<a class='issue-link js-issue-link' href='https://github.com/Drakkar-Software/OctoBot/pull/3203' />
+		[246] (492,849)<font  />
+			[247] (492,849)<font >#3203 />
+	[248] (517,849)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/0332168b0699c942f409bb3d6be253f7ae236528' title='모노레포로 마이그레이션(#3203) * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * 모노레포로 마이그레이션 서명자: Herklos <herklos@drakkar.software> * tulipy 삭제 * "rm tulipy" 되돌리기 이 커밋은 86472d78b0405621cc597bdad484693db1dcab16을 되돌립니다. * tulipy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * [CI] octoBot을 사용하여 tentacles 설치 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 서명자: Herklos <herklos@drakkar.software> * numpy 버전 업데이트 롤백 서명자: Herklos <herklos@drakkar.software> * docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * 테스트 수정 서명자: Herklos <herklos@drakkar.software> * docker CI 수정 서명자: Herklos <herklos@drakkar.software> * Docker 빌드 수정 서명자: Herklos <herklos@drakkar.software> * Python 3.14로 업데이트 서명자: Herklos <herklos@drakkar.software> * Docker CI 수정 * Python 3.13으로 롤백 * Python 3.13으로 롤백 * Docker CI 복원 * 바이너리 설정 업데이트 * Python 3.10으로 테스트 서명자: Herklos <herklos@drakkar.software> * 린트 병합 서명자: Herklos <herklos@drakkar.software> * 3.13 복원 서명자: Herklos <herklos@drakkar.software> * Python 3.13용 [요구사항] 업데이트 * [CI] OctoBot 테스트 및 Tentacles에만 OctoBot 설치 서명자: Herklos <herklos@drakkar.software> * [TentaclesManager] 누락된 init 생성 수정 * [TentaclesManager] 상수 수정 * [요구사항] sentry 업데이트 * [CI] 패키지 테스트 속도 향상 서명자: Herklos <herklos@drakkar.software> * [CI] Docker 테스트 수정 서명자: Herklos <herklos@drakkar.software> * [평가자] 테스트 수정 * [테스트] 불필요한 conftest 제거 * [Pytest] 경고 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * [거래] 테스트 수정 * 바이너리 수정 서명자: Herklos <herklos@drakkar.software> * CI 병합 서명자: Herklos <herklos@drakkar.software> --------- 서명자: Herklos <herklos@drakkar.software> 공동 저자: Guillaume De Saint Martin <guillaumemdsm@gmail.com>' />
+		[249] (517,849)<font  />
+			[250] (517,849)<font >) />
+	2개월 전
+[251] (362,892)<tr  />
+	[252] (75,892)<a aria-label='빌드, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/BUILD' title='짓다' />
+		[253] (75,892)<font  />
+			[254] (75,892)<font >짓다 />
+	[255] (345,892)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/b3746ac53b8916b3d5167f9791f9253c415d19cf' title='[버전] 2.1.1' />
+		[256] (345,892)<font  />
+			[257] (345,892)<font >[버전] 2.1.1 />
+	왜냐
+[258] (362,935)<tr  />
+	[259] (103,935)<a aria-label='변경 로그.md, (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/CHANGELOG.md' title='변경 로그.md' />
+		[260] (103,935)<font  />
+			[261] (103,935)<font >변경 로그.md />
+	[262] (345,935)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/b3746ac53b8916b3d5167f9791f9253c415d19cf' title='[버전] 2.1.1' />
+		[263] (345,935)<font  />
+			[264] (345,935)<font >[버전] 2.1.1 />
+	왜냐
+[265] (362,978)<tr  />
+	[266] (101,979)<a aria-label='행동강령.md (파일)' class='Link--primary' href='/Drakkar-Software/OctoBot/blob/master/CODE_OF_CONDUCT.md' title='행동강령.md' />
+		[267] (101,979)<font  />
+			[268] (101,979)<font >행동강령.md />
+	[269] (370,979)<a class='Link--secondary' href='/Drakkar-Software/OctoBot/commit/eb6d36b5f4c9e1b94e74e6cecefe1f4af205ac0d' title='행동 강령 오타 수정' />
+		[270] (370,979)<font  />
+			[271] (370,979)<font >행동 강령 오타 수정 />
+	7년 전
+에 대한
+바이낸스, 하이퍼리퀴드 및 15개 이상의 거래소에서 AI, 그리드, DCA 및 트레이딩뷰 전략을 자동화할 수 있는 무료 오픈 소스 암호화폐 거래 봇으로, 간단한 인터페이스를 제공합니다.
+[272] (830,413)<a class='text-bold' href='https://www.octobot.cloud' role='link' title='https://www.octobot.cloud' />
+	[273] (830,413)<font  />
+		[274] (830,413)<font >www.octobot.cloud />
+주제
+[275] (770,454)<a class='topic-tag topic-tag-link' href='/topics/python' title='주제: 파이썬' />
+	[276] (770,454)<font  />
+		[277] (770,454)<font >파이썬 />
+[278] (838,454)<a class='topic-tag topic-tag-link' href='/topics/bitcoin' title='주제: 비트코인' />
+	[279] (838,454)<font  />
+		[280] (838,454)<font >비트코인 />
+[281] (918,454)<a class='topic-tag topic-tag-link' href='/topics/trading-bot' title='주제: 트레이딩봇' />
+	[282] (918,454)<font  />
+		[283] (918,454)<font >트레이딩봇 />
+[284] (764,484)<a class='topic-tag topic-tag-link' href='/topics/free' title='주제: 무료' />
+	[285] (764,484)<font  />
+		[286] (764,484)<font >무료 />
+[287] (827,484)<a class='topic-tag topic-tag-link' href='/topics/cryptocurrencies' title='주제: 암호화폐' />
+	[288] (827,484)<font  />
+		[289] (827,484)<font >암호화폐 />
+[290] (901,484)<a class='topic-tag topic-tag-link' href='/topics/backtest' title='주제: 백테스트' />
+	[291] (901,484)<font  />
+		[292] (901,484)<font >백테스팅 />
+[293] (781,513)<a class='topic-tag topic-tag-link' href='/topics/telegrambot' title='주제: 텔레그램봇' />
+	[294] (781,513)<font  />
+		[295] (781,513)<font >텔레그램봇 />
+[296] (863,513)<a class='topic-tag topic-tag-link' href='/topics/paper-trading' title='주제: 종이 거래' />
+	[297] (863,513)<font  />
+		[298] (863,513)<font >종이 거래 />
+[299] (787,543)<a class='topic-tag topic-tag-link' href='/topics/binance-api' title='주제: 바이낸스 API' />
+	[300] (787,543)<font  />
+		[301] (787,543)<font >바이낸스 API />
+[302] (867,543)<a class='topic-tag topic-tag-link' href='/topics/solana' title='주제: 솔라나' />
+	[303] (867,543)<font  />
+		[304] (867,543)<font >솔라나 />
+[305] (787,572)<a class='topic-tag topic-tag-link' href='/topics/coinbase-bot' title='주제: 코인베이스 봇' />
+	[306] (787,572)<font  />
+		[307] (787,572)<font >코인베이스봇 />
+[308] (881,572)<a class='topic-tag topic-tag-link' href='/topics/ai-trading' title='주제: AI 트레이딩' />
+	[309] (881,572)<font  />
+		[310] (881,572)<font >AI 트레이딩 />
+[311] (819,602)<a class='topic-tag topic-tag-link' href='/topics/hyperliquid-trading-bot' title='주제: 초유동성 트레이딩 봇' />
+	[312] (819,602)<font  />
+		[313] (819,602)<font >하이퍼리퀴드 트레이딩 봇 />
+[314] (855,632)<a class='topic-tag topic-tag-link' href='/topics/tradingview-pinescript-signal-alert-bot' title='주제: tradingview-pinescript-signal-alert-bot' />
+	[315] (855,632)<font  />
+		[316] (855,632)<font >트레이딩뷰-파인스크립트-신호-알림-봇 />
+자원
+[317] (789,677)<a class='Link--muted' href='#readme-ov-file' />
+	[318] (802,677)<font  />
+		[319] (802,677)<font >읽어보세요 />
+특허
+[320] (809,707)<a class='Link--muted' href='#GPL-3.0-1-ov-file' />
+	[321] (822,707)<font  />
+		[322] (822,707)<font >GPL-3.0 라이선스 />
+행동 강령
+[323] (785,738)<a class='Link--muted' href='#coc-ov-file' />
+	[324] (797,738)<font  />
+		[325] (797,738)<font >행동 강령 />
+기여하기
+[326] (783,769)<a class='Link--muted' href='#contributing-ov-file' />
+	[327] (795,769)<font  />
+		[328] (795,769)<font >기여하기 />
+보안 정책
+[329] (785,799)<a class='Link--muted' href='#security-ov-file' />
+	[330] (797,799)<font  />
+		[331] (797,799)<font >보안 정책 />
+[332] (769,830)<a class='Link Link--muted' href='/Drakkar-Software/OctoBot/activity' />
+	[333] (784,830)<span  />
+		[334] (784,830)<font  />
+			[335] (784,830)<font >활동 />
+[336] (807,861)<a class='Link Link--muted' href='/Drakkar-Software/OctoBot/custom-properties' />
+	[337] (821,861)<span  />
+		[338] (821,861)<font  />
+			[339] (821,861)<font >사용자 지정 속성 />
+별들
+[340] (787,891)<a class='Link Link--muted' href='/Drakkar-Software/OctoBot/stargazers' />
+	[341] (801,891)<font  />
+		[342] (779,891)<font >별 />
+		[343] (810,891)<strong  />
+			[344] (810,891)<font >5.8k 개 />
+감시자들
+[345] (803,922)<a class='Link Link--muted' href='/Drakkar-Software/OctoBot/watchers' />
+	[346] (794,922)<strong  />
+		[347] (794,922)<font  />
+			[348] (794,922)<font >113명이 />
+	[349] (841,922)<font  />
+		[350] (841,922)<font >시청 중 />
+포크스
+[351] (784,953)<a class='Link Link--muted' href='/Drakkar-Software/OctoBot/forks' />
+	[352] (783,953)<strong  />
+		[353] (783,953)<font  />
+			[354] (783,953)<font >1.2k />
+	[355] (811,953)<font  />
+		[356] (811,953)<font >포크 />
+[357] (783,983)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FDrakkar-Software%2FOctoBot&report=Drakkar-Software+%28user%29' />
+	[358] (783,983)<font  />
+		[359] (783,983)<font >보고서 저장소 />
+
+</current_dom>

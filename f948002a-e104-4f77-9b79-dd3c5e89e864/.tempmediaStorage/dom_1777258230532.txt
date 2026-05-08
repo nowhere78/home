@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (163,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/TimothyZhang7' />
+	[3] (163,34)<span >TimothyZhang7 />
+[4] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[5] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (740,34)<span  />
+[9] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (967,34)<img  />
+User navigation
+[15] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7' />
+	[16] (33,81)<span  />
+	[17] (81,81)<span >Overview />
+[18] (209,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=repositories' />
+	[19] (146,81)<span  />
+	[20] (203,81)<span >Repositories />
+	[21] (266,81)<span >(
+36
+) />
+		[22] (266,81)<span >36 />
+		(
+		36
+		)
+[23] (345,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=projects' />
+	[24] (314,81)<span  />
+	[25] (357,81)<span >Projects />
+[26] (451,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=packages' />
+	[27] (417,81)<span  />
+	[28] (464,81)<span >Packages />
+[29] (571,81)<a class='prc-components-UnderlineItem-7fP-n' href='/TimothyZhang7?tab=stars' />
+	[30] (528,81)<span  />
+	[31] (560,81)<span >Stars />
+	[32] (603,81)<span >(
+5k+
+) />
+		[33] (603,81)<span >5k+ />
+		(
+		5k+
+		)
+[34] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/19567494?v=4' />
+	[35] (159,284)<img  />
+🏹
+Timothy @aden
+TimothyZhang7
+[36] (159,528)<input aria-label='Follow TimothyZhang7' class='btn btn-block' title='Follow TimothyZhang7' />
+Entia non sunt multiplicanda praeter necessitatem.
+[37] (81,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/TimothyZhang7?tab=followers'>followers />
+	[38] (58,640)<span >382 />
+·
+[39] (193,640)<a class='Link--secondary no-underline no-wrap' href='https://github.com/TimothyZhang7?tab=following'>following />
+	[40] (161,640)<span >23.2k />
+San Francisco
+[41] (122,715)<a class='Link--primary wb-break-all' href='mailto:timothy@adenhq.com'>timothy@adenhq.com />
+[42] (78,773)<a class='Link--primary mb-2' href='/TimothyZhang7?tab=achievements'>Achievements />
+[43] (58,831)<a class='position-relative' href='/TimothyZhang7?achievement=pull-shark&tab=achievements' />
+	[44] (58,828)<img  />
+	[45] (76,853)<span >x3 />
+[46] (125,831)<a class='position-relative' href='/TimothyZhang7?achievement=pair-extraordinaire&tab=achievements' />
+	[47] (125,828)<img  />
+	[48] (143,853)<span >x2 />
+[49] (192,831)<a class='position-relative' href='/TimothyZhang7?achievement=yolo&tab=achievements' />
+	[50] (192,828)<img  />
+[51] (259,831)<a class='position-relative' href='/TimothyZhang7?achievement=quickdraw&tab=achievements' />
+	[52] (259,828)<img  />
+[53] (58,904)<a class='position-relative' href='/TimothyZhang7?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[54] (58,901)<img  />
+[55] (91,987)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-aaf1f340-ea44-4245-aaec-c6cfdd8eaa30' />
+	[56] (91,987)<span  />
+		[57] (91,987)<span >Block or report user />
+[58] (343,174)<a class='d-inline-block' href='/credkellar-boop' />
+	[59] (343,174)<img  />
+[60] (533,153)<a class='d-inline-block no-underline mb-1' href='/credkellar-boop' />
+	[61] (477,152)<span >Darion Kellar />
+	[62] (582,153)<span >credkellar-boop />
+Helloooooo 😎😎
+FMOIG - @AiAreUsOk
+X - @DontMatterShidd
+Monad
+Downtown Los Angeles
+[63] (943,155)<input aria-label='Follow credkellar-boop' class='btn btn-sm' title='Follow credkellar-boop' />
+[64] (343,302)<a class='d-inline-block' href='/TropiGal' />
+	[65] (343,302)<img  />
+[66] (502,281)<a class='d-inline-block no-underline mb-1' href='/TropiGal' />
+	[67] (471,280)<span >Kayla Sears />
+	[68] (545,281)<span >TropiGal />
+Creative strategies that shine! 🔆🌴
+Florida
+[69] (943,283)<input aria-label='Follow TropiGal' class='btn btn-sm' title='Follow TropiGal' />
+[70] (343,431)<a class='d-inline-block' href='/Sumersingpatil2694' />
+	[71] (343,431)<img  />
+[72] (555,409)<a class='d-inline-block no-underline mb-1' href='/Sumersingpatil2694' />
+	[73] (487,408)<span >Sumersing Patil />
+	[74] (613,409)<span >Sumersingpatil2694 />
+AI Graduate | Python • SQL • Machine Learning
+Built ML & Data Analysis Projects
+Interested in Data Science & AI Roles
+Open to Entry-Level Opportunities
+G H Raisoni Institute Of Business Management, Jalgaon
+India
+[75] (943,411)<input aria-label='Follow Sumersingpatil2694' class='btn btn-sm' title='Follow Sumersingpatil2694' />
+[76] (343,597)<a class='d-inline-block' href='/itsFZA' />
+	[77] (343,597)<img  />
+[78] (479,575)<a class='d-inline-block no-underline mb-1' href='/itsFZA' />
+	[79] (455,575)<span >Fayzan />
+	[80] (506,576)<span >itsFZA />
+CS grad, web developer and part-time table tennis ninja.
+[81] (943,577)<input aria-label='Follow itsFZA' class='btn btn-sm' title='Follow itsFZA' />
+[82] (343,718)<a class='d-inline-block' href='/Satbhai444' />
+	[83] (343,718)<img  />
+[84] (530,696)<a class='d-inline-block no-underline mb-1' href='/Satbhai444' />
+	[85] (490,695)<span >Darshan Satbhai />
+	[86] (592,697)<span >Satbhai444 />
+[87] (943,698)<input aria-label='Follow Satbhai444' class='btn btn-sm' title='Follow Satbhai444' />
+[88] (343,838)<a class='d-inline-block' href='/xiaotingsong' />
+	[89] (343,838)<img  />
+[90] (528,817)<a class='d-inline-block no-underline mb-1' href='/xiaotingsong' />
+	[91] (483,816)<span >Tingsong Xiao />
+	[92] (583,817)<span >xiaotingsong />
+a Ph.D. student majoring in Computer Science at the University of Florida.
+ufl
+[93] (943,819)<input aria-label='Follow xiaotingsong' class='btn btn-sm' title='Follow xiaotingsong' />
+[94] (343,967)<a class='d-inline-block' href='/AlgorithmAlchemy' />
+	[95] (343,967)<img  />
+[96] (563,945)<a class='d-inline-block no-underline mb-1' href='/AlgorithmAlchemy' />
+	[97] (499,944)<span >AlgorithmAlchemy />
+	[98] (633,945)<span >AlgorithmAlchemy />
+Backend Engineer
+[99] (943,947)<input aria-label='Follow AlgorithmAlchemy' class='btn btn-sm' title='Follow AlgorithmAlchemy' />
+
+</current_dom>

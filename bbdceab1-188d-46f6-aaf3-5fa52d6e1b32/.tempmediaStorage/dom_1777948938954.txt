@@ -1,0 +1,190 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (147,34)<span  />
+			[5] (138,34)<span >awesome YouTube content creation stars: />
+			[6] (214,34)<span >>=50 />
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+저장소 검색 결과 · 훌륭한 YouTube 콘텐츠 제작자: 스타 50명 이상
+필터 기준
+[17] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=code&sort=stars&order=desc' id='_R_5sraqdb_' />
+	[18] (83,148)<span  />
+		[19] (73,148)<span  />
+			[20] (32,148)<font  />
+				[21] (32,148)<font >암호 />
+		26
+		(
+		26
+		)
+		결과
+[22] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=repositories&sort=stars&order=desc' id='_R_9sraqdb_' />
+	[23] (83,182)<span  />
+		[24] (75,182)<span  />
+			[25] (35,181)<font  />
+				[26] (35,181)<font >저장소 />
+		0
+		(
+		0
+		)
+		결과
+[27] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=issues&sort=stars&order=desc' id='_R_dsraqdb_' />
+	[28] (83,216)<span  />
+		[29] (74,216)<span  />
+			[30] (35,215)<font  />
+				[31] (35,215)<font >문제점 />
+		1k
+		(
+		1k
+		)
+		결과
+[32] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=pullrequests&sort=stars&order=desc' id='_R_hsraqdb_' />
+	[33] (83,250)<span  />
+		[34] (71,250)<span  />
+			[35] (43,249)<font  />
+				[36] (43,249)<font >풀 리퀘스트 />
+		734
+		(
+		734
+		)
+		결과
+[37] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=discussions&sort=stars&order=desc' id='_R_lsraqdb_' />
+	[38] (83,284)<span  />
+		[39] (75,284)<span  />
+			[40] (32,283)<font  />
+				[41] (32,283)<font >토론 />
+		2
+		(
+		2
+		)
+		결과
+[42] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=users&sort=stars&order=desc' id='_R_psraqdb_' />
+	[43] (83,317)<span  />
+		[44] (75,317)<span  />
+			[45] (35,317)<font  />
+				[46] (35,317)<font >사용자 />
+		0
+		(
+		0
+		)
+		결과
+[47] (77,351)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=commits&sort=stars&order=desc' id='_r_2_' />
+	[48] (83,351)<span  />
+		[49] (75,351)<span  />
+			[50] (32,351)<font  />
+				[51] (32,351)<font >커밋 />
+		0
+		(
+		0
+		)
+		결과
+[52] (77,385)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=registrypackages&sort=stars&order=desc' id='_r_3_' />
+	[53] (83,385)<span  />
+		[54] (75,385)<span  />
+			[55] (35,385)<font  />
+				[56] (35,385)<font >패키지 />
+		0
+		(
+		0
+		)
+		결과
+[57] (77,419)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=wikis&sort=stars&order=desc' id='_r_4_' />
+	[58] (83,419)<span  />
+		[59] (75,419)<span  />
+			[60] (32,419)<font  />
+				[61] (32,419)<font >위키 />
+		0
+		(
+		0
+		)
+		결과
+[62] (77,453)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=topics&sort=stars&order=desc' id='_r_5_' />
+	[63] (83,453)<span  />
+		[64] (75,453)<span  />
+			[65] (32,452)<font  />
+				[66] (32,452)<font >주제 />
+		0
+		(
+		0
+		)
+		결과
+[67] (77,487)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=marketplace&sort=stars&order=desc' id='_r_6_' />
+	[68] (83,487)<span  />
+		[69] (75,487)<span  />
+			[70] (32,486)<font  />
+				[71] (32,486)<font >시장 />
+		0
+		(
+		0
+		)
+		결과
+[72] (77,539)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_R_2baqdb_' />
+	[73] (83,539)<span  />
+		[74] (83,539)<span  />
+			[75] (39,538)<font  />
+				[76] (39,538)<font >고급 검색 />
+[77] (154,434)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+0개 결과
+(
+151ms
+)
+0개 결과
+[78] (880,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[79] (876,99)<span  />
+		[80] (876,99)<span  />
+			[81] (850,99)<span  />
+				[82] (850,99)<font  />
+					[83] (850,99)<font >정렬 기준: />
+			[84] (890,99)<font  />
+				[85] (890,99)<font >가장 일치하는 항목 />
+[86] (950,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[87] (950,99)<span  />
+		[88] (950,99)<span  />
+			[89] (950,99)<div  />
+				[90] (955,99)<font  />
+					[91] (955,99)<font >구하다 />
+[92] (980,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+검색 결과와 일치하는 저장소가
+없습니다.
+[93] (526,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=issues&sort=stars&order=desc' />
+	[94] (526,319)<font >하지만 검색 결과와 일치하는 이슈 />
+[95] (594,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=issues&sort=stars&order=desc' />
+	[96] (593,319)<font  />
+		[97] (593,319)<font >1,000개와 />
+풀
+[98] (634,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=pullrequests&sort=stars&order=desc' />
+	[99] (634,319)<font >리퀘스트 />
+[100] (657,319)<a class='prc-Link-Link-9ZwDx' href='/search?q=awesome+YouTube+content+creation+stars%3A%3E%3D50&type=pullrequests&sort=stars&order=desc' />
+	[101] (657,319)<font >734개 />
+를 찾았습니다
+. 또는 아래 팁 중 하나를 시도해 보세요.
+[102] (630,395)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[103] (630,395)<summary class='Tips-module__tipSummary__PddGV' />
+		[104] (626,395)<span  />
+			[105] (512,395)<font  />
+				[106] (512,395)<font >조직 전체에서 검색 />
+[107] (630,437)<details class='Tips-module__Details__kthgb prc-Details-Details-GckmQ' />
+	[108] (630,437)<summary class='Tips-module__tipSummary__PddGV' />
+		[109] (626,437)<span  />
+			[110] (501,437)<font  />
+				[111] (501,437)<font >저장된 검색 />
+[112] (489,493)<a class='prc-Link-Link-9ZwDx' href='/search/advanced?q=awesome+YouTube+content+creation+stars%3A%3E%3D50' />
+	[113] (489,493)<font >고급 검색을 />
+시도해 볼 수 있습니다
+.
+
+</current_dom>

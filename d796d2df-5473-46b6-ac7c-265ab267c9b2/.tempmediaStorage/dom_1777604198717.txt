@@ -1,0 +1,176 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 대시보드
+[0] (40,34)<ytcp-icon-button aria-label='메뉴 펼치기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (40,34)<yt-icon  />
+		[2] (40,34)<span  />
+			[3] (40,34)<div  />
+[4] (131,38)<a class='style-scope ytcp-home-button' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (131,32)<img  />
+[6] (669,34)<ytcp-icon-button aria-label='검색' class='ytcpAppHeaderSearchIcon' role='button' />
+	[7] (669,34)<yt-icon  />
+		[8] (669,34)<span  />
+			[9] (669,34)<div  />
+[10] (711,34)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[11] (711,34)<yt-icon  />
+		[12] (711,34)<span  />
+			[13] (711,34)<div  />
+[14] (753,34)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[15] (753,34)<yt-icon  />
+		[16] (753,34)<span  />
+			[17] (753,34)<div  />
+[18] (795,34)<ytcp-icon-button aria-label='알림' role='button' />
+	[19] (795,34)<yt-icon  />
+		[20] (795,34)<span  />
+			[21] (795,34)<div  />
+[22] (873,34)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[23] (873,34)<yt-touch-feedback-shape  />
+		[24] (873,34)<div  />
+[25] (957,34)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[26] (957,34)<yt-img-shadow  />
+		[27] (957,34)<img  />
+내 채널
+이호준
+[28] (37,157)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA' id='menu-item-0' role='menuitem' />
+	[29] (40,157)<tp-yt-paper-icon-item class='dashboard iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+		[30] (38,157)<div  />
+			[31] (38,157)<yt-icon  />
+				[32] (38,157)<span  />
+					[33] (38,157)<div  />
+[34] (37,207)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/videos/upload' id='menu-item-1' role='menuitem' />
+	[35] (40,207)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+		[36] (38,207)<div  />
+			[37] (38,207)<yt-icon  />
+				[38] (38,207)<span  />
+					[39] (38,207)<div  />
+[40] (37,258)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+	[41] (40,258)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+		[42] (38,258)<div  />
+			[43] (38,258)<yt-icon  />
+				[44] (38,258)<span  />
+					[45] (38,258)<div  />
+[46] (37,309)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/comments/inbox' id='menu-item-3' role='menuitem' />
+	[47] (40,309)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+		[48] (38,309)<div  />
+			[49] (38,309)<yt-icon  />
+				[50] (38,309)<span  />
+					[51] (38,309)<div  />
+[52] (37,360)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/translations' id='menu-item-4' role='menuitem' />
+	[53] (40,360)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+		[54] (38,360)<div  />
+			[55] (38,360)<yt-icon  />
+				[56] (38,360)<span  />
+					[57] (38,360)<div  />
+[58] (37,411)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/copyright' id='menu-item-5' role='menuitem' />
+	[59] (40,411)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+		[60] (38,411)<div  />
+			[61] (38,411)<yt-icon  />
+				[62] (38,411)<span  />
+					[63] (38,411)<div  />
+[64] (37,461)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/monetization/overview' id='menu-item-6' role='menuitem' />
+	[65] (40,461)<tp-yt-paper-icon-item class='attach-money-icon style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-6' role='none' />
+		[66] (38,461)<div  />
+			[67] (38,461)<yt-icon  />
+				[68] (38,461)<span  />
+					[69] (38,461)<div  />
+[70] (37,512)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/editing/profile' id='menu-item-7' role='menuitem' />
+	[71] (40,512)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-7' role='none' />
+		[72] (38,512)<div  />
+			[73] (38,512)<yt-icon  />
+				[74] (38,512)<span  />
+					[75] (38,512)<div  />
+[76] (37,563)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/music' id='menu-item-8' role='menuitem' />
+	[77] (40,563)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-8' role='none' />
+		[78] (38,563)<div  />
+			[79] (38,563)<yt-icon  />
+				[80] (38,563)<span  />
+					[81] (38,563)<div  />
+[82] (40,915)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[83] (38,915)<div  />
+		[84] (38,915)<yt-icon  />
+			[85] (38,915)<span  />
+				[86] (38,915)<div  />
+[87] (40,966)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[88] (38,966)<div  />
+		[89] (38,966)<yt-icon  />
+			[90] (38,966)<span  />
+				[91] (38,966)<div  />
+[92] (538,534)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	채널 대시보드
+	[93] (843,105)<a class='item style-scope ytcp-quick-actions' />
+		[94] (843,105)<ytcp-icon-button aria-label='동영상 업로드' class='style-scope ytcp-quick-actions' id='upload-icon' role='button' />
+			[95] (843,105)<yt-icon  />
+				[96] (843,105)<span  />
+					[97] (843,105)<div  />
+	[98] (894,105)<a class='item style-scope ytcp-quick-actions' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/livestreaming' />
+		[99] (894,105)<ytcp-icon-button aria-label='라이브 스트리밍 시작' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[100] (894,105)<yt-icon  />
+				[101] (894,105)<span  />
+					[102] (894,105)<div  />
+	[103] (944,105)<a class='item style-scope ytcp-quick-actions' href='https://www.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/posts?show_create_dialog=1' />
+		[104] (944,105)<ytcp-icon-button aria-label='게시물 작성' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[105] (944,105)<yt-icon  />
+				[106] (944,105)<span  />
+					[107] (944,105)<div  />
+	최신 YouTube Shorts 동영상 실적
+	10초 만에 고기 찢는 법? 삶의 질 수직 상승 주방 꿀템! #shorts
+	324
+	0
+	1
+	[108] (364,413)<ytcp-icon-button aria-label='접기' class='style-scope ytcd-entity-snapshot-item' id='collapsable-button' role='button' />
+		[109] (364,413)<yt-icon  />
+			[110] (364,413)<span  />
+				[111] (364,413)<div  />
+	처음 3일 22시간
+	[112] (249,516)<div class='table-row style-scope yta-entity-snapshot' role='button'>조회수 />
+		조회수
+		324
+	[113] (249,550)<div class='table-row style-scope yta-entity-snapshot' role='button'>평균 조회율 />
+		평균 조회율
+		73.9%
+	[114] (249,583)<div class='table-row style-scope yta-entity-snapshot' role='button'>좋아요 />
+		좋아요
+		1
+	[115] (240,636)<button aria-label='Catch me up on this video' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>Catch me up on this video />
+		Catch me up on this video
+		[116] (240,636)<yt-touch-feedback-shape  />
+			[117] (240,636)<div  />
+	[118] (145,694)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/R52_YKE7_3s/analytics/tab-overview/period-default' />
+		[119] (145,691)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='go-to-video-analytics-button' />
+			[120] (145,691)<ytcp-button-shape  />
+				[121] (145,691)<button aria-label='동영상 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[122] (145,691)<yt-touch-feedback-shape  />
+						[123] (145,691)<div  />
+	[124] (199,694)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/R52_YKE7_3s/comments/inbox' />
+		[125] (199,691)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='view-comments-button' />
+			[126] (199,691)<ytcp-button-shape  />
+				[127] (199,691)<button aria-label='댓글 보기(0)' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[128] (199,691)<yt-touch-feedback-shape  />
+						[129] (199,691)<div  />
+	첫 번째 게시물을 작성하여 대화를 시작하고 커뮤니티에서 의견을 얻으세요.
+	채널 분석
+	현재 구독자 수
+	0
+	요약
+	지난 28일
+	조회수
+	329
+	—
+	시청 시간(단위: 시간)
+	0.4
+	—
+	인기 콘텐츠
+	지난 48시간
+	· 조회수
+	[130] (572,577)<a class='remove-default-style analytics-button style-scope ytcd-channel-facts-item' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/analytics/tab-overview/period-default' />
+		[131] (523,577)<ytcp-button class='style-scope ytcd-channel-facts-item' />
+			[132] (523,577)<ytcp-button-shape  />
+				[133] (523,577)<button aria-label='채널 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>채널 분석으로 이동 />
+					채널 분석으로 이동
+					[134] (523,577)<yt-touch-feedback-shape  />
+						[135] (523,577)<div  />
+
+</current_dom>

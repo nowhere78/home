@@ -1,0 +1,427 @@
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (67,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/lmnr-ai' />
+		[4] (67,34)<span  />
+			[5] (67,33)<font  />
+				[6] (67,33)<font >lmnr-ai />
+	[7] (99,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/lmnr-ai/index' />
+		[8] (99,34)<span  />
+			[9] (99,33)<font  />
+				[10] (99,33)<font >색인 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_q_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_v_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (97,80)<span  />
+			[35] (97,80)<span  />
+				[36] (97,80)<font  />
+					[37] (97,80)<font >5 />
+			(
+			5
+			)
+	[38] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/pulls' />
+		[39] (119,80)<span  />
+		[40] (148,80)<span  />
+			[41] (148,80)<font  />
+				[42] (148,80)<font >풀 리퀘스트 />
+		[43] (179,80)<span  />
+			[44] (179,80)<span  />
+				[45] (179,80)<font  />
+					[46] (179,80)<font >1 />
+			(
+			1
+			)
+	[47] (220,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/agents?author=nowhere78' />
+		[48] (200,80)<span  />
+		[49] (226,80)<span  />
+			[50] (226,80)<font  />
+				[51] (226,80)<font >자치령 대표 />
+	[52] (275,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/actions' />
+		[53] (261,80)<span  />
+		[54] (281,80)<span  />
+			[55] (281,80)<font  />
+				[56] (281,80)<font >행위 />
+	[57] (326,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/projects' />
+		[58] (310,80)<span  />
+		[59] (332,80)<span  />
+			[60] (332,80)<font  />
+				[61] (332,80)<font >프로젝트 />
+	[62] (397,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/security' />
+		[63] (362,80)<span  />
+		[64] (403,80)<span  />
+			[65] (403,80)<font  />
+				[66] (403,80)<font >보안 및 품질 />
+	[67] (468,80)<a class='prc-components-UnderlineItem-7fP-n' href='/lmnr-ai/index/pulse' />
+		[68] (453,80)<span  />
+		[69] (474,80)<span  />
+			[70] (474,80)<font  />
+				[71] (474,80)<font >인사이트 />
+이 저장소는 소유자에 의해 2025년 7월 3일에 보관 처리되었습니다. 현재는 읽기 전용입니다.
+[72] (210,178)<a class='d-block overflow-x-hidden color-fg-default' href='/lmnr-ai/index' />
+	[73] (210,177)<font  />
+		[74] (210,177)<font >색인 />
+공개 아카이브
+[75] (634,177)<div  />
+	[76] (634,177)<button aria-label='시청하기: lmnr-ai/index 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_1m_' />
+		[77] (630,177)<span  />
+			[78] (627,177)<span  />
+				[79] (627,176)<font  />
+					[80] (627,176)<font >보다 />
+			18
+			(
+			18
+			)
+[81] (694,178)<a class='btn-sm btn BtnGroup-item' href='/lmnr-ai/index/fork' id='fork-button' />
+	[82] (692,178)<font  />
+		[83] (692,180)<font >포크 />
+	[84] (708,177)<span  />
+		[85] (708,177)<font  />
+			[86] (708,177)<font >124 />
+[87] (731,178)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-896595985' />
+	[88] (731,177)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[89] (772,177)<button aria-label='이 저장소에 별표를 눌러주세요 (2348)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[90] (768,177)<span  />
+		[91] (768,177)<font  />
+			[92] (768,177)<font >별 />
+	[93] (783,177)<span  />
+		[94] (783,177)<font  />
+			[95] (783,177)<font >2.3k />
+[96] (808,177)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-896595985-unstarred-button' />
+lmnr-ai/인덱스
+[97] (209,255)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[98] (209,255)<span  />
+		[99] (203,255)<span  />
+			[100] (203,255)<div  />
+				[101] (194,255)<div  />
+				[102] (208,255)<div  />
+					[103] (208,255)<span  />
+						[104] (209,255)<font  />
+							[105] (209,255)<font >기본 />
+[106] (263,255)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/lmnr-ai/index/branches' />
+	[107] (263,255)<span  />
+		[108] (269,255)<span  />
+			[109] (269,255)<span  />
+				[110] (258,255)<strong  />
+					[111] (257,255)<font  />
+						[112] (257,255)<font >11 />
+				[113] (273,255)<font  />
+					[114] (273,255)<font >개 지점 />
+[115] (312,255)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/lmnr-ai/index/tags' />
+	[116] (312,255)<span  />
+		[117] (318,255)<span  />
+			[118] (318,255)<span  />
+				[119] (318,255)<font  />
+					[120] (310,255)<font >태그 />
+					[121] (325,255)<strong  />
+						[122] (325,255)<font >13 개 />
+[123] (538,255)<span  />
+	[124] (488,255)<span  />
+	[125] (537,255)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[126] (588,255)<span  />
+		[127] (588,255)<kbd  />
+			[128] (588,255)<span >t />
+				t
+				[129] (588,255)<span >T />
+[130] (628,255)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[131] (628,255)<span  />
+		[132] (628,255)<span  />
+			[133] (628,255)<font  />
+				[134] (628,255)<font >암호 />
+폴더와 파일
+최신 커밋
+[135] (198,317)<a class='prc-Link-Link-9ZwDx' href='/skull8888888' />
+	[136] (196,319)<img  />
+[137] (229,317)<a aria-label='skull8888888님의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/lmnr-ai/index/commits?author=skull8888888' />
+	[138] (229,317)<font  />
+		[139] (229,317)<font >두개골8888888 />
+[140] (281,317)<a class='Link--secondary' href='/lmnr-ai/index/commit/d64bce88d95ce459f75e514a442c6260930f703c' />
+	[141] (281,317)<font >lmnr-ai/dev의 />
+[142] (323,317)<a class='Link--secondary' href='/lmnr-ai/index/commit/d64bce88d95ce459f75e514a442c6260930f703c' />
+	[143] (323,317)<font >풀 리퀘스트 />
+[144] (370,317)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/55' />
+	[145] (370,317)<font  />
+		[146] (370,317)<font >#55를 병합합니다. />
+[147] (409,317)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[148] (428,317)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[149] (561,317)<a aria-label='커밋 d64bce8' class='Link--secondary prc-Link-Link-9ZwDx' href='/lmnr-ai/index/commit/d64bce88d95ce459f75e514a442c6260930f703c' />
+	[150] (561,317)<font  />
+		[151] (561,317)<font >d64bce8 />
+·
+11개월 전
+역사
+[152] (628,317)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/lmnr-ai/index/commits/main/' />
+	[153] (628,317)<span  />
+		[154] (633,317)<span  />
+			[155] (633,317)<span  />
+				[156] (633,317)<font  />
+					[157] (633,317)<font >77 커밋 />
+[158] (419,367)<tr  />
+	[159] (236,367)<a aria-label='.github/workflows (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/.github/workflows' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[160] (219,367)<span  />
+			[161] (219,367)<font  />
+				[162] (219,367)<font >.github/ />
+		[163] (250,367)<span  />
+			[164] (250,367)<font  />
+				[165] (250,367)<font >워크플로우 />
+	[166] (398,367)<a class='Link--secondary' href='/lmnr-ai/index/commit/033d8110ad847dcfca358bd416aa7315304a4225' title='태그에 게시' />
+		[167] (398,367)<font  />
+			[168] (398,367)<font >태그에 게시 />
+	벨
+[169] (419,410)<tr  />
+	[170] (218,411)<a aria-label='.vscode, (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/.vscode' title='.vscode' />
+		[171] (218,411)<font  />
+			[172] (218,411)<font >.vscode />
+	[173] (387,411)<a class='Link--secondary' href='/lmnr-ai/index/commit/29a9463b789be9ab8387474b946daa3325ecf0c4' title='흐름' />
+		[174] (387,411)<font  />
+			[175] (387,411)<font >흐름 />
+	2년 전
+[176] (419,453)<tr  />
+	[177] (212,454)<a aria-label='평가, (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/evals' title='평가' />
+		[178] (212,454)<font  />
+			[179] (212,454)<font >평가 />
+	[180] (400,454)<a class='Link--secondary' href='/lmnr-ai/index/commit/c3b3b542bfd8606a02db0b9dd2ad50c71dab3c49' title='유효성 검사(#46)' />
+		[181] (400,454)<font  />
+			[182] (400,454)<font >유효성 검사( />
+	[183] (427,454)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/46' />
+		[184] (427,454)<font  />
+			[185] (427,454)<font >#46 />
+	[186] (435,454)<a class='Link--secondary' href='/lmnr-ai/index/commit/c3b3b542bfd8606a02db0b9dd2ad50c71dab3c49' title='유효성 검사(#46)' />
+		[187] (435,454)<font  />
+			[188] (435,454)<font >) />
+	벨
+[189] (419,497)<tr  />
+	[190] (212,497)<a aria-label='색인, (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/index' title='색인' />
+		[191] (212,497)<font  />
+			[192] (212,497)<font >색인 />
+	[193] (401,497)<a class='Link--secondary' href='/lmnr-ai/index/commit/475d8fbd20903ce5ac215f4e709ec5ac626b7c4d' title='기다릴 때까지' />
+		[194] (401,497)<font  />
+			[195] (401,497)<font >기다릴 때까지 />
+	11개월 전
+[196] (419,540)<tr  />
+	[197] (212,541)<a aria-label='정적, (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/static' title='공전' />
+		[198] (212,541)<font  />
+			[199] (212,541)<font >공전 />
+	[200] (390,541)<a class='Link--secondary' href='/lmnr-ai/index/commit/8bfac96242435987e0bfd7f48aa80e7cdd42b7d3' title='로고 (#48)' />
+		[201] (390,541)<font  />
+			[202] (390,541)<font >로고 ( />
+	[203] (407,541)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/48' />
+		[204] (407,541)<font  />
+			[205] (407,541)<font >#48 />
+	[206] (415,541)<a class='Link--secondary' href='/lmnr-ai/index/commit/8bfac96242435987e0bfd7f48aa80e7cdd42b7d3' title='로고 (#48)' />
+		[207] (415,541)<font  />
+			[208] (415,541)<font >) />
+	벨
+[209] (419,584)<tr  />
+	[210] (232,584)<a aria-label='테스트/에이전트, (디렉토리)' class='Link--primary' href='/lmnr-ai/index/tree/main/tests/agent' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[211] (218,584)<span  />
+			[212] (218,584)<font  />
+				[213] (218,584)<font >테스트/ />
+		[214] (244,584)<span  />
+			[215] (244,584)<font  />
+				[216] (244,584)<font >에이전트 />
+	[217] (400,584)<a class='Link--secondary' href='/lmnr-ai/index/commit/c3b3b542bfd8606a02db0b9dd2ad50c71dab3c49' title='유효성 검사(#46)' />
+		[218] (400,584)<font  />
+			[219] (400,584)<font >유효성 검사( />
+	[220] (427,584)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/46' />
+		[221] (427,584)<font  />
+			[222] (427,584)<font >#46 />
+	[223] (435,584)<a class='Link--secondary' href='/lmnr-ai/index/commit/c3b3b542bfd8606a02db0b9dd2ad50c71dab3c49' title='유효성 검사(#46)' />
+		[224] (435,584)<font  />
+			[225] (435,584)<font >) />
+	벨
+[226] (419,627)<tr  />
+	[227] (221,628)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/lmnr-ai/index/blob/main/.gitignore' title='.gitignore' />
+		[228] (221,628)<font  />
+			[229] (221,628)<font >.gitignore />
+	[230] (387,628)<a class='Link--secondary' href='/lmnr-ai/index/commit/dc7f6176c60c8b98a82540a46893342e6b34aaea' title='임시' />
+		[231] (387,628)<font  />
+			[232] (387,628)<font >임시 />
+	2년 전
+[233] (419,670)<tr  />
+	[234] (212,671)<a aria-label='라이선스, (파일)' class='Link--primary' href='/lmnr-ai/index/blob/main/LICENSE' title='특허' />
+		[235] (212,671)<font  />
+			[236] (212,671)<font >특허 />
+	[237] (387,671)<a class='Link--secondary' href='/lmnr-ai/index/commit/c248e60ca0ed062493c26019788fa6242d5525e2' title='특허' />
+		[238] (387,671)<font  />
+			[239] (387,671)<font >특허 />
+	벨
+[240] (419,714)<tr  />
+	[241] (226,714)<a aria-label='README.md, (파일)' class='Link--primary' href='/lmnr-ai/index/blob/main/README.md' title='README.md' />
+		[242] (226,714)<font  />
+			[243] (226,714)<font >README.md />
+	[244] (390,714)<a class='Link--secondary' href='/lmnr-ai/index/commit/8bfac96242435987e0bfd7f48aa80e7cdd42b7d3' title='로고 (#48)' />
+		[245] (390,714)<font  />
+			[246] (390,714)<font >로고 ( />
+	[247] (407,714)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/48' />
+		[248] (407,714)<font  />
+			[249] (407,714)<font >#48 />
+	[250] (415,714)<a class='Link--secondary' href='/lmnr-ai/index/commit/8bfac96242435987e0bfd7f48aa80e7cdd42b7d3' title='로고 (#48)' />
+		[251] (415,714)<font  />
+			[252] (415,714)<font >) />
+	벨
+[253] (419,757)<tr  />
+	[254] (229,758)<a aria-label='pyproject.toml, (파일)' class='Link--primary' href='/lmnr-ai/index/blob/main/pyproject.toml' title='pyproject.toml' />
+		[255] (229,758)<font  />
+			[256] (229,758)<font >pyproject.toml />
+	[257] (390,758)<a class='Link--secondary' href='/lmnr-ai/index/commit/a1ab09ef7939831a1c0aef6ec1a5388ff35b7ae9' title='v 범프' />
+		[258] (390,758)<font  />
+			[259] (390,758)<font >v 범프 />
+	11개월 전
+[260] (419,801)<tr  />
+	[261] (217,801)<a aria-label='uv.lock, (파일)' class='Link--primary' href='/lmnr-ai/index/blob/main/uv.lock' title='uv.lock' />
+		[262] (217,801)<font  />
+			[263] (217,801)<font >uv.lock />
+	[264] (415,801)<a class='Link--secondary' href='/lmnr-ai/index/commit/8a095831d15450c38cb9fb4127a92decd1036fca' title='groq 및 anthropic fix (#51)' />
+		[265] (415,801)<font  />
+			[266] (415,801)<font >groq 및 anthropic fix( />
+	[267] (458,801)<a class='issue-link js-issue-link' href='https://github.com/lmnr-ai/index/pull/51' />
+		[268] (458,801)<font  />
+			[269] (458,801)<font >#51 />
+	[270] (466,801)<a class='Link--secondary' href='/lmnr-ai/index/commit/8a095831d15450c38cb9fb4127a92decd1036fca' title='groq 및 anthropic fix (#51)' />
+		[271] (466,801)<font  />
+			[272] (466,801)<font >) />
+	11개월 전
+저장소 파일 탐색
+[273] (213,867)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[274] (196,867)<span  />
+	[275] (219,867)<span  />
+		[276] (219,867)<font  />
+			[277] (219,867)<font >README />
+[278] (285,867)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[279] (250,867)<span  />
+	[280] (291,867)<span  />
+		[281] (291,867)<font  />
+			[282] (291,867)<font >Apache-2.0 라이선스 />
+[283] (641,866)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[284] (224,940)<a href='https://github.com/lmnr-ai/index' />
+	[285] (224,937)<img  />
+[286] (280,940)<a href='https://www.ycombinator.com/companies/laminar-ai' />
+	[287] (280,937)<img  />
+[288] (340,940)<a href='https://x.com/lmnrai' />
+	[289] (340,937)<img  />
+[290] (395,940)<a href='https://discord.gg/nNFUUDAKub' />
+	[291] (395,937)<img  />
+에 대한
+웹에서 복잡한 작업을 자율적으로 수행하는 최첨단 오픈 소스 브라우저 에이전트
+주제
+[292] (693,361)<a class='topic-tag topic-tag-link' href='/topics/ai' title='주제: 인공지능' />
+	[293] (693,361)<font  />
+		[294] (693,361)<font >일체 포함 />
+[295] (725,361)<a class='topic-tag topic-tag-link' href='/topics/sota' title='주제: 소타' />
+	[296] (725,361)<font  />
+		[297] (725,361)<font >소타 />
+[298] (760,361)<a class='topic-tag topic-tag-link' href='/topics/ai-agent' title='주제: AI 에이전트' />
+	[299] (760,361)<font  />
+		[300] (760,361)<font >AI 에이전트 />
+[301] (705,390)<a class='topic-tag topic-tag-link' href='/topics/browser-agent' title='주제: 브라우저 에이전트' />
+	[302] (705,390)<font  />
+		[303] (705,390)<font >브라우저 에이전트 />
+[304] (748,390)<a class='topic-tag topic-tag-link' href='/topics/llm' title='주제: llm' />
+	[305] (748,390)<font  />
+		[306] (748,390)<font >일름 />
+[307] (784,390)<a class='topic-tag topic-tag-link' href='/topics/gemini-pro' title='주제: 제미니프로' />
+	[308] (784,390)<font  />
+		[309] (784,390)<font >제미니-프로 />
+[310] (705,420)<a class='topic-tag topic-tag-link' href='/topics/claude-3-7-sonnet' title='주제: 클로드 3-7 소네트' />
+	[311] (705,420)<font  />
+		[312] (705,420)<font >클로드-3-7-소네트 />
+자원
+[313] (699,465)<a class='Link--muted' href='#readme-ov-file' />
+	[314] (705,465)<font  />
+		[315] (705,465)<font >읽어보세요 />
+특허
+[316] (715,496)<a class='Link--muted' href='#Apache-2.0-1-ov-file' />
+	[317] (721,496)<font  />
+		[318] (721,496)<font >Apache-2.0 라이선스 />
+[319] (689,526)<a class='Link Link--muted' href='/lmnr-ai/index/activity' />
+	[320] (696,526)<span  />
+		[321] (696,526)<font  />
+			[322] (696,526)<font >활동 />
+[323] (708,557)<a class='Link Link--muted' href='/lmnr-ai/index/custom-properties' />
+	[324] (715,557)<span  />
+		[325] (715,557)<font  />
+			[326] (715,557)<font >사용자 지정 속성 />
+별들
+[327] (700,588)<a class='Link Link--muted' href='/lmnr-ai/index/stargazers' />
+	[328] (707,588)<font  />
+		[329] (694,588)<font >별 />
+		[330] (712,588)<strong  />
+			[331] (712,588)<font >2,300 개 />
+감시자들
+[332] (705,618)<a class='Link Link--muted' href='/lmnr-ai/index/watchers' />
+	[333] (700,618)<strong  />
+		[334] (700,618)<font  />
+			[335] (700,618)<font >18명이 />
+	[336] (722,618)<font  />
+		[337] (722,618)<font >시청 중 />
+포크스
+[338] (700,649)<a class='Link Link--muted' href='/lmnr-ai/index/forks' />
+	[339] (707,649)<font  />
+		[340] (697,649)<font >포크 />
+		[341] (715,649)<strong  />
+			[342] (715,649)<font >124 개 />
+[343] (696,680)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Flmnr-ai%2Findex&report=lmnr-ai+%28user%29' />
+	[344] (696,680)<font  />
+		[345] (696,680)<font >보고서 저장소 />
+[346] (694,738)<a class='Link--primary no-underline Link' href='/lmnr-ai/index/releases' />
+	[347] (688,738)<font  />
+		[348] (688,738)<font >릴리스 />
+	[349] (707,740)<span  />
+		[350] (707,740)<font  />
+			[351] (707,740)<font >13 />
+[352] (746,789)<a class='Link--primary d-flex no-underline' href='/lmnr-ai/index/releases/tag/v0.1.13' />
+	[353] (711,789)<div  />
+		[354] (711,779)<div  />
+			[355] (698,779)<span  />
+				[356] (698,779)<font  />
+					[357] (698,779)<font >v0.1.13 />
+			[358] (722,779)<span  />
+				[359] (722,779)<font  />
+					[360] (722,779)<font >최신 />
+		[361] (711,800)<div  />
+			[362] (711,800)<relative-time  />
+				[363] (711,800)<font  />
+					[364] (711,800)<font >2025년 6월 5일에 />
+[365] (697,838)<a class='Link' href='/lmnr-ai/index/releases' />
+	[366] (697,838)<font  />
+		[367] (697,838)<font >+ 12개 릴리스 />
+[368] (746,896)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/lmnr-ai/index/deployments' />
+	[369] (683,896)<font  />
+		[370] (683,896)<font >배포 />
+	[371] (700,896)<span  />
+		[372] (700,896)<font  />
+			[373] (700,896)<font >32 />
+[374] (714,937)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/lmnr-ai/index/deployments/pypi' />
+	[375] (701,937)<font  />
+		[376] (701,937)<font >파이피 />
+	[377] (725,937)<relative-time  />
+		[378] (725,937)<font  />
+			[379] (725,937)<font >11개월 전 />
+[380] (697,976)<a class='Link--inTextBlock Link' href='/lmnr-ai/index/deployments' />
+	[381] (697,976)<font  />
+		[382] (697,976)<font >+ 31건의 배치 />

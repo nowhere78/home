@@ -1,0 +1,356 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (71,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Hannibal046' />
+		[4] (71,34)<span  />
+			[5] (71,33)<font  />
+				[6] (71,33)<font >한니발046 />
+	[7] (116,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Hannibal046/Awesome-LLM' />
+		[8] (116,34)<span  />
+			[9] (116,33)<font  />
+				[10] (116,33)<font >멋진 LLM />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_14_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_19_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (80,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (99,80)<span  />
+			[35] (99,80)<span  />
+				[36] (99,80)<font  />
+					[37] (99,80)<font >29 />
+			(
+			29
+			)
+	[38] (157,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/pulls' />
+		[39] (122,80)<span  />
+		[40] (152,80)<span  />
+			[41] (152,80)<font  />
+				[42] (152,80)<font >풀 리퀘스트 />
+		[43] (186,80)<span  />
+			[44] (186,80)<span  />
+				[45] (186,80)<font  />
+					[46] (186,80)<font >249 />
+			(
+			249
+			)
+	[47] (232,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/agents?author=nowhere78' />
+		[48] (212,80)<span  />
+		[49] (238,80)<span  />
+			[50] (238,80)<font  />
+				[51] (238,80)<font >자치령 대표 />
+	[52] (287,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/actions' />
+		[53] (272,80)<span  />
+		[54] (293,80)<span  />
+			[55] (293,80)<font  />
+				[56] (293,80)<font >행위 />
+	[57] (337,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/projects' />
+		[58] (322,80)<span  />
+		[59] (344,80)<span  />
+			[60] (344,80)<font  />
+				[61] (344,80)<font >프로젝트 />
+	[62] (409,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/security' />
+		[63] (374,80)<span  />
+		[64] (415,80)<span  />
+			[65] (415,80)<font  />
+				[66] (415,80)<font >보안 및 품질 />
+	[67] (480,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Hannibal046/Awesome-LLM/pulse' />
+		[68] (464,80)<span  />
+		[69] (486,80)<span  />
+			[70] (486,80)<font  />
+				[71] (486,80)<font >인사이트 />
+[72] (221,139)<a class='d-block overflow-x-hidden color-fg-default' href='/Hannibal046/Awesome-LLM' />
+	[73] (221,138)<font  />
+		[74] (221,138)<font >멋진 LLM />
+공공의
+[75] (626,138)<div  />
+	[76] (626,138)<button aria-label='영상 보기: Hannibal046/Awesome-LLM 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_e_' />
+		[77] (622,138)<span  />
+			[78] (617,138)<span  />
+				[79] (617,137)<font  />
+					[80] (617,137)<font >보다 />
+			443
+			(
+			443
+			)
+[81] (690,139)<a class='btn-sm btn BtnGroup-item' href='/Hannibal046/Awesome-LLM/fork' id='fork-button' />
+	[82] (686,139)<font  />
+		[83] (686,141)<font >포크 />
+	[84] (703,138)<span  />
+		[85] (703,138)<font  />
+			[86] (703,138)<font >2.5k />
+[87] (728,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-603049672' />
+	[88] (728,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[89] (770,138)<button aria-label='이 저장소에 별점을 주세요 (26742)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[90] (765,138)<span  />
+		[91] (765,138)<font  />
+			[92] (765,138)<font >별 />
+	[93] (782,138)<span  />
+		[94] (782,138)<font  />
+			[95] (782,138)<font >26.7k />
+[96] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-603049672-unstarred-button' />
+Hannibal046/Awesome-LLM
+[97] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[98] (209,216)<span  />
+		[99] (203,216)<span  />
+			[100] (203,216)<div  />
+				[101] (194,216)<div  />
+				[102] (208,216)<div  />
+					[103] (208,216)<span  />
+						[104] (209,216)<font  />
+							[105] (209,216)<font >기본 />
+[106] (257,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/Hannibal046/Awesome-LLM/branches' />
+	[107] (257,216)<span  />
+		[108] (264,216)<span  />
+			[109] (264,216)<span  />
+				[110] (257,216)<strong  />
+					[111] (256,216)<font  />
+						[112] (256,216)<font >1 />
+				[113] (266,216)<font  />
+					[114] (266,216)<font >지점 />
+[115] (298,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/Hannibal046/Awesome-LLM/tags' />
+	[116] (298,216)<span  />
+		[117] (305,216)<span  />
+			[118] (305,216)<span  />
+				[119] (301,216)<strong  />
+					[120] (300,216)<font  />
+						[121] (300,216)<font >태그 0 />
+				[122] (315,216)<font  />
+					[123] (315,216)<font >개 />
+[124] (481,216)<span  />
+	[125] (431,216)<span  />
+	[126] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[127] (531,216)<span  />
+		[128] (531,216)<kbd  />
+			[129] (531,216)<span >t />
+				t
+				[130] (531,216)<span >T />
+파일 추가
+[131] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[132] (572,216)<span  />
+		[133] (572,216)<span  />
+			[134] (572,216)<span  />
+				[135] (566,216)<font  />
+					[136] (566,216)<font >파일 추가 />
+[137] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[138] (628,216)<span  />
+		[139] (628,216)<span  />
+			[140] (628,216)<font  />
+				[141] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[142] (198,278)<a class='prc-Link-Link-9ZwDx' href='/Hannibal046' />
+	[143] (196,279)<img  />
+[144] (221,278)<a aria-label='Hannibal046의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/Hannibal046/Awesome-LLM/commits?author=Hannibal046' />
+	[145] (221,278)<font  />
+		[146] (221,278)<font >한니발046 />
+[147] (273,278)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/538eed00fcb05634fd81a68e24397c620fdcd3e8' />
+	[148] (273,278)<font >hsiangjenli/main의 />
+[149] (322,278)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/538eed00fcb05634fd81a68e24397c620fdcd3e8' />
+	[150] (322,278)<font >풀 리퀘스트 />
+[151] (371,278)<a class='issue-link js-issue-link' href='https://github.com/Hannibal046/Awesome-LLM/pull/235' />
+	[152] (371,278)<font  />
+		[153] (371,278)<font >#235를 병합합니다. />
+[154] (413,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[155] (557,278)<a aria-label='커밋 538eed0' class='Link--secondary prc-Link-Link-9ZwDx' href='/Hannibal046/Awesome-LLM/commit/538eed00fcb05634fd81a68e24397c620fdcd3e8' />
+	[156] (557,278)<font  />
+		[157] (557,278)<font >538eed0 />
+·
+10개월 전
+역사
+[158] (626,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/Hannibal046/Awesome-LLM/commits/main/' />
+	[159] (626,278)<span  />
+		[160] (631,278)<span  />
+			[161] (631,278)<span  />
+				[162] (631,278)<font  />
+					[163] (631,278)<font >544 커밋 />
+[164] (419,328)<tr  />
+	[165] (221,328)<a aria-label='paper_list, (디렉토리)' class='Link--primary' href='/Hannibal046/Awesome-LLM/tree/main/paper_list' title='paper_list' />
+		[166] (221,328)<font  />
+			[167] (221,328)<font >paper_list />
+	[168] (422,328)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/b5d360a92b679cfe69fd90ee1fdccadf9a4b6663' title='최신 정보로 업데이트하세요' />
+		[169] (422,328)<font  />
+			[170] (422,328)<font >최신 정보로 업데이트하세요 />
+	2년 전
+[171] (419,371)<tr  />
+	[172] (212,371)<a aria-label='리소스(디렉토리)' class='Link--primary' href='/Hannibal046/Awesome-LLM/tree/main/resources' title='자원' />
+		[173] (212,371)<font  />
+			[174] (212,371)<font >자원 />
+	[175] (394,371)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/b029c9ef346d2dbddef90b54643e30b1fc25da5c' title='업데이트' />
+		[176] (394,371)<font  />
+			[177] (394,371)<font >업데이트 />
+	3년 전
+[178] (419,414)<tr  />
+	[179] (221,415)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/Hannibal046/Awesome-LLM/blob/main/.gitignore' title='.gitignore' />
+		[180] (221,415)<font  />
+			[181] (221,415)<font >.gitignore />
+	[182] (390,415)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/7b18eb1dd195d45409dd456ccbed1a3a708e09c5' title='새로운' />
+		[183] (390,415)<font  />
+			[184] (390,415)<font >새로운 />
+	3년 전
+[185] (419,458)<tr  />
+	[186] (225,458)<a aria-label='라이선스.md, (파일)' class='Link--primary' href='/Hannibal046/Awesome-LLM/blob/main/LICENSE.md' title='라이선스.md' />
+		[187] (225,458)<font  />
+			[188] (225,458)<font >라이선스.md />
+	[189] (429,458)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/3c23e26490816459cbe91ac6295f00e9acb17a74' title='LICENSE.md 파일을 생성하세요.' />
+		[190] (429,458)<font  />
+			[191] (429,458)<font >LICENSE.md 파일을 생성하세요. />
+	3년 전
+[192] (419,501)<tr  />
+	[193] (226,502)<a aria-label='README.md, (파일)' class='Link--primary' href='/Hannibal046/Awesome-LLM/blob/main/README.md' title='README.md' />
+		[194] (226,502)<font  />
+			[195] (226,502)<font >README.md />
+	[196] (411,502)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/538eed00fcb05634fd81a68e24397c620fdcd3e8' title='Merge pull request #235 from hsiangjenli/main
+
+Add Kimi-K2 model and Moonshot AI collection' />
+		[197] (411,502)<font >hsiangjenli/main의 />
+	[198] (461,502)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/538eed00fcb05634fd81a68e24397c620fdcd3e8' title='hsiangjenli/main의 풀 리퀘스트 #235를 병합하고 Kimi-K2 모델과 Moonshot AI 컬렉션을 추가했습니다.' />
+		[199] (461,502)<font >풀 리퀘스트 />
+	[200] (509,502)<a class='issue-link js-issue-link' href='https://github.com/Hannibal046/Awesome-LLM/pull/235' />
+		[201] (509,502)<font  />
+			[202] (509,502)<font >#235를 병합합니다. />
+	10개월 전
+[203] (419,544)<tr  />
+	[204] (219,545)<a aria-label='contributing.md, (파일)' class='Link--primary' href='/Hannibal046/Awesome-LLM/blob/main/contributing.md' title='기여.md' />
+		[205] (219,545)<font  />
+			[206] (219,545)<font >기여.md />
+	[207] (390,545)<a class='Link--secondary' href='/Hannibal046/Awesome-LLM/commit/9e53089d2f4adc5359a4442895f6d980144b5dd9' title='재조직' />
+		[208] (390,545)<font  />
+			[209] (390,545)<font >재조직 />
+	3년 전
+저장소 파일 탐색
+[210] (213,611)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[211] (196,611)<span  />
+	[212] (219,611)<span  />
+		[213] (219,611)<font  />
+			[214] (219,611)<font >README />
+[215] (274,611)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[216] (250,611)<span  />
+	[217] (280,611)<span  />
+		[218] (280,611)<font  />
+			[219] (280,611)<font >기여하기 />
+[220] (347,611)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[221] (318,611)<span  />
+	[222] (353,611)<span  />
+		[223] (353,611)<font  />
+			[224] (353,611)<font >CC0-1.0 라이선스 />
+[225] (620,610)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[226] (641,610)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+멋진 LLM
+[227] (296,690)<a href='https://awesome.re' />
+	[228] (296,694)<img  />
+[229] (193,692)<a aria-label='고유 링크: Awesome-LLM' class='anchor' href='#awesome-llm-' id='user-content-awesome-llm-' />
+에 대한
+Awesome-LLM: 엄선된 대규모 언어 모델 목록
+자원
+[230] (699,320)<a class='Link--muted' href='#readme-ov-file' />
+	[231] (705,320)<font  />
+		[232] (705,320)<font >읽어보세요 />
+특허
+[233] (709,351)<a class='Link--muted' href='#CC0-1.0-1-ov-file' />
+	[234] (715,351)<font  />
+		[235] (715,351)<font >CC0-1.0 라이선스 />
+기여하기
+[236] (696,381)<a class='Link--muted' href='#contributing-ov-file' />
+	[237] (702,381)<font  />
+		[238] (702,381)<font >기여하기 />
+[239] (689,412)<a class='Link Link--muted' href='/Hannibal046/Awesome-LLM/activity' />
+	[240] (696,412)<span  />
+		[241] (696,412)<font  />
+			[242] (696,412)<font >활동 />
+별들
+[243] (702,443)<a class='Link Link--muted' href='/Hannibal046/Awesome-LLM/stargazers' />
+	[244] (709,443)<font  />
+		[245] (694,443)<font >별 />
+		[246] (714,443)<strong  />
+			[247] (714,443)<font >26,700 개 />
+감시자들
+[248] (707,474)<a class='Link Link--muted' href='/Hannibal046/Awesome-LLM/watchers' />
+	[249] (702,474)<strong  />
+		[250] (702,474)<font  />
+			[251] (702,474)<font >443명이 />
+	[252] (727,474)<font  />
+		[253] (727,474)<font >시청 중 />
+포크스
+[254] (697,504)<a class='Link Link--muted' href='/Hannibal046/Awesome-LLM/forks' />
+	[255] (696,504)<strong  />
+		[256] (696,504)<font  />
+			[257] (696,504)<font >2.5k />
+	[258] (711,504)<font  />
+		[259] (711,504)<font >포크 />
+[260] (696,535)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHannibal046%2FAwesome-LLM&report=Hannibal046+%28user%29' />
+	[261] (696,535)<font  />
+		[262] (696,535)<font >보고서 저장소 />
+[263] (687,593)<a class='Link--primary no-underline Link' href='/Hannibal046/Awesome-LLM/releases' />
+	[264] (687,593)<font  />
+		[265] (687,593)<font >릴리스 />
+발표된 릴리스 없음
+[266] (746,690)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/Hannibal046/packages?repo_name=Awesome-LLM' />
+	[267] (687,690)<font  />
+		[268] (687,689)<font >패키지 />
+게시된 패키지가 없습니다.
+[269] (746,786)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/Hannibal046/Awesome-LLM/graphs/contributors' />
+	[270] (687,786)<font  />
+		[271] (687,786)<font >기고자 />
+	[272] (708,786)<span  />
+		[273] (708,786)<font  />
+			[274] (708,786)<font >128 />
+[275] (683,831)<a href='https://github.com/Hannibal046' />
+	[276] (683,833)<img  />
+[277] (704,831)<a href='https://github.com/zhimin-z' />
+	[278] (704,833)<img  />
+[279] (725,831)<a href='https://github.com/AaronWhy' />
+	[280] (725,833)<img  />
+[281] (746,831)<a href='https://github.com/Sumedhn97' />
+	[282] (746,833)<img  />
+[283] (767,831)<a href='https://github.com/patrick-tssn' />
+	[284] (767,833)<img  />
+[285] (788,831)<a href='https://github.com/SinclairCoder' />
+	[286] (788,833)<img  />
+[287] (683,873)<a href='https://github.com/sinwang20' />
+	[288] (683,875)<img  />
+[289] (704,873)<a href='https://github.com/cedricvidal' />
+	[290] (704,875)<img  />
+[291] (725,873)<a href='https://github.com/pchalasani' />
+	[292] (725,875)<img  />
+[293] (746,873)<a href='https://github.com/romilbhardwaj' />
+	[294] (746,875)<img  />
+[295] (767,873)<a href='https://github.com/liyin2015' />
+	[296] (767,875)<img  />
+[297] (788,873)<a href='https://github.com/guyShilo' />
+	[298] (788,875)<img  />
+[299] (683,915)<a href='https://github.com/michaelfeil' />
+	[300] (683,917)<img  />
+[301] (704,915)<a href='https://github.com/lemanschik' />
+	[302] (704,917)<img  />
+[303] (702,962)<a class='Link--inTextBlock Link' href='/Hannibal046/Awesome-LLM/graphs/contributors' />
+	[304] (702,962)<font  />
+		[305] (702,962)<font >+ 114명의 기여자 />
+
+</current_dom>

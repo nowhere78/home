@@ -1,0 +1,84 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (273,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (279,25)<span  />
+		[8] (279,25)<font  />
+			[9] (279,25)<font >MIT 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[12] (419,145)<a href='https://user-images.githubusercontent.com/98803599/183290740-dac7a128-f51b-450d-b935-d4b319f1971b.png' />
+💜 아래 토글을 열어
+Team_ForV의 목소리
+를 들어보세요! 💜
+[13] (193,194)<a aria-label='Permalink: 💜 아래 토글을 열어 Team_ForV의 목소리를 들어보세요! 💜' class='anchor' href='#-아래-토글을-열어-team_forv의-목소리-를-들어보세요-' id='user-content--아래-토글을-열어-team_forv의-목소리-를-들어보세요-' />
+[14] (419,235)<details  />
+	[15] (419,235)<summary  />
+		[16] (243,234)<font  />
+			[17] (243,234)<font >구지혜(프런트엔드) />
+[18] (419,277)<details  />
+	[19] (419,277)<summary  />
+		[20] (243,276)<font  />
+			[21] (243,276)<font >김혜진(프런트엔드) />
+[22] (419,319)<details  />
+	[23] (419,319)<summary  />
+		[24] (254,319)<font  />
+			[25] (254,319)<font >배준일(Backend/Devops) />
+[26] (419,362)<details  />
+	[27] (419,362)<summary  />
+		[28] (239,361)<font  />
+			[29] (239,361)<font >이수현(데브옵스) />
+[30] (419,404)<details  />
+	[31] (419,404)<summary  />
+		[32] (240,403)<font  />
+			[33] (240,403)<font >최준혁(백엔드/AI) />
+목차
+[34] (193,487)<a aria-label='고유링크: 목차' class='anchor' href='#목차' id='user-content-목차' />
+[35] (229,541)<a href='#0-%EA%B0%9C%EC%9A%94' />
+	[36] (229,541)<font  />
+		[37] (229,541)<font >0. 개요 />
+[38] (229,571)<a href='#1-%EB%AA%A9%EC%A0%81' />
+	[39] (229,571)<font  />
+		[40] (229,571)<font >1. 목적 />
+[41] (229,600)<a href='#2-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98' />
+	[42] (229,600)<font  />
+		[43] (229,600)<font >2. 놔둬 />
+[44] (242,630)<a href='#3-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D' />
+	[45] (242,630)<font  />
+		[46] (242,630)<font >3. 기술 그리드 />
+[47] (236,660)<a href='#4-%EC%84%B8%EB%B6%80-%EA%B5%AC%EC%84%B1' />
+	[48] (236,660)<font  />
+		[49] (236,660)<font >4.세부구성 />
+[50] (238,689)<a href='#5-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95' />
+	[51] (238,689)<font  />
+		[52] (238,689)<font >5. 실행 방법 />
+[53] (244,719)<a href='#6-database' />
+	[54] (244,719)<font  />
+		[55] (244,719)<font >6. 데이터베이스 />
+[56] (236,749)<a href='#7-api-%EB%AC%B8%EC%84%9C' />
+	[57] (236,749)<font  />
+		[58] (236,749)<font >7. API 문서 />
+[59] (237,778)<a href='#8-%ED%8C%8C%EC%9D%BC-%EA%B5%AC%EC%A1%B0' />
+	[60] (237,778)<font  />
+		[61] (237,778)<font >8. 파일구조 />
+[62] (233,808)<a href='#9-%ED%8C%80%EC%9B%90' />
+	[63] (233,808)<font  />
+		[64] (233,808)<font >9. 배터리 />
+[65] (239,838)<a href='#10-reference' />
+	[66] (239,838)<font  />
+		[67] (239,838)<font >10. 참고자료 />
+[68] (235,867)<a href='#11-copyright' />
+	[69] (235,867)<font  />
+		[70] (235,867)<font >11. 저작권 />
+0. 개요
+[71] (193,951)<a aria-label='영구링크: 0. 개요' class='anchor' href='#0-개요' id='user-content-0-개요' />
+
+</current_dom>

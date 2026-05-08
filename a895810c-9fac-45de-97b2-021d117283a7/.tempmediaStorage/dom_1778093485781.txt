@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+코드, 저장소, 사용자, 이슈, 풀 리퀘스트 등을 검색하세요.
+찾다
+[0] (433,33)<div  />
+	[1] (60,33)<span  />
+	[2] (430,33)<div  />
+		repo:
+		NousResearch/autonovel
+		openai
+		[3] (430,33)<div  />
+			[4] (430,34)<input class='FormControl-input QueryBuilder-Input FormControl-medium focus-visible' id='query-builder-test' role='combobox' />
+	[5] (804,33)<span  />
+		분명한
+		[6] (803,33)<button class='Button Button--iconOnly Button--invisible Button--medium mr-1 tmp-mr-1 px-2 tmp-px-2 py-0 tmp-py-0 d-flex flex-items-center rounded-1 color-fg-muted' id='query-builder-test-clear-button' role='button' />
+[7] (433,81)<li aria-label='repo:NousResearch/autonovel openai' class='ActionListItem' id='query-builder-test-result-0' role='option' />
+	repo:
+	NousResearch/autonovel
+	openai
+	Search all of GitHub
+1 suggestion.
+[8] (74,131)<a class='Link color-fg-accent text-normal ml-2 tmp-ml-2' href='https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax' />
+	[9] (74,131)<font  />
+		[10] (74,131)<font >검색 구문 팁 />
+[11] (786,131)<button class='Button--link Button--medium Button color-fg-accent text-normal ml-2 tmp-ml-2' />
+	[12] (786,131)<span  />
+		[13] (786,131)<span  />
+			[14] (786,131)<font  />
+				[15] (786,131)<font >피드백을 제공하세요 />
+코드 검색 결과 · 저장소:NousResearch/autonovel openai
+필터 기준
+암호
+0
+(
+0
+)
+결과
+문제점
+0
+(
+0
+)
+결과
+풀 리퀘스트
+0
+(
+0
+)
+결과
+토론
+0
+(
+0
+)
+결과
+커밋
+0
+(
+0
+)
+결과
+패키지
+0
+(
+0
+)
+결과
+위키
+0
+(
+0
+)
+결과
+고급 검색
+0개 파일
+(
+87ms
+)
+0개 파일
+~에
+NousResearch/autonovel
+(백스페이스 또는 삭제 키를 눌러 삭제하세요)
+구하다
+검색 결과와 일치하는 코드가
+없습니다.
+아래 팁 중 하나를 시도해 보세요.
+여러 저장소에서 검색
+조직 전체에서 검색
+특정 파일 확장자를 찾으세요
+내 코드를 찾을 수 없는 이유는 무엇인가요?
+정규 표현식
+저장된 검색
+
+</current_dom>

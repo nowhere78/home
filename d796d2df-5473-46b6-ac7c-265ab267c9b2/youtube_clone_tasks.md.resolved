@@ -1,0 +1,5 @@
+- [ ] Create project directory (`apps/alpha-tube/`).
+- [ ] Implement `index.html` (Semantic structure, Sidebar, Main grid).
+- [ ] Implement `style.css` (Premium dark mode, Glassmorphism, Responsive layout).
+- [ ] Implement `app.js` (Interactivity).
+- [ ] Verify UI and responsiveness.

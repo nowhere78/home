@@ -1,0 +1,11 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (27,35)<button aria-label='Go Back' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Go Back'>arrow_back />
+	[2] (456,35)<input aria-label='Kaggle에서 검색' class='sc-hlRwsT fTRnHJ' />
+	[3] (902,35)<button aria-label='Search on Kaggle' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Search on Kaggle'>search />
+	[4] (956,35)<button aria-label='Exit Search' class='sc-iBzGbX hvCxQu google-symbols notranslate' title='Exit Search'>clear />
+
+</current_dom>

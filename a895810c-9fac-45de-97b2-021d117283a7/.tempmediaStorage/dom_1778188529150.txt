@@ -1,0 +1,125 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+✨ goose has moved to the Agentic AI Foundation (AAIF):
+[0] (585,15)<a href='/blog/2026/04/07/goose-moves-to-aaif'>Learn more />
+! ✨
+[1] (987,15)<button aria-label='Close' class='clean-btn close closeButton_CVFx announcementBarClose_gvF7' />
+[2] (17,63)<a class='navbar__brand' href='/' />
+	[3] (17,63)<div  />
+		[4] (17,63)<img  />
+[5] (51,63)<a class='navbar__item navbar__link' href='/docs/quickstart'>Quickstart />
+[6] (92,63)<a class='navbar__item navbar__link navbar__link--active' href='/docs/category/guides'>Docs />
+[7] (131,63)<a class='navbar__item navbar__link' href='/docs/category/tutorials'>Tutorials />
+[8] (170,63)<a class='navbar__item navbar__link' href='/docs/category/mcp-servers'>MCPs />
+[9] (202,63)<a class='navbar__item navbar__link' href='/blog'>Blog />
+[10] (247,63)<a class='navbar__link' href='#' role='button'>Resources />
+[11] (738,63)<a class='navbar__item navbar__link' href='https://discord.gg/goose-oss'>Discord />
+[12] (790,63)<a class='navbar__item navbar__link' href='https://github.com/aaif-goose/goose'>GitHub />
+[13] (823,63)<button aria-label='Switch between dark and light mode (currently system mode)' class='clean-btn toggleButton_gllP' title='system mode' />
+[14] (920,63)<div  />
+	[15] (920,63)<button class='ikp-btn ikp-btn--colorPalette_gray ikp-btn--variant_ghost ikp-btn--size_md ikp-text_gray.800 dark:ikp-text_whiteAlpha.900 hover:ikp-bg_gray.100 hover:dark:ikp-bg_whiteAlpha.200 active:ikp-bg_gray.200 active:dark:ikp-bg_whiteAlpha.300 ikp-w_100% ikp-search-bar-trigger__container ikp-search-bar-trigger__container--size_shrink ikp-search-bar-trigger__container--variant_subtle' />
+		[16] (910,63)<div  />
+			[17] (860,63)<div  />
+			[18] (914,63)<span  />
+				[19] (914,62)<font  />
+					[20] (914,62)<font >무엇이든 검색해 보세요... />
+		[21] (975,63)<kbd  />
+			[22] (975,63)<div >K />
+				[23] (973,63)<span >Ctrl />
+[24] (78,548)<nav aria-label='Docs sidebar' class='menu thin-scrollbar menu_SIkG menuWithAnnouncementBar_GW3s' scrollable='true' />
+	[25] (78,121)<a class='menu__link' href='/docs/quickstart' />
+		[26] (30,121)<span >Quickstart />
+	[27] (66,159)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/category/getting-started' />
+		[28] (66,159)<span >Getting Started />
+	[29] (140,159)<button aria-label='Expand sidebar category 'Getting Started'' class='clean-btn menu__caret' />
+	[30] (66,197)<a class='categoryLink_byQd menu__link menu__link--sublist menu__link--active' href='/docs/category/guides' />
+		[31] (66,197)<span >Guides />
+	[32] (140,197)<button aria-label='Collapse sidebar category 'Guides'' class='clean-btn menu__caret' />
+	[33] (69,235)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/sessions/' />
+		[34] (69,235)<span >Managing Sessions />
+	[35] (140,235)<button aria-label='Expand sidebar category 'Managing Sessions'' class='clean-btn menu__caret' />
+	[36] (69,273)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/context-engineering/' />
+		[37] (69,273)<span >Context Engineering />
+	[38] (140,273)<button aria-label='Expand sidebar category 'Context Engineering'' class='clean-btn menu__caret' />
+	[39] (69,311)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/recipes/' />
+		[40] (69,311)<span >Recipes />
+	[41] (140,311)<button aria-label='Expand sidebar category 'Recipes'' class='clean-btn menu__caret' />
+	[42] (81,349)<a class='menu__link' href='/docs/guides/using-persistent-instructions' />
+		[43] (59,349)<span >Persistent Instructions />
+	[44] (81,387)<a class='menu__link' href='/docs/guides/managing-projects' />
+		[45] (52,387)<span >Managing Projects />
+	[46] (69,425)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/managing-tools/' />
+		[47] (69,425)<span >Managing Tools />
+	[48] (140,425)<button aria-label='Expand sidebar category 'Managing Tools'' class='clean-btn menu__caret' />
+	[49] (81,463)<a class='menu__link' href='/docs/guides/tanzu-ai-services' />
+		[50] (61,463)<span >VMware Tanzu Platform />
+	[51] (81,502)<a class='menu__link' href='/docs/guides/desktop-navigation' />
+		[52] (62,502)<span >Customizing the Sidebar />
+	[53] (81,540)<a class='menu__link' href='/docs/guides/goose-permissions' />
+		[54] (52,540)<span >goose Permissions />
+	[55] (81,578)<a class='menu__link' href='/docs/guides/updating-goose' />
+		[56] (46,578)<span >Updating goose />
+	[57] (81,616)<a class='menu__link' href='/docs/guides/tips' />
+		[58] (36,616)<span >Quick Tips />
+	[59] (81,654)<a class='menu__link' href='/docs/guides/goose-cli-commands' />
+		[60] (45,654)<span >CLI Commands />
+	[61] (69,692)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/security/' />
+		[62] (69,692)<span >Security />
+	[63] (140,692)<button aria-label='Expand sidebar category 'Security'' class='clean-btn menu__caret' />
+	[64] (81,730)<a class='menu__link' href='/docs/guides/cli-providers' />
+		[65] (42,730)<span >CLI Providers />
+	[66] (81,768)<a class='menu__link' href='/docs/guides/acp-providers' />
+		[67] (44,768)<span >ACP Providers />
+	[68] (81,806)<a class='menu__link' href='/docs/guides/subagents' />
+		[69] (37,806)<span >Subagents />
+	[70] (81,844)<a class='menu__link' href='/docs/guides/mcp-sampling' />
+		[71] (44,844)<span >MCP Sampling />
+	[72] (69,883)<a class='categoryLink_byQd menu__link menu__link--sublist' href='/docs/guides/interactive-chat/' />
+		[73] (69,883)<span >MCP Apps and MCP-UI />
+	[74] (140,883)<button aria-label='Expand sidebar category 'MCP Apps and MCP-UI'' class='clean-btn menu__caret' />
+	[75] (81,921)<a class='menu__link' href='/docs/guides/mcp-elicitation' />
+		[76] (45,921)<span >MCP Elicitation />
+	[77] (81,959)<a class='menu__link' href='/docs/guides/mcp-roots' />
+		[78] (37,959)<span >MCP Roots />
+	[79] (81,997)<a class='menu__link' href='/docs/guides/custom-distributions' />
+		[80] (56,997)<span >Custom Distributions />
+[81] (196,129)<a aria-label='Home page' class='breadcrumbs__link' href='/' />
+Guides
+Guides
+Learn essential tips and recommendations for using goose
+[82] (329,378)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/sessions/' />
+	[83] (329,358)<h2 >🗃️
+Managing Sessions />
+	[84] (329,399)<p >3 items />
+[85] (631,378)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/context-engineering/' />
+	[86] (631,358)<h2 >🗃️
+Context Engineering />
+	[87] (631,399)<p >3 items />
+[88] (329,546)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/recipes/' />
+	[89] (329,527)<h2 >🗃️
+Recipes />
+	[90] (329,567)<p >4 items />
+[91] (631,546)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/using-persistent-instructions' />
+	[92] (631,527)<h2 >📄️
+Persistent Instructions />
+	[93] (631,567)<p >Persistent instructions let you inject text into goose's working memory every turn. Unlike .goosehints, which are loaded at session start and can expand later when goose discovers nested hint files, persistent instructions are re-read and injected fresh with every interaction. This makes them ideal for behavioral guardrails that must always be enforced, regardless of how the conversation evolves. />
+[94] (329,715)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/managing-projects' />
+	[95] (329,695)<h2 >📄️
+Managing Projects />
+	[96] (329,736)<p >goose Projects automatically track your working directories and associated sessions, making it easy to resume work across multiple codebases with full context preservation. />
+[97] (631,715)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/managing-tools/' />
+	[98] (631,695)<h2 >🗃️
+Managing Tools />
+	[99] (631,736)<p >3 items />
+[100] (329,883)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/tanzu-ai-services' />
+	[101] (329,863)<h2 >📄️
+VMware Tanzu Platform />
+	[102] (329,904)<p >Connect goose to VMware Tanzu Platform AI Services />
+[103] (631,883)<a class='card padding--lg cardContainer_fWXF' href='/docs/guides/desktop-navigation' />
+	[104] (631,863)<h2 >📄️
+Customizing the Sidebar />
+	[105] (631,904)<p >Personalize how you navigate goose Desktop by changing the sidebar's look, position, and behavior />
+
+</current_dom>

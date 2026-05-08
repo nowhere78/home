@@ -1,0 +1,30 @@
+# Unsloth Documentation Analysis Task
+
+## Goals
+1. [x] Navigate to https://unsloth.ai/docs
+2. [ ] Explore 'Getting Started' section
+3. [ ] Explore 'Model Support' section
+4. [ ] Explore 'Performance' section
+5. [ ] Explore 'Quantization' section
+6. [ ] Extract information:
+   - [x] Installation requirements
+     - Windows: Win 10/11, NVIDIA GPU, Python 3.11-3.13, Git, Winget.
+     - Linux/WSL: Supported.
+     - Mac: Support for GGUF/Chat, MLX coming soon.
+     - Studio (one-liner): `curl -fsSL https://unsloth.ai/install.sh | sh` (Linux/Mac) or `irm https://unsloth.ai/install.ps1 | iex` (Windows).
+   - [ ] 2x speed / 70% memory saving features
+   - [ ] Support for Gemma 4
+   - [ ] Long Context (128K) support
+7. [ ] Summarize findings and extract code snippets
+8. [ ] Final report
+
+## Findings
+### Installation
+- **Studio (GUI):**
+  - Windows: `irm https://unsloth.ai/install.ps1 | iex`
+  - Linux/MacOS: `curl -fsSL https://unsloth.ai/install.sh | sh`
+- **Requirements:**
+  - Python 3.11-3.13
+  - NVIDIA GPU (RTX 30, 40, 50, Blackwell, etc.)
+  - Intel GPU support also mentioned.
+  - Apple MLX and AMD support coming soon.

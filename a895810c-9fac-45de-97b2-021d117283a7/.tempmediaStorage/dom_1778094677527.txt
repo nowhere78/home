@@ -1,0 +1,112 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[6] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+OKR-Agent: 계층적 자체 협업 및 자체 평가 기능을 갖춘 객체 및 핵심 결과 중심 에이전트 시스템
+MetaGPT: 다중 에이전트 협업 프레임워크를 위한 메타 프로그래밍
+AutoAgents: 자동 에이전트 생성을 위한 프레임워크
+[7] (370,78)<a href='https://openreview.net/forum?id=i43XCU54Br' />
+	[8] (370,78)<font  />
+		[9] (370,78)<font >동적 LLM-에이전트 네트워크: 에이전트 팀 최적화를 위한 LLM-에이전트 협업 프레임워크 />
+[10] (326,108)<a href='https://openreview.net/forum?id=EHg5GDnyq1' />
+	[11] (326,108)<font  />
+		[12] (326,108)<font >AgentVerse: 다중 에이전트 협업 촉진 및 새로운 행동 양상 탐구 />
+[13] (313,138)<a href='https://openreview.net/forum?id=ueqTjOcuLc' />
+	[14] (313,138)<font  />
+		[15] (313,138)<font >LLM 에이전트의 협업 메커니즘 탐구: 사회심리학적 관점 />
+[16] (294,167)<a href='https://openreview.net/forum?id=8TAGx549Ns' />
+	[17] (294,167)<font  />
+		[18] (294,167)<font >REX: AI 에이전트를 위한 신속한 탐색 및 활용 />
+[19] (322,197)<a href='https://arxiv.org/abs/2403.08251' />
+	[20] (322,197)<font  />
+		[21] (322,197)<font >대규모 언어 모델 기반 에이전트 사회에서 사회적 규범의 출현 />
+실험적 분석
+[22] (193,249)<a aria-label='고유 링크: 실험 분석' class='anchor' href='#experimental-analysis' id='user-content-experimental-analysis' />
+[23] (329,291)<a href='https://openreview.net/forum?id=GEcwtMk1uA' />
+	[24] (329,291)<font  />
+		[25] (329,291)<font >LM 에뮬레이션 샌드박스를 사용하여 LM 에이전트의 위험성 식별 />
+[26] (306,321)<a href='https://openreview.net/forum?id=OEDM8mzbsl' />
+	[27] (306,321)<font  />
+		[28] (306,321)<font >대규모 언어 모델에서 다중 에이전트 조정 능력 평가 />
+[29] (296,350)<a href='https://openreview.net/forum?id=iS3fQooCaa' />
+	[30] (296,350)<font  />
+		[31] (296,350)<font >대규모 언어 모델을 게임 에이전트로 활용하기 />
+[32] (308,380)<a href='https://openreview.net/forum?id=N9wD4RFWY0' />
+	[33] (308,380)<font  />
+		[34] (308,380)<font >대규모 언어 모델을 AI 연구 에이전트로 벤치마킹하기 />
+[35] (310,410)<a href='https://openreview.net/forum?id=H0RztJssmQ' />
+	[36] (310,410)<font  />
+		[37] (310,410)<font >작업 지향형 언어 에이전트를 위한 적응형 환경 모델링 />
+[38] (346,439)<a href='https://openreview.net/forum?id=d5DGVHMdsC' />
+	[39] (346,439)<font  />
+		[40] (346,439)<font >CLIN: 빠른 작업 적응 및 일반화를 위한 지속적으로 학습하는 언어 에이전트 />
+벤치마크 및 데이터셋
+[41] (193,491)<a aria-label='고유 링크: 벤치마크 및 데이터셋' class='anchor' href='#benchmark--dataset' id='user-content-benchmark--dataset' />
+[ACL'24]
+[42] (400,533)<a href='https://arxiv.org/abs/2407.18901' />
+	[43] (400,533)<font  />
+		[44] (400,533)<font >AppWorld: 인터랙티브 코딩 에이전트 벤치마킹을 위한 제어 가능한 앱과 사람들의 세계 />
+[
+[45] (572,533)<a href='https://appworld.dev/' />
+	[46] (572,533)<font  />
+		[47] (572,533)<font >웹사이트 />
+][
+[48] (608,533)<a href='https://appworld.dev/blog' />
+	[49] (608,533)<font  />
+		[50] (608,533)<font >블로그 />
+]
+[ICLR'23]
+[51] (306,563)<a href='https://openreview.net/forum?id=QrnDe_9ZFd8' />
+	[52] (306,563)<font  />
+		[53] (306,563)<font >인간과 언어 모델의 과제 모호성 />
+[
+[54] (375,563)<a href='https://github.com/kunhanda/task_ambiguity' />
+	[55] (375,563)<font  />
+		[56] (375,563)<font >코드 />
+]
+[57] (302,593)<a href='https://openreview.net/forum?id=S2oTVrlcp3' />
+	[58] (302,593)<font  />
+		[59] (302,593)<font >SmartPlay: 지능형 에이전트로서 LLM의 벤치마크 />
+[60] (282,622)<a href='https://openreview.net/forum?id=zAdUB0aCTQ' />
+	[61] (282,622)<font  />
+		[62] (282,622)<font >AgentBench: 에이전트로서 LLM 평가 />
+[63] (370,652)<a href='https://openreview.net/forum?id=crMMk4I8Wy' />
+	[64] (370,652)<font  />
+		[65] (370,652)<font >말뿐이 아닌 행동으로 보여주세요: 경매 시장에서 LLM 에이전트의 전략 기획 및 실행 평가 />
+[66] (319,682)<a href='https://openreview.net/forum?id=mM7VurbA4r' />
+	[67] (319,682)<font  />
+		[68] (319,682)<font >SOTOPIA: 언어 에이전트의 사회적 지능을 위한 대화형 평가 />
+[69] (348,711)<a href='https://openreview.net/forum?id=s9z0HzWJJp' />
+	[70] (348,711)<font  />
+		[71] (348,711)<font >SocioDojo: 실제 텍스트 및 시계열 데이터를 활용한 평생 분석 에이전트 구축 />
+[72] (314,741)<a href='https://openreview.net/forum?id=oKn9c6ytLx' />
+	[73] (314,741)<font  />
+		[74] (314,741)<font >WebArena: 자율 에이전트 구축을 위한 현실적인 웹 환경 />
+[75] (332,770)<a href='https://openreview.net/forum?id=cfL8zApofK' />
+	[76] (332,770)<font  />
+		[77] (332,770)<font >LLM-숙의: 상호작용형 다중 에이전트 협상 게임을 이용한 LLM 평가 />
+[78] (284,800)<a href='https://openreview.net/forum?id=tr0KidwPLc' />
+	[79] (284,800)<font  />
+		[80] (284,800)<font >대규모 언어 모델을 활용한 교수법 평가 />
+[81] (310,830)<a href='https://openreview.net/forum?id=UBVNwD3hPN' />
+	[82] (310,830)<font  />
+		[83] (310,830)<font >시빌렐름: 의사결정 에이전트를 위한 학습 및 추론 여정 />
+응용 프로그램
+[84] (193,882)<a aria-label='고유 링크: 지원서' class='anchor' href='#applications' id='user-content-applications' />
+[85] (336,924)<a href='https://openreview.net/forum?id=VaZa8zj0Yw' />
+	[86] (336,924)<font  />
+		[87] (336,924)<font >Lyfe Agents: 저비용 실시간 사회적 상호작용을 위한 생성형 에이전트 />
+[88] (336,953)<a href='https://openreview.net/forum?id=tEAF9LBdgu' />
+	[89] (336,953)<font  />
+		[90] (336,953)<font >AutoGen: 다중 에이전트 대화를 통해 차세대 LLM 애플리케이션 구현 />
+알고리즘 설계
+
+</current_dom>

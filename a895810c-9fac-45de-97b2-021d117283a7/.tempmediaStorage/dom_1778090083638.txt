@@ -1,0 +1,265 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (110,34)<span  />
+			[5] (102,34)<span >ai side hustle stars: />
+			[6] (140,34)<span >>100 />
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+[17] (500,471)<div  />
+	저장소 검색 결과 · AI 부업 별점: >100
+	필터 기준
+	[18] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=code' id='_r_4_' />
+		[19] (83,148)<span  />
+			[20] (74,148)<span  />
+				[21] (32,148)<font  />
+					[22] (32,148)<font >암호 />
+			결과
+	[23] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=repositories' id='_r_5_' />
+		[24] (83,182)<span  />
+			[25] (74,182)<span  />
+				[26] (35,181)<font  />
+					[27] (35,181)<font >저장소 />
+			결과
+	[28] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=issues' id='_r_6_' />
+		[29] (83,216)<span  />
+			[30] (74,216)<span  />
+				[31] (35,215)<font  />
+					[32] (35,215)<font >문제점 />
+			결과
+	[33] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=pullrequests' id='_r_7_' />
+		[34] (83,250)<span  />
+			[35] (74,250)<span  />
+				[36] (43,249)<font  />
+					[37] (43,249)<font >풀 리퀘스트 />
+			결과
+	[38] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=discussions' id='_r_8_' />
+		[39] (83,284)<span  />
+			[40] (74,284)<span  />
+				[41] (32,283)<font  />
+					[42] (32,283)<font >토론 />
+			결과
+	[43] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100&type=users' id='_r_9_' />
+		[44] (83,317)<span  />
+			[45] (74,317)<span  />
+				[46] (35,317)<font  />
+					[47] (35,317)<font >사용자 />
+			결과
+	[48] (77,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+		[49] (83,351)<span  />
+			[50] (83,351)<span  />
+				[51] (28,351)<font  />
+					[52] (28,351)<font >더 />
+	고급의
+	[53] (77,425)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_c_' />
+		[54] (83,425)<span  />
+			[55] (83,425)<span  />
+				[56] (83,425)<div  />
+					[57] (83,425)<div  />
+						[58] (35,425)<font  />
+							[59] (35,425)<font >소유자 />
+	[60] (77,459)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_d_' />
+		[61] (83,459)<span  />
+			[62] (83,459)<span  />
+				[63] (83,459)<div  />
+					[64] (83,459)<div  />
+						[65] (32,459)<font  />
+							[66] (32,459)<font >크기 />
+	[67] (77,493)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_e_' />
+		[68] (83,493)<span  />
+			[69] (83,493)<span  />
+				[70] (83,493)<div  />
+					[71] (83,493)<div  />
+						[72] (39,493)<font  />
+							[73] (39,493)<font >팔로워 수 />
+	[74] (77,527)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_f_' />
+		[75] (83,527)<span  />
+			[76] (83,527)<span  />
+				[77] (83,527)<div  />
+					[78] (83,527)<div  />
+						[79] (43,526)<font  />
+							[80] (43,526)<font >포크의 개수 />
+	[81] (77,561)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_g_' />
+		[82] (83,561)<span  />
+			[83] (83,561)<span  />
+				[84] (83,561)<div  />
+					[85] (83,561)<div  />
+						[86] (39,560)<font  />
+							[87] (39,560)<font >별의 개수 />
+	[88] (77,595)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_h_' />
+		[89] (83,595)<span  />
+			[90] (83,595)<span  />
+				[91] (83,595)<div  />
+					[92] (83,595)<div  />
+						[93] (35,594)<font  />
+							[94] (35,594)<font >생성일 />
+	[95] (77,629)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_i_' />
+		[96] (83,629)<span  />
+			[97] (83,629)<span  />
+				[98] (83,629)<div  />
+					[99] (83,629)<div  />
+						[100] (60,628)<font  />
+							[101] (60,628)<font >날짜가 변경되었습니다 />
+	[102] (77,662)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_j_' />
+		[103] (83,662)<span  />
+			[104] (83,662)<span  />
+				[105] (83,662)<div  />
+					[106] (83,662)<div  />
+						[107] (32,662)<font  />
+							[108] (32,662)<font >주제 />
+	[109] (77,696)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+		[110] (83,696)<span  />
+			[111] (83,696)<span  />
+				[112] (83,696)<div  />
+					[113] (83,696)<div  />
+						[114] (32,696)<font  />
+							[115] (32,696)<font >특허 />
+	[116] (77,730)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+		[117] (83,730)<span  />
+			[118] (83,730)<span  />
+				[119] (83,730)<div  />
+					[120] (83,730)<div  />
+						[121] (35,730)<font  />
+							[122] (35,730)<font >보관됨 />
+	[123] (77,764)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100+is%3Apublic&type=repositories' id='_r_m_' />
+		[124] (83,764)<span  />
+			[125] (83,764)<span  />
+				[126] (83,764)<div  />
+					[127] (83,764)<div  />
+						[128] (35,763)<font  />
+							[129] (35,763)<font >공공의 />
+	[130] (77,798)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=ai+side+hustle+stars%3A%3E100+is%3Aprivate&type=repositories' id='_r_n_' />
+		[131] (83,798)<span  />
+			[132] (83,798)<span  />
+				[133] (83,798)<div  />
+					[134] (83,798)<div  />
+						[135] (35,797)<font  />
+							[136] (35,797)<font >사적인 />
+	[137] (77,850)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_r_o_' />
+		[138] (83,850)<span  />
+			[139] (83,850)<span  />
+				[140] (39,849)<font  />
+					[141] (39,849)<font >고급 검색 />
+	[142] (154,471)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	2개의 결과
+	(
+	117ms
+	)
+	2개의 결과
+	[143] (662,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_t_' />
+		[144] (658,99)<span  />
+			[145] (658,99)<span  />
+				[146] (633,99)<span  />
+					[147] (633,99)<font  />
+						[148] (633,99)<font >정렬 기준: />
+				[149] (672,99)<font  />
+					[150] (672,99)<font >가장 일치하는 항목 />
+	[151] (733,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[152] (733,99)<span  />
+			[153] (733,99)<span  />
+				[154] (733,99)<div  />
+					[155] (738,99)<font  />
+						[156] (738,99)<font >구하다 />
+	[157] (763,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_17_' />
+	[158] (237,162)<a class='prc-Link-Link-9ZwDx' href='/bleedline/aimoneyhunter' />
+		[159] (237,161)<span  />
+			[160] (214,161)<font  />
+				[161] (214,161)<font >블리드라인/ />
+			[162] (259,161)<em  />
+				[163] (259,161)<font  />
+					[164] (259,161)<font >아이모니헌터 />
+	ai
+	副业赚钱大集合，教你如何利用
+	ai
+	做一些副业项目，赚取更多额外收益。
+	AI
+	Side
+	Hustles
+	로 수익을 창출하기 위한 궁극적인 가이드: 멋진
+	측면 에서
+	AI를
+	활용하는 방법을 알아보세요
+	…
+	[165] (189,239)<a aria-label='17082개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/bleedline/aimoneyhunter/stargazers' />
+		[166] (195,239)<span  />
+			[167] (195,239)<font  />
+				[168] (195,239)<font >17.1k />
+	·
+	업데이트됨
+	2025년 10월 20일
+	[169] (748,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[170] (748,168)<span  />
+			[171] (754,168)<span  />
+				[172] (754,167)<font  />
+					[173] (754,167)<font >별 />
+	[174] (238,315)<a class='prc-Link-Link-9ZwDx' href='/XiaomingX/ai-money-maker-handbook' />
+		[175] (238,315)<span  />
+			[176] (209,315)<font  />
+				[177] (209,315)<font >샤오밍X/ />
+			[178] (230,315)<em  />
+				[179] (230,315)<font  />
+					[180] (230,315)<font >AI />
+			[181] (259,315)<font  />
+				[182] (259,315)<font >돈벌이 핸드북 />
+	ai
+	副业赚钱大集合，教你如何利用
+	ai
+	做一些副业项目，赚取更多额外收益。
+	AI
+	Side
+	Hustles
+	로 수익을 창출하기 위한 궁극적인 가이드: 멋진
+	측면 에서
+	AI를
+	활용하는 방법을 알아보세요
+	…
+	[183] (190,397)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome' />
+		[184] (190,397)<font  />
+			[185] (190,397)<font >엄청난 />
+	[186] (219,397)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/jobleap' />
+		[187] (219,397)<font  />
+			[188] (219,397)<font >잡립 />
+	CSS
+	·
+	[189] (217,428)<a aria-label='2340개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/XiaomingX/ai-money-maker-handbook/stargazers' />
+		[190] (223,428)<span  />
+			[191] (223,428)<font  />
+				[192] (223,428)<font >2.3k />
+	·
+	업데이트됨
+	18시간 전
+	[193] (748,322)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[194] (748,322)<span  />
+			[195] (754,322)<span  />
+				[196] (754,321)<font  />
+					[197] (754,321)<font >별 />
+	여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+	기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+	[198] (885,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+		[199] (837,312)<font  />
+			[200] (837,312)<font >후원 가능한 프로젝트를 살펴보세요 />
+	검색 기능을 어떻게 개선할 수 있을까요?
+	[201] (923,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+		[202] (923,386)<span  />
+			[203] (923,386)<font  />
+				[204] (923,386)<font >피드백을 제공하세요 />
+	꿀팁!
+	누르세요
+	/
+	검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

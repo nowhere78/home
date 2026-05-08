@@ -1,0 +1,78 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (340,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (347,25)<span  />
+		[13] (347,25)<font  />
+			[14] (347,25)<font >MIT 라이선스 />
+[15] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[16] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+100% 클라이언트 측 처리
+- 동영상은 기기를 벗어나지 않습니다. 업로드도 없고, 클라우드 처리도 없어 완벽한 개인정보 보호를 보장합니다.
+설치가 필요 없습니다
+. Chrome/Edge에서 바로 사용 가능합니다. 열고 편집을 시작하세요.
+전문적인 기능
+- 멀티트랙 타임라인, 키프레임 애니메이션, 색상 보정, 오디오 효과 등 다양한 기능을 제공합니다.
+GPU 가속
+- WebGPU 및 WebCodecs를 통해 부드러운 4K 편집과 빠른 내보내기가 가능합니다.
+평생 무료
+- MIT 라이선스 적용, 구독료 없음, 워터마크 없음.
+특징
+[17] (193,253)<a aria-label='고유 링크: 기능' class='anchor' href='#features' id='user-content-features' />
+영상 편집
+[18] (193,317)<a aria-label='고유 링크: 비디오 편집' class='anchor' href='#video-editing' id='user-content-video-editing' />
+멀티트랙 타임라인
+- 무제한 비디오, 오디오, 이미지, 텍스트 및 그래픽 트랙
+실시간 미리보기
+- GPU 가속을 통한 부드러운 재생
+정밀 편집
+- 프레임 단위로 정확한 스크러빙, 자르기, 다듬기, 분할, 리플 삭제
+전환 효과
+- 크로스페이드, 흑백 전환, 와이프, 슬라이드 효과
+비디오 효과
+- 밝기, 대비, 채도, 흐림, 선명도, 광선 효과, 비네트, 크로마 키
+혼합 모드
+- 곱하기, 스크린, 오버레이, 더하기, 빼기 등
+속도 조절
+- 0.25배에서 4배까지 (음높이 유지)
+자르기 및 변형
+- 3D 원근감을 이용한 위치, 크기, 회전
+그래픽 및 텍스트
+[19] (193,618)<a aria-label='고유 링크: 그래픽 및 텍스트' class='anchor' href='#graphics--text' id='user-content-graphics--text' />
+전문 텍스트 편집기
+- 풍부한 스타일링, 그림자, 윤곽선, 그라데이션 기능
+20가지 이상의 텍스트 애니메이션
+- 타자기, 페이드, 슬라이드, 바운스, 팝, 탄력, 글리치
+노래방 스타일 자막
+- 오디오에 맞춰 단어별로 강조 표시
+도형 도구
+- 사각형, 원, 화살표, 다각형, 별 모양 (채우기/테두리 포함)
+SVG 지원
+- 색상 변경 및 애니메이션이 적용된 SVG 파일을 가져올 수 있습니다.
+스티커 및 이모티콘
+- 내장 라이브러리
+배경 생성기
+- 단색, 그라데이션, 메쉬 그라데이션, 패턴
+키프레임 애니메이션
+- 20개 이상의 이징 커브를 사용하여 시간에 따라 모든 속성을 애니메이션화할 수 있습니다.
+오디오
+[20] (193,920)<a aria-label='고유 링크: 오디오' class='anchor' href='#audio' id='user-content-audio' />
+멀티트랙 믹싱
+- 실시간 믹싱이 가능한 무제한 오디오 트랙
+파형 시각화
+- 시각적 오디오 편집
+
+</current_dom>

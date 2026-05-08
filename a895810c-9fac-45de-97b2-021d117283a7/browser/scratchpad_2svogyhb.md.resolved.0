@@ -1,0 +1,23 @@
+# Local Deep Research (LDR) Analysis
+
+## 1. What it does
+- **Autonomous Research Assistant**: Automates the process of gathering, analyzing, and synthesizing information from multiple sources (web, academic, local docs).
+- **Privacy-First**: Designed to run entirely locally using Ollama and SearXNG, ensuring data stays on the user's machine.
+- **Automated Report Generation**: Produces detailed reports with citations.
+
+## 2. Mimicking OpenAI's Deep Research
+- **Iterative Logic**: Uses a multi-step agentic workflow (LangGraph) that doesn't just search once but explores topics recursively based on findings.
+- **Adaptive Planning**: The agent dynamically updates its research plan as it learns new information, similar to how OpenAI's Deep Research functions.
+
+## 3. Models and Tools
+- **LLMs**: Ollama (local-first), but also supports external APIs (OpenAI, Anthropic, Gemini).
+- **Search**: 
+    - **SearXNG**: Primary local search aggregator for privacy.
+    - **Others**: Tavily, arXiv, PubMed, Semantic Scholar, DuckDuckGo, Google.
+- **Database**: SQLCipher for encrypted local storage of research results and history.
+- **Framework**: LangGraph (for orchestrating the research agent).
+
+## 4. Integration for our "Researcher" Agent
+- **Logic Adoption**: We can adopt its LangGraph-based research patterns to make our agent perform recursive searches.
+- **Local Infra**: Use SearXNG alongside our Ollama setup to provide the agent with a private, powerful search engine.
+- **Knowledge Base**: Leverage its indexing system to build the "Alpha Memory" mentioned in the planner response.

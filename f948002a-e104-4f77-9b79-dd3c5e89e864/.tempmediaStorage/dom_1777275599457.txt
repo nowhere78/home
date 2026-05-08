@@ -1,0 +1,206 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (136,34)<span >HFT crypto 2026 sort:updated-desc />
+			HFT crypto 2026 sort:updated-desc
+[5] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (870,34)<span  />
+[9] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (983,34)<img  />
+repositories Search Results · HFT crypto 2026 sort:updated-desc
+Filter by
+[15] (77,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=code' id='_R_5sraqdb_' />
+	[16] (83,148)<span  />
+		[17] (74,148)<span >Code />
+		results
+[18] (77,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=repositories' id='_R_9sraqdb_' />
+	[19] (83,182)<span  />
+		[20] (74,182)<span >Repositories />
+		results
+[21] (77,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=issues' id='_R_dsraqdb_' />
+	[22] (83,216)<span  />
+		[23] (74,216)<span >Issues />
+		results
+[24] (77,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=pullrequests' id='_R_hsraqdb_' />
+	[25] (83,250)<span  />
+		[26] (74,250)<span >Pull requests />
+		results
+[27] (77,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=discussions' id='_R_lsraqdb_' />
+	[28] (83,284)<span  />
+		[29] (74,284)<span >Discussions />
+		results
+[30] (77,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc&type=users' id='_R_psraqdb_' />
+	[31] (83,317)<span  />
+		[32] (74,317)<span >Users />
+		results
+[33] (77,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_R_2sraqdb_' />
+	[34] (83,351)<span  />
+		[35] (83,351)<span >More />
+Advanced
+[36] (77,425)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_fpbaqdb_' />
+	[37] (83,425)<span  />
+		[38] (83,425)<span  />
+			[39] (83,425)<div  />
+				[40] (83,425)<div >Owner />
+[41] (77,459)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_npbaqdb_' />
+	[42] (83,459)<span  />
+		[43] (83,459)<span  />
+			[44] (83,459)<div  />
+				[45] (83,459)<div >Size />
+[46] (77,493)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_vpbaqdb_' />
+	[47] (83,493)<span  />
+		[48] (83,493)<span  />
+			[49] (83,493)<div  />
+				[50] (83,493)<div >Number of followers />
+[51] (77,527)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_17pbaqdb_' />
+	[52] (83,527)<span  />
+		[53] (83,527)<span  />
+			[54] (83,527)<div  />
+				[55] (83,527)<div >Number of forks />
+[56] (77,561)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1fpbaqdb_' />
+	[57] (83,561)<span  />
+		[58] (83,561)<span  />
+			[59] (83,561)<div  />
+				[60] (83,561)<div >Number of stars />
+[61] (77,595)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1npbaqdb_' />
+	[62] (83,595)<span  />
+		[63] (83,595)<span  />
+			[64] (83,595)<div  />
+				[65] (83,595)<div >Date created />
+[66] (77,629)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_1vpbaqdb_' />
+	[67] (83,629)<span  />
+		[68] (83,629)<span  />
+			[69] (83,629)<div  />
+				[70] (83,629)<div >Date pushed />
+[71] (77,662)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_27pbaqdb_' />
+	[72] (83,662)<span  />
+		[73] (83,662)<span  />
+			[74] (83,662)<div  />
+				[75] (83,662)<div >Topic />
+[76] (77,696)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2fpbaqdb_' />
+	[77] (83,696)<span  />
+		[78] (83,696)<span  />
+			[79] (83,696)<div  />
+				[80] (83,696)<div >License />
+[81] (77,730)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_R_2npbaqdb_' />
+	[82] (83,730)<span  />
+		[83] (83,730)<span  />
+			[84] (83,730)<div  />
+				[85] (83,730)<div >Archived />
+[86] (77,764)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc+is%3Apublic&type=repositories' id='_R_2vpbaqdb_' />
+	[87] (83,764)<span  />
+		[88] (83,764)<span  />
+			[89] (83,764)<div  />
+				[90] (83,764)<div >Public />
+[91] (77,798)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=HFT+crypto+2026+sort%3Aupdated-desc+is%3Aprivate&type=repositories' id='_R_37pbaqdb_' />
+	[92] (83,798)<span  />
+		[93] (83,798)<span  />
+			[94] (83,798)<div  />
+				[95] (83,798)<div >Private />
+[96] (77,850)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_R_2baqdb_' />
+	[97] (83,850)<span  />
+		[98] (83,850)<span >Advanced search />
+[99] (154,471)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+3 results
+(
+129
+ms
+)
+3 results
+[100] (678,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_ebadb_' />
+	[101] (674,99)<span  />
+		[102] (674,99)<span >Best match />
+			[103] (658,99)<span >Sort by: />
+[104] (735,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[105] (735,99)<span  />
+		[106] (735,99)<span  />
+			[107] (735,99)<div >Save />
+[108] (763,99)<button aria-label='Open column options' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+[109] (256,162)<a class='prc-Link-Link-9ZwDx' href='/Mahavir2004/Lead-Intent-Scanner' />
+	[110] (256,161)<span >Mahavir2004/Lead-Intent-Scanner />
+AI Trader Lead Finder
+2026
+🤖 | Top
+Crypto
+Bot Leads & Automation
+[111] (195,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/algorithm'>algorithm />
+[112] (241,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/fuzzy-search'>fuzzy-search />
+[113] (281,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/stock'>stock />
+[114] (310,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/forex'>forex />
+[115] (340,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/fuzzy'>fuzzy />
+[116] (183,252)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Mahavir2004/Lead-Intent-Scanner/stargazers' />
+	[117] (189,252)<span >0 />
+·
+Updated
+12 days ago
+[118] (746,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[119] (746,168)<span  />
+		[120] (751,168)<span >Star />
+[121] (270,329)<a class='prc-Link-Link-9ZwDx' href='/Higure911992/Crypto-Portfolio-Visualizer' />
+	[122] (270,329)<span >Higure911992/
+-Portfolio-Visualizer />
+		[123] (259,329)<em >Crypto />
+Top
+Crypto
+Trading Bots
+2026
+🤖 | Free Automated Portfolio Manager
+[124] (191,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python'>python />
+[125] (226,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/finance'>finance />
+[126] (265,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/algorithm'>algorithm />
+[127] (303,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bitcoin'>bitcoin />
+[128] (338,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trading'>trading />
+[129] (183,420)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Higure911992/Crypto-Portfolio-Visualizer/stargazers' />
+	[130] (189,420)<span >0 />
+·
+Updated
+12 days ago
+[131] (746,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[132] (746,335)<span  />
+		[133] (751,335)<span >Star />
+[134] (250,496)<a class='prc-Link-Link-9ZwDx' href='/Whi143/crypto-dashboard-pro' />
+	[135] (250,496)<span >Whi143/
+-dashboard-pro />
+		[136] (236,496)<em >crypto />
+Top AI
+Crypto
+Portfolio Tracker
+2026
+🚀 | Free Real-Time Trading Bot & Insightful Charts
+[137] (191,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python'>python />
+[138] (226,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/finance'>finance />
+[139] (265,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/algorithm'>algorithm />
+[140] (303,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/bitcoin'>bitcoin />
+[141] (338,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/trading'>trading />
+[142] (183,587)<a aria-label='0 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/Whi143/crypto-dashboard-pro/stargazers' />
+	[143] (189,587)<span >0 />
+·
+Updated
+24 days ago
+[144] (746,503)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[145] (746,503)<span  />
+		[146] (751,503)<span >Star />
+Sponsor open source projects you depend on
+Contributors are working behind the scenes to make open source better for everyone—give them the help and recognition they deserve.
+[147] (885,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore'>Explore sponsorable projects />
+How can we improve search?
+[148] (895,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+	[149] (895,386)<span >Give feedback />
+ProTip!
+Press the
+/
+key to activate the search input again and adjust your query.
+
+</current_dom>

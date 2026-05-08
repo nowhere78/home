@@ -1,0 +1,57 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (273,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (279,25)<span  />
+		[8] (279,25)<font  />
+			[9] (279,25)<font >MIT 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+🗣️'팀원들의 목소리로 TTS 서비스를 제공하는 프로젝트'를
+아티스트 홍보 페이지의 한 예시
+로 제시합니다.
+🌻TTS를
+해탈 그룹
+이나
+아티스트
+를
+지원
+합니다.
+[12] (193,68)<a aria-label='고유 링크: 🌻TTS를 해체한 아이돌 그룹이나 아티스트를 지원합니다.' class='anchor' href='#tts를-이용해-아이돌-그룹이나-아티스트를-효과적으로-홍보합니다' id='user-content-tts를-이용해-아이돌-그룹이나-아티스트를-효과적으로-홍보합니다' />
+2. 놔둬
+[13] (193,151)<a aria-label='고유 링크: 2.' class='anchor' href='#2-아키텍처' id='user-content-2-아키텍처' />
+[14] (419,681)<a href='https://user-images.githubusercontent.com/70627982/182602386-c5919ba2-ac66-43a0-86c2-ed7f12c6d3f2.png' />
+	[15] (419,441)<img  />
+3. 기술 그리드
+[16] (193,765)<a aria-label='고유 링크: 3. 기술 그리드' class='anchor' href='#3-기술-스택' id='user-content-3-기술-스택' />
+프런트엔드
+[17] (240,855)<a href='https://camo.githubusercontent.com/43f7a01d0d6f9b889d506a65a56103adb6fd985831d30bba53abcb75fb3cdf57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465' />
+	[18] (240,847)<img  />
+[19] (297,855)<a href='https://camo.githubusercontent.com/91d560c1268252cae1a125a71c698241e07ae88c063cbd4bc3c989d47a04058a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b' />
+	[20] (297,847)<img  />
+백엔드
+[21] (243,933)<a href='https://camo.githubusercontent.com/c40c3bf866d96ae02623476c31c8a0d7b31b38c0f26d1bd91aacdad9ec4c24ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465' />
+	[22] (243,925)<img  />
+[23] (292,933)<a href='https://camo.githubusercontent.com/ba0f4de3f18d35e5a41d9fba0d78742753fc738a8a74eaab7295b1afaa717fb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465' />
+	[24] (292,925)<img  />
+[25] (342,933)<a href='https://camo.githubusercontent.com/4c37e44db8b84e93b6c35c5329d4df5e0ce274041774814be19e9dde2a7c3c08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465' />
+	[26] (342,925)<img  />
+[27] (393,933)<a href='https://camo.githubusercontent.com/0c123f699a13e842f525fc67de54ca2239c0cd04dc92c199a01404296c8413a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465' />
+	[28] (393,925)<img  />
+[29] (443,933)<a href='https://camo.githubusercontent.com/0cc03b10914359de14eb73d2a11096b29b5fde6f796670b3f1fcdfa38e495ab5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f63656c6572792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d63656c657279266c6f676f436f6c6f723d7768697465' />
+	[30] (443,925)<img  />
+[31] (499,933)<a href='https://camo.githubusercontent.com/3bca65e6b77ae7fbe1b3a311cc142576392b0b4628e81cb9012ab67fec0b9392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7261626269746d712d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d7261626269746d71266c6f676f436f6c6f723d7768697465' />
+	[32] (499,925)<img  />
+[33] (562,933)<a href='https://camo.githubusercontent.com/dbfb5cbe63b780c821ab3eeaf31b9fc8132218b8b09e68c7fb76e51b1d65e60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67756e69636f726e2d3439393834383f7374796c653d666f722d7468652d6261646765266c6f676f3d67756e69636f726e266c6f676f436f6c6f723d626c61636b' />
+	[34] (562,925)<img  />
+데브옵스
+
+</current_dom>

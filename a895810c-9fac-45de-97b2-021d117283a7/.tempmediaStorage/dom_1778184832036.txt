@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (280,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (286,25)<span  />
+		[8] (286,25)<font  />
+			[9] (286,25)<font >행동 강령 />
+[10] (353,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (330,25)<span  />
+	[12] (359,25)<span  />
+		[13] (359,25)<font  />
+			[14] (359,25)<font >기여하기 />
+[15] (432,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (397,25)<span  />
+	[17] (438,25)<span  />
+		[18] (438,25)<font  />
+			[19] (438,25)<font >Apache-2.0 라이선스 />
+[20] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[22] (419,463)<div  />
+	2. InsForge MCP에 연결
+	[23] (243,79)<a href='http://localhost:7130' />
+		[24] (243,79)<font >http://localhost:7130을 />
+	엽니다 .
+	InsForge MCP 서버에 연결하려면 다음 단계를 따르십시오.
+	[25] (419,782)<a href='/InsForge/InsForge/blob/main/assets/connect.png' />
+		[26] (419,470)<img  />
+	3. 설치 확인
+	[27] (193,832)<a aria-label='Permalink: 3. 설치 확인' class='anchor' href='#3-verify-installation' id='user-content-3-verify-installation' />
+	연결을 확인하려면 다음 메시지를 상담원에게 보내세요.
+	[28] (407,937)<pre class='notranslate' scrollable='true'>I'm using InsForge as my backend platform, call InsForge MCP's fetch-docs tool to learn about InsForge instructions. />
+		I'm using InsForge as my backend platform, call InsForge MCP's fetch-docs tool to learn about InsForge instructions.
+	[29] (626,925)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+	4. 여러 프로젝트 실행하기
+
+</current_dom>

@@ -1,0 +1,394 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (80,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/datawhalechina' />
+	[3] (80,34)<span >datawhalechina />
+[4] (131,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/datawhalechina/self-llm' />
+	[5] (131,34)<span >self-llm />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (81,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (99,80)<span >(
+155
+) />
+		[26] (99,80)<span >155 />
+		(
+		155
+		)
+[27] (148,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/pulls' />
+	[28] (124,80)<span  />
+	[29] (154,80)<span >Pull requests />
+[30] (205,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/agents?author=nowhere78' />
+	[31] (192,80)<span  />
+	[32] (212,80)<span >Agents />
+[33] (254,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/actions' />
+	[34] (240,80)<span  />
+	[35] (261,80)<span >Actions />
+[36] (305,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/projects' />
+	[37] (290,80)<span  />
+	[38] (311,80)<span >Projects />
+[39] (376,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/security' />
+	[40] (341,80)<span  />
+	[41] (382,80)<span >Security and quality />
+[42] (446,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/pulse' />
+	[43] (431,80)<span  />
+	[44] (453,80)<span >Insights />
+[45] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[46] (65,190)<button aria-label='master branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[47] (65,190)<span  />
+		[48] (58,190)<span  />
+			[49] (58,190)<div  />
+				[50] (19,190)<div  />
+				[51] (38,190)<div  />
+					[52] (38,190)<span >master />
+[53] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/datawhalechina/self-llm/new/master/models_mlx' />
+[54] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[55] (83,233)<span  />
+	[56] (17,233)<span  />
+	[57] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[58] (148,233)<span  />
+		[59] (148,233)<kbd  />
+			[60] (148,233)<span >t />
+				t
+				[61] (148,233)<span >T />
+[62] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[63] (79,692)<div  />
+		[64] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+			[65] (79,279)<div  />
+				[66] (13,279)<div  />
+				[67] (84,279)<div  />
+					[68] (25,279)<div  />
+						[69] (25,279)<div  />
+					[70] (90,279)<span  />
+						[71] (45,279)<span >.github />
+		[72] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='dataset-item' role='treeitem' />
+			[73] (79,314)<div  />
+				[74] (13,314)<div  />
+				[75] (84,314)<div  />
+					[76] (25,313)<div  />
+						[77] (25,313)<div  />
+					[78] (90,314)<span  />
+						[79] (45,314)<span >dataset />
+		[80] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='examples-item' role='treeitem' />
+			[81] (79,348)<div  />
+				[82] (13,348)<div  />
+				[83] (84,348)<div  />
+					[84] (25,347)<div  />
+						[85] (25,347)<div  />
+					[86] (90,348)<span  />
+						[87] (48,348)<span >examples />
+		[88] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='images-item' role='treeitem' />
+			[89] (79,382)<div  />
+				[90] (13,382)<div  />
+				[91] (84,382)<div  />
+					[92] (25,382)<div  />
+						[93] (25,382)<div  />
+					[94] (90,382)<span  />
+						[95] (45,382)<span >images />
+		[96] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models-item' role='treeitem' />
+			[97] (79,416)<div  />
+				[98] (13,416)<div  />
+				[99] (84,416)<div  />
+					[100] (25,416)<div  />
+						[101] (25,416)<div  />
+					[102] (90,416)<span  />
+						[103] (45,416)<span >models />
+		[104] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_amd-item' role='treeitem' />
+			[105] (79,450)<div  />
+				[106] (13,450)<div  />
+				[107] (84,450)<div  />
+					[108] (25,450)<div  />
+						[109] (25,450)<div  />
+					[110] (90,450)<span  />
+						[111] (54,450)<span >models_amd />
+		[112] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_ascend-item' role='treeitem' />
+			[113] (79,484)<div  />
+				[114] (13,484)<div  />
+				[115] (84,484)<div  />
+					[116] (25,484)<div  />
+						[117] (25,484)<div  />
+					[118] (90,484)<span  />
+						[119] (58,484)<span >models_ascend />
+		[120] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx-item' role='treeitem' />
+			[121] (79,518)<div  />
+				[122] (13,518)<div  />
+				[123] (84,518)<div  />
+					[124] (25,518)<div  />
+						[125] (25,518)<div  />
+					[126] (90,518)<span  />
+						[127] (52,518)<span >models_mlx />
+			[128] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/configs-item' role='treeitem' />
+				[129] (79,552)<div  />
+					[130] (10,552)<div  />
+						[131] (10,552)<div  />
+							[132] (10,552)<div  />
+					[133] (17,552)<div  />
+					[134] (86,552)<div  />
+						[135] (29,552)<div  />
+							[136] (29,552)<div  />
+						[137] (92,552)<span  />
+							[138] (49,552)<span >configs />
+			[139] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/docs-item' role='treeitem' />
+				[140] (79,586)<div  />
+					[141] (10,586)<div  />
+						[142] (10,586)<div  />
+							[143] (10,586)<div  />
+					[144] (17,586)<div  />
+					[145] (86,586)<div  />
+						[146] (29,586)<div  />
+							[147] (29,586)<div  />
+						[148] (92,586)<span  />
+							[149] (45,586)<span >docs />
+			[150] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/modules-item' role='treeitem' />
+				[151] (79,620)<div  />
+					[152] (10,620)<div  />
+						[153] (10,620)<div  />
+							[154] (10,620)<div  />
+					[155] (17,620)<div  />
+					[156] (86,620)<div  />
+						[157] (29,620)<div  />
+							[158] (29,620)<div  />
+						[159] (92,620)<span  />
+							[160] (51,620)<span >modules />
+			[161] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/notebooks-item' role='treeitem' />
+				[162] (79,654)<div  />
+					[163] (10,654)<div  />
+						[164] (10,654)<div  />
+							[165] (10,654)<div  />
+					[166] (17,654)<div  />
+					[167] (86,654)<div  />
+						[168] (29,654)<div  />
+							[169] (29,654)<div  />
+						[170] (92,654)<span  />
+							[171] (55,654)<span >notebooks />
+			[172] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/README.md-item' role='treeitem' />
+				[173] (79,688)<div  />
+					[174] (10,688)<div  />
+						[175] (10,688)<div  />
+							[176] (10,688)<div  />
+					[177] (86,688)<div  />
+						[178] (29,688)<div  />
+						[179] (92,688)<span  />
+							[180] (58,688)<span >README.md />
+			[181] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/README_en.md-item' role='treeitem' />
+				[182] (79,722)<div  />
+					[183] (10,722)<div  />
+						[184] (10,722)<div  />
+							[185] (10,722)<div  />
+					[186] (86,722)<div  />
+						[187] (29,722)<div  />
+						[188] (92,722)<span  />
+							[189] (63,722)<span >README_en.md />
+			[190] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/requirements.txt-item' role='treeitem' />
+				[191] (79,756)<div  />
+					[192] (10,756)<div  />
+						[193] (10,756)<div  />
+							[194] (10,756)<div  />
+					[195] (86,756)<div  />
+						[196] (29,756)<div  />
+						[197] (92,756)<span  />
+							[198] (64,756)<span >requirements.txt />
+			[199] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models_mlx/run_app_gradio.py-item' role='treeitem' />
+				[200] (79,790)<div  />
+					[201] (10,790)<div  />
+						[202] (10,790)<div  />
+							[203] (10,790)<div  />
+					[204] (86,790)<div  />
+						[205] (29,790)<div  />
+						[206] (92,790)<span  />
+							[207] (67,790)<span >run_app_gradio.py />
+		[208] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+			[209] (79,824)<div  />
+				[210] (84,824)<div  />
+					[211] (25,824)<div  />
+					[212] (90,824)<span  />
+						[213] (49,824)<span >.gitignore />
+		[214] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+			[215] (79,858)<div  />
+				[216] (84,858)<div  />
+					[217] (25,858)<div  />
+					[218] (90,858)<span  />
+						[219] (47,858)<span >LICENSE />
+		[220] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+			[221] (79,893)<div  />
+				[222] (84,893)<div  />
+					[223] (25,892)<div  />
+					[224] (90,893)<span  />
+						[225] (53,893)<span >README.md />
+		[226] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README_en.md-item' role='treeitem' />
+			[227] (79,927)<div  />
+				[228] (84,927)<div  />
+					[229] (25,927)<div  />
+					[230] (90,927)<span  />
+						[231] (59,927)<span >README_en.md />
+		[232] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='contributors.json-item' role='treeitem' />
+			[233] (79,961)<div  />
+				[234] (84,961)<div  />
+					[235] (25,961)<div  />
+					[236] (90,961)<span  />
+						[237] (60,961)<span >contributors.json />
+		[238] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='support_model.md-item' role='treeitem' />
+			[239] (79,995)<div  />
+				[240] (84,995)<div  />
+					[241] (25,995)<div  />
+					[242] (90,995)<span  />
+						[243] (64,995)<span >support_model.md />
+[244] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[245] (189,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/tree/master'>self-llm />
+/
+models_mlx
+/
+[246] (283,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[247] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_36_' />
+	[248] (947,140)<span  />
+		[249] (947,140)<span  />
+			[250] (947,140)<span >Add file />
+More options
+[251] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='More options' />
+Latest commit
+[252] (190,198)<a class='prc-Link-Link-9ZwDx' href='/johnjim0816' />
+	[253] (188,199)<img  />
+[254] (212,198)<a aria-label='johnjim0816의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/commits?author=johnjim0816' />
+	[255] (212,198)<font  />
+		[256] (212,198)<font >존짐0816 />
+[257] (292,198)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' />
+	[258] (292,198)<font  />
+		[259] (292,198)<font >✨ feat:[Apple专区] 更新支持模型清单 />
+[260] (903,198)<a aria-label='커밋 8d75dd0' class='Link--secondary prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' />
+	[261] (903,198)<font  />
+		[262] (903,198)<font >8d75dd0 />
+·
+2개월 전
+History
+[263] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/datawhalechina/self-llm/commits/master/models_mlx' />
+	[264] (967,198)<span  />
+		[265] (972,198)<span  />
+			[266] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[267] (584,304)<tr  />
+	parent directory
+	[268] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/tree/master' />
+		[269] (584,304)<div >.. />
+[270] (584,347)<tr  />
+	[271] (229,347)<a aria-label='configs/model_info, (Directory)' class='Link--primary' href='/datawhalechina/self-llm/tree/master/models_mlx/configs/model_info' title='This path skips through empty directories' />
+		[272] (211,347)<span >configs/ />
+		[273] (242,347)<span >model_info />
+	[274] (572,347)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' title='✨ feat:[Apple专区] 更新支持模型清单' />
+		[275] (572,347)<font  />
+			[276] (572,347)<font >✨ feat:[Apple专区] 更新支持模型清单 />
+	2개월 전
+[277] (584,390)<tr  />
+	[278] (205,390)<a aria-label='docs, (Directory)' class='Link--primary' href='/datawhalechina/self-llm/tree/master/models_mlx/docs' title='docs'>docs />
+	[279] (556,390)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/99350d3facd406de0195c16ed3627935547c4cf3' title='✨ feat: 增加MLX框架简介 (#492)' />
+		[280] (556,390)<font  />
+			[281] (556,390)<font >✨ feat: 增加MLX框架简介 ( />
+	[282] (612,390)<a class='issue-link js-issue-link' href='https://github.com/datawhalechina/self-llm/pull/492' />
+		[283] (612,390)<font  />
+			[284] (612,390)<font >#492 />
+	[285] (622,390)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/99350d3facd406de0195c16ed3627935547c4cf3' title='✨ feat: 增加MLX框架简介 (#492)' />
+		[286] (622,390)<font  />
+			[287] (622,390)<font >) />
+	3개월 전
+[288] (584,433)<tr  />
+	[289] (212,434)<a aria-label='modules, (Directory)' class='Link--primary' href='/datawhalechina/self-llm/tree/master/models_mlx/modules' title='modules'>modules />
+	[290] (595,434)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[291] (595,434)<font  />
+			[292] (595,434)<font >✨ feat: 重构为模块化架构，新增 Gradio 交互平台 ( />
+	[293] (688,434)<a class='issue-link js-issue-link' href='https://github.com/datawhalechina/self-llm/pull/499' />
+		[294] (688,434)<font  />
+			[295] (688,434)<font >#499 />
+	[296] (699,434)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[297] (699,434)<font  />
+			[298] (699,434)<font >) />
+	2개월 전
+[299] (584,477)<tr  />
+	[300] (215,477)<a aria-label='notebooks, (Directory)' class='Link--primary' href='/datawhalechina/self-llm/tree/master/models_mlx/notebooks' title='notebooks'>notebooks />
+	[301] (595,477)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[302] (595,477)<font  />
+			[303] (595,477)<font >✨ feat: 重构为模块化架构，新增 Gradio 交互平台 ( />
+	[304] (688,477)<a class='issue-link js-issue-link' href='https://github.com/datawhalechina/self-llm/pull/499' />
+		[305] (688,477)<font  />
+			[306] (688,477)<font >#499 />
+	[307] (699,477)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[308] (699,477)<font  />
+			[309] (699,477)<font >) />
+	2개월 전
+[310] (584,520)<tr  />
+	[311] (218,521)<a aria-label='README.md, (File)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models_mlx/README.md' title='README.md'>README.md />
+	[312] (572,521)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' title='✨ feat:[Apple专区] 更新支持模型清单' />
+		[313] (572,521)<font  />
+			[314] (572,521)<font >✨ feat:[Apple专区] 更新支持模型清单 />
+	2개월 전
+[315] (584,563)<tr  />
+	[316] (224,564)<a aria-label='README_en.md, (File)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models_mlx/README_en.md' title='README_en.md'>README_en.md />
+	[317] (572,564)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' title='✨ feat:[Apple专区] 更新支持模型清单' />
+		[318] (572,564)<font  />
+			[319] (572,564)<font >✨ feat:[Apple专区] 更新支持模型清单 />
+	2개월 전
+[320] (584,607)<tr  />
+	[321] (224,607)<a aria-label='requirements.txt, (File)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models_mlx/requirements.txt' title='requirements.txt'>requirements.txt />
+	[322] (572,607)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/8d75dd0104591346073aa50259a0cae0af011992' title='✨ feat:[Apple专区] 更新支持模型清单' />
+		[323] (572,607)<font  />
+			[324] (572,607)<font >✨ feat:[Apple专区] 更新支持模型清单 />
+	2개월 전
+[325] (584,650)<tr  />
+	[326] (228,651)<a aria-label='run_app_gradio.py, (File)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models_mlx/run_app_gradio.py' title='run_app_gradio.py'>run_app_gradio.py />
+	[327] (595,651)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[328] (595,651)<font  />
+			[329] (595,651)<font >✨ feat: 重构为模块化架构，新增 Gradio 交互平台 ( />
+	[330] (688,651)<a class='issue-link js-issue-link' href='https://github.com/datawhalechina/self-llm/pull/499' />
+		[331] (688,651)<font  />
+			[332] (688,651)<font >#499 />
+	[333] (699,651)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5500aab17956d7da1d8eae0905e4a4d73385bc70' title='✨ feat: 重构为模块化架构，新增 Gradio 交互平台 (#499)' />
+		[334] (699,651)<font  />
+			[335] (699,651)<font >) />
+	2개월 전
+[336] (203,714)<a class='DirectoryReadmePreview-module__readmeLink__JEGBK prc-Link-Link-9ZwDx' href='#readme'>README.md />
+[337] (961,714)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+本教程旨在帮助用户基于苹果原生框架
+[338] (477,785)<a href='https://github.com/ml-explore/mlx-lm'>MLX-LM />
+部署和使用大模型，以便于充分利用 Apple M 系列芯片的性能进行本地推理。
+🔧 环境配置
+[339] (313,838)<a aria-label='Permalink: 🔧 环境配置' class='anchor' href='#-环境配置' id='user-content--环境配置' />
+#
+创建 Conda 虚拟环境
+conda create -n mlx-lm python=3.11
+conda activate mlx-lm
+#
+安装依赖
+pip install -r requirements.txt
+[340] (836,904)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

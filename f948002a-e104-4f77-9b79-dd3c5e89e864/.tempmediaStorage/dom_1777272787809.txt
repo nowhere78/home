@@ -1,0 +1,161 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiYh8WIuY2UAxV8M9AFHTalJRsQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dfastest%2Bgrowing%2BYouTube%2BShorts%2Bchannels%2B2026%2Bmicro-niche%2Bexamples&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (130,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4l5imfJsBP_rLZsbQzfH08MyKmEg:1777272785818&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=fastest+growing+YouTube+Shorts+channels+2026+micro-niche+examples&sa=X&ved=2ahUKEwiYh8WIuY2UAxV8M9AFHTalJRsQs6gLegQIFhAB' />
+	[18] (130,121)<div  />
+		[19] (130,130)<span >짧은 동영상 />
+[20] (211,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4l5imfJsBP_rLZsbQzfH08MyKmEg:1777272785818&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=fastest+growing+YouTube+Shorts+channels+2026+micro-niche+examples&sa=X&ved=2ahUKEwiYh8WIuY2UAxV8M9AFHTalJRsQtKgLegQIFRAB' />
+	[21] (211,121)<div  />
+		[22] (211,130)<span >동영상 />
+[23] (277,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4l5imfJsBP_rLZsbQzfH08MyKmEg:1777272785818&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=fastest+growing+YouTube+Shorts+channels+2026+micro-niche+examples&sa=X&ved=2ahUKEwiYh8WIuY2UAxV8M9AFHTalJRsQtKgLegQIFBAB' />
+	[24] (277,121)<div  />
+		[25] (277,130)<span >이미지 />
+[26] (335,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4l5imfJsBP_rLZsbQzfH08MyKmEg:1777272785818&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=fastest+growing+YouTube+Shorts+channels+2026+micro-niche+examples&ved=1t:220175&ictx=111' />
+	[27] (335,121)<div  />
+		[28] (335,130)<span >쇼핑 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4l5imfJsBP_rLZsbQzfH08MyKmEg:1777272785818&q=fastest+growing+YouTube+Shorts+channels+2026+micro-niche+examples&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&sa=X&ved=2ahUKEwiYh8WIuY2UAxV8M9AFHTalJRsQ0pQJegQIEhAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+In 2026, the fastest-growing YouTube Shorts channels focus on highly specific, AI-assisted, or high-value, low-competition micro-niches. Top areas include
+AI tool tutorials, niche senior health (e.g., "chair yoga"), specialized DIY (e.g., epoxies), and 3D educational explainers
+, often utilizing faceless formats to achieve high RPM and rapid growth.
+Medium
++3
+[43] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[44] (372,538)<div  />
+		[45] (372,538)<div >더보기 />
+			더보기
+			[46] (397,538)<span  />
+동영상
+[47] (133,638)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[48] (133,638)<span  />
+		[49] (133,639)<span  />
+[50] (471,717)<a class='rIRoqf' href='https://www.youtube.com/watch?v=-oJzr4-IBfI' />
+	[51] (471,717)<div class='V5XKdd' role='heading' />
+		[52] (471,686)<div  />
+			[53] (455,686)<div  />
+				[54] (455,686)<span >The 5 BEST YouTube Shorts Niches That Will Make You Rich ... />
+		[55] (471,738)<div  />
+			[56] (471,738)<div  />
+				[57] (471,726)<span  />
+					[58] (247,726)<span >YouTube />
+					[59] (343,726)<span >Kellan Henneberry />
+						[60] (280,726)<span >· />
+				[61] (471,749)<div  />
+					[62] (238,749)<span >4주 전 />
+[63] (431,725)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[64] (431,725)<span  />
+		[65] (431,726)<span  />
+[66] (120,717)<div aria-label='Kellan Henneberry님이 YouTube에 게시한 The 5 BEST YouTube Shorts Niches That Will Make You Rich .... Google에서 재생. 16:56' class='rIRoqf hXY9cf' role='button' />
+	[67] (120,717)<div  />
+		[68] (120,717)<div  />
+			[69] (75,742)<div  />
+				[70] (75,742)<span >16:56 />
+			[71] (178,692)<div  />
+				[72] (178,692)<span  />
+[73] (471,831)<a class='rIRoqf' href='https://www.youtube.com/watch?v=YazHYSqOy80' />
+	[74] (471,831)<div class='V5XKdd' role='heading' />
+		[75] (471,800)<div  />
+			[76] (390,800)<div  />
+				[77] (390,800)<span >The 26 BEST YouTube Shorts Niches for 2026 />
+		[78] (471,852)<div  />
+			[79] (471,852)<div  />
+				[80] (471,840)<span  />
+					[81] (247,840)<span >YouTube />
+					[82] (327,840)<span >Alex Christian />
+						[83] (280,840)<span >· />
+				[84] (471,863)<div  />
+					[85] (261,863)<span >2025. 12. 24. />
+[86] (399,839)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[87] (399,839)<span  />
+		[88] (399,840)<span  />
+[89] (120,831)<div aria-label='Alex Christian님이 YouTube에 게시한 The 26 BEST YouTube Shorts Niches for 2026. Google에서 재생. 14:44' class='rIRoqf hXY9cf' role='button' />
+	[90] (120,831)<div  />
+		[91] (120,831)<div  />
+			[92] (75,856)<div  />
+				[93] (75,856)<span >14:44 />
+			[94] (178,806)<div  />
+				[95] (178,806)<span  />
+[96] (210,911)<div class='KMEEs' role='button' />
+	[97] (210,911)<div  />
+		[98] (71,905)<div  />
+			[99] (65,905)<div  />
+		[100] (246,905)<div  />
+			[101] (238,905)<div  />
+				[102] (196,905)<div  />
+					[103] (196,905)<span  />
+						[104] (196,905)<span  />
+							[105] (196,905)<span >이 동영상의 주요 순간 9개 />
+				[106] (305,905)<span  />
+[107] (382,961)<div  />
+	[108] (382,961)<span >Top 8 BEST YouTube Shorts Niches in 2026 />
+YouTube
+·
+Ollex
+[109] (120,992)<div aria-label='Ollex님이 YouTube에 게시한 Top 8 BEST YouTube Shorts Niches in 2026. Google에서 재생. 22:43' class='rIRoqf hXY9cf' role='button' />
+	[110] (120,992)<div  />
+		[111] (120,992)<div  />
+			[112] (178,967)<div  />
+				[113] (178,967)<span  />
+[114] (802,641)<div  />
+	[115] (802,641)<img  />
+[116] (884,641)<div >AI에게 질문하기 />
+	[117] (833,641)<img  />
+검색 에이전트
+[118] (829,683)<div  />
+	[119] (803,683)<img  />
+	[120] (840,683)<span >4o mini />
+[121] (912,683)<div  />
+	[122] (886,683)<img  />
+	[123] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[124] (872,970)<div  />
+	[125] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

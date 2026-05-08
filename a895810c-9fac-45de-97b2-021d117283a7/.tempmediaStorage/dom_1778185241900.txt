@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (340,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (347,25)<span  />
+		[13] (347,25)<font  />
+			[14] (347,25)<font >MIT 라이선스 />
+[15] (399,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (384,25)<span  />
+	[17] (405,25)<span  />
+		[18] (405,25)<font  />
+			[19] (405,25)<font >보안 />
+[20] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_18_' />
+[22] (419,123)<a href='https://trendshift.io/repositories/14116' />
+	[23] (419,101)<img  />
+[24] (372,176)<a href='https://github.com/LearningCircuit/local-deep-research/commits/main' />
+	[25] (372,168)<img  />
+[26] (482,176)<a href='https://github.com/LearningCircuit/local-deep-research/commits/main' />
+	[27] (482,168)<img  />
+[28] (343,229)<a href='https://huggingface.co/datasets/local-deep-research/ldr-benchmarks' />
+	[29] (343,221)<img  />
+[30] (479,229)<a href='/LearningCircuit/local-deep-research/blob/main/docs/SQLCIPHER_INSTALL.md' />
+	[31] (479,221)<img  />
+[32] (316,273)<a href='https://securityscorecards.dev/viewer/?uri=github.com/LearningCircuit/local-deep-research' />
+	[33] (316,269)<img  />
+[34] (401,273)<a href='https://github.com/LearningCircuit/local-deep-research/security/code-scanning' />
+	[35] (401,269)<img  />
+[36] (503,273)<a href='https://github.com/LearningCircuit/local-deep-research/actions/workflows/semgrep.yml' />
+	[37] (503,269)<img  />
+[38] (419,318)<a href='https://github.com/LearningCircuit/local-deep-research/actions/workflows/pre-commit.yml' />
+	[39] (419,314)<img  />
+[40] (376,362)<a href='https://github.com/LearningCircuit/local-deep-research/actions/workflows/docker-publish.yml' />
+	[41] (376,358)<img  />
+[42] (471,362)<a href='https://github.com/LearningCircuit/local-deep-research/actions/workflows/publish.yml' />
+	[43] (471,358)<img  />
+[44] (297,415)<a href='https://discord.gg/ttcqQeFcJ3' />
+	[45] (297,407)<img  />
+[46] (415,415)<a href='https://www.reddit.com/r/LocalDeepResearch/' />
+	[47] (415,407)<img  />
+[48] (537,415)<a href='https://www.youtube.com/@local-deep-research' />
+	[49] (537,407)<img  />
+심층적이고 능동적인 연구를 위한 AI 기반 연구 보조 도구
+다양한 LLM과 검색 엔진을 활용하여 적절한 인용을 포함한 심층적이고 능동적인 연구를 수행합니다.
+[50] (419,542)<a href='https://www.youtube.com/watch?v=pfxgLX-MxMY&t=1999' />
+	[51] (354,543)<g-emoji  />
+		[52] (354,543)<font  />
+			[53] (354,545)<font >▶️ />
+	[54] (426,542)<font  />
+		[55] (426,542)<font >The Art Of The Terminal의 시계 리뷰 />
+🚀 로컬 심층 연구란 무엇일까요?
+[56] (193,596)<a aria-label='고유 링크: 🚀 로컬 딥 리서치란 무엇일까요?' class='anchor' href='#-what-is-local-deep-research' id='user-content--what-is-local-deep-research' />
+직접 제어하는 ​​AI 연구 도우미입니다. 개인 정보 보호를 위해 로컬에서 실행하고, 모든 LLM을 사용하며, 검색 가능한 지식 기반을 구축할 수 있습니다. 데이터의 소유권을 갖고 데이터 활용 방식을 정확히 파악할 수 있습니다.
+⚡ 빠른 시작
+[57] (193,730)<a aria-label='고유 링크: ⚡ 빠른 시작' class='anchor' href='#-quick-start' id='user-content--quick-start' />
+옵션 1: Docker Run (리눅스)
+#
+Step 1: Pull and run Ollama
+docker run -d -p 11434:11434 --name ollama ollama/ollama
+docker
+exec
+ollama ollama pull gpt-oss:20b
+#
+Step 2: Pull and run SearXNG for optimal search results
+docker run -d -p 8080:8080 --name searxng searxng/searxng
+#
+Step 3: Pull and run Local Deep Research
+docker run -d -p 5000:5000 --network host \
+  --name local-deep-research \
+  --volume
+[58] (626,838)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

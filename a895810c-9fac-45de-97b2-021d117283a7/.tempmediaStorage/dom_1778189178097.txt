@@ -1,0 +1,91 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	오픈 릴 비디오
+	아이디어 구상부터 수출까지.
+	브라우저에서.
+	원하는 형식을 선택하고 제작을 시작하세요. 언제든지 변경할 수 있습니다.
+	[1] (364,610)<button class='
+                    group relative flex flex-col items-center p-6 rounded-2xl
+                    bg-background-secondary border border-border
+                    hover:border-primary/40 hover:bg-background-tertiary
+                    transition-all duration-200
+                    
+                  ' />
+		[2] (364,610)<div  />
+			[3] (364,555)<div  />
+			[4] (364,621)<h3  />
+				[5] (364,620)<font  />
+					[6] (364,620)<font >수직의 />
+			[7] (364,650)<p  />
+				[8] (364,650)<font  />
+					[9] (364,650)<font >틱톡, 릴스, 쇼츠 />
+			[10] (364,686)<span  />
+				[11] (364,686)<font  />
+					[12] (364,686)<font >1080 × 1920 />
+		[13] (364,705)<div  />
+			[14] (359,705)<font  />
+				[15] (359,705)<font  />
+	[16] (500,610)<button class='
+                    group relative flex flex-col items-center p-6 rounded-2xl
+                    bg-background-secondary border border-border
+                    hover:border-primary/40 hover:bg-background-tertiary
+                    transition-all duration-200
+                    
+                  ' />
+		[17] (500,610)<div  />
+			[18] (500,555)<div  />
+			[19] (500,621)<h3  />
+				[20] (500,620)<font  />
+					[21] (500,620)<font >수평의 />
+			[22] (500,650)<p  />
+				[23] (500,650)<font  />
+					[24] (500,650)<font >유튜브, 비메오, 웹 />
+			[25] (500,686)<span  />
+				[26] (500,686)<font  />
+					[27] (500,686)<font >1920 × 1080 />
+		[28] (500,705)<div  />
+			[29] (495,705)<font  />
+				[30] (495,705)<font  />
+	[31] (636,610)<button class='
+                    group relative flex flex-col items-center p-6 rounded-2xl
+                    bg-background-secondary border border-border
+                    hover:border-primary/40 hover:bg-background-tertiary
+                    transition-all duration-200
+                    
+                  ' />
+		[32] (636,610)<div  />
+			[33] (636,555)<div  />
+			[34] (636,621)<h3  />
+				[35] (636,620)<font  />
+					[36] (636,620)<font >정사각형 />
+			[37] (636,650)<p  />
+				[38] (636,650)<font  />
+					[39] (636,650)<font >인스타그램, 페이스북 />
+			[40] (636,686)<span  />
+				[41] (636,686)<font  />
+					[42] (636,686)<font >1080 × 1080 />
+		[43] (636,705)<div  />
+			[44] (631,705)<font  />
+				[45] (631,705)<font  />
+	[46] (422,789)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl' />
+		[47] (428,789)<font  />
+			[48] (428,789)<font >템플릿 찾아보기 />
+	[49] (507,789)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl' />
+		[50] (514,789)<font  />
+			[51] (514,789)<font >최근 프로젝트 />
+	[52] (586,789)<button class='inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 rounded-xl' />
+		[53] (592,789)<font  />
+			[54] (592,789)<font >편집기 열기 />
+	[55] (427,962)<button class='peer inline-flex h-6 w-11 shrink-0 cursor-pointer items-center rounded-full border-2 border-transparent transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:cursor-not-allowed disabled:opacity-50 data-[state=checked]:bg-primary data-[state=unchecked]:bg-input' id='skip-welcome' role='switch' />
+	[56] (466,962)<label class='font-medium peer-disabled:cursor-not-allowed peer-disabled:opacity-70 text-xs text-text-muted cursor-pointer' />
+		[57] (466,962)<font  />
+			[58] (466,962)<font >시작 시 건너뛰기 />
+	·
+	건너뛰
+	려면 누르세요
+	Esc
+
+</current_dom>

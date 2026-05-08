@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (70,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/trending' />
+	[3] (70,34)<span >Trending />
+[4] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[5] (766,34)<span  />
+		[6] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+[17] (257,97)<a class='js-selected-navigation-item d-inline-block subnav-primary f5 py-0 tmp-py-md-3 mt-2 mt-md-0 mr-0 tmp-mr-md-4 no-underline subnav-link' href='/explore'>Explore />
+[18] (291,97)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/topics'>Topics />
+[19] (328,97)<a class='js-selected-navigation-item selected d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/trending'>Trending />
+[20] (373,97)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/collections'>Collections />
+[21] (413,97)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/events'>Events />
+[22] (463,97)<a class='js-selected-navigation-item d-inline-block py-2 tmp-py-md-3 tmp-mr-3 tmp-mr-md-4 no-underline subnav-link' href='/sponsors/explore'>GitHub Sponsors />
+Trending
+See what the GitHub community is most excited about today.
+[23] (283,376)<a class='js-selected-navigation-item selected subnav-item' href='/trending'>Repositories />
+[24] (339,376)<a class='js-selected-navigation-item subnav-item' href='/trending/developers'>Developers />
+[25] (548,376)<details class='details-reset details-overlay select-menu select-menu-modal-right hx_rsm' id='select-menu-spoken-language' />
+	[26] (548,376)<summary class='select-menu-button btn-link' role='button'>Spoken Language: />
+		[27] (577,376)<span >Any />
+[28] (631,376)<details class='details-reset details-overlay select-menu select-menu-modal-right hx_rsm' id='select-menu-language' />
+	[29] (631,376)<summary class='select-menu-button btn-link' role='button'>Language: />
+		[30] (646,376)<span >Any />
+[31] (706,376)<details class='details-reset details-overlay select-menu select-menu-modal-right hx_rsm hx_rsm--auto-height' id='select-menu-date' />
+	[32] (706,376)<summary class='select-menu-button btn-link' role='button'>Date range: />
+		[33] (724,376)<span >Today />
+[34] (709,442)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[35] (717,442)<span >Star />
+[36] (738,442)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1165056385-unstarred-button' />
+[37] (330,441)<a class='Link' href='/anthropics/financial-services'>financial-services />
+	[38] (296,441)<span >anthropics / />
+Python
+[39] (305,474)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/anthropics/financial-services/stargazers'>11,191 />
+[40] (342,474)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/anthropics/financial-services/forks'>1,456 />
+Built by
+[41] (392,476)<a class='d-inline-block' href='/cxyback' />
+	[42] (392,474)<img  />
+[43] (404,476)<a class='d-inline-block' href='/manar-ant' />
+	[44] (404,474)<img  />
+[45] (416,476)<a class='d-inline-block' href='/mihilmy' />
+	[46] (416,474)<img  />
+[47] (428,476)<a class='d-inline-block' href='/tobinsouth' />
+	[48] (428,474)<img  />
+[49] (440,476)<a class='d-inline-block' href='/vinitra-ant' />
+	[50] (440,474)<img  />
+1,367 stars today
+[51] (709,538)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[52] (717,538)<span >Star />
+[53] (738,538)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1137711311-unstarred-button' />
+[54] (320,536)<a class='Link' href='/Hmbown/DeepSeek-TUI'>DeepSeek-TUI />
+	[55] (293,536)<span >Hmbown / />
+Coding agent for DeepSeek models that runs in your terminal
+Rust
+[56] (298,596)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/Hmbown/DeepSeek-TUI/stargazers'>18,417 />
+[57] (334,596)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/Hmbown/DeepSeek-TUI/forks'>1,393 />
+Built by
+[58] (385,598)<a class='d-inline-block' href='/Hmbown' />
+	[59] (385,596)<img  />
+[60] (397,598)<a class='d-inline-block' href='/claude' />
+	[61] (397,596)<img  />
+[62] (409,598)<a class='d-inline-block' href='/angziii' />
+	[63] (409,596)<img  />
+[64] (421,598)<a class='d-inline-block' href='/apps/gemini-code-assist' />
+	[65] (421,596)<img  />
+[66] (433,598)<a class='d-inline-block' href='/reidliu41' />
+	[67] (433,596)<img  />
+5,787 stars today
+[68] (709,659)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[69] (717,659)<span >Star />
+[70] (738,659)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1127887181-unstarred-button' />
+[71] (291,658)<a class='Link' href='/z-lab/dflash'>dflash />
+	[72] (283,658)<span >z-lab / />
+DFlash: Block Diffusion for Flash Speculative Decoding
+Python
+[73] (303,717)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/z-lab/dflash/stargazers'>3,424 />
+[74] (336,717)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/z-lab/dflash/forks'>242 />
+Built by
+[75] (384,720)<a class='d-inline-block' href='/jianc99' />
+	[76] (384,717)<img  />
+[77] (396,720)<a class='d-inline-block' href='/shaun0927' />
+	[78] (396,717)<img  />
+[79] (408,720)<a class='d-inline-block' href='/zhijian-liu' />
+	[80] (408,717)<img  />
+[81] (420,720)<a class='d-inline-block' href='/xiziqiao' />
+	[82] (420,717)<img  />
+654 stars today
+[83] (664,781)<a aria-label='Sponsor @InsForge' class='Button--secondary Button--small Button mr-2 tmp-mr-2' href='/sponsors/InsForge' />
+	[84] (664,781)<span  />
+		[85] (664,781)<span  />
+			[86] (670,781)<span >Sponsor />
+[87] (709,781)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[88] (717,781)<span >Star />
+[89] (738,781)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1028159967-unstarred-button' />
+[90] (305,779)<a class='Link' href='/InsForge/InsForge'>InsForge />
+	[91] (292,779)<span >InsForge / />
+InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
+TypeScript
+[92] (313,861)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/InsForge/InsForge/stargazers'>8,786 />
+[93] (345,861)<a class='tmp-mr-3 Link Link--muted d-inline-block' href='/InsForge/InsForge/forks'>727 />
+Built by
+[94] (393,863)<a class='d-inline-block' href='/Fermionic-Lyu' />
+	[95] (393,861)<img  />
+[96] (405,863)<a class='d-inline-block' href='/tonychang04' />
+	[97] (405,861)<img  />
+[98] (417,863)<a class='d-inline-block' href='/Leo-rq-yu' />
+	[99] (417,861)<img  />
+[100] (429,863)<a class='d-inline-block' href='/jwfing' />
+	[101] (429,861)<img  />
+[102] (442,863)<a class='d-inline-block' href='/claude' />
+	[103] (442,861)<img  />
+459 stars today
+[104] (664,925)<a aria-label='Sponsor @LearningCircuit' class='Button--secondary Button--small Button mr-2 tmp-mr-2' href='/sponsors/LearningCircuit' />
+	[105] (664,925)<span  />
+		[106] (664,925)<span  />
+			[107] (670,925)<span >Sponsor />
+[108] (709,925)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[109] (717,925)<span >Star />
+[110] (738,925)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-929868765-unstarred-button' />
+[111] (346,923)<a class='Link' href='/LearningCircuit/local-deep-research'>local-deep-research />
+	[112] (306,923)<span >LearningCircuit / />
+~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+Python
+6,160
+544
+Built by
+564 stars today
+
+</current_dom>

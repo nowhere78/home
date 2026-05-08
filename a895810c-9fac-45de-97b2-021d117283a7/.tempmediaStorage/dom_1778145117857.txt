@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+하부 구조
+[41] (219,285)<a class='md-nav__link' href='../llm-frameworks/' />
+	[42] (202,285)<span  />
+		[43] (202,284)<font  />
+			[44] (202,284)<font >LLM 응용 프레임워크 />
+[45] (219,325)<a class='md-nav__link' href='../rag-vector-db/' />
+	[46] (211,325)<span  />
+		[47] (211,324)<font  />
+			[48] (211,324)<font >RAG 및 벡터 데이터베이스 />
+[49] (219,365)<a class='md-nav__link md-nav__link--active' href='./' />
+	[50] (220,365)<span  />
+		[51] (220,365)<font  />
+			[52] (220,365)<font >대규모 AI를 위한 데이터 인프라 />
+[53] (223,427)<a class='md-nav__link' href='#data-lakehouse-analytical-processing' />
+	[54] (224,427)<span  />
+		[55] (219,426)<font  />
+			[56] (219,426)<font >데이터 레이크하우스 및 분석 처리 />
+[57] (223,494)<a class='md-nav__link' href='#mlops-experiment-tracking' />
+	[58] (214,494)<span  />
+		[59] (214,493)<font  />
+			[60] (214,493)<font >MLOps 및 실험 추적 />
+[61] (219,560)<a class='md-nav__link' href='../fine-tuning/' />
+	[62] (200,560)<span  />
+		[63] (200,560)<font  />
+			[64] (200,560)<font >LLM 미세 조정 기법 />
+[65] (219,601)<a class='md-nav__link' href='../deployment/' />
+	[66] (208,601)<span  />
+		[67] (208,600)<font  />
+			[68] (208,600)<font >LLM 배포 및 서비스 제공 />
+[69] (219,641)<a class='md-nav__link' href='../distributed-training/' />
+	[70] (205,641)<span  />
+		[71] (205,640)<font  />
+			[72] (205,640)<font >분산형 교육 프레임워크 />
+[73] (219,681)<a class='md-nav__link' href='../compute-hardware/' />
+	[74] (211,681)<span  />
+		[75] (211,680)<font  />
+			[76] (211,680)<font >컴퓨팅, 하드웨어 및 양자화 />
+[77] (219,721)<a class='md-nav__link' href='../prompt-engineering/' />
+	[78] (200,721)<span  />
+		[79] (200,721)<font  />
+			[80] (200,721)<font >프롬프트 엔지니어링 />
+대규모 AI를 위한 데이터 인프라
+[81] (743,331)<a class='headerlink' href='#data-infrastructure-for-ai-at-scale' title='영구 링크' />
+	[82] (743,330)<font  />
+		[83] (743,330)<font  />
+AGI 시스템은 근본적으로 데이터 계층에 의해 제약을 받습니다. 최첨단 모델을 학습시키려면 페타바이트 규모의 데이터 파이프라인이 필요하고, 이를 배포하려면 1초 미만의 지연 시간으로 수백만 건의 요청을 처리할 수 있는 인프라가 필요합니다. 초지능 구현에 필요한 SRE(사이트 신뢰성 엔지니어링) 및 데이터 엔지니어링 과제는 머신러닝 자체만큼이나 어렵습니다.
+[84] (351,703)<a class='glightbox' href='https://img.shields.io/badge/Data-Lakehouse-blue?style=flat-square' />
+	[85] (351,700)<img  />
+[86] (427,703)<a class='glightbox' href='https://img.shields.io/badge/MLOps-Experiment_Tracking-green?style=flat-square' />
+	[87] (427,700)<img  />
+[88] (517,703)<a class='glightbox' href='https://img.shields.io/badge/Infrastructure-Kubernetes-purple?style=flat-square' />
+	[89] (517,700)<img  />
+[90] (587,703)<a class='glightbox' href='https://img.shields.io/badge/Scale-Petabyte-orange?style=flat-square' />
+	[91] (587,700)<img  />
+데이터 레이크하우스 및 분석 처리
+[92] (617,798)<a class='headerlink' href='#data-lakehouse-analytical-processing' title='영구 링크' />
+	[93] (617,797)<font  />
+		[94] (617,797)<font  />
+이름
+설명
+모래밭
+아파치 아이스버그
+대규모 분석 데이터 세트를 위한 개방형 테이블 형식. 데이터 레이크에서 ACID 트랜잭션, 타임 트래블, 스키마 진화 및 파티션 진화를 지원합니다. AI 학습 데이터 관리의 새로운 표준으로 자리 잡았으며 (넷플릭스, 애플, 스노우플레이크에서 채택), 버전 4에서는 행 계보 추적 기능이 추가되었습니다.
+iceberg.apache.org
+,
+
+</current_dom>

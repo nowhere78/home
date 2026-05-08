@@ -1,0 +1,11 @@
+# V10 Whale/Anomaly Tracker Task List
+
+- [/] Create Task List
+- [ ] Refactor `upbit_hyper_scalper.py`
+  - [ ] Implement Volume Spike detection (e.g., 1m volume > 500% of MA60)
+  - [ ] Update JSON prompt to include anomaly contexts ("고래매집", "볼륨폭발")
+  - [ ] Add smart filter to avoid buying when large volume is combined with a huge drop (whale dumping)
+- [ ] Update `swarm_runner.py` (Shorts Pipeline)
+  - [ ] Adjust `on_trade_success` to properly pass 'Whale Anomaly' metadata to video generator
+- [ ] Verify functionality and logging
+- [ ] Create Walkthrough Artifact

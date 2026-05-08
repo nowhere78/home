@@ -1,0 +1,221 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (264,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (271,25)<span  />
+		[8] (271,25)<font  />
+			[9] (271,25)<font >특허 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[12] (419,480)<div  />
+	버그를 신고하거나 기능 추가를 요청하세요
+	풀 리퀘스트를 제출해 주세요 (기존에 해당 기능/버그에 대한 이슈가 없는 경우, 먼저 이슈를 생성하여 논의해 주시기 바랍니다).
+	연구 결과와 활용 사례를 공유해 주세요.
+	최신 정보를 받아보세요
+	: 저장소에 별표를 표시하고 Discord에 가입하여 최신 업데이트를 확인하세요.
+	소환
+	[13] (193,205)<a aria-label='고유 링크: 인용' class='anchor' href='#citation' id='user-content-citation' />
+	TabPFNv2에 대한 설명은
+	[14] (305,259)<a href='https://doi.org/10.1038/s41586-024-08328-6' />
+		[15] (305,259)<font  />
+			[16] (305,259)<font >여기에서 />
+	, TabPFN-2.5 모델 보고서는
+	[17] (436,259)<a href='https://arxiv.org/abs/2511.08667' />
+		[18] (436,259)<font  />
+			[19] (436,259)<font >여기에서 />
+	확인하실 수 있습니다 .
+	[20] (407,658)<pre scrollable='true'>@misc
+{
+grinsztajn2025tabpfn
+,
+title
+=
+TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models
+,
+author
+=
+Léo Grinsztajn and Klemens Flöge and Oscar Key and Felix Birkel and Philipp Jund and Brendan Roof and
+Benjamin Jäger and Dominik Safaric and Simone Alessi and Adrian Hayler and Mihir Manium and Rosen Yu and
+Felix Jablonski and Shi Bin Hoo and Anurag Garg and Jake Robertson and Magnus Bühler and Vladyslav Moroshan and
+Lennart Purucker and Clara Cornu and Lilly Charlotte Wehrhahn and Alessandro Bonetto and
+Bernhard Schölkopf and Sauraj Gambhir and Noah Hollmann and Frank Hutter
+,
+year
+=
+2025
+,
+eprint
+=
+2511.08667
+,
+archivePrefix
+=
+arXiv
+,
+url
+=
+https://arxiv.org/abs/2511.08667
+,
+}
+@article
+{
+hollmann2025tabpfn
+,
+title
+=
+Accurate predictions on small data with a tabular foundation model
+,
+author
+=
+Hollmann, Noah and M{\"u}ller, Samuel and Purucker, Lennart and
+Krishnakumar, Arjun and K{\"o}rfer, Max and Hoo, Shi Bin and
+Schirrmeister, Robin Tibor and Hutter, Frank
+,
+journal
+=
+Nature
+,
+year
+=
+2025
+,
+month
+=
+01
+,
+day
+=
+09
+,
+doi
+=
+10.1038/s41586-024-08328-6
+,
+publisher
+=
+Springer Nature
+,
+url
+=
+https://www.nature.com/articles/s41586-024-08328-6
+,
+}
+@inproceedings
+{
+hollmann2023tabpfn
+,
+title
+=
+TabPFN: A transformer that solves small tabular classification problems in a second
+,
+author
+=
+Hollmann, Noah and M{\"u}ller, Samuel and Eggensperger, Katharina and Hutter, Frank
+,
+booktitle
+=
+International Conference on Learning Representations 2023
+,
+year
+=
+2023
+} />
+		@misc
+		grinsztajn2025tabpfn
+		title
+		{
+		TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models
+		}
+		author
+		{
+		Léo Grinsztajn and Klemens Flöge and Oscar Key and Felix Birkel and Philipp Jund and Brendan Roof and
+		Benjamin Jäger and Dominik Safaric and Simone Alessi and Adrian Hayler and Mihir Manium and Rosen Yu and
+		Felix Jablonski and Shi Bin Hoo and Anurag Garg and Jake Robertson and Magnus Bühler and Vladyslav Moroshan and
+		Lennart Purucker and Clara Cornu and Lilly Charlotte Wehrhahn and Alessandro Bonetto and
+		Bernhard Schölkopf and Sauraj Gambhir and Noah Hollmann and Frank Hutter
+		}
+		year
+		{
+		2025
+		}
+		eprint
+		{
+		2511.08667
+		}
+		archivePrefix
+		{
+		arXiv
+		}
+		url
+		{
+		https://arxiv.org/abs/2511.08667
+		}
+		@article
+		hollmann2025tabpfn
+		title
+		{
+		Accurate predictions on small data with a tabular foundation model
+		}
+		author
+		{
+		Hollmann, Noah and M{\"u}ller, Samuel and Purucker, Lennart and
+		Krishnakumar, Arjun and K{\"o}rfer, Max and Hoo, Shi Bin and
+		Schirrmeister, Robin Tibor and Hutter, Frank
+		}
+		journal
+		{
+		Nature
+		}
+		year
+		{
+		2025
+		}
+		month
+		{
+		01
+		}
+		day
+		{
+		09
+		}
+		doi
+		{
+		10.1038/s41586-024-08328-6
+		}
+		publisher
+		{
+		Springer Nature
+		}
+		url
+		{
+		https://www.nature.com/articles/s41586-024-08328-6
+		}
+		@inproceedings
+		hollmann2023tabpfn
+		title
+		{
+		TabPFN: A transformer that solves small tabular classification problems in a second
+		}
+		author
+		{
+		Hollmann, Noah and M{\"u}ller, Samuel and Eggensperger, Katharina and Hutter, Frank
+		}
+		booktitle
+		{
+		International Conference on Learning Representations 2023
+		}
+		year
+		{
+		2023
+		}
+	[21] (626,312)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

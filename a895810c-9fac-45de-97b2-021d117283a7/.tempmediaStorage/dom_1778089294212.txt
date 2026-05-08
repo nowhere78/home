@@ -1,0 +1,475 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (82,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/datawhalechina' />
+	[3] (82,34)<span  />
+		[4] (82,33)<font  />
+			[5] (82,33)<font >데이터웨일차이나 />
+[6] (136,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/datawhalechina/self-llm' />
+	[7] (136,34)<span  />
+		[8] (136,33)<font  />
+			[9] (136,33)<font >셀프-llm />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (81,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+	[33] (100,80)<span  />
+		[34] (100,80)<span  />
+			[35] (100,80)<font  />
+				[36] (100,80)<font >155 />
+		(
+		155
+		)
+[37] (148,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/pulls' />
+	[38] (125,80)<span  />
+	[39] (154,80)<span  />
+		[40] (154,80)<font  />
+			[41] (154,80)<font >풀 리퀘스트 />
+[42] (212,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/agents?author=nowhere78' />
+	[43] (192,80)<span  />
+	[44] (218,80)<span  />
+		[45] (218,80)<font  />
+			[46] (218,80)<font >자치령 대표 />
+[47] (267,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/actions' />
+	[48] (253,80)<span  />
+	[49] (273,80)<span  />
+		[50] (273,80)<font  />
+			[51] (273,80)<font >행위 />
+[52] (318,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/projects' />
+	[53] (302,80)<span  />
+	[54] (324,80)<span  />
+		[55] (324,80)<font  />
+			[56] (324,80)<font >프로젝트 />
+[57] (389,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/security' />
+	[58] (354,80)<span  />
+	[59] (395,80)<span  />
+		[60] (395,80)<font  />
+			[61] (395,80)<font >보안 및 품질 />
+[62] (460,80)<a class='prc-components-UnderlineItem-7fP-n' href='/datawhalechina/self-llm/pulse' />
+	[63] (445,80)<span  />
+	[64] (466,80)<span  />
+		[65] (466,80)<font  />
+			[66] (466,80)<font >인사이트 />
+[67] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[68] (65,190)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[69] (65,190)<span  />
+		[70] (58,190)<span  />
+			[71] (58,190)<div  />
+				[72] (19,190)<div  />
+				[73] (33,190)<div  />
+					[74] (33,190)<span  />
+						[75] (34,190)<font  />
+							[76] (34,190)<font >주인 />
+[77] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/datawhalechina/self-llm/new/master/models/Gemma2' />
+[78] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[79] (83,233)<span  />
+	[80] (17,233)<span  />
+	[81] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[82] (148,233)<span  />
+		[83] (148,233)<kbd  />
+			[84] (148,233)<span >t />
+				t
+				[85] (148,233)<span >T />
+[86] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[87] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[88] (79,279)<div  />
+			[89] (13,279)<div  />
+			[90] (84,279)<div  />
+				[91] (25,279)<div  />
+					[92] (25,279)<div  />
+				[93] (90,279)<span  />
+					[94] (45,279)<span  />
+						[95] (45,279)<font  />
+							[96] (45,279)<font >.github />
+	[97] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='dataset-item' role='treeitem' />
+		[98] (79,314)<div  />
+			[99] (13,314)<div  />
+			[100] (84,314)<div  />
+				[101] (25,313)<div  />
+					[102] (25,313)<div  />
+				[103] (90,314)<span  />
+					[104] (47,314)<span  />
+						[105] (47,314)<font  />
+							[106] (47,314)<font >데이터셋 />
+	[107] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='examples-item' role='treeitem' />
+		[108] (79,348)<div  />
+			[109] (13,348)<div  />
+			[110] (84,348)<div  />
+				[111] (25,347)<div  />
+					[112] (25,347)<div  />
+				[113] (90,348)<span  />
+					[114] (40,348)<span  />
+						[115] (40,348)<font  />
+							[116] (40,348)<font >예시 />
+	[117] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='images-item' role='treeitem' />
+		[118] (79,382)<div  />
+			[119] (13,382)<div  />
+			[120] (84,382)<div  />
+				[121] (25,382)<div  />
+					[122] (25,382)<div  />
+				[123] (90,382)<span  />
+					[124] (43,382)<span  />
+						[125] (43,382)<font  />
+							[126] (43,382)<font >이미지 />
+	[127] (79,416)<div  />
+		[128] (13,416)<div  />
+		[129] (84,416)<div  />
+			[130] (25,416)<div  />
+				[131] (25,416)<div  />
+			[132] (90,416)<span  />
+				[133] (40,416)<span  />
+					[134] (40,416)<font  />
+						[135] (40,416)<font >모델 />
+	[136] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/Atom-item' role='treeitem' />
+		[137] (79,450)<div  />
+			[138] (10,450)<div  />
+				[139] (10,450)<div  />
+					[140] (10,450)<div  />
+			[141] (17,450)<div  />
+			[142] (86,450)<div  />
+				[143] (29,450)<div  />
+					[144] (29,450)<div  />
+				[145] (92,450)<span  />
+					[146] (44,450)<span  />
+						[147] (44,450)<font  />
+							[148] (44,450)<font >원자 />
+	[149] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/BGE-M3-finetune-embedding-with-valid-item' role='treeitem' />
+		[150] (79,484)<div  />
+			[151] (10,484)<div  />
+				[152] (10,484)<div  />
+					[153] (10,484)<div  />
+			[154] (17,484)<div  />
+			[155] (86,484)<div  />
+				[156] (29,484)<div  />
+					[157] (29,484)<div  />
+				[158] (92,484)<span  />
+					[159] (88,484)<span  />
+						[160] (88,484)<font  />
+							[161] (88,484)<font >BGE-M3-finetune-임베딩-유효함 />
+	[162] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/BaiChuan-item' role='treeitem' />
+		[163] (79,518)<div  />
+			[164] (10,518)<div  />
+				[165] (10,518)<div  />
+					[166] (10,518)<div  />
+			[167] (17,518)<div  />
+			[168] (86,518)<div  />
+				[169] (29,518)<div  />
+					[170] (29,518)<div  />
+				[171] (92,518)<span  />
+					[172] (48,518)<span  />
+						[173] (48,518)<font  />
+							[174] (48,518)<font >바이촨 />
+	[175] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/BlueLM-item' role='treeitem' />
+		[176] (79,552)<div  />
+			[177] (10,552)<div  />
+				[178] (10,552)<div  />
+					[179] (10,552)<div  />
+			[180] (17,552)<div  />
+			[181] (86,552)<div  />
+				[182] (29,552)<div  />
+					[183] (29,552)<div  />
+				[184] (92,552)<span  />
+					[185] (49,552)<span  />
+						[186] (49,552)<font  />
+							[187] (49,552)<font >블루LM />
+	[188] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/CharacterGLM-item' role='treeitem' />
+		[189] (79,586)<div  />
+			[190] (10,586)<div  />
+				[191] (10,586)<div  />
+					[192] (10,586)<div  />
+			[193] (17,586)<div  />
+			[194] (86,586)<div  />
+				[195] (29,586)<div  />
+					[196] (29,586)<div  />
+				[197] (92,586)<span  />
+					[198] (55,586)<span  />
+						[199] (55,586)<font  />
+							[200] (55,586)<font >캐릭터GLM />
+	[201] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/ChatGLM-item' role='treeitem' />
+		[202] (79,620)<div  />
+			[203] (10,620)<div  />
+				[204] (10,620)<div  />
+					[205] (10,620)<div  />
+			[206] (17,620)<div  />
+			[207] (86,620)<div  />
+				[208] (29,620)<div  />
+					[209] (29,620)<div  />
+				[210] (92,620)<span  />
+					[211] (51,620)<span  />
+						[212] (51,620)<font  />
+							[213] (51,620)<font >채팅글름 />
+	[214] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/DeepSeek-Coder-V2-item' role='treeitem' />
+		[215] (79,654)<div  />
+			[216] (10,654)<div  />
+				[217] (10,654)<div  />
+					[218] (10,654)<div  />
+			[219] (17,654)<div  />
+			[220] (86,654)<div  />
+				[221] (29,654)<div  />
+					[222] (29,654)<div  />
+				[223] (92,654)<span  />
+					[224] (70,654)<span  />
+						[225] (70,654)<font  />
+							[226] (70,654)<font >DeepSeek-Coder-V2 />
+	[227] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/DeepSeek-R1-Distill-Qwen-item' role='treeitem' />
+		[228] (79,688)<div  />
+			[229] (10,688)<div  />
+				[230] (10,688)<div  />
+					[231] (10,688)<div  />
+			[232] (17,688)<div  />
+			[233] (86,688)<div  />
+				[234] (29,688)<div  />
+					[235] (29,688)<div  />
+				[236] (92,688)<span  />
+					[237] (76,688)<span  />
+						[238] (76,688)<font  />
+							[239] (76,688)<font >딥시크-R1-디스틸-Qwen />
+	[240] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/DeepSeek-item' role='treeitem' />
+		[241] (79,722)<div  />
+			[242] (10,722)<div  />
+				[243] (10,722)<div  />
+					[244] (10,722)<div  />
+			[245] (17,722)<div  />
+			[246] (86,722)<div  />
+				[247] (29,722)<div  />
+					[248] (29,722)<div  />
+				[249] (92,722)<span  />
+					[250] (48,722)<span  />
+						[251] (48,722)<font  />
+							[252] (48,722)<font >딥시크 />
+	[253] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/ERNIE-4.5-item' role='treeitem' />
+		[254] (79,756)<div  />
+			[255] (10,756)<div  />
+				[256] (10,756)<div  />
+					[257] (10,756)<div  />
+			[258] (17,756)<div  />
+			[259] (86,756)<div  />
+				[260] (29,756)<div  />
+					[261] (29,756)<div  />
+				[262] (92,756)<span  />
+					[263] (50,756)<span  />
+						[264] (50,756)<font  />
+							[265] (50,756)<font >어니-4.5 />
+	[266] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/GLM-4.1V-Thinking-item' role='treeitem' />
+		[267] (79,790)<div  />
+			[268] (10,790)<div  />
+				[269] (10,790)<div  />
+					[270] (10,790)<div  />
+			[271] (17,790)<div  />
+			[272] (86,790)<div  />
+				[273] (29,790)<div  />
+					[274] (29,790)<div  />
+				[275] (92,790)<span  />
+					[276] (62,790)<span  />
+						[277] (62,790)<font  />
+							[278] (62,790)<font >GLM-4.1V-사고 />
+	[279] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/GLM-4.5-Air-item' role='treeitem' />
+		[280] (79,824)<div  />
+			[281] (10,824)<div  />
+				[282] (10,824)<div  />
+					[283] (10,824)<div  />
+			[284] (17,824)<div  />
+			[285] (86,824)<div  />
+				[286] (29,824)<div  />
+					[287] (29,824)<div  />
+				[288] (92,824)<span  />
+					[289] (59,824)<span  />
+						[290] (59,824)<font  />
+							[291] (59,824)<font >GLM-4.5-에어 />
+	[292] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/GLM-4.7-Flash-item' role='treeitem' />
+		[293] (79,858)<div  />
+			[294] (10,858)<div  />
+				[295] (10,858)<div  />
+					[296] (10,858)<div  />
+			[297] (17,858)<div  />
+			[298] (86,858)<div  />
+				[299] (29,858)<div  />
+					[300] (29,858)<div  />
+				[301] (92,858)<span  />
+					[302] (63,858)<span  />
+						[303] (63,858)<font  />
+							[304] (63,858)<font >GLM-4.7-플래시 />
+	[305] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/GLM-4-item' role='treeitem' />
+		[306] (79,893)<div  />
+			[307] (10,893)<div  />
+				[308] (10,893)<div  />
+					[309] (10,893)<div  />
+			[310] (17,893)<div  />
+			[311] (86,893)<div  />
+				[312] (29,892)<div  />
+					[313] (29,892)<div  />
+				[314] (92,893)<span  />
+					[315] (48,893)<span  />
+						[316] (48,893)<font  />
+							[317] (48,893)<font >글림-4 />
+	[318] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/Gemma-item' role='treeitem' />
+		[319] (79,927)<div  />
+			[320] (10,927)<div  />
+				[321] (10,927)<div  />
+					[322] (10,927)<div  />
+			[323] (17,927)<div  />
+			[324] (86,927)<div  />
+				[325] (29,927)<div  />
+					[326] (29,927)<div  />
+				[327] (92,927)<span  />
+					[328] (44,927)<span  />
+						[329] (44,927)<font  />
+							[330] (44,927)<font >아체 />
+	[331] (79,961)<div  />
+		[332] (10,961)<div  />
+			[333] (10,961)<div  />
+				[334] (10,961)<div  />
+		[335] (17,961)<div  />
+		[336] (86,961)<div  />
+			[337] (29,961)<div  />
+				[338] (29,961)<div  />
+			[339] (92,961)<span  />
+				[340] (46,961)<span  />
+					[341] (46,961)<font  />
+						[342] (46,961)<font >젬마2 />
+	[343] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='models/Gemma2/images-item' role='treeitem' />
+		[344] (79,995)<div  />
+			[345] (13,995)<div  />
+				[346] (13,995)<div  />
+					[347] (10,995)<div  />
+					[348] (15,995)<div  />
+			[349] (21,995)<div  />
+			[350] (88,995)<div  />
+				[351] (33,995)<div  />
+					[352] (33,995)<div  />
+				[353] (94,995)<span  />
+					[354] (52,995)<span  />
+						[355] (52,995)<font  />
+							[356] (52,995)<font >이미지 />
+[357] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[358] (191,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/tree/master' />
+	[359] (191,139)<font  />
+		[360] (191,139)<font >셀프-llm />
+/
+[361] (227,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/tree/master/models' />
+	[362] (227,139)<font  />
+		[363] (227,139)<font >모델 />
+/
+젬마2
+/
+[364] (290,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[365] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_9m_' />
+	[366] (945,140)<span  />
+		[367] (945,140)<span  />
+			[368] (945,140)<span  />
+				[369] (941,140)<font  />
+					[370] (941,140)<font >파일 추가 />
+더 많은 옵션
+[371] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='더 많은 옵션' />
+최신 커밋
+[372] (190,198)<a class='prc-Link-Link-9ZwDx' href='/Dormiveglia-elf' />
+	[373] (188,199)<img  />
+[374] (226,198)<a aria-label='Dormiveglia-elf의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/commits?author=Dormiveglia-elf' />
+	[375] (226,198)<font  />
+		[376] (226,198)<font >도르미벨리아-엘프 />
+[377] (289,198)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/997516b793ffed1fc5481db232289d974f7d0ee2' />
+	[378] (289,198)<font  />
+		[379] (289,198)<font >수정: 문서 경로 오타 />
+[380] (929,198)<a aria-label='커밋 997516b' class='Link--secondary prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/commit/997516b793ffed1fc5481db232289d974f7d0ee2' />
+	[381] (929,198)<font  />
+		[382] (929,198)<font >997516b />
+·
+벨
+역사
+[383] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/datawhalechina/self-llm/commits/master/models/Gemma2' />
+	[384] (971,198)<span  />
+		[385] (977,198)<span  />
+			[386] (977,197)<span  />
+				[387] (977,197)<font  />
+					[388] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[389] (584,304)<tr  />
+	상위 디렉토리
+	[390] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/datawhalechina/self-llm/tree/master/models' />
+		[391] (584,304)<div  />
+			[392] (201,304)<font  />
+				[393] (201,304)<font >.. />
+[394] (584,347)<tr  />
+	[395] (208,347)<a aria-label='이미지, (디렉토리)' class='Link--primary' href='/datawhalechina/self-llm/tree/master/models/Gemma2/images' title='이미지' />
+		[396] (208,347)<font  />
+			[397] (208,347)<font >이미지 />
+	[398] (560,347)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5877a4145103b8a4c57a54b0dac6bf019537aa08' title='优化项目结构，增加 예제 ToDo' />
+		[399] (560,347)<font  />
+			[400] (560,347)<font >优化项目结构，增加 예제 ToDo />
+	2년 전
+[401] (584,390)<tr  />
+	[402] (266,390)<a aria-label='01-Gemma-2-9b-it FastApi 부署调사용.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models/Gemma2/01-Gemma-2-9b-it%20FastApi%20%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md' title='01-Gemma-2-9b-it FastApi 부署调사용.md' />
+		[403] (266,390)<font  />
+			[404] (266,390)<font >01-Gemma-2-9b-it FastApi 부署调사용.md />
+	[405] (560,390)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5877a4145103b8a4c57a54b0dac6bf019537aa08' title='优化项目结构，增加 예제 ToDo' />
+		[406] (560,390)<font  />
+			[407] (560,390)<font >优化项目结构，增加 예제 ToDo />
+	2년 전
+[408] (584,433)<tr  />
+	[409] (259,434)<a aria-label='02-Gemma-2-9b-it langchain 接入.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models/Gemma2/02-Gemma-2-9b-it%20langchain%20%E6%8E%A5%E5%85%A5.md' title='02-Gemma-2-9b-it langchain 接入.md' />
+		[410] (259,434)<font  />
+			[411] (259,434)<font >02-Gemma-2-9b-it langchain 接入.md />
+	[412] (561,434)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/0348bdd39425be8966a64347d1c4669435255d23' title='수정됨: gemma2 langchian 경로' />
+		[413] (561,434)<font  />
+			[414] (561,434)<font >수정됨: gemma2 langchian 경로 />
+	2년 전
+[415] (584,477)<tr  />
+	[416] (265,477)<a aria-label='03-Gemma-2-9b-it WebDemo PART署.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models/Gemma2/03-Gemma-2-9b-it%20WebDemo%20%E9%83%A8%E7%BD%B2.md' title='03-Gemma-2-9b-it WebDemo PART署.md' />
+		[417] (265,477)<font  />
+			[418] (265,477)<font >03-Gemma-2-9b-it WebDemo PART署.md />
+	[419] (560,477)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5877a4145103b8a4c57a54b0dac6bf019537aa08' title='优化项目结构，增加 예제 ToDo' />
+		[420] (560,477)<font  />
+			[421] (560,477)<font >优化项目结构，增加 예제 ToDo />
+	2년 전
+[422] (584,520)<tr  />
+	[423] (260,521)<a aria-label='04-Gemma-2-9b-it peft lora微调.ipynb, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models/Gemma2/04-Gemma-2-9b-it%20peft%20lora%E5%BE%AE%E8%B0%83.ipynb' title='04-Gemma-2-9b-it peft lora微调.ipynb' />
+		[424] (260,521)<font  />
+			[425] (260,521)<font >04-Gemma-2-9b-it peft lora微调.ipynb />
+	[426] (560,521)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/5877a4145103b8a4c57a54b0dac6bf019537aa08' title='优化项目结构，增加 예제 ToDo' />
+		[427] (560,521)<font  />
+			[428] (560,521)<font >优化项目结构，增加 예제 ToDo />
+	2년 전
+[429] (584,563)<tr  />
+	[430] (256,564)<a aria-label='04-Gemma-2-9b-it peft lora微调.md, (파일)' class='Link--primary' href='/datawhalechina/self-llm/blob/master/models/Gemma2/04-Gemma-2-9b-it%20peft%20lora%E5%BE%AE%E8%B0%83.md' title='04-Gemma-2-9b-it peft lora微调.md' />
+		[431] (256,564)<font  />
+			[432] (256,564)<font >04-Gemma-2-9b-it peft lora微调.md />
+	[433] (541,564)<a class='Link--secondary' href='/datawhalechina/self-llm/commit/997516b793ffed1fc5481db232289d974f7d0ee2' title='수정: 문서 경로 오타' />
+		[434] (541,564)<font  />
+			[435] (541,564)<font >수정: 문서 경로 오타 />
+	벨
+
+</current_dom>

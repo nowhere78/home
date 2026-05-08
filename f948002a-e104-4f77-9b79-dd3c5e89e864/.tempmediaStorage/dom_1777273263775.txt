@@ -1,0 +1,98 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Google Cloud iX용 봇
+[0] (71,85)<a class='Link--secondary no-underline no-wrap' href='https://github.com/cloud-ix-copybara?tab=followers' />
+	[1] (82,85)<font  />
+		[2] (68,85)<font >팔로워 />
+		[3] (104,85)<span  />
+			[4] (104,85)<font >21명 />
+·
+[5] (149,85)<a class='Link--secondary no-underline no-wrap' href='https://github.com/cloud-ix-copybara?tab=following' />
+	[6] (149,85)<font >팔로잉 />
+[7] (186,85)<a class='Link--secondary no-underline no-wrap' href='https://github.com/cloud-ix-copybara?tab=following' />
+	[8] (186,85)<span  />
+		[9] (186,85)<font >0 명 />
+가입함
+지난주
+[10] (92,186)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-791acb57-74e0-47a2-a081-8b3b26c63702' />
+	[11] (92,186)<span  />
+		[12] (92,186)<span  />
+			[13] (92,186)<font  />
+				[14] (92,186)<font >사용자 차단 또는 신고 />
+[15] (343,7)<a class='d-inline-block' href='/kreangsak' />
+	[16] (343,7)<img  />
+[17] (343,128)<a class='d-inline-block' href='/infocosmos' />
+	[18] (343,128)<img  />
+[19] (470,106)<a class='d-inline-block no-underline mb-1' href='/infocosmos' />
+	[20] (470,106)<span  />
+		[21] (470,106)<font  />
+			[22] (470,106)<font >인포코스모스 />
+[23] (944,108)<input aria-label='인포코스모스를 팔로우하세요' class='btn btn-sm' title='인포코스모스를 팔로우하세요' />
+[24] (343,248)<a class='d-inline-block' href='/jesperalmstrom' />
+	[25] (343,248)<img  />
+[26] (544,226)<a class='d-inline-block no-underline mb-1' href='/jesperalmstrom' />
+	[27] (488,226)<span  />
+		[28] (488,226)<font  />
+			[29] (488,226)<font >제스퍼 앰스트롬 />
+	[30] (603,227)<span  />
+		[31] (605,227)<font  />
+			[32] (605,227)<font >제스페랄름스트롬 />
+AWS 클라우드 아키텍트
+[33] (590,253)<a class='user-mention notranslate' href='https://github.com/Buzzcloud'>@Buzzcloud />
+| 핀옵스 | 클라우드 환경에서 항상 자동화 및 최적화를 구현합니다.
+@Buzzcloud
+예테보리
+[34] (944,229)<input aria-label='jesperalmstrom을 팔로우하세요' class='btn btn-sm' title='jesperalmstrom을 팔로우하세요' />
+[35] (343,395)<a class='d-inline-block' href='/hindalernazarov' />
+	[36] (343,395)<img  />
+[37] (484,374)<a class='d-inline-block no-underline mb-1' href='/hindalernazarov' />
+	[38] (484,374)<span  />
+		[39] (484,374)<font  />
+			[40] (484,374)<font >힌달레르나자로프 />
+[41] (944,376)<input aria-label='힌달레르나자로프를 팔로우하세요' class='btn btn-sm' title='힌달레르나자로프를 팔로우하세요' />
+[42] (343,516)<a class='d-inline-block' href='/D4lv14k' />
+	[43] (343,516)<img  />
+[44] (555,494)<a class='d-inline-block no-underline mb-1' href='/D4lv14k' />
+	[45] (527,494)<span  />
+		[46] (527,494)<font  />
+			[47] (527,494)<font >리처드 J 카르도나 메르카도 />
+	[48] (651,495)<span  />
+		[49] (653,495)<font  />
+			[50] (653,495)<font >D4lv14k />
+미국
+[51] (944,496)<input aria-label='D4lv14k를 팔로우하세요' class='btn btn-sm' title='D4lv14k를 팔로우하세요' />
+[52] (343,637)<a class='d-inline-block' href='/Macin2m' />
+	[53] (343,637)<img  />
+[54] (454,615)<a class='d-inline-block no-underline mb-1' href='/Macin2m' />
+	[55] (454,615)<span  />
+		[56] (454,615)<font  />
+			[57] (454,615)<font >맥인2m />
+[58] (944,617)<input aria-label='Macin2m을 팔로우하세요' class='btn btn-sm' title='Macin2m을 팔로우하세요' />
+[59] (343,757)<a class='d-inline-block' href='/3pillars' />
+	[60] (343,757)<img  />
+[61] (447,735)<a class='d-inline-block no-underline mb-1' href='/3pillars' />
+	[62] (447,736)<span  />
+		[63] (447,736)<font  />
+			[64] (447,736)<font >3기둥 />
+[65] (944,738)<input aria-label='3가지 핵심 원칙을 따르세요' class='btn btn-sm' title='3가지 핵심 원칙을 따르세요' />
+[66] (343,878)<a class='d-inline-block' href='/muniOSadmin' />
+	[67] (343,878)<img  />
+[68] (499,856)<a class='d-inline-block no-underline mb-1' href='/muniOSadmin' />
+	[69] (465,856)<span  />
+		[70] (465,856)<font  />
+			[71] (465,856)<font >모스 무니 />
+	[72] (534,857)<span  />
+		[73] (536,857)<font  />
+			[74] (536,857)<font >OS 관리자 />
+[75] (343,998)<a class='d-inline-block' href='/WebSpider-Studios' />
+	[76] (343,998)<img  />
+웹스파이더 스튜디오
+[77] (641,977)<span  />
+	[78] (644,977)<font  />
+		[79] (644,977)<font >WebSpider-Studios />
+WebSpider Studios는 혁신적인 AI 중심의 인디 게임 개발 스튜디오입니다. 저희는 첨단 AI 기술을 접목하여 차세대 몰입형 게임 경험을 선도하고 있습니다.
+[80] (944,979)<input aria-label='WebSpider-Studios를 팔로우하세요' class='btn btn-sm' title='WebSpider-Studios를 팔로우하세요' />
+
+</current_dom>

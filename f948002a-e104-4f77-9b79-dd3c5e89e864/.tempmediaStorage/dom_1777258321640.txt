@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (128,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/levxn' />
+	[3] (128,34)<span >levxn />
+[4] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[5] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[6] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[7] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[8] (740,34)<span  />
+[9] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[10] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[11] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[12] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[13] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[14] (967,34)<img  />
+User navigation
+[15] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/levxn' />
+	[16] (33,81)<span  />
+	[17] (81,81)<span >Overview />
+[18] (209,81)<a class='prc-components-UnderlineItem-7fP-n' href='/levxn?tab=repositories' />
+	[19] (146,81)<span  />
+	[20] (203,81)<span >Repositories />
+	[21] (266,81)<span >(
+23
+) />
+		[22] (266,81)<span >23 />
+		(
+		23
+		)
+[23] (344,81)<a class='prc-components-UnderlineItem-7fP-n' href='/levxn?tab=projects' />
+	[24] (314,81)<span  />
+	[25] (357,81)<span >Projects />
+[26] (451,81)<a class='prc-components-UnderlineItem-7fP-n' href='/levxn?tab=packages' />
+	[27] (417,81)<span  />
+	[28] (464,81)<span >Packages />
+[29] (566,81)<a class='prc-components-UnderlineItem-7fP-n' href='/levxn?tab=stars' />
+	[30] (528,81)<span  />
+	[31] (560,81)<span >Stars />
+	[32] (598,81)<span >(
+14
+) />
+		[33] (598,81)<span >14 />
+		(
+		14
+		)
+[34] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/105410870?v=4' />
+	[35] (159,284)<img  />
+Levin
+levxn
+[36] (159,528)<input aria-label='Follow levxn' class='btn btn-block' title='Follow levxn' />
+[37] (77,573)<a class='Link--secondary no-underline no-wrap' href='https://github.com/levxn?tab=followers'>followers />
+	[38] (54,573)<span >22 />
+·
+[39] (171,573)<a class='Link--secondary no-underline no-wrap' href='https://github.com/levxn?tab=following'>following />
+	[40] (140,573)<span >6 />
+[41] (78,648)<a class='Link--primary mb-2' href='/levxn?tab=achievements'>Achievements />
+[42] (58,706)<a class='position-relative' href='/levxn?achievement=pair-extraordinaire&tab=achievements' />
+	[43] (58,703)<img  />
+[44] (125,706)<a class='position-relative' href='/levxn?achievement=pull-shark&tab=achievements' />
+	[45] (125,703)<img  />
+	[46] (143,728)<span >x2 />
+[47] (192,706)<a class='position-relative' href='/levxn?achievement=yolo&tab=achievements' />
+	[48] (192,703)<img  />
+[49] (259,706)<a class='position-relative' href='/levxn?achievement=quickdraw&tab=achievements' />
+	[50] (259,703)<img  />
+Highlights
+Pro
+[51] (91,880)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-f33bc1dc-abb1-48a3-b36c-46f502180ebc' />
+	[52] (91,880)<span  />
+		[53] (91,880)<span >Block or report user />
+[54] (638,148)<input aria-label='Find a repository…' class='form-control width-full' id='your-repos-filter' placeholder='Find a repository…' />
+[55] (351,186)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[56] (351,186)<summary class='btn' role='button' />
+		[57] (342,186)<span >Type />
+		[58] (370,188)<span  />
+[59] (459,186)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[60] (459,186)<summary class='btn' role='button' />
+		[61] (451,186)<span >Language />
+		[62] (496,188)<span  />
+[63] (566,186)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[64] (566,186)<summary class='btn' role='button' />
+		[65] (558,186)<span >Sort />
+		[66] (584,188)<span  />
+0
+results
+        for
+        repositories
+          matching
+gemma
+sorted by
+last updated
+[67] (928,251)<a class='issues-reset-query text-normal d-inline-block tmp-ml-3' href='/levxn?tab=repositories'>Clear filter />
+levxn doesn’t have any repositories that match.
+Footer
+[68] (441,983)<a aria-label='GitHub Homepage' class='footer-octicon mr-2' href='https://github.com' />
+© 2026 GitHub, Inc.
+Footer navigation
+[69] (158,951)<a class='Link--secondary Link' href='https://docs.github.com/site-policy/github-terms/github-terms-of-service'>Terms />
+[70] (210,951)<a class='Link--secondary Link' href='https://docs.github.com/site-policy/privacy-policies/github-privacy-statement'>Privacy />
+[71] (268,951)<a class='Link--secondary Link' href='https://github.com/security'>Security />
+[72] (323,951)<a class='Link--secondary Link' href='https://www.githubstatus.com/'>Status />
+[73] (389,951)<a class='Link--secondary Link' href='https://github.community/'>Community />
+[74] (451,951)<a class='Link--secondary Link' href='https://docs.github.com/'>Docs />
+[75] (503,951)<a class='Link--secondary Link' href='https://support.github.com?tags=dotcom-footer'>Contact />
+[76] (586,951)<button class='Link--secondary underline-on-hover border-0 p-0 color-bg-transparent'>Manage cookies />
+[77] (753,951)<button class='Link--secondary underline-on-hover border-0 p-0 color-bg-transparent text-left'>Do not share my personal information />
+
+</current_dom>

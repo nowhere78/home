@@ -1,0 +1,130 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='../..' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='../..' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='../../understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='../../build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='../llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='../../safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='../../research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='../../blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='../../tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='../../contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+하부 구조
+[41] (219,285)<a class='md-nav__link' href='../llm-frameworks/' />
+	[42] (202,285)<span  />
+		[43] (202,284)<font  />
+			[44] (202,284)<font >LLM 응용 프레임워크 />
+[45] (219,325)<a class='md-nav__link' href='../rag-vector-db/' />
+	[46] (211,325)<span  />
+		[47] (211,324)<font  />
+			[48] (211,324)<font >RAG 및 벡터 데이터베이스 />
+[49] (219,365)<a class='md-nav__link' href='../data-infra/' />
+	[50] (219,365)<span  />
+		[51] (219,365)<font  />
+			[52] (219,365)<font >대규모 AI를 위한 데이터 인프라 />
+[53] (219,405)<a class='md-nav__link' href='../fine-tuning/' />
+	[54] (200,405)<span  />
+		[55] (200,405)<font  />
+			[56] (200,405)<font >LLM 미세 조정 기법 />
+[57] (219,446)<a class='md-nav__link' href='../deployment/' />
+	[58] (208,446)<span  />
+		[59] (208,445)<font  />
+			[60] (208,445)<font >LLM 배포 및 서비스 제공 />
+[61] (219,486)<a class='md-nav__link' href='../distributed-training/' />
+	[62] (205,486)<span  />
+		[63] (205,485)<font  />
+			[64] (205,485)<font >분산형 교육 프레임워크 />
+[65] (219,526)<a class='md-nav__link md-nav__link--active' href='./' />
+	[66] (212,526)<span  />
+		[67] (212,525)<font  />
+			[68] (212,525)<font >컴퓨팅, 하드웨어 및 양자화 />
+[69] (223,588)<a class='md-nav__link' href='#ai-accelerators-custom-silicon' />
+	[70] (224,588)<span  />
+		[71] (222,587)<font  />
+			[72] (222,587)<font >AI 가속기 및 맞춤형 실리콘 />
+[73] (223,668)<a class='md-nav__link' href='#model-quantization-efficiency-tools' />
+	[74] (224,668)<span  />
+		[75] (222,667)<font  />
+			[76] (222,667)<font >모델 양자화 및 효율성 도구 />
+[77] (223,734)<a class='md-nav__link' href='#neuromorphic-alternative-compute' />
+	[78] (220,734)<span  />
+		[79] (220,733)<font  />
+			[80] (220,733)<font >뉴로모픽 및 대안 컴퓨팅 />
+[81] (223,787)<a class='md-nav__link' href='#decentralized-ai-compute' />
+	[82] (205,787)<span  />
+		[83] (205,786)<font  />
+			[84] (205,786)<font >분산형 AI 컴퓨팅 />
+[85] (223,853)<a class='md-nav__link' href='#energy-data-center-scale' />
+	[86] (224,853)<span  />
+		[87] (222,852)<font  />
+			[88] (222,852)<font >에너지 및 데이터 센터 규모 />
+[89] (219,934)<a class='md-nav__link' href='../prompt-engineering/' />
+	[90] (200,934)<span  />
+		[91] (200,933)<font  />
+			[92] (200,933)<font >프롬프트 엔지니어링 />
+컴퓨팅, 하드웨어 및 양자화
+[93] (685,331)<a class='headerlink' href='#compute-hardware-quantization' title='영구 링크' />
+	[94] (685,330)<font  />
+		[95] (685,330)<font  />
+대규모의 최적화된 인프라 없이는 인공 초지능(ASI)을 구축할 수 없습니다. 인공 일반 지능(AGI) 경쟁은 궁극적으로 컴퓨팅 경쟁이며, 이는 실리콘, 에너지, 그리고 칩 제조의 물리적 제약에 의해 좌우됩니다.
+[96] (352,661)<a class='glightbox' href='https://img.shields.io/badge/GPU-Accelerators-76B900?style=flat-square' />
+	[97] (352,658)<img  />
+[98] (405,661)<a class='glightbox' href='https://img.shields.io/badge/TPU-Google-4285F4?style=flat-square' />
+	[99] (405,658)<img  />
+[100] (447,661)<a class='glightbox' href='https://img.shields.io/badge/LPU-Groq-orange?style=flat-square' />
+	[101] (447,658)<img  />
+[102] (504,661)<a class='glightbox' href='https://img.shields.io/badge/Quantization-INT4_FP8-green?style=flat-square' />
+	[103] (504,658)<img  />
+[104] (590,661)<a class='glightbox' href='https://img.shields.io/badge/Neuromorphic-Brain--Inspired-purple?style=flat-square' />
+	[105] (590,658)<img  />
+AI 가속기 및 맞춤형 실리콘
+[106] (564,756)<a class='headerlink' href='#ai-accelerators-custom-silicon' title='영구 링크' />
+	[107] (564,755)<font  />
+		[108] (564,755)<font  />
+이름
+설명
+모래밭
+[109] (374,961)<a href='https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/' />
+	[110] (374,960)<font  />
+		[111] (374,960)<font >NVIDIA 블랙웰(B200/GB200) />
+208B 트랜지스터, FP4 트랜스포머 엔진, Hopper 대비 30배 추론 성능. GB200 NVL72: 1.4 엑사플롭스.
+[112] (733,962)<a href='https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/' />
+	[113] (733,961)<font  />
+		[114] (733,961)<font >nvidia.com/blackwell />
+
+</current_dom>

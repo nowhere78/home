@@ -1,0 +1,28 @@
+# Alpha Left Brain Engine — 작업 목록
+
+## Phase 1: Left Brain 수집 에이전트
+
+- [x] `core/agents/quants/left_brain/market_crawler.py` 생성
+- [x] `core/agents/quants/left_brain/news_sentinel.py` 생성
+- [ ] `src/luna-agent/code_upgrader.py` 전략 인사이트 추출로 업그레이드
+
+## Phase 2: Intelligence DB
+
+- [x] `data/intelligence/` 디렉토리 구조 생성
+- [x] `core/agents/quants/left_brain/brain_aggregator.py` 생성
+- [x] `core/agents/quants/left_brain/left_brain_reader.py` 생성
+
+## Phase 3: 기존 봇 연결
+
+- [x] `trading_bot_v5_luna.py`에 Left Brain 점수 반영 (v5.1로 업그레이드)
+
+## Phase 4: 마스터 런처
+
+- [x] `alpha_master_launcher.py` 생성 (전체 시스템 24시간 감시)
+
+## 검증
+
+- [/] market_crawler 단독 실행 테스트 (첫 사이클 진행 중)
+- [x] news_sentinel 단독 실행 테스트 → news_sentiment.json 생성 확인
+- [x] brain_aggregator 점수 출력 확인 → combined_score.json 45.5/100 NEUTRAL
+- [x] 전체 시스템 alpha_master_launcher로 통합 실행 (5개 프로세스 동작 중)

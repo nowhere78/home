@@ -1,0 +1,323 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (66,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Dark2C' />
+		[4] (66,34)<span  />
+			[5] (66,33)<font  />
+				[6] (66,33)<font >다크2C />
+	[7] (139,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Dark2C/Viral-Faceless-Shorts-Generator' />
+		[8] (139,34)<span  />
+			[9] (139,33)<font  />
+				[10] (139,33)<font >바이럴 얼굴 없는 반바지 생성기 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_1q_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_1v_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (96,80)<span  />
+			[35] (96,80)<span  />
+				[36] (96,80)<font  />
+					[37] (96,80)<font >1 />
+			(
+			1
+			)
+	[38] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/pulls' />
+		[39] (118,80)<span  />
+		[40] (147,80)<span  />
+			[41] (147,80)<font  />
+				[42] (147,80)<font >풀 리퀘스트 />
+		[43] (178,80)<span  />
+			[44] (178,80)<span  />
+				[45] (178,80)<font  />
+					[46] (178,80)<font >3 />
+			(
+			3
+			)
+	[47] (220,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/agents?author=nowhere78' />
+		[48] (200,80)<span  />
+		[49] (226,80)<span  />
+			[50] (226,80)<font  />
+				[51] (226,80)<font >자치령 대표 />
+	[52] (275,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/actions' />
+		[53] (261,80)<span  />
+		[54] (281,80)<span  />
+			[55] (281,80)<font  />
+				[56] (281,80)<font >행위 />
+	[57] (326,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/projects' />
+		[58] (310,80)<span  />
+		[59] (332,80)<span  />
+			[60] (332,80)<font  />
+				[61] (332,80)<font >프로젝트 />
+	[62] (397,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/security' />
+		[63] (362,80)<span  />
+		[64] (403,80)<span  />
+			[65] (403,80)<font  />
+				[66] (403,80)<font >보안 및 품질 />
+	[67] (468,80)<a class='prc-components-UnderlineItem-7fP-n' href='/Dark2C/Viral-Faceless-Shorts-Generator/pulse' />
+		[68] (453,80)<span  />
+		[69] (474,80)<span  />
+			[70] (474,80)<font  />
+				[71] (474,80)<font >인사이트 />
+[72] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[73] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[74] (65,190)<span  />
+		[75] (58,190)<span  />
+			[76] (58,190)<div  />
+				[77] (19,190)<div  />
+				[78] (33,190)<div  />
+					[79] (33,190)<span  />
+						[80] (34,190)<font  />
+							[81] (34,190)<font >기본 />
+[82] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/Dark2C/Viral-Faceless-Shorts-Generator/new/main/trendscraper/src' />
+[83] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[84] (83,233)<span  />
+	[85] (17,233)<span  />
+	[86] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[87] (148,233)<span  />
+		[88] (148,233)<kbd  />
+			[89] (148,233)<span >t />
+				t
+				[90] (148,233)<span >T />
+[91] (79,505)<div  />
+	[92] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='coqui-item' role='treeitem' />
+		[93] (79,279)<div  />
+			[94] (13,279)<div  />
+			[95] (84,279)<div  />
+				[96] (25,279)<div  />
+					[97] (25,279)<div  />
+				[98] (90,279)<span  />
+					[99] (40,279)<span  />
+						[100] (40,279)<font  />
+							[101] (40,279)<font >코퀴 />
+	[102] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='nginx-item' role='treeitem' />
+		[103] (79,314)<div  />
+			[104] (13,314)<div  />
+			[105] (84,314)<div  />
+				[106] (25,313)<div  />
+					[107] (25,313)<div  />
+				[108] (90,314)<span  />
+					[109] (42,314)<span  />
+						[110] (42,314)<font  />
+							[111] (42,314)<font >nginx />
+	[112] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='speechalign-item' role='treeitem' />
+		[113] (79,348)<div  />
+			[114] (13,348)<div  />
+			[115] (84,348)<div  />
+				[116] (25,347)<div  />
+					[117] (25,347)<div  />
+				[118] (90,348)<span  />
+					[119] (52,348)<span  />
+						[120] (52,348)<font  />
+							[121] (52,348)<font >speechalign />
+	[122] (79,467)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper-item' role='treeitem' />
+		[123] (79,382)<div  />
+			[124] (13,382)<div  />
+			[125] (84,382)<div  />
+				[126] (25,382)<div  />
+					[127] (25,382)<div  />
+				[128] (90,382)<span  />
+					[129] (57,382)<span  />
+						[130] (57,382)<font  />
+							[131] (57,382)<font >트렌드스크래퍼 />
+		[132] (79,467)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper/src-item' role='treeitem' />
+			[133] (79,416)<div  />
+				[134] (10,416)<div  />
+					[135] (10,416)<div  />
+						[136] (10,416)<div  />
+				[137] (17,416)<div  />
+				[138] (86,416)<div  />
+					[139] (29,416)<div  />
+						[140] (29,416)<div  />
+					[141] (92,416)<span  />
+						[142] (42,416)<span >src />
+			[143] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper/src/fonts-item' role='treeitem' />
+				[144] (79,450)<div  />
+					[145] (13,450)<div  />
+						[146] (13,450)<div  />
+							[147] (10,450)<div  />
+							[148] (15,450)<div  />
+					[149] (21,450)<div  />
+					[150] (88,450)<div  />
+						[151] (33,450)<div  />
+							[152] (33,450)<div  />
+						[153] (94,450)<span  />
+							[154] (50,450)<span >fonts />
+			[155] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper/src/index.js-item' role='treeitem' />
+				[156] (79,484)<div  />
+					[157] (13,484)<div  />
+						[158] (13,484)<div  />
+							[159] (10,484)<div  />
+							[160] (15,484)<div  />
+					[161] (88,484)<div  />
+						[162] (33,484)<div  />
+						[163] (94,484)<span  />
+							[164] (54,484)<span >index.js />
+			[165] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper/src/package.json-item' role='treeitem' />
+				[166] (79,518)<div  />
+					[167] (13,518)<div  />
+						[168] (13,518)<div  />
+							[169] (10,518)<div  />
+							[170] (15,518)<div  />
+					[171] (88,518)<div  />
+						[172] (33,518)<div  />
+						[173] (94,518)<span  />
+							[174] (62,518)<span >package.json />
+		[175] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='trendscraper/Dockerfile-item' role='treeitem' />
+			[176] (79,552)<div  />
+				[177] (10,552)<div  />
+					[178] (10,552)<div  />
+						[179] (10,552)<div  />
+				[180] (86,552)<div  />
+					[181] (29,552)<div  />
+					[182] (92,552)<span  />
+						[183] (54,552)<span >Dockerfile />
+	[184] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='videos-item' role='treeitem' />
+		[185] (79,586)<div  />
+			[186] (13,586)<div  />
+			[187] (84,586)<div  />
+				[188] (25,586)<div  />
+					[189] (25,586)<div  />
+				[190] (90,586)<span  />
+					[191] (43,586)<span  />
+						[192] (43,586)<font  />
+							[193] (43,586)<font >동영상 />
+	[194] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[195] (79,620)<div  />
+			[196] (84,620)<div  />
+				[197] (25,620)<div  />
+				[198] (90,620)<span  />
+					[199] (49,620)<span  />
+						[200] (49,620)<font  />
+							[201] (49,620)<font >.gitignore />
+	[202] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.MD-item' role='treeitem' />
+		[203] (79,654)<div  />
+			[204] (84,654)<div  />
+				[205] (25,654)<div  />
+				[206] (90,654)<span  />
+					[207] (54,654)<span  />
+						[208] (54,654)<font  />
+							[209] (54,654)<font >README.MD />
+	[210] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docker-compose.yml-item' role='treeitem' />
+		[211] (79,688)<div  />
+			[212] (84,688)<div  />
+				[213] (25,688)<div  />
+				[214] (90,688)<span  />
+					[215] (67,688)<span  />
+						[216] (67,688)<font  />
+							[217] (67,688)<font >docker-compose.yml />
+	[218] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='example.env-item' role='treeitem' />
+		[219] (79,722)<div  />
+			[220] (84,722)<div  />
+				[221] (25,722)<div  />
+				[222] (90,722)<span  />
+					[223] (47,722)<span  />
+						[224] (47,722)<font  />
+							[225] (47,722)<font >예시.env />
+[226] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[227] (230,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/Dark2C/Viral-Faceless-Shorts-Generator/tree/main' />
+	[228] (230,139)<font  />
+		[229] (230,139)<font >바이럴 얼굴 없는 반바지 생성기 />
+/
+[230] (325,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/Dark2C/Viral-Faceless-Shorts-Generator/tree/main/trendscraper' />
+	[231] (325,139)<font  />
+		[232] (325,139)<font >트렌드스크래퍼 />
+/
+src
+/
+[233] (397,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[234] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_2v_' />
+	[235] (945,140)<span  />
+		[236] (945,140)<span  />
+			[237] (945,140)<span  />
+				[238] (941,140)<font  />
+					[239] (941,140)<font >파일 추가 />
+더 많은 옵션
+[240] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_34_' title='더 많은 옵션' />
+최신 커밋
+[241] (190,198)<a class='prc-Link-Link-9ZwDx' href='/Dark2C' />
+	[242] (188,199)<img  />
+[243] (208,198)<a aria-label='Dark2C의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/Dark2C/Viral-Faceless-Shorts-Generator/commits?author=Dark2C' />
+	[244] (208,198)<font  />
+		[245] (208,198)<font >다크2C />
+[246] (242,198)<a class='Link--secondary' href='/Dark2C/Viral-Faceless-Shorts-Generator/commit/517c3ba871bc37eb7185dbbe7968bb32462c1ecd' />
+	[247] (242,198)<font  />
+		[248] (242,198)<font >첫 번째 커밋 />
+[249] (929,198)<a aria-label='커밋 517c3ba' class='Link--secondary prc-Link-Link-9ZwDx' href='/Dark2C/Viral-Faceless-Shorts-Generator/commit/517c3ba871bc37eb7185dbbe7968bb32462c1ecd' />
+	[250] (929,198)<font  />
+		[251] (929,198)<font >517c3ba />
+·
+벨
+역사
+[252] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/Dark2C/Viral-Faceless-Shorts-Generator/commits/main/trendscraper/src' />
+	[253] (971,198)<span  />
+		[254] (977,198)<span  />
+			[255] (977,197)<span  />
+				[256] (977,197)<font  />
+					[257] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[258] (584,304)<tr  />
+	상위 디렉토리
+	[259] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/Dark2C/Viral-Faceless-Shorts-Generator/tree/main/trendscraper' />
+		[260] (584,304)<div  />
+			[261] (201,304)<font  />
+				[262] (201,304)<font >.. />
+[263] (584,347)<tr  />
+	[264] (205,347)<a aria-label='글꼴, (디렉토리)' class='Link--primary' href='/Dark2C/Viral-Faceless-Shorts-Generator/tree/main/trendscraper/src/fonts' title='글꼴' />
+		[265] (205,347)<font  />
+			[266] (205,347)<font >글꼴 />
+	[267] (529,347)<a class='Link--secondary' href='/Dark2C/Viral-Faceless-Shorts-Generator/commit/517c3ba871bc37eb7185dbbe7968bb32462c1ecd' title='첫 번째 커밋' />
+		[268] (529,347)<font  />
+			[269] (529,347)<font >첫 번째 커밋 />
+	벨
+[270] (584,390)<tr  />
+	[271] (211,390)<a aria-label='index.js, (파일)' class='Link--primary' href='/Dark2C/Viral-Faceless-Shorts-Generator/blob/main/trendscraper/src/index.js' title='인덱스.js' />
+		[272] (211,390)<font  />
+			[273] (211,390)<font >인덱스.js />
+	[274] (529,390)<a class='Link--secondary' href='/Dark2C/Viral-Faceless-Shorts-Generator/commit/517c3ba871bc37eb7185dbbe7968bb32462c1ecd' title='첫 번째 커밋' />
+		[275] (529,390)<font  />
+			[276] (529,390)<font >첫 번째 커밋 />
+	벨
+[277] (584,433)<tr  />
+	[278] (215,434)<a aria-label='package.json, (파일)' class='Link--primary' href='/Dark2C/Viral-Faceless-Shorts-Generator/blob/main/trendscraper/src/package.json' title='패키지.json' />
+		[279] (215,434)<font  />
+			[280] (215,434)<font >패키지.json />
+	[281] (529,434)<a class='Link--secondary' href='/Dark2C/Viral-Faceless-Shorts-Generator/commit/517c3ba871bc37eb7185dbbe7968bb32462c1ecd' title='첫 번째 커밋' />
+		[282] (529,434)<font  />
+			[283] (529,434)<font >첫 번째 커밋 />
+	벨
+
+</current_dom>

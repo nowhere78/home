@@ -1,0 +1,215 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+연속 스크롤 사용 중지
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (77,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QPAgK' id='logo' title='Google 홈페이지로 이동' />
+[1] (380,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DElectric%2BChicken%2BShredder%2Busage%2Baction%2Bshot%26udm%3D2&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (43,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=Electric+Chicken+Shredder+usage+action+shot&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtlnyBzvrTSCFOEd3uqXcIoEQYclcfCrV4D1x3OQcX2cVh2oi-4Wb806KP9KRF9LpzAguuFDgY6fp5ZJh590xhXv2eE6MYigmRIf-XK3XEfE-fNrkJuaRiyWptkyw89MQmdKQ8-g&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4Q0pQJegQIDxAB' />
+	[17] (43,121)<div  />
+		[18] (43,130)<span >전체 />
+[19] (101,121)<a class='C6AK7c' role='link' />
+	이미지
+[20] (160,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtlnyBzvrTSCFOEd3uqXcIoEQYclcfCrV4D1x3OQcX2cVh2oi-4Wb806KP9KRF9LpzAguuFDgY6fp5ZJh590xhXv2eE6MYigmRIf-XK3XEfE-fNrkJuaRiyWptkyw89MQmdKQ8-g&q=Electric+Chicken+Shredder+usage+action+shot&ved=1t:220175&ictx=111' />
+	[21] (160,121)<div  />
+		[22] (160,130)<span >쇼핑 />
+[23] (219,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtlnyBzvrTSCFOEd3uqXcIoEQYclcfCrV4D1x3OQcX2cVh2oi-4Wb806KP9KRF9LpzAguuFDgY6fp5ZJh590xhXv2eE6MYigmRIf-XK3XEfE-fNrkJuaRiyWptkyw89MQmdKQ8-g&q=Electric+Chicken+Shredder+usage+action+shot&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QtKgLegQIDhAB' />
+	[24] (219,121)<div  />
+		[25] (219,130)<span >동영상 />
+[26] (300,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtlnyBzvrTSCFOEd3uqXcIoEQYclcfCrV4D1x3OQcX2cVh2oi-4Wb806KP9KRF9LpzAguuFDgY6fp5ZJh590xhXv2eE6MYigmRIf-XK3XEfE-fNrkJuaRiyWptkyw89MQmdKQ8-g&q=Electric+Chicken+Shredder+usage+action+shot&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4Qs6gLegQIChAB' />
+	[27] (300,121)<div  />
+		[28] (300,130)<span >짧은 동영상 />
+[29] (367,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&udm=web&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtlnyBzvrTSCFOEd3uqXcIoEQYclcfCrV4D1x3OQcX2cVh2oi-4Wb806KP9KRF9LpzAguuFDgY6fp5ZJh590xhXv2eE6MYigmRIf-XK3XEfE-fNrkJuaRiyWptkyw89MQmdKQ8-g&q=Electric+Chicken+Shredder+usage+action+shot&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4Qs6gLegQIDBAB' />
+	[30] (367,121)<div  />
+		[31] (367,130)<span >웹 />
+[32] (428,121)<div class='mTpL7c' role='button' />
+	[33] (428,121)<div  />
+		[34] (428,130)<div  />
+			[35] (419,124)<span >더보기 />
+			[36] (448,124)<span  />
+[37] (884,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (884,121)<div  />
+		[39] (884,130)<div  />
+			[40] (875,124)<span >도구 />
+			[41] (898,124)<span  />
+[42] (491,194)<div class='IUOThf' role='list' scrollable='true' />
+	[43] (112,193)<a aria-label='Breast shredder 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=breast+shredder+Electric+Chicken+Shredder+usage+action+shot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-Gu3cGWeU3vmo5LM_mPcpUxeExnJAfnVhrE_Ehwwq4yy93aqAUi4yjJZdASyo5Ymh41hj-ozOirCTYWJd9clL3hkSV5G2ehq-MrB6CLSM-yZ0jJu3g6R6VVvmNxwCxrfX8-ImKxTKU_A8uL8X297d5KUmpjsd0-yWCtl8qWeo4iPGo4e-6WK-BAvWgsi8bEMFGmKacA&udm=2&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QxKsJKAB6BAgUEAE&ictx=0' role='link' />
+		[44] (112,193)<div  />
+			[45] (46,193)<span  />
+				[46] (46,193)<div  />
+			[47] (134,193)<span >Breast shredder />
+	[48] (295,193)<a aria-label='Shredder tool 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=shredder+tool+Electric+Chicken+Shredder+usage+action+shot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vtWgw14fk27IASKBwlXbuFORuJijfC3vvcYeYsl0Uvop7bUH_v-gA9OLiSVdLk86OgAFMeXp8oqF6XHhsKNpgG1b58vHcvQD-Mp9mDcfDsbNbAgtKE1tTPyp7IEZnhVO_WqnWiL0Ga7OBaLhR41LQcAjR49oBjS_U3G9ZcwyE3YNfAaZ&udm=2&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QxKsJKAF6BAgTEAE&ictx=0' role='link' />
+		[49] (295,193)<div  />
+			[50] (237,193)<span  />
+				[51] (237,193)<div  />
+			[52] (317,193)<span >Shredder tool />
+	[53] (477,193)<a aria-label='Chicken breasts 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=chicken+breasts+Electric+Chicken+Shredder+usage+action+shot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-Gu3cGWeU3vmo5LM_mPcpUxeExnJAfnVhrE_Ehwwq4yy93aqAUi4yjJZdASyo5Ymh41hj-ozOirCTYWJd9clL3lub9yxylAP1dPg7MreyTueaBxns2hg3Z6GfA4tIt-VwoCW6pAfhKD2B1pHWfUC6VpnOTvDyWxd0hK0xkpedcoljx_Vv_QGwv27ndtiGo1bo8q0xKQ&udm=2&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QxKsJKAJ6BAgREAE&ictx=0' role='link' />
+		[54] (477,193)<div  />
+			[55] (411,193)<span  />
+				[56] (411,193)<div  />
+			[57] (500,193)<span >Chicken breasts />
+	[58] (668,193)<a aria-label='Cooked chicken 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=cooked+chicken+Electric+Chicken+Shredder+usage+action+shot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-xflvf2lwpG_Q1DPXMZZP3AU6XnZZr1swxSt6b8e3N1FS-2N_xmG-sGmpA5lNRuMygc01hB28_3Kp_hLcpq-5AG63bfwXGXrJe845V6DGPJnfwgF4xFZ9VAIeBLRHcHnMXZkx7cRCx4YAWApBHvlINpjbjAjdzi91sfYhMKhZW2A2ad7Sh77haKnS8Vv0lSHWRC_0Ow&udm=2&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QxKsJKAN6BAgQEAE&ictx=0' role='link' />
+		[59] (668,193)<div  />
+			[60] (602,193)<span  />
+				[61] (602,193)<div  />
+			[62] (691,193)<span >Cooked chicken />
+	[63] (858,193)<a aria-label='Food processor 추가' class='nPDzT T3FoJb' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6p-mPPg3_oyF9J3uwaaetJo1lwtQ:1777261418577&q=food+processor+Electric+Chicken+Shredder+usage+action+shot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-xflvf2lwpG_Q1DPXMZZP3AU6XnZZr1swxSt6b8e3N1FS-2N_xmG-sGmpA5lNRuMygc01hB28_3Kp_hLcpq-5AHwrJA4Yr34v0yOKlRU4V0q3_RVjt8Amt9mhYUpWbsPBBQNkaKAHFptbdx0hRXGHRkF9QVc73aGygqOgEBq_CPZ3wIAivxDXEN7l-QUGyJ6lL1pwOw&udm=2&sa=X&ved=2ahUKEwj31Zvcjo2UAxXlQvEDHf5xDc4QxKsJKAR6BAgSEAE&ictx=0' role='link' />
+		[64] (858,193)<div  />
+			[65] (793,193)<span  />
+				[66] (793,193)<div  />
+			[67] (880,193)<span >Food processor />
+검색결과
+[68] (163,415)<div  />
+	[69] (163,415)<div  />
+		[70] (163,415)<div  />
+			[71] (163,393)<div  />
+				[72] (163,393)<div  />
+					[73] (163,393)<a  />
+						[74] (163,393)<div  />
+							[75] (163,393)<div class='RmwKgd klScif' role='button' />
+								[76] (163,393)<div  />
+									[77] (163,393)<img  />
+			[78] (163,558)<div  />
+				[79] (163,558)<a class='LBcIee' href='https://www.walmart.com/ip/Electric-Chicken-Breast-Shredder-Twist-Machine-Automatic-Meat-Shredder-Tool-for-Home-Restaurant-Use-White/16700851845' />
+					[80] (163,558)<div  />
+						[81] (163,548)<div  />
+							[82] (163,548)<div >Electric Chicken Breast Shredder Twist Machine Automatic Meat Shredder Tool  for Home Restaurant Use ，White - Walmart.com />
+						[83] (163,568)<div  />
+							[84] (163,570)<div  />
+								[85] (34,569)<div  />
+									[86] (34,569)<img  />
+								[87] (174,570)<div  />
+									[88] (73,570)<span >Walmart />
+[89] (447,415)<div  />
+	[90] (447,415)<div  />
+		[91] (447,415)<div  />
+			[92] (447,393)<div  />
+				[93] (447,393)<div  />
+					[94] (447,393)<a  />
+						[95] (447,393)<div  />
+							[96] (447,393)<div class='RmwKgd klScif' role='button' />
+								[97] (447,393)<div  />
+									[98] (447,393)<img  />
+			[99] (447,558)<div  />
+				[100] (447,558)<a class='LBcIee' href='https://www.walmart.com/ip/Electric-Chicken-Breast-Shredder-Twist-Machine-Automatic-Meat-Shredder-Tool-for-Home-Restaurant-Use-White/16700851845' />
+					[101] (447,558)<div  />
+						[102] (447,548)<div  />
+							[103] (447,548)<div >Electric Chicken Breast Shredder Twist Machine Automatic Meat Shredder Tool  for Home Restaurant Use ，White - Walmart.com />
+						[104] (447,568)<div  />
+							[105] (447,570)<div  />
+								[106] (318,569)<div  />
+									[107] (318,569)<img  />
+								[108] (458,570)<div  />
+									[109] (357,570)<span >Walmart />
+[110] (731,412)<div  />
+	[111] (731,412)<div  />
+		[112] (731,412)<div  />
+			[113] (731,389)<div  />
+				[114] (731,389)<div  />
+					[115] (731,389)<a  />
+						[116] (731,389)<div  />
+							[117] (731,389)<div class='RmwKgd klScif' role='button' />
+								[118] (731,389)<div  />
+									[119] (731,389)<img  />
+			[120] (731,552)<div  />
+				[121] (731,552)<a class='LBcIee' href='https://www.amazon.com/HCAUYNN-Electric-Shredder-Automatic-Restaurant/dp/B0DYVJMNW8' />
+					[122] (731,552)<div  />
+						[123] (731,542)<div  />
+							[124] (731,542)<div >Amazon.com: HCAUYNN Electric Chicken Breast Shredder, Automatic Meat  Shredder Tool 240Lb/H, Cooked Meat Only,for Home Restaurant Kitchen,220V :  Everything Else />
+						[125] (731,562)<div  />
+							[126] (731,563)<div  />
+								[127] (602,563)<div  />
+									[128] (602,563)<img  />
+								[129] (742,563)<div  />
+									[130] (655,563)<span >Amazon.com />
+Amazon.com: Electric Chicken Shredder, Automatic Meat Shredder Tool Twist,  USB Rechargeable Chicken Grinder Machine, with Brush & Fork, Suitable for  Chicken Meat Beef Pork Breast, Dishwasher Safe (Black): Home & Kitchen
+[131] (886,569)<div  />
+	[132] (886,569)<img  />
+[133] (938,570)<span >Amazon.com />
+[134] (731,751)<div  />
+	[135] (731,751)<div  />
+		[136] (731,751)<div  />
+			[137] (731,729)<div  />
+				[138] (731,729)<div  />
+					[139] (731,729)<a  />
+						[140] (731,729)<div  />
+							[141] (731,729)<div class='RmwKgd klScif' role='button' />
+								[142] (731,729)<div  />
+									[143] (731,729)<img  />
+			[144] (731,894)<div  />
+				[145] (731,894)<a class='LBcIee' href='https://www.walmart.com/ip/Electric-Chicken-Breast-Shredder-Twist-Machine-Automatic-Meat-Shredder-Tool-for-Home-Restaurant-Use-White/16700851845' />
+					[146] (731,894)<div  />
+						[147] (731,884)<div  />
+							[148] (731,884)<div >Electric Chicken Breast Shredder Twist Machine Automatic Meat Shredder Tool  for Home Restaurant Use ，White - Walmart.com />
+						[149] (731,905)<div  />
+							[150] (731,906)<div  />
+								[151] (602,905)<div  />
+									[152] (602,905)<img  />
+								[153] (742,906)<div  />
+									[154] (641,906)<span >Walmart />
+[155] (163,754)<div  />
+	[156] (163,754)<div  />
+		[157] (163,754)<div  />
+			[158] (163,732)<div  />
+				[159] (163,732)<div  />
+					[160] (163,732)<a  />
+						[161] (163,732)<div  />
+							[162] (163,732)<div class='RmwKgd klScif' role='button' />
+								[163] (163,732)<div  />
+									[164] (163,732)<img  />
+			[165] (163,894)<div  />
+				[166] (163,894)<a class='LBcIee' href='https://www.amazon.com/Electric-Shredder-Automatic-Rechargeable-Dishwasher/dp/B0DS5F38P7' />
+					[167] (163,894)<div  />
+						[168] (163,884)<div  />
+							[169] (163,884)<div >Electric Chicken Shredder, Automatic Chicken Breast Grinder Meat Shredder,  USB Rechargeable Visible Meat Shredder Tool Twist Machine, with Brush &  Fork, Suitable for Pork, Dishwasher Safe (Red): Home & Kitchen - Amazon.com />
+						[170] (163,905)<div  />
+							[171] (163,906)<div  />
+								[172] (34,905)<div  />
+									[173] (34,905)<img  />
+								[174] (174,906)<div  />
+									[175] (87,906)<span >Amazon.com />
+[176] (447,757)<div  />
+	[177] (447,757)<div  />
+		[178] (447,757)<div  />
+			[179] (447,735)<div  />
+				[180] (447,735)<div  />
+					[181] (447,735)<a  />
+						[182] (447,735)<div  />
+							[183] (447,735)<div class='RmwKgd klScif' role='button' />
+								[184] (447,735)<div  />
+									[185] (447,735)<img  />
+			[186] (447,901)<div  />
+				[187] (447,901)<a class='LBcIee' href='https://ipegtop.com/products/ipegtop-ms03-automatic-electric-chicken-shredder?srsltid=AfmBOopxLSttK_j1QnVlaNVzAAwjfBcPKvpao1O-e55t9b4Bf9VLwRHz' />
+					[188] (447,901)<div  />
+						[189] (447,891)<div  />
+							[190] (447,890)<div >Ipegtop MS03 Automatic Electric Chicken Shredder – iPegtop />
+						[191] (447,911)<div  />
+							[192] (447,912)<div  />
+								[193] (318,911)<div  />
+									[194] (318,911)<img  />
+								[195] (458,912)<div  />
+									[196] (355,912)<span >iPegtop />
+Electric Chicken Breast Shredder Twist Machine Automatic Meat Shredder Tool  for Home Restaurant Use ，White - Walmart.com
+[197] (886,911)<div  />
+	[198] (886,911)<img  />
+[199] (925,912)<span >Walmart />
+
+</current_dom>

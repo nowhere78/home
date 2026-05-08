@@ -1,0 +1,238 @@
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiRyfeYuo2UAxUs4ckDHXHzAMwQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DYouTube%2BShorts%2Bmass%2Bproduction%2Bworkflow%2Bautomated%2Baffiliate%2Bmarketing%2Bscaling&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n697KBcqjXFyk1qOld-vaeslH6m1Q:1777273088637&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=YouTube+Shorts+mass+production+workflow+automated+affiliate+marketing+scaling&sa=X&ved=2ahUKEwiRyfeYuo2UAxUs4ckDHXHzAMwQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >이미지 />
+[20] (180,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n697KBcqjXFyk1qOld-vaeslH6m1Q:1777273088637&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=YouTube+Shorts+mass+production+workflow+automated+affiliate+marketing+scaling&sa=X&ved=2ahUKEwiRyfeYuo2UAxUs4ckDHXHzAMwQtKgLegQIFRAB' />
+	[21] (180,121)<div  />
+		[22] (180,130)<span >동영상 />
+[23] (239,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n697KBcqjXFyk1qOld-vaeslH6m1Q:1777273088637&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=YouTube+Shorts+mass+production+workflow+automated+affiliate+marketing+scaling&ved=1t:220175&ictx=111' />
+	[24] (239,121)<div  />
+		[25] (239,130)<span >쇼핑 />
+[26] (313,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n697KBcqjXFyk1qOld-vaeslH6m1Q:1777273088637&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=YouTube+Shorts+mass+production+workflow+automated+affiliate+marketing+scaling&sa=X&ved=2ahUKEwiRyfeYuo2UAxUs4ckDHXHzAMwQs6gLegQIEhAB' />
+	[27] (313,121)<div  />
+		[28] (313,130)<span >짧은 동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n697KBcqjXFyk1qOld-vaeslH6m1Q:1777273088637&q=YouTube+Shorts+mass+production+workflow+automated+affiliate+marketing+scaling&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&sa=X&ved=2ahUKEwiRyfeYuo2UAxUs4ckDHXHzAMwQ0pQJegQIExAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+AI 개요
+[42] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+Automating a YouTube Shorts mass production workflow for affiliate marketing involves using AI tools to create, edit, and schedule hundreds of videos to drive traffic to affiliate offers without manual, day-to-day editing
+. This approach allows for scaling to multiple niches, with some creators using AI to generate 100s of videos in minutes, using tools like
+[43] (72,361)<a class='GI370e' href='https://www.google.com/search?q=CapCut&mstk=AUtExfARHPQNSgP5WqlcNCt0ydLVPAXvd4LGRlOS2RSgvxmS9w3pHncd_2wX3OstMyfgQoYv6P8ufe0_006cFBJLcAHsJfR4Wx-qpHGrX9U1ZUx8i0M4rA1BCNgDoMCYzsHJ2Dr6gjrkLpWE4Os2Ftox356j5X2igtDSIZp26X7b4HeD7VPFeA05UDUg0ma9Jf6Td-eBmRDWuPqI6qLtDgWuKVyo1g&csui=3&ved=2ahUKEwinkaOZuo2UAxVdJNAFHZykJ_8QgK4QegQIARAB'>CapCut />
+,
+[44] (144,361)<a class='GI370e' href='https://www.google.com/search?q=Vidflood&mstk=AUtExfARHPQNSgP5WqlcNCt0ydLVPAXvd4LGRlOS2RSgvxmS9w3pHncd_2wX3OstMyfgQoYv6P8ufe0_006cFBJLcAHsJfR4Wx-qpHGrX9U1ZUx8i0M4rA1BCNgDoMCYzsHJ2Dr6gjrkLpWE4Os2Ftox356j5X2igtDSIZp26X7b4HeD7VPFeA05UDUg0ma9Jf6Td-eBmRDWuPqI6qLtDgWuKVyo1g&csui=3&ved=2ahUKEwinkaOZuo2UAxVdJNAFHZykJ_8QgK4QegQIARAC'>Vidflood />
+,
+[45] (218,361)<a class='GI370e' href='https://www.google.com/search?q=Creatify&mstk=AUtExfARHPQNSgP5WqlcNCt0ydLVPAXvd4LGRlOS2RSgvxmS9w3pHncd_2wX3OstMyfgQoYv6P8ufe0_006cFBJLcAHsJfR4Wx-qpHGrX9U1ZUx8i0M4rA1BCNgDoMCYzsHJ2Dr6gjrkLpWE4Os2Ftox356j5X2igtDSIZp26X7b4HeD7VPFeA05UDUg0ma9Jf6Td-eBmRDWuPqI6qLtDgWuKVyo1g&csui=3&ved=2ahUKEwinkaOZuo2UAxVdJNAFHZykJ_8QgK4QegQIARAD'>Creatify />
+, and
+[46] (328,361)<a class='GI370e' href='https://www.google.com/search?q=OpusClip&mstk=AUtExfARHPQNSgP5WqlcNCt0ydLVPAXvd4LGRlOS2RSgvxmS9w3pHncd_2wX3OstMyfgQoYv6P8ufe0_006cFBJLcAHsJfR4Wx-qpHGrX9U1ZUx8i0M4rA1BCNgDoMCYzsHJ2Dr6gjrkLpWE4Os2Ftox356j5X2igtDSIZp26X7b4HeD7VPFeA05UDUg0ma9Jf6Td-eBmRDWuPqI6qLtDgWuKVyo1g&csui=3&ved=2ahUKEwinkaOZuo2UAxVdJNAFHZykJ_8QgK4QegQIARAE'>OpusClip />
+.
+[47] (421,363)<button aria-label='Facebook 외 4개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	Facebook
+	+4
+The Automated Workflow Structure (2026)
+This system is designed to run with minimal input, often relying on a "create once, distribute many" model.
+1. Niche & Affiliate Setup
+Targeting:
+Identify high-volume, low-competition, or specific product-driven niches (e.g., passion hobbies, lifestyle).
+Affiliate Link Management:
+Use tools like
+Bitly
+or
+Linktree
+to manage and track affiliate links, as Shorts description links are not clickable directly, but pinned comments are.
+YouTube
++3
+2. Automated Content Production (Mass Production)
+Script Generation:
+Use ChatGPT or specialized AI agents to generate high-retention, 7-15 second script hooks, utilizing a 7-second rule for emotional connection.
+Visual Generation:
+Use
+Creatify.ai
+or
+Runway Gen-4.5
+for faceless, AI-generated visuals that are not plagiarized.
+Batch Editing & Voiceover:
+Utilize
+CapCut
+desktop for automated captions, voiceovers, and applying branded templates in batch.
+Automated Repurposing:
+Use tools like
+Vidflood
+or
+OpusClip
+to take long-form content or bulk images and automatically turn them into hundreds of 9:16 vertical videos.
+[48] (793,299)<a aria-label='Build an Affiliate AI Content System in 2026 (Full Course). 새 탭에서 열립니다.' class='NDNGvf' href='https://www.youtube.com/watch?v=pW4vgMEP6x0' />
+Build an Affiliate AI Content System in 2026 (Full Course)
+2026. 2. 27. —
+so most bloggers that are using AI right now are actually do...
+[49] (867,283)<div class='nrdPJf' role='button' />
+	[50] (826,307)<div >22:28 />
+	[51] (867,283)<div  />
+		[52] (867,283)<div  />
+	[53] (922,258)<div  />
+		[54] (922,258)<div  />
+YouTube
+·
+Adam Enfroy
+[55] (931,347)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-AQnvaeeMFd3IwN4PnMme-Q8_5' role='button' />
+7 Steps To Automate 99% Of Content Creation
+2025. 11. 30. —
+what if I told you that you could automate 99% of content cr...
+19:54
+[56] (922,414)<div  />
+	[57] (922,414)<div  />
+YouTube
+·
+Shane Hummus
+Generating 1000s of YouTube shorts automatically - Facebook
+2023. 11. 6. —
+Automate 5 YouTube Shorts in 60 minutes with clean handoffs ...
+Facebook
+·
+Niche Site Mastery Club
+모두 표시
+[58] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[59] (372,538)<div  />
+		[60] (372,538)<div >더보기 />
+			더보기
+			[61] (397,538)<span  />
+동영상
+[62] (133,638)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (133,638)<span  />
+		[64] (133,639)<span  />
+[65] (471,717)<a class='rIRoqf' href='https://www.youtube.com/watch?v=v3yHiX7XRhc' />
+	[66] (471,717)<div class='V5XKdd' role='heading' />
+		[67] (471,686)<div  />
+			[68] (446,686)<div  />
+				[69] (446,686)<span >$27000/Day Affiliate Marketing: Firing My Coders & Scaling ... />
+		[70] (471,738)<div  />
+			[71] (471,738)<div  />
+				[72] (471,726)<span  />
+					[73] (247,726)<span >YouTube />
+					[74] (336,726)<span >Robin Bouwman />
+						[75] (280,726)<span >· />
+				[76] (471,749)<div  />
+					[77] (257,749)<span >2026. 2. 16. />
+[78] (417,725)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[79] (417,725)<span  />
+		[80] (417,726)<span  />
+[81] (120,717)<div aria-label='Robin Bouwman님이 YouTube에 게시한 $27000/Day Affiliate Marketing: Firing My Coders & Scaling .... Google에서 재생. 1:34:45' class='rIRoqf hXY9cf' role='button' />
+	[82] (120,717)<div  />
+		[83] (120,717)<div  />
+			[84] (80,742)<div  />
+				[85] (80,742)<span >1:34:45 />
+			[86] (178,692)<div  />
+				[87] (178,692)<span  />
+[88] (210,797)<div class='KMEEs' role='button' />
+	[89] (210,797)<div  />
+		[90] (210,790)<div  />
+			[91] (169,790)<div  />
+				[92] (127,790)<div  />
+					[93] (127,790)<span  />
+						[94] (127,790)<span  />
+							[95] (127,790)<span >이 동영상의 주요 순간 22개 />
+				[96] (241,790)<span  />
+[97] (383,868)<div class='RyIFgf' scrollable='true' />
+	[98] (112,868)<a aria-label='AI as the #1 media buying edge. 0초의 1, 22. ' class='q9yZOe' href='https://www.youtube.com/watch?v=v3yHiX7XRhc&t=0' />
+		[99] (105,856)<div  />
+			[100] (105,856)<div  />
+				[101] (105,832)<div  />
+					[102] (61,832)<span >00:00 />
+				[103] (105,869)<div >AI as the #1 media buying edge />
+	[104] (259,868)<a aria-label='Building large-scale ad automations. 7분 3초의 2, 22. ' class='q9yZOe' href='https://www.youtube.com/watch?v=v3yHiX7XRhc&t=423' />
+		[105] (261,868)<div  />
+			[106] (261,868)<div  />
+				[107] (261,832)<div  />
+					[108] (217,832)<span >07:03 />
+				[109] (261,880)<div >Building large-scale ad automations />
+	[110] (415,868)<a aria-label='Copywriting vs creative: what really converts. 10분 5초의 3, 22. ' class='q9yZOe' href='https://www.youtube.com/watch?v=v3yHiX7XRhc&t=605' />
+		[111] (416,868)<div  />
+			[112] (416,868)<div  />
+				[113] (416,832)<div  />
+					[114] (372,832)<span >10:05 />
+				[115] (416,880)<div >Copywriting vs creative: what really converts />
+	[116] (570,868)<a aria-label='Turning images into video ads automatically. 14분 23초의 4, 22. ' class='q9yZOe' href='https://www.youtube.com/watch?v=v3yHiX7XRhc&t=863' />
+		[117] (572,868)<div  />
+			[118] (572,868)<div  />
+				[119] (572,832)<div  />
+					[120] (528,832)<span >14:23 />
+				[121] (572,880)<div >Turning images into video ads automatically />
+	[122] (683,832)<span >18:50 />
+	Platform focus: Facebook, TikTok & YouTube
+	20:26
+	Why Google Search doesn’t work for affiliates
+	23:17
+	Biggest profit day & scaling campaigns
+[123] (723,868)<div class='LeB5nb btku5b OJeuxf xab99e' role='button' />
+	[124] (723,868)<div  />
+		[125] (723,868)<span  />
+[126] (471,954)<div  />
+	[127] (429,954)<div  />
+		[128] (429,954)<span >Build an Affiliate AI Content System in 2026 (Full Course) />
+[129] (247,995)<span >YouTube />
+[130] (324,995)<span >Adam Enfroy />
+	[131] (280,995)<span >· />
+[132] (393,994)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[133] (393,994)<span  />
+		[134] (393,995)<span  />
+[135] (120,986)<div aria-label='Adam Enfroy님이 YouTube에 게시한 Build an Affiliate AI Content System in 2026 (Full Course). Google에서 재생. 22:28' class='rIRoqf hXY9cf' role='button' />
+	[136] (120,986)<div  />
+		[137] (120,986)<div  />
+			[138] (178,961)<div  />
+				[139] (178,961)<span  />
+[140] (802,641)<div  />
+	[141] (802,641)<img  />
+[142] (884,641)<div >AI에게 질문하기 />
+	[143] (833,641)<img  />
+검색 에이전트
+[144] (829,683)<div  />
+	[145] (803,683)<img  />
+	[146] (840,683)<span >4o mini />
+[147] (912,683)<div  />
+	[148] (886,683)<img  />
+	[149] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[150] (872,970)<div  />
+	[151] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인

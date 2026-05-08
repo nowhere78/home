@@ -1,0 +1,246 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[3] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[4] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[5] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[6] (740,34)<span  />
+[7] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[8] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[9] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[10] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[11] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[12] (967,34)<img  />
+repositories Search Results · 주식
+[13] (154,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true'>Filter by />
+	Filter by
+	[14] (147,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=code' id='_r_4_' />
+		[15] (159,148)<span  />
+			[16] (140,148)<span >Code />
+			results
+	[17] (147,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=repositories' id='_r_5_' />
+		[18] (159,182)<span  />
+			[19] (140,182)<span >Repositories />
+			results
+	[20] (147,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=issues' id='_r_6_' />
+		[21] (159,216)<span  />
+			[22] (140,216)<span >Issues />
+			results
+	[23] (147,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=pullrequests' id='_r_7_' />
+		[24] (159,250)<span  />
+			[25] (140,250)<span >Pull requests />
+			results
+	[26] (147,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=discussions' id='_r_8_' />
+		[27] (159,284)<span  />
+			[28] (140,284)<span >Discussions />
+			results
+	[29] (147,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D&type=users' id='_r_9_' />
+		[30] (159,317)<span  />
+			[31] (140,317)<span >Users />
+			results
+	[32] (147,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+		[33] (159,351)<span  />
+			[34] (159,351)<span >More />
+	Languages
+	[35] (147,425)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3APython&type=repositories' id='_r_c_' />
+		[36] (156,425)<span  />
+			[37] (156,425)<span  />
+				[38] (156,425)<div  />
+					[39] (156,425)<div >Python />
+	[40] (147,459)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJava&type=repositories' id='_r_d_' />
+		[41] (156,459)<span  />
+			[42] (156,459)<span  />
+				[43] (156,459)<div  />
+					[44] (156,459)<div >Java />
+	[45] (147,493)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ATypeScript&type=repositories' id='_r_e_' />
+		[46] (156,493)<span  />
+			[47] (156,493)<span  />
+				[48] (156,493)<div  />
+					[49] (156,493)<div >TypeScript />
+	[50] (147,527)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJavaScript&type=repositories' id='_r_f_' />
+		[51] (156,527)<span  />
+			[52] (156,527)<span  />
+				[53] (156,527)<div  />
+					[54] (156,527)<div >JavaScript />
+	[55] (147,561)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AJupyter+Notebook&type=repositories' id='_r_g_' />
+		[56] (156,561)<span  />
+			[57] (156,561)<span  />
+				[58] (156,561)<div  />
+					[59] (156,561)<div >Jupyter Notebook />
+	[60] (147,595)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AHTML&type=repositories' id='_r_h_' />
+		[61] (156,595)<span  />
+			[62] (156,595)<span  />
+				[63] (156,595)<div  />
+					[64] (156,595)<div >HTML />
+	[65] (147,629)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AKotlin&type=repositories' id='_r_i_' />
+		[66] (156,629)<span  />
+			[67] (156,629)<span  />
+				[68] (156,629)<div  />
+					[69] (156,629)<div >Kotlin />
+	[70] (147,662)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3AC%23&type=repositories' id='_r_j_' />
+		[71] (156,662)<span  />
+			[72] (156,662)<span  />
+				[73] (156,662)<div  />
+					[74] (156,662)<div >C# />
+	[75] (147,696)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ASwift&type=repositories' id='_r_k_' />
+		[76] (156,696)<span  />
+			[77] (156,696)<span  />
+				[78] (156,696)<div  />
+					[79] (156,696)<div >Swift />
+	[80] (147,730)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=%EC%A3%BC%EC%8B%9D+language%3ACSS&type=repositories' id='_r_l_' />
+		[81] (156,730)<span  />
+			[82] (156,730)<span  />
+				[83] (156,730)<div  />
+					[84] (156,730)<div >CSS />
+	[85] (147,764)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+		[86] (159,764)<span  />
+			[87] (159,764)<span  />
+				[88] (159,764)<div >More languages... />
+	Advanced
+	[89] (147,848)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+		[90] (159,848)<span  />
+			[91] (159,848)<span  />
+				[92] (159,848)<div  />
+					[93] (159,848)<div >Owner />
+	[94] (147,881)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+		[95] (159,881)<span  />
+			[96] (159,881)<span  />
+				[97] (159,881)<div  />
+					[98] (159,881)<div >Size />
+	[99] (147,915)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+		[100] (159,915)<span  />
+			[101] (159,915)<span  />
+				[102] (159,915)<div  />
+					[103] (159,915)<div >Number of followers />
+	[104] (147,949)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_r_' />
+		[105] (159,949)<span  />
+			[106] (159,949)<span  />
+				[107] (159,949)<div  />
+					[108] (159,949)<div >Number of forks />
+	[109] (147,983)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_s_' />
+		[110] (159,983)<span  />
+			[111] (159,983)<span  />
+				[112] (159,983)<div  />
+					[113] (159,983)<div >Number of stars />
+[114] (309,568)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+1.7k results
+(
+187
+ms
+)
+1.7k results
+[115] (790,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_19_' />
+	[116] (782,99)<span  />
+		[117] (782,99)<span >Best match />
+			[118] (750,99)<span >Sort by: />
+[119] (904,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[120] (904,99)<span  />
+		[121] (904,99)<span  />
+			[122] (904,99)<div >Save />
+[123] (960,99)<button aria-label='Open column options' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1j_' />
+[124] (459,162)<a class='prc-Link-Link-9ZwDx' href='/sharebook-kr/pykrx' />
+	[125] (459,161)<span >sharebook-kr/pykrx />
+KRX
+주식
+정보 스크래핑
+Python
+·
+[126] (452,216)<a aria-label='979 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/sharebook-kr/pykrx/stargazers' />
+	[127] (463,216)<span >979 />
+·
+Updated
+13 days ago
+[128] (926,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[129] (926,168)<span  />
+		[130] (937,168)<span >Star />
+[131] (472,293)<a class='prc-Link-Link-9ZwDx' href='/wikibook/stock-trading' />
+	[132] (472,293)<span >wikibook/stock-trading />
+『파이썬과 리액트를 활용한
+주식
+자동 시스템』 예제 코드
+Jupyter Notebook
+·
+[133] (509,348)<a aria-label='83 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/wikibook/stock-trading/stargazers' />
+	[134] (521,348)<span >83 />
+·
+Updated
+on 2023년 1월 5일
+[135] (926,299)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[136] (926,299)<span  />
+		[137] (937,299)<span >Star />
+[138] (467,424)<a class='prc-Link-Link-9ZwDx' href='/programgarden/book' />
+	[139] (467,424)<span >programgarden/book />
+교재 : 손가락 하나 까딱하지 않는
+주식
+거래 시스템 구축
+Python
+·
+[140] (452,479)<a aria-label='114 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/programgarden/book/stargazers' />
+	[141] (463,479)<span >114 />
+·
+Updated
+on 2025년 1월 7일
+[142] (926,431)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[143] (926,431)<span  />
+		[144] (937,431)<span >Star />
+[145] (469,556)<a class='prc-Link-Link-9ZwDx' href='/bsstory/PyStockTrader' />
+	[146] (469,555)<span >bsstory/PyStockTrader />
+파이썬
+주식
+코인 통합 시스템 트레이딩
+Python
+·
+[147] (449,610)<a aria-label='28 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/bsstory/PyStockTrader/stargazers' />
+	[148] (460,610)<span >28 />
+·
+Updated
+on 2021년 10월 14일
+[149] (926,562)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[150] (926,562)<span  />
+		[151] (937,562)<span >Star />
+[152] (440,687)<a class='prc-Link-Link-9ZwDx' href='/mrchypark/tqk' />
+	[153] (440,686)<span >mrchypark/tqk />
+한국
+주식
+데이터를 위한 R 패키지
+[154] (366,746)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/r'>r />
+[155] (423,746)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/tidyverse'>tidyverse />
+[156] (493,746)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/stock'>stock />
+[157] (552,746)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/rstats'>rstats />
+[158] (614,746)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/quant'>quant />
+R
+·
+[159] (417,777)<a aria-label='61 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/mrchypark/tqk/stargazers' />
+	[160] (429,777)<span >61 />
+·
+Updated
+on 2월 12일
+[161] (926,693)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[162] (926,693)<span  />
+		[163] (937,693)<span >Star />
+[164] (546,854)<a class='prc-Link-Link-9ZwDx' href='/sharebook-kr/book-korea-us-stock-trading' />
+	[165] (546,853)<span >sharebook-kr/book-korea-us-stock-trading />
+파이썬을 이용한 한국/미국
+주식
+자동매매
+Python
+·
+[166] (449,908)<a aria-label='22 stars' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/sharebook-kr/book-korea-us-stock-trading/stargazers' />
+	[167] (460,908)<span >22 />
+·
+Updated
+on 2022년 12월 6일
+[168] (926,860)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[169] (926,860)<span  />
+		[170] (937,860)<span >Star />
+jjlabsio/korea-stock-mcp
+[171] (926,992)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[172] (926,992)<span  />
+		[173] (937,992)<span >Star />
+
+</current_dom>

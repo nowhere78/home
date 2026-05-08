@@ -1,0 +1,312 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+메인 콘텐츠로 건너뛰기
+[0] (39,34)<a aria-label='Google Drive에서 보기' href='https://drive.google.com/drive/search?q=owner%3Ame%20(type%3Aapplication%2Fvnd.google.colaboratory%20%7C%7C%20type%3Aapplication%2Fvnd.google.colab)&authuser=0' />
+	[1] (39,32)<md-icon  />
+[2] (575,23)<button aria-label='별' class='icon-button  standard ' id='button' />
+	[3] (575,23)<span  />
+star
+[4] (673,23)<md-text-button >변경사항이 저장되지 않음 />
+	[5] (673,23)<button class='button' id='button' />
+		[6] (673,23)<span  />
+	[7] (604,23)<md-icon >cloud_off />
+[8] (91,53)<div class='goog-menu-button goog-inline-block' id='file-menu-button' role='button' />
+	[9] (91,53)<div  />
+		[10] (91,53)<div  />
+			[11] (91,53)<div >파일 />
+[12] (134,53)<div class='goog-menu-button goog-inline-block' id='edit-menu-button' role='button' />
+	[13] (134,53)<div  />
+		[14] (134,53)<div  />
+			[15] (134,53)<div >수정 />
+[16] (178,53)<div class='goog-menu-button goog-inline-block' id='view-menu-button' role='button' />
+	[17] (178,53)<div  />
+		[18] (178,53)<div  />
+			[19] (178,53)<div >보기 />
+[20] (221,53)<div class='goog-menu-button goog-inline-block' id='insert-menu-button' role='button' />
+	[21] (221,53)<div  />
+		[22] (221,53)<div  />
+			[23] (221,53)<div >삽입 />
+[24] (272,53)<div class='goog-menu-button goog-inline-block' id='runtime-menu-button' role='button' />
+	[25] (272,53)<div  />
+		[26] (272,53)<div  />
+			[27] (272,53)<div >런타임 />
+[28] (322,53)<div class='goog-menu-button goog-inline-block' id='tools-menu-button' role='button' />
+	[29] (322,53)<div  />
+		[30] (322,53)<div  />
+			[31] (322,53)<div >도구 />
+[32] (372,53)<div class='goog-menu-button goog-inline-block' id='help-menu-button' role='button' />
+	[33] (372,53)<div  />
+		[34] (372,53)<div  />
+			[35] (372,53)<div >도움말 />
+[36] (789,34)<button aria-label='설정 열기' class='icon-button  standard ' id='button' />
+	[37] (789,34)<span  />
+settings
+[38] (872,34)<md-filled-tonal-button >공유 />
+	[39] (870,34)<button aria-label='노트북 공유' class='button' id='button' />
+		[40] (872,34)<span  />
+	[41] (852,34)<md-icon >people />
+[42] (958,34)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a gb_6' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://colab.research.google.com/drive/1hZ7zur2VG1YY79HGWwBZCZGqJfoIR1R6&ec=GBRAqQM' role='button' />
+[43] (60,89)<md-text-button >명령 팔레트 표시
+Ctrl+Shift+P />
+	[44] (58,89)<button class='button' id='button' />
+		[45] (60,89)<span  />
+	[46] (35,89)<md-icon >search />
+	명령 팔레트 표시
+	Ctrl+Shift+P
+명령어
+[47] (135,89)<md-text-button >아래에 코드 셀 삽입
+Ctrl+M B />
+	[48] (133,89)<button class='button' id='button' />
+		[49] (135,89)<span  />
+	[50] (118,89)<md-icon >add />
+	아래에 코드 셀 삽입
+	Ctrl+M B
+코드
+[51] (180,89)<md-icon >arrow_drop_down />
+[52] (236,89)<md-text-button >텍스트 셀 추가 />
+	[53] (234,89)<button class='button' id='button' />
+		[54] (236,89)<span  />
+	[55] (211,89)<md-icon >add />
+	텍스트 셀 추가
+텍스트
+[56] (332,89)<md-text-button >노트의 모든 셀 실행 />
+	[57] (329,89)<button class='button' id='button' />
+		[58] (332,89)<span  />
+	[59] (299,89)<md-icon >play_arrow />
+	노트의 모든 셀 실행
+모두 실행
+[60] (392,89)<md-icon >arrow_drop_down />
+[61] (457,89)<md-text-button  />
+	[62] (457,89)<button class='button' id='button' />
+		[63] (457,89)<span  />
+Drive로 복사
+[64] (881,89)<md-text-button >새 런타임에 연결 />
+	[65] (881,89)<button class='button' id='button' />
+		[66] (881,89)<span  />
+	새 런타임에 연결
+연결
+A100
+[67] (933,89)<md-icon >arrow_drop_down />
+[68] (965,89)<md-icon >expand_less />
+[69] (38,148)<button aria-label='목차' class='icon-button  standard ' id='button' />
+	[70] (38,148)<span  />
+format_list_bulleted
+[71] (38,195)<button aria-label='찾기 및 바꾸기' class='icon-button  standard ' id='button' />
+	[72] (38,195)<span  />
+find_in_page
+[73] (38,242)<button aria-label='코드 스니펫' class='icon-button  standard ' id='button' />
+	[74] (38,242)<span  />
+code
+[75] (38,288)<button aria-label='데이터 검사 도구' class='icon-button  standard ' id='button' />
+	[76] (38,288)<span  />
+eye_tracking
+[77] (38,335)<button aria-label='보안 비밀' class='icon-button  standard ' id='button' />
+	[78] (38,335)<span  />
+vpn_key
+[79] (38,381)<button aria-label='파일' class='icon-button  standard ' id='button' />
+	[80] (38,381)<span  />
+folder
+[81] (38,428)<button aria-label='데이터 탐색기' class='icon-button  standard ' id='button' />
+	[82] (38,428)<span  />
+table
+[83] (527,536)<colab-scroller aria-label='노트북' class='notebook-container' id='notebook-main' role='main' scrollable='true' />
+	To run this, press "
+	Runtime
+	" and press "
+	Run all
+	" on a
+	free
+	Tesla T4 Google Colab instance!
+	[84] (185,234)<a aria-label=' 링크가 새 탭에서 열립니다.' href='https://www.google.com/url?q=https%3A%2F%2Funsloth.ai%2F' />
+		[85] (185,220)<img  />
+	[86] (325,234)<a aria-label=' 링크가 새 탭에서 열립니다.' href='https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2Funsloth' />
+		[87] (325,217)<img  />
+	[88] (469,234)<a aria-label=' 링크가 새 탭에서 열립니다.' href='https://www.google.com/url?q=https%3A%2F%2Funsloth.ai%2Fdocs%2F' />
+		[89] (469,217)<img  />
+	Join Discord if you need help + ⭐
+	Star us on
+	[90] (863,234)<a aria-label='Github 링크가 새 탭에서 열립니다.' href='https://github.com/unslothai/unsloth'>Github />
+	⭐
+	To install Unsloth on your local device, follow
+	[91] (502,268)<a aria-label='our guide 링크가 새 탭에서 열립니다.' href='https://www.google.com/url?q=https%3A%2F%2Funsloth.ai%2Fdocs%2Fget-started%2Finstall'>our guide />
+	. This notebook is licensed
+	[92] (776,268)<a aria-label='LGPL-3.0 링크가 새 탭에서 열립니다.' href='https://github.com/unslothai/notebooks?tab=LGPL-3.0-1-ov-file#readme'>LGPL-3.0 />
+	.
+	You will learn how to do
+	[93] (343,303)<a href='#Data'>data prep />
+	, how to
+	[94] (461,303)<a href='#Train'>train />
+	, how to
+	[95] (595,303)<a href='#Inference'>run the model />
+	, & how to save it
+	[96] (94,366)<button aria-label='설치하기 아래의 하위 셀 2개 접기(동위 섹션도 접으려면 <Shift>를 누르세요)' class='icon-button  standard ' id='button' />
+		[97] (94,366)<span  />
+	keyboard_arrow_down
+	설치하기
+	[98] (138,427)<button aria-label='셀 실행' id='run-button' />
+		[99] (138,428)<span  />
+	[ ]
+	[100] (574,543)<div class='view-lines monaco-mouse-cursor-text' role='presentation' />
+		[101] (574,427)<div  />
+			[102] (198,427)<span  />
+				[103] (198,427)<span >%%capture />
+		[104] (574,447)<div  />
+			[105] (212,447)<span  />
+				[106] (187,447)<span >import />
+				[107] (234,447)<span >os, re />
+		[108] (574,468)<div  />
+			[109] (333,467)<span  />
+				[110] (172,467)<span >if />
+				[111] (183,467)<span  />
+				[112] (216,467)<span >"COLAB_" />
+				[113] (249,467)<span  />
+				[114] (264,467)<span >not />
+				[115] (278,467)<span  />
+				[116] (289,467)<span >in />
+				[117] (300,467)<span  />
+				[118] (311,467)<span >"" />
+				[119] (337,467)<span >.join />
+				[120] (359,467)<span >( />
+				[121] (417,467)<span >os.environ.keys />
+				[122] (475,467)<span >( />
+				[123] (483,467)<span >) />
+				[124] (490,467)<span >) />
+				[125] (497,467)<span >: />
+		[126] (574,488)<div  />
+			[127] (380,487)<span  />
+				[128] (180,487)<span  />
+				[129] (198,487)<span >! />
+				[130] (278,487)<span >pip install unsloth />
+				[131] (475,487)<span ># Do this in local & cloud setups />
+		[132] (574,508)<div  />
+			[133] (183,507)<span  />
+				[134] (180,507)<span >else />
+				[135] (198,507)<span >: />
+		[136] (574,528)<div  />
+			[137] (479,527)<span  />
+				[138] (180,527)<span  />
+				[139] (216,527)<span >import />
+				[140] (293,527)<span >torch; v = re. />
+				[141] (366,527)<span >match />
+				[142] (388,527)<span >( />
+				[143] (395,527)<span >r />
+				[144] (472,527)<span >'[\d]{1,}\.[\d]{1,}' />
+				[145] (552,527)<span >, />
+				[146] (570,527)<span >str />
+				[147] (585,527)<span >( />
+				[148] (611,527)<span >torch. />
+				[149] (673,527)<span >__version__ />
+				[150] (717,527)<span >) />
+				[151] (724,527)<span >) />
+				[152] (749,527)<span >.group />
+				[153] (775,527)<span >( />
+				[154] (782,527)<span >0 />
+				[155] (790,527)<span >) />
+		[156] (574,548)<div  />
+			[157] (552,548)<span  />
+				[158] (220,548)<span >xformers = />
+				[159] (318,548)<span >'xformers==' />
+				[160] (373,548)<span >+ />
+				[161] (388,548)<span >{ />
+				[162] (413,548)<span >'2.10' />
+				[163] (439,548)<span >: />
+				[164] (472,548)<span >'0.0.34' />
+				[165] (505,548)<span >, />
+				[166] (527,548)<span >'2.9' />
+				[167] (549,548)<span >: />
+				[168] (603,548)<span >'0.0.33.post1' />
+				[169] (658,548)<span >, />
+				[170] (680,548)<span >'2.8' />
+				[171] (702,548)<span >: />
+				[172] (757,548)<span >'0.0.32.post2' />
+				[173] (812,548)<span >} />
+				[174] (830,548)<span >.get />
+				[175] (848,548)<span >( />
+				[176] (863,548)<span >v, />
+				[177] (903,548)<span >"0.0.34" />
+				[178] (936,548)<span >) />
+		[179] (574,568)<div  />
+			[180] (512,568)<span  />
+				[181] (180,568)<span  />
+				[182] (198,568)<span >! />
+				[183] (329,568)<span >pip install sentencepiece protobuf />
+				[184] (519,568)<span >"datasets==4.3.0" />
+				[185] (585,568)<span  />
+				[186] (680,568)<span >"huggingface_hub>=0.34.0" />
+				[187] (815,568)<span >hf_transfer />
+		[188] (574,588)<div  />
+			[189] (519,588)<span  />
+				[190] (180,588)<span  />
+				[191] (198,588)<span >! />
+				[192] (384,588)<span >pip install --no-deps unsloth_zoo bitsandbytes acc />
+				[193] (596,588)<span >elerate />
+				[194] (629,588)<span >{ />
+				[195] (662,588)<span >xformers />
+				[196] (695,588)<span >} />
+				[197] (786,588)<span >peft trl triton unsloth />
+		[198] (574,608)<div  />
+			[199] (318,608)<span  />
+				[200] (169,608)<span >! />
+				[201] (304,608)<span >pip install --no-deps transformers== />
+				[202] (454,608)<span >5.5.0 />
+		[203] (574,629)<div  />
+			[204] (249,628)<span  />
+				[205] (169,628)<span >! />
+				[206] (253,628)<span >pip install torchcodec />
+		[207] (574,649)<div  />
+			[208] (370,648)<span  />
+				[209] (187,648)<span >import />
+				[210] (380,648)<span >torch; torch._dynamo.config.recompile_limit = />
+				[211] (559,648)<span >64 />
+				[212] (570,648)<span >; />
+	[213] (138,702)<button aria-label='셀 실행' id='run-button' />
+		[214] (138,703)<span  />
+	[ ]
+	[215] (558,718)<div class='view-lines monaco-mouse-cursor-text' role='presentation' />
+		[216] (558,703)<div  />
+			[217] (198,702)<span  />
+				[218] (198,702)<span >%%capture />
+		[219] (558,723)<div  />
+			[220] (399,722)<span  />
+				[221] (169,722)<span >! />
+				[222] (307,722)<span >pip install --no-deps --upgrade timm />
+				[223] (538,722)<span ># For Gemma 4 vision/audio />
+	[224] (94,784)<button aria-label='Unsloth 모델 불러오기 아래의 하위 셀 1개 접기(동위 섹션도 접으려면 <Shift>를 누르세요)' class='icon-button  standard ' id='button' />
+		[225] (94,784)<span  />
+	keyboard_arrow_down
+	Unsloth 모델 불러오기
+	FastModel
+	supports loading nearly any model now! This includes Vision and Text models!
+	[226] (138,889)<button aria-label='셀 실행' id='run-button' />
+		[227] (138,890)<span  />
+	[ ]
+	[228] (558,890)<div  />
+		[229] (271,889)<span  />
+			[230] (180,889)<span >from />
+			[231] (227,889)<span >unsloth />
+			[232] (282,889)<span >import />
+			[233] (340,889)<span >FastModel />
+	[234] (558,910)<div  />
+		[235] (209,909)<span  />
+			[236] (187,909)<span >import />
+			[237] (231,909)<span >torch />
+	[238] (558,930)<div  />
+	gemma4_models =
+	[
+	# Gemma-4 instruct models:
+	"unsloth/gemma-4-E2B-it"
+	,
+spark
+[239] (59,981)<md-text-button >변수 />
+	[240] (57,981)<button class='button' id='button' />
+		[241] (59,981)<span  />
+	[242] (40,981)<md-icon >data_object />
+[243] (147,981)<md-text-button >터미널 />
+	[244] (145,981)<button class='button' id='button' />
+		[245] (147,981)<span  />
+	[246] (121,981)<md-icon >terminal />
+
+</current_dom>

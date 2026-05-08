@@ -1,0 +1,92 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (64,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (64,25)<span  />
+		[2] (64,25)<font  />
+			[3] (64,25)<font >README />
+[4] (172,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[5] (172,25)<span  />
+		[6] (172,25)<font  />
+			[7] (172,25)<font >행동 강령 />
+[8] (295,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[9] (295,25)<span  />
+		[10] (295,25)<font  />
+			[11] (295,25)<font >기여하기 />
+[12] (427,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[13] (427,25)<span  />
+		[14] (427,25)<font  />
+			[15] (427,25)<font >Apache-2.0 라이선스 />
+[16] (544,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[17] (544,25)<span  />
+		[18] (544,25)<font  />
+			[19] (544,25)<font >보안 />
+[20] (640,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (681,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+English
+|
+简体中文
+|
+Español
+|
+हिन्दी
+|
+Português
+|
+日本語
+|
+Русский
+|
+한국어
+[22] (122,80)<a href='https://github.com/aden-hive/hive/blob/main/LICENSE' />
+	[23] (122,77)<img  />
+[24] (255,80)<a href='https://www.ycombinator.com/companies/aden' />
+	[25] (255,77)<img  />
+[26] (385,80)<a href='https://discord.com/invite/MXE49hrKDk' />
+	[27] (385,77)<img  />
+[28] (518,80)<a href='https://x.com/aden_hq' />
+	[29] (518,77)<img  />
+[30] (628,80)<a href='https://www.linkedin.com/company/teamaden/' />
+	[31] (628,77)<img  />
+[32] (362,108)<a href='https://camo.githubusercontent.com/808db4f3509ad6eebf56a51fca39742b588c2496799e0faf459d0126771b60a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d43502d3130325f546f6f6c732d3030414444383f7374796c653d666c61742d737175617265' />
+	[33] (362,104)<img  />
+[34] (208,152)<a href='https://camo.githubusercontent.com/e3c6d265bffc57633aa79d10d544dbc86ca47beb43e8049a5db04ab168edf5fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4167656e745f4861726e6573732d52756e74696d655f4c617965722d6666363630303f7374796c653d666c61742d737175617265' />
+	[35] (208,149)<img  />
+[36] (389,152)<a href='https://camo.githubusercontent.com/364a68eed5cfdba857dcbd58e8c27734fa2cba77dcfa2a7114dc2335bd5bec39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41495f4167656e74732d53656c662d2d496d70726f76696e672d627269676874677265656e3f7374796c653d666c61742d737175617265' />
+	[37] (389,149)<img  />
+[38] (543,152)<a href='https://camo.githubusercontent.com/4c7a5687e0852ab4dcc38fed85b10042914c0a3bd031dab319f28ae295854962/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d756c74692d2d4167656e742d53797374656d732d626c75653f7374796c653d666c61742d737175617265' />
+	[39] (543,149)<img  />
+[40] (251,180)<a href='https://camo.githubusercontent.com/89b13923d408bd50a32c9ed5cd1a3a284667e08cb187703833f199c3f69f8380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486561646c6573732d446576656c6f706d656e742d707572706c653f7374796c653d666c61742d737175617265' />
+	[41] (251,176)<img  />
+[42] (391,180)<a href='https://camo.githubusercontent.com/158e49d4c1eaa048b3dfaa66500b412284507d27589e76fa02b25ae23c2b0e86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48756d616e2d2d696e2d2d7468652d2d4c6f6f702d6f72616e67653f7374796c653d666c61742d737175617265' />
+	[43] (391,176)<img  />
+[44] (503,180)<a href='https://camo.githubusercontent.com/c0712229fee852f0f8b1bcb4b61d3ed05979f6e43e75955eb341b9fb281d3cf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42726f777365722d5573652d7265643f7374796c653d666c61742d737175617265' />
+	[45] (503,176)<img  />
+[46] (201,224)<a href='https://camo.githubusercontent.com/2d5b045c0ba7440503a43c4643fea929a823f3d517a063dccad04bbefb9c250d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e41492d737570706f727465642d3431323939313f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6169' />
+	[47] (201,221)<img  />
+[48] (332,224)<a href='https://camo.githubusercontent.com/ef5e1f9a1adbb34fa2f6c3d569a26a3118ee473f9092e57833414f0dccbf47f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e7468726f7069632d737570706f727465642d6434613537343f7374796c653d666c61742d737175617265' />
+	[49] (332,221)<img  />
+[50] (494,224)<a href='https://camo.githubusercontent.com/f2ec6e54772de96178da8c9de593adf6feb308b59973a44b79d22fac13a052d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f47656d696e692d737570706f727465642d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c65' />
+	[51] (494,221)<img  />
+The agent harness for production workloads — state management, failure recovery, observability, and human oversight so your agents actually run.
+Overview
+[52] (37,346)<a aria-label='Permalink: Overview' class='anchor' href='#overview' id='user-content-overview' />
+OpenHive is a zero-setup, model-agnostic execution harness that dynamically generates multi-agent topologies to tackle complex, long-running business workflows without requiring any orchestration boilerplate. By simply defining your objective, the runtime compiles a strict, graph-based execution DAG that safely coordinates specialized agents to execute concurrent tasks in parallel. Backed by persistent, role-based memory that intelligently evolves with your project's context, OpenHive ensures deterministic fault tolerance, deep state observability, and seamless asynchronous execution across whichever underlying LLMs you choose to plug in.
+Features
+[53] (37,658)<a aria-label='Permalink: Features' class='anchor' href='#features' id='user-content-features' />
+✅ Multi-Agent Coordination for parallel task execution
+✅ Graph-based execution for recurring and complex processes
+✅ Role-based memory that evolves with your projects
+✅ Zero Setup - No technical configuration required
+✅ General Compute Use and Browser Use with Native Extension
+✅ Custom Model Support
+Visit
+[54] (133,903)<a href='https://adenhq.com'>adenhq.com />
+for complete documentation, examples, and guides.
+Visit
+[55] (133,945)<a href='http://honeycomb.open-hive.com/'>HoneyComb />
+to see what jobs are being automated by AI. It’s a stock market for jobs, driven by our community’s AI agent progress. You can long and short jobs (with no real money but compute token)based on how much you think a job is going to be replaced by AI.
+
+</current_dom>

@@ -1,0 +1,572 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (387,840)<div  />
+	[39] (387,840)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,835)<div  />
+		[41] (387,840)<div  />
+		[42] (95,840)<div  />
+			[43] (95,840)<div  />
+[44] (40,873)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,873)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (110,873)<div  />
+	[47] (110,873)<div  />
+		[48] (110,873)<div aria-label='3 분 30 초/38 분 42 초' class='ytp-time-contents' role='button' />
+			[49] (98,872)<span  />
+			[50] (108,872)<span  />
+			[51] (121,872)<span  />
+[52] (630,873)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,873)<div  />
+		[54] (630,873)<div  />
+[55] (655,873)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,886)<div  />
+[57] (680,873)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,873)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,873)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[NEW 프로젝트 1일차 라이브] AI로 '월 순수익 100만 원' 만들기 대장정 시작! (돈이 되는 유튜브 주제/입지 찾기)
+[60] (43,954)<yt-metadata-badge-renderer  />
+	회원 전용
+[61] (37,995)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@CONNECT-AI-LAB' />
+	[62] (34,994)<yt-img-shadow  />
+		[63] (34,994)<img  />
+[64] (84,986)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@CONNECT-AI-LAB'>CONNECT AI LAB />
+[65] (122,986)<yt-metadata-badge-renderer  />
+구독자 11만명
+[66] (160,995)<a aria-label='이 채널의 멤버십 관리' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/membership' />
+	혜택 보기
+	[67] (160,995)<yt-touch-feedback-shape  />
+		[68] (160,995)<div  />
+[69] (206,995)<button aria-label='현재 설정은 맞춤설정 알림 수신입니다. CONNECT AI LAB 채널의 알림 설정을 변경하려면 탭하세요.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeadingTrailing ytSpecButtonShapeNextIconLeadingTrailingNoText ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[70] (206,995)<yt-touch-feedback-shape  />
+		[71] (206,995)<div  />
+[72] (529,995)<button aria-label='다른 사용자 435명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>435 />
+	435
+	[73] (529,995)<yt-touch-feedback-shape  />
+		[74] (529,995)<div  />
+[75] (563,995)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[76] (563,995)<yt-touch-feedback-shape  />
+		[77] (563,995)<div  />
+[78] (602,995)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[79] (602,995)<yt-touch-feedback-shape  />
+		[80] (602,995)<div  />
+[81] (649,995)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[82] (649,995)<yt-touch-feedback-shape  />
+		[83] (649,995)<div  />
+[84] (701,995)<button aria-label='Thanks' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>Thanks />
+	Thanks
+	[85] (701,995)<yt-touch-feedback-shape  />
+		[86] (701,995)<div  />
+[87] (741,995)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[88] (741,995)<yt-touch-feedback-shape  />
+		[89] (741,995)<div  />
+[90] (811,98)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[91] (811,98)<div  />
+		[92] (811,98)<tp-yt-paper-button aria-label='실시간 채팅 모드 선택: 주요 채팅 다시보기' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[93] (805,98)<div >주요 채팅 다시보기 />
+			[94] (844,98)<yt-icon  />
+				[95] (844,98)<span  />
+					[96] (844,98)<div  />
+[97] (907,98)<button class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeXs ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[98] (900,98)<div  />
+		[99] (900,98)<span  />
+			[100] (900,98)<span  />
+				[101] (900,98)<div  />
+	[102] (911,98)<div >탑 팬 />
+	[103] (907,98)<yt-touch-feedback-shape  />
+		[104] (907,98)<div  />
+		[105] (907,98)<div  />
+[106] (932,98)<button aria-label='옵션 더보기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[107] (932,98)<div  />
+		[108] (932,98)<span  />
+			[109] (932,98)<span  />
+				[110] (932,98)<div  />
+	[111] (932,98)<yt-touch-feedback-shape  />
+		[112] (932,98)<div  />
+		[113] (932,98)<div  />
+[114] (953,98)<button aria-label='닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[115] (953,98)<div  />
+		[116] (953,98)<span  />
+			[117] (953,98)<span  />
+				[118] (953,98)<div  />
+	[119] (953,98)<yt-touch-feedback-shape  />
+		[120] (953,98)<div  />
+		[121] (953,98)<div  />
+[122] (864,513)<div class='style-scope yt-live-chat-item-list-renderer' id='item-scroller' scrollable='true' />
+	[123] (860,84)<yt-live-chat-text-message-renderer  />
+		[124] (778,84)<yt-img-shadow  />
+			[125] (778,84)<img  />
+		[126] (845,84)<div  />
+			[127] (821,82)<yt-live-chat-author-chip  />
+				[128] (821,82)<span >@romairemartinez />
+			[129] (875,82)<span  />
+				[130] (875,82)<span  />
+					[131] (861,83)<img  />
+					[132] (875,83)<img  />
+					[133] (890,83)<img  />
+		[134] (952,84)<div  />
+			[135] (952,84)<yt-icon-button  />
+				[136] (952,84)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[137] (952,84)<yt-icon  />
+						[138] (952,84)<span  />
+							[139] (952,84)<div  />
+				[140] (952,84)<yt-interaction  />
+					[141] (952,84)<div  />
+					[142] (952,84)<div  />
+	[143] (860,117)<yt-live-chat-text-message-renderer  />
+		[144] (778,117)<yt-img-shadow  />
+			[145] (778,117)<img  />
+		[146] (869,117)<div  />
+			[147] (808,115)<yt-live-chat-author-chip  />
+				[148] (808,115)<span >@AI건물주 />
+			[149] (887,116)<span  />
+				[150] (887,116)<span  />
+					[151] (835,116)<img  />
+					[152] (850,116)<img  />
+					[153] (865,116)<img  />
+					[154] (879,116)<img  />
+					[155] (894,116)<img  />
+					[156] (908,116)<img  />
+					[157] (923,116)<img  />
+					[158] (938,116)<img  />
+		[159] (952,117)<div  />
+			[160] (952,117)<yt-icon-button  />
+				[161] (952,117)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[162] (952,117)<yt-icon  />
+						[163] (952,117)<span  />
+							[164] (952,117)<div  />
+				[165] (952,117)<yt-interaction  />
+					[166] (952,117)<div  />
+					[167] (952,117)<div  />
+	[168] (860,156)<yt-live-chat-text-message-renderer  />
+		[169] (778,151)<yt-img-shadow  />
+			[170] (778,151)<img  />
+		[171] (870,156)<div  />
+			[172] (820,147)<yt-live-chat-author-chip  />
+				[173] (820,147)<span >@JoyfulPetFamily />
+			[174] (868,155)<span  />
+				[175] (868,155)<span >안녕하세요!! 반갑습니다. 오늘 수업 화이팅!! 입니다. />
+		[176] (952,156)<div  />
+			[177] (952,151)<yt-icon-button  />
+				[178] (952,151)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[179] (952,151)<yt-icon  />
+						[180] (952,151)<span  />
+							[181] (952,151)<div  />
+				[182] (952,151)<yt-interaction  />
+					[183] (952,151)<div  />
+					[184] (952,151)<div  />
+	[185] (860,194)<yt-live-chat-text-message-renderer  />
+		[186] (778,194)<yt-img-shadow  />
+			[187] (778,194)<img  />
+		[188] (830,194)<div  />
+			[189] (813,193)<yt-live-chat-author-chip  />
+				[190] (813,193)<span >@philko2469 />
+			[191] (852,193)<span  />
+				[192] (852,193)<span >안녕하세요 />
+		[193] (952,194)<div  />
+			[194] (952,194)<yt-icon-button  />
+				[195] (952,194)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[196] (952,194)<yt-icon  />
+						[197] (952,194)<span  />
+							[198] (952,194)<div  />
+				[199] (952,194)<yt-interaction  />
+					[200] (952,194)<div  />
+					[201] (952,194)<div  />
+	[202] (860,228)<yt-live-chat-text-message-renderer  />
+		[203] (778,228)<yt-img-shadow  />
+			[204] (778,228)<img  />
+		[205] (842,228)<div  />
+			[206] (818,225)<yt-live-chat-author-chip  />
+				[207] (818,225)<span >@아들과사는엄마 />
+			[208] (869,226)<span  />
+				[209] (869,226)<span  />
+					[210] (854,226)<img  />
+					[211] (869,226)<img  />
+					[212] (883,226)<img  />
+		[213] (952,228)<div  />
+			[214] (952,228)<yt-icon-button  />
+				[215] (952,228)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[216] (952,228)<yt-icon  />
+						[217] (952,228)<span  />
+							[218] (952,228)<div  />
+				[219] (952,228)<yt-interaction  />
+					[220] (952,228)<div  />
+					[221] (952,228)<div  />
+	[222] (860,261)<yt-live-chat-text-message-renderer  />
+		[223] (778,261)<yt-img-shadow  />
+			[224] (778,261)<img  />
+		[225] (831,261)<div  />
+			[226] (822,260)<yt-live-chat-author-chip  />
+				[227] (822,260)<span >@Activesenior-k4o />
+			[228] (862,260)<span  />
+				[229] (862,260)<span  />
+					[230] (862,260)<img  />
+		[231] (952,261)<div  />
+			[232] (952,261)<yt-icon-button  />
+				[233] (952,261)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[234] (952,261)<yt-icon  />
+						[235] (952,261)<span  />
+							[236] (952,261)<div  />
+				[237] (952,261)<yt-interaction  />
+					[238] (952,261)<div  />
+					[239] (952,261)<div  />
+	[240] (860,295)<yt-live-chat-text-message-renderer  />
+		[241] (778,295)<yt-img-shadow  />
+			[242] (778,295)<img  />
+		[243] (833,295)<div  />
+			[244] (811,295)<yt-live-chat-author-chip  />
+				[245] (811,295)<span >@timing21f />
+			[246] (853,295)<span  />
+				[247] (853,295)<span >안녕하세요~~ />
+		[248] (952,295)<div  />
+			[249] (952,295)<yt-icon-button  />
+				[250] (952,295)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[251] (952,295)<yt-icon  />
+						[252] (952,295)<span  />
+							[253] (952,295)<div  />
+				[254] (952,295)<yt-interaction  />
+					[255] (952,295)<div  />
+					[256] (952,295)<div  />
+	[257] (860,329)<yt-live-chat-text-message-renderer  />
+		[258] (778,329)<yt-img-shadow  />
+			[259] (778,329)<img  />
+		[260] (823,329)<div  />
+			[261] (805,329)<yt-live-chat-author-chip  />
+				[262] (805,329)<span >@행별냥 />
+			[263] (837,330)<span  />
+				[264] (837,330)<span >안녕하세요 />
+		[265] (952,329)<div  />
+			[266] (952,329)<yt-icon-button  />
+				[267] (952,329)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[268] (952,329)<yt-icon  />
+						[269] (952,329)<span  />
+							[270] (952,329)<div  />
+				[271] (952,329)<yt-interaction  />
+					[272] (952,329)<div  />
+					[273] (952,329)<div  />
+	[274] (860,363)<yt-live-chat-text-message-renderer  />
+		[275] (778,363)<yt-img-shadow  />
+			[276] (778,363)<img  />
+		[277] (842,363)<div  />
+			[278] (817,362)<yt-live-chat-author-chip  />
+				[279] (817,362)<span >@rickeylee8912 />
+			[280] (868,362)<span  />
+				[281] (868,362)<span >"잘 자요~" />
+					[282] (884,362)<img  />
+		[283] (952,363)<div  />
+			[284] (952,363)<yt-icon-button  />
+				[285] (952,363)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[286] (952,363)<yt-icon  />
+						[287] (952,363)<span  />
+							[288] (952,363)<div  />
+				[289] (952,363)<yt-interaction  />
+					[290] (952,363)<div  />
+					[291] (952,363)<div  />
+	[292] (860,397)<yt-live-chat-text-message-renderer  />
+		[293] (778,397)<yt-img-shadow  />
+			[294] (778,397)<img  />
+		[295] (834,397)<div  />
+			[296] (809,396)<yt-live-chat-author-chip  />
+				[297] (809,396)<span >@Choi-z5z />
+			[298] (852,396)<span  />
+				[299] (852,396)<span >안녕하세요 ㅎㅎ />
+		[300] (952,397)<div  />
+			[301] (952,397)<yt-icon-button  />
+				[302] (952,397)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[303] (952,397)<yt-icon  />
+						[304] (952,397)<span  />
+							[305] (952,397)<div  />
+				[306] (952,397)<yt-interaction  />
+					[307] (952,397)<div  />
+					[308] (952,397)<div  />
+	[309] (860,431)<yt-live-chat-text-message-renderer  />
+		[310] (778,431)<yt-img-shadow  />
+			[311] (778,431)<img  />
+		[312] (838,431)<div  />
+			[313] (821,431)<yt-live-chat-author-chip  />
+				[314] (821,431)<span >@해운대DavidPark />
+			[315] (868,432)<span  />
+				[316] (868,432)<span >안녕하세요 />
+		[317] (952,431)<div  />
+			[318] (952,431)<yt-icon-button  />
+				[319] (952,431)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[320] (952,431)<yt-icon  />
+						[321] (952,431)<span  />
+							[322] (952,431)<div  />
+				[323] (952,431)<yt-interaction  />
+					[324] (952,431)<div  />
+					[325] (952,431)<div  />
+	[326] (860,465)<yt-live-chat-text-message-renderer  />
+		[327] (778,465)<yt-img-shadow  />
+			[328] (778,465)<img  />
+		[329] (836,465)<div  />
+			[330] (815,465)<yt-live-chat-author-chip  />
+				[331] (815,465)<span >@에버그린-b8k />
+			[332] (861,466)<span  />
+				[333] (861,466)<span >안녕하세요 ^^ />
+		[334] (952,465)<div  />
+			[335] (952,465)<yt-icon-button  />
+				[336] (952,465)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[337] (952,465)<yt-icon  />
+						[338] (952,465)<span  />
+							[339] (952,465)<div  />
+				[340] (952,465)<yt-interaction  />
+					[341] (952,465)<div  />
+					[342] (952,465)<div  />
+	[343] (860,498)<yt-live-chat-text-message-renderer  />
+		[344] (778,498)<yt-img-shadow  />
+			[345] (778,498)<img  />
+		[346] (840,498)<div  />
+			[347] (813,498)<yt-live-chat-author-chip  />
+				[348] (813,498)<span >@dolly79422 />
+			[349] (862,498)<span  />
+				[350] (862,498)<span >첫강의를 듣다니... />
+		[351] (952,498)<div  />
+			[352] (952,498)<yt-icon-button  />
+				[353] (952,498)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[354] (952,498)<yt-icon  />
+						[355] (952,498)<span  />
+							[356] (952,498)<div  />
+				[357] (952,498)<yt-interaction  />
+					[358] (952,498)<div  />
+					[359] (952,498)<div  />
+	[360] (860,532)<yt-live-chat-text-message-renderer  />
+		[361] (778,532)<yt-img-shadow  />
+			[362] (778,532)<img  />
+		[363] (852,532)<div  />
+			[364] (835,532)<yt-live-chat-author-chip  />
+				[365] (835,532)<span >@YuniWoniHome유니워니홈 />
+			[366] (896,533)<span  />
+				[367] (896,533)<span >안녕하세요 />
+		[368] (952,532)<div  />
+			[369] (952,532)<yt-icon-button  />
+				[370] (952,532)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[371] (952,532)<yt-icon  />
+						[372] (952,532)<span  />
+							[373] (952,532)<div  />
+				[374] (952,532)<yt-interaction  />
+					[375] (952,532)<div  />
+					[376] (952,532)<div  />
+	[377] (860,570)<yt-live-chat-text-message-renderer  />
+		[378] (778,566)<yt-img-shadow  />
+			[379] (778,566)<img  />
+		[380] (870,570)<div  />
+			[381] (823,561)<yt-live-chat-author-chip  />
+				[382] (823,561)<span >@AI_Creator_Center />
+			[383] (868,570)<span  />
+				[384] (868,570)<span >AI로 '월 순수익 100만 원' 만들기 대장정 시작 참여합니다. />
+		[385] (952,570)<div  />
+			[386] (952,566)<yt-icon-button  />
+				[387] (952,566)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[388] (952,566)<yt-icon  />
+						[389] (952,566)<span  />
+							[390] (952,566)<div  />
+				[391] (952,566)<yt-interaction  />
+					[392] (952,566)<div  />
+					[393] (952,566)<div  />
+	[394] (860,608)<yt-live-chat-text-message-renderer  />
+		[395] (778,608)<yt-img-shadow  />
+			[396] (778,608)<img  />
+		[397] (863,608)<div  />
+			[398] (821,608)<yt-live-chat-author-chip  />
+				[399] (821,608)<span >@해운대DavidPark />
+			[400] (892,610)<span  />
+				[401] (892,610)<span >매일 이시간만 기대됩니다 ㅛ />
+		[402] (952,608)<div  />
+			[403] (952,608)<yt-icon-button  />
+				[404] (952,608)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[405] (952,608)<yt-icon  />
+						[406] (952,608)<span  />
+							[407] (952,608)<div  />
+				[408] (952,608)<yt-interaction  />
+					[409] (952,608)<div  />
+					[410] (952,608)<div  />
+	[411] (860,642)<yt-live-chat-text-message-renderer  />
+		[412] (778,642)<yt-img-shadow  />
+			[413] (778,642)<img  />
+		[414] (830,642)<div  />
+			[415] (813,642)<yt-live-chat-author-chip  />
+				[416] (813,642)<span >@dolly79422 />
+			[417] (852,642)<span  />
+				[418] (852,642)<span >설레이네요 />
+		[419] (952,642)<div  />
+			[420] (952,642)<yt-icon-button  />
+				[421] (952,642)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[422] (952,642)<yt-icon  />
+						[423] (952,642)<span  />
+							[424] (952,642)<div  />
+				[425] (952,642)<yt-interaction  />
+					[426] (952,642)<div  />
+					[427] (952,642)<div  />
+	[428] (860,676)<yt-live-chat-text-message-renderer  />
+		[429] (778,676)<yt-img-shadow  />
+			[430] (778,676)<img  />
+		[431] (831,676)<div  />
+			[432] (808,676)<yt-live-chat-author-chip  />
+				[433] (808,676)<span >@허벌나게 />
+			[434] (848,677)<span  />
+				[435] (848,677)<span >안녕하세요~~ />
+		[436] (952,676)<div  />
+			[437] (952,676)<yt-icon-button  />
+				[438] (952,676)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[439] (952,676)<yt-icon  />
+						[440] (952,676)<span  />
+							[441] (952,676)<div  />
+				[442] (952,676)<yt-interaction  />
+					[443] (952,676)<div  />
+					[444] (952,676)<div  />
+	[445] (860,710)<yt-live-chat-text-message-renderer  />
+		[446] (778,710)<yt-img-shadow  />
+			[447] (778,710)<img  />
+		[448] (863,710)<div  />
+			[449] (813,710)<yt-live-chat-author-chip  />
+				[450] (813,710)<span >@JaniceMJ7 />
+			[451] (884,710)<span  />
+				[452] (884,710)<span >메인첫화면
+..
+와우
+~
+설렘
+~
+궁금
+~~ />
+		[453] (952,710)<div  />
+			[454] (952,710)<yt-icon-button  />
+				[455] (952,710)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[456] (952,710)<yt-icon  />
+						[457] (952,710)<span  />
+							[458] (952,710)<div  />
+				[459] (952,710)<yt-interaction  />
+					[460] (952,710)<div  />
+					[461] (952,710)<div  />
+	[462] (860,744)<yt-live-chat-text-message-renderer  />
+		[463] (778,744)<yt-img-shadow  />
+			[464] (778,744)<img  />
+		[465] (827,744)<div  />
+			[466] (818,742)<yt-live-chat-author-chip  />
+				[467] (818,742)<span >@예쁜내똥고양이 />
+			[468] (854,743)<span  />
+				[469] (854,743)<span  />
+					[470] (854,743)<img  />
+		[471] (952,744)<div  />
+			[472] (952,744)<yt-icon-button  />
+				[473] (952,744)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[474] (952,744)<yt-icon  />
+						[475] (952,744)<span  />
+							[476] (952,744)<div  />
+				[477] (952,744)<yt-interaction  />
+					[478] (952,744)<div  />
+					[479] (952,744)<div  />
+	[480] (860,778)<yt-live-chat-text-message-renderer  />
+		[481] (778,778)<yt-img-shadow  />
+			[482] (778,778)<img  />
+		[483] (859,778)<div  />
+			[484] (813,777)<yt-live-chat-author-chip  />
+				[485] (813,777)<span >@dolly79422 />
+			[486] (881,777)<span  />
+				[487] (881,777)<span >밑밥만 깔고 그뒤 돈내는 강의.... />
+		[488] (952,778)<div  />
+			[489] (952,778)<yt-icon-button  />
+				[490] (952,778)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[491] (952,778)<yt-icon  />
+						[492] (952,778)<span  />
+							[493] (952,778)<div  />
+				[494] (952,778)<yt-interaction  />
+					[495] (952,778)<div  />
+					[496] (952,778)<div  />
+	[497] (860,812)<yt-live-chat-text-message-renderer  />
+		[498] (778,812)<yt-img-shadow  />
+			[499] (778,812)<img  />
+		[500] (852,812)<div  />
+			[501] (813,811)<yt-live-chat-author-chip  />
+				[502] (813,811)<span >@dolly79422 />
+			[503] (874,811)<span  />
+				[504] (874,811)<span >여기는 진짜 정말 감동 ㅠㅠ />
+		[505] (952,812)<div  />
+			[506] (952,812)<yt-icon-button  />
+				[507] (952,812)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[508] (952,812)<yt-icon  />
+						[509] (952,812)<span  />
+							[510] (952,812)<div  />
+				[511] (952,812)<yt-interaction  />
+					[512] (952,812)<div  />
+					[513] (952,812)<div  />
+	[514] (860,846)<yt-live-chat-text-message-renderer  />
+		[515] (778,846)<yt-img-shadow  />
+			[516] (778,846)<img  />
+		[517] (849,846)<div  />
+			[518] (811,845)<yt-live-chat-author-chip  />
+				[519] (811,845)<span >@BrigntKIM />
+			[520] (869,845)<span  />
+				[521] (869,845)<span >순수익...그런데 세금이 ㅠ />
+		[522] (952,846)<div  />
+			[523] (952,846)<yt-icon-button  />
+				[524] (952,846)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[525] (952,846)<yt-icon  />
+						[526] (952,846)<span  />
+							[527] (952,846)<div  />
+				[528] (952,846)<yt-interaction  />
+					[529] (952,846)<div  />
+					[530] (952,846)<div  />
+	[531] (860,879)<yt-live-chat-text-message-renderer  />
+		[532] (778,879)<yt-img-shadow  />
+			[533] (778,879)<img  />
+		[534] (818,879)<div  />
+			[535] (805,877)<yt-live-chat-author-chip  />
+				[536] (805,877)<span >@구서원 />
+			[537] (833,878)<span  />
+				[538] (833,878)<span >hi />
+					[539] (836,878)<img  />
+		[540] (952,879)<div  />
+			[541] (952,879)<yt-icon-button  />
+				[542] (952,879)<button aria-label='채팅 작업' class='style-scope yt-icon-button' id='button' />
+					[543] (952,879)<yt-icon  />
+						[544] (952,879)<span  />
+							[545] (952,879)<div  />
+				[546] (952,879)<yt-interaction  />
+					[547] (952,879)<div  />
+					[548] (952,879)<div  />
+
+</current_dom>

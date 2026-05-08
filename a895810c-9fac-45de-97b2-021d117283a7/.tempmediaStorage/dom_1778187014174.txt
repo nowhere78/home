@@ -1,0 +1,142 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (264,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (271,25)<span  />
+		[8] (271,25)<font  />
+			[9] (271,25)<font >특허 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+또는 소스에서 설치
+pip install
+"
+tabpfn @ git+https://github.com/PriorLabs/TabPFN.git
+"
+[12] (626,94)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+또는 로컬 개발 환경 설치: 먼저 개발에 사용하는
+[13] (371,155)<a href='https://docs.astral.sh/uv/getting-started/installation' />
+	[14] (371,155)<font  />
+		[15] (371,155)<font >uv />
+(버전 0.10.0 이상 권장)를 설치한 다음 실행하세요.
+git clone https://github.com/PriorLabs/TabPFN.git --depth 1
+cd
+TabPFN
+uv sync
+[16] (626,209)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+기본 사용법
+[17] (193,320)<a aria-label='고유 링크: 기본 사용법' class='anchor' href='#basic-usage' id='user-content-basic-usage' />
+합성 데이터로만 학습된 기본 TabPFN-2.6 모델을 사용하려면 다음과 같이 하세요.
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+clf
+=
+TabPFNClassifier
+()
+clf
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+clf
+.
+predict
+(
+X_test
+)
+reg
+=
+TabPFNRegressor
+()
+reg
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+reg
+.
+predict
+(
+X_test
+)
+[18] (626,416)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+다른 모델 버전(예: TabPFN-2.5)을 사용하려면 다음 단계를 따르십시오.
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+from
+tabpfn
+.
+constants
+import
+ModelVersion
+classifier
+=
+TabPFNClassifier
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+regressor
+=
+TabPFNRegressor
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+[19] (626,697)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+자세한 예제는
+[20] (314,841)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_binary_classification.py' />
+	[21] (314,841)<font  />
+		[22] (314,841)<font >tabpfn_for_binary_classification.py />
+,
+[23] (451,841)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_multiclass_classification.py' />
+	[24] (451,841)<font  />
+		[25] (451,841)<font >tabpfn_for_multiclass_classification.py />
+및
+[26] (578,841)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_regression.py' />
+	[27] (578,841)<font  />
+		[28] (578,841)<font >tabpfn_for_regression.py />
+파일을 참조하십시오.
+사용 팁
+[29] (193,918)<a aria-label='고유 링크: 사용 팁' class='anchor' href='#usage-tips' id='user-content-usage-tips' />
+배치 예측 모드를 사용하세요
+. 각
+predict
+호출마다 학습 데이터셋을 다시 계산합니다.
+predict
+100개의 샘플을 개별적으로 호출하는 것은 단일 호출보다 거의 100배 느리고 비용이 많이 듭니다. 테스트 데이터셋이 매우 큰 경우, 1000개 샘플씩 여러 덩어리로 나누세요.
+
+</current_dom>

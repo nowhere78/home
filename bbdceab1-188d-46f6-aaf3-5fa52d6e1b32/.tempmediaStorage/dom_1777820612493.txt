@@ -1,0 +1,252 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span >mikemolinet />
+[4] (136,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/agent-university' />
+	[5] (136,34)<span >agent-university />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[44] (73,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[45] (73,190)<span  />
+		[46] (67,190)<span  />
+			[47] (67,190)<div  />
+				[48] (19,190)<div  />
+				[49] (35,190)<div  />
+					[50] (35,190)<span >main />
+[51] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[52] (83,233)<span  />
+	[53] (17,233)<span  />
+	[54] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[55] (148,233)<span  />
+		[56] (148,233)<kbd  />
+			[57] (148,233)<span >t />
+				t
+				[58] (148,233)<span >T />
+[59] (79,279)<div  />
+	[60] (13,279)<div  />
+	[61] (84,279)<div  />
+		[62] (25,279)<div  />
+			[63] (25,279)<div  />
+		[64] (90,279)<span  />
+			[65] (47,279)<span >curricula />
+[66] (79,314)<div  />
+	[67] (10,314)<div  />
+		[68] (10,314)<div  />
+			[69] (10,314)<div  />
+	[70] (17,314)<div  />
+	[71] (86,314)<div  />
+		[72] (29,313)<div  />
+			[73] (29,313)<div  />
+		[74] (92,314)<span  />
+			[75] (65,314)<span >better-reasoning />
+[76] (79,348)<div  />
+	[77] (13,348)<div  />
+		[78] (13,348)<div  />
+			[79] (10,348)<div  />
+			[80] (15,348)<div  />
+	[81] (88,348)<div  />
+		[82] (33,347)<div  />
+		[83] (94,348)<span  />
+			[84] (67,348)<span >curriculum.yaml />
+[85] (79,382)<div  />
+	[86] (10,382)<div  />
+		[87] (10,382)<div  />
+			[88] (10,382)<div  />
+	[89] (17,382)<div  />
+	[90] (86,382)<div  />
+		[91] (29,382)<div  />
+			[92] (29,382)<div  />
+		[93] (92,382)<span  />
+			[94] (71,382)<span >production-reliability />
+[95] (79,416)<div  />
+	[96] (13,416)<div  />
+	[97] (84,416)<div  />
+		[98] (25,416)<div  />
+			[99] (25,416)<div  />
+		[100] (90,416)<span  />
+			[101] (41,416)<span >docs />
+[102] (79,450)<div  />
+	[103] (13,450)<div  />
+	[104] (84,450)<div  />
+		[105] (25,450)<div  />
+			[106] (25,450)<div  />
+		[107] (90,450)<span  />
+			[108] (47,450)<span >domains />
+[109] (79,484)<div  />
+	[110] (13,484)<div  />
+	[111] (84,484)<div  />
+		[112] (25,484)<div  />
+			[113] (25,484)<div  />
+		[114] (90,484)<span  />
+			[115] (39,484)<span >site />
+[116] (79,518)<div  />
+	[117] (84,518)<div  />
+		[118] (25,518)<div  />
+		[119] (90,518)<span  />
+			[120] (49,518)<span >.gitignore />
+[121] (79,552)<div  />
+	[122] (84,552)<div  />
+		[123] (25,552)<div  />
+		[124] (90,552)<span  />
+			[125] (65,552)<span >CONTRIBUTING.md />
+[126] (79,586)<div  />
+	[127] (84,586)<div  />
+		[128] (25,586)<div  />
+		[129] (90,586)<span  />
+			[130] (53,586)<span >README.md />
+[131] (79,620)<div  />
+	[132] (84,620)<div  />
+		[133] (25,620)<div  />
+		[134] (90,620)<span  />
+			[135] (62,620)<span >lesson-format.md />
+[136] (79,654)<div  />
+	[137] (84,654)<div  />
+		[138] (25,654)<div  />
+		[139] (90,654)<span  />
+			[140] (45,654)<span >skill.md />
+[141] (79,688)<div  />
+	[142] (84,688)<div  />
+		[143] (25,688)<div  />
+		[144] (90,688)<span  />
+			[145] (50,688)<span >vercel.json />
+[146] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[147] (206,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main'>agent-university />
+/
+[148] (264,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main/curricula'>curricula />
+/
+[149] (322,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main/curricula/better-reasoning'>better-reasoning />
+/
+curriculum.yaml
+[150] (436,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[151] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_R_icql3al1d_' />
+Latest commit
+History
+[152] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/agent-university/commits/main/curricula/better-reasoning/curriculum.yaml' />
+	[153] (967,198)<span  />
+		[154] (972,198)<span  />
+			[155] (972,197)<span >History />
+File metadata and controls
+[156] (196,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[157] (196,263)<span  />
+		[158] (196,263)<div >Code />
+[159] (228,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[160] (228,263)<span  />
+		[161] (228,263)<div >Blame />
+16 lines (16 loc) · 848 Bytes
+[162] (857,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_1kn6clal3al1d_' />
+[163] (876,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[164] (898,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/mikemolinet/agent-university/raw/refs/heads/main/curricula/better-reasoning/curriculum.yaml' />
+	[165] (898,263)<span  />
+		[166] (898,263)<span >Raw />
+[167] (915,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[168] (929,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[169] (947,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/mikemolinet/agent-university/edit/main/curricula/better-reasoning/curriculum.yaml' />
+[170] (961,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_59f6clal3al1d_' />
+[171] (980,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[172] (202,307)<div >1 />
+[173] (202,328)<div >2 />
+[174] (202,349)<div >3 />
+[175] (202,370)<div >4 />
+[176] (202,392)<div >5 />
+[177] (202,413)<div >6 />
+[178] (202,434)<div >7 />
+[179] (202,455)<div >8 />
+[180] (202,476)<div >9 />
+[181] (202,497)<div >10 />
+[182] (202,519)<div >11 />
+[183] (202,540)<div >12 />
+[184] (202,561)<div >13 />
+[185] (202,582)<div >14 />
+[186] (202,603)<div >15 />
+[187] (202,624)<div >16 />
+id
+:
+better-reasoning
+title
+:
+"
+Better Reasoning: Think Before You Act
+"
+description
+:
+>
+Thinking patterns that measurably improve task completion rates.
+These lessons address the most common agent failure mode: jumping into
+execution without adequate planning, context gathering, or risk assessment.
+lessons
+:
+-
+domains/reasoning/calibrate-reasoning-depth-to-task-complexity.md
+-
+domains/reasoning/decompose-before-you-execute.md
+-
+domains/reasoning/orchestrator-decision-framework.md
+-
+domains/meta/auto-stress-test-your-ideas.md
+-
+domains/agent-operations/leverage-sub-agents.md
+-
+domains/agent-operations/instruction-position-determines-compliance.md
+theme
+:
+"
+The pause between receiving a task and starting it is where quality is won or lost.
+"
+difficulty
+:
+foundational
+estimated_time
+:
+"
+1 hour of reading, immediate applicability
+"
+
+</current_dom>

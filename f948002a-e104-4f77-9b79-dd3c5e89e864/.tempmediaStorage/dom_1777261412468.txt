@@ -1,0 +1,105 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (363,113)<div class='acCJ4b' scrollable='true' />
+	[1] (97,113)<div class='mnr-c pla-unit' role='button' />
+		Wholesale Large Breast hredder Equipment Meat Twist hredding Machine Beef hredder Chicken hred Noodle Machine Meat Floss Cutting Machine For Pork Beef
+		₩244,615
+		Alibaba.com
+	[2] (260,113)<div class='mnr-c pla-unit' role='button' />
+		Wholesale 5L Litre Automatic High peed Vacuum Meat Bowl Cutter Meat Chopper Machine ilent Bowl Cutter,1 Set
+		₩607,692
+		Alibaba.com
+	[3] (424,113)<div class='mnr-c pla-unit' role='button' />
+		Wholesale Shredder Bowl Cutter Meat Cutter Meat Mincer Meat Meat Chopper Onion Chopper Vegetable licer Mixing Machine Meat Chopper Industrial Bowl
+		₩1,695,385
+		Alibaba.com
+	[4] (588,113)<div class='mnr-c pla-unit' role='button' />
+		Kitchen Chopper Electric Meat Grinder Home Appliance Manual Meat Slicer Stainless Steel Food
+		₩49,750
+		AliExpress
+	Professional Commercial Bone Crusher Electric Meat Grinder Chicken Head Mincer Household Shredders
+	₩735,200
+	AliExpress
+Google은 상품 판매의 당사자가 아닙니다.
+[5] (187,498)<div  />
+	[6] (187,498)<div  />
+		[7] (187,498)<div  />
+			[8] (187,476)<div  />
+				[9] (187,476)<div  />
+					[10] (187,476)<a href='/imgres?q=Automatic%20Meat%20Shredder%20product%20high%20quality&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71CSlFjF2iL._AC_UF894%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FElectric-Shredder-Automatic-Rechargeable-Dishwasher%2Fdp%2FB0DS5F38P7&docid=SM7czttAkCfeZM&tbnid=PdG8gx3IoAs9kM&vet=12ahUKEwi-2vHOjo2UAxWqBdsEHRBULvgQnPAOegQINBAA..i&w=894&h=864&hcb=2&ved=2ahUKEwi-2vHOjo2UAxWqBdsEHRBULvgQnPAOegQINBAA' />
+						[11] (187,476)<div  />
+							[12] (187,476)<div class='RmwKgd klScif' role='button' />
+								[13] (187,476)<div  />
+									[14] (187,476)<img  />
+			[15] (187,661)<div  />
+				[16] (187,661)<a class='LBcIee' href='https://www.amazon.com/Electric-Shredder-Automatic-Rechargeable-Dishwasher/dp/B0DS5F38P7' />
+					[17] (187,661)<div  />
+						[18] (187,651)<div  />
+							[19] (187,650)<div >Amazon.com: Electric Chicken Shredder, Automatic Chicken Breast Grinder  Meat Shredder, USB Rechargeable Visible Meat Shredder Tool Twist Machine,  with Brush & Fork, Suitable for Pork, Dishwasher Safe (Red): Home & Kitchen />
+						[20] (187,671)<div  />
+							[21] (187,672)<div  />
+								[22] (34,671)<div  />
+									[23] (34,671)<img  />
+								[24] (198,672)<div  />
+									[25] (87,672)<span >Amazon.com />
+[26] (519,465)<div  />
+	[27] (519,465)<div  />
+		[28] (519,465)<div  />
+			[29] (519,443)<div  />
+				[30] (519,443)<div  />
+					[31] (519,443)<a  />
+						[32] (519,443)<div  />
+							[33] (519,443)<div class='RmwKgd klScif' role='button' />
+								[34] (519,443)<div  />
+									[35] (519,443)<img  />
+			[36] (519,595)<div  />
+				[37] (519,595)<a class='LBcIee' href='https://marlen.com/food-processing-equipment/carruthers-automatic-meat-shredder/' />
+					[38] (519,595)<div  />
+						[39] (519,585)<div  />
+							[40] (519,584)<div >Automatic Meat Shredder | Marlen />
+						[41] (519,605)<div  />
+							[42] (519,606)<div  />
+								[43] (366,606)<div  />
+									[44] (366,606)<img  />
+								[45] (530,606)<div  />
+									[46] (438,606)<span >Marlen International />
+[47] (519,820)<div  />
+	[48] (519,820)<div  />
+		[49] (519,820)<div  />
+			[50] (519,798)<div  />
+				[51] (519,798)<div  />
+					[52] (519,798)<a  />
+						[53] (519,798)<div  />
+							[54] (519,798)<div class='RmwKgd klScif' role='button' />
+								[55] (519,798)<div  />
+									[56] (519,798)<img  />
+			Amazon.com: Electric Chicken Shredder, Automatic Meat Shredder Tool Twist,  USB Rechargeable Chicken Grinder Machine, with Brush & Fork, Suitable for Chicken  Meat Beef Pork Breast, Dishwasher Safe (Black): Home & Kitchen
+			Amazon.com
+[57] (187,885)<div  />
+	[58] (187,885)<div  />
+		[59] (187,885)<div  />
+			[60] (187,863)<div  />
+				[61] (187,863)<div  />
+					[62] (187,863)<a href='/imgres?q=Automatic%20Meat%20Shredder%20product%20high%20quality&imgurl=https%3A%2F%2Fimage.made-in-china.com%2F202f0j00ojqbihBRlKgn%2FAutomatic-Chicken-Breast-Shredder-Automatic-Meat-Shredder-Machine-From-China-Factory.webp&imgrefurl=https%3A%2F%2Fverfoodsolutions.en.made-in-china.com%2Fproduct%2FwxMrjlEKauRm%2FChina-Automatic-Chicken-Breast-Shredder-Automatic-Meat-Shredder-Machine-From-China-Factory.html&docid=gf0Uwfvj6JqHRM&tbnid=poZk6szErlGh-M&vet=12ahUKEwi-2vHOjo2UAxWqBdsEHRBULvgQnPAOegQINRAA..i&w=550&h=550&hcb=2&ved=2ahUKEwi-2vHOjo2UAxWqBdsEHRBULvgQnPAOegQINRAA' />
+						[63] (187,863)<div  />
+							[64] (187,863)<div class='RmwKgd klScif' role='button' />
+								[65] (187,863)<div  />
+									[66] (187,863)<img  />
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+🚀 지금 업그레이드
+이미 구독하셨나요?
+지금 로그인
+Monica 코드가 이제 활성화되었습니다!
+VS Code와 원활하게 통합하여, Claude 3.5 및 GPT-4o가 코딩을 지원합니다.
+❤️ 내 투표 공유
+
+</current_dom>

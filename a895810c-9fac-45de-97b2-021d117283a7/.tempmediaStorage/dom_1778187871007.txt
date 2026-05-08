@@ -1,0 +1,479 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/PriorLabs' />
+		[4] (75,34)<span  />
+			[5] (75,33)<font  />
+				[6] (75,33)<font >프라이어랩스 />
+	[7] (127,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/PriorLabs/tabpfn-extensions' />
+		[8] (127,34)<span  />
+			[9] (127,33)<font  />
+				[10] (127,33)<font >탭프픈 확장 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_1s_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_21_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (79,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (98,80)<span  />
+			[35] (98,80)<span  />
+				[36] (98,80)<font  />
+					[37] (98,80)<font >11 />
+			(
+			11
+			)
+	[38] (152,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/pulls' />
+		[39] (120,80)<span  />
+		[40] (150,80)<span  />
+			[41] (150,80)<font  />
+				[42] (150,80)<font >풀 리퀘스트 />
+		[43] (182,80)<span  />
+			[44] (182,80)<span  />
+				[45] (182,80)<font  />
+					[46] (182,80)<font >12 />
+			(
+			12
+			)
+	[47] (225,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/agents?author=nowhere78' />
+		[48] (205,80)<span  />
+		[49] (231,80)<span  />
+			[50] (231,80)<font  />
+				[51] (231,80)<font >자치령 대표 />
+	[52] (287,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/discussions' />
+		[53] (266,80)<span  />
+		[54] (293,80)<span  />
+			[55] (293,80)<font  />
+				[56] (293,80)<font >토론 />
+	[57] (343,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/actions' />
+		[58] (329,80)<span  />
+		[59] (349,80)<span  />
+			[60] (349,80)<font  />
+				[61] (349,80)<font >행위 />
+	[62] (394,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/projects' />
+		[63] (378,80)<span  />
+		[64] (400,80)<span  />
+			[65] (400,80)<font  />
+				[66] (400,80)<font >프로젝트 />
+	[67] (465,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/security' />
+		[68] (430,80)<span  />
+		[69] (471,80)<span  />
+			[70] (471,80)<font  />
+				[71] (471,80)<font >보안 및 품질 />
+	[72] (536,80)<a class='prc-components-UnderlineItem-7fP-n' href='/PriorLabs/tabpfn-extensions/pulse' />
+		[73] (521,80)<span  />
+		[74] (542,80)<span  />
+			[75] (542,80)<font  />
+				[76] (542,80)<font >인사이트 />
+[77] (225,139)<a class='d-block overflow-x-hidden color-fg-default' href='/PriorLabs/tabpfn-extensions' />
+	[78] (225,138)<font  />
+		[79] (225,138)<font >탭프픈 확장 />
+공공의
+[80] (639,138)<div  />
+	[81] (639,138)<button aria-label='영상 보기: PriorLabs/tabpfn-extensions 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_35_' />
+		[82] (635,138)<span  />
+			[83] (634,138)<span  />
+				[84] (634,137)<font  />
+					[85] (634,137)<font >보다 />
+			5
+			(
+			5
+			)
+[86] (697,139)<a class='btn-sm btn BtnGroup-item' href='/PriorLabs/tabpfn-extensions/fork' id='fork-button' />
+	[87] (695,139)<font  />
+		[88] (695,141)<font >포크 />
+	[89] (710,138)<span  />
+		[90] (710,138)<font  />
+			[91] (710,138)<font >56 />
+[92] (732,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-898949330' />
+	[93] (732,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[94] (772,138)<button aria-label='이 저장소에 별표를 눌러주세요 (286)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[95] (769,138)<span  />
+		[96] (769,138)<font  />
+			[97] (769,138)<font >별 />
+	[98] (784,138)<span  />
+		[99] (784,138)<font  />
+			[100] (784,138)<font >286 />
+[101] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-898949330-unstarred-button' />
+PriorLabs/tabpfn-extensions
+[102] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[103] (209,216)<span  />
+		[104] (203,216)<span  />
+			[105] (203,216)<div  />
+				[106] (194,216)<div  />
+				[107] (208,216)<div  />
+					[108] (208,216)<span  />
+						[109] (209,216)<font  />
+							[110] (209,216)<font >기본 />
+[111] (266,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/PriorLabs/tabpfn-extensions/branches' />
+	[112] (266,216)<span  />
+		[113] (272,216)<span  />
+			[114] (272,216)<span  />
+				[115] (261,216)<strong  />
+					[116] (260,216)<font  />
+						[117] (260,216)<font >100 />
+				[118] (279,216)<font  />
+					[119] (279,216)<font >개 지점 />
+[120] (315,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/PriorLabs/tabpfn-extensions/tags' />
+	[121] (315,216)<span  />
+		[122] (321,216)<span  />
+			[123] (321,216)<span  />
+				[124] (318,216)<strong  />
+					[125] (317,216)<font  />
+						[126] (317,216)<font >태그 5 />
+				[127] (332,216)<font  />
+					[128] (332,216)<font >개 />
+[129] (481,216)<span  />
+	[130] (431,216)<span  />
+	[131] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[132] (531,216)<span  />
+		[133] (531,216)<kbd  />
+			[134] (531,216)<span >t />
+				t
+				[135] (531,216)<span >T />
+파일 추가
+[136] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_e_' />
+	[137] (572,216)<span  />
+		[138] (572,216)<span  />
+			[139] (572,216)<span  />
+				[140] (566,216)<font  />
+					[141] (566,216)<font >파일 추가 />
+[142] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_i_' />
+	[143] (628,216)<span  />
+		[144] (628,216)<span  />
+			[145] (628,216)<font  />
+				[146] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[147] (198,278)<a class='prc-Link-Link-9ZwDx' href='/oscarkey' />
+	[148] (196,279)<img  />
+[149] (219,278)<a aria-label='oscarkey의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/PriorLabs/tabpfn-extensions/commits?author=oscarkey' />
+	[150] (219,278)<font  />
+		[151] (219,278)<font >오스카키 />
+[152] (315,278)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' />
+	[153] (315,278)<font  />
+		[154] (315,278)<font >UV 최소/최대값 종속성 해결 방식으로 전환합니다. ( />
+[155] (403,278)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/265' />
+	[156] (403,278)<font  />
+		[157] (403,278)<font >#265 />
+[158] (413,278)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' />
+	[159] (413,278)<font  />
+		[160] (413,278)<font >) />
+[161] (426,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[162] (444,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[163] (562,278)<a aria-label='커밋 f623b9f' class='Link--secondary prc-Link-Link-9ZwDx' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' />
+	[164] (562,278)<font  />
+		[165] (562,278)<font >f623b9f />
+·
+8시간 전
+역사
+[166] (626,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/PriorLabs/tabpfn-extensions/commits/main/' />
+	[167] (626,278)<span  />
+		[168] (631,278)<span  />
+			[169] (631,278)<span  />
+				[170] (631,278)<font  />
+					[171] (631,278)<font >389 커밋 />
+[172] (419,328)<tr  />
+	[173] (217,328)<a aria-label='.github, (디렉토리)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/tree/main/.github' title='.github' />
+		[174] (217,328)<font  />
+			[175] (217,328)<font >.github />
+	[176] (459,328)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[177] (459,328)<font  />
+			[178] (459,328)<font >UV 최소/최대값 종속성 해결 방식으로 전환합니다. ( />
+	[179] (547,328)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/265' />
+		[180] (547,328)<font  />
+			[181] (547,328)<font >#265 />
+	[182] (557,328)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[183] (557,328)<font  />
+			[184] (557,328)<font >) />
+	8시간 전
+[185] (419,371)<tr  />
+	[186] (212,371)<a aria-label='예시, (디렉토리)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/tree/main/examples' title='예시' />
+		[187] (212,371)<font  />
+			[188] (212,371)<font >예시 />
+	[189] (480,371)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/44eb6519ba58e756d6131803ae66e4406d0c2b6a' title='TabPFN을 사용한 조건부 무작위화 테스트(CRT) 기반 p값/가설 검정 확장 기능 추가 (#237) 공동 저자: Lennart Purucker <lennart@priorlabs.ai>' />
+		[190] (480,371)<font  />
+			[191] (480,371)<font >조건부 무작위화 검정(CRT) 기반 p값/가설 검정 기능을 추가합니다. />
+	3개월 전
+[192] (419,414)<tr  />
+	[193] (219,415)<a aria-label='스크립트, (디렉토리)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/tree/main/scripts' title='스크립트' />
+		[194] (219,415)<font  />
+			[195] (219,415)<font >스크립트 />
+	[196] (459,415)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[197] (459,415)<font  />
+			[198] (459,415)<font >UV 최소/최대값 종속성 해결 방식으로 전환합니다. ( />
+	[199] (547,415)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/265' />
+		[200] (547,415)<font  />
+			[201] (547,415)<font >#265 />
+	[202] (557,415)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[203] (557,415)<font  />
+			[204] (557,415)<font >) />
+	8시간 전
+[205] (419,458)<tr  />
+	[206] (242,458)<a aria-label='src/tabpfn_extensions, (디렉토리)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/tree/main/src/tabpfn_extensions' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[207] (213,458)<span  />
+			[208] (213,458)<font  />
+				[209] (213,458)<font >src/ />
+		[210] (249,458)<span  />
+			[211] (249,458)<font  />
+				[212] (249,458)<font >tabpfn_extensions />
+	[213] (443,458)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f752b94ff3130c9014f5fc8fcff2f954afb6053b' title='생존 예측 작업에 대한 저작권 표시를 추가했습니다. 개념 및 코드 개발에 대한 저작권 표시를 추가했습니다.' />
+		[214] (443,458)<font  />
+			[215] (443,458)<font >생존 예측 작업에 대한 출처를 추가하세요. />
+	공지사항
+[216] (419,501)<tr  />
+	[217] (216,502)<a aria-label='테스트, (디렉토리)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/tree/main/tests' title='테스트' />
+		[218] (216,502)<font  />
+			[219] (216,502)<font >테스트 />
+	[220] (523,502)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/89c6a343bf40415c636b9c295f64d0d9511cc4e1' title='AutoGluon을 1.5로 업데이트하고 버전별로 RealTabPFNv2/v25 클래스로 라우팅합니다(#274). AutoGluon 1.5에는 버전별 `max_rows` / `max_features` / `max_classes`가 내장된 전용 `RealTabPFNv2Model` 및 `RealTabPFNv25Model` 클래스가 포함되어 있습니다. 이전에는 AutoTabPFN이 항상 단일 `TabPFNV2Model` 클래스(v2 시대의 10k / 500 / 10 제한)를 사용했으며, `ag_args_fit = {max_rows: None, ...}` 중화(PR #272)를 통해 TabPFN 자체의 추론 설정에 게이팅을 위임하는 방식으로 해결했습니다. 이제 `model_version`별로 적절한 AG 클래스를 선택할 수 있으므로 중화 과정을 완전히 제거할 수 있습니다.' />
+		[221] (523,502)<font  />
+			[222] (523,502)<font >AutoGluon을 1.5 버전으로 업데이트하고 버전별로 RealTabPFNv2/v25 클래스로 라우팅합니다. />
+	공지사항
+[223] (419,544)<tr  />
+	[224] (221,545)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/.gitignore' title='.gitignore' />
+		[225] (221,545)<font  />
+			[226] (221,545)<font >.gitignore />
+	[227] (438,545)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f194b8b16d1c3369d0e82b80530acde42dfeff0f' title='CI에 TABPFN_TOKEN을 추가합니다. (#264) 또한, git ignore claude worktrees를 사용합니다.' />
+		[228] (438,545)<font  />
+			[229] (438,545)<font >CI에 TABPFN_TOKEN을 추가합니다. ( />
+	[230] (505,545)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/264' />
+		[231] (505,545)<font  />
+			[232] (505,545)<font >#264 />
+	[233] (515,545)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f194b8b16d1c3369d0e82b80530acde42dfeff0f' title='CI에 TABPFN_TOKEN을 추가합니다. (#264) 또한, git ignore claude worktrees를 사용합니다.' />
+		[234] (515,545)<font  />
+			[235] (515,545)<font >) />
+	3주 전
+[236] (419,588)<tr  />
+	[237] (245,588)<a aria-label='.pre-commit-config.yaml, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/.pre-commit-config.yaml' title='.pre-commit-config.yaml' />
+		[238] (245,588)<font  />
+			[239] (245,588)<font >.pre-commit-config.yaml />
+	[240] (420,588)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/bf66e87c264e1fb3402fe6426eeaef0511b224ad' title='ruff 설정을 수정합니다. (#192) 이를 통해 pre-commit이 수동으로 실행된 ruff 및 CI에서 실행된 ruff와 동일한 규칙을 사용하도록 합니다. 또한 안전하지 않은 수정 사항을 비활성화합니다.' />
+		[241] (420,588)<font  />
+			[242] (420,588)<font >러프 설정을 수정하세요. ( />
+	[243] (468,588)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/192' />
+		[244] (468,588)<font  />
+			[245] (468,588)<font >#192 />
+	[246] (478,588)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/bf66e87c264e1fb3402fe6426eeaef0511b224ad' title='ruff 설정을 수정합니다. (#192) 이를 통해 pre-commit이 수동으로 실행된 ruff 및 CI에서 실행된 ruff와 동일한 규칙을 사용하도록 합니다. 또한 안전하지 않은 수정 사항을 비활성화합니다.' />
+		[247] (478,588)<font  />
+			[248] (478,588)<font >) />
+	7개월 전
+[249] (419,631)<tr  />
+	[250] (226,632)<a aria-label='변경 로그.md, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/CHANGELOG.md' title='변경 로그.md' />
+		[251] (226,632)<font  />
+			[252] (226,632)<font >변경 로그.md />
+	[253] (406,632)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/355806c8455eda244398bee4311c1261f226e83c' title='v0.3.0 릴리스 (#276) * v0.3.0 릴리스 버전 0.2.2에서 0.3.0으로 업데이트하고 변경 로그를 작성했습니다. 주요 변경 사항: - tabpfn 종속성 제한을 <7에서 <8로 확장하여 tabpfn-extensions[all]이 colab에서 tabpfn을 7.x(v2.6) 대신 6.4.1(v2.5 모델)로 고정하는 문제를 해결했습니다. - 조건부 무작위화 테스트(CRT) 확장 기능을 추가했습니다. - AutoTabPFN 진단 및 체크포인트별 AutoGluon 제한을 추가했습니다. - 호환성 파괴: scikit-survival은 GPL-3.0 라이선스로 인해 [all] 또는 [survival] 확장 기능을 통해 더 이상 설치되지 않습니다. SurvivalTabPFN을 사용하는 경우 수동으로 설치해야 합니다. 그렇지 않으면 명확한 ImportError가 발생합니다. * 변경 로그: "standardized"에 미국식 영어 철자를 사용합니다. 나머지 코드베이스(normalize, normalization 등)와 일관성을 유지합니다. #276의 Gemini 검토 의견을 반영합니다.' />
+		[254] (406,632)<font  />
+			[255] (406,632)<font >버전 0.3.0 출시 ( />
+	[256] (441,632)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/276' />
+		[257] (441,632)<font  />
+			[258] (441,632)<font >#276 />
+	[259] (451,632)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/355806c8455eda244398bee4311c1261f226e83c' title='v0.3.0 릴리스 (#276) * v0.3.0 릴리스 버전 0.2.2에서 0.3.0으로 업데이트하고 변경 로그를 작성했습니다. 주요 변경 사항: - tabpfn 종속성 제한을 <7에서 <8로 확장하여 tabpfn-extensions[all]이 colab에서 tabpfn을 7.x(v2.6) 대신 6.4.1(v2.5 모델)로 고정하는 문제를 해결했습니다. - 조건부 무작위화 테스트(CRT) 확장 기능을 추가했습니다. - AutoTabPFN 진단 및 체크포인트별 AutoGluon 제한을 추가했습니다. - 호환성 파괴: scikit-survival은 GPL-3.0 라이선스로 인해 [all] 또는 [survival] 확장 기능을 통해 더 이상 설치되지 않습니다. SurvivalTabPFN을 사용하는 경우 수동으로 설치해야 합니다. 그렇지 않으면 명확한 ImportError가 발생합니다. * 변경 로그: "standardized"에 미국식 영어 철자를 사용합니다. 나머지 코드베이스(normalize, normalization 등)와 일관성을 유지합니다. #276의 Gemini 검토 의견을 반영합니다.' />
+		[260] (451,632)<font  />
+			[261] (451,632)<font >) />
+	2주 전
+[262] (419,675)<tr  />
+	[263] (219,675)<a aria-label='CONTRIBUTING.md, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/CONTRIBUTING.md' title='기여.md' />
+		[264] (219,675)<font  />
+			[265] (219,675)<font >기여.md />
+	[266] (392,677)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/06482f0bd02e39ee8a4900e32f03712a301a1cb7' title='Switch to using `uv sync` to install dev environment. (#209)
+
+Rather than using `pip install -e .[dev]`. This makes it more uniform
+with our other repositories.
+
+This requires moving the specification of the dev dependencies, and
+changing the docs.'>uv sync />
+	[267] (433,675)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/06482f0bd02e39ee8a4900e32f03712a301a1cb7' title='개발 환경 설치 방식을 `pip install -e .[dev]` 대신 `uv sync`로 변경합니다. (#209) 이렇게 하면 다른 저장소와 일관성을 유지할 수 있습니다. 이를 위해 개발 종속성 명세를 옮기고 문서를 수정해야 합니다.' />
+		[268] (433,675)<font  />
+			[269] (433,675)<font >개발 환경 설치에 />
+	[270] (499,675)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/06482f0bd02e39ee8a4900e32f03712a301a1cb7' title='개발 환경 설치 방식을 `pip install -e .[dev]` 대신 `uv sync`로 변경합니다. (#209) 이렇게 하면 다른 저장소와 일관성을 유지할 수 있습니다. 이를 위해 개발 종속성 명세를 옮기고 문서를 수정해야 합니다.' />
+		[271] (499,675)<font >사용하도록 전환합니다 . ( />
+	[272] (547,675)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/209' />
+		[273] (547,675)<font  />
+			[274] (547,675)<font >#209 />
+	[275] (557,675)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/06482f0bd02e39ee8a4900e32f03712a301a1cb7' title='개발 환경 설치 방식을 `pip install -e .[dev]` 대신 `uv sync`로 변경합니다. (#209) 이렇게 하면 다른 저장소와 일관성을 유지할 수 있습니다. 이를 위해 개발 종속성 명세를 옮기고 문서를 수정해야 합니다.' />
+		[276] (557,675)<font  />
+			[277] (557,675)<font >) />
+	6개월 전
+[278] (419,718)<tr  />
+	[279] (212,719)<a aria-label='라이선스, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/LICENSE' title='특허' />
+		[280] (212,719)<font  />
+			[281] (212,719)<font >특허 />
+	[282] (435,719)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/1fcaabdfee577a91b49d161adff2b1e804dce991' title='프로젝트 문서 및 구성 개선 - pyproject.toml 파일 업데이트: - 적절한 범위로 종속성 버전 고정 - 모든 확장 모듈 종속성 추가 - 'all' 메타 패키지 옵션 추가 - 테스트 구성 개선 - 타입 어노테이션 추가 시 mypy 설정 임시 완화 - CONTRIBUTING.md 파일 개선: - 자세한 개발 환경 설정 지침 - 개선된 코드 스타일 가이드라인 - 포괄적인 PR 제출 프로세스 - 백엔드 호환성 요구 사항 - GitHub 템플릿 및 워크플로 추가: - 버그, 기능 및 문서 관련 이슈 템플릿 - 풀 리퀘스트용 CI/CD 워크플로 - Dependabot 구성 - README.md 파일 업데이트: 더욱 명확한 설치 지침 및 배지 추가 - LICENSE 파일 업데이트' />
+		[283] (435,719)<font  />
+			[284] (435,719)<font >프로젝트 문서 및 구성을 개선합니다. />
+	벨
+[285] (419,761)<tr  />
+	[286] (226,762)<a aria-label='README.md, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/README.md' title='README.md' />
+		[287] (226,762)<font  />
+			[288] (226,762)<font >README.md />
+	[289] (452,762)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/a69f68136d74324694871ed0162c9eb75d71f0ec' title='README 파일의 원격 측정 섹션을 수정했습니다(#279). 데이터 수집 및 거부 방법에 대한 지침을 명확히 하기 위해 원격 측정 섹션을 업데이트했습니다.' />
+		[290] (452,762)<font  />
+			[291] (452,762)<font >README 파일의 원격 측정 섹션을 수정합니다( />
+	[292] (532,762)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/279' />
+		[293] (532,762)<font  />
+			[294] (532,762)<font >#279 />
+	[295] (543,762)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/a69f68136d74324694871ed0162c9eb75d71f0ec' title='README 파일의 원격 측정 섹션을 수정했습니다(#279). 데이터 수집 및 거부 방법에 대한 지침을 명확히 하기 위해 원격 측정 섹션을 업데이트했습니다.' />
+		[296] (543,762)<font  />
+			[297] (543,762)<font >). />
+	공지사항
+[298] (419,805)<tr  />
+	[299] (219,805)<a aria-label='mypy.ini, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/mypy.ini' title='mypy.ini' />
+		[300] (219,805)<font  />
+			[301] (219,805)<font >mypy.ini />
+	[302] (453,805)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/9266383e69b57c543be05c7ee5b223ec7a2be235' title='코드 서식 지정 및 사소한 문제 수정 - PEP 8 규정 준수를 위한 코드 서식 수정 - 공백 및 줄 바꿈 수정 - 가져오기 정렬 수정 - 적절한 독스트링 추가 - 테스트 파일의 사소한 유형 및 서식 문제 수정' />
+		[303] (453,805)<font  />
+			[304] (453,805)<font >코드 형식을 지정하고 사소한 문제를 수정합니다. />
+	벨
+[305] (419,848)<tr  />
+	[306] (229,849)<a aria-label='pyproject.toml, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/pyproject.toml' title='pyproject.toml' />
+		[307] (229,849)<font  />
+			[308] (229,849)<font >pyproject.toml />
+	[309] (459,849)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[310] (459,849)<font  />
+			[311] (459,849)<font >UV 최소/최대값 종속성 해결 방식으로 전환합니다. ( />
+	[312] (547,849)<a class='issue-link js-issue-link' href='https://github.com/PriorLabs/tabpfn-extensions/pull/265' />
+		[313] (547,849)<font  />
+			[314] (547,849)<font >#265 />
+	[315] (557,849)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/f623b9f58fb76f27f0a23d84a4ff7a2d10285f67' title='사용자 지정 스크립트 대신 uv 최소/최대 종속성 해결 방식으로 전환합니다. (#265) 이는 TabPFN에서 사용하는 방식과 일치합니다. - CI에 필요한 최소 종속성 세트를 포함하는 CI 종속성 그룹을 추가합니다. - 종속성을 반복하는 대신 다른 extra를 사용하여 `all` extra 세트를 정의합니다. - `lowest-direct` 해결이 작동하도록 일부 최소 버전을 높입니다. tabpfn 6.0.5 -> 7.0, llvmlite -> 2년 전, pandas -> 2년 전 - `lowest-direct` 문제를 해결하기 위해 `interpretability` extra에 `numba` 직접 종속성을 추가합니다.' />
+		[316] (557,849)<font  />
+			[317] (557,849)<font >) />
+	8시간 전
+[318] (419,892)<tr  />
+	[319] (217,892)<a aria-label='setup.py, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/setup.py' title='설정.py' />
+		[320] (217,892)<font  />
+			[321] (217,892)<font >설정.py />
+	[322] (448,892)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/5ee30d1e565a81d49908c4ef7c557e58fcf4272d' title='TabPFN 테스트 프레임워크 및 예제 파일 수정 - 모든 추정기에 대한 기본 테스트 클래스를 포함한 포괄적인 테스트 프레임워크 추가 - 전체 테스트 범위를 포함하는 test_base_tabpfn.py 및 test_dt_pfn.py 파일 추가 - 작은 리프 노드를 원활하게 처리하도록 의사 결정 트리 테스트 수정 - 모듈 이름 충돌을 방지하기 위해 ShapIQ 예제 파일 이름 변경 - 적절한 docstring 및 오류 처리를 통해 예제 파일의 다양한 버그 수정 - 느린 예제에 GPU 경고 추가 - CLAUDE.md에 테스트 접근 방식 문서화 - 테스트 파일 구조 재구성' />
+		[323] (448,892)<font  />
+			[324] (448,892)<font >TabPFN 테스트 프레임워크 및 예제 파일 수정 />
+	벨
+[325] (419,935)<tr  />
+	[326] (242,935)<a aria-label='tabpfn_summary.webp, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/tabpfn_summary.webp' title='tabpfn_summary.webp' />
+		[327] (242,935)<font  />
+			[328] (242,935)<font >tabpfn_summary.webp />
+	[329] (438,935)<a class='Link--secondary' href='/PriorLabs/tabpfn-extensions/commit/fc4ebec09b377a1a5f4063013db8a812ef56a7c0' title='파일 업로드를 통해 파일을 추가하세요' />
+		[330] (438,935)<font  />
+			[331] (438,935)<font >파일 업로드를 통해 파일을 추가하세요 />
+	벨
+[332] (419,978)<tr  />
+	[333] (217,979)<a aria-label='uv.lock, (파일)' class='Link--primary' href='/PriorLabs/tabpfn-extensions/blob/main/uv.lock' title='uv.lock' />
+		[334] (217,979)<font  />
+			[335] (217,979)<font >uv.lock />
+	UV 최소/최대값 종속성 해결 방식으로 전환합니다. (
+	#265
+	)
+	8시간 전
+에 대한
+TabPFN을 위한 커뮤니티 확장 기능 - 테이블 형식 데이터의 기본 모델입니다. TabPFN으로 제작되었습니다! 🤗
+[336] (715,346)<a class='text-bold' href='https://www.priorlabs.ai' role='link' title='https://www.priorlabs.ai' />
+	[337] (715,346)<font  />
+		[338] (715,346)<font >www.priorlabs.ai />
+주제
+[339] (696,386)<a class='topic-tag topic-tag-link' href='/topics/data-science' title='주제: 데이터 과학' />
+	[340] (696,386)<font  />
+		[341] (696,386)<font >데이터 과학 />
+[342] (737,386)<a class='topic-tag topic-tag-link' href='/topics/machine-learning' title='주제: 기계 학습' />
+	[343] (737,386)<font  />
+		[344] (737,386)<font >머신러닝 />
+[345] (781,386)<a class='topic-tag topic-tag-link' href='/topics/tabular-data' title='주제: 표 형식 데이터' />
+	[346] (781,386)<font  />
+		[347] (781,386)<font >표 형식 데이터 />
+[348] (689,416)<a class='topic-tag topic-tag-link' href='/topics/tabpfn' title='주제: 탭펜' />
+	[349] (689,416)<font  />
+		[350] (689,416)<font >탭프픈 />
+자원
+[351] (699,461)<a class='Link--muted' href='#readme-ov-file' />
+	[352] (705,461)<font  />
+		[353] (705,461)<font >읽어보세요 />
+특허
+[354] (715,492)<a class='Link--muted' href='#Apache-2.0-1-ov-file' />
+	[355] (721,492)<font  />
+		[356] (721,492)<font >Apache-2.0 라이선스 />
+기여하기
+[357] (696,522)<a class='Link--muted' href='#contributing-ov-file' />
+	[358] (702,522)<font  />
+		[359] (702,522)<font >기여하기 />
+[360] (689,553)<a class='Link Link--muted' href='/PriorLabs/tabpfn-extensions/activity' />
+	[361] (696,553)<span  />
+		[362] (696,553)<font  />
+			[363] (696,553)<font >활동 />
+[364] (708,584)<a class='Link Link--muted' href='/PriorLabs/tabpfn-extensions/custom-properties' />
+	[365] (715,584)<span  />
+		[366] (715,584)<font  />
+			[367] (715,584)<font >사용자 지정 속성 />
+별들
+[368] (697,614)<a class='Link Link--muted' href='/PriorLabs/tabpfn-extensions/stargazers' />
+	[369] (700,614)<strong  />
+		[370] (700,614)<font  />
+			[371] (700,614)<font >별 286 />
+	[372] (715,614)<font  />
+		[373] (715,614)<font >개 />
+감시자들
+[374] (713,645)<a class='Link Link--muted' href='/PriorLabs/tabpfn-extensions/watchers' />
+	[375] (698,645)<strong  />
+		[376] (698,645)<font  />
+			[377] (698,645)<font >5명이 />
+	[378] (729,645)<font  />
+		[379] (729,645)<font >보고 있습니다 />
+포크스
+[380] (701,676)<a class='Link Link--muted' href='/PriorLabs/tabpfn-extensions/forks' />
+	[381] (700,676)<strong  />
+		[382] (700,676)<font  />
+			[383] (700,676)<font >56개의 />
+	[384] (719,676)<font  />
+		[385] (719,676)<font >포크 />
+[386] (696,706)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FPriorLabs%2Ftabpfn-extensions&report=PriorLabs+%28user%29' />
+	[387] (696,706)<font  />
+		[388] (696,706)<font >보고서 저장소 />
+[389] (693,765)<a class='Link--primary no-underline Link' href='/PriorLabs/tabpfn-extensions/releases' />
+	[390] (688,765)<font  />
+		[391] (688,765)<font >릴리스 />
+	[392] (706,766)<span  />
+		[393] (706,766)<font  />
+			[394] (706,766)<font >5 />
+[395] (746,815)<a class='Link--primary d-flex no-underline' href='/PriorLabs/tabpfn-extensions/releases/tag/v0.3.0' />
+	[396] (715,815)<div  />
+		[397] (715,806)<div  />
+			[398] (703,806)<span  />
+				[399] (703,806)<font  />
+					[400] (703,806)<font >버전 0.3.0 />
+			[401] (732,806)<span  />
+				[402] (732,805)<font  />
+					[403] (732,805)<font >최신 />
+		[404] (715,826)<div  />
+			[405] (696,826)<relative-time  />
+				[406] (696,826)<font  />
+					[407] (696,826)<font >2주 전 />
+[408] (695,864)<a class='Link' href='/PriorLabs/tabpfn-extensions/releases' />
+	[409] (695,864)<font  />
+		[410] (695,864)<font >+ 4개 릴리스 />
+[411] (746,923)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/PriorLabs/packages?repo_name=tabpfn-extensions' />
+	[412] (687,923)<font  />
+		[413] (687,922)<font >패키지 />
+게시된 패키지가 없습니다.
+
+</current_dom>

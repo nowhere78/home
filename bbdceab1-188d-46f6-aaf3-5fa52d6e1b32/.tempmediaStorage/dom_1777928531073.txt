@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiMwonzw6CUAxWDs1YBHUf7KfsQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dlatest%2BAI%2Bmodel%2Btrends%2BMay%2B2026%2BGPT-5.5%2BClaude%2B4%2BGemini%2B2.0%2BUltra&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n7WsHx64PAUnQSvjqi9pmR6M3Oc7Q:1777928528622&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_U9zyGIhxipjAtDrA-B3RcyYdRpt6lYYVeJ8CJPARasNVCt8Tz-0daQJW9womt-bRRmA8eHkMJOcqtvsC4As8m8rmBa7w&q=latest+AI+model+trends+May+2026+GPT-5.5+Claude+4+Gemini+2.0+Ultra&sa=X&ved=2ahUKEwiMwonzw6CUAxWDs1YBHUf7KfsQtKgLegQIFhAB' />
+	[18] (156,121)<div  />
+		[19] (156,130)<span >이미지 />
+[20] (185,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n7WsHx64PAUnQSvjqi9pmR6M3Oc7Q:1777928528622&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_U9zyGIhxipjAtDrA-B3RcyYdRpt6lYYVeJ8CJPARasNVCt8Tz-0daQJW9womt-bRRmA8eHkMJOcqtvsC4As8m8rmBa7w&q=latest+AI+model+trends+May+2026+GPT-5.5+Claude+4+Gemini+2.0+Ultra&ved=1t:220175&ictx=111' />
+	[21] (185,121)<div  />
+		[22] (185,130)<span >쇼핑 />
+[23] (214,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n7WsHx64PAUnQSvjqi9pmR6M3Oc7Q:1777928528622&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_U9zyGIhxipjAtDrA-B3RcyYdRpt6lYYVeJ8CJPARasNVCt8Tz-0daQJW9womt-bRRmA8eHkMJOcqtvsC4As8m8rmBa7w&q=latest+AI+model+trends+May+2026+GPT-5.5+Claude+4+Gemini+2.0+Ultra&sa=X&ved=2ahUKEwiMwonzw6CUAxWDs1YBHUf7KfsQtKgLegQIFRAB' />
+	[24] (214,121)<div  />
+		[25] (214,130)<span >동영상 />
+[26] (244,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n7WsHx64PAUnQSvjqi9pmR6M3Oc7Q:1777928528622&q=latest+AI+model+trends+May+2026+GPT-5.5+Claude+4+Gemini+2.0+Ultra&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_U9zyGIhxipjAtDrA-B3RcyYdRpt6lYYVeJ8CJPARasNVCt8Tz-0daQJW9womt-bRRmA8eHkMJOcqtvsC4As8m8rmBa7w&sa=X&ved=2ahUKEwiMwonzw6CUAxWDs1YBHUf7KfsQ0pQJegQIEhAB' />
+	[27] (244,121)<div  />
+		[28] (244,130)<span >뉴스 />
+[29] (281,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=1ecf6fb006d189a6&sxsrf=ANbL-n7WsHx64PAUnQSvjqi9pmR6M3Oc7Q:1777928528622&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_U9zyGIhxipjAtDrA-B3RcyYdRpt6lYYVeJ8CJPARasNVCt8Tz-0daQJW9womt-bRRmA8eHkMJOcqtvsC4As8m8rmBa7w&q=latest+AI+model+trends+May+2026+GPT-5.5+Claude+4+Gemini+2.0+Ultra&sa=X&ved=2ahUKEwiMwonzw6CUAxWDs1YBHUf7KfsQs6gLegQIERAB' />
+	[30] (281,121)<div  />
+		[31] (281,130)<span >짧은 동영상 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+생각 중
+웹 검색결과
+[42] (231,661)<a class='zReHs' href='https://www.instagram.com/p/DXyGgrKFb5T/' />
+	[43] (231,681)<h3 >2026 최강 AI 모델 TOP 5 — 용도별 완벽 가이드 ... />
+	[44] (155,644)<div  />
+		[45] (155,644)<div  />
+			[46] (127,644)<span  />
+				[47] (127,644)<div  />
+					[48] (127,644)<img  />
+			[49] (166,644)<div  />
+				[50] (166,635)<div  />
+					[51] (166,635)<span >Instagram />
+				[52] (166,655)<div  />
+					[53] (166,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 2개  ·  3일 전 />
+[54] (202,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[55] (202,654)<span  />
+		[56] (202,655)<span  />
+4
+대
+AI
+의 7개 능력치를 한눈에 비교했습니다. 코딩 →
+Claude
+(Arena Elo 1549) 과학추론 →
+Gemini
+(GPQA 94.1%) 자율작업 →
+GPT
+(OSWorld 75%, 인간 ...
+[57] (205,816)<a class='zReHs' href='https://businessengineer.ai/p/the-map-of-ai' />
+	[58] (205,835)<h3 >The Map of AI - by Gennaro Cuofano />
+	[59] (189,799)<div  />
+		[60] (189,799)<div  />
+			[61] (127,799)<span  />
+				[62] (127,799)<div  />
+					[63] (127,799)<img  />
+			[64] (199,799)<div  />
+				[65] (199,789)<div  />
+					[66] (199,789)<span >The Business Engineer />
+				[67] (199,810)<div  />
+					[68] (199,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://businessengineer.ai />
+						[69] (236,810)<span class='ylgVCe ob9lvb' role='text'>› the-map-of-ai />
+[70] (268,808)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (268,808)<span  />
+		[72] (268,810)<span  />
+1일 전
+—
+In
+May 2026
+it is no longer the unit of competition — and the lead is split. The April
+model
+wave produced
+four
+distinct events: April 7 — ...
+[73] (261,970)<a class='zReHs' href='https://www.clickrank.ai/chatgpt-vs-claude-vs-gemini/' />
+	[74] (261,990)<h3 >ChatGPT vs Claude vs Gemini: Which is the Best AI in 2026? />
+	[75] (181,953)<div  />
+		[76] (181,953)<div  />
+			[77] (127,953)<span  />
+				[78] (127,953)<div  />
+					[79] (127,953)<img  />
+			[80] (191,953)<div  />
+				[81] (191,944)<div  />
+					[82] (191,944)<span >ClickRank AI />
+				[83] (191,964)<div  />
+					[84] (191,964)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.clickrank.ai />
+						[85] (224,964)<span class='ylgVCe ob9lvb' role='text'>› Technology />
+[86] (253,963)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[87] (253,963)<span  />
+		[88] (253,964)<span  />
+
+</current_dom>

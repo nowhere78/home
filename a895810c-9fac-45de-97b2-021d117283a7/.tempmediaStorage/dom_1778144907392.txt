@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (167,28)<a aria-label='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' class='md-header__button md-logo' href='.' title='놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능' />
+놀라운 인공 일반 지능, 인공 초지능, 그리고 집단 지능
+[1] (549,28)<label class='md-header__button md-icon' title='조명 모드로 전환' />
+[2] (630,28)<input aria-label='찾다' class='md-search__input' placeholder='찾다' />
+[3] (780,28)<a class='md-source' href='https://github.com/nellaivijay/awesome-agi-aci-asi' title='저장소로 이동' />
+	[4] (775,28)<div  />
+		[5] (794,18)<font  />
+			[6] (794,18)<font >nellaivijay/awesome-agi-aci-asi />
+		[7] (787,39)<ul  />
+			[8] (744,39)<li  />
+				[9] (748,39)<font  />
+					[10] (748,39)<font >7 />
+			[11] (760,39)<li  />
+				[12] (764,39)<font  />
+					[13] (764,39)<font >1 />
+[14] (163,85)<a class='md-tabs__link' href='.' />
+	[15] (163,85)<font  />
+		[16] (163,85)<font >집 />
+[17] (196,85)<a class='md-tabs__link' href='understand/ai-agi-asi/' />
+	[18] (196,85)<font  />
+		[19] (196,85)<font >이해하다 />
+[20] (231,85)<a class='md-tabs__link' href='build/frameworks/' />
+	[21] (231,85)<font  />
+		[22] (231,85)<font >짓다 />
+[23] (268,85)<a class='md-tabs__link' href='infrastructure/llm-frameworks/' />
+	[24] (268,85)<font  />
+		[25] (268,85)<font >하부 구조 />
+[26] (326,85)<a class='md-tabs__link' href='safety/safety-alignment/' />
+	[27] (326,85)<font  />
+		[28] (326,85)<font >안전 및 거버넌스 />
+[29] (399,85)<a class='md-tabs__link' href='research/papers-blogs/' />
+	[30] (399,85)<font  />
+		[31] (399,85)<font >연구하고 배우세요 />
+[32] (454,85)<a class='md-tabs__link' href='blog/' />
+	[33] (454,85)<font  />
+		[34] (454,85)<font >블로그 />
+[35] (486,85)<a class='md-tabs__link' href='tags/' />
+	[36] (486,85)<font  />
+		[37] (486,85)<font >태그 />
+[38] (522,85)<a class='md-tabs__link' href='contributing/' />
+	[39] (522,85)<font  />
+		[40] (522,85)<font >기여하기 />
+집
+[41] (222,397)<nav aria-label='목차' class='md-nav md-nav--secondary' scrollable='true' />
+	[42] (220,291)<a class='md-nav__link' href='#explore' />
+		[43] (188,291)<span  />
+			[44] (188,290)<font  />
+				[45] (188,290)<font >탐구하다 />
+	[46] (220,343)<a class='md-nav__link' href='#contributing' />
+		[47] (188,343)<span  />
+			[48] (188,343)<font  />
+				[49] (188,343)<font >기여하기 />
+	[50] (224,398)<a class='md-nav__link' href='#how-to-submit-resources' />
+		[51] (207,398)<span  />
+			[52] (207,397)<font  />
+				[53] (207,397)<font >자료 제출 방법 />
+	[54] (224,451)<a class='md-nav__link' href='#contribution-guidelines' />
+		[55] (196,451)<span  />
+			[56] (196,450)<font  />
+				[57] (196,450)<font >기고 지침 />
+	[58] (224,503)<a class='md-nav__link' href='#resource-categories' />
+		[59] (210,503)<span  />
+			[60] (210,503)<font  />
+				[61] (210,503)<font >리소스 카테고리 />
+🤖 놀라운 인공 일반 지능, 인공 초지능 및 집단 지능
+인공지능 연구의 최전선 — AI부터 AGI, ASI, 그리고 그 너머까지. 미래의 지능을 만들어가는 개발자와 연구자를 위한 엄선된 자료들을 제공합니다.
+[62] (488,904)<div  />
+	[63] (488,904)<font  />
+		[64] (488,904)<font >🧠 />
+이해하다
+[65] (740,915)<div class='bento-card bento-medium' />
+	[66] (686,915)<div  />
+		[67] (686,914)<font  />
+			[68] (686,914)<font >⚙️ />
+	[69] (760,915)<div  />
+		[70] (760,861)<h3  />
+			[71] (730,861)<font  />
+				[72] (730,861)<font >짓다 />
+		[73] (760,912)<p  />
+			[74] (759,911)<font  />
+				[75] (759,911)<font >프레임워크, 에이전트 및 물리적 AI />
+		[76] (730,968)<span  />
+			[77] (730,967)<font  />
+				[78] (730,967)<font >4개 섹션 />
+
+</current_dom>

@@ -1,0 +1,168 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiuuuHsuY2UAxV01ckDHflJE8YQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DAI%2Bgenerated%2Bimages%2Bvs%2Bstock%2Bfootage%2Bfor%2Btech%2Byoutube%2Bshorts%2Bengagement%2Bcinematic%2Btech%2Bshorts%2Bexamples%2Bchannels&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4uwDAYbJOB0XMjqQr19LKkWGslRQ:1777272996000&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdA6AIvvuoLcS3uB5TUiBhAbf2Esh7hmQcamAOq029JiMYURUYevoAeUkw2Njxy_NcDpjOEK_HdCMD_DOOtBGwxv3klCaN8xz_rTBee8zcegVutfNMb5Q9xVwGi3ZMM0oE2Lot93OWFaLbx_132n5FKFUd4iA&q=AI+generated+images+vs+stock+footage+for+tech+youtube+shorts+engagement+cinematic+tech+shorts+examples+channels&sa=X&ved=2ahUKEwiuuuHsuY2UAxV01ckDHflJE8YQtKgLegQIFBAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >이미지 />
+[20] (180,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4uwDAYbJOB0XMjqQr19LKkWGslRQ:1777272996000&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdA6AIvvuoLcS3uB5TUiBhAbf2Esh7hmQcamAOq029JiMYURUYevoAeUkw2Njxy_NcDpjOEK_HdCMD_DOOtBGwxv3klCaN8xz_rTBee8zcegVutfNMb5Q9xVwGi3ZMM0oE2Lot93OWFaLbx_132n5FKFUd4iA&q=AI+generated+images+vs+stock+footage+for+tech+youtube+shorts+engagement+cinematic+tech+shorts+examples+channels&sa=X&ved=2ahUKEwiuuuHsuY2UAxV01ckDHflJE8YQtKgLegQIERAB' />
+	[21] (180,121)<div  />
+		[22] (180,130)<span >동영상 />
+[23] (261,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4uwDAYbJOB0XMjqQr19LKkWGslRQ:1777272996000&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdA6AIvvuoLcS3uB5TUiBhAbf2Esh7hmQcamAOq029JiMYURUYevoAeUkw2Njxy_NcDpjOEK_HdCMD_DOOtBGwxv3klCaN8xz_rTBee8zcegVutfNMb5Q9xVwGi3ZMM0oE2Lot93OWFaLbx_132n5FKFUd4iA&q=AI+generated+images+vs+stock+footage+for+tech+youtube+shorts+engagement+cinematic+tech+shorts+examples+channels&sa=X&ved=2ahUKEwiuuuHsuY2UAxV01ckDHflJE8YQs6gLegQIExAB' />
+	[24] (261,121)<div  />
+		[25] (261,130)<span >짧은 동영상 />
+[26] (335,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4uwDAYbJOB0XMjqQr19LKkWGslRQ:1777272996000&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdA6AIvvuoLcS3uB5TUiBhAbf2Esh7hmQcamAOq029JiMYURUYevoAeUkw2Njxy_NcDpjOEK_HdCMD_DOOtBGwxv3klCaN8xz_rTBee8zcegVutfNMb5Q9xVwGi3ZMM0oE2Lot93OWFaLbx_132n5FKFUd4iA&q=AI+generated+images+vs+stock+footage+for+tech+youtube+shorts+engagement+cinematic+tech+shorts+examples+channels&ved=1t:220175&ictx=111' />
+	[27] (335,121)<div  />
+		[28] (335,130)<span >쇼핑 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n4uwDAYbJOB0XMjqQr19LKkWGslRQ:1777272996000&q=AI+generated+images+vs+stock+footage+for+tech+youtube+shorts+engagement+cinematic+tech+shorts+examples+channels&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdA6AIvvuoLcS3uB5TUiBhAbf2Esh7hmQcamAOq029JiMYURUYevoAeUkw2Njxy_NcDpjOEK_HdCMD_DOOtBGwxv3klCaN8xz_rTBee8zcegVutfNMb5Q9xVwGi3ZMM0oE2Lot93OWFaLbx_132n5FKFUd4iA&sa=X&ved=2ahUKEwiuuuHsuY2UAxV01ckDHflJE8YQ0pQJegQIEBAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >뉴스 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+Web results
+[42] (299,214)<a class='zReHs' href='https://medium.com/@jfgruber/ai-or-stock-footage-which-to-use-226b748ef232' />
+	[43] (299,234)<h3 >AI or Stock Footage Which To Use? | by John F. Gruber />
+	[44] (144,198)<div  />
+		[45] (144,198)<div  />
+			[46] (57,198)<span  />
+				[47] (57,198)<div  />
+					[48] (57,198)<img  />
+			[49] (165,198)<div  />
+				[50] (165,188)<div  />
+					[51] (165,188)<span >Medium · John F. Gruber />
+				[52] (165,208)<div  />
+					[53] (152,208)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 10개 이상  ·  1년 전 />
+[54] (267,207)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[55] (267,207)<span  />
+		[56] (267,208)<span  />
+My video with AI created footage
+. I used a video AI tool to generate the video above. I made the music. It took me most of my 1200 credits ...
+누락된 검색어:
+tech
+‎
+engagement
+‎
+examples
+‎
+channels
+[57] (322,392)<a class='zReHs' href='https://lensheadmedia.com/ai-vs-stock-footage/' />
+	[58] (322,412)<h3 >Stock Footage vs. AI-Generated Content - Lens Head Media />
+	[59] (197,376)<div  />
+		[60] (197,376)<div  />
+			[61] (57,376)<span  />
+				[62] (57,376)<div  />
+					[63] (57,376)<img  />
+			[64] (218,376)<div  />
+				[65] (218,366)<div  />
+					[66] (218,366)<span >lensheadmedia.com />
+				[67] (218,386)<div  />
+					[68] (218,386)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://lensheadmedia.com />
+						[69] (293,386)<span class='ylgVCe ob9lvb' role='text'>› ai-vs-stock-footage />
+[70] (372,385)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (372,385)<span  />
+		[72] (372,386)<span  />
+2025. 7. 30.
+—
+Stock footage and photography are
+professionally captured images and video clips
+that are licensed for use in other creative projects. They're ...
+[73] (293,544)<a class='zReHs' href='https://www.youtube.com/watch?v=uK6RXzISHIY' />
+	[74] (293,567)<h3 >AI Videos vs Real Videos - can you tell the difference? />
+	[75] (144,530)<div  />
+		[76] (144,530)<div  />
+			[77] (57,530)<span  />
+				[78] (57,530)<div  />
+					[79] (57,530)<img  />
+			[80] (165,530)<div  />
+				[81] (165,521)<div  />
+					[82] (165,521)<span >YouTube · Sean Wiggins />
+				[83] (165,541)<div  />
+					[84] (154,541)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 3만회 이상  ·  1년 전 />
+[85] (268,540)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[86] (268,540)<span  />
+		[87] (268,541)<span  />
+AI Videos vs Real Videos
+- can you tell the difference? 29K views · 1 year ago ...more. Sean Wiggins. 20.9K. Subscribe.
+누락된 검색어:
+engagement
+‎
+cinematic
+[88] (277,722)<a class='zReHs' href='https://fluxnote.io/guides/stock-footage-vs-ai-generated-video' />
+	[89] (277,744)<h3 >Stock Footage vs AI-Generated Video for YouTube />
+	[90] (136,708)<div  />
+		[91] (136,708)<div  />
+			[92] (57,708)<span  />
+				[93] (57,708)<div  />
+					[94] (57,708)<img  />
+			[95] (157,708)<div  />
+				[96] (157,698)<div  />
+					[97] (157,698)<span >FluxNote />
+				[98] (157,719)<div  />
+					[99] (157,719)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://fluxnote.io />
+						[100] (205,719)<span class='ylgVCe ob9lvb' role='text'>› Guides />
+[101] (253,717)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[102] (253,717)<span  />
+		[103] (253,719)<span  />
+2026. 2. 28.
+—
+Based on creator reports,
+stock footage videos generally outperform AI-generated visuals
+on YouTube in terms of watch time and monetization ...
+[104] (314,879)<a class='zReHs' href='https://arxiv.org/html/2503.03134v1' />
+	[105] (314,899)<h3 >Analyzing Generative AI Use Cases in YouTube Content ... />
+	[106] (123,862)<div  />
+		[107] (123,862)<div  />
+			[108] (57,862)<span  />
+				[109] (57,862)<div  />
+					[110] (57,862)<img  />
+			[111] (144,862)<div  />
+				[112] (144,853)<div  />
+					[113] (144,853)<span >arXiv />
+				[114] (144,873)<div  />
+					[115] (144,873)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://arxiv.org />
+						[116] (187,873)<span class='ylgVCe ob9lvb' role='text'>› html />
+[117] (225,872)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[118] (225,872)<span  />
+		[119] (225,873)<span  />
+2025. 3. 5.
+—
+This study analyzes 274
+YouTube
+how-to
+videos
+to explore GenAI's role in planning, production, editing,
+and
+uploading.
+
+</current_dom>

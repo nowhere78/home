@@ -1,0 +1,382 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dentalking' />
+		[4] (65,34)<span  />
+			[5] (65,33)<font  />
+				[6] (65,33)<font >덴탈킹 />
+	[7] (104,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/dentalking/bible-map' />
+		[8] (104,34)<span  />
+			[9] (104,33)<font  />
+				[10] (104,33)<font >성경 지도 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_16_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_1b_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+		[34] (96,80)<span  />
+			[35] (96,80)<span  />
+				[36] (96,80)<font  />
+					[37] (96,80)<font >1 />
+			(
+			1
+			)
+	[38] (141,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/pulls' />
+		[39] (118,80)<span  />
+		[40] (147,80)<span  />
+			[41] (147,80)<font  />
+				[42] (147,80)<font >풀 리퀘스트 />
+	[43] (205,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/agents?author=nowhere78' />
+		[44] (185,80)<span  />
+		[45] (211,80)<span  />
+			[46] (211,80)<font  />
+				[47] (211,80)<font >자치령 대표 />
+	[48] (260,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/actions' />
+		[49] (246,80)<span  />
+		[50] (266,80)<span  />
+			[51] (266,80)<font  />
+				[52] (266,80)<font >행위 />
+	[53] (311,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/projects' />
+		[54] (295,80)<span  />
+		[55] (317,80)<span  />
+			[56] (317,80)<font  />
+				[57] (317,80)<font >프로젝트 />
+	[58] (382,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/security' />
+		[59] (347,80)<span  />
+		[60] (388,80)<span  />
+			[61] (388,80)<font  />
+				[62] (388,80)<font >보안 및 품질 />
+	[63] (453,80)<a class='prc-components-UnderlineItem-7fP-n' href='/dentalking/bible-map/pulse' />
+		[64] (438,80)<span  />
+		[65] (460,80)<span  />
+			[66] (460,80)<font  />
+				[67] (460,80)<font >인사이트 />
+[68] (221,139)<a class='d-block overflow-x-hidden color-fg-default' href='/dentalking/bible-map' />
+	[69] (221,138)<font  />
+		[70] (221,138)<font >성경 지도 />
+공공의
+[71] (650,138)<div  />
+	[72] (650,138)<button aria-label='영상 보기: dentalking/bible-map 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_l_' />
+		[73] (646,138)<span  />
+			[74] (645,138)<span  />
+				[75] (645,137)<font  />
+					[76] (645,137)<font >보다 />
+			0
+			(
+			0
+			)
+[77] (705,139)<a class='btn-sm btn BtnGroup-item' href='/dentalking/bible-map/fork' id='fork-button' />
+	[78] (706,139)<font  />
+		[79] (706,141)<font >포크 />
+	[80] (719,138)<span  />
+		[81] (719,138)<font  />
+			[82] (719,138)<font >1 />
+[83] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1064721135' />
+	[84] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[85] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[86] (776,138)<span  />
+		[87] (776,138)<font  />
+			[88] (776,138)<font >별 />
+	[89] (787,138)<span  />
+		[90] (787,138)<font  />
+			[91] (787,138)<font >0 />
+[92] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1064721135-unstarred-button' />
+덴탈킹/바이블맵
+[93] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[94] (209,216)<span  />
+		[95] (203,216)<span  />
+			[96] (203,216)<div  />
+				[97] (194,216)<div  />
+				[98] (208,216)<div  />
+					[99] (208,216)<span  />
+						[100] (209,216)<font  />
+							[101] (209,216)<font >기본 />
+[102] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/dentalking/bible-map/branches' />
+	[103] (262,216)<span  />
+		[104] (268,216)<span  />
+			[105] (268,216)<span  />
+				[106] (257,216)<strong  />
+					[107] (256,216)<font  />
+						[108] (256,216)<font >1 />
+				[109] (271,216)<font  />
+					[110] (271,216)<font >번 지점 />
+[111] (307,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/dentalking/bible-map/tags' />
+	[112] (307,216)<span  />
+		[113] (313,216)<span  />
+			[114] (313,216)<span  />
+				[115] (310,216)<strong  />
+					[116] (309,216)<font  />
+						[117] (309,216)<font >태그 0 />
+				[118] (324,216)<font  />
+					[119] (324,216)<font >개 />
+[120] (481,216)<span  />
+	[121] (431,216)<span  />
+	[122] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[123] (531,216)<span  />
+		[124] (531,216)<kbd  />
+			[125] (531,216)<span >t />
+				t
+				[126] (531,216)<span >T />
+파일 추가
+[127] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[128] (572,216)<span  />
+		[129] (572,216)<span  />
+			[130] (572,216)<span  />
+				[131] (566,216)<font  />
+					[132] (566,216)<font >파일 추가 />
+[133] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[134] (628,216)<span  />
+		[135] (628,216)<span  />
+			[136] (628,216)<font  />
+				[137] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[138] (219,278)<a aria-label='dentalking의 커밋' class='AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx' href='/dentalking/bible-map/commits?author=dentalking' />
+	[139] (219,278)<font  />
+		[140] (219,278)<font >덴탈킹 />
+그리고
+[141] (263,278)<a aria-label='클로드의 커밋' class='AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx' href='/dentalking/bible-map/commits?author=claude' />
+	[142] (263,278)<font  />
+		[143] (263,278)<font >클로드 />
+[144] (351,278)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' />
+	[145] (351,278)<font  />
+		[146] (351,278)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+[147] (436,278)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[148] (455,278)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[149] (558,278)<a aria-label='커밋 31429b7' class='Link--secondary prc-Link-Link-9ZwDx' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' />
+	[150] (558,278)<font  />
+		[151] (558,278)<font >31429b7 />
+·
+8개월 전
+역사
+[152] (625,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/dentalking/bible-map/commits/main/' />
+	[153] (625,278)<span  />
+		[154] (630,278)<span  />
+			[155] (630,278)<span  />
+				[156] (630,278)<font  />
+					[157] (630,278)<font >38명 커밋 />
+[158] (419,328)<tr  />
+	[159] (212,328)<a aria-label='CSS, (디렉토리)' class='Link--primary' href='/dentalking/bible-map/tree/main/css' title='CSS' />
+		[160] (212,328)<font  />
+			[161] (212,328)<font >CSS />
+	[162] (449,328)<a class='Link--secondary' href='/dentalking/bible-map/commit/097a07271c922b7e5a639b52e318f2a5cb8fb561' title='feat: 참가자 배경 및 관련 장소 연결 기능 추가 **추가된 기능:** 1. 범위 배경(historicalContext) - 시대적 역사적 의미 2. 오직(significance) - 신앙적/역사적 의미 3. 추가적 증거(archaeology) - 있기/발굴 정보 4. 관련 장소(관련 장소) - 클릭으로 연결된 장소 검색 **확장 데이터 추가(9개 장소):** - 구약: ​​헤브론, 챈산, 여리고 - 베들레헴, 나사렛, 가버나움, 갈릴리바다, 침대, 베 **다니엘 개선:** - 팝업에 4개 새 섹션 추가 - 관련 장소 클릭으로 이동 - 강조 표시(중요성 섹션 하이라이트) **교육 효과 향상:** - 공간의 범위만 제공 - 공간 간 연결로 거의 적격 🤖 생성됨 [Claude Code](https://claude.ai/code) 공동 저작자: Claude <noreply@anthropic.com>' />
+		[163] (449,328)<font  />
+			[164] (449,328)<font >feat: 참가자 배경 및 관련 장소 연결 기능 추가 />
+	8개월 전
+[165] (419,371)<tr  />
+	[166] (212,371)<a aria-label='문서, (디렉토리)' class='Link--primary' href='/dentalking/bible-map/tree/main/docs' title='문서' />
+		[167] (212,371)<font  />
+			[168] (212,371)<font >문서 />
+	[169] (473,371)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[170] (473,371)<font  />
+			[171] (473,371)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[172] (419,414)<tr  />
+	[173] (208,415)<a aria-label='js, (디렉토리)' class='Link--primary' href='/dentalking/bible-map/tree/main/js' title='js' />
+		[174] (208,415)<font  />
+			[175] (208,415)<font >js />
+	[176] (454,415)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' title='feat: 유니콘계록 일곱 교회 ​​완전 확장 및 UI 개선 📜 ** 데이터 확장:** • Journeys는 '요한계시록색빛 교회' 8개 제한 가능 확장 - 밧모섬, 에베소, 서머나, 버가모, 두아디라, 사데, 빌라델비아, 라오디게아 - 각 마다 HistoricalContext, important, 고고학, 관련Places 추가 - 차고 설명에서 임시로 전환 **UI 개선:** • 시계록 추가 → 퍽성경 탭으로 통합 - 덩계시록은 27권의 그냥 책으로 있어 위치 - 넉넉성경 탭에 "🔮 융계시록" 테이블 추가 - "일제거 교회" 무리 버튼 + "요한계시록 전체로 통합" 버튼 배치 **기술 개선:** • index.html: 계시 탭 제거, new-testament 탭 내 통합 • js/app.js: switchTab 함수에서 계시 케이스 제거 • js/data.js: travels.revelation_seven 완전 축소 이제 "일곱 교회" 버튼클릭 시 변화하는/신학적/고고학적 정보표시! 🎉 전체 프로젝트 100% 🎉 🎉 🤖 [Claude Code](https://claude.com/claude-code)로 생성됨 공동 작성자: Claude <noreply@anthropic.com>' />
+		[177] (454,415)<font  />
+			[178] (454,415)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+	8개월 전
+[179] (419,458)<tr  />
+	[180] (221,458)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/.gitignore' title='.gitignore' />
+		[181] (221,458)<font  />
+			[182] (221,458)<font >.gitignore />
+	[183] (473,458)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[184] (473,458)<font  />
+			[185] (473,458)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[186] (419,501)<tr  />
+	[187] (219,502)<a aria-label='배포.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/DEPLOYMENT.md' title='배포.md' />
+		[188] (219,502)<font  />
+			[189] (219,502)<font >배포.md />
+	[190] (454,502)<a class='Link--secondary' href='/dentalking/bible-map/commit/b8f4e8b1ee8d982cf3a78289b51cbf45870cd236' title='feat: UI/UX 개선 - 토글 및 드래그 기능 추가 ✨ 기능 새 - 패널 탐색자기/펼치기 버튼 - 범례 드래그로 위치 이동 - LocalStorage로 위치/상태 저장 - 모바일에서 기본적으로 가능 상태 🎨 UI 개선 - 토글 버튼 - 표시 중 - 버튼을 클릭하여 지원 📱 모바일 최적화 - 768px 자동 이동 지원 - 화면 분할' />
+		[191] (454,502)<font  />
+			[192] (454,502)<font >feat: UI/UX 개선 - 토글 및 드래그 기능 추가 기능 />
+	8개월 전
+[193] (419,544)<tr  />
+	[194] (272,545)<a aria-label='INTERTESTAMENTAL_PERIOD_ADDED.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/INTERTESTAMENTAL_PERIOD_ADDED.md' title='INTERTESTAMENTAL_PERIOD_ADDED.md' />
+		[195] (272,545)<font  />
+			[196] (272,545)<font >INTERTESTAMENTAL_PERIOD_ADDED.md />
+	[197] (473,545)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[198] (473,545)<font  />
+			[199] (473,545)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[200] (419,588)<tr  />
+	[201] (244,588)<a aria-label='PHASE1_COMPLETE.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/PHASE1_COMPLETE.md' title='PHASE1_COMPLETE.md' />
+		[202] (244,588)<font  />
+			[203] (244,588)<font >PHASE1_COMPLETE.md />
+	[204] (473,588)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[205] (473,588)<font  />
+			[206] (473,588)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[207] (419,631)<tr  />
+	[208] (228,632)<a aria-label='PHASE2_COMPLETE.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/PHASE2_COMPLETE.md' title='2단계 완료.md' />
+		[209] (228,632)<font  />
+			[210] (228,632)<font >2단계 완료.md />
+	[211] (473,632)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[212] (473,632)<font  />
+			[213] (473,632)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[214] (419,675)<tr  />
+	[215] (246,675)<a aria-label='PHASE3A_COMPLETE.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/PHASE3A_COMPLETE.md' title='PHASE3A_COMPLETE.md' />
+		[216] (246,675)<font  />
+			[217] (246,675)<font >PHASE3A_COMPLETE.md />
+	[218] (473,675)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[219] (473,675)<font  />
+			[220] (473,675)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[221] (419,718)<tr  />
+	[222] (246,719)<a aria-label='PHASE3B_COMPLETE.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/PHASE3B_COMPLETE.md' title='PHASE3B_COMPLETE.md' />
+		[223] (246,719)<font  />
+			[224] (246,719)<font >PHASE3B_COMPLETE.md />
+	[225] (473,719)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[226] (473,719)<font  />
+			[227] (473,719)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[228] (419,761)<tr  />
+	[229] (261,762)<a aria-label='PHASE4_COMPLETE_66BOOKS.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/PHASE4_COMPLETE_66BOOKS.md' title='PHASE4_COMPLETE_66BOOKS.md' />
+		[230] (261,762)<font  />
+			[231] (261,762)<font >PHASE4_COMPLETE_66BOOKS.md />
+	[232] (473,762)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[233] (473,762)<font  />
+			[234] (473,762)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[235] (419,805)<tr  />
+	[236] (226,805)<a aria-label='README.md, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/README.md' title='README.md' />
+		[237] (226,805)<font  />
+			[238] (226,805)<font >README.md />
+	[239] (473,805)<a class='Link--secondary' href='/dentalking/bible-map/commit/09101a7045d9563e62f408a624c3acef50eb19a9' title='feat: 성경 지도 완벽 - 67개 섹션 (구약 39권 + 세력시대 + 27권) - 성경 66권 전체 완성 (867개 대장시대 추가) (BC 430-5년, 받의 400년) - Leaflet.js 기반 리터랙티브 지도 - 항해 이동 (족장, 출애굽, 광야, 가나안, 포로, 운동, 쯤권 사역) - 책별 대장표시 - 검색 기능 - 반응형 디자인' />
+		[240] (473,805)<font  />
+			[241] (473,805)<font >feat: 성경 지도 완성 - 67개 섹션 (구약 39권 + 겉모습 + 27권) />
+	8개월 전
+[242] (419,848)<tr  />
+	[243] (237,849)<a aria-label='check_expansion.sh, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/check_expansion.sh' title='check_expansion.sh' />
+		[244] (237,849)<font  />
+			[245] (237,849)<font >check_expansion.sh />
+	[246] (454,849)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' title='feat: 유니콘계록 일곱 교회 ​​완전 확장 및 UI 개선 📜 ** 데이터 확장:** • Journeys는 '요한계시록색빛 교회' 8개 제한 가능 확장 - 밧모섬, 에베소, 서머나, 버가모, 두아디라, 사데, 빌라델비아, 라오디게아 - 각 마다 HistoricalContext, important, 고고학, 관련Places 추가 - 차고 설명에서 임시로 전환 **UI 개선:** • 시계록 추가 → 퍽성경 탭으로 통합 - 덩계시록은 27권의 그냥 책으로 있어 위치 - 넉넉성경 탭에 "🔮 융계시록" 테이블 추가 - "일제거 교회" 무리 버튼 + "요한계시록 전체로 통합" 버튼 배치 **기술 개선:** • index.html: 계시 탭 제거, new-testament 탭 내 통합 • js/app.js: switchTab 함수에서 계시 케이스 제거 • js/data.js: travels.revelation_seven 완전 축소 이제 "일곱 교회" 버튼클릭 시 변화하는/신학적/고고학적 정보표시! 🎉 전체 프로젝트 100% 🎉 🎉 🤖 [Claude Code](https://claude.com/claude-code)로 생성됨 공동 작성자: Claude <noreply@anthropic.com>' />
+		[247] (454,849)<font  />
+			[248] (454,849)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+	8개월 전
+[249] (419,892)<tr  />
+	[250] (224,892)<a aria-label='index.html, (파일)' class='Link--primary' href='/dentalking/bible-map/blob/main/index.html' title='인덱스.html' />
+		[251] (224,892)<font  />
+			[252] (224,892)<font >인덱스.html />
+	[253] (454,892)<a class='Link--secondary' href='/dentalking/bible-map/commit/31429b7c1d4817b3b7f0bdcbaf3a0daaf1a4e153' title='feat: 유니콘계록 일곱 교회 ​​완전 확장 및 UI 개선 📜 ** 데이터 확장:** • Journeys는 '요한계시록색빛 교회' 8개 제한 가능 확장 - 밧모섬, 에베소, 서머나, 버가모, 두아디라, 사데, 빌라델비아, 라오디게아 - 각 마다 HistoricalContext, important, 고고학, 관련Places 추가 - 차고 설명에서 임시로 전환 **UI 개선:** • 시계록 추가 → 퍽성경 탭으로 통합 - 덩계시록은 27권의 그냥 책으로 있어 위치 - 넉넉성경 탭에 "🔮 융계시록" 테이블 추가 - "일제거 교회" 무리 버튼 + "요한계시록 전체로 통합" 버튼 배치 **기술 개선:** • index.html: 계시 탭 제거, new-testament 탭 내 통합 • js/app.js: switchTab 함수에서 계시 케이스 제거 • js/data.js: travels.revelation_seven 완전 축소 이제 "일곱 교회" 버튼클릭 시 변화하는/신학적/고고학적 정보표시! 🎉 전체 프로젝트 100% 🎉 🎉 🤖 [Claude Code](https://claude.com/claude-code)로 생성됨 공동 작성자: Claude <noreply@anthropic.com>' />
+		[254] (454,892)<font  />
+			[255] (454,892)<font >feat: 유니콘계시록 교회 완전 확장 및 UI 개선 📜 />
+	8개월 전
+저장소 파일 탐색
+[256] (213,958)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[257] (196,958)<span  />
+	[258] (219,958)<span  />
+		[259] (219,958)<font  />
+			[260] (219,958)<font >README />
+[261] (620,957)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[262] (641,957)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+에 대한
+📜 인터랙티브 성경 지도 - 구약 39권 + 신구약 기본시대 + 27권 (867개 대장, BC 2000-AD 95)
+자원
+[263] (699,346)<a class='Link--muted' href='#readme-ov-file' />
+	[264] (705,346)<font  />
+		[265] (705,346)<font >읽어보세요 />
+[266] (689,376)<a class='Link Link--muted' href='/dentalking/bible-map/activity' />
+	[267] (696,376)<span  />
+		[268] (696,376)<font  />
+			[269] (696,376)<font >활동 />
+별들
+[270] (693,407)<a class='Link Link--muted' href='/dentalking/bible-map/stargazers' />
+	[271] (700,407)<font  />
+		[272] (694,407)<font >별 />
+		[273] (705,407)<strong  />
+			[274] (705,407)<font >0 개 />
+감시자들
+[275] (703,438)<a class='Link Link--muted' href='/dentalking/bible-map/watchers' />
+	[276] (698,438)<strong  />
+		[277] (698,438)<font  />
+			[278] (698,438)<font >0명이 />
+	[279] (719,438)<font  />
+		[280] (719,438)<font >시청 중 />
+포크스
+[281] (695,468)<a class='Link Link--muted' href='/dentalking/bible-map/forks' />
+	[282] (702,468)<font  />
+		[283] (697,468)<font >포크 />
+		[284] (710,468)<strong  />
+			[285] (710,468)<font >1개 />
+[286] (696,499)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdentalking%2Fbible-map&report=dentalking+%28user%29' />
+	[287] (696,499)<font  />
+		[288] (696,499)<font >보고서 저장소 />
+[289] (687,557)<a class='Link--primary no-underline Link' href='/dentalking/bible-map/releases' />
+	[290] (687,557)<font  />
+		[291] (687,557)<font >릴리스 />
+발표된 릴리스 없음
+[292] (746,654)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dentalking/bible-map/deployments' />
+	[293] (683,654)<font  />
+		[294] (683,653)<font >배포 />
+	[295] (700,654)<span  />
+		[296] (700,654)<font  />
+			[297] (700,654)<font >38 />
+[298] (724,695)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/dentalking/bible-map/deployments/github-pages' />
+	[299] (711,695)<font  />
+		[300] (711,695)<font >깃허브페이지 />
+	[301] (745,695)<relative-time  />
+		[302] (745,695)<font  />
+			[303] (745,695)<font >8개월 전 />
+[304] (697,734)<a class='Link--inTextBlock Link' href='/dentalking/bible-map/deployments' />
+	[305] (697,734)<font  />
+		[306] (697,734)<font >+ 37건의 배치 />
+[307] (746,793)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/dentalking/packages?repo_name=bible-map' />
+	[308] (687,793)<font  />
+		[309] (687,792)<font >패키지 />
+게시된 패키지가 없습니다.
+[310] (746,889)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/dentalking/bible-map/graphs/contributors' />
+	[311] (687,889)<font  />
+		[312] (687,888)<font >기고자 />
+	[313] (705,889)<span  />
+		[314] (705,889)<font  />
+			[315] (705,889)<font >2 />
+[316] (683,935)<a class='mr-2' href='https://github.com/dentalking' />
+	[317] (683,935)<img  />
+[318] (706,935)<a class='Link--primary no-underline flex-self-center' href='https://github.com/dentalking' />
+	[319] (706,935)<strong  />
+		[320] (706,935)<font  />
+			[321] (706,935)<font >덴탈킹 />
+[322] (683,978)<a class='mr-2' href='https://github.com/claude' />
+	[323] (683,978)<img  />
+[324] (717,978)<a class='Link--primary no-underline flex-self-center' href='https://github.com/claude' />
+	[325] (707,978)<strong  />
+		[326] (707,978)<font  />
+			[327] (707,978)<font >클로드 />
+	[328] (728,978)<span  />
+		[329] (728,978)<font  />
+			[330] (728,978)<font >클로드 />
+
+</current_dom>

@@ -1,0 +1,14 @@
+# V12 Business Expansion Task List
+
+- [x] Task Planning
+- [x] Implement Long-term Memory (Quant)
+  - [x] Create `trading_memory.py` using JSON file-based storage
+  - [x] Update `upbit_hyper_scalper.py` to record trades on sell
+  - [x] Update `upbit_hyper_scalper.py` to query memory before buy (Self-reflection)
+- [x] Implement Local Image Generator
+  - [x] Create `local_image_gen.py` using standard Diffusers/StableDiffusion
+  - [x] Integrate into `luna_shorts_pipeline.py` to replace Pixabay when available
+- [x] Implement YouTube Auto-Upload
+  - [x] Create `youtube_uploader.py` using Google API Client
+  - [x] Integrate into `luna_shorts_pipeline.py` or `swarm_runner.py` for automated posting
+- [x] Final Walkthrough Artifact

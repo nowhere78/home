@@ -1,0 +1,158 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,66)<a href='https://www.google.com/webhp?hl=ko&ictx=2&sa=X&ved=0ahUKEwiNstr99paUAxXNlFYBHaRGMrwQPQgL' />
+	[1] (91,53)<img  />
+[2] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[3] (596,55)<div  />
+	[4] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[5] (593,55)<span  />
+	[6] (618,55)<span  />
+[7] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[8] (644,55)<span  />
+[9] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[10] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[11] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[12] (769,55)<div  />
+		[13] (769,55)<span  />
+[14] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[15] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[16] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EB%25B6%2580%25EA%25BF%2588%2B%25EC%2587%25BC%25EC%25B8%25A0%2B%25EC%2588%2598%25EC%2588%2598%25EB%25A3%258C%2B70%2525%2B%25ED%2594%258C%25EB%259E%25AB%25ED%258F%25BC&ec=futura_srp_og_si_72236_p' role='button' />
+[17] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[18] (108,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyF6q9jU0Nw4c8q-iOHh7PQe8Mbg5l4ses7tX8GDVRTonM7iY9Rs1bn4oAT-M5ezXdFrXhyHnUgunT0LXAa0KnICj22d2h5nDoVMP1zqZ0WHXcYjt4&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%ED%94%8C%EB%9E%AB%ED%8F%BC&ved=1t:220175&ictx=111' />
+	[19] (108,121)<div  />
+		[20] (108,130)<span >쇼핑 />
+[21] (167,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyF6q9jU0Nw4c8q-iOHh7PQe8Mbg5l4ses7tX8GDVRTonM7iY9Rs1bn4oAT-M5ezXdFrXhyHnUgunT0LXAa0KnICj22d2h5nDoVMP1zqZ0WHXcYjt4&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%ED%94%8C%EB%9E%AB%ED%8F%BC&sa=X&ved=2ahUKEwiNstr99paUAxXNlFYBHaRGMrwQtKgLegQIFRAB' />
+	[22] (167,121)<div  />
+		[23] (167,130)<span >이미지 />
+[24] (232,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyF6q9jU0Nw4c8q-iOHh7PQe8Mbg5l4ses7tX8GDVRTonM7iY9Rs1bn4oAT-M5ezXdFrXhyHnUgunT0LXAa0KnICj22d2h5nDoVMP1zqZ0WHXcYjt4&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%ED%94%8C%EB%9E%AB%ED%8F%BC&sa=X&ved=2ahUKEwiNstr99paUAxXNlFYBHaRGMrwQtKgLegQIFBAB' />
+	[25] (232,121)<div  />
+		[26] (232,130)<span >동영상 />
+[27] (291,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%ED%94%8C%EB%9E%AB%ED%8F%BC&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyF6q9jU0Nw4c8q-iOHh7PQe8Mbg5l4ses7tX8GDVRTonM7iY9Rs1bn4oAT-M5ezXdFrXhyHnUgunT0LXAa0KnICj22d2h5nDoVMP1zqZ0WHXcYjt4&sa=X&ved=2ahUKEwiNstr99paUAxXNlFYBHaRGMrwQ0pQJegQIExAB' />
+	[28] (291,121)<div  />
+		[29] (291,130)<span >뉴스 />
+[30] (365,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyF6q9jU0Nw4c8q-iOHh7PQe8Mbg5l4ses7tX8GDVRTonM7iY9Rs1bn4oAT-M5ezXdFrXhyHnUgunT0LXAa0KnICj22d2h5nDoVMP1zqZ0WHXcYjt4&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%ED%94%8C%EB%9E%AB%ED%8F%BC&sa=X&ved=2ahUKEwiNstr99paUAxXNlFYBHaRGMrwQs6gLegQIEhAB' />
+	[31] (365,121)<div  />
+		[32] (365,130)<span >짧은 동영상 />
+[33] (455,121)<div class='mTpL7c' role='button' />
+	[34] (455,121)<div  />
+		[35] (455,130)<div  />
+			[36] (446,124)<span >더보기 />
+			[37] (475,124)<span  />
+[38] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[39] (533,121)<div  />
+		[40] (533,130)<div  />
+			[41] (523,124)<span >도구 />
+			[42] (546,124)<span  />
+검색결과
+AI 개요
+[43] (948,195)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+사용자가 언급한 ‘부꿈(부동산 꿈나무 등으로 추정)’ 관련 영상에서 수수료 70%를 언급하는 플랫폼은
+[44] (317,260)<a class='GI370e' href='https://www.google.com/search?q=%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EC%87%BC%ED%95%91%28%ED%8A%B9%ED%9E%88+%EC%A0%9C%ED%9C%B4+%EB%A7%88%EC%BC%80%ED%8C%85+%ED%98%95%ED%83%9C%29&mstk=AUtExfCTWr7vuBIwuyvMiKI3rSWC7GZQV4kmu8KUPvwedKKBXcymgCdshSfkephM1pSM44AFEul02LQw8VYbHXZwTM0TjvsAgsXvpZimhUo-3dKa7C-j8kENUPEBAbU8qxOXTpLImf6j_CWIrn8uKsT5FXwxrgD0boIyo5fo29BFZQIJD1E&csui=3&ved=2ahUKEwiI9-z99paUAxUXsFYBHampF6EQgK4QegQIARAB' />
+	[45] (317,260)<span  />
+		[46] (317,260)<strong >유튜브 쇼핑(특히 제휴 마케팅 형태) />
+를 의미할 가능성이 높습니다.
+2026년 현재, 일부 유튜브 쇼핑 제휴 프로그램에서는 파격적인 수수료율을 제공하고 있습니다.
+유튜브 쇼핑 수수료 70%와 관련된 내용을 다룬 영상입니다:
+59s
+현장속으로
+YouTube• 2026. 1. 11.
+70% 수수료의 실체:
+이는 유튜브가 수수료를 70% 가져가는 것이 아니라,
+크리에이터가 쇼츠 영상에 상품을 태그하여 판매할 경우, 판매 금액의 최대 70%를 제휴 수수료(커미션)로 가져갈 수 있는 구조
+를 의미합니다.
+플랫폼 및 연동:
+카페24, 쿠팡 파트너스 등과 연동된 유튜브 쇼핑 플랫폼이 활용되며, 30일 동안 해당 쇼츠를 통해 구매한 제품에 대해 높은 커미션을 받는 구조입니다.
+특징:
+단순 조회수 수익(100만 회당 10~60달러 수준)과는 달리, 쇼핑 연동은 쇼츠 하나로도 큰 수익을 낼 수 있는 방식입니다.
+[47] (793,304)<a aria-label='카페 24로 유튜브 쇼핑 연동하고 판매 시작하기 - 키위스냅. 새 탭에서 열립니다.' class='NDNGvf' href='https://home.kiwisnap.net/post/kape-24ro-yutyubeu-syoping-yeondonghago-panmae-sijaghagi' />
+카페 24로 유튜브 쇼핑 연동하고 판매 시작하기 - 키위스냅
+2025. 4. 17. —
+유튜브 쇼핑은 바로 자사몰로 연동되어 따로 유튜브에 지불하는 수익 수수료가 0원입니다. 따라서 제품을 좋은 ...
+키위스냅
+[48] (931,359)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-tAD0aYjNApfg2roPqdPeiAo_13' role='button' />
+유튜브는 쇼츠 영상 1,000회 조회당 얼마의 수익을 올리나요? - Quora
+번역됨 —
+YouTube Shorts는 조회수 1,000회당 약 0.01달러에서 0.06달러를 지급합니다. 그래서: 조...
+Quora
+유튜브 쇼핑 입점 가이드(2026) : 조건∙제휴사∙연동∙수수료 총정리
+2026. 4. 13.
+—
+카페24·마플샵 직접 연동을 포함해 스마트스토어·쿠팡 등 주요 플랫폼 연동이 가능하며, 올리브영·컬리·오늘의...
+colosseum.global
+모두 표시
+[49] (500,538)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[50] (372,538)<div  />
+		[51] (372,538)<div >더보기 />
+			더보기
+			[52] (397,538)<span  />
+[53] (300,658)<a class='zReHs' href='https://www.youtube.com/watch?v=mmbdnCbVdd0' />
+	[54] (300,681)<h3 >"26년 쇼츠 여기로 다 몰립니다" 수수료 70% 쇼츠 하나로 ... />
+	[55] (144,644)<div  />
+		[56] (144,644)<div  />
+			[57] (57,644)<span  />
+				[58] (57,644)<div  />
+					[59] (57,644)<img  />
+			[60] (165,644)<div  />
+				[61] (165,635)<div  />
+					[62] (165,635)<span >YouTube · 현장속으로 />
+				[63] (165,655)<div  />
+					[64] (165,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>조회수 8.7만회 이상  ·  3개월 전 />
+[65] (269,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[66] (269,654)<span  />
+		[67] (269,655)<span  />
+[68] (130,751)<div aria-label='현장속으로님이 YouTube에 게시한 "26년 쇼츠 여기로 다 몰립니다" 수수료 70% 쇼츠 하나로 .... Google에서 재생. 22:16' class='rIRoqf hXY9cf' role='button' />
+	[69] (120,753)<div  />
+		[70] (120,753)<div  />
+			[71] (120,753)<div  />
+				[72] (75,778)<div  />
+					[73] (75,778)<span >22:16 />
+				[74] (178,728)<div  />
+					[75] (178,728)<span  />
+(클릭) https://www.fitchnic.com/courses/9c122804-3c6a-4928-bcd1-f676d40115c6?referral=gogowork-booggumAI-2601
+부꿈
+님 무료 전자책+ 무료자료 ...
+누락된 검색어:
+플랫폼
+‎| 필수 포함 항목:
+[76] (305,817)<a href='/search?newwindow=1&sca_esv=d07bd56edf8f0c31&sxsrf=ANbL-n7i9IMSKGLAph5HR81cou2oscctag:1777598643744&q=%EB%B6%80%EA%BF%88+%EC%87%BC%EC%B8%A0+%EC%88%98%EC%88%98%EB%A3%8C+70%25+%22%ED%94%8C%EB%9E%AB%ED%8F%BC%22&sa=X&ved=2ahUKEwiNstr99paUAxXNlFYBHaRGMrwQ5t4CegQIHhAT' />
+	[77] (305,817)<span >플랫폼 />
+관련 질문
+[78] (383,926)<div class='dnXCYb' role='button' />
+	유튜버 슈퍼챗 수수료는 얼마인가요?
+	[79] (383,926)<div  />
+[80] (383,982)<div class='dnXCYb' role='button' />
+	유튜브 쇼츠 1000회당 수익은 얼마인가요?
+	[81] (383,982)<div  />
+[82] (802,641)<div  />
+	[83] (802,641)<img  />
+[84] (884,641)<div >AI에게 질문하기 />
+	[85] (833,641)<img  />
+검색 에이전트
+[86] (829,683)<div  />
+	[87] (803,683)<img  />
+	[88] (840,683)<span >4o mini />
+[89] (912,683)<div  />
+	[90] (886,683)<img  />
+	[91] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+[92] (872,970)<div  />
+	[93] (872,970)<span >🚀 지금 업그레이드 />
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

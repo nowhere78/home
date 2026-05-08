@@ -1,0 +1,410 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[3] (434,34)<span  />
+		[4] (98,34)<span  />
+			[5] (80,34)<span >topic: />
+			[6] (107,34)<span >ai-business />
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+[17] (500,794)<div  />
+	저장소 검색 결과 · 주제: AI 비즈니스
+	[18] (77,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+		필터 기준
+		[19] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=code' id='_r_4_' />
+			[20] (79,148)<span  />
+				[21] (71,148)<span  />
+					[22] (32,148)<font  />
+						[23] (32,148)<font >암호 />
+				0
+				(
+				0
+				)
+				결과
+		[24] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=repositories' id='_r_5_' />
+			[25] (79,182)<span  />
+				[26] (71,182)<span  />
+					[27] (35,181)<font  />
+						[28] (35,181)<font >저장소 />
+				8
+				(
+				8
+				)
+				결과
+		[29] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=issues' id='_r_6_' />
+			[30] (79,216)<span  />
+				[31] (71,216)<span  />
+					[32] (35,215)<font  />
+						[33] (35,215)<font >문제점 />
+				0
+				(
+				0
+				)
+				결과
+		[34] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=pullrequests' id='_r_7_' />
+			[35] (79,250)<span  />
+				[36] (71,250)<span  />
+					[37] (43,249)<font  />
+						[38] (43,249)<font >풀 리퀘스트 />
+				0
+				(
+				0
+				)
+				결과
+		[39] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=discussions' id='_r_8_' />
+			[40] (79,284)<span  />
+				[41] (71,284)<span  />
+					[42] (32,283)<font  />
+						[43] (32,283)<font >토론 />
+				0
+				(
+				0
+				)
+				결과
+		[44] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business&type=users' id='_r_9_' />
+			[45] (79,317)<span  />
+				[46] (71,317)<span  />
+					[47] (35,317)<font  />
+						[48] (35,317)<font >사용자 />
+				0
+				(
+				0
+				)
+				결과
+		[49] (73,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+			[50] (79,351)<span  />
+				[51] (79,351)<span  />
+					[52] (28,351)<font  />
+						[53] (28,351)<font >더 />
+		언어
+		[54] (73,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business+language%3APython&type=repositories&s=updated&o=desc' id='_r_c_' />
+			[55] (78,435)<span  />
+				[56] (78,435)<span  />
+					[57] (78,435)<div  />
+						[58] (78,435)<div  />
+							[59] (32,434)<font  />
+								[60] (32,434)<font >파이썬 />
+		[61] (73,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business+language%3AHTML&type=repositories&s=updated&o=desc' id='_r_d_' />
+			[62] (78,469)<span  />
+				[63] (78,469)<span  />
+					[64] (78,469)<div  />
+						[65] (78,469)<div  />
+							[66] (31,468)<font  />
+								[67] (31,468)<font >HTML />
+		[68] (73,503)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business+language%3AJavaScript&type=repositories&s=updated&o=desc' id='_r_e_' />
+			[69] (78,503)<span  />
+				[70] (78,503)<span  />
+					[71] (78,503)<div  />
+						[72] (78,503)<div  />
+							[73] (42,502)<font  />
+								[74] (42,502)<font >자바스크립트 />
+		[75] (73,537)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_f_' />
+			[76] (79,537)<span  />
+				[77] (79,537)<span  />
+					[78] (79,537)<div  />
+						[79] (46,536)<font  />
+							[80] (46,536)<font >더 많은 언어... />
+		고급의
+		[81] (73,620)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_h_' />
+			[82] (79,620)<span  />
+				[83] (79,620)<span  />
+					[84] (79,620)<div  />
+						[85] (79,620)<div  />
+							[86] (35,620)<font  />
+								[87] (35,620)<font >소유자 />
+		[88] (73,654)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_i_' />
+			[89] (79,654)<span  />
+				[90] (79,654)<span  />
+					[91] (79,654)<div  />
+						[92] (79,654)<div  />
+							[93] (32,653)<font  />
+								[94] (32,653)<font >크기 />
+		[95] (73,688)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_j_' />
+			[96] (79,688)<span  />
+				[97] (79,688)<span  />
+					[98] (79,688)<div  />
+						[99] (79,688)<div  />
+							[100] (39,687)<font  />
+								[101] (39,687)<font >팔로워 수 />
+		[102] (73,722)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+			[103] (79,722)<span  />
+				[104] (79,722)<span  />
+					[105] (79,722)<div  />
+						[106] (79,722)<div  />
+							[107] (43,721)<font  />
+								[108] (43,721)<font >포크의 개수 />
+		[109] (73,756)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+			[110] (79,756)<span  />
+				[111] (79,756)<span  />
+					[112] (79,756)<div  />
+						[113] (79,756)<div  />
+							[114] (39,755)<font  />
+								[115] (39,755)<font >별의 개수 />
+		[116] (73,789)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+			[117] (79,789)<span  />
+				[118] (79,789)<span  />
+					[119] (79,789)<div  />
+						[120] (79,789)<div  />
+							[121] (35,789)<font  />
+								[122] (35,789)<font >생성일 />
+		[123] (73,823)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_n_' />
+			[124] (79,823)<span  />
+				[125] (79,823)<span  />
+					[126] (79,823)<div  />
+						[127] (79,823)<div  />
+							[128] (60,823)<font  />
+								[129] (60,823)<font >날짜가 변경되었습니다 />
+		[130] (73,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+			[131] (79,857)<span  />
+				[132] (79,857)<span  />
+					[133] (79,857)<div  />
+						[134] (79,857)<div  />
+							[135] (32,857)<font  />
+								[136] (32,857)<font >주제 />
+		[137] (73,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+			[138] (79,891)<span  />
+				[139] (79,891)<span  />
+					[140] (79,891)<div  />
+						[141] (79,891)<div  />
+							[142] (32,890)<font  />
+								[143] (32,890)<font >특허 />
+		[144] (73,925)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+			[145] (79,925)<span  />
+				[146] (79,925)<span  />
+					[147] (79,925)<div  />
+						[148] (79,925)<div  />
+							[149] (35,924)<font  />
+								[150] (35,924)<font >보관됨 />
+		[151] (73,959)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business+is%3Apublic&type=repositories&s=updated&o=desc' id='_r_r_' />
+			[152] (79,959)<span  />
+				[153] (79,959)<span  />
+					[154] (79,959)<div  />
+						[155] (79,959)<div  />
+							[156] (35,958)<font  />
+								[157] (35,958)<font >공공의 />
+		[158] (73,993)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=topic%3Aai-business+is%3Aprivate&type=repositories&s=updated&o=desc' id='_r_s_' />
+			[159] (79,993)<span  />
+				[160] (79,993)<span  />
+					[161] (79,993)<div  />
+						[162] (79,993)<div  />
+							[163] (35,992)<font  />
+								[164] (35,992)<font >사적인 />
+	[165] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	8개 결과
+	(
+	249ms
+	)
+	8개 결과
+	[166] (666,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_12_' />
+		[167] (662,99)<span  />
+			[168] (662,99)<span  />
+				[169] (640,99)<span  />
+					[170] (640,99)<font  />
+						[171] (640,99)<font >정렬 기준: />
+				[172] (676,99)<font  />
+					[173] (676,99)<font >최근 업데이트됨 />
+	[174] (733,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[175] (733,99)<span  />
+			[176] (733,99)<span  />
+				[177] (733,99)<div  />
+					[178] (738,99)<font  />
+						[179] (738,99)<font >구하다 />
+	[180] (763,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1c_' />
+	[181] (318,162)<a class='prc-Link-Link-9ZwDx' href='/FinalyYearProjects/26CP3600359-ai-business-automation-platform' />
+		[182] (318,161)<span  />
+			[183] (318,161)<font  />
+				[184] (318,161)<font >FinalyYearProjects/26CP3600359-ai-business-automation-platform />
+	AI 비즈니스 자동화 플랫폼 - CSEProjects360 최종 학년 프로젝트 카탈로그에 포함된 AI/ML/GenAI 분야의 하이브리드 및 고급 시스템 프로젝트.
+	[185] (193,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning' />
+		[186] (193,221)<font  />
+			[187] (193,221)<font >머신러닝 />
+	[188] (231,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+		[189] (231,221)<font  />
+			[190] (231,221)<font >일체 포함 />
+	[191] (276,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/student-project' />
+		[192] (276,221)<font  />
+			[193] (276,221)<font >학생 프로젝트 />
+	[194] (327,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/final-year-project' />
+		[195] (327,221)<font  />
+			[196] (327,221)<font >졸업 프로젝트 />
+	[197] (381,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/business-automation' />
+		[198] (381,221)<font  />
+			[199] (381,221)<font >비즈니스 자동화 />
+	[200] (183,252)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/FinalyYearProjects/26CP3600359-ai-business-automation-platform/stargazers' />
+		[201] (189,252)<span  />
+			[202] (189,252)<font  />
+				[203] (189,252)<font >0 />
+	·
+	업데이트됨
+	12일 전
+	[204] (748,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[205] (748,168)<span  />
+			[206] (754,168)<span  />
+				[207] (754,167)<font  />
+					[208] (754,167)<font >별 />
+	[209] (305,329)<a class='prc-Link-Link-9ZwDx' href='/FinalyYearProjects/26CP3600175-ai-business-idea-generator' />
+		[210] (305,329)<span  />
+			[211] (305,329)<font  />
+				[212] (305,329)<font >FinalyYearProjects/26CP3600175-ai-business-idea-generator />
+	AI 비즈니스 아이디어 생성기 - CSEProjects360 최종 학년 프로젝트 카탈로그에 포함된 AI/ML/GenAI 분야의 생성형 AI 프로젝트.
+	[213] (193,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/machine-learning' />
+		[214] (193,388)<font  />
+			[215] (193,388)<font >머신러닝 />
+	[216] (231,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+		[217] (231,388)<font  />
+			[218] (231,388)<font >일체 포함 />
+	[219] (276,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/student-project' />
+		[220] (276,388)<font  />
+			[221] (276,388)<font >학생 프로젝트 />
+	[222] (327,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/final-year-project' />
+		[223] (327,388)<font  />
+			[224] (327,388)<font >졸업 프로젝트 />
+	[225] (378,388)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/business-idea' />
+		[226] (378,388)<font  />
+			[227] (378,388)<font >사업 아이디어 />
+	[228] (183,420)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/FinalyYearProjects/26CP3600175-ai-business-idea-generator/stargazers' />
+		[229] (189,420)<span  />
+			[230] (189,420)<font  />
+				[231] (189,420)<font >0 />
+	·
+	업데이트됨
+	12일 전
+	[232] (748,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[233] (748,335)<span  />
+			[234] (754,335)<span  />
+				[235] (754,335)<font  />
+					[236] (754,335)<font >별 />
+	[237] (242,496)<a class='prc-Link-Link-9ZwDx' href='/ajsupplycollc/sam-website' />
+		[238] (242,496)<span  />
+			[239] (242,496)<font  />
+				[240] (242,496)<font >ajsupplycollc/sam-웹사이트 />
+	Strange Advanced Marketing - AI 기반 비즈니스 인텔리전스 및 마케팅 자동화 도구
+	[241] (190,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/marketing' />
+		[242] (190,556)<font  />
+			[243] (190,556)<font >마케팅 />
+	[244] (227,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation' />
+		[245] (227,556)<font  />
+			[246] (227,556)<font >오토메이션 />
+	[247] (269,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+		[248] (269,556)<font  />
+			[249] (269,556)<font >일체 포함 />
+	[250] (307,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/small-business' />
+		[251] (307,556)<font  />
+			[252] (307,556)<font >중소기업 />
+	[253] (349,556)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai-business' />
+		[254] (349,556)<font  />
+			[255] (349,556)<font >AI 비즈니스 />
+	HTML
+	·
+	[256] (219,587)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/ajsupplycollc/sam-website/stargazers' />
+		[257] (225,587)<span  />
+			[258] (225,587)<font  />
+				[259] (225,587)<font >0 />
+	·
+	업데이트됨
+	17일 전
+	[260] (748,503)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[261] (748,503)<span  />
+			[262] (754,503)<span  />
+				[263] (754,502)<font  />
+					[264] (754,502)<font >별 />
+	[265] (246,663)<a class='prc-Link-Link-9ZwDx' href='/ajsupplycollc/sam-starter-kit' />
+		[266] (246,663)<span  />
+			[267] (246,663)<font  />
+				[268] (246,663)<font >ajsupplycollc/sam-starter-kit />
+	AI 기반 비즈니스 파트너 설정. 코딩이 필요 없습니다. 담당자 Claude가 직접 설치해 드립니다. Strange Advanced Marketing 생태계의 일부입니다.
+	[269] (196,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation' />
+		[270] (196,723)<font  />
+			[271] (196,723)<font >오토메이션 />
+	[272] (237,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ai' />
+		[273] (237,723)<font  />
+			[274] (237,723)<font >일체 포함 />
+	[275] (282,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/marketing-automation' />
+		[276] (282,723)<font  />
+			[277] (282,723)<font >마케팅 자동화 />
+	[278] (326,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/small-business' />
+		[279] (326,723)<font  />
+			[280] (326,723)<font >중소기업 />
+	[281] (361,723)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/no-code' />
+		[282] (361,723)<font  />
+			[283] (361,723)<font >노코드 />
+	[284] (183,754)<a aria-label='별 1개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/ajsupplycollc/sam-starter-kit/stargazers' />
+		[285] (189,754)<span  />
+			[286] (189,754)<font  />
+				[287] (189,754)<font >1 />
+	·
+	업데이트됨
+	19일 전
+	[288] (748,670)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[289] (748,670)<span  />
+			[290] (754,670)<span  />
+				[291] (754,669)<font  />
+					[292] (754,669)<font >별 />
+	[293] (233,831)<a class='prc-Link-Link-9ZwDx' href='/NAVANEETHVVINOD/CO_OP' />
+		[294] (233,830)<span  />
+			[295] (233,830)<font  />
+				[296] (233,830)<font >나바니스비노드/CO_OP />
+	Co-Op은 비즈니스 운영 전반을 지원하는 자체 호스팅 AI 플랫폼입니다. 상담원은 고객 발굴, 제안서 작성, 프로젝트 관리, 문의 처리 등을 담당합니다.
+	[297] (190,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/python' />
+		[298] (190,890)<font  />
+			[299] (190,890)<font >파이썬 />
+	[300] (227,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/automation' />
+		[301] (227,890)<font  />
+			[302] (227,890)<font >오토메이션 />
+	[303] (271,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/docker-compose' />
+		[304] (271,890)<font  />
+			[305] (271,890)<font >도커컴포즈 />
+	[306] (317,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/nextjs' />
+		[307] (317,890)<font  />
+			[308] (317,890)<font >넥스트제이스 />
+	[309] (364,890)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/self-hosted' />
+		[310] (364,890)<font  />
+			[311] (364,890)<font >자체 호스팅 />
+	파이썬
+	·
+	[312] (220,921)<a aria-label='별 0개' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/NAVANEETHVVINOD/CO_OP/stargazers' />
+		[313] (226,921)<span  />
+			[314] (226,921)<font  />
+				[315] (226,921)<font >0 />
+	·
+	업데이트됨
+	6일 전
+	[316] (748,837)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[317] (748,837)<span  />
+			[318] (754,837)<span  />
+				[319] (754,836)<font  />
+					[320] (754,836)<font >별 />
+	[321] (239,998)<a class='prc-Link-Link-9ZwDx' href='/Marte1978/web-factory-portal' />
+		[322] (239,997)<span  />
+			[323] (239,997)<font  />
+				[324] (239,997)<font >Marte1978/웹 팩토리 포털 />
+	별
+	여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+	기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+	[325] (885,316)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+		[326] (837,312)<font  />
+			[327] (837,312)<font >후원 가능한 프로젝트를 살펴보세요 />
+	검색 기능을 어떻게 개선할 수 있을까요?
+	[328] (923,386)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+		[329] (923,386)<span  />
+			[330] (923,386)<font  />
+				[331] (923,386)<font >피드백을 제공하세요 />
+	꿀팁!
+	누르세요
+	/
+	검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

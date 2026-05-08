@@ -1,0 +1,133 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjmp9iguo2UAxU8L9AFHexIJOcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DYouTube%2Bmulti-account%2Bmanagement%2Btools%2Bautomated%2Bkeyword%2Bresearch%2BA%252FB%2Btesting%2Bautomation%2Bavoid%2Bspam%2Bfilters%2Bshorts&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6t5VciwHkvaCTuPiwlFh2GWFeyMQ:1777273104901&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOuH6Uui_Evm4rQXGtAPPzuIZTqk-3egWvIAcSrVgmeT9VT4gvtYLgOO38Jcw057nTxq-f7DCLXR5K0tlqoHdTcNNe4BE5IZNnLgogJfArPdXV8urZaShm8fCzfMNEG4MfGyvdSEW_gzKW7zsLd5-bsOf2QZpQ&q=YouTube+multi-account+management+tools+automated+keyword+research+A/B+testing+automation+avoid+spam+filters+shorts&sa=X&ved=2ahUKEwjmp9iguo2UAxU8L9AFHexIJOcQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >동영상 />
+[20] (174,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6t5VciwHkvaCTuPiwlFh2GWFeyMQ:1777273104901&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOuH6Uui_Evm4rQXGtAPPzuIZTqk-3egWvIAcSrVgmeT9VT4gvtYLgOO38Jcw057nTxq-f7DCLXR5K0tlqoHdTcNNe4BE5IZNnLgogJfArPdXV8urZaShm8fCzfMNEG4MfGyvdSEW_gzKW7zsLd5-bsOf2QZpQ&q=YouTube+multi-account+management+tools+automated+keyword+research+A/B+testing+automation+avoid+spam+filters+shorts&ved=1t:220175&ictx=111' />
+	[21] (174,121)<div  />
+		[22] (174,130)<span >쇼핑 />
+[23] (232,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6t5VciwHkvaCTuPiwlFh2GWFeyMQ:1777273104901&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOuH6Uui_Evm4rQXGtAPPzuIZTqk-3egWvIAcSrVgmeT9VT4gvtYLgOO38Jcw057nTxq-f7DCLXR5K0tlqoHdTcNNe4BE5IZNnLgogJfArPdXV8urZaShm8fCzfMNEG4MfGyvdSEW_gzKW7zsLd5-bsOf2QZpQ&q=YouTube+multi-account+management+tools+automated+keyword+research+A/B+testing+automation+avoid+spam+filters+shorts&sa=X&ved=2ahUKEwjmp9iguo2UAxU8L9AFHexIJOcQtKgLegQIFRAB' />
+	[24] (232,121)<div  />
+		[25] (232,130)<span >이미지 />
+[26] (313,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6t5VciwHkvaCTuPiwlFh2GWFeyMQ:1777273104901&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOuH6Uui_Evm4rQXGtAPPzuIZTqk-3egWvIAcSrVgmeT9VT4gvtYLgOO38Jcw057nTxq-f7DCLXR5K0tlqoHdTcNNe4BE5IZNnLgogJfArPdXV8urZaShm8fCzfMNEG4MfGyvdSEW_gzKW7zsLd5-bsOf2QZpQ&q=YouTube+multi-account+management+tools+automated+keyword+research+A/B+testing+automation+avoid+spam+filters+shorts&sa=X&ved=2ahUKEwjmp9iguo2UAxU8L9AFHexIJOcQs6gLegQIFBAB' />
+	[27] (313,121)<div  />
+		[28] (313,130)<span >짧은 동영상 />
+[29] (387,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6t5VciwHkvaCTuPiwlFh2GWFeyMQ:1777273104901&q=YouTube+multi-account+management+tools+automated+keyword+research+A/B+testing+automation+avoid+spam+filters+shorts&udm=36&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOuH6Uui_Evm4rQXGtAPPzuIZTqk-3egWvIAcSrVgmeT9VT4gvtYLgOO38Jcw057nTxq-f7DCLXR5K0tlqoHdTcNNe4BE5IZNnLgogJfArPdXV8urZaShm8fCzfMNEG4MfGyvdSEW_gzKW7zsLd5-bsOf2QZpQ&sa=X&ved=2ahUKEwjmp9iguo2UAxU8L9AFHexIJOcQ0pQJegQIEhAB' />
+	[30] (387,121)<div  />
+		[31] (387,130)<span >도서 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+생각 중
+Web results
+[42] (231,661)<a class='zReHs' href='https://blabla.ai/blog/auto-comment-youtube-bot' />
+	[43] (231,681)<h3 >YouTube Auto Comment Bot Guide 2025 />
+	[44] (204,644)<div  />
+		[45] (204,644)<div  />
+			[46] (57,644)<span  />
+				[47] (57,644)<div  />
+					[48] (57,644)<img  />
+			[49] (225,644)<div  />
+				[50] (225,635)<div  />
+					[51] (225,635)<span >blabla.ai />
+				[52] (225,655)<div  />
+					[53] (225,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://blabla.ai />
+						[54] (267,655)<span class='ylgVCe ob9lvb' role='text'>› blog › auto-comment-youtube-bot />
+[55] (386,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (386,654)<span  />
+		[57] (386,655)<span  />
+2025. 12. 6.
+—
+YouTube auto-comment bots in 2025
+: how they work, benefits, risks, comparisons, and selection guide.
+[58] (328,816)<a class='zReHs' href='https://medium.com/@abhinav.shastri/how-to-do-youtube-automation-in-2025-the-complete-step-by-step-guide-1dc84f34c396' />
+	[59] (328,835)<h3 >🎥 How to Do YouTube Automation in 2025: The Complete ... />
+	[60] (145,799)<div  />
+		[61] (145,799)<div  />
+			[62] (57,799)<span  />
+				[63] (57,799)<div  />
+					[64] (57,799)<img  />
+			[65] (166,799)<div  />
+				[66] (166,789)<div  />
+					[67] (166,789)<span >Medium · abhinav shastri />
+				[68] (166,810)<div  />
+					[69] (161,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 350개 이상  ·  6개월 전 />
+[70] (269,808)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (269,808)<span  />
+		[72] (269,810)<span  />
+The simplest tool is
+Google Trends
+. Go to Google Trends, switch to the “YouTube Search” filter, and check what's rising in the past week or ...
+[73] (272,967)<a class='zReHs' href='https://www.mindstudio.ai/blog/ai-agents-for-content-creators/' />
+	[74] (272,990)<h3 >10 AI Agents for Content Creators and YouTubers />
+	[75] (220,953)<div  />
+		[76] (220,953)<div  />
+			[77] (57,953)<span  />
+				[78] (57,953)<div  />
+					[79] (57,953)<img  />
+			[80] (241,953)<div  />
+				[81] (241,944)<div  />
+					[82] (241,944)<span >MindStudio />
+				[83] (241,964)<div  />
+					[84] (241,964)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.mindstudio.ai />
+						[85] (312,964)<span class='ylgVCe ob9lvb' role='text'>› blog › ai-agents-for-content... />
+[86] (421,963)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[87] (421,963)<span  />
+		[88] (421,964)<span  />
+[89] (802,641)<div  />
+	[90] (802,641)<img  />
+[91] (884,641)<div >AI에게 질문하기 />
+	[92] (833,641)<img  />
+검색 에이전트
+[93] (829,683)<div  />
+	[94] (803,683)<img  />
+	[95] (840,683)<span >4o mini />
+[96] (912,683)<div  />
+	[97] (886,683)<img  />
+	[98] (923,683)<span >GPT-4o />
+Claude 3.5
+GPT-4o mini에 접속할 수 없습니다
+프로 플랜
+으로 업그레이드하여 모든 모델에 무제한 접근하고 고급 기능을 이용해 보세요.
+프로 플랜
+모든 모델에 무제한 접근
+빠른 응답
+실시간 웹 접근
+웹페이지 및 PDF에서 읽기
+🚀 지금 업그레이드
+이미 구독하셨나요?
+지금 로그인
+
+</current_dom>

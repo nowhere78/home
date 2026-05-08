@@ -1,0 +1,12 @@
+# Task: Analyze vercel-labs/open-agents
+
+## Progress Checklist
+- [ ] Navigate to https://github.com/vercel-labs/open-agents
+- [ ] Take screenshot of main README (tech stack)
+- [ ] Navigate to apps/web/components/tool-call/renderers
+- [ ] Take screenshot of the renderers directory
+- [ ] Search for "Durable Workflows" diagram/visual and capture
+- [ ] Final report with screenshot paths
+
+## Findings
+- 

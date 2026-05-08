@@ -1,0 +1,392 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (69,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/drkwonte' />
+	[3] (69,34)<span  />
+		[4] (69,33)<font  />
+			[5] (69,33)<font >드크원테 />
+[6] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/drkwonte/bible-atlas' />
+	[7] (111,34)<span  />
+		[8] (111,33)<font  />
+			[9] (111,33)<font >성경 지도 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/drkwonte/bible-atlas/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[64] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[65] (65,190)<span  />
+		[66] (58,190)<span  />
+			[67] (58,190)<div  />
+				[68] (19,190)<div  />
+				[69] (33,190)<div  />
+					[70] (33,190)<span  />
+						[71] (34,190)<font  />
+							[72] (34,190)<font >기본 />
+[73] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/drkwonte/bible-atlas/new/main/src/features/featured/data' />
+[74] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[75] (83,233)<span  />
+	[76] (17,233)<span  />
+	[77] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[78] (148,233)<span  />
+		[79] (148,233)<kbd  />
+			[80] (148,233)<span >t />
+				t
+				[81] (148,233)<span >T />
+[82] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[83] (79,709)<div  />
+		[84] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='functions-item' role='treeitem' />
+			[85] (79,279)<div  />
+				[86] (13,279)<div  />
+				[87] (84,279)<div  />
+					[88] (25,279)<div  />
+						[89] (25,279)<div  />
+					[90] (90,279)<span  />
+						[91] (40,279)<span  />
+							[92] (40,279)<font  />
+								[93] (40,279)<font >함수 />
+		[94] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='public-item' role='treeitem' />
+			[95] (79,314)<div  />
+				[96] (13,314)<div  />
+				[97] (84,314)<div  />
+					[98] (25,313)<div  />
+						[99] (25,313)<div  />
+					[100] (90,314)<span  />
+						[101] (43,314)<span  />
+							[102] (43,314)<font  />
+								[103] (43,314)<font >공공의 />
+		[104] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+			[105] (79,348)<div  />
+				[106] (13,348)<div  />
+				[107] (84,348)<div  />
+					[108] (25,347)<div  />
+						[109] (25,347)<div  />
+					[110] (90,348)<span  />
+						[111] (38,348)<span  />
+							[112] (38,348)<font  />
+								[113] (38,348)<font >src />
+			[114] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/app-item' role='treeitem' />
+				[115] (79,382)<div  />
+					[116] (10,382)<div  />
+						[117] (10,382)<div  />
+							[118] (10,382)<div  />
+					[119] (17,382)<div  />
+					[120] (86,382)<div  />
+						[121] (29,382)<div  />
+							[122] (29,382)<div  />
+						[123] (92,382)<span  />
+							[124] (44,382)<span >app />
+			[125] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/assets-item' role='treeitem' />
+				[126] (79,416)<div  />
+					[127] (10,416)<div  />
+						[128] (10,416)<div  />
+							[129] (10,416)<div  />
+					[130] (17,416)<div  />
+					[131] (86,416)<div  />
+						[132] (29,416)<div  />
+							[133] (29,416)<div  />
+						[134] (92,416)<span  />
+							[135] (47,416)<span >assets />
+			[136] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/features-item' role='treeitem' />
+				[137] (79,450)<div  />
+					[138] (10,450)<div  />
+						[139] (10,450)<div  />
+							[140] (10,450)<div  />
+					[141] (17,450)<div  />
+					[142] (86,450)<div  />
+						[143] (29,450)<div  />
+							[144] (29,450)<div  />
+						[145] (92,450)<span  />
+							[146] (50,450)<span >features />
+				[147] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/features/bibleMap-item' role='treeitem' />
+					[148] (79,484)<div  />
+						[149] (13,484)<div  />
+							[150] (13,484)<div  />
+								[151] (10,484)<div  />
+								[152] (15,484)<div  />
+						[153] (21,484)<div  />
+						[154] (88,484)<div  />
+							[155] (33,484)<div  />
+								[156] (33,484)<div  />
+							[157] (94,484)<span  />
+								[158] (57,484)<span >bibleMap />
+				[159] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/features/featured/data-item' role='treeitem' />
+					[160] (79,518)<div  />
+						[161] (13,518)<div  />
+							[162] (13,518)<div  />
+								[163] (10,518)<div  />
+								[164] (15,518)<div  />
+						[165] (21,518)<div  />
+						[166] (88,518)<div  />
+							[167] (33,518)<div  />
+								[168] (33,518)<div  />
+							[169] (94,518)<span  />
+								[170] (64,518)<span >featured/
+data />
+					[171] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/features/featured/data/results-item' role='treeitem' />
+						[172] (79,552)<div  />
+							[173] (15,552)<div  />
+								[174] (15,552)<div  />
+									[175] (10,552)<div  />
+									[176] (15,552)<div  />
+									[177] (19,552)<div  />
+							[178] (25,552)<div  />
+							[179] (90,552)<div  />
+								[180] (38,552)<div  />
+									[181] (38,552)<div  />
+								[182] (96,552)<span  />
+									[183] (56,552)<span >results />
+					[184] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/features/featured/data/featuredArticles.ts-item' role='treeitem' />
+						[185] (79,586)<div  />
+							[186] (15,586)<div  />
+								[187] (15,586)<div  />
+									[188] (10,586)<div  />
+									[189] (15,586)<div  />
+									[190] (19,586)<div  />
+							[191] (90,586)<div  />
+								[192] (38,586)<div  />
+								[193] (96,586)<span  />
+									[194] (75,586)<span >featuredArticles.ts />
+			[195] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/services/gemini-item' role='treeitem' />
+				[196] (79,620)<div  />
+					[197] (10,620)<div  />
+						[198] (10,620)<div  />
+							[199] (10,620)<div  />
+					[200] (17,620)<div  />
+					[201] (86,620)<div  />
+						[202] (29,620)<div  />
+							[203] (29,620)<div  />
+						[204] (92,620)<span  />
+							[205] (62,620)<span >services/
+gemini />
+			[206] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/shared-item' role='treeitem' />
+				[207] (79,654)<div  />
+					[208] (10,654)<div  />
+						[209] (10,654)<div  />
+							[210] (10,654)<div  />
+					[211] (17,654)<div  />
+					[212] (86,654)<div  />
+						[213] (29,654)<div  />
+							[214] (29,654)<div  />
+						[215] (92,654)<span  />
+							[216] (48,654)<span >shared />
+			[217] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/env.d.ts-item' role='treeitem' />
+				[218] (79,688)<div  />
+					[219] (10,688)<div  />
+						[220] (10,688)<div  />
+							[221] (10,688)<div  />
+					[222] (86,688)<div  />
+						[223] (29,688)<div  />
+						[224] (92,688)<span  />
+							[225] (50,688)<span >env.d.ts />
+			[226] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/index.css-item' role='treeitem' />
+				[227] (79,722)<div  />
+					[228] (10,722)<div  />
+						[229] (10,722)<div  />
+							[230] (10,722)<div  />
+					[231] (86,722)<div  />
+						[232] (29,722)<div  />
+						[233] (92,722)<span  />
+							[234] (52,722)<span >index.css />
+			[235] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/main.tsx-item' role='treeitem' />
+				[236] (79,756)<div  />
+					[237] (10,756)<div  />
+						[238] (10,756)<div  />
+							[239] (10,756)<div  />
+					[240] (86,756)<div  />
+						[241] (29,756)<div  />
+						[242] (92,756)<span  />
+							[243] (51,756)<span >main.tsx />
+		[244] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.env.example-item' role='treeitem' />
+			[245] (79,790)<div  />
+				[246] (84,790)<div  />
+					[247] (25,790)<div  />
+					[248] (90,790)<span  />
+						[249] (54,790)<span  />
+							[250] (54,790)<font  />
+								[251] (54,790)<font >.env.example />
+		[252] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+			[253] (79,824)<div  />
+				[254] (84,824)<div  />
+					[255] (25,824)<div  />
+					[256] (90,824)<span  />
+						[257] (49,824)<span  />
+							[258] (49,824)<font  />
+								[259] (49,824)<font >.gitignore />
+		[260] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+			[261] (79,858)<div  />
+				[262] (84,858)<div  />
+					[263] (25,858)<div  />
+					[264] (90,858)<span  />
+						[265] (53,858)<span  />
+							[266] (53,858)<font  />
+								[267] (53,858)<font >README.md />
+		[268] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='eslint.config.js-item' role='treeitem' />
+			[269] (79,893)<div  />
+				[270] (84,893)<div  />
+					[271] (25,892)<div  />
+					[272] (90,893)<span  />
+						[273] (56,893)<span  />
+							[274] (56,893)<font  />
+								[275] (56,893)<font >eslint.config.js />
+		[276] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='index.html-item' role='treeitem' />
+			[277] (79,927)<div  />
+				[278] (84,927)<div  />
+					[279] (25,927)<div  />
+					[280] (90,927)<span  />
+						[281] (52,927)<span  />
+							[282] (52,927)<font  />
+								[283] (52,927)<font >인덱스.html />
+		[284] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+			[285] (79,961)<div  />
+				[286] (84,961)<div  />
+					[287] (25,961)<div  />
+					[288] (90,961)<span  />
+						[289] (56,961)<span  />
+							[290] (56,961)<font  />
+								[291] (56,961)<font >패키지-락.json />
+		[292] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+			[293] (79,995)<div  />
+				[294] (84,995)<div  />
+					[295] (25,995)<div  />
+					[296] (90,995)<span  />
+						[297] (51,995)<span  />
+							[298] (51,995)<font  />
+								[299] (51,995)<font >패키지.json />
+[300] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[301] (192,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main' />
+	[302] (192,139)<font  />
+		[303] (192,139)<font >성경 지도 />
+/
+[304] (230,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main/src' />
+	[305] (230,139)<font  />
+		[306] (230,139)<font >소스 />
+/
+[307] (259,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main/src/features' />
+	[308] (259,139)<font  />
+		[309] (259,139)<font >특징 />
+/
+[310] (288,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main/src/features/featured' />
+	[311] (288,139)<font  />
+		[312] (288,139)<font >추천 />
+/
+데이터
+/
+[313] (354,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+디렉터리 작업
+파일 추가
+[314] (945,140)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_r_5f_' />
+	[315] (945,140)<span  />
+		[316] (945,140)<span  />
+			[317] (945,140)<span  />
+				[318] (941,140)<font  />
+					[319] (941,140)<font >파일 추가 />
+더 많은 옵션
+[320] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_5k_' title='더 많은 옵션' />
+최신 커밋
+[321] (190,198)<a class='prc-Link-Link-9ZwDx' href='/drkwonte' />
+	[322] (188,199)<img  />
+[323] (211,198)<a aria-label='drkwonte의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/commits?author=drkwonte' />
+	[324] (211,198)<font  />
+		[325] (211,198)<font >드크원테 />
+[326] (310,198)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' />
+	[327] (310,198)<font  />
+		[328] (310,198)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+[329] (403,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[330] (421,198)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[331] (919,198)<a aria-label='Commit 436652c' class='Link--secondary prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788'>436652c />
+·
+역사
+[332] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/drkwonte/bible-atlas/commits/main/src/features/featured/data' />
+	[333] (971,198)<span  />
+		[334] (977,198)<span  />
+			[335] (977,197)<span  />
+				[336] (977,197)<font  />
+					[337] (977,197)<font >역사 />
+폴더와 파일
+이름
+마지막 커밋 메시지
+최종 커밋 날짜
+[338] (584,304)<tr  />
+	상위 디렉토리
+	[339] (584,304)<a aria-label='상위 디렉토리' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main/src/features/featured' />
+		[340] (584,304)<div  />
+			[341] (201,304)<font  />
+				[342] (201,304)<font >.. />
+[343] (584,347)<tr  />
+	[344] (205,347)<a aria-label='결과, (디렉토리)' class='Link--primary' href='/drkwonte/bible-atlas/tree/main/src/features/featured/data/results' title='결과' />
+		[345] (205,347)<font  />
+			[346] (205,347)<font >결과 />
+	[347] (592,347)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[348] (592,347)<font  />
+			[349] (592,347)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+[350] (584,390)<tr  />
+	[351] (227,390)<a aria-label='featuredArticles.ts, (파일)' class='Link--primary' href='/drkwonte/bible-atlas/blob/main/src/features/featured/data/featuredArticles.ts' title='featuredArticles.ts' />
+		[352] (227,390)<font  />
+			[353] (227,390)<font >featuredArticles.ts />
+	[354] (592,390)<a class='Link--secondary' href='/drkwonte/bible-atlas/commit/436652c7a1a9a780cac584cd70dbde6bcaa96788' title='기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가. 일반적인 성경 주제에 대한 정적 추천 경로/데이터를 추가하고, Gemini를 호출하기 전에 추천 항목으로 리디렉션되도록 홈 검색을 업데이트합니다. Gemini 호출을 Cloudflare Pages Functions 뒤로 이동하여 API 키를 서버 측에서만 사용하도록 합니다. 제작 도구: Cursor' />
+		[355] (592,390)<font  />
+			[356] (592,390)<font >기능: 정적 추천 라이브러리 및 Cloudflare 프록시 추가 />
+	4일 전
+
+</current_dom>

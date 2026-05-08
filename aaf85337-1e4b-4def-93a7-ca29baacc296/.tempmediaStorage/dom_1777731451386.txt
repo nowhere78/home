@@ -1,0 +1,172 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (869,19)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[1] (836,19)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[2] (807,19)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[3] (781,19)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fvp%252Fproducts%252F1369073422%253FitemId%253D2401371983%2526vendorItemId%253D70396268867' title='로그인'>로그인 />
+[4] (131,19)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[5] (164,19)<a class='dropdown_menu_flag'>입점신청 />
+	[6] (177,21)<i  />
+[7] (138,98)<div  />
+	[8] (138,83)<div  />
+		[9] (138,73)<div  />
+		[10] (138,83)<div  />
+		[11] (138,93)<div  />
+	[12] (138,121)<div >카테고리 />
+[13] (222,87)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[14] (222,87)<img  />
+[15] (311,87)<a class='select--category__current rlux:fw-text-bluegray-800' id='currentCategoryText'>전체 />
+[16] (568,89)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[17] (795,87)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[18] (795,87)<img  />
+[19] (833,87)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[20] (832,79)<img  />
+	[21] (833,111)<div >마이쿠팡 />
+[22] (870,87)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[23] (869,79)<img  />
+	[24] (880,62)<em  />
+	[25] (870,111)<div >장바구니 />
+[26] (199,144)<a href='https://www.coupangplay.com/catalog' />
+	[27] (183,144)<img  />
+	[28] (205,144)<span >쿠팡플레이 />
+[29] (249,144)<a href='https://www.coupang.com/np/campaigns/82' />
+	[30] (236,144)<img  />
+	[31] (255,144)<span >로켓배송 />
+[32] (300,144)<a href='https://www.coupang.com/np/categories/393760' />
+	[33] (284,144)<img  />
+	[34] (306,144)<span >로켓프레시 />
+[35] (355,144)<a href='https://pages.coupang.com/p/168131' />
+	[36] (338,144)<img  />
+	[37] (357,144)<span >가정의 달 />
+	[38] (375,143)<i  />
+[39] (412,144)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[40] (394,144)<img  />
+	[41] (414,144)<span >다시 구매 />
+	[42] (432,143)<i  />
+[43] (464,144)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[44] (451,144)<img  />
+	[45] (470,144)<span >쿠팡비즈 />
+[46] (512,144)<a href='https://www.coupang.com/np/coupangglobal' />
+	[47] (499,144)<img  />
+	[48] (517,144)<span >로켓직구 />
+[49] (559,144)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[50] (546,144)<img  />
+	[51] (565,144)<span >골드박스 />
+[52] (610,144)<a href='https://pages.coupang.com/p/136938' />
+	[53] (593,144)<img  />
+	[54] (615,144)<span >이달의신상 />
+[55] (663,144)<a href='https://www.coupang.com/np/omp' />
+	[56] (647,144)<img  />
+	[57] (669,144)<span >판매자특가 />
+[58] (720,144)<a href='https://www.coupang.com/np/campaigns/83' />
+	[59] (701,144)<img  />
+	[60] (726,144)<span >와우회원할인 />
+[61] (778,144)<a href='https://www.coupang.com/np/coupangbenefit' />
+	[62] (761,144)<img  />
+	[63] (784,144)<span >이벤트/쿠폰 />
+[64] (830,144)<a href='https://pages.coupang.com/p/54908' />
+	[65] (817,144)<img  />
+	[66] (836,144)<span >반품마켓 />
+[67] (881,144)<a href='https://pages.coupang.com/p/63240' />
+	[68] (864,144)<img  />
+	[69] (883,144)<span >착한상점 />
+기획전
+쿠팡트래블
+[70] (130,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com'>쿠팡 홈 />
+[71] (168,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/221934?eventCategory=breadcrumb' title='출산/유아동'>출산/유아동 />
+[72] (209,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/349657?eventCategory=breadcrumb' title='완구/교구'>완구/교구 />
+[73] (256,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/349686?eventCategory=breadcrumb' title='신생아/영아완구'>신생아/영아완구 />
+[74] (309,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/349712?eventCategory=breadcrumb' title='감각발달완구'>감각발달완구 />
+[75] (361,184)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/349715?eventCategory=breadcrumb' title='비누방울/버블건'>비누방울/버블건 />
+[76] (436,247)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+[77] (436,297)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+타요 익스트림 자동 버블건, 타요, 1개
+[78] (506,252)<a class='twc-flex twc-items-center' href='#sdpReview' id='prod-review-nav-link' />
+	[79] (480,252)<span  />
+		[80] (479,252)<span  />
+	[81] (525,252)<span >7,881
+개 상품평 />
+한 달간
+6,000명 이상
+구매했어요
+11,900원
+(1개당 11,900원)
+색상 × 수량
+[82] (483,439)<div  />
+	[83] (483,420)<div  />
+		[84] (483,420)<img  />
+	[85] (483,480)<div  />
+		[86] (483,481)<div  />
+[87] (529,439)<div  />
+	[88] (529,420)<div  />
+		[89] (529,420)<img  />
+	[90] (529,480)<div  />
+		[91] (529,481)<div  />
+[92] (575,439)<div  />
+	[93] (575,420)<div  />
+		[94] (575,420)<img  />
+	[95] (575,480)<div  />
+		[96] (575,481)<div  />
+[97] (621,439)<div  />
+	[98] (621,420)<div  />
+		[99] (621,420)<img  />
+	[100] (621,480)<div  />
+		[101] (621,481)<div  />
+[102] (666,439)<div  />
+	[103] (666,420)<div  />
+		[104] (666,420)<img  />
+	[105] (666,480)<div  />
+		[106] (666,481)<div  />
+[107] (633,554)<div  />
+	[108] (466,553)<div  />
+	[109] (492,553)<div >1개 />
+	[110] (661,553)<div  />
+		[111] (661,553)<div  />
+			[112] (534,553)<span >11,900원 />
+			[113] (572,553)<div  />
+				[114] (564,553)<img  />
+				[115] (583,553)<img  />
+[116] (633,616)<div  />
+	[117] (466,616)<div  />
+	[118] (492,616)<div >2개 />
+	[119] (661,616)<div  />
+		[120] (661,604)<div  />
+			[121] (534,604)<span >22,300원 />
+			[122] (572,604)<div  />
+				[123] (564,604)<img  />
+				[124] (583,604)<img  />
+		[125] (661,630)<div >2개 사면 1,500원 절약 />
+[126] (485,666)<button  />
+	[127] (485,670)<div >절약 금액 기준 />
+[128] (633,719)<div  />
+	[129] (630,719)<span >모든 옵션 보기 />
+	[130] (659,719)<img  />
+내일(일) 5/3
+도착 보장
+(
+42분
+내 주문 시
+/ 서울⋅경기 기준
+)
+로켓배송 상품 19,800원 이상 무료배송
+무료배송 + 무료반품
+|
+로켓와우 신청시
+[131] (602,833)<span  />
+적립
+최대 595원
+[132] (560,893)<button  />
+	[133] (560,893)<span >쿠팡캐시 적립 />
+·
+쿠페이 머니 결제시
+[134] (786,893)<div  />
+	[135] (782,893)<div >혜택보기 />
+PC에서도 간편한 결제
+쿠페이머니
+카드
+계좌이체
+효과음 가능여부: 효과음 가능
+
+</current_dom>

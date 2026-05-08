@@ -1,0 +1,38 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+개인 정보 보호, 선택은 당신에게 달려 있습니다.
+저희는 사이트 운영에 필수적인 쿠키를 사용합니다. 또한 광고, 콘텐츠 개인화, 사용 분석, 소셜 미디어 연동을 위한 선택적 쿠키와 마케팅, 분석 및 편집 목적으로 동영상 정보를 공유할 수 있도록 하는 쿠키도 사용합니다.
+선택적 쿠키를 수락함으로써 귀하는 제3자에게 데이터를 전송하는 것을 포함하여 귀하의 개인 데이터 처리에 동의하게 됩니다. 일부 제3자는 유럽 경제 지역(EEA) 외부에 있으며, 데이터 보호 기준이 다를 수 있습니다.
+개인정보 이용과 관련한 자세한 내용은
+[0] (328,822)<a href='https://www.nature.com/info/privacy' />
+	[1] (328,822)<font  />
+		[2] (328,822)<font >개인정보 보호정책을 />
+참조하십시오 .
+[3] (183,871)<button class='cc-button cc-button--link cc-button--text' />
+	[4] (183,871)<font  />
+		[5] (183,871)<font >환경설정 관리 />
+자세한 내용을 확인하거나 선택 사항을 변경하려면 다음을 참조하세요.
+[6] (223,934)<button class='cc-button cc-button--secondary cc-button--contrast cc-banner__button cc-banner__button-accept' />
+	[7] (223,934)<font  />
+		[8] (223,934)<font >모든 쿠키 허용 />
+[9] (366,934)<button class='cc-button cc-button--secondary cc-button--contrast cc-banner__button cc-banner__button-reject' />
+	[10] (366,934)<font  />
+		[11] (366,934)<font >선택적 쿠키 거부 />
+표 형식 기반 모델을 사용한 소규모 데이터에 대한 정확한 예측
+PDF 다운로드
+다양한 데이터 문제와 복잡성을 합성 데이터 세트에 통합함으로써, TabPFN이 실제 데이터 세트에서 유사한 문제를 처리하는 전략을 개발할 수 있는 학습 환경을 조성합니다. 예를 들어, 표 형식 데이터에서 흔히 나타나는 결측값 문제를 생각해 보겠습니다. 합성 데이터 생성 과정에서 다양한 패턴과 비율의 결측값을 포함하는 합성 데이터 세트에 TabPFN을 노출시킴으로써, 모델은 실제 데이터 세트에도 일반화될 수 있는 효과적인 결측값 처리 방법을 학습합니다. 또한, 학습된 예측 알고리즘의 현실성을 더욱 높이고 견고성을 검증하기 위해 후처리 기법을 적용합니다. 여기에는 Kumaraswamy 분포를 이용한 워핑
+33
+, 복잡한 비선형 왜곡 도입, 이산화된 특징을 모방한 양자화 등이 포함됩니다. 자세한 내용은 ' 후처리
+' 섹션을 참조하십시오
+.
+이러한 생성 과정을 통해 모델 학습당 약 1억 개의 합성 데이터셋으로 구성된 방대한 코퍼스를 생성했으며, 각 데이터셋은 고유한 인과 구조, 특징 유형 및 기능적 특성을 가지고 있습니다.
+질적 분석
+먼저 직관적인 이해를 돕고 다양한 데이터셋 특성의 영향을 파악하기 위해 간단한 예제 문제를 통해 TabPFN의 동작을 분석합니다. 회귀 문제는 시각화가 용이하므로 정성적 분석에서는 회귀 문제에 초점을 맞춥니다. 그림
+3a
+에서는 모든 방법이 기본 설정을 사용한 상태에서 TabPFN을 다양한 표준 예측 변수들과 비교합니다.
+그림 3: 단순 함수에 대한 TabPFN과 여러 기준선의 동작.
+전체 크기 이미지
+
+</current_dom>

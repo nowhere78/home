@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (273,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (279,25)<span  />
+		[8] (279,25)<font  />
+			[9] (279,25)<font >MIT 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+현재 역량
+파일, 검색, 셸, 작업, 스킬 및 웹 도구를 갖춘 채팅 기반 코딩 에이전트
+워크플로 SDK 기반 실행, 스트리밍 및 취소를 통한 안정적인 다단계 실행
+스냅샷 기반 재개 기능을 갖춘 격리된 Vercel 샌드박스
+샌드박스 내에서의 저장소 복제 및 브랜치 작업
+실행 성공 후 선택적으로 자동 커밋, 푸시 및 PR 생성이 가능합니다.
+읽기 전용 링크를 통한 세션 공유
+ElevenLabs 음성 인식 기능을 통한 음성 입력(선택 사항)
+실행 시간 참고 사항
+[12] (193,298)<a aria-label='고유 링크: 런타임 참고 사항' class='anchor' href='#runtime-notes' id='user-content-runtime-notes' />
+현재 구현 방식을 이해하는 데 중요한 몇 가지 세부 사항은 다음과 같습니다.
+채팅 요청은 상담원을 바로 실행하는 대신 워크플로 실행을 시작합니다.
+각 에이전트 턴은 여러 지속적인 워크플로 단계를 거쳐 계속될 수 있습니다.
+기존 워크플로의 스트림에 다시 연결하면 활성 실행을 재개할 수 있습니다.
+샌드박스는 기본 스냅샷을 사용하고, 포트
+3000
+,
+5173
+,
+4321
+, 및 를 노출하며
+8000
+, 활동이 없으면 최대 절전 모드로 전환됩니다.
+자동 커밋 및 자동 PR 생성은 지원되지만, 항상 활성화되는 기능이 아니라 사용자의 선호도에 따라 선택할 수 있는 기능입니다.
+환경 변수
+[13] (193,618)<a aria-label='고유 링크: 환경 변수' class='anchor' href='#environment-variables' id='user-content-environment-variables' />
+apps/web/.env.example
+전체 목록은
+참조하세요 . 요약:
+최소 실행 시간
+[14] (193,724)<a aria-label='고유 링크: 최소 실행 시간' class='anchor' href='#minimum-runtime' id='user-content-minimum-runtime' />
+POSTGRES_URL
+=
+BETTER_AUTH_SECRET
+=
+[15] (626,778)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+로그인에 필요합니다(Vercel OAuth).
+[16] (193,869)<a aria-label='고유 링크: 로그인에 필요합니다(Vercel OAuth)' class='anchor' href='#required-for-sign-in-vercel-oauth' id='user-content-required-for-sign-in-vercel-oauth' />
+NEXT_PUBLIC_VERCEL_APP_CLIENT_ID
+=
+VERCEL_APP_CLIENT_SECRET
+=
+[17] (626,922)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+GitHub 저장소 접근, 푸시 및 PR에 필요합니다.
+
+</current_dom>

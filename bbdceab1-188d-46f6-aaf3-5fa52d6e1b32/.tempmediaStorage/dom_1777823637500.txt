@@ -1,0 +1,339 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >주인 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/sungcheolkim78/becoming_church/new/master/md_40days' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (83,579)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	day27-위치와질서-ASV.md
+	day27-위치와질서-JA1955.md
+	day27-위치와질서-개역개정판성경.md
+	day28-예물의거룩법-ASV.md
+	day28-예물의거룩법-JA1955.md
+	[20] (79,171)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day28-예물의거룩법-개역개정판성경.md-item' role='treeitem' />
+		[21] (79,171)<div  />
+			[22] (10,171)<div  />
+				[23] (10,171)<div  />
+					[24] (10,171)<div  />
+			[25] (86,171)<div  />
+				[26] (29,171)<div  />
+				[27] (92,171)<span  />
+					[28] (100,171)<span >day28-예물의거룩법-개역개정판성경.md />
+	[29] (79,205)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day29-머리이신예수님의말씀-ASV.md-item' role='treeitem' />
+		[30] (79,205)<div  />
+			[31] (10,205)<div  />
+				[32] (10,205)<div  />
+					[33] (10,205)<div  />
+			[34] (86,205)<div  />
+				[35] (29,205)<div  />
+				[36] (92,205)<span  />
+					[37] (96,205)<span >day29-머리이신예수님의말씀-ASV.md />
+	[38] (79,240)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day29-머리이신예수님의말씀-JA1955.md-item' role='treeitem' />
+		[39] (79,240)<div  />
+			[40] (10,240)<div  />
+				[41] (10,240)<div  />
+					[42] (10,240)<div  />
+			[43] (86,240)<div  />
+				[44] (29,239)<div  />
+				[45] (92,240)<span  />
+					[46] (101,240)<span >day29-머리이신예수님의말씀-JA1955.md />
+	[47] (79,274)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day29-머리이신예수님의말씀-개역개정판성경.md-item' role='treeitem' />
+		[48] (79,274)<div  />
+			[49] (10,274)<div  />
+				[50] (10,274)<div  />
+					[51] (10,274)<div  />
+			[52] (86,274)<div  />
+				[53] (29,273)<div  />
+				[54] (92,274)<span  />
+					[55] (113,274)<span >day29-머리이신예수님의말씀-개역개정판성경.md />
+	[56] (79,308)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day30-일꾼-ASV.md-item' role='treeitem' />
+		[57] (79,308)<div  />
+			[58] (10,308)<div  />
+				[59] (10,308)<div  />
+					[60] (10,308)<div  />
+			[61] (86,308)<div  />
+				[62] (29,308)<div  />
+				[63] (92,308)<span  />
+					[64] (69,308)<span >day30-일꾼-ASV.md />
+	[65] (79,342)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day30-일꾼-JA1955.md-item' role='treeitem' />
+		[66] (79,342)<div  />
+			[67] (10,342)<div  />
+				[68] (10,342)<div  />
+					[69] (10,342)<div  />
+			[70] (86,342)<div  />
+				[71] (29,342)<div  />
+				[72] (92,342)<span  />
+					[73] (74,342)<span >day30-일꾼-JA1955.md />
+	[74] (79,376)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day30-일꾼-개역개정판성경.md-item' role='treeitem' />
+		[75] (79,376)<div  />
+			[76] (10,376)<div  />
+				[77] (10,376)<div  />
+					[78] (10,376)<div  />
+			[79] (86,376)<div  />
+				[80] (29,376)<div  />
+				[81] (92,376)<span  />
+					[82] (86,376)<span >day30-일꾼-개역개정판성경.md />
+	[83] (79,410)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day31-교회중심-ASV.md-item' role='treeitem' />
+		[84] (79,410)<div  />
+			[85] (10,410)<div  />
+				[86] (10,410)<div  />
+					[87] (10,410)<div  />
+			[88] (86,410)<div  />
+				[89] (29,410)<div  />
+				[90] (92,410)<span  />
+					[91] (76,410)<span >day31-교회중심-ASV.md />
+	[92] (79,444)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day31-교회중심-JA1955.md-item' role='treeitem' />
+		[93] (79,444)<div  />
+			[94] (10,444)<div  />
+				[95] (10,444)<div  />
+					[96] (10,444)<div  />
+			[97] (86,444)<div  />
+				[98] (29,444)<div  />
+				[99] (92,444)<span  />
+					[100] (81,444)<span >day31-교회중심-JA1955.md />
+	[101] (79,478)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day31-교회중심-개역개정판성경.md-item' role='treeitem' />
+		[102] (79,478)<div  />
+			[103] (10,478)<div  />
+				[104] (10,478)<div  />
+					[105] (10,478)<div  />
+			[106] (86,478)<div  />
+				[107] (29,478)<div  />
+				[108] (92,478)<span  />
+					[109] (93,478)<span >day31-교회중심-개역개정판성경.md />
+	[110] (79,512)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day32-교회됨의삶의법리-개역개정판성경.md-item' role='treeitem' />
+		[111] (79,512)<div  />
+			[112] (10,512)<div  />
+				[113] (10,512)<div  />
+					[114] (10,512)<div  />
+			[115] (86,512)<div  />
+				[116] (29,512)<div  />
+				[117] (92,512)<span  />
+					[118] (107,512)<span >day32-교회됨의삶의법리-개역개정판성경.md />
+	[119] (79,546)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day33-교회됨의영광과생수의강-ASV.md-item' role='treeitem' />
+		[120] (79,546)<div  />
+			[121] (10,546)<div  />
+				[122] (10,546)<div  />
+					[123] (10,546)<div  />
+			[124] (86,546)<div  />
+				[125] (29,546)<div  />
+				[126] (92,546)<span  />
+					[127] (100,546)<span >day33-교회됨의영광과생수의강-ASV.md />
+	[128] (79,580)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day33-교회됨의영광과생수의강-JA1955.md-item' role='treeitem' />
+		[129] (79,580)<div  />
+			[130] (10,580)<div  />
+				[131] (10,580)<div  />
+					[132] (10,580)<div  />
+			[133] (86,580)<div  />
+				[134] (29,580)<div  />
+				[135] (92,580)<span  />
+					[136] (105,580)<span >day33-교회됨의영광과생수의강-JA1955.md />
+	[137] (79,614)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day33-교회됨의영광과생수의강-개역개정판성경.md-item' role='treeitem' />
+		[138] (79,614)<div  />
+			[139] (10,614)<div  />
+				[140] (10,614)<div  />
+					[141] (10,614)<div  />
+			[142] (86,614)<div  />
+				[143] (29,614)<div  />
+				[144] (92,614)<span  />
+					[145] (117,614)<span >day33-교회됨의영광과생수의강-개역개정판성경.md />
+	[146] (79,648)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day34-교회됨의찬양과기도-ASV.md-item' role='treeitem' />
+		[147] (79,648)<div  />
+			[148] (10,648)<div  />
+				[149] (10,648)<div  />
+					[150] (10,648)<div  />
+			[151] (86,648)<div  />
+				[152] (29,648)<div  />
+				[153] (92,648)<span  />
+					[154] (93,648)<span >day34-교회됨의찬양과기도-ASV.md />
+	[155] (79,682)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day34-교회됨의찬양과기도-JA1955.md-item' role='treeitem' />
+		[156] (79,682)<div  />
+			[157] (10,682)<div  />
+				[158] (10,682)<div  />
+					[159] (10,682)<div  />
+			[160] (86,682)<div  />
+				[161] (29,682)<div  />
+				[162] (92,682)<span  />
+					[163] (98,682)<span >day34-교회됨의찬양과기도-JA1955.md />
+	[164] (79,716)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day34-교회됨의찬양과기도-개역개정판성경.md-item' role='treeitem' />
+		[165] (79,716)<div  />
+			[166] (10,716)<div  />
+				[167] (10,716)<div  />
+					[168] (10,716)<div  />
+			[169] (86,716)<div  />
+				[170] (29,716)<div  />
+				[171] (92,716)<span  />
+					[172] (110,716)<span >day34-교회됨의찬양과기도-개역개정판성경.md />
+	[173] (79,750)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day35-교회됨의말씀-ASV.md-item' role='treeitem' />
+		[174] (79,750)<div  />
+			[175] (10,750)<div  />
+				[176] (10,750)<div  />
+					[177] (10,750)<div  />
+			[178] (86,750)<div  />
+				[179] (29,750)<div  />
+				[180] (92,750)<span  />
+					[181] (83,750)<span >day35-교회됨의말씀-ASV.md />
+	[182] (79,784)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day35-교회됨의말씀-JA1955.md-item' role='treeitem' />
+		[183] (79,784)<div  />
+			[184] (10,784)<div  />
+				[185] (10,784)<div  />
+					[186] (10,784)<div  />
+			[187] (86,784)<div  />
+				[188] (29,784)<div  />
+				[189] (92,784)<span  />
+					[190] (88,784)<span >day35-교회됨의말씀-JA1955.md />
+	[191] (79,819)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day35-교회됨의말씀-개역개정판성경.md-item' role='treeitem' />
+		[192] (79,819)<div  />
+			[193] (10,819)<div  />
+				[194] (10,819)<div  />
+					[195] (10,819)<div  />
+			[196] (86,819)<div  />
+				[197] (29,818)<div  />
+				[198] (92,819)<span  />
+					[199] (100,819)<span >day35-교회됨의말씀-개역개정판성경.md />
+	[200] (79,853)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day36-교회됨의삶-ASV.md-item' role='treeitem' />
+		[201] (79,853)<div  />
+			[202] (10,853)<div  />
+				[203] (10,853)<div  />
+					[204] (10,853)<div  />
+			[205] (86,853)<div  />
+				[206] (29,853)<div  />
+				[207] (92,853)<span  />
+					[208] (80,853)<span >day36-교회됨의삶-ASV.md />
+	[209] (79,887)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day36-교회됨의삶-JA1955.md-item' role='treeitem' />
+		[210] (79,887)<div  />
+			[211] (10,887)<div  />
+				[212] (10,887)<div  />
+					[213] (10,887)<div  />
+			[214] (86,887)<div  />
+				[215] (29,887)<div  />
+				[216] (92,887)<span  />
+					[217] (84,887)<span >day36-교회됨의삶-JA1955.md />
+	[218] (79,921)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day36-교회됨의삶-개역개정판성경.md-item' role='treeitem' />
+		[219] (79,921)<div  />
+			[220] (10,921)<div  />
+				[221] (10,921)<div  />
+					[222] (10,921)<div  />
+			[223] (86,921)<div  />
+				[224] (29,921)<div  />
+				[225] (92,921)<span  />
+					[226] (96,921)<span >day36-교회됨의삶-개역개정판성경.md />
+	[227] (79,955)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day37-교회됨의치유-개역개정판성경.md-item' role='treeitem' />
+		[228] (79,955)<div  />
+			[229] (10,955)<div  />
+				[230] (10,955)<div  />
+					[231] (10,955)<div  />
+			[232] (86,955)<div  />
+				[233] (29,955)<div  />
+				[234] (92,955)<span  />
+					[235] (100,955)<span >day37-교회됨의치유-개역개정판성경.md />
+	[236] (79,989)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='md_40days/day37-교회됨의치유-현대인의성경.md-item' role='treeitem' />
+		[237] (79,989)<div  />
+			[238] (10,989)<div  />
+				[239] (10,989)<div  />
+					[240] (10,989)<div  />
+			[241] (86,989)<div  />
+				[242] (29,989)<div  />
+				[243] (92,989)<span  />
+					[244] (96,989)<span >day37-교회됨의치유-현대인의성경.md />
+[245] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[246] (202,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master' />
+	[247] (202,23)<font  />
+		[248] (202,23)<font >교회가 되다 />
+/
+[249] (247,23)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master/md_40days' />
+	[250] (247,23)<font  />
+		[251] (247,23)<font >md_40일 />
+/
+day01-영광과흑암-개역개정판성경.md
+[252] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[253] (970,23)<span  />
+		[254] (976,23)<span  />
+			[255] (976,22)<font  />
+				[256] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[257] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[258] (200,71)<span  />
+		[259] (200,71)<div  />
+			[260] (200,71)<font  />
+				[261] (200,71)<font >시사 />
+[262] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[263] (235,71)<span  />
+		[264] (235,71)<div  />
+			[265] (235,71)<font  />
+				[266] (235,71)<font >암호 />
+[267] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[268] (268,71)<span  />
+		[269] (268,71)<div  />
+			[270] (268,71)<font  />
+				[271] (268,71)<font >탓하다 />
+47줄 (24개 위치) · 3.99KB
+[272] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_rf_' />
+[273] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[274] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/sungcheolkim78/becoming_church/raw/refs/heads/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' />
+	[275] (891,71)<span  />
+		[276] (891,71)<span  />
+			[277] (891,70)<font  />
+				[278] (891,70)<font >날것의 />
+[279] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[280] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[281] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/sungcheolkim78/becoming_church/edit/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' />
+[282] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_ru_' />
+[283] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+[284] (584,518)<div  />
+	응답 :
+	요약 :
+	성경 버전 : 개역개정판성경
+	창1:3
+	하나님이 돌아시되 빛이 있으라 하시니 빛이 돌아오나이다
+	창1:14
+	하나님이 이르시되 하늘의 궁창에 광명체들이 있어 낮과 밤을 나누게 하고 모두로 가는 조와 계절과 날과 해를 이루게 하라
+	창1:26,28,29
+	하나님이 이르시되 우리의 형상을 따라 우리의 모양대로 우리가 사람을 만들어서 바다의 물고기와 하늘의 새와 땅과 온 땅에 주시는 모든 것을 주시는 것이 됩니다. 하나님이 그들에게 복을 주시고 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 있는 하라, 땅을 정복하라, 바다의 물고기와 하늘의 새와 땅에 움직이는 모든 것을 다스리라 하시니라. 하나님이 들어오시되 내가 온 땅의 씨 맺는 것은 모든 휴가와 씨익한 열매 맺는 모든 나무를 여러분에게 주노니 여러분의 먹을 거리가 되리라
+	창2:19
+	멘트 하나님이 토양으로 목록에 들짐승과 공중의 목록을 작성하는 것을 듣고 무엇이 무엇인지 부르려고 하면 그 사람에게 드라이브를 주는 사람이 택할 뿐입니다.
+	창2:9
+	삽 하나님이 그 땅에서 보기 위해 먹기에 좋은 나무가 나게 하시니 동산 안에는 생명 나무와 선악을 서로 나누는 나무도 있더라
+	창2:17
+	선악을 서로 나누는 나무의 열매를 맺으려면 활동하는 날에는 살아남으십시오.
+	창3:6-7
+	여자가 그 나무를 본즉 먹음직도 하고 보암직도 하고 투명하게 할 만큼 할당 기도 한 나무 인지라 여자가 그 열매를 따먹고 자기와 함께 있는 남편에게도 주매 그도 먹은지라. 그들의 눈이 밝아지는 아져 자기들이 야외에서는 줄을 알고 무화과나무 잎을 뒤섞어 사진으로 삼았더라
+	유1:6
+	또 다른 자기 자신을 나누지 아니하고 자기 처소를 창조한 자들의 큰 날의 미래까지 영원한 혼자일 박으로 흑암에 가두웠으며
+	벧후2:4
+	신이 덩이에 빠진 지옥에 던져서 어두운 구덩이에 두어 위원회 때까지 기다리게 하고
+	창3:17-18
+	아담에게 이르시되 네 아내의 말을 듣고 네게 협력한 나무의 열매를 먹은 것은 즉석에서 땅은 너로 가공을 하기 위해 네 평생에 수고하여 그 산을 먹게 되었습니다. 땅이 네게 덤불과 엉엉 하고 싶어도 당신을 먹는 것은 밭의 고향인즉시
+	왕하6:17
+	기도하여 노래하는 음을 번역하라 원하건대 그의 눈을 열어서 인사하라
+	행26:18
+	눈을 뜨게 하여 어둠에서 빛으로, 연금의 권세에서 하나님께로 돌아가고 싶고 사함과 나를 믿어주게 된 모든 사람들이 모여들 것입니다 하더이다
+	롬1:19-20
+	하나님은 그들 중에 보임이라 하나님께서 그들을 아시는 것을 보았습니다. 창세로부터 그의 보이지 않는 것은 곧 영원 능력과 신성이 그가 만든 신 만물에 있다고 알려졌느니라 그러므로 그들은 핑계하지 아니지니라
+	요12:46
+	나는 빛으로 세상에 오지 않았음을 믿습니다.
+	골1:13
+	그가 우리를 흑암의 권세에서 건져내사 그의 사랑의 아들의 나라로 종족이었으니
+	단2:22
+	그는 깊이고 은밀한 일을 통해 어두운 데에 있는 것을 알고 또 빛이 그와 함께 있도다
+
+</current_dom>

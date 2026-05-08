@@ -1,0 +1,103 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[6] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[7] (419,699)<div  />
+	👉
+	GitHub 스폰서
+	여러분의 후원은 이 프로젝트를 커뮤니티에서 무료로 계속 이용할 수 있도록 해줍니다. 감사합니다! 🙌
+	🚀 특징
+	[8] (193,122)<a aria-label='고유 링크: 🚀 기능' class='anchor' href='#-features' id='user-content--features' />
+	🔥
+	구글 트렌드를 통한
+	인기 주제 감지
+	🤖
+	Google Gemini API를 사용한
+	스크립트 생성
+	🗣️
+	Coqui TTS를 이용한
+	음성 합성
+	⏱️
+	Aeneas를 사용한 자막
+	강제 정렬
+	🎬
+	FFmpeg을 이용한
+	비디오 합성
+	🖥️
+	원클릭 웹 인터페이스
+	🧩 파이프라인 개요
+	[9] (193,378)<a aria-label='고유 링크: 🧩 파이프라인 개요' class='anchor' href='#-pipeline-overview' id='user-content--pipeline-overview' />
+	Google 트렌드 스크래핑
+	서비스는
+	trendscraper
+	Puppeteer를 사용하여 인기 주제를 추출합니다.
+	스크립트 생성(제미니)
+	트렌드를 제미니로 보내 짧고 매력적인 스크립트를 생성합니다.
+	텍스트 음성 변환(Coqui)
+	스크립트를 Coqui TTS를 사용하여 음성으로 변환합니다.
+	자막 정렬(Aeneas)은
+	speechalign
+	생성된 오디오를 스크립트에 맞춰 정렬하여 타이밍이 맞는 자막을 생성합니다.
+	비디오 어셈블리(FFmpeg)
+	시스템은 다음을 병합합니다.
+	/videos
+	(이름
+	default_*.mp4
+	)
+	의 배경 영상
+	음성 해설 오디오
+	자막을 추가하여
+	최종적으로 얼굴 없는 단편 영화를 완성합니다.
+	웹 트리거 인터페이스는
+	포트에서 최소한의 프런트엔드를 제공하여
+	80
+	클릭 한 번으로 모든 것을 트리거할 수 있도록 합니다.
+	📦 폴더 구조
+	[10] (193,977)<a aria-label='고유 링크: 📦 폴더 구조' class='anchor' href='#-folder-structure' id='user-content--folder-structure' />
+기고자
+1
+[11] (683,43)<a class='mr-2' href='https://github.com/Dark2C' />
+	[12] (683,43)<img  />
+[13] (707,43)<a class='Link--primary no-underline flex-self-center' href='https://github.com/Dark2C' />
+	[14] (707,43)<strong  />
+		[15] (707,43)<font  />
+			[16] (707,43)<font >다크2C />
+언어
+[17] (699,172)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/Dark2C/Viral-Faceless-Shorts-Generator/search?l=html' />
+	[18] (696,172)<span  />
+		[19] (696,172)<font  />
+			[20] (696,172)<font >HTML />
+	[21] (715,172)<span  />
+		[22] (715,172)<font  />
+			[23] (715,172)<font >50.7% />
+[24] (766,172)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/Dark2C/Viral-Faceless-Shorts-Generator/search?l=javascript' />
+	[25] (763,172)<span  />
+		[26] (763,172)<font  />
+			[27] (763,172)<font >자바스크립트 />
+	[28] (791,172)<span  />
+		[29] (791,172)<font  />
+			[30] (791,172)<font >32.9% />
+[31] (699,196)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/Dark2C/Viral-Faceless-Shorts-Generator/search?l=python' />
+	[32] (696,196)<span  />
+		[33] (696,196)<font  />
+			[34] (696,196)<font >파이썬 />
+	[35] (715,196)<span  />
+		[36] (715,196)<font  />
+			[37] (715,196)<font >11.3% />
+[38] (759,196)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/Dark2C/Viral-Faceless-Shorts-Generator/search?l=dockerfile' />
+	[39] (758,196)<span  />
+		[40] (758,196)<font  />
+			[41] (758,196)<font >도커파일 />
+	[42] (778,196)<span  />
+		[43] (778,196)<font  />
+			[44] (778,196)<font >5.1% />
+
+</current_dom>

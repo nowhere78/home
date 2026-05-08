@@ -1,0 +1,191 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (899,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (899,30)<yt-touch-feedback-shape  />
+		[26] (899,30)<div  />
+[27] (938,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (938,29)<yt-icon-badge-shape  />
+		[29] (938,30)<div  />
+			[30] (938,30)<div  />
+				[31] (938,30)<span  />
+					[32] (938,30)<span  />
+						[33] (938,30)<div  />
+			[34] (943,23)<div >8 />
+[35] (968,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (968,30)<yt-img-shadow  />
+		[37] (968,30)<img  />
+[38] (387,840)<div  />
+	[39] (387,840)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,835)<div  />
+		[41] (387,840)<div  />
+		[42] (329,840)<div  />
+			[43] (329,840)<div  />
+[44] (40,873)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,873)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (110,873)<div  />
+	[47] (110,873)<div  />
+		[48] (110,873)<div aria-label='9 분 47 초/23 분 34 초' class='ytp-time-contents' role='button' />
+			[49] (98,872)<span  />
+			[50] (108,872)<span  />
+			[51] (121,872)<span  />
+[52] (630,873)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,873)<div  />
+		[54] (630,873)<div  />
+[55] (655,873)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,886)<div  />
+[57] (680,873)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,873)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,873)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+"지금이 기회입니다" 한국인 99%가 모르는 유튜브로, 5개월만에 골드버튼 받은 직장인
+[60] (37,976)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@newmoney_story' />
+	[61] (34,975)<yt-img-shadow  />
+		[62] (34,975)<img  />
+[63] (63,967)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@newmoney_story'>뉴머니 />
+구독자 6.97천명
+[64] (123,976)<button aria-label='뉴머니을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[65] (123,976)<yt-touch-feedback-shape  />
+		[66] (123,976)<div  />
+968
+[67] (561,976)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[68] (561,976)<yt-touch-feedback-shape  />
+		[69] (561,976)<div  />
+[70] (600,976)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[71] (600,976)<yt-touch-feedback-shape  />
+		[72] (600,976)<div  />
+[73] (653,976)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[74] (653,976)<yt-touch-feedback-shape  />
+		[75] (653,976)<div  />
+[76] (706,976)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[77] (706,976)<yt-touch-feedback-shape  />
+		[78] (706,976)<div  />
+[79] (741,976)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[80] (741,976)<yt-touch-feedback-shape  />
+		[81] (741,976)<div  />
+스크립트
+[82] (931,244)<button aria-label='추가 작업' class='style-scope yt-icon-button' id='button' />
+	[83] (931,244)<yt-icon  />
+		[84] (931,244)<span  />
+			[85] (931,244)<div  />
+[86] (956,244)<button aria-label='스크립트 닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[87] (956,244)<yt-touch-feedback-shape  />
+		[88] (956,244)<div  />
+[89] (879,291)<input class='style-scope ytd-transcript-search-box-renderer' id='transcript-search-box-input' placeholder='동영상에서 검색' role='combobox' />
+[90] (864,657)<ytd-transcript-segment-list-renderer class='style-scope ytd-transcript-search-panel-renderer' scrollable='true' />
+	6:31
+	focused until the
+	6:32
+	end but in a in
+	6:34
+	China a lion and a
+	6:36
+	tiger have been put
+	6:37
+	in the same cage and
+	6:38
+	are clashing
+	6:40
+	the advantage the
+	6:42
+	tiger weighs about
+	[91] (860,326)<div aria-label='6분 43초 300 kg' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[92] (777,328)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[93] (777,328)<div >6:43 />
+		[94] (873,328)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>300 kg />
+	[95] (860,366)<div aria-label='6분 44초 [음악]' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[96] (777,368)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[97] (777,368)<div >6:44 />
+		[98] (873,368)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>[음악] />
+	[99] (860,406)<div aria-label='6분 47초 퀄리티가 방송국에서 촬영한 퀄리티처럼' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[100] (777,408)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[101] (777,408)<div >6:47 />
+		[102] (873,408)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>퀄리티가 방송국에서 촬영한 퀄리티처럼 />
+	[103] (860,447)<div aria-label='6분 50초 느껴지는데요.' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[104] (777,449)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[105] (777,449)<div >6:50 />
+		[106] (873,449)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>느껴지는데요. />
+	[107] (860,487)<div aria-label='6분 51초 사람들이 보고 이게 AI인지 실제인지' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[108] (777,489)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[109] (777,489)<div >6:51 />
+		[110] (873,489)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>사람들이 보고 이게 AI인지 실제인지 />
+	[111] (860,527)<div aria-label='6분 55초 잘 구분을 못 해요. 그래서 제가' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[112] (777,529)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[113] (777,529)<div >6:55 />
+		[114] (873,529)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>잘 구분을 못 해요. 그래서 제가 />
+	[115] (860,567)<div aria-label='6분 57초 가장 중요하게 생각하는게 진짜' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[116] (777,569)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[117] (777,569)<div >6:57 />
+		[118] (873,569)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>가장 중요하게 생각하는게 진짜 />
+	[119] (860,607)<div aria-label='6분 58초 퀄리티라고 말씀을 드리고 싶고 그리고' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[120] (777,610)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[121] (777,610)<div >6:58 />
+		[122] (873,610)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>퀄리티라고 말씀을 드리고 싶고 그리고 />
+	[123] (860,648)<div aria-label='7분 1초 또 다른 것들 보면은 이제 진주만에' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[124] (777,650)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[125] (777,650)<div >7:01 />
+		[126] (873,650)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>또 다른 것들 보면은 이제 진주만에 />
+	[127] (860,688)<div aria-label='7분 3초 대한 그 이야기데' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[128] (777,690)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[129] (777,690)<div >7:03 />
+		[130] (873,690)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>대한 그 이야기데 />
+	[131] (860,728)<div aria-label='7분 18초 United' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[132] (777,730)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[133] (777,730)<div >7:18 />
+		[134] (873,730)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>United />
+	[135] (860,768)<div aria-label='7분 22초 was nail' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[136] (777,770)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[137] (777,770)<div >7:22 />
+		[138] (873,770)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>was nail />
+	[139] (860,808)<div aria-label='7분 26초 attacked from this' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[140] (777,811)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[141] (777,811)<div >7:26 />
+		[142] (873,811)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>attacked from this />
+	[143] (860,849)<div aria-label='7분 27초 point' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[144] (777,851)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[145] (777,851)<div >7:27 />
+		[146] (873,851)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>point />
+	[147] (860,889)<div aria-label='7분 29초 to take [음악] a' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[148] (777,891)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[149] (777,891)<div >7:29 />
+		[150] (873,891)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>to take [음악] a />
+	[151] (860,929)<div aria-label='7분 30초 complicated turn' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[152] (777,931)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[153] (777,931)<div >7:30 />
+		[154] (873,931)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>complicated turn />
+	[155] (860,969)<div aria-label='7분 32초 many people remember' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[156] (777,971)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[157] (777,971)<div >7:32 />
+		[158] (873,971)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>many people remember />
+
+</current_dom>

@@ -1,0 +1,244 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >기본 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/drkwonte/bible-atlas/new/main' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (79,399)<div  />
+	[20] (79,174)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='functions-item' role='treeitem' />
+		[21] (79,174)<div  />
+			[22] (13,174)<div  />
+			[23] (84,174)<div  />
+				[24] (25,174)<div  />
+					[25] (25,174)<div  />
+				[26] (90,174)<span  />
+					[27] (40,174)<span  />
+						[28] (40,174)<font  />
+							[29] (40,174)<font >함수 />
+	[30] (79,208)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='public-item' role='treeitem' />
+		[31] (79,208)<div  />
+			[32] (13,208)<div  />
+			[33] (84,208)<div  />
+				[34] (25,208)<div  />
+					[35] (25,208)<div  />
+				[36] (90,208)<span  />
+					[37] (43,208)<span  />
+						[38] (43,208)<font  />
+							[39] (43,208)<font >공공의 />
+	[40] (79,242)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[41] (79,242)<div  />
+			[42] (13,242)<div  />
+			[43] (84,242)<div  />
+				[44] (25,242)<div  />
+					[45] (25,242)<div  />
+				[46] (90,242)<span  />
+					[47] (38,242)<span  />
+						[48] (38,242)<font  />
+							[49] (38,242)<font >src />
+	[50] (79,276)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.env.example-item' role='treeitem' />
+		[51] (79,276)<div  />
+			[52] (84,276)<div  />
+				[53] (25,276)<div  />
+				[54] (90,276)<span  />
+					[55] (54,276)<span  />
+						[56] (54,276)<font  />
+							[57] (54,276)<font >.env.example />
+	[58] (79,310)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[59] (79,310)<div  />
+			[60] (84,310)<div  />
+				[61] (25,310)<div  />
+				[62] (90,310)<span  />
+					[63] (49,310)<span  />
+						[64] (49,310)<font  />
+							[65] (49,310)<font >.gitignore />
+	[66] (79,344)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[67] (79,344)<div  />
+			[68] (84,344)<div  />
+				[69] (25,344)<div  />
+				[70] (90,344)<span  />
+					[71] (53,344)<span  />
+						[72] (53,344)<font  />
+							[73] (53,344)<font >README.md />
+	[74] (79,378)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='eslint.config.js-item' role='treeitem' />
+		[75] (79,378)<div  />
+			[76] (84,378)<div  />
+				[77] (25,378)<div  />
+				[78] (90,378)<span  />
+					[79] (56,378)<span  />
+						[80] (56,378)<font  />
+							[81] (56,378)<font >eslint.config.js />
+	[82] (79,412)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='index.html-item' role='treeitem' />
+		[83] (79,412)<div  />
+			[84] (84,412)<div  />
+				[85] (25,412)<div  />
+				[86] (90,412)<span  />
+					[87] (52,412)<span  />
+						[88] (52,412)<font  />
+							[89] (52,412)<font >인덱스.html />
+	[90] (79,446)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+		[91] (79,446)<div  />
+			[92] (84,446)<div  />
+				[93] (25,446)<div  />
+				[94] (90,446)<span  />
+					[95] (56,446)<span  />
+						[96] (56,446)<font  />
+							[97] (56,446)<font >패키지-락.json />
+	[98] (79,480)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[99] (79,480)<div  />
+			[100] (84,480)<div  />
+				[101] (25,480)<div  />
+				[102] (90,480)<span  />
+					[103] (51,480)<span  />
+						[104] (51,480)<font  />
+							[105] (51,480)<font >패키지.json />
+	[106] (79,514)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.app.json-item' role='treeitem' />
+		[107] (79,514)<div  />
+			[108] (84,514)<div  />
+				[109] (25,514)<div  />
+				[110] (90,514)<span  />
+					[111] (61,514)<span  />
+						[112] (61,514)<font  />
+							[113] (61,514)<font >tsconfig.app.json />
+	[114] (79,548)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.json-item' role='treeitem' />
+		[115] (79,548)<div  />
+			[116] (84,548)<div  />
+				[117] (25,548)<div  />
+				[118] (90,548)<span  />
+					[119] (54,548)<span  />
+						[120] (54,548)<font  />
+							[121] (54,548)<font >tsconfig.json />
+	[122] (79,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.node.json-item' role='treeitem' />
+		[123] (79,582)<div  />
+			[124] (84,582)<div  />
+				[125] (25,582)<div  />
+				[126] (90,582)<span  />
+					[127] (63,582)<span  />
+						[128] (63,582)<font  />
+							[129] (63,582)<font >tsconfig.node.json />
+	[130] (79,616)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='vite.config.ts-item' role='treeitem' />
+		[131] (79,616)<div  />
+			[132] (84,616)<div  />
+				[133] (25,616)<div  />
+				[134] (90,616)<span  />
+					[135] (54,616)<span  />
+						[136] (54,616)<font  />
+							[137] (54,616)<font >vite.config.ts />
+[138] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[139] (199,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/drkwonte/bible-atlas/tree/main' />
+	[140] (199,23)<font  />
+		[141] (199,23)<font >성경 지도 />
+/
+README.md
+[142] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[143] (970,23)<span  />
+		[144] (976,23)<span  />
+			[145] (976,22)<font  />
+				[146] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[147] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[148] (200,71)<span  />
+		[149] (200,71)<div  />
+			[150] (200,71)<font  />
+				[151] (200,71)<font >시사 />
+[152] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[153] (235,71)<span  />
+		[154] (235,71)<div  />
+			[155] (235,71)<font  />
+				[156] (235,71)<font >암호 />
+[157] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[158] (268,71)<span  />
+		[159] (268,71)<div  />
+			[160] (268,71)<font  />
+				[161] (268,71)<font >탓하다 />
+109줄 (81개 위치) · 3.53KB
+[162] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_4d_' />
+[163] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[164] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/drkwonte/bible-atlas/raw/refs/heads/main/README.md' />
+	[165] (891,71)<span  />
+		[166] (891,71)<span  />
+			[167] (891,70)<font  />
+				[168] (891,70)<font >날것의 />
+[169] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[170] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[171] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/drkwonte/bible-atlas/edit/main/README.md' />
+[172] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_4s_' />
+[173] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+의존성 설치
+npm install
+환경 설정 (프론트)
+.env.example
+을 참고해 프로젝트를
+.env
+설정하려면 지도 관련 값(
+VITE_MAP_STYLE_URL
+,
+VITE_MAP_ATTRIBUTION_HTML
+)을 필요로 합니다.
+Cloudflare Pages Functions 환경 설정(서버)
+Gemini 키는 브라우저가 아닌 Cloudflare Functions에서만 사용합니다.
+GEMINI_API_KEY
+(필수)
+GEMINI_MODEL_ID
+(선택, 했어요:
+gemini-2.5-flash
+)
+Cloudflare Pages 프로젝트 설정에서
+Settings > Environment variables
+에 추가하세요.
+개발서버
+npm run dev
+[174] (836,460)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+지도(한글 표기)
+[175] (313,532)<a aria-label='고유 주소: 지도(한글 표기)' class='anchor' href='#지도한글-표기' id='user-content-지도한글-표기' />
+그것은 OpenStreetMap 타일(라벨 언어는 지역/타일에 따라 움직일 수 없음)입니다.
+한글 라벨이 포함되는 스타일이 필요하면
+VITE_MAP_STYLE_URL
+에 MapLibre 스타일 URL(예: MapTiler의
+language=ko
+지원 스타일)을 도와주세요.
+React + TypeScript + Vite
+[176] (313,677)<a aria-label='Permalink: React + TypeScript + Vite' class='anchor' href='#react--typescript--vite' id='user-content-react--typescript--vite' />
+이 템플릿은 HMR 및 일부 ESLint 규칙을 사용하여 Vite에서 React를 작동시키는 데 필요한 최소한의 설정을 제공합니다.
+현재 두 가지 공식 플러그인을 사용할 수 있습니다.
+[177] (379,822)<a href='https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react' />
+	[178] (379,822)<font  />
+		[179] (379,822)<font >@vitejs/plugin-react는 />
+[180] (432,822)<a href='https://oxc.rs' />
+	[181] (432,822)<font >Oxc를 />
+사용합니다 .
+[182] (387,852)<a href='https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc' />
+	[183] (387,852)<font  />
+		[184] (387,852)<font >@vitejs/plugin-react-swc는 />
+[185] (451,852)<a href='https://swc.rs/' />
+	[186] (451,852)<font >SWC를 />
+사용합니다 .
+리액트 컴파일러
+[187] (313,906)<a aria-label='고유 링크: React 컴파일러' class='anchor' href='#react-compiler' id='user-content-react-compiler' />
+React 컴파일러는 개발 및 빌드 성능에 영향을 미치기 때문에 이 템플릿에서는 활성화되어 있지 않습니다. 활성화하려면
+[188] (745,960)<a href='https://react.dev/learn/react-compiler/installation' />
+	[189] (745,960)<font  />
+		[190] (745,960)<font >이 문서를 />
+참조하세요 .
+ESLint 구성 확장
+
+</current_dom>

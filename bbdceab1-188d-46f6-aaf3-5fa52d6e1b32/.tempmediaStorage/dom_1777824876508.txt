@@ -1,0 +1,239 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >기본 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/alstar269/basecamp-app/new/main' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (79,399)<div  />
+	[20] (79,174)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='api-item' role='treeitem' />
+		[21] (79,174)<div  />
+			[22] (13,174)<div  />
+			[23] (84,174)<div  />
+				[24] (25,174)<div  />
+					[25] (25,174)<div  />
+				[26] (90,174)<span  />
+					[27] (39,174)<span  />
+						[28] (39,174)<font  />
+							[29] (39,174)<font >API />
+	[30] (79,208)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[31] (79,208)<div  />
+			[32] (13,208)<div  />
+			[33] (84,208)<div  />
+				[34] (25,208)<div  />
+					[35] (25,208)<div  />
+				[36] (90,208)<span  />
+					[37] (40,208)<span  />
+						[38] (40,208)<font  />
+							[39] (40,208)<font >문서 />
+	[40] (79,242)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='lib-item' role='treeitem' />
+		[41] (79,242)<div  />
+			[42] (13,242)<div  />
+			[43] (84,242)<div  />
+				[44] (25,242)<div  />
+					[45] (25,242)<div  />
+				[46] (90,242)<span  />
+					[47] (50,242)<span  />
+						[48] (50,242)<font  />
+							[49] (50,242)<font >라이브러리 />
+	[50] (79,276)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='public-item' role='treeitem' />
+		[51] (79,276)<div  />
+			[52] (13,276)<div  />
+			[53] (84,276)<div  />
+				[54] (25,276)<div  />
+					[55] (25,276)<div  />
+				[56] (90,276)<span  />
+					[57] (43,276)<span  />
+						[58] (43,276)<font  />
+							[59] (43,276)<font >공공의 />
+	[60] (79,310)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='routes-item' role='treeitem' />
+		[61] (79,310)<div  />
+			[62] (13,310)<div  />
+			[63] (84,310)<div  />
+				[64] (25,310)<div  />
+					[65] (25,310)<div  />
+				[66] (90,310)<span  />
+					[67] (40,310)<span  />
+						[68] (40,310)<font  />
+							[69] (40,310)<font >경로 />
+	[70] (79,344)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='supabase-item' role='treeitem' />
+		[71] (79,344)<div  />
+			[72] (13,344)<div  />
+			[73] (84,344)<div  />
+				[74] (25,344)<div  />
+					[75] (25,344)<div  />
+				[76] (90,344)<span  />
+					[77] (50,344)<span  />
+						[78] (50,344)<font  />
+							[79] (50,344)<font >수파베이스 />
+	[80] (79,378)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.env.example-item' role='treeitem' />
+		[81] (79,378)<div  />
+			[82] (84,378)<div  />
+				[83] (25,378)<div  />
+				[84] (90,378)<span  />
+					[85] (54,378)<span  />
+						[86] (54,378)<font  />
+							[87] (54,378)<font >.env.example />
+	[88] (79,412)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[89] (79,412)<div  />
+			[90] (84,412)<div  />
+				[91] (25,412)<div  />
+				[92] (90,412)<span  />
+					[93] (49,412)<span  />
+						[94] (49,412)<font  />
+							[95] (49,412)<font >.gitignore />
+	[96] (79,446)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='DEPLOY.md-item' role='treeitem' />
+		[97] (79,446)<div  />
+			[98] (84,446)<div  />
+				[99] (25,446)<div  />
+				[100] (90,446)<span  />
+					[101] (46,446)<span  />
+						[102] (46,446)<font  />
+							[103] (46,446)<font >배포.md />
+	[104] (79,480)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[105] (79,480)<div  />
+			[106] (84,480)<div  />
+				[107] (25,480)<div  />
+				[108] (90,480)<span  />
+					[109] (53,480)<span  />
+						[110] (53,480)<font  />
+							[111] (53,480)<font >README.md />
+	[112] (79,514)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+		[113] (79,514)<div  />
+			[114] (84,514)<div  />
+				[115] (25,514)<div  />
+				[116] (90,514)<span  />
+					[117] (56,514)<span  />
+						[118] (56,514)<font  />
+							[119] (56,514)<font >패키지-락.json />
+	[120] (79,548)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[121] (79,548)<div  />
+			[122] (84,548)<div  />
+				[123] (25,548)<div  />
+				[124] (90,548)<span  />
+					[125] (51,548)<span  />
+						[126] (51,548)<font  />
+							[127] (51,548)<font >패키지.json />
+	[128] (79,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='server.js-item' role='treeitem' />
+		[129] (79,582)<div  />
+			[130] (84,582)<div  />
+				[131] (25,582)<div  />
+				[132] (90,582)<span  />
+					[133] (46,582)<span  />
+						[134] (46,582)<font  />
+							[135] (46,582)<font >server.js />
+	[136] (79,616)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='vercel.json-item' role='treeitem' />
+		[137] (79,616)<div  />
+			[138] (84,616)<div  />
+				[139] (25,616)<div  />
+				[140] (90,616)<span  />
+					[141] (51,616)<span  />
+						[142] (51,616)<font  />
+							[143] (51,616)<font >베르셀.json />
+[144] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[145] (206,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/alstar269/basecamp-app/tree/main' />
+	[146] (206,23)<font  />
+		[147] (206,23)<font >베이스캠프 앱 />
+/
+README.md
+[148] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[149] (970,23)<span  />
+		[150] (976,23)<span  />
+			[151] (976,22)<font  />
+				[152] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[153] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[154] (200,71)<span  />
+		[155] (200,71)<div  />
+			[156] (200,71)<font  />
+				[157] (200,71)<font >시사 />
+[158] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[159] (235,71)<span  />
+		[160] (235,71)<div  />
+			[161] (235,71)<font  />
+				[162] (235,71)<font >암호 />
+[163] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[164] (268,71)<span  />
+		[165] (268,71)<div  />
+			[166] (268,71)<font  />
+				[167] (268,71)<font >탓하다 />
+116줄 (91개 위치) · 4.71KB
+[168] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_6l_' />
+[169] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[170] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/alstar269/basecamp-app/raw/refs/heads/main/README.md' />
+	[171] (891,71)<span  />
+		[172] (891,71)<span  />
+			[173] (891,70)<font  />
+				[174] (891,70)<font >날것의 />
+[175] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[176] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[177] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/alstar269/basecamp-app/edit/main/README.md' />
+[178] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_74_' />
+[179] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+무료로 배포하다
+, 말하다
+데이터 삭제
+: 수련회 종료 +30일 후 자동 기록
+설치
+cd
+basecamp
+cp .env.example .env
+#
+.env에 ANTHROPIC_API_KEY, JWT_SECRET, ADMIN_PASSWORD 등 설정
+npm install
+npm start
+[180] (836,151)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+접속 :
+[181] (380,295)<a href='http://localhost:3000' />
+	[182] (380,295)<font  />
+		[183] (380,295)<font >http://localhost:3000 />
+의 구조
+[184] (313,349)<a aria-label='고유 링크: 키예프 구조' class='anchor' href='#디렉토리-구조' id='user-content-디렉토리-구조' />
+basecamp/
+├── server.js                 # Express 엔트리포인트
+├── lib/
+│   ├── storage.js            # JSON 파일 저장 (동시성 락 포함)
+│   ├── mentors.js            # 8인 멘토 페르소나 + system prompt
+│   ├── crisis.js             # 위기 키워드 탐지
+│   ├── anonymize.js          # K-익명성 집계
+│   ├── retention.js          # 30일 자동 파기
+│   └── auth.js               # JWT 발급·검증
+├── routes/
+│   ├── auth.js               # 교사·관리자 로그인/가입
+│   ├── code.js               # 수련회 등록 · 입장코드
+│   ├── student.js            # 학생 익명 세션
+│   ├── chat.js               # 멘토 대화 (Claude API)
+│   ├── insights.js           # 교사 대시보드 집계
+│   └── admin.js              # 교회 승인 · 통계
+├── public/
+│   ├── index.html            # 랜딩
+│   ├── css/styles.css        # 디자인 시스템
+│   ├── js/common.js          # API 클라이언트
+│   ├── student/              # 5개 페이지 (enter/setup/mentors/chat/journey)
+│   ├── teacher/              # 4개 페이지 (login/register/dashboard/guide)
+│   └── admin/                # 2개 페이지 (login/home)
+└── data/                     # 런타임 JSON 데이터 (gitignore)
+[185] (836,414)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+사용 시나리오
+[186] (313,966)<a aria-label='고유 링크: 사용하기' class='anchor' href='#사용-시나리오' id='user-content-사용-시나리오' />
+
+</current_dom>

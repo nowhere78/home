@@ -1,0 +1,289 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >기본 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/Augani/openreel-video/new/main' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (79,518)<div  />
+	[20] (79,174)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[21] (79,174)<div  />
+			[22] (13,174)<div  />
+			[23] (84,174)<div  />
+				[24] (25,174)<div  />
+					[25] (25,174)<div  />
+				[26] (90,174)<span  />
+					[27] (45,174)<span  />
+						[28] (45,174)<font  />
+							[29] (45,174)<font >.github />
+	[30] (79,208)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.serena-item' role='treeitem' />
+		[31] (79,208)<div  />
+			[32] (13,208)<div  />
+			[33] (84,208)<div  />
+				[34] (25,208)<div  />
+					[35] (25,208)<div  />
+				[36] (90,208)<span  />
+					[37] (43,208)<span  />
+						[38] (43,208)<font  />
+							[39] (43,208)<font >세레나 />
+	[40] (79,242)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='apps-item' role='treeitem' />
+		[41] (79,242)<div  />
+			[42] (13,242)<div  />
+			[43] (84,242)<div  />
+				[44] (25,242)<div  />
+					[45] (25,242)<div  />
+				[46] (90,242)<span  />
+					[47] (37,242)<span  />
+						[48] (37,242)<font  />
+							[49] (37,242)<font >앱 />
+	[50] (79,276)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='packages-item' role='treeitem' />
+		[51] (79,276)<div  />
+			[52] (13,276)<div  />
+			[53] (84,276)<div  />
+				[54] (25,276)<div  />
+					[55] (25,276)<div  />
+				[56] (90,276)<span  />
+					[57] (43,276)<span  />
+						[58] (43,276)<font  />
+							[59] (43,276)<font >패키지 />
+	[60] (79,310)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='scripts-item' role='treeitem' />
+		[61] (79,310)<div  />
+			[62] (13,310)<div  />
+			[63] (84,310)<div  />
+				[64] (25,310)<div  />
+					[65] (25,310)<div  />
+				[66] (90,310)<span  />
+					[67] (47,310)<span  />
+						[68] (47,310)<font  />
+							[69] (47,310)<font >스크립트 />
+	[70] (79,344)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[71] (79,344)<div  />
+			[72] (84,344)<div  />
+				[73] (25,344)<div  />
+				[74] (90,344)<span  />
+					[75] (49,344)<span  />
+						[76] (49,344)<font  />
+							[77] (49,344)<font >.gitignore />
+	[78] (79,378)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='AGENTS.md-item' role='treeitem' />
+		[79] (79,378)<div  />
+			[80] (84,378)<div  />
+				[81] (25,378)<div  />
+				[82] (90,378)<span  />
+					[83] (53,378)<span  />
+						[84] (53,378)<font  />
+							[85] (53,378)<font >에이전트.md />
+	[86] (79,412)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CONTRIBUTING.md-item' role='treeitem' />
+		[87] (79,412)<div  />
+			[88] (84,412)<div  />
+				[89] (25,412)<div  />
+				[90] (90,412)<span  />
+					[91] (46,412)<span  />
+						[92] (46,412)<font  />
+							[93] (46,412)<font >기여.md />
+	[94] (79,446)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='DEPLOYMENT.md-item' role='treeitem' />
+		[95] (79,446)<div  />
+			[96] (84,446)<div  />
+				[97] (25,446)<div  />
+				[98] (90,446)<span  />
+					[99] (46,446)<span  />
+						[100] (46,446)<font  />
+							[101] (46,446)<font >배포.md />
+	[102] (79,480)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='IMAGE.md-item' role='treeitem' />
+		[103] (79,480)<div  />
+			[104] (84,480)<div  />
+				[105] (25,480)<div  />
+				[106] (90,480)<span  />
+					[107] (49,480)<span  />
+						[108] (49,480)<font  />
+							[109] (49,480)<font >이미지.md />
+	[110] (79,514)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='Image-features.md-item' role='treeitem' />
+		[111] (79,514)<div  />
+			[112] (84,514)<div  />
+				[113] (25,514)<div  />
+				[114] (90,514)<span  />
+					[115] (57,514)<span  />
+						[116] (57,514)<font  />
+							[117] (57,514)<font >이미지 특징.md />
+	[118] (79,548)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[119] (79,548)<div  />
+			[120] (84,548)<div  />
+				[121] (25,548)<div  />
+				[122] (90,548)<span  />
+					[123] (40,548)<span  />
+						[124] (40,548)<font  />
+							[125] (40,548)<font >특허 />
+	[126] (79,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='OPENREEL_IMAGE_TECH_TASKS.md-item' role='treeitem' />
+		[127] (79,582)<div  />
+			[128] (84,582)<div  />
+				[129] (25,582)<div  />
+				[130] (90,582)<span  />
+					[131] (90,582)<span  />
+						[132] (90,582)<font  />
+							[133] (90,582)<font >OPENREEL_IMAGE_TECH_TASKS.md />
+	[134] (79,616)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[135] (79,616)<div  />
+			[136] (84,616)<div  />
+				[137] (25,616)<div  />
+				[138] (90,616)<span  />
+					[139] (53,616)<span  />
+						[140] (53,616)<font  />
+							[141] (53,616)<font >README.md />
+	[142] (79,650)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='llm.txt-item' role='treeitem' />
+		[143] (79,650)<div  />
+			[144] (84,650)<div  />
+				[145] (25,650)<div  />
+				[146] (90,650)<span  />
+					[147] (43,650)<span  />
+						[148] (43,650)<font  />
+							[149] (43,650)<font >llm.txt />
+	[150] (79,685)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='mediabunny.d.ts-item' role='treeitem' />
+		[151] (79,685)<div  />
+			[152] (84,685)<div  />
+				[153] (25,684)<div  />
+				[154] (90,685)<span  />
+					[155] (57,685)<span  />
+						[156] (57,685)<font  />
+							[157] (57,685)<font >미디어버니.d.ts />
+	[158] (79,719)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[159] (79,719)<div  />
+			[160] (84,719)<div  />
+				[161] (25,719)<div  />
+				[162] (90,719)<span  />
+					[163] (51,719)<span  />
+						[164] (51,719)<font  />
+							[165] (51,719)<font >패키지.json />
+	[166] (79,753)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-lock.yaml-item' role='treeitem' />
+		[167] (79,753)<div  />
+			[168] (84,753)<div  />
+				[169] (25,753)<div  />
+				[170] (90,753)<span  />
+					[171] (59,753)<span  />
+						[172] (59,753)<font  />
+							[173] (59,753)<font >pnpm-lock.yaml />
+	[174] (79,787)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-workspace.yaml-item' role='treeitem' />
+		[175] (79,787)<div  />
+			[176] (84,787)<div  />
+				[177] (25,787)<div  />
+				[178] (90,787)<span  />
+					[179] (70,787)<span  />
+						[180] (70,787)<font  />
+							[181] (70,787)<font >pnpm-workspace.yaml />
+	[182] (79,821)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='start.sh-item' role='treeitem' />
+		[183] (79,821)<div  />
+			[184] (84,821)<div  />
+				[185] (25,821)<div  />
+				[186] (90,821)<span  />
+					[187] (44,821)<span  />
+						[188] (44,821)<font  />
+							[189] (44,821)<font >시작.sh />
+	[190] (79,855)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.base.json-item' role='treeitem' />
+		[191] (79,855)<div  />
+			[192] (84,855)<div  />
+				[193] (25,855)<div  />
+				[194] (90,855)<span  />
+					[195] (62,855)<span  />
+						[196] (62,855)<font  />
+							[197] (62,855)<font >tsconfig.base.json />
+[198] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[199] (205,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/Augani/openreel-video/tree/main' />
+	[200] (205,23)<font  />
+		[201] (205,23)<font >오픈릴비디오 />
+/
+OPENREEL_IMAGE_TECH_TASKS.md
+[202] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[203] (970,23)<span  />
+		[204] (976,23)<span  />
+			[205] (976,22)<font  />
+				[206] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[207] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[208] (200,71)<span  />
+		[209] (200,71)<div  />
+			[210] (200,71)<font  />
+				[211] (200,71)<font >시사 />
+[212] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[213] (235,71)<span  />
+		[214] (235,71)<div  />
+			[215] (235,71)<font  />
+				[216] (235,71)<font >암호 />
+[217] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[218] (268,71)<span  />
+		[219] (268,71)<div  />
+			[220] (268,71)<font  />
+				[221] (268,71)<font >탓하다 />
+509줄 (425개 위치) · 13.7KB
+[222] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_1kn6clal3al1d_' />
+[223] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[224] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/Augani/openreel-video/raw/refs/heads/main/OPENREEL_IMAGE_TECH_TASKS.md' />
+	[225] (891,71)<span  />
+		[226] (891,71)<span  />
+			[227] (891,70)<font  />
+				[228] (891,70)<font >날것의 />
+[229] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[230] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[231] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/Augani/openreel-video/edit/main/OPENREEL_IMAGE_TECH_TASKS.md' />
+[232] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_59f6clal3al1d_' />
+[233] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+AddArtboard
+RemoveArtboard
+UpdateArtboard
+AddLayer
+RemoveLayer
+DuplicateLayer
+ReorderLayer
+UpdateLayerTransform
+UpdateLayerStyle
+UpdateText
+ApplyAdjustment
+ApplyMask
+RasterEdit
+드래그, 크기 조정, 브러시 스트로크 및 슬라이더 스크러빙에 대한 명령 병합 기능을 추가합니다.
+대규모 래스터 편집을 위한 체크포인트 스냅샷을 추가합니다.
+모든 명령에 대해 실행 취소/다시 실행 테스트를 추가하세요.
+HistoryPanel
+명령어 이름을 의미 있게 표시하도록
+업데이트했습니다 .
+기술:
+Zustand 또는 전용 명령 저장소
+임머
+대용량 래스터 체크포인트를 위한 IndexedDB/OPFS
+3. 저장 공간 및 프로젝트 파일
+[234] (313,681)<a aria-label='고유 링크: 3. 저장소 및 프로젝트 파일' class='anchor' href='#3-storage-and-project-files' id='user-content-3-storage-and-project-files' />
+localStorage
+자동 저장 기능을 IndexedDB 메타데이터 저장소로
+대체하십시오 .
+대용량 바이너리 이미지 자산은 OPFS에 저장하세요.
+썸네일 이미지는 원본 이미지와 별도로 저장하세요.
+콘텐츠 해시를 이용한 자산 중복 제거 기능을 추가합니다.
+블롭 URL 수명 주기 관리를 추가합니다.
+탭 충돌 또는 새로 고침 후 프로젝트 복구 기능을 추가합니다.
+.orimg
+압축 패키지 형태로
+가져오기/내보내기 기능을 추가합니다 .
+project.json
+에셋, 썸네일, 글꼴 및 메타데이터를
+포함합니다
+.orimg
+.
+이전 프로젝트 버전에서 마이그레이션 테스트를 추가합니다.
+
+</current_dom>

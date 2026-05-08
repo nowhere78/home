@@ -1,0 +1,142 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,23)<header  />
+			[3] (71,23)<div class='x87ps6o xt0e3qv x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm' role='button'>쇼핑쇼츠로 구글 앞마당에서 달러캐기 />
+				쇼핑쇼츠로 구글 앞마당에서 달러캐기
+			[4] (892,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[5] (912,23)<div aria-label='소셜 미디어에 사이트 공유' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[6] (930,23)<div aria-label='추가 작업' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+			[7] (969,23)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>지금 시작하기 />
+		[8] (500,523)<main  />
+			[9] (500,523)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[10] (978,396)<div  />
+					[11] (978,396)<div  />
+						[12] (976,389)<div  />
+							[13] (981,185)<div  />
+								[14] (978,185)<div  />
+							[15] (981,200)<div  />
+								[16] (979,200)<div  />
+							[17] (981,215)<div  />
+								[18] (979,215)<div  />
+							[19] (981,230)<div  />
+								[20] (979,230)<div  />
+							[21] (981,244)<div  />
+								[22] (979,244)<div  />
+							[23] (981,259)<div  />
+								[24] (979,259)<div  />
+							[25] (981,274)<div  />
+								[26] (979,274)<div  />
+							[27] (981,289)<div  />
+								[28] (979,289)<div  />
+							[29] (981,304)<div  />
+								[30] (979,304)<div  />
+							[31] (981,319)<div  />
+								[32] (979,319)<div  />
+							[33] (981,333)<div  />
+								[34] (979,333)<div  />
+							[35] (981,348)<div  />
+								[36] (979,348)<div  />
+							[37] (981,363)<div  />
+								[38] (979,363)<div  />
+							[39] (981,378)<div  />
+								[40] (978,378)<div  />
+							[41] (981,393)<div  />
+								[42] (979,393)<div  />
+							[43] (981,407)<div  />
+								[44] (979,407)<div  />
+							[45] (981,422)<div  />
+								[46] (979,422)<div  />
+							[47] (981,437)<div  />
+								[48] (979,437)<div  />
+							[49] (981,452)<div  />
+								[50] (979,452)<div  />
+							[51] (981,467)<div  />
+								[52] (979,467)<div  />
+							[53] (981,481)<div  />
+								[54] (978,481)<div  />
+							[55] (981,496)<div  />
+								[56] (979,496)<div  />
+							[57] (981,511)<div  />
+								[58] (978,511)<div  />
+							[59] (981,526)<div  />
+								[60] (979,526)<div  />
+							[61] (981,541)<div  />
+								[62] (978,541)<div  />
+							[63] (981,556)<div  />
+								[64] (979,556)<div  />
+							[65] (981,570)<div  />
+								[66] (978,570)<div  />
+							[67] (981,585)<div  />
+								[68] (979,585)<div  />
+				[69] (496,138)<div  />
+					[70] (496,138)<div  />
+						[71] (496,138)<div  />
+							[72] (496,138)<div  />
+								[73] (496,138)<div  />
+									[74] (496,138)<div >네이버 블로그(혹은 티스토리)에 가볍게 제품 소개 글을 씁니다. />
+										[75] (325,137)<span >글쓰기: />
+				[76] (496,167)<div  />
+				[77] (496,299)<div  />
+					[78] (496,299)<div  />
+						[79] (496,299)<div  />
+							[80] (496,299)<div role='figure' />
+								[81] (496,299)<div  />
+									[82] (496,299)<div  />
+				[83] (496,444)<div  />
+					[84] (496,444)<div  />
+						[85] (496,444)<div  />
+							[86] (496,444)<div  />
+								[87] (496,444)<div  />
+									[88] (496,444)<div >글 하단에 복사한 URL을 넣고, 반드시 아래
+를 적어야 합니다. />
+										[89] (339,443)<span >필수 문구 입력: />
+										[90] (532,443)<span >공정위 문구 />
+				[91] (496,486)<div  />
+					[92] (496,486)<div  />
+						[93] (496,486)<div  />
+							[94] (496,486)<div  />
+								[95] (496,486)<div  />
+									[96] (496,486)<div  />
+										[97] (465,486)<span >"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다." />
+				[98] (496,529)<div  />
+					[99] (496,529)<div  />
+						[100] (496,529)<div  />
+							[101] (496,529)<div  />
+								[102] (496,529)<div  />
+									[103] (496,529)<div >이 글을 캡처해서 쿠팡 파트너스 [내 정보]에 채널 URL과 함께 등록하면 승인 완료! />
+										[104] (335,528)<span >캡처 및 등록: />
+				[105] (496,571)<div  />
+					[106] (496,571)<div  />
+						[107] (496,571)<div  />
+							[108] (496,571)<div  />
+								[109] (496,571)<div  />
+									[110] (496,571)<div  />
+				[111] (496,613)<div  />
+					[112] (496,613)<div  />
+						[113] (496,613)<div  />
+							[114] (496,613)<div  />
+								[115] (496,613)<div  />
+									[116] (496,613)<div  />
+				[117] (496,676)<div  />
+					[118] (496,676)<div  />
+						[119] (496,676)<div  />
+							[120] (496,689)<div  />
+								[121] (496,689)<h2  />
+									[122] (346,688)<span >Chapter3 />
+				[123] (496,754)<div  />
+					[124] (496,754)<div  />
+						[125] (496,754)<div  />
+							[126] (496,764)<div  />
+								[127] (496,764)<h3 >리뷰 제품 진열대 만들기 />
+				[128] (496,823)<div  />
+					[129] (496,823)<div  />
+						[130] (496,823)<div  />
+							[131] (496,823)<div  />
+								[132] (496,823)<div  />
+									[133] (496,823)<div >영상 플랫폼을 이용해서 쿠팡파트너스 활동을 하시는 분은 내가 리뷰한 제품 진열할 사이트가 필요합니다. 그 사이트는 보통 인포크링크를 많이 사용합니다. />
+
+</current_dom>

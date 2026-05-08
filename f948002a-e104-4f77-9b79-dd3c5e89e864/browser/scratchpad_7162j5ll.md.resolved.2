@@ -1,0 +1,38 @@
+# Unsloth Documentation Analysis Task
+
+## Goals
+1. [x] Navigate to https://unsloth.ai/docs
+2. [ ] Explore 'Getting Started' section
+3. [ ] Explore 'Model Support' section
+4. [ ] Explore 'Performance' section
+5. [ ] Explore 'Quantization' section
+6. [ ] Extract information:
+   - [x] Installation requirements
+     - Windows: Win 10/11, NVIDIA GPU, Python 3.11-3.13, Git, Winget.
+     - Linux/WSL: Supported.
+     - Mac: Support for GGUF/Chat, MLX coming soon.
+     - Studio (one-liner): `curl -fsSL https://unsloth.ai/install.sh | sh` (Linux/Mac) or `irm https://unsloth.ai/install.ps1 | iex` (Windows).
+   - [ ] 2x speed / 70% memory saving features
+   - [x] Support for Gemma 4
+     - Variants: E2B, E4B (128K context, multimodal), 26B-A4B, 31B (256K context).
+     - Multimodal: E2B and E4B support Text + Vision + Audio.
+     - VRAM: E2B (8GB), E4B (10GB), 31B QLoRA (22GB).
+     - Performance: ~1.5x faster, ~60% less VRAM for Gemma 4 compared to FA2.
+   - [x] Long Context (128K) support
+     - Gemma 4 E2B/E4B supports 128K context natively.
+     - Gemma 4 26B/31B supports 256K context.
+   - [ ] 2x speed / 70% memory saving features (General)
+   - [ ] Quantization info
+7. [ ] Summarize findings and extract code snippets
+8. [ ] Final report
+
+## Findings
+### Installation
+... (as before)
+
+### Gemma 4 Support
+- **Models:** E2B, E4B, 26B-A4B, 31B.
+- **Context:** 128K (E2B/E4B), 256K (26B/31B).
+- **Multimodal:** Text, Vision, Audio (E2B, E4B).
+- **VRAM Optimization:** E2B fine-tuning on 8GB VRAM.
+- **Speed:** ~1.5x faster than standard setups for Gemma 4.

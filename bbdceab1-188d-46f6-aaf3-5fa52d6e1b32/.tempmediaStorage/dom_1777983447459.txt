@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (279,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (286,25)<span  />
+		[8] (286,25)<font  />
+			[9] (286,25)<font >CC0-1.0 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+😤 Kamu Capek Karena...
+Kerja 10 jam sehari padahal 80% kerjaan bisa di-automate dalam 10 menit?
+스크롤 튜토리얼 berjam-jam tapi tetap bingung mulai dari mana?
+Lihat orang lain 수동 소득 dari AI tapi kamu belum tahu 도구 mana yang
+benar-benar
+작동합니까?
+멈추다. Kamu di tempat yang tepat.
+Ini bukan Awesome List 바이사. Ini
+peta jalan dari nol
+— dari pakai AI buat nulis caption sampai bangun sistem otomasi multi-agen yang jalan sendiri 24/7 sambil kamu tidur.
+💰
+Repo ini 100% 무료. Kalau berguna, traktir kopi satu:
+[12] (481,327)<a href='https://ko-fi.com/hackmytask' />
+	[13] (481,318)<img  />
+📍 내용
+[14] (193,411)<a aria-label='고유 링크: 📍 목차' class='anchor' href='#-contents' id='user-content--contents' />
+[15] (264,465)<a href='#-quick-wins--level-cupu' />
+	[16] (264,465)<font  />
+		[17] (264,465)<font >⚡ 빠른 승리 — 레벨: 쿠푸 />
+[18] (281,495)<a href='#-no-code-automations--level-intermediate' />
+	[19] (281,495)<font  />
+		[20] (281,495)<font >🔧 코드 없는 자동화 — 난이도: 중급 />
+[21] (292,524)<a href='#-llm-prompt-library--level-advanced' />
+	[22] (292,524)<font  />
+		[23] (292,524)<font >🧠 LLM 프롬프트 라이브러리 — 레벨: 고급 />
+[24] (302,554)<a href='#-ai-money-blueprints--level-expert' />
+	[25] (302,554)<font  />
+		[26] (302,554)<font >💰 AI를 활용한 수익 창출 전략 — 난이도: 전문가 />
+[27] (268,584)<a href='#-advanced-automations--level-suhu' />
+	[28] (268,584)<font  />
+		[29] (268,584)<font >🚀 고급 자동화 — 레벨: 수후 />
+[30] (272,613)<a href='#%EF%B8%8F-cost--security-notes' />
+	[31] (272,613)<font  />
+		[32] (272,613)<font >🛡️ 비용 및 보안 관련 참고 사항 />
+[33] (245,643)<a href='#-support--contributing' />
+	[34] (245,643)<font  />
+		[35] (245,643)<font >🤝 후원 및 참여 />
+⚡ 빠른 승리 — 레벨: 쿠푸
+[36] (193,726)<a aria-label='고유 링크: ⚡ 빠른 승리 — 레벨: 쿠푸' class='anchor' href='#-quick-wins--level-cupu' id='user-content--quick-wins--level-cupu' />
+하시다람 5메니트. 제로 코딩. 제로 카르투 크레딧. Langsung bisa dipakai hari ini.
+Ini bukan sekedar 목록 도구. Ini
+persenjataan pertama kamu
+sebelum kompetitor sadar tools ini가 존재합니다.
+✍️ AI 기반 글쓰기 및 콘텐츠 생성
+[37] (193,875)<a aria-label='고유 링크: ✍️ AI 기반 글쓰기 및 콘텐츠 생성' class='anchor' href='#️-ai-writing--content-generation' id='user-content-️-ai-writing--content-generation' />
+도구
+고통의 고통
+악세스
+챗GPT
+Nulis dari nol = 잼 3개 → 메니트 10개
+chatgpt.com
+클로드 AI
+클로드.아이
+발표된 릴리스 없음
+이 프로젝트를 후원해 주세요
+[38] (731,109)<font  />
+	[39] (731,109)<font >ko-fi.com/hackmytask />
+[40] (746,182)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/HackMyTask/packages?repo_name=awesome-ai-money-machine' />
+	[41] (687,182)<font  />
+		[42] (687,181)<font >패키지 />
+게시된 패키지가 없습니다.
+[43] (746,278)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/HackMyTask/awesome-ai-money-machine/graphs/contributors' />
+	[44] (687,278)<font  />
+		[45] (687,278)<font >기고자 />
+	[46] (705,278)<span  />
+		[47] (705,278)<font  />
+			[48] (705,278)<font >1 />
+[49] (683,325)<a class='mr-2' href='https://github.com/HackMyTask' />
+	[50] (683,325)<img  />
+[51] (737,325)<a class='Link--primary no-underline flex-self-center' href='https://github.com/HackMyTask' />
+	[52] (717,325)<strong  />
+		[53] (717,325)<font  />
+			[54] (717,325)<font >HackMyTask />
+	[55] (759,325)<span  />
+		[56] (759,325)<font  />
+			[57] (759,325)<font >HackMyTask />
+
+</current_dom>

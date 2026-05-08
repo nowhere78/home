@@ -1,0 +1,102 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,55)<div  />
+	[3] (455,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,55)<span  />
+	[5] (467,55)<span  />
+[6] (480,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,55)<span  />
+[8] (501,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,55)<div  />
+		[12] (542,55)<span  />
+[13] (929,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (954,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dbest%2Btools%2Bemail%2Boutreach%2Blead%2Bscoring%2Bautomation%2BAPI%2BGoHighLevel%2BActiveCampaign%2B2026&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (127,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (163,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=best+tools+email+outreach+lead+scoring+automation+API+GoHighLevel+ActiveCampaign+2026&sa=X&ved=2ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQs6gLegQIFhAB' />
+	[18] (163,121)<div  />
+		[19] (163,130)<span >짧은 동영상 />
+[20] (204,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=best+tools+email+outreach+lead+scoring+automation+API+GoHighLevel+ActiveCampaign+2026&sa=X&ved=2ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQtKgLegQIFRAB' />
+	[21] (204,121)<div  />
+		[22] (204,130)<span >동영상 />
+[23] (236,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=best+tools+email+outreach+lead+scoring+automation+API+GoHighLevel+ActiveCampaign+2026&sa=X&ved=2ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQtKgLegQIExAB' />
+	[24] (236,121)<div  />
+		[25] (236,130)<span >이미지 />
+[26] (266,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&q=best+tools+email+outreach+lead+scoring+automation+API+GoHighLevel+ActiveCampaign+2026&ved=1t:220175&ictx=111' />
+	[27] (266,121)<div  />
+		[28] (266,130)<span >쇼핑 />
+[29] (292,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&q=best+tools+email+outreach+lead+scoring+automation+API+GoHighLevel+ActiveCampaign+2026&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBECyAJQTzUOvPjCQ-wecHjwefaBcyX3wSBqz1PCOHPn89wifmeRSf9QpXPTURZu8fyT6-lv7siZgrmbnHGZaOZxRoi3BbP5-o-RyJwCTvBRc5JwUN_ZfMnb1JZMxDqqzPXXo9bDZPaeZUUKKYkTPCwTD3UpRPQ&sa=X&ved=2ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQ0pQJegQIFBAB' />
+	[30] (292,121)<div  />
+		[31] (292,130)<span >뉴스 />
+[32] (326,121)<div class='mTpL7c' role='button' />
+	[33] (326,121)<div  />
+		[34] (326,130)<div  />
+			[35] (321,124)<span >더보기 />
+			[36] (336,124)<span  />
+[37] (364,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (364,121)<div  />
+		[39] (364,130)<div  />
+			[40] (360,124)<span >도구 />
+			[41] (371,124)<span  />
+검색결과
+생각 중
+Web results
+[42] (235,661)<a class='zReHs' href='https://www.reform.app/blog/best-email-based-lead-scoring-tools' />
+	[43] (235,681)<h3 >10 Best Tools for Email-Based Lead Scoring 2026 />
+	[44] (208,644)<div  />
+		[45] (208,644)<div  />
+			[46] (127,644)<span  />
+				[47] (127,644)<div  />
+					[48] (127,644)<img  />
+			[49] (219,644)<div  />
+				[50] (219,635)<div  />
+					[51] (219,635)<span >Reform form builder />
+				[52] (219,655)<div  />
+					[53] (219,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.reform.app />
+						[54] (251,655)<span class='ylgVCe ob9lvb' role='text'>› blog › best-email-based-lead-... />
+[55] (307,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (307,654)<span  />
+		[57] (307,655)<span  />
+Compare 10 email lead scoring platforms
+—pricing, scoring methods, and integrations—to choose the right tool for your team's needs.
+누락된 검색어:
+GoHighLevel
+‎| 필수 포함 항목:
+[58] (284,759)<a href='/search?newwindow=1&sca_esv=bab5d0a3aacebeff&sxsrf=ANbL-n5eWXcGoaq1NbD--hqz20r-h4m3mw:1777296102689&q=best+tools+email+outreach+lead+scoring+automation+API+%22GoHighLevel%22+ActiveCampaign+2026&sa=X&ved=2ahUKEwjK6_H2j46UAxWTL9AFHVl5KCAQ5t4CegQIGxAB' />
+	[59] (284,759)<span >GoHighLevel />
+[60] (231,839)<a class='zReHs' href='https://www.reddit.com/r/MarketingAutomation/comments/1qh2sbs/best_marketing_automation_tools_to_use_in_2026/' />
+	[61] (231,859)<h3 >Best marketing automation tools to use in 2026? />
+	[62] (181,822)<div  />
+		[63] (181,822)<div  />
+			[64] (127,822)<span  />
+				[65] (127,822)<div  />
+					[66] (127,822)<img  />
+			[67] (191,822)<div  />
+				[68] (191,813)<div  />
+					[69] (191,813)<span >Reddit · r/MarketingAutomation />
+				[70] (191,833)<div  />
+					[71] (176,833)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>댓글 130개 이상  ·  3개월 전 />
+[72] (252,832)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[73] (252,832)<span  />
+		[74] (252,833)<span  />
+activecampaign
+is best bang for buck for email automation ... HubSpot- Good all around for email, lead scoring, workflows, and CRM integration.
+[75] (137,937)<a class='Zv9Ied' href='https://www.reddit.com/r/MarketingAutomation/comments/1qh2sbs/best_marketing_automation_tools_to_use_in_2026/o0gt2pp/'>답변 135개 />
+·
+인기 답변:
+I see ActiveCampaign is on your radar but increase you are still on the fence about it, It's ...
+[76] (216,990)<div  />
+	[77] (216,990)<span >Sequenzy />
+
+</current_dom>

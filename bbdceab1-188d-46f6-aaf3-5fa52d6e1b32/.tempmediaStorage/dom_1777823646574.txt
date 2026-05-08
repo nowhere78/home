@@ -1,0 +1,340 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[1] (65,85)<button aria-label='마스터 브랜치' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (65,85)<span  />
+		[3] (58,85)<span  />
+			[4] (58,85)<div  />
+				[5] (19,85)<div  />
+				[6] (33,85)<div  />
+					[7] (33,85)<span  />
+						[8] (34,85)<font  />
+							[9] (34,85)<font >주인 />
+[10] (133,85)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/sungcheolkim78/becoming_church/new/master/md_40days' />
+[11] (150,85)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[12] (83,127)<span  />
+	[13] (17,127)<span  />
+	[14] (82,127)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[15] (148,127)<span  />
+		[16] (148,127)<kbd  />
+			[17] (148,127)<span >t />
+				t
+				[18] (148,127)<span >T />
+[19] (83,579)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	day39-교회됨의일꾼-JA1955.md
+	day39-교회됨의일꾼-개역개정판성경.md
+	day40-좋은나무교회됨-ASV.md
+	day40-좋은나무교회됨-JA1955.md
+	day40-좋은나무교회됨-개역개정판성경.md
+	[20] (79,847)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days-item' role='treeitem' />
+		[21] (79,165)<div  />
+			[22] (13,165)<div  />
+			[23] (84,165)<div  />
+				[24] (25,165)<div  />
+					[25] (25,165)<div  />
+				[26] (90,165)<span  />
+					[27] (49,165)<span  />
+						[28] (49,165)<font  />
+							[29] (49,165)<font >야믈_40일 />
+		[30] (79,200)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day1.yaml-item' role='treeitem' />
+			[31] (79,200)<div  />
+				[32] (10,200)<div  />
+					[33] (10,200)<div  />
+						[34] (10,200)<div  />
+				[35] (86,200)<div  />
+					[36] (29,199)<div  />
+					[37] (92,200)<span  />
+						[38] (54,200)<span >day1.yaml />
+		[39] (79,234)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day10.yaml-item' role='treeitem' />
+			[40] (79,234)<div  />
+				[41] (10,234)<div  />
+					[42] (10,234)<div  />
+						[43] (10,234)<div  />
+				[44] (86,234)<div  />
+					[45] (29,233)<div  />
+					[46] (92,234)<span  />
+						[47] (56,234)<span >day10.yaml />
+		[48] (79,268)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day11.yaml-item' role='treeitem' />
+			[49] (79,268)<div  />
+				[50] (10,268)<div  />
+					[51] (10,268)<div  />
+						[52] (10,268)<div  />
+				[53] (86,268)<div  />
+					[54] (29,268)<div  />
+					[55] (92,268)<span  />
+						[56] (56,268)<span >day11.yaml />
+		[57] (79,302)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day12.yaml-item' role='treeitem' />
+			[58] (79,302)<div  />
+				[59] (10,302)<div  />
+					[60] (10,302)<div  />
+						[61] (10,302)<div  />
+				[62] (86,302)<div  />
+					[63] (29,302)<div  />
+					[64] (92,302)<span  />
+						[65] (56,302)<span >day12.yaml />
+		[66] (79,336)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day13.yaml-item' role='treeitem' />
+			[67] (79,336)<div  />
+				[68] (10,336)<div  />
+					[69] (10,336)<div  />
+						[70] (10,336)<div  />
+				[71] (86,336)<div  />
+					[72] (29,336)<div  />
+					[73] (92,336)<span  />
+						[74] (56,336)<span >day13.yaml />
+		[75] (79,370)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day14.yaml-item' role='treeitem' />
+			[76] (79,370)<div  />
+				[77] (10,370)<div  />
+					[78] (10,370)<div  />
+						[79] (10,370)<div  />
+				[80] (86,370)<div  />
+					[81] (29,370)<div  />
+					[82] (92,370)<span  />
+						[83] (56,370)<span >day14.yaml />
+		[84] (79,404)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day15.yaml-item' role='treeitem' />
+			[85] (79,404)<div  />
+				[86] (10,404)<div  />
+					[87] (10,404)<div  />
+						[88] (10,404)<div  />
+				[89] (86,404)<div  />
+					[90] (29,404)<div  />
+					[91] (92,404)<span  />
+						[92] (56,404)<span >day15.yaml />
+		[93] (79,438)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day16.yaml-item' role='treeitem' />
+			[94] (79,438)<div  />
+				[95] (10,438)<div  />
+					[96] (10,438)<div  />
+						[97] (10,438)<div  />
+				[98] (86,438)<div  />
+					[99] (29,438)<div  />
+					[100] (92,438)<span  />
+						[101] (56,438)<span >day16.yaml />
+		[102] (79,472)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day17.yaml-item' role='treeitem' />
+			[103] (79,472)<div  />
+				[104] (10,472)<div  />
+					[105] (10,472)<div  />
+						[106] (10,472)<div  />
+				[107] (86,472)<div  />
+					[108] (29,472)<div  />
+					[109] (92,472)<span  />
+						[110] (56,472)<span >day17.yaml />
+		[111] (79,506)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day18.yaml-item' role='treeitem' />
+			[112] (79,506)<div  />
+				[113] (10,506)<div  />
+					[114] (10,506)<div  />
+						[115] (10,506)<div  />
+				[116] (86,506)<div  />
+					[117] (29,506)<div  />
+					[118] (92,506)<span  />
+						[119] (56,506)<span >day18.yaml />
+		[120] (79,540)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day19.yaml-item' role='treeitem' />
+			[121] (79,540)<div  />
+				[122] (10,540)<div  />
+					[123] (10,540)<div  />
+						[124] (10,540)<div  />
+				[125] (86,540)<div  />
+					[126] (29,540)<div  />
+					[127] (92,540)<span  />
+						[128] (56,540)<span >day19.yaml />
+		[129] (79,574)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day2.yaml-item' role='treeitem' />
+			[130] (79,574)<div  />
+				[131] (10,574)<div  />
+					[132] (10,574)<div  />
+						[133] (10,574)<div  />
+				[134] (86,574)<div  />
+					[135] (29,574)<div  />
+					[136] (92,574)<span  />
+						[137] (54,574)<span >day2.yaml />
+		[138] (79,608)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day20.yaml-item' role='treeitem' />
+			[139] (79,608)<div  />
+				[140] (10,608)<div  />
+					[141] (10,608)<div  />
+						[142] (10,608)<div  />
+				[143] (86,608)<div  />
+					[144] (29,608)<div  />
+					[145] (92,608)<span  />
+						[146] (56,608)<span >day20.yaml />
+		[147] (79,642)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day21.yaml-item' role='treeitem' />
+			[148] (79,642)<div  />
+				[149] (10,642)<div  />
+					[150] (10,642)<div  />
+						[151] (10,642)<div  />
+				[152] (86,642)<div  />
+					[153] (29,642)<div  />
+					[154] (92,642)<span  />
+						[155] (56,642)<span >day21.yaml />
+		[156] (79,676)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day22.yaml-item' role='treeitem' />
+			[157] (79,676)<div  />
+				[158] (10,676)<div  />
+					[159] (10,676)<div  />
+						[160] (10,676)<div  />
+				[161] (86,676)<div  />
+					[162] (29,676)<div  />
+					[163] (92,676)<span  />
+						[164] (56,676)<span >day22.yaml />
+		[165] (79,710)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day23.yaml-item' role='treeitem' />
+			[166] (79,710)<div  />
+				[167] (10,710)<div  />
+					[168] (10,710)<div  />
+						[169] (10,710)<div  />
+				[170] (86,710)<div  />
+					[171] (29,710)<div  />
+					[172] (92,710)<span  />
+						[173] (56,710)<span >day23.yaml />
+		[174] (79,744)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day24.yaml-item' role='treeitem' />
+			[175] (79,744)<div  />
+				[176] (10,744)<div  />
+					[177] (10,744)<div  />
+						[178] (10,744)<div  />
+				[179] (86,744)<div  />
+					[180] (29,744)<div  />
+					[181] (92,744)<span  />
+						[182] (56,744)<span >day24.yaml />
+		[183] (79,779)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day25.yaml-item' role='treeitem' />
+			[184] (79,779)<div  />
+				[185] (10,779)<div  />
+					[186] (10,779)<div  />
+						[187] (10,779)<div  />
+				[188] (86,779)<div  />
+					[189] (29,778)<div  />
+					[190] (92,779)<span  />
+						[191] (56,779)<span >day25.yaml />
+		[192] (79,813)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day26.yaml-item' role='treeitem' />
+			[193] (79,813)<div  />
+				[194] (10,813)<div  />
+					[195] (10,813)<div  />
+						[196] (10,813)<div  />
+				[197] (86,813)<div  />
+					[198] (29,812)<div  />
+					[199] (92,813)<span  />
+						[200] (56,813)<span >day26.yaml />
+		[201] (79,847)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day27.yaml-item' role='treeitem' />
+			[202] (79,847)<div  />
+				[203] (10,847)<div  />
+					[204] (10,847)<div  />
+						[205] (10,847)<div  />
+				[206] (86,847)<div  />
+					[207] (29,847)<div  />
+					[208] (92,847)<span  />
+						[209] (56,847)<span >day27.yaml />
+		[210] (79,881)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day28.yaml-item' role='treeitem' />
+			[211] (79,881)<div  />
+				[212] (10,881)<div  />
+					[213] (10,881)<div  />
+						[214] (10,881)<div  />
+				[215] (86,881)<div  />
+					[216] (29,881)<div  />
+					[217] (92,881)<span  />
+						[218] (56,881)<span >day28.yaml />
+		[219] (79,915)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day29.yaml-item' role='treeitem' />
+			[220] (79,915)<div  />
+				[221] (10,915)<div  />
+					[222] (10,915)<div  />
+						[223] (10,915)<div  />
+				[224] (86,915)<div  />
+					[225] (29,915)<div  />
+					[226] (92,915)<span  />
+						[227] (56,915)<span >day29.yaml />
+		[228] (79,949)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day3.yaml-item' role='treeitem' />
+			[229] (79,949)<div  />
+				[230] (10,949)<div  />
+					[231] (10,949)<div  />
+						[232] (10,949)<div  />
+				[233] (86,949)<div  />
+					[234] (29,949)<div  />
+					[235] (92,949)<span  />
+						[236] (54,949)<span >day3.yaml />
+		[237] (79,983)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='yaml_40days/day30.yaml-item' role='treeitem' />
+			[238] (79,983)<div  />
+				[239] (10,983)<div  />
+					[240] (10,983)<div  />
+						[241] (10,983)<div  />
+				[242] (86,983)<div  />
+					[243] (29,983)<div  />
+					[244] (92,983)<span  />
+						[245] (56,983)<span >day30.yaml />
+[246] (167,500)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[247] (202,23)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master' />
+	[248] (202,23)<font  />
+		[249] (202,23)<font >교회가 되다 />
+/
+[250] (247,23)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/sungcheolkim78/becoming_church/tree/master/md_40days' />
+	[251] (247,23)<font  />
+		[252] (247,23)<font >md_40일 />
+/
+day01-영광과흑암-개역개정판성경.md
+[253] (970,23)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[254] (970,23)<span  />
+		[255] (976,23)<span  />
+			[256] (976,22)<font  />
+				[257] (976,22)<font >맨 위 />
+파일 메타데이터 및 제어
+[258] (200,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[259] (200,71)<span  />
+		[260] (200,71)<div  />
+			[261] (200,71)<font  />
+				[262] (200,71)<font >시사 />
+[263] (235,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[264] (235,71)<span  />
+		[265] (235,71)<div  />
+			[266] (235,71)<font  />
+				[267] (235,71)<font >암호 />
+[268] (268,71)<button class='prc-SegmentedControl-Button-E48xz' />
+	[269] (268,71)<span  />
+		[270] (268,71)<div  />
+			[271] (268,71)<font  />
+				[272] (268,71)<font >탓하다 />
+47줄 (24개 위치) · 3.99KB
+[273] (847,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_rf_' />
+[274] (866,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[275] (891,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/sungcheolkim78/becoming_church/raw/refs/heads/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' />
+	[276] (891,71)<span  />
+		[277] (891,71)<span  />
+			[278] (891,70)<font  />
+				[279] (891,70)<font >날것의 />
+[280] (911,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[281] (925,71)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[282] (943,71)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/sungcheolkim78/becoming_church/edit/master/md_40days/day01-%EC%98%81%EA%B4%91%EA%B3%BC%ED%9D%91%EC%95%94-%EA%B0%9C%EC%97%AD%EA%B0%9C%EC%A0%95%ED%8C%90%EC%84%B1%EA%B2%BD.md' />
+[283] (957,71)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_ru_' />
+[284] (976,71)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+[285] (584,518)<div  />
+	응답 :
+	요약 :
+	성경 버전 : 개역개정판성경
+	창1:3
+	하나님이 돌아시되 빛이 있으라 하시니 빛이 돌아오나이다
+	창1:14
+	하나님이 이르시되 하늘의 궁창에 광명체들이 있어 낮과 밤을 나누게 하고 모두로 가는 조와 계절과 날과 해를 이루게 하라
+	창1:26,28,29
+	하나님이 이르시되 우리의 형상을 따라 우리의 모양대로 우리가 사람을 만들어서 바다의 물고기와 하늘의 새와 땅과 온 땅에 주시는 모든 것을 주시는 것이 됩니다. 하나님이 그들에게 복을 주시고 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 있는 하라, 땅을 정복하라, 바다의 물고기와 하늘의 새와 땅에 움직이는 모든 것을 다스리라 하시니라. 하나님이 들어오시되 내가 온 땅의 씨 맺는 것은 모든 휴가와 씨익한 열매 맺는 모든 나무를 여러분에게 주노니 여러분의 먹을 거리가 되리라
+	창2:19
+	멘트 하나님이 토양으로 목록에 들짐승과 공중의 목록을 작성하는 것을 듣고 무엇이 무엇인지 부르려고 하면 그 사람에게 드라이브를 주는 사람이 택할 뿐입니다.
+	창2:9
+	삽 하나님이 그 땅에서 보기 위해 먹기에 좋은 나무가 나게 하시니 동산 안에는 생명 나무와 선악을 서로 나누는 나무도 있더라
+	창2:17
+	선악을 서로 나누는 나무의 열매를 맺으려면 활동하는 날에는 살아남으십시오.
+	창3:6-7
+	여자가 그 나무를 본즉 먹음직도 하고 보암직도 하고 투명하게 할 만큼 할당 기도 한 나무 인지라 여자가 그 열매를 따먹고 자기와 함께 있는 남편에게도 주매 그도 먹은지라. 그들의 눈이 밝아지는 아져 자기들이 야외에서는 줄을 알고 무화과나무 잎을 뒤섞어 사진으로 삼았더라
+	유1:6
+	또 다른 자기 자신을 나누지 아니하고 자기 처소를 창조한 자들의 큰 날의 미래까지 영원한 혼자일 박으로 흑암에 가두웠으며
+	벧후2:4
+	신이 덩이에 빠진 지옥에 던져서 어두운 구덩이에 두어 위원회 때까지 기다리게 하고
+	창3:17-18
+	아담에게 이르시되 네 아내의 말을 듣고 네게 협력한 나무의 열매를 먹은 것은 즉석에서 땅은 너로 가공을 하기 위해 네 평생에 수고하여 그 산을 먹게 되었습니다. 땅이 네게 덤불과 엉엉 하고 싶어도 당신을 먹는 것은 밭의 고향인즉시
+	왕하6:17
+	기도하여 노래하는 음을 번역하라 원하건대 그의 눈을 열어서 인사하라
+	행26:18
+	눈을 뜨게 하여 어둠에서 빛으로, 연금의 권세에서 하나님께로 돌아가고 싶고 사함과 나를 믿어주게 된 모든 사람들이 모여들 것입니다 하더이다
+	롬1:19-20
+	하나님은 그들 중에 보임이라 하나님께서 그들을 아시는 것을 보았습니다. 창세로부터 그의 보이지 않는 것은 곧 영원 능력과 신성이 그가 만든 신 만물에 있다고 알려졌느니라 그러므로 그들은 핑계하지 아니지니라
+	요12:46
+	나는 빛으로 세상에 오지 않았음을 믿습니다.
+	골1:13
+	그가 우리를 흑암의 권세에서 건져내사 그의 사랑의 아들의 나라로 종족이었으니
+	단2:22
+	그는 깊이고 은밀한 일을 통해 어두운 데에 있는 것을 알고 또 빛이 그와 함께 있도다
+
+</current_dom>

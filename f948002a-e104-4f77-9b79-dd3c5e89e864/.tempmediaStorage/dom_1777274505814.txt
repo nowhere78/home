@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (91,56)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiXz6-8v42UAxUw4MkDHdqEFLcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (387,55)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (596,55)<div  />
+	[3] (593,55)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (593,55)<span  />
+	[5] (618,55)<span  />
+[6] (644,55)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (644,55)<span  />
+[8] (686,55)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (728,55)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (776,55)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (769,55)<div  />
+		[12] (769,55)<span  />
+[13] (858,55)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (908,55)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (958,55)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DQuantConnect%2BAlpha%2BStreams%2B2026%2Bstrategy&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (56,121)<a class='C6AK7c' role='link' />
+	전체
+[17] (115,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6F28TXQDeZjcWyhgKWVRng3np9UA:1777274505132&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOvMeFT5fk4WQLQ2TAxnYhzhlEbCBa8QM83rOTFxgif1i3_7kkkMZqSyfZTWYNj-DXc9gS1yZP_LGKXrAqORuad2M0YDgPRks8pdrMYmqYJR-DBpsJHVwKASzA-eCHuH5sfclJ20BryMxES2QL3I4r1beoYCBw&q=QuantConnect+Alpha+Streams+2026+strategy&sa=X&ved=2ahUKEwiXz6-8v42UAxUw4MkDHdqEFLcQtKgLegQIFhAB' />
+	[18] (115,121)<div  />
+		[19] (115,130)<span >동영상 />
+[20] (174,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6F28TXQDeZjcWyhgKWVRng3np9UA:1777274505132&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOvMeFT5fk4WQLQ2TAxnYhzhlEbCBa8QM83rOTFxgif1i3_7kkkMZqSyfZTWYNj-DXc9gS1yZP_LGKXrAqORuad2M0YDgPRks8pdrMYmqYJR-DBpsJHVwKASzA-eCHuH5sfclJ20BryMxES2QL3I4r1beoYCBw&q=QuantConnect+Alpha+Streams+2026+strategy&ved=1t:220175&ictx=111' />
+	[21] (174,121)<div  />
+		[22] (174,130)<span >쇼핑 />
+[23] (226,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6F28TXQDeZjcWyhgKWVRng3np9UA:1777274505132&q=QuantConnect+Alpha+Streams+2026+strategy&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOvMeFT5fk4WQLQ2TAxnYhzhlEbCBa8QM83rOTFxgif1i3_7kkkMZqSyfZTWYNj-DXc9gS1yZP_LGKXrAqORuad2M0YDgPRks8pdrMYmqYJR-DBpsJHVwKASzA-eCHuH5sfclJ20BryMxES2QL3I4r1beoYCBw&sa=X&ved=2ahUKEwiXz6-8v42UAxUw4MkDHdqEFLcQ0pQJegQIFBAB' />
+	[24] (226,121)<div  />
+		[25] (226,130)<span >뉴스 />
+[26] (284,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6F28TXQDeZjcWyhgKWVRng3np9UA:1777274505132&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOvMeFT5fk4WQLQ2TAxnYhzhlEbCBa8QM83rOTFxgif1i3_7kkkMZqSyfZTWYNj-DXc9gS1yZP_LGKXrAqORuad2M0YDgPRks8pdrMYmqYJR-DBpsJHVwKASzA-eCHuH5sfclJ20BryMxES2QL3I4r1beoYCBw&q=QuantConnect+Alpha+Streams+2026+strategy&sa=X&ved=2ahUKEwiXz6-8v42UAxUw4MkDHdqEFLcQtKgLegQIExAB' />
+	[27] (284,121)<div  />
+		[28] (284,130)<span >이미지 />
+[29] (365,121)<a class='C6AK7c' href='/search?newwindow=1&sca_esv=c28e6a7449b65c90&sxsrf=ANbL-n6F28TXQDeZjcWyhgKWVRng3np9UA:1777274505132&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi22gGbo9sUadM3x_MGrXVgOvMeFT5fk4WQLQ2TAxnYhzhlEbCBa8QM83rOTFxgif1i3_7kkkMZqSyfZTWYNj-DXc9gS1yZP_LGKXrAqORuad2M0YDgPRks8pdrMYmqYJR-DBpsJHVwKASzA-eCHuH5sfclJ20BryMxES2QL3I4r1beoYCBw&q=QuantConnect+Alpha+Streams+2026+strategy&sa=X&ved=2ahUKEwiXz6-8v42UAxUw4MkDHdqEFLcQs6gLegQIEhAB' />
+	[30] (365,121)<div  />
+		[31] (365,130)<span >짧은 동영상 />
+[32] (455,121)<div class='mTpL7c' role='button' />
+	[33] (455,121)<div  />
+		[34] (455,130)<div  />
+			[35] (446,124)<span >더보기 />
+			[36] (475,124)<span  />
+[37] (533,121)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (533,121)<div  />
+		[39] (533,130)<div  />
+			[40] (523,124)<span >도구 />
+			[41] (546,124)<span  />
+검색결과
+생각 중
+Web results
+[42] (220,661)<a class='zReHs' href='https://www.quantconnect.com/forum/discussion/10888/alpha-streams-market/' />
+	[43] (220,681)<h3 >Alpha Streams Market by Jared Broad />
+	[44] (219,644)<div  />
+		[45] (219,644)<div  />
+			[46] (57,644)<span  />
+				[47] (57,644)<div  />
+					[48] (57,644)<img  />
+			[49] (240,644)<div  />
+				[50] (240,635)<div  />
+					[51] (240,635)<span >QuantConnect.com />
+				[52] (240,655)<div  />
+					[53] (240,655)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.quantconnect.com />
+						[54] (325,655)<span class='ylgVCe ob9lvb' role='text'>› forum › discussion › a... />
+[55] (417,654)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (417,654)<span  />
+		[57] (417,655)<span  />
+2021. 3. 10.
+—
+Alpha Market now public
+, investors can license code and deploy algorithms, but deployment restrictions remain due to challenges.
+[58] (322,816)<a class='zReHs' href='https://www.quantconnect.com/research/15928/sortino-portfolio-optimization-with-alpha-streams-algorithms/' />
+	[59] (322,835)<h3 >Sortino Portfolio Optimization with Alpha Streams Algorithms />
+	[60] (221,799)<div  />
+		[61] (221,799)<div  />
+			[62] (57,799)<span  />
+				[63] (57,799)<div  />
+					[64] (57,799)<img  />
+			[65] (242,799)<div  />
+				[66] (242,789)<div  />
+					[67] (242,789)<span >QuantConnect.com />
+				[68] (242,810)<div  />
+					[69] (242,810)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.quantconnect.com />
+						[70] (327,810)<span class='ylgVCe ob9lvb' role='text'>› research › sortino-port... />
+[71] (420,808)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[72] (420,808)<span  />
+		[73] (420,810)<span  />
+2021. 5. 11.
+—
+QuantConnect offers
+Sortino Portfolio Optimization using Alpha Streams algorithms
+for alpha investors to maximize their returns.
+[74] (310,970)<a class='zReHs' href='https://www.hedgeweek.com/quantconnect-increases-access-alpha-streams-market/' />
+	[75] (310,990)<h3 >QuantConnect increases access to Alpha Streams market />
+	[76] (222,953)<div  />
+		[77] (222,953)<div  />
+			[78] (57,953)<span  />
+				[79] (57,953)<div  />
+					[80] (57,953)<img  />
+			[81] (243,953)<div  />
+				[82] (243,944)<div  />
+					[83] (243,944)<span >Hedgeweek />
+				[84] (243,964)<div  />
+					[85] (243,964)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.hedgeweek.com />
+						[86] (323,964)<span class='ylgVCe ob9lvb' role='text'>› quantconnect-increases-... />
+[87] (423,963)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[88] (423,963)<span  />
+		[89] (423,964)<span  />
+
+</current_dom>

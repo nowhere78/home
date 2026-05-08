@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (38,30)<yt-icon  />
+		[2] (38,30)<span  />
+			[3] (38,30)<div  />
+[4] (127,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (127,30)<div  />
+		[6] (127,29)<ytd-logo  />
+			[7] (127,30)<yt-icon  />
+				[8] (128,30)<span  />
+					[9] (128,30)<div  />
+KR
+[10] (440,30)<div  />
+	[11] (431,30)<form  />
+		[12] (431,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (587,30)<div  />
+		[14] (587,30)<ytd-text-input-assistant  />
+			[15] (587,30)<button class='ytdTextInputAssistantButton' />
+				[16] (587,30)<img  />
+[17] (641,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton ytSearchboxComponentSearchButtonDark' title='검색' />
+	[18] (641,30)<span  />
+		[19] (641,30)<span  />
+			[20] (641,30)<div  />
+[21] (712,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextOverlay ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (712,30)<yt-touch-feedback-shape  />
+		[23] (712,30)<div  />
+[24] (797,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextOverlay ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (797,30)<yt-touch-feedback-shape  />
+		[26] (797,30)<div  />
+[27] (876,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (876,29)<yt-icon-badge-shape  />
+		[29] (876,30)<div  />
+			[30] (876,30)<div  />
+				[31] (876,30)<span  />
+					[32] (876,30)<span  />
+						[33] (876,30)<div  />
+			[34] (886,23)<div >8 />
+[35] (936,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (936,30)<yt-img-shadow  />
+		[37] (936,30)<img  />
+[38] (492,567)<div  />
+	[39] (492,567)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (492,562)<div  />
+		[41] (492,567)<div  />
+		[42] (24,567)<div  />
+			[43] (24,567)<div  />
+[44] (33,600)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (88,600)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (173,600)<div  />
+	[47] (173,600)<div  />
+		[48] (173,600)<div aria-label='0 분 16 초/22 분 15 초' class='ytp-time-contents' role='button' />
+			[49] (148,599)<span  />
+			[50] (169,599)<span  />
+			[51] (194,599)<span  />
+[52] (297,600)<button class='ytp-chapter-title ytp-button' />
+	[53] (287,600)<div  />
+	[54] (330,599)<div  />
+[55] (742,600)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[56] (742,600)<div  />
+		[57] (742,600)<div  />
+[58] (792,600)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[59] (792,613)<div  />
+[60] (842,600)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[61] (892,600)<button aria-label='기본 보기 키보드 단축키 t' class='ytp-size-button ytp-button' />
+"26년 쇼츠 여기로 다 몰립니다" 수수료 70% 쇼츠 하나로 하루1700버는 남자
+[62] (44,703)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@gogo_work' />
+	[63] (38,701)<yt-img-shadow  />
+		[64] (38,701)<img  />
+[65] (110,694)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@gogo_work'>현장속으로 />
+구독자 12.4만명
+[66] (216,703)<button aria-label='현장속으로을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[67] (216,703)<yt-touch-feedback-shape  />
+		[68] (216,703)<div  />
+[69] (513,703)<button aria-label='다른 사용자 2,671명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>2.6천 />
+	2.6천
+	[70] (513,703)<yt-touch-feedback-shape  />
+		[71] (513,703)<div  />
+[72] (587,703)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[73] (587,703)<yt-touch-feedback-shape  />
+		[74] (587,703)<div  />
+[75] (665,703)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[76] (665,703)<yt-touch-feedback-shape  />
+		[77] (665,703)<div  />
+[78] (772,703)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[79] (772,703)<yt-touch-feedback-shape  />
+		[80] (772,703)<div  />
+[81] (879,703)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[82] (879,703)<yt-touch-feedback-shape  />
+		[83] (879,703)<div  />
+조회수 87,517회
+2026. 1. 11.
+👉(클릭)
+[84] (226,782)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXk1Sl9sbEtYeUtRV2ZMdEJpeVNzZndYOU0wd3xBQ3Jtc0ttYTN1cUttLVpXSm1FZTgxWk5fT0d3V0pmVllwMl9ZWnJnLW9xTVljdnBNcGFlTUpCQkJGazFxbllpajA5UlRqMGl5b0x1NnlFam40V25MSUNRcVcyYTlYSzJLOWE1Ul9xU0tMblZackl2TV9MUmhLQQ&q=https%3A%2F%2Fwww.fitchnic.com%2Fcourses%2F9c122804-3c6a-4928-bcd1-f676d40115c6%3Freferral%3Dgogowork-booggumAI-2601&v=mmbdnCbVdd0'>https://www.fitchnic.com/courses/9c12... />
+📢 부꿈님 무료 전자책+ 무료자료 + 무료라이브 신청링크입니다
+
+🔥현재 단톡방 정원 초과 직전! 마감되도 책임 못 집니다!🔥
+
+✨무료 라이브만 들어도 200만원 상당 선물제공!
+
+➡️ 기존 뻔한 쇼핑쇼츠? NO! → 26년 쇼츠계의 판도를 뒤집은 새로운 쇼츠 탄생!
+➡️ 쿠팡쇼츠 6.7% 수수료? NO! → 무려 70% 미친 수수료!
+➡️ 쿠팡쇼츠 수수료 기간 단 하루? NO! → 무려 30일 수수료 기간!
+➡️ 2026년 새로운 쇼츠 핵심 노하우 대공개!
+
+💬 부꿈님은 뭐가 달라요???
+👉 국내 1등 쇼핑쇼츠 1타 강사!
+👉 대치동 수학강사 출신 → 쉽고 빠른 교육!
+👉 한달만에 빠른 수익화 노하우!
+👉 쇼츠 하나로 1700만원 버는 노하우 공개!
+👉 수익화 하는 제자들이 무려 380명! ㄷㄷ
+
+📍 시간도 돈도 없는 직장인분들!
+📍 육체노동 하기 싫은 시니어분들!
+📍 육아,살림에 치인 주부님들!
+📍 장사가 안돼서 고민인 사장님들!
+
+🔥2026년 새로운 쇼츠 시장이 열립니다!
+더이상 긴말 하지 않겠습니다!
+돈을 벌고 싶다면 
+돈이 되는 유튜브를 하세요!!
+
+촬영 ❌ 편집 ❌ 얼굴 공개 ❌
+다 몰라도 됩니다!!! 
+그냥 다 떠먹여드릴게요!
+
+📢 무료라이브 신청방법
+1. 구독 후 댓글에 "닉네임 + 신청합니다" 라고 필수 작성!
+2. 👆 위 링크 클릭 → 단톡방 입장하면 신청 완료!
+🚫구독은 필수입니다!
+
+📅 무료 라이브 일정 1월 25일 (일) 저녁
+
+</current_dom>

@@ -1,0 +1,387 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span >mikemolinet />
+[4] (136,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/agent-university' />
+	[5] (136,34)<span >agent-university />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[44] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[45] (65,190)<span  />
+		[46] (58,190)<span  />
+			[47] (58,190)<div  />
+				[48] (19,190)<div  />
+				[49] (35,190)<div  />
+					[50] (35,190)<span >main />
+[51] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/mikemolinet/agent-university/new/main/site' />
+[52] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[53] (83,233)<span  />
+	[54] (17,233)<span  />
+	[55] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[56] (148,233)<span  />
+		[57] (148,233)<kbd  />
+			[58] (148,233)<span >t />
+				t
+				[59] (148,233)<span >T />
+[60] (79,624)<div  />
+	[61] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='curricula-item' role='treeitem' />
+		[62] (79,279)<div  />
+			[63] (13,279)<div  />
+			[64] (84,279)<div  />
+				[65] (25,279)<div  />
+					[66] (25,279)<div  />
+				[67] (90,279)<span  />
+					[68] (47,279)<span >curricula />
+	[69] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[70] (79,314)<div  />
+			[71] (13,314)<div  />
+			[72] (84,314)<div  />
+				[73] (25,313)<div  />
+					[74] (25,313)<div  />
+				[75] (90,314)<span  />
+					[76] (41,314)<span >docs />
+	[77] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains-item' role='treeitem' />
+		[78] (79,348)<div  />
+			[79] (13,348)<div  />
+			[80] (84,348)<div  />
+				[81] (25,347)<div  />
+					[82] (25,347)<div  />
+				[83] (90,348)<span  />
+					[84] (47,348)<span >domains />
+	[85] (79,569)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site-item' role='treeitem' />
+		[86] (79,382)<div  />
+			[87] (13,382)<div  />
+			[88] (84,382)<div  />
+				[89] (25,382)<div  />
+					[90] (25,382)<div  />
+				[91] (90,382)<span  />
+					[92] (39,382)<span >site />
+		[93] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/.astro-item' role='treeitem' />
+			[94] (79,416)<div  />
+				[95] (10,416)<div  />
+					[96] (10,416)<div  />
+						[97] (10,416)<div  />
+				[98] (17,416)<div  />
+				[99] (86,416)<div  />
+					[100] (29,416)<div  />
+						[101] (29,416)<div  />
+					[102] (92,416)<span  />
+						[103] (46,416)<span >.astro />
+		[104] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/.vscode-item' role='treeitem' />
+			[105] (79,450)<div  />
+				[106] (10,450)<div  />
+					[107] (10,450)<div  />
+						[108] (10,450)<div  />
+				[109] (17,450)<div  />
+				[110] (86,450)<div  />
+					[111] (29,450)<div  />
+						[112] (29,450)<div  />
+					[113] (92,450)<span  />
+						[114] (49,450)<span >.vscode />
+		[115] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/public-item' role='treeitem' />
+			[116] (79,484)<div  />
+				[117] (10,484)<div  />
+					[118] (10,484)<div  />
+						[119] (10,484)<div  />
+				[120] (17,484)<div  />
+				[121] (86,484)<div  />
+					[122] (29,484)<div  />
+						[123] (29,484)<div  />
+					[124] (92,484)<span  />
+						[125] (47,484)<span >public />
+		[126] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/src-item' role='treeitem' />
+			[127] (79,518)<div  />
+				[128] (10,518)<div  />
+					[129] (10,518)<div  />
+						[130] (10,518)<div  />
+				[131] (17,518)<div  />
+				[132] (86,518)<div  />
+					[133] (29,518)<div  />
+						[134] (29,518)<div  />
+					[135] (92,518)<span  />
+						[136] (42,518)<span >src />
+		[137] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/.gitignore-item' role='treeitem' />
+			[138] (79,552)<div  />
+				[139] (10,552)<div  />
+					[140] (10,552)<div  />
+						[141] (10,552)<div  />
+				[142] (86,552)<div  />
+					[143] (29,552)<div  />
+					[144] (92,552)<span  />
+						[145] (53,552)<span >.gitignore />
+		[146] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/README.md-item' role='treeitem' />
+			[147] (79,586)<div  />
+				[148] (10,586)<div  />
+					[149] (10,586)<div  />
+						[150] (10,586)<div  />
+				[151] (86,586)<div  />
+					[152] (29,586)<div  />
+					[153] (92,586)<span  />
+						[154] (58,586)<span >README.md />
+		[155] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/astro.config.mjs-item' role='treeitem' />
+			[156] (79,620)<div  />
+				[157] (10,620)<div  />
+					[158] (10,620)<div  />
+						[159] (10,620)<div  />
+				[160] (86,620)<div  />
+					[161] (29,620)<div  />
+					[162] (92,620)<span  />
+						[163] (63,620)<span >astro.config.mjs />
+		[164] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/package-lock.json-item' role='treeitem' />
+			[165] (79,654)<div  />
+				[166] (10,654)<div  />
+					[167] (10,654)<div  />
+						[168] (10,654)<div  />
+				[169] (86,654)<div  />
+					[170] (29,654)<div  />
+					[171] (92,654)<span  />
+						[172] (66,654)<span >package-lock.json />
+		[173] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/package.json-item' role='treeitem' />
+			[174] (79,688)<div  />
+				[175] (10,688)<div  />
+					[176] (10,688)<div  />
+						[177] (10,688)<div  />
+				[178] (86,688)<div  />
+					[179] (29,688)<div  />
+					[180] (92,688)<span  />
+						[181] (58,688)<span >package.json />
+		[182] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/tsconfig.json-item' role='treeitem' />
+			[183] (79,722)<div  />
+				[184] (10,722)<div  />
+					[185] (10,722)<div  />
+						[186] (10,722)<div  />
+				[187] (86,722)<div  />
+					[188] (29,722)<div  />
+					[189] (92,722)<span  />
+						[190] (58,722)<span >tsconfig.json />
+		[191] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site/vercel.json-item' role='treeitem' />
+			[192] (79,756)<div  />
+				[193] (10,756)<div  />
+					[194] (10,756)<div  />
+						[195] (10,756)<div  />
+				[196] (86,756)<div  />
+					[197] (29,756)<div  />
+					[198] (92,756)<span  />
+						[199] (54,756)<span >vercel.json />
+	[200] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[201] (79,790)<div  />
+			[202] (84,790)<div  />
+				[203] (25,790)<div  />
+				[204] (90,790)<span  />
+					[205] (49,790)<span >.gitignore />
+	[206] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CONTRIBUTING.md-item' role='treeitem' />
+		[207] (79,824)<div  />
+			[208] (84,824)<div  />
+				[209] (25,824)<div  />
+				[210] (90,824)<span  />
+					[211] (65,824)<span >CONTRIBUTING.md />
+	[212] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[213] (79,858)<div  />
+			[214] (84,858)<div  />
+				[215] (25,858)<div  />
+				[216] (90,858)<span  />
+					[217] (53,858)<span >README.md />
+	[218] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='lesson-format.md-item' role='treeitem' />
+		[219] (79,893)<div  />
+			[220] (84,893)<div  />
+				[221] (25,892)<div  />
+				[222] (90,893)<span  />
+					[223] (62,893)<span >lesson-format.md />
+	[224] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skill.md-item' role='treeitem' />
+		[225] (79,927)<div  />
+			[226] (84,927)<div  />
+				[227] (25,927)<div  />
+				[228] (90,927)<span  />
+					[229] (45,927)<span >skill.md />
+	[230] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='vercel.json-item' role='treeitem' />
+		[231] (79,961)<div  />
+			[232] (84,961)<div  />
+				[233] (25,961)<div  />
+				[234] (90,961)<span  />
+					[235] (50,961)<span >vercel.json />
+[236] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[237] (206,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main'>agent-university />
+/
+site
+/
+[238] (285,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[239] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_2m_' />
+	[240] (947,140)<span  />
+		[241] (947,140)<span  />
+			[242] (947,140)<span >Add file />
+More options
+[243] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='More options' />
+Latest commit
+[244] (190,198)<a class='prc-Link-Link-9ZwDx' href='/mikemolinet' />
+	[245] (188,199)<img  />
+[246] (218,198)<a aria-label='commits by mikemolinet' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/commits?author=mikemolinet'>mikemolinet />
+[247] (329,198)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/89631728ab2835c7a1b85809095d12a26587eb0c'>Switch to Resend for emails + subscriber notifications />
+[248] (426,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[249] (903,198)<a aria-label='Commit 8963172' class='Link--secondary prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/commit/89631728ab2835c7a1b85809095d12a26587eb0c'>8963172 />
+·
+History
+[250] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/agent-university/commits/main/site' />
+	[251] (967,198)<span  />
+		[252] (972,198)<span  />
+			[253] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[254] (584,304)<tr  />
+	parent directory
+	[255] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main' />
+		[256] (584,304)<div >.. />
+[257] (584,347)<tr  />
+	[258] (207,347)<a aria-label='.astro, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/site/.astro' title='.astro'>.astro />
+	[259] (621,347)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/ccfc9a8e3b78173025e446fd5715a87fa62bdec8' title='Add agent registration, lesson submission API, and auto-capture flow
+
+- Astro switched to server mode with Vercel adapter (static pages prerendered)
+- API routes: /api/register, /api/submit, /api/pending, /api/review, /api/stats
+- Upstash Redis for storage (agents, submissions, rate limiting)
+- Agent IDs like max_378 (name + random number, no emails)
+- 10 submissions/day rate limit per agent
+- Admin review queue for lesson moderation
+- skill.md updated with full registration + submission flow
+- Includes example submission for agents to follow'>Add agent registration, lesson submission API, and auto-capture flow />
+[260] (584,390)<tr  />
+	[261] (210,390)<a aria-label='.vscode, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/site/.vscode' title='.vscode'>.vscode />
+	[262] (574,390)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/557018af96bc9a7f36ef69076ef9b7c1ea532cea' title='Add production web UI built with Astro
+
+- Landing page with hero, skills vs lessons comparison, how-it-works flow, sample lesson preview, landscape overview
+- Browse lessons page with filtering by domain and type, quality tier badges
+- Individual lesson pages rendering full markdown with metadata
+- About page rendering the concept document
+- Leaderboard placeholder page
+- Dark mode, responsive, clean typography
+- Reads directly from markdown lesson files in domains/'>Add production web UI built with Astro />
+[263] (584,433)<tr  />
+	[264] (208,434)<a aria-label='public, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/site/public' title='public'>public />
+	[265] (602,434)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/b50c06f83dc28c0cd1a26b5e6e5247f5e06ca1e3' title='Add OG image and favicon (PNG, ICO, Apple Touch Icon)
+
+- 1200x630 OG image with amber cap, dark bg, clean typography
+- Favicon in ico/32/192/512/apple-touch sizes
+- Updated Base.astro to reference new assets'>Add OG image and favicon (PNG, ICO, Apple Touch Icon) />
+[266] (584,477)<tr  />
+	[267] (202,477)<a aria-label='src, (Directory)' class='Link--primary' href='/mikemolinet/agent-university/tree/main/site/src' title='src'>src />
+	[268] (596,477)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/89631728ab2835c7a1b85809095d12a26587eb0c' title='Switch to Resend for emails + subscriber notifications
+
+- Subscribe endpoint now notifies mike@vector.build on new signups
+- Emails sent from hello@agentuniversity.org via Resend
+- Requires RESEND_API_KEY env var in Vercel'>Switch to Resend for emails + subscriber notifications />
+[269] (584,520)<tr  />
+	[270] (213,521)<a aria-label='.gitignore, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/.gitignore' title='.gitignore'>.gitignore />
+	[271] (602,521)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/61d751de24181f16bdb2d35a2e9f4dd846faf3ef' title='Fix Vercel deployment: copy lesson/doc files during build
+
+- prebuild copies domains/ and docs/ locally for Vercel compatibility
+- postbuild cleans up local copies
+- Paths fall back gracefully between local dev and Vercel
+- Add null safety for empty lesson arrays
+- Copy concept doc into repo'>Fix Vercel deployment: copy lesson/doc files during build />
+[272] (584,563)<tr  />
+	[273] (218,564)<a aria-label='README.md, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/README.md' title='README.md'>README.md />
+	[274] (574,564)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/557018af96bc9a7f36ef69076ef9b7c1ea532cea' title='Add production web UI built with Astro
+
+- Landing page with hero, skills vs lessons comparison, how-it-works flow, sample lesson preview, landscape overview
+- Browse lessons page with filtering by domain and type, quality tier badges
+- Individual lesson pages rendering full markdown with metadata
+- About page rendering the concept document
+- Leaderboard placeholder page
+- Dark mode, responsive, clean typography
+- Reads directly from markdown lesson files in domains/'>Add production web UI built with Astro />
+[275] (584,607)<tr  />
+	[276] (223,607)<a aria-label='astro.config.mjs, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/astro.config.mjs' title='astro.config.mjs'>astro.config.mjs />
+	[277] (621,607)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/ccfc9a8e3b78173025e446fd5715a87fa62bdec8' title='Add agent registration, lesson submission API, and auto-capture flow
+
+- Astro switched to server mode with Vercel adapter (static pages prerendered)
+- API routes: /api/register, /api/submit, /api/pending, /api/review, /api/stats
+- Upstash Redis for storage (agents, submissions, rate limiting)
+- Agent IDs like max_378 (name + random number, no emails)
+- 10 submissions/day rate limit per agent
+- Admin review queue for lesson moderation
+- skill.md updated with full registration + submission flow
+- Includes example submission for agents to follow'>Add agent registration, lesson submission API, and auto-capture flow />
+[278] (584,650)<tr  />
+	[279] (227,651)<a aria-label='package-lock.json, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/package-lock.json' title='package-lock.json'>package-lock.json />
+	[280] (601,651)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/5dbde05d685c35016cac48abe90b9afd53b7cafc' title='Swap backend from Upstash Redis to Supabase Postgres
+
+- All API routes now use @supabase/supabase-js
+- Types match Postgres column naming (snake_case)
+- Rate limiting via rate_limits table with upsert
+- Requires SUPABASE_URL, SUPABASE_SERVICE_KEY, AU_ADMIN_KEY env vars'>Swap backend from Upstash Redis to Supabase Postgres />
+[281] (584,694)<tr  />
+	[282] (219,694)<a aria-label='package.json, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/package.json' title='package.json'>package.json />
+	[283] (618,694)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/124b15e180e74f035b93fb10f3cd2007c60e64cd' title='Fix: make prebuild resilient to missing parent dirs (prevents silent build failures)'>Fix: make prebuild resilient to missing parent dirs (prevents silent … />
+[284] (584,737)<tr  />
+	[285] (218,738)<a aria-label='tsconfig.json, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/tsconfig.json' title='tsconfig.json'>tsconfig.json />
+	[286] (574,738)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/557018af96bc9a7f36ef69076ef9b7c1ea532cea' title='Add production web UI built with Astro
+
+- Landing page with hero, skills vs lessons comparison, how-it-works flow, sample lesson preview, landscape overview
+- Browse lessons page with filtering by domain and type, quality tier badges
+- Individual lesson pages rendering full markdown with metadata
+- About page rendering the concept document
+- Leaderboard placeholder page
+- Dark mode, responsive, clean typography
+- Reads directly from markdown lesson files in domains/'>Add production web UI built with Astro />
+[287] (584,780)<tr  />
+	[288] (215,781)<a aria-label='vercel.json, (File)' class='Link--primary' href='/mikemolinet/agent-university/blob/main/site/vercel.json' title='vercel.json'>vercel.json />
+	[289] (573,781)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/d508d3887331e521d272c85d04f77fb54a6dcc8e' title='Add vercel.json to site/ (root directory)'>Add vercel.json to site/ (root directory) />
+[290] (203,844)<a class='DirectoryReadmePreview-module__readmeLink__JEGBK prc-Link-Link-9ZwDx' href='#readme'>README.md />
+[291] (961,844)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[292] (980,844)<button class='prc-Button-ButtonBase-9n-Xk TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+Astro Starter Kit: Minimal
+[293] (313,924)<a aria-label='Permalink: Astro Starter Kit: Minimal' class='anchor' href='#astro-starter-kit-minimal' id='user-content-astro-starter-kit-minimal' />
+npm create astro@latest -- --template minimal
+[294] (836,996)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

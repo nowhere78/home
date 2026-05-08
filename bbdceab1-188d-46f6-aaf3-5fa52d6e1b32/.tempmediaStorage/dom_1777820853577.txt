@@ -1,0 +1,333 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+	[3] (75,34)<span  />
+		[4] (75,33)<font  />
+			[5] (75,33)<font >마이크몰리넷 />
+[6] (120,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/clawbar' />
+	[7] (120,34)<span  />
+		[8] (120,33)<font  />
+			[9] (120,33)<font >클로바 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/clawbar/pulse' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (214,139)<a class='d-block overflow-x-hidden color-fg-default' href='/mikemolinet/clawbar' />
+	[64] (214,138)<font  />
+		[65] (214,138)<font >클로바 />
+공공의
+[66] (650,138)<div  />
+	[67] (650,138)<button aria-label='시청하기: mikemolinet/clawbar 참여하기' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_h_' />
+		[68] (645,138)<span  />
+			[69] (644,138)<span  />
+				[70] (644,137)<font  />
+					[71] (644,137)<font >보다 />
+			0
+			(
+			0
+			)
+[72] (705,139)<a class='btn-sm btn BtnGroup-item' href='/mikemolinet/clawbar/fork' id='fork-button' />
+	[73] (706,139)<font  />
+		[74] (706,141)<font >포크 />
+	[75] (719,138)<span  />
+		[76] (719,138)<font  />
+			[77] (719,138)<font >0 />
+[78] (739,139)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1160496031' />
+	[79] (739,138)<summary aria-label='이 저장소의 포크를 확인하세요' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[80] (776,138)<button aria-label='이 저장소에 별표를 눌러주세요 (0)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[81] (776,138)<span  />
+		[82] (776,138)<font  />
+			[83] (776,138)<font >별 />
+	[84] (787,138)<span  />
+		[85] (787,138)<font  />
+			[86] (787,138)<font >0 />
+[87] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1160496031-unstarred-button' />
+마이크몰리넷/클로바
+[88] (209,216)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[89] (209,216)<span  />
+		[90] (203,216)<span  />
+			[91] (203,216)<div  />
+				[92] (194,216)<div  />
+				[93] (208,216)<div  />
+					[94] (208,216)<span  />
+						[95] (209,216)<font  />
+							[96] (209,216)<font >기본 />
+[97] (262,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/clawbar/branches' />
+	[98] (262,216)<span  />
+		[99] (268,216)<span  />
+			[100] (268,216)<span  />
+				[101] (257,216)<strong  />
+					[102] (256,216)<font  />
+						[103] (256,216)<font >1 />
+				[104] (271,216)<font  />
+					[105] (271,216)<font >번 지점 />
+[106] (309,216)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/mikemolinet/clawbar/tags' />
+	[107] (309,216)<span  />
+		[108] (316,216)<span  />
+			[109] (316,216)<span  />
+				[110] (309,216)<strong  />
+					[111] (308,216)<font  />
+						[112] (308,216)<font >5개의 />
+				[113] (325,216)<font  />
+					[114] (325,216)<font >태그 />
+[115] (481,216)<span  />
+	[116] (431,216)<span  />
+	[117] (480,216)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[118] (531,216)<span  />
+		[119] (531,216)<kbd  />
+			[120] (531,216)<span >t />
+				t
+				[121] (531,216)<span >T />
+파일 추가
+[122] (572,216)<button aria-label='파일 추가' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[123] (572,216)<span  />
+		[124] (572,216)<span  />
+			[125] (572,216)<span  />
+				[126] (566,216)<font  />
+					[127] (566,216)<font >파일 추가 />
+[128] (628,216)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[129] (628,216)<span  />
+		[130] (628,216)<span  />
+			[131] (628,216)<font  />
+				[132] (628,216)<font >암호 />
+폴더와 파일
+최신 커밋
+[133] (198,278)<a class='prc-Link-Link-9ZwDx' href='/mikemolinet' />
+	[134] (196,279)<img  />
+[135] (225,278)<a aria-label='mikemolinet의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/mikemolinet/clawbar/commits?author=mikemolinet' />
+	[136] (225,278)<font  />
+		[137] (225,278)<font >마이크몰리넷 />
+[138] (333,278)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/4776d789c09c39a90369674b0395ee864d03f7ea' />
+	[139] (333,278)<font  />
+		[140] (333,278)<font >ClawBar/ 하위 폴더에서 중복된 스크린샷을 제거합니다. />
+[141] (558,278)<a aria-label='커밋 4776d78' class='Link--secondary prc-Link-Link-9ZwDx' href='/mikemolinet/clawbar/commit/4776d789c09c39a90369674b0395ee864d03f7ea' />
+	[142] (558,278)<font  />
+		[143] (558,278)<font >4776d78 />
+·
+3개월 전
+역사
+[144] (625,278)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/clawbar/commits/main/' />
+	[145] (625,278)<span  />
+		[146] (630,278)<span  />
+			[147] (630,278)<span  />
+				[148] (630,278)<font  />
+					[149] (630,278)<font >25개 커밋 />
+[150] (419,328)<tr  />
+	[151] (216,328)<a aria-label='클로바(ClawBar), (디렉토리)' class='Link--primary' href='/mikemolinet/clawbar/tree/main/ClawBar' title='클로바' />
+		[152] (216,328)<font  />
+			[153] (216,328)<font >클로바 />
+	[154] (464,328)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/4776d789c09c39a90369674b0395ee864d03f7ea' title='ClawBar/ 하위 폴더에서 중복된 스크린샷을 제거합니다.' />
+		[155] (464,328)<font  />
+			[156] (464,328)<font >ClawBar/ 하위 폴더에서 중복된 스크린샷을 제거합니다. />
+	3개월 전
+[157] (419,371)<tr  />
+	[158] (212,371)<a aria-label='라이선스, (파일)' class='Link--primary' href='/mikemolinet/clawbar/blob/main/LICENSE' title='특허' />
+		[159] (212,371)<font  />
+			[160] (212,371)<font >특허 />
+	[161] (422,371)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/8a36f27926af37b2345634809c46dde04812346f' title='MIT 라이선스를 추가하세요' />
+		[162] (422,371)<font  />
+			[163] (422,371)<font >MIT 라이선스를 추가하세요 />
+	3개월 전
+[164] (419,414)<tr  />
+	[165] (226,415)<a aria-label='README.md, (파일)' class='Link--primary' href='/mikemolinet/clawbar/blob/main/README.md' title='README.md' />
+		[166] (226,415)<font  />
+			[167] (226,415)<font >README.md />
+	[168] (464,415)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/95a66fda591b7d19ad952270cdc0831e77fa4993' title='README 파일과 스크린샷을 저장소 루트에 추가하세요.' />
+		[169] (464,415)<font  />
+			[170] (464,415)<font >README 파일과 스크린샷을 저장소 루트에 추가하세요. />
+	3개월 전
+[171] (419,458)<tr  />
+	[172] (220,458)<a aria-label='SPEC.md, (파일)' class='Link--primary' href='/mikemolinet/clawbar/blob/main/SPEC.md' title='SPEC.md' />
+		[173] (220,458)<font  />
+			[174] (220,458)<font >SPEC.md />
+	[175] (487,458)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/26cd1c72ec8c5d8fead574f08cccf3479cb86803' title='ClawBar v1 — OpenClaw 및 Claude 사용량 추적을 위한 macOS 메뉴 막대 앱 - WebSocket을 통한 실시간 OpenClaw 컨텍스트 모니터링 (Ed25519 인증) - OAuth API를 통한 Claude 사용량 추적 (세션, 주간, 초과 사용량) - 토큰 사용량 추적 (오늘 및 30일, 입력/출력 분할) - 듀얼 바 메뉴 막대 아이콘 (흑백 템플릿) - 모든 세션을 표시하는 플로팅 패널을 통한 멀티 세션 지원 - 절전/절전 해제 처리, 설정 파일 감시 - 외부 종속성 없음 (순수 Apple 프레임워크 사용) - Swift 6, macOS 14 이상 지원' />
+		[176] (487,458)<font  />
+			[177] (487,458)<font >ClawBar v1 — OpenClaw 및 Claude 사용을 위한 macOS 메뉴 막대 앱 />
+	3개월 전
+[178] (419,501)<tr  />
+	[179] (222,502)<a aria-label='TODO.md, (파일)' class='Link--primary' href='/mikemolinet/clawbar/blob/main/TODO.md' title='TODO.md' />
+		[180] (222,502)<font  />
+			[181] (222,502)<font >TODO.md />
+	[182] (457,502)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/f02069f939a244a7284470c7de2cf5b39e174f4a' title='향후 다듬기 작업을 위해 TODO 항목을 추가합니다.' />
+		[183] (457,502)<font  />
+			[184] (457,502)<font >향후 다듬기 작업을 위해 TODO 항목을 추가합니다. />
+	3개월 전
+[185] (419,544)<tr  />
+	[186] (226,545)<a aria-label='screenshot.png, (파일)' class='Link--primary' href='/mikemolinet/clawbar/blob/main/screenshot.png' title='스크린샷.png' />
+		[187] (226,545)<font  />
+			[188] (226,545)<font >스크린샷.png />
+	[189] (465,545)<a class='Link--secondary' href='/mikemolinet/clawbar/commit/b313af96d48e063236fe2606186afdd25218564b' title='업데이트된 스크린샷 - 정상적인 연결 상태를 보여줍니다.' />
+		[190] (465,545)<font  />
+			[191] (465,545)<font >업데이트된 스크린샷 - 정상적인 연결 상태를 보여줍니다. />
+	3개월 전
+저장소 파일 탐색
+[192] (213,611)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[193] (196,611)<span  />
+	[194] (219,611)<span  />
+		[195] (219,611)<font  />
+			[196] (219,611)<font >README />
+[197] (273,611)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[198] (250,611)<span  />
+	[199] (279,611)<span  />
+		[200] (279,611)<font  />
+			[201] (279,611)<font >MIT 라이선스 />
+[202] (620,610)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[203] (641,610)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+🦞 클로바
+[204] (193,717)<a aria-label='고유 링크: 🦞 클로바' class='anchor' href='#-clawbar' id='user-content--clawbar' />
+[205] (400,778)<a href='https://github.com/openclaw/openclaw' />
+	[206] (400,778)<font  />
+		[207] (400,778)<font >OpenClaw />
+및
+[208] (444,778)<a href='https://claude.ai' />
+	[209] (444,778)<font  />
+		[210] (444,778)<font >Claude />
+Monitor의 상황별 창, 사용량 제한 및 토큰 소비량을 모두 메뉴 막대에서 확인할 수
+있는 메뉴 막대 도우미입니다 .
+[211] (376,848)<a href='https://camo.githubusercontent.com/4f0613ca97354d1cc02523df07ddc619a6bcf73da26262ebe29b81b9b7d8564d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d31342532422d626c75653f7374796c653d666c61742d737175617265' />
+	[212] (376,844)<img  />
+[213] (414,848)<a href='https://camo.githubusercontent.com/711915c2c1feb830677eb065044e55ba04580f3d3d7470b5a7e1a59a27f09493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d362d6f72616e67653f7374796c653d666c61742d737175617265' />
+	[214] (414,844)<img  />
+[215] (456,848)<a href='https://camo.githubusercontent.com/db7a2c31a1f34e82c7e3d51a64b105299cee7185b496cb491a1caddd22d3c847/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646570656e64656e636965732d302d677265656e3f7374796c653d666c61742d737175617265' />
+	[216] (456,844)<img  />
+에 대한
+설명, 웹사이트 또는 주제가 제공되지 않았습니다.
+자원
+[217] (699,320)<a class='Link--muted' href='#readme-ov-file' />
+	[218] (705,320)<font  />
+		[219] (705,320)<font >읽어보세요 />
+특허
+[220] (703,351)<a class='Link--muted' href='#MIT-1-ov-file' />
+	[221] (709,351)<font  />
+		[222] (709,351)<font >MIT 라이선스 />
+[223] (689,381)<a class='Link Link--muted' href='/mikemolinet/clawbar/activity' />
+	[224] (696,381)<span  />
+		[225] (696,381)<font  />
+			[226] (696,381)<font >활동 />
+별들
+[227] (693,412)<a class='Link Link--muted' href='/mikemolinet/clawbar/stargazers' />
+	[228] (700,412)<font  />
+		[229] (694,412)<font >별 />
+		[230] (705,412)<strong  />
+			[231] (705,412)<font >0 개 />
+감시자들
+[232] (703,443)<a class='Link Link--muted' href='/mikemolinet/clawbar/watchers' />
+	[233] (698,443)<strong  />
+		[234] (698,443)<font  />
+			[235] (698,443)<font >0명이 />
+	[236] (719,443)<font  />
+		[237] (719,443)<font >시청 중 />
+포크스
+[238] (696,474)<a class='Link Link--muted' href='/mikemolinet/clawbar/forks' />
+	[239] (704,474)<font  />
+		[240] (697,474)<font >포크 />
+		[241] (711,474)<strong  />
+			[242] (711,474)<font >0 개 />
+[243] (696,504)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmikemolinet%2Fclawbar&report=mikemolinet+%28user%29' />
+	[244] (696,504)<font  />
+		[245] (696,504)<font >보고서 저장소 />
+[246] (693,562)<a class='Link--primary no-underline Link' href='/mikemolinet/clawbar/releases' />
+	[247] (688,562)<font  />
+		[248] (688,562)<font >릴리스 />
+	[249] (706,564)<span  />
+		[250] (706,564)<font  />
+			[251] (706,564)<font >5 />
+[252] (746,613)<a class='Link--primary d-flex no-underline' href='/mikemolinet/clawbar/releases/tag/v1.3.0' />
+	[253] (719,613)<div  />
+		[254] (719,604)<div  />
+			[255] (708,604)<span  />
+				[256] (708,604)<font  />
+					[257] (708,604)<font >클로바 v1.3.0 />
+			[258] (741,604)<span  />
+				[259] (741,603)<font  />
+					[260] (741,603)<font >최신 />
+		[261] (719,624)<div  />
+			[262] (702,624)<relative-time  />
+				[263] (702,624)<font  />
+					[264] (702,624)<font >2월 19일에 />
+[265] (695,662)<a class='Link' href='/mikemolinet/clawbar/releases' />
+	[266] (695,662)<font  />
+		[267] (695,662)<font >+ 4개 릴리스 />
+[268] (746,721)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/mikemolinet/packages?repo_name=clawbar' />
+	[269] (687,721)<font  />
+		[270] (687,720)<font >패키지 />
+게시된 패키지가 없습니다.
+[271] (746,817)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/mikemolinet/clawbar/graphs/contributors' />
+	[272] (687,817)<font  />
+		[273] (687,816)<font >기고자 />
+	[274] (705,817)<span  />
+		[275] (705,817)<font  />
+			[276] (705,817)<font >2 />
+[277] (683,863)<a class='mr-2' href='https://github.com/mikemolinet' />
+	[278] (683,863)<img  />
+[279] (716,863)<a class='Link--primary no-underline flex-self-center' href='https://github.com/mikemolinet' />
+	[280] (716,863)<strong  />
+		[281] (716,863)<font  />
+			[282] (716,863)<font >마이크몰리넷 />
+[283] (683,906)<a class='mr-2' href='https://github.com/mmolinet0317' />
+	[284] (683,906)<img  />
+[285] (713,906)<a class='Link--primary no-underline flex-self-center' href='https://github.com/mmolinet0317' />
+	[286] (713,906)<strong  />
+		[287] (713,906)<font  />
+			[288] (713,906)<font >밀리넷0317 />
+언어
+
+</current_dom>

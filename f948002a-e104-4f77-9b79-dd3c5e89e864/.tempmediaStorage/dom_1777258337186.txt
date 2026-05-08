@@ -1,0 +1,228 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (161,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/Sumersingpatil2694' />
+	[3] (161,34)<span  />
+		[4] (161,33)<font  />
+			[5] (161,33)<font >수머싱파틸2694 />
+[6] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[7] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (740,34)<span  />
+[11] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (967,34)<img  />
+사용자 탐색
+[17] (69,81)<a class='prc-components-UnderlineItem-7fP-n' href='/Sumersingpatil2694' />
+	[18] (33,81)<span  />
+	[19] (81,81)<span  />
+		[20] (81,81)<font  />
+			[21] (81,81)<font >개요 />
+[22] (205,81)<a class='prc-components-UnderlineItem-7fP-n' href='/Sumersingpatil2694?tab=repositories' />
+	[23] (146,81)<span  />
+	[24] (203,81)<span  />
+		[25] (203,81)<font  />
+			[26] (203,81)<font >저장소 />
+	[27] (263,81)<span  />
+		[28] (263,81)<span  />
+			[29] (263,81)<font  />
+				[30] (263,81)<font >6 />
+		(
+		6
+		)
+[31] (338,81)<a class='prc-components-UnderlineItem-7fP-n' href='/Sumersingpatil2694?tab=projects' />
+	[32] (307,81)<span  />
+	[33] (351,81)<span  />
+		[34] (351,81)<font  />
+			[35] (351,81)<font >프로젝트 />
+[36] (446,81)<a class='prc-components-UnderlineItem-7fP-n' href='/Sumersingpatil2694?tab=packages' />
+	[37] (411,81)<span  />
+	[38] (458,81)<span  />
+		[39] (458,81)<font  />
+			[40] (458,81)<font >패키지 />
+[41] (559,81)<a class='prc-components-UnderlineItem-7fP-n' href='/Sumersingpatil2694?tab=stars' />
+	[42] (522,81)<span  />
+	[43] (555,81)<span  />
+		[44] (555,81)<font  />
+			[45] (555,81)<font >별들 />
+	[46] (592,81)<span  />
+		[47] (592,81)<span  />
+			[48] (592,81)<font  />
+				[49] (592,81)<font >11 />
+		(
+		11
+		)
+[50] (159,284)<a class='d-block' href='https://avatars.githubusercontent.com/u/121796367?v=4' />
+	[51] (159,284)<img  />
+수머싱 파틸
+수머싱파틸2694
+[52] (159,528)<input aria-label='Sumersingpatil2694를 팔로우하세요' class='btn btn-block' title='Sumersingpatil2694를 팔로우하세요' />
+AI 전공 졸업생 | Python • SQL • 머신러닝 | 머신러닝 및 데이터 분석 프로젝트 경험 보유 | 데이터 과학 및 AI 분야 채용 기회에 관심 있음 | 신입 채용 기회 모두 환영
+[53] (79,717)<a class='Link--secondary no-underline no-wrap' href='https://github.com/Sumersingpatil2694?tab=followers' />
+	[54] (89,717)<font  />
+		[55] (68,717)<font >팔로워 />
+		[56] (111,717)<span  />
+			[57] (111,717)<font >1.1천명 />
+·
+[58] (164,717)<a class='Link--secondary no-underline no-wrap' href='https://github.com/Sumersingpatil2694?tab=following' />
+	[59] (164,717)<font >팔로잉 />
+[60] (210,717)<a class='Link--secondary no-underline no-wrap' href='https://github.com/Sumersingpatil2694?tab=following' />
+	[61] (210,717)<span  />
+		[62] (210,717)<font >1.5천명 />
+GH 라이소니 경영대학원, 잘가온
+인도
+[63] (117,822)<a class='Link--primary wb-break-all' href='https://www.linkedin.com/in/sumersing-patil-ai' />
+	[64] (117,822)<font  />
+		[65] (117,822)<font >in/sumersing-patil-ai />
+[66] (92,879)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-e2a61e4c-e847-4c35-9d3a-aa69c4372a4d' />
+	[67] (92,879)<span  />
+		[68] (92,879)<span  />
+			[69] (92,879)<font  />
+				[70] (92,879)<font >사용자 차단 또는 신고 />
+[71] (380,176)<a class='no-underline Link--primary' href='/Sumersingpatil2694/Sumersingpatil2694' />
+	[72] (380,176)<font  />
+		[73] (380,176)<font >수머싱파틸2694 />
+/
+README.md
+[74] (642,235)<a href='https://camo.githubusercontent.com/191163a199b7d50512317729ade42714289d1eb40c01f5a14310457f104071ee/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3238266475726174696f6e3d323830302670617573653d3230303026636f6c6f723d4137384246412663656e7465723d74727565267643656e7465723d747275652677696474683d383030266c696e65733d48656c6c6f212b2546302539462539312538422b49276d2b53756d657273696e672b506174696c3b41492532464d4c2b446576656c6f7065722b2537432b446174612b416e616c797374' />
+	[75] (642,222)<img  />
+[76] (580,262)<a href='https://camo.githubusercontent.com/6347447e61a74fc384f9b1dfb81ee92a89fe8aa395cd0f6723b02ea63d068d37/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53756d657273696e67706174696c32363934266c6162656c3d50726f66696c65253230766965777326636f6c6f723d626c756576696f6c6574267374796c653d666c6174' />
+	[77] (580,257)<img  />
+[78] (707,262)<a href='https://github.com/Sumersingpatil2694?tab=followers' />
+	[79] (707,257)<img  />
+👨‍💻 나에 대하여
+[80] (320,340)<a aria-label='고유 링크: 👨‍💻 소개' class='anchor' href='#‍-about-me' id='user-content-‍-about-me' />
+[81] (642,551)<pre scrollable='true'>class
+Sumersing_patil
+:
+def
+__init__
+(
+self
+):
+self
+.
+name
+=
+"Sumersing Patil"
+self
+.
+role
+=
+"Python Developer | AI/ML Developer & Data Scientist"
+self
+.
+location
+=
+"Pune, India 🇮🇳"
+self
+.
+education
+=
+"B.Tech in Artificial Intelligence, G H Raisoni Institute of Business Management, Jalgaon"
+self
+.
+status
+=
+"Actively Seeking Opportunities in AI/ML & Data Science"
+self
+.
+skills
+=
+[
+"Machine Learning"
+,
+"Deep Learning"
+,
+"Data Analysis"
+,
+"Python"
+,
+"SQL"
+]
+def
+current_focus
+(
+self
+):
+return
+{
+"learning"
+: [
+"ML"
+,
+"HTML/CSS"
+,
+"Power-BI"
+],
+"building"
+: [
+"AI Recommendation Systems"
+,
+"Data Solutions"
+],
+"goal"
+:
+"Contributing to impactful AI/ML projects"
+} />
+	class
+	Sumersing_patil
+	def
+	__init__
+	self
+	self
+	name
+	=
+	"Sumersing Patil"
+	self
+	role
+	=
+	"Python Developer | AI/ML Developer & Data Scientist"
+	self
+	location
+	=
+	"Pune, India 🇮🇳"
+	self
+	education
+	=
+	"B.Tech in Artificial Intelligence, G H Raisoni Institute of Business Management, Jalgaon"
+	self
+	status
+	=
+	"Actively Seeking Opportunities in AI/ML & Data Science"
+	self
+	skills
+	=
+	"Machine Learning"
+	"Deep Learning"
+	"Data Analysis"
+	"Python"
+	"SQL"
+	def
+	current_focus
+	self
+	return
+	"learning"
+	"ML"
+	"HTML/CSS"
+	"Power-BI"
+	"building"
+	"AI Recommendation Systems"
+	"Data Solutions"
+	"goal"
+	"Contributing to impactful AI/ML projects"
+[82] (923,407)<clipboard-copy aria-label='Copy' class='ClipboardButton btn js-clipboard-copy m-2 p-0' role='button' />
+🐍 기여 활동
+[83] (320,789)<a aria-label='고유 링크: 🐍 기여 활동' class='anchor' href='#-contribution-activity' id='user-content--contribution-activity' />
+[84] (642,959)<a href='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg' />
+	[85] (642,897)<img  />
+
+</current_dom>

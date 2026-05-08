@@ -1,0 +1,79 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+개인 정보 보호, 선택은 당신에게 달려 있습니다.
+저희는 사이트 운영에 필수적인 쿠키를 사용합니다. 또한 광고, 콘텐츠 개인화, 사용 분석, 소셜 미디어 연동을 위한 선택적 쿠키와 마케팅, 분석 및 편집 목적으로 동영상 정보를 공유할 수 있도록 하는 쿠키도 사용합니다.
+선택적 쿠키를 수락함으로써 귀하는 제3자에게 데이터를 전송하는 것을 포함하여 귀하의 개인 데이터 처리에 동의하게 됩니다. 일부 제3자는 유럽 경제 지역(EEA) 외부에 있으며, 데이터 보호 기준이 다를 수 있습니다.
+개인정보 이용과 관련한 자세한 내용은
+[0] (328,822)<a href='https://www.nature.com/info/privacy' />
+	[1] (328,822)<font  />
+		[2] (328,822)<font >개인정보 보호정책을 />
+참조하십시오 .
+[3] (183,871)<button class='cc-button cc-button--link cc-button--text' />
+	[4] (183,871)<font  />
+		[5] (183,871)<font >환경설정 관리 />
+자세한 내용을 확인하거나 선택 사항을 변경하려면 다음을 참조하세요.
+[6] (223,934)<button class='cc-button cc-button--secondary cc-button--contrast cc-banner__button cc-banner__button-accept' />
+	[7] (223,934)<font  />
+		[8] (223,934)<font >모든 쿠키 허용 />
+[9] (366,934)<button class='cc-button cc-button--secondary cc-button--contrast cc-banner__button cc-banner__button-reject' />
+	[10] (366,934)<font  />
+		[11] (366,934)<font >선택적 쿠키 거부 />
+표 형식 기반 모델을 사용한 소규모 데이터에 대한 정확한 예측
+PDF 다운로드
+본 연구에서는 표 형식 데이터 기반 모델인 Tabular Prior-data Fitted Network(TabPFN)를 제시합니다. TabPFN은 최대 10,000개의 샘플을 포함하는 데이터셋에서 기존의 모든 방법을 크게 능가하는 성능을 보이며, 훈련 시간도 상당히 단축했습니다. 분류 문제에서 TabPFN은 2.8초 만에 4시간 동안 훈련한 가장 강력한 기준 모델 앙상블보다 우수한 성능을 달성했습니다. 생성형 트랜스포머 기반 모델인 TabPFN은 미세 조정, 데이터 생성, 밀도 추정 및 재사용 가능한 임베딩 학습을 가능하게 합니다. TabPFN은 수백만 개의 합성 데이터셋을 통해 학습되는 알고리즘으로, 알고리즘 개발에 있어 이러한 접근 방식의 강력한 효과를 입증합니다. 다양한 분야에서 모델링 능력을 향상시킴으로써 TabPFN은 과학적 발견을 가속화하고 여러 영역에서 중요한 의사 결정을 강화할 잠재력을 가지고 있습니다.
+다른 사람들이 보고 있는 유사한 콘텐츠
+숲을 탈출하다: 표 형식 데이터를 위한 희소하고 해석 가능하며 기초적인 신경망 대안
+논문
+공개 접근
+2026년 1월 27일
+공간 의미론적 지형도를 통한 표 형식 데이터의 패턴 해석 가능성 있는 발견
+2024년 10월 15
+일자 기사
+합성 데이터 생성을 통한 질병 예측 머신러닝 모델 성능 향상
+논문
+공개 접근
+2025년 9월 29일
+기본
+인공지능의 역사 전반에 걸쳐 수동으로 생성된 알고리즘 구성 요소는 성능이 더 뛰어난 엔드투엔드 학습 구성 요소로 대체되어 왔습니다. 컴퓨터 비전에서 SIFT(Scale Invariant Feature Transform)
+¹⁰
+및 HOG(Histogram of Oriented Gradients)
+¹¹
+와 같은 수동으로 설계된 특징은 학습된 컨볼루션으로 대체되었고, 자연어 처리에서 문법 기반 접근 방식은 학습된 트랜스포머
+¹² 로 대체되었으며, 게임 플레이에서 맞춤형 오프닝 및 엔드게임 라이브러리 설계는 엔드투엔드 학습 전략
+³
+,
+¹³
+으로 대체되었습니다
+. 본 연구에서는 이러한 엔드투엔드 학습을 보편적인 테이블형 데이터 영역으로 확장합니다.
+표 형식 데이터의 다양성은 텍스트나 이미지와 같은 가공되지 않은 데이터 유형과 구별되는 특징입니다. 예를 들어 언어 모델링에서는 단어의 의미가 문서 간에 일관적이지만, 표 형식 데이터 세트에서는 동일한 값이 근본적으로 다른 의미를 가질 수 있습니다. 신약 개발 데이터 세트는 화학적 특성을 기록하는 반면, 재료 과학 데이터 세트는 열적 및 전기적 특성을 기록할 수 있습니다. 이러한 전문화로 인해 더 작고 독립적인 데이터 세트와 관련 모델이 많이 생성됩니다. 예를 들어, 인기 있는 표 형식 벤치마킹 웹사이트인 openml.org에서는 이 글을 쓰는 시점에서 데이터 세트의 76%가 10,000개 미만의 행을 포함하고 있습니다.
+섹션
+수치
+참고 자료
+[12] (723,413)<div class='c-reading-companion__scroll-pane' scrollable='true' />
+	추상적인
+	기본
+	원칙에 입각한 맥락 기반 학습
+	테이블을 위해 설계된 아키텍처
+	인과 모델 기반 합성 데이터
+	질적 분석
+	양적 분석
+	해석 가능성을 갖춘 기초 모델
+	결론
+	행동 양식
+	데이터 가용성
+	코드 사용 가능 여부
+	참고 자료
+	감사의 말씀
+	저자 정보
+	윤리 선언
+	동료 평가
+	추가 정보
+	상세 데이터 수치 및 표
+	추가 정보
+광고
+[13] (723,952)<a href='https://pagead2.googlesyndication.com/pcs/click?xai=AKAOjssmrLxZvaqZmTp2V08LEoUnDAypFxyaXctdRQT4_oyMU7y7cQxY4QAQOPycMUT7ZlQbp1H7YX_ZfZWr_DWgamut8EQ5uMppJAOfuR4y2S7qHAAwCdWf9hGdHRs2N_0sgfn1FQTIdUlpJ2qII-HpSTXbRvXWokKCgV4JCVjGpfjrAjJVpf1qPpKPqUs9VfFVv_GLHOQlirZUTNP3h1A9DNAnXxUcTl95y2allF6cPGZuzBPtwGripoWuXGvJRLNAR0L4dwvK6aNq7_i1J_n18CZk8QZawsLDo5wNJpxRj2JExz5mSOlrL7F93l7k_4_BD8YVbMv9DSK-PsTr0SFdRSXtJdaqiRIjDgHFN20c4gmMonCAIrk6RdFSeTXBXx7oHvEb9yunzO2k0RnO0Mq_yvvqJtilaMQqP1OCrsIVaGW1XfS7yjY&sig=Cg0ArKJSzJpe2t4lN1xO&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.nature.com/masterclasses/online-course-in-scientific-writing-and-publishing/16507840%3Futm_source%3Dnature%26utm_medium%3Dinternal_display%26utm_campaign%3DCONR_NMASO_INT1_GL_PPRD_03IXW_SWP_24%26utm_content%3Dmpu_NATMSLEADOND' id='aw0' />
+	[14] (723,828)<img  />
+
+</current_dom>

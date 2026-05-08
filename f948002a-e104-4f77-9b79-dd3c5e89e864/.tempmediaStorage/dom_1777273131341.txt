@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (84,30)<a aria-label='홈페이지' class='z ab ac ae af ag ah ai aj ak al am an ao ap v' href='/?source=post_page---top_nav_layout_nav-----------------------------------------' />
+[1] (318,30)<input aria-label='찾다' class='ae ba bb bc u bd be bf bg bh' placeholder='찾다' role='combobox' />
+[2] (576,30)<button aria-label='Medium 앱을 다운로드하세요' class='v j fm fn fe ae ak fo fp' />
+	[3] (591,30)<span  />
+		[4] (591,30)<font  />
+			[5] (591,30)<font >앱 다운로드 />
+[6] (694,30)<a class='z ab ac fl af ag ah ai aj ak al am an ao ap' href='/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------' />
+	[7] (694,30)<div  />
+		[8] (710,30)<font  />
+			[9] (710,30)<font >쓰다 />
+[10] (788,30)<button class='bb b eb ec el ed ee em ef eg eo ep ei eq er ek es et eu ev ew ex ey ez fa fb fc fd fe ff fg fh bi fi fj' />
+	가입하기
+[11] (863,30)<a class='z ab ac fl af ag ah ai aj ak al am an ao ap' href='/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40smdsule85%2Fthe-20-best-faceless-youtube-channel-ideas-for-2026-your-blueprint-for-faceless-success-e7dd9268a3d2&source=post_page---top_nav_layout_nav-----------------------global_nav------------------' />
+	[12] (863,30)<font  />
+		[13] (863,30)<font >로그인 />
+[14] (958,28)<button aria-label='사용자 옵션 메뉴' class='ae gi ai v j ak fv gj gk gl' />
+	[15] (958,28)<div  />
+		[16] (958,28)<div  />
+2026년을 위한 최고의 익명 유튜브 채널 아이디어 20가지: 익명 채널 성공을 위한 청사진
+[17] (164,331)<a href='/@smdsule85?source=post_page---byline--e7dd9268a3d2---------------------------------------' />
+	[18] (164,331)<div  />
+		[19] (164,331)<div  />
+			[20] (164,331)<div  />
+[21] (224,332)<a class='z ab ac fl af ag ah ai aj ak al am an jj' href='/@smdsule85?source=post_page---byline--e7dd9268a3d2---------------------------------------' />
+	[22] (224,332)<font  />
+		[23] (224,332)<font >Smdsule />
+[24] (299,332)<button class='xv xz ak v cf j ya yb yc' />
+	[25] (299,332)<span  />
+		[26] (299,332)<span  />
+			[27] (299,332)<font  />
+				[28] (299,332)<font >따르다 />
+읽는 데 12분 소요
+·
+2025년 12월 17일
+[29] (166,414)<a class='z ab ac fl af ag ah ai aj ak al am an ao ap' href='/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fe7dd9268a3d2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40smdsule85%2Fthe-20-best-faceless-youtube-channel-ideas-for-2026-your-blueprint-for-faceless-success-e7dd9268a3d2&user=Smdsule&userId=ef6248c54a2e&source=---header_actions--e7dd9268a3d2---------------------clap_footer------------------' />
+	[30] (166,414)<div  />
+		[31] (166,414)<div class='bi' role='tooltip' />
+			[32] (166,414)<div class='ba' />
+				[33] (166,414)<div class='la ak lb lc ld le ai lf lg lh kz' role='presentation' />
+[34] (187,415)<button class='z ab ac fl af ag ah ai aj ak al am an ao ap ye lw' />
+	[35] (187,415)<font  />
+		[36] (187,415)<font >5 />
+[37] (243,414)<button aria-label='응답' class='ak la lq lr v j fw ls lt' />
+[38] (725,412)<a class='z ab ac fl af ag ah ai aj ak al am an ao ap' href='/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe7dd9268a3d2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40smdsule85%2Fthe-20-best-faceless-youtube-channel-ideas-for-2026-your-blueprint-for-faceless-success-e7dd9268a3d2&source=---header_actions--e7dd9268a3d2---------------------bookmark_footer------------------' />
+	[39] (725,412)<span  />
+[40] (778,414)<a class='z ab ac fl af ag ah ai aj ak al am an ao ap' href='/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3De7dd9268a3d2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40smdsule85%2Fthe-20-best-faceless-youtube-channel-ideas-for-2026-your-blueprint-for-faceless-success-e7dd9268a3d2&source=---header_actions--e7dd9268a3d2---------------------post_audio_button------------------' />
+	[41] (778,414)<div  />
+		[42] (778,414)<div class='bi' role='tooltip' />
+			[43] (778,414)<div class='ba' />
+				[44] (778,414)<button aria-label='듣다' class='z fw ac fl af ag ah me aj ak al fb mf mg lt mh mi mj mk ml l mm mn mo mp mq mr ms n mt mu mv' />
+[45] (832,414)<button aria-label='게시물 공유' class='z fw ac fl af ag ah me aj ak al fb mf mg lt mh mi mj mk ml l mm mn mo mp mq mr ms n mt mu mv' />
+[46] (500,722)<div class='nf ng fv nh bd ni' role='button' />
+	Enter 키를 누르거나 클릭하여 이미지를 전체 크기로 보세요.
+	[47] (500,722)<div  />
+		[48] (500,720)<picture  />
+			[49] (500,722)<img class='bd md nj c' role='presentation' />
+[50] (437,983)<a class='z no' href='https://unsplash.com/?utm_source=medium&utm_medium=referral' />
+	[51] (437,983)<font >Unsplash />
+의
+Rachit Tank
+사진
+
+</current_dom>

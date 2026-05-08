@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (273,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (279,25)<span  />
+		[8] (279,25)<font  />
+			[9] (279,25)<font >MIT 라이선스 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+티츠
+[12] (193,100)<a aria-label='고유 링크: TTS' class='anchor' href='#tts' id='user-content-tts' />
+5명의 목소리로 원하는 문장을 변환하는 서비스
+[13] (193,170)<a aria-label='고유 주소: 5명의 목소리로 원하는 문장을 변환하는 서비스' class='anchor' href='#팀원-5명의-목소리로-원하는-문장을-음성-변환하는-서비스' id='user-content-팀원-5명의-목소리로-원하는-문장을-음성-변환하는-서비스' />
+[14] (419,765)<a href='https://user-images.githubusercontent.com/98803599/183290740-dac7a128-f51b-450d-b935-d4b319f1971b.png' />
+	[15] (419,486)<img  />
+💜 아래 토글을 열어
+Team_ForV의 목소리
+를 들어보세요! 💜
+[16] (193,815)<a aria-label='Permalink: 💜 아래 토글을 열어 Team_ForV의 목소리를 들어보세요! 💜' class='anchor' href='#-아래-토글을-열어-team_forv의-목소리-를-들어보세요-' id='user-content--아래-토글을-열어-team_forv의-목소리-를-들어보세요-' />
+[17] (419,855)<details  />
+	[18] (419,855)<summary  />
+		[19] (243,854)<font  />
+			[20] (243,854)<font >구지혜(프런트엔드) />
+[21] (419,897)<details  />
+	[22] (419,897)<summary  />
+		[23] (243,897)<font  />
+			[24] (243,897)<font >김혜진(프런트엔드) />
+[25] (419,939)<details  />
+	[26] (419,939)<summary  />
+		[27] (254,939)<font  />
+			[28] (254,939)<font >배준일(Backend/Devops) />
+[29] (419,982)<details  />
+	[30] (419,982)<summary  />
+		[31] (239,981)<font  />
+			[32] (239,981)<font >이수현(데브옵스) />
+발표된 릴리스 없음
+[33] (746,55)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/2022SiliconValley-Team-ForV/packages?repo_name=TTS' />
+	[34] (687,55)<font  />
+		[35] (687,54)<font >패키지 />
+게시된 패키지가 없습니다.
+[36] (746,151)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/2022SiliconValley-Team-ForV/TTS/graphs/contributors' />
+	[37] (687,151)<font  />
+		[38] (687,151)<font >기고자 />
+	[39] (705,151)<span  />
+		[40] (705,151)<font  />
+			[41] (705,151)<font >6 />
+[42] (683,196)<a href='https://github.com/bjo6300' />
+	[43] (683,198)<img  />
+[44] (704,196)<a href='https://github.com/hi-june' />
+	[45] (704,198)<img  />
+[46] (725,196)<a href='https://github.com/Gii-Meajin' />
+	[47] (725,198)<img  />
+[48] (746,196)<a href='https://github.com/llmeajinll' />
+	[49] (746,198)<img  />
+[50] (767,196)<a href='https://github.com/jihye9549' />
+	[51] (767,198)<img  />
+[52] (788,196)<a href='https://github.com/suhyeon0921' />
+	[53] (788,198)<img  />
+언어
+[54] (709,319)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=jupyter-notebook' />
+	[55] (706,319)<span  />
+		[56] (706,319)<font  />
+			[57] (706,319)<font >주피터 노트북 />
+	[58] (734,319)<span  />
+		[59] (734,319)<font  />
+			[60] (734,319)<font >66.3% />
+[61] (777,319)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=python' />
+	[62] (774,319)<span  />
+		[63] (774,319)<font  />
+			[64] (774,319)<font >파이썬 />
+	[65] (793,319)<span  />
+		[66] (793,319)<font  />
+			[67] (793,319)<font >32.4% />
+[68] (694,342)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=css' />
+	[69] (693,342)<span  />
+		[70] (693,342)<font  />
+			[71] (693,342)<font >CSS />
+	[72] (707,342)<span  />
+		[73] (707,342)<font  />
+			[74] (707,342)<font >0.5% />
+[75] (755,342)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=javascript' />
+	[76] (754,342)<span  />
+		[77] (754,342)<font  />
+			[78] (754,342)<font >자바스크립트 />
+	[79] (780,342)<span  />
+		[80] (780,342)<font  />
+			[81] (780,342)<font >0.3% />
+[82] (697,365)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=html' />
+	[83] (696,365)<span  />
+		[84] (696,365)<font  />
+			[85] (696,365)<font >HTML />
+	[86] (713,365)<span  />
+		[87] (713,365)<font  />
+			[88] (713,365)<font >0.3% />
+[89] (753,365)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/2022SiliconValley-Team-ForV/TTS/search?l=shell' />
+	[90] (751,365)<span  />
+		[91] (751,365)<font  />
+			[92] (751,365)<font >껍데기 />
+	[93] (768,365)<span  />
+		[94] (768,365)<font  />
+			[95] (768,365)<font >0.1% />
+다른
+0.1%
+
+</current_dom>

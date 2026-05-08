@@ -1,0 +1,183 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (957,19)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[1] (891,19)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[2] (832,19)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[3] (779,19)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fvp%252Fproducts%252F6260111203%253FitemId%253D24237745582%2526vendorItemId%253D90203082961%2526q%253D%2525EB%25258B%2525A4%2525EC%25259D%2525B4%2525EC%252586%25258C%252B%2525EC%2525A3%2525BC%2525EB%2525B0%2525A9%2525EA%2525BF%252580%2525ED%252585%25259C%2526searchId%253D3b0b87d913611404%2526sourceType%253Dsearch%2526itemsCount%253D60%2526searchRank%253D0%2526rank%253D0%2526traceId%253Dmooa32ae' title='로그인'>로그인 />
+[4] (44,19)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[5] (110,19)<a class='dropdown_menu_flag'>입점신청 />
+	[6] (135,21)<i  />
+[7] (25,60)<div  />
+	[8] (25,60)<div  />
+		[9] (25,52)<div  />
+		[10] (25,60)<div  />
+		[11] (25,69)<div  />
+[12] (120,60)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[13] (120,60)<img  />
+[14] (913,60)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[15] (913,60)<img  />
+[16] (976,60)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[17] (976,60)<img  />
+	[18] (989,48)<em >0 />
+[19] (82,119)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_6235954'>전체 />
+[20] (537,121)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 ad-keyword is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[21] (931,119)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[22] (965,119)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[23] (965,119)<img  />
+[24] (17,178)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[25] (77,178)<a href='https://www.coupangplay.com/catalog' />
+	[26] (45,178)<img  />
+	[27] (89,178)<span >쿠팡플레이 />
+[28] (178,178)<a href='https://www.coupang.com/np/campaigns/82' />
+	[29] (152,178)<img  />
+	[30] (190,178)<span >로켓배송 />
+[31] (280,178)<a href='https://www.coupang.com/np/categories/393760' />
+	[32] (247,178)<img  />
+	[33] (291,178)<span >로켓프레시 />
+[34] (391,178)<a href='https://pages.coupang.com/p/168131' />
+	[35] (355,178)<img  />
+	[36] (395,178)<span >가정의 달 />
+	[37] (430,177)<i  />
+[38] (505,178)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[39] (469,178)<img  />
+	[40] (509,178)<span >다시 구매 />
+	[41] (544,177)<i  />
+[42] (609,178)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[43] (583,178)<img  />
+	[44] (620,178)<span >쿠팡비즈 />
+[45] (704,178)<a href='https://www.coupang.com/np/coupangglobal' />
+	[46] (678,178)<img  />
+	[47] (715,178)<span >로켓직구 />
+[48] (799,178)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[49] (773,178)<img  />
+	[50] (810,178)<span >골드박스 />
+[51] (900,178)<a href='https://pages.coupang.com/p/136938' />
+	[52] (868,178)<img  />
+	[53] (912,178)<span >이달의신상 />
+판매자특가
+[54] (983,178)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[55] (983,178)<span  />
+[56] (42,218)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com'>쿠팡 홈 />
+[57] (109,218)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/185669?eventCategory=breadcrumb' title='주방용품'>주방용품 />
+[58] (195,218)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/186147?eventCategory=breadcrumb' title='주방수납/정리'>주방수납/정리 />
+[59] (293,218)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/403183?eventCategory=breadcrumb' title='주방정리소품'>주방정리소품 />
+[60] (398,218)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/403185?eventCategory=breadcrumb' title='수세미걸이/받침'>수세미걸이/받침 />
+[61] (57,281)<li  />
+	[62] (57,281)<i  />
+[63] (57,360)<li  />
+	[64] (57,360)<i  />
+[65] (57,438)<li  />
+	[66] (57,438)<i  />
+[67] (57,516)<li  />
+	[68] (57,516)<i  />
+[69] (57,595)<li  />
+	[70] (57,595)<i  />
+[71] (57,673)<li  />
+	[72] (57,673)<i  />
+[73] (57,751)<li  />
+	[74] (57,751)<i  />
+[75] (57,830)<li  />
+	[76] (57,830)<i  />
+[77] (297,684)<div  />
+	[78] (297,682)<a href='https://www.coupang.com/np/campaigns/18867' />
+		[79] (297,682)<img  />
+[80] (448,280)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+[81] (448,331)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+구띵 스테인레스 접착식 다용도 수세미 거치대, 실버, 2개
+[82] (588,286)<a class='twc-flex twc-items-center' href='#sdpReview' id='prod-review-nav-link' />
+	[83] (537,286)<span  />
+		[84] (533,286)<span  />
+	[85] (627,286)<span >4,963
+개 상품평 />
+한 달간
+1만명 이상
+구매했어요
+1,120원
+(1개당 560원)
+색상 × 수량
+[86] (512,481)<div  />
+701.메탈(스테인리스)
+[87] (563,481)<div  />
+	[88] (563,453)<div  />
+		[89] (563,453)<img  />
+	[90] (563,523)<div  />
+		[91] (563,523)<div >단일 색상 />
+[92] (654,481)<div  />
+	[93] (654,453)<div  />
+		[94] (654,453)<img  />
+	[95] (654,523)<div  />
+		[96] (654,523)<div >블랙 />
+[97] (746,481)<div  />
+	[98] (746,454)<div  />
+		[99] (746,453)<img  />
+	[100] (746,522)<div  />
+		[101] (746,523)<div >실버 />
+[102] (838,481)<div  />
+	[103] (838,453)<div  />
+		[104] (838,453)<img  />
+	[105] (838,523)<div  />
+		[106] (838,523)<div >실버 10P />
+[107] (930,481)<div  />
+	[108] (930,453)<div  />
+		[109] (930,453)<img  />
+	[110] (930,523)<div  />
+		[111] (930,523)<div >실버1P />
+[112] (740,605)<div  />
+	[113] (508,604)<div  />
+	[114] (561,604)<div >2개 />
+	[115] (794,604)<div  />
+		[116] (794,604)<div  />
+			[117] (638,604)<span >1,120원 />
+			[118] (710,604)<div  />
+				[119] (694,604)<img  />
+				[120] (733,604)<img  />
+[121] (740,668)<div  />
+	[122] (508,667)<div  />
+	[123] (561,667)<div >4개 />
+	[124] (794,667)<div  />
+		[125] (794,655)<div  />
+			[126] (638,655)<span >2,000원 />
+			[127] (710,655)<div  />
+				[128] (694,655)<img  />
+				[129] (733,655)<img  />
+		[130] (794,680)<div >4개 사면 240원 절약 />
+[131] (740,743)<div  />
+	[132] (508,742)<div  />
+	[133] (561,742)<div >10개 />
+	[134] (794,742)<div  />
+		[135] (794,730)<div  />
+			[136] (638,730)<span >4,430원 />
+			[137] (710,730)<div  />
+				[138] (694,730)<img  />
+				[139] (733,730)<img  />
+		[140] (794,756)<div >10개 사면 1,170원 절약 />
+[141] (740,817)<div  />
+	[142] (508,817)<div  />
+	[143] (561,817)<div >12개 />
+	[144] (794,817)<div  />
+		[145] (794,805)<div  />
+			[146] (638,805)<span >5,200원 />
+			[147] (710,805)<div  />
+				[148] (694,805)<img  />
+				[149] (733,805)<img  />
+		[150] (794,831)<div >12개 사면 1,520원 절약 />
+[151] (545,867)<button  />
+	[152] (545,871)<div >절약 금액 기준 />
+[153] (740,920)<div  />
+	[154] (734,920)<span >모든 옵션 보기 />
+	[155] (792,920)<img  />
+[156] (740,977)<div  />
+	[157] (715,977)<span  />
+		내일(일) 5/3
+		도착 보장
+		(
+		3시간 11분
+		내 주문 시
+		/ 서울⋅경기 기준
+		)
+내일(일) 5/3 새벽 7시 전
+도착 보장
+
+</current_dom>

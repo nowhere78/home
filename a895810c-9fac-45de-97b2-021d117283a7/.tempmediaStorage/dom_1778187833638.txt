@@ -1,0 +1,139 @@
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (264,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (271,25)<span  />
+		[8] (271,25)<font  />
+			[9] (271,25)<font >특허 />
+[10] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[11] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+합성 데이터로만 학습된 기본 TabPFN-2.6 모델을 사용하려면 다음과 같이 하세요.
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+clf
+=
+TabPFNClassifier
+()
+clf
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+clf
+.
+predict
+(
+X_test
+)
+reg
+=
+TabPFNRegressor
+()
+reg
+.
+fit
+(
+X_train
+,
+y_train
+)
+# downloads checkpoint on first use
+predictions
+=
+reg
+.
+predict
+(
+X_test
+)
+[12] (626,54)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+다른 모델 버전(예: TabPFN-2.5)을 사용하려면 다음 단계를 따르십시오.
+from
+tabpfn
+import
+TabPFNClassifier
+,
+TabPFNRegressor
+from
+tabpfn
+.
+constants
+import
+ModelVersion
+classifier
+=
+TabPFNClassifier
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+regressor
+=
+TabPFNRegressor
+.
+create_default_for_version
+(
+ModelVersion
+.
+V2_5
+)
+[13] (626,335)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+자세한 예제는
+[14] (314,479)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_binary_classification.py' />
+	[15] (314,479)<font  />
+		[16] (314,479)<font >tabpfn_for_binary_classification.py />
+,
+[17] (451,479)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_multiclass_classification.py' />
+	[18] (451,479)<font  />
+		[19] (451,479)<font >tabpfn_for_multiclass_classification.py />
+및
+[20] (578,479)<a href='https://github.com/PriorLabs/TabPFN/tree/main/examples/tabpfn_for_regression.py' />
+	[21] (578,479)<font  />
+		[22] (578,479)<font >tabpfn_for_regression.py />
+파일을 참조하십시오.
+사용 팁
+[23] (193,556)<a aria-label='고유 링크: 사용 팁' class='anchor' href='#usage-tips' id='user-content-usage-tips' />
+배치 예측 모드를 사용하세요
+. 각
+predict
+호출마다 학습 데이터셋을 다시 계산합니다.
+predict
+100개의 샘플을 개별적으로 호출하는 것은 단일 호출보다 거의 100배 느리고 비용이 많이 듭니다. 테스트 데이터셋이 매우 큰 경우, 1000개 샘플씩 여러 덩어리로 나누세요.
+데이터 전처리를 피하십시오
+: 모델에 데이터를 입력할 때 데이터 스케일링이나 원핫 인코딩을 적용하지 마십시오.
+GPU를 사용하세요
+: TabPFN은 CPU에서 실행하면 속도가 느립니다. 더 나은 성능을 위해 GPU를 사용할 수 있는지 확인하세요.
+데이터셋 크기에 유의하세요
+. TabPFN은 샘플 수가 10만 개 미만이고 특징점이 2,000개 미만인 데이터셋에서 가장 잘 작동합니다. 더 큰 데이터셋의 경우,
+[24] (369,789)<a href='https://github.com/PriorLabs/tabpfn-extensions/blob/main/examples/large_datasets/large_datasets_example.py' />
+	[25] (369,789)<font  />
+		[26] (369,789)<font >대규모 데이터셋 가이드를 />
+참조하시기 바랍니다 .
+TabPFN 생태계
+[27] (193,843)<a aria-label='고유 링크: TabPFN 생태계' class='anchor' href='#tabpfn-ecosystem' id='user-content-tabpfn-ecosystem' />
+필요에 맞는 TabPFN 구현 방식을 선택하세요.
+[28] (253,939)<a href='https://github.com/priorlabs/tabpfn-client' />
+	[29] (253,939)<font  />
+		[30] (253,939)<font >TabPFN 클라이언트: />
+클라우드 기반 추론을 통해 TabPFN을 사용하기 위한 간단한 API 클라이언트입니다.
+[31] (261,982)<a href='https://github.com/priorlabs/tabpfn-extensions' />
+	[32] (261,982)<font  />
+		[33] (261,982)<font >TabPFN 확장 프로그램은 />
+고급 유틸리티, 통합 기능 및 다양한 기능을 제공하는 강력한 보조 저장소입니다. 기여하기에 좋은 곳입니다.

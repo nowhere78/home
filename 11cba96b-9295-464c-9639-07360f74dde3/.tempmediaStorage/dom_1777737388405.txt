@@ -1,0 +1,24 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+@local
+luna-expert-v5
+Ollama 오프라인
+[0] (980,30)<button id='gear-btn' title='설정'>⚙️ />
+Alpha Agent · Local LLM
+프롬프트를 입력하면
+Ollama (localhost:11434)
+에 직접 전송됩니다.
+@local
+접두사를 붙이면 로컬 모델 우선 처리합니다.
+[1] (367,547)<span class='chip'>📊 오늘 비트코인 분석해줘 />
+[2] (463,547)<span class='chip'>📝 유튜브 쇼츠 대본 작성 />
+[3] (553,547)<span class='chip'>🔍 퀀트 전략 설명해줘 />
+[4] (639,547)<span class='chip'>⚡ 파이썬 코드 최적화 />
+@local
+입력 후 메시지를 보내면 로컬 Ollama 모델로 전송됩니다 · Enter: 줄바꿈 · Ctrl+Enter: 전송
+[5] (484,949)<textarea id='prompt' placeholder='@local 분석해줘... 또는 바로 질문 입력' />
+[6] (977,950)<button id='send-btn' title='전송 (Ctrl+Enter)'>➤ />
+
+</current_dom>

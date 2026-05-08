@@ -1,0 +1,70 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (280,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (286,25)<span  />
+		[8] (286,25)<font  />
+			[9] (286,25)<font >행동 강령 />
+[10] (353,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (330,25)<span  />
+	[12] (359,25)<span  />
+		[13] (359,25)<font  />
+			[14] (359,25)<font >기여하기 />
+[15] (432,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (397,25)<span  />
+	[17] (438,25)<span  />
+		[18] (438,25)<font  />
+			[19] (438,25)<font >Apache-2.0 라이선스 />
+[20] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[22] (419,157)<a href='/InsForge/InsForge/blob/main/assets/insforge-star.gif' />
+InsForge가 유용하거나 흥미롭다고 생각되시면 GitHub 스타(⭐️)를 눌러주시면 정말 감사하겠습니다.
+빠른 시작
+[23] (193,254)<a aria-label='고유 링크: 빠른 시작' class='anchor' href='#quickstart' id='user-content-quickstart' />
+클라우드 호스팅:
+[24] (305,317)<a href='https://insforge.dev' />
+	[25] (305,317)<font  />
+		[26] (305,317)<font >insforge.dev />
+[27] (193,317)<a aria-label='고유 링크: 클라우드 호스팅: insforge.dev' class='anchor' href='#cloud-hosted-insforgedev' id='user-content-cloud-hosted-insforgedev' />
+[28] (226,362)<a href='https://insforge.dev' />
+	[29] (226,358)<img  />
+자체 호스팅: Docker Compose
+[30] (193,414)<a aria-label='고유 링크: 자체 호스팅: Docker Compose' class='anchor' href='#self-hosted-docker-compose' id='user-content-self-hosted-docker-compose' />
+필수 조건:
+[31] (251,456)<a href='https://www.docker.com/' />
+	[32] (251,456)<font  />
+		[33] (251,456)<font >Docker />
++
+[34] (288,456)<a href='https://nodejs.org/' />
+	[35] (288,456)<font  />
+		[36] (288,456)<font >Node.js />
+1. 설정
+[37] (193,505)<a aria-label='고유 링크: 1. 설정' class='anchor' href='#1-setup' id='user-content-1-setup' />
+Docker Compose를 사용하면 InsForge를 로컬에서 실행할 수 있습니다. 이렇게 하면 로컬 컴퓨터에 InsForge 인스턴스가 시작됩니다.
+[38] (271,647)<a href='/InsForge/InsForge/blob/main/deploy/docker-deploy.md' />
+	[39] (271,627)<img  />
+또는 소스 코드에서 직접 실행하세요:
+#
+Run with Docker
+git clone https://github.com/insforge/insforge.git
+cd
+insforge
+cp .env.example .env
+docker compose -f docker-compose.prod.yml up
+[40] (626,742)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+2. InsForge MCP에 연결
+[41] (193,893)<a aria-label='고유 링크: 2. InsForge MCP 연결' class='anchor' href='#2-connect-insforge-mcp' id='user-content-2-connect-insforge-mcp' />
+[42] (243,933)<a href='http://localhost:7130' />
+	[43] (243,933)<font >http://localhost:7130을 />
+엽니다 .
+InsForge MCP 서버에 연결하려면 다음 단계를 따르십시오.
+
+</current_dom>

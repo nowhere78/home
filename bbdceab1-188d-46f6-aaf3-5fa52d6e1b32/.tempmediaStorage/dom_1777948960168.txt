@@ -1,0 +1,477 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,34)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (434,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[4] (434,34)<span  />
+			[5] (115,34)<span  />
+				[6] (106,34)<span >awesome UI UX stars: />
+				[7] (149,34)<span >>=50 />
+	[8] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[9] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_2j_' />
+	[10] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_2o_' />
+		[11] (870,34)<span  />
+	[12] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[13] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[14] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[15] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[16] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[17] (983,34)<img  />
+[18] (500,942)<div  />
+	저장소 검색 결과 · 훌륭한 UI/UX: 별점 50개 이상
+	[19] (77,568)<div class='prc-PageLayout-Pane-AyzHK' role='region' scrollable='true' />
+		필터 기준
+		[20] (73,148)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=code&sort=stars&order=desc' id='_r_4_' />
+			[21] (79,148)<span  />
+				[22] (68,148)<span  />
+					[23] (32,148)<font  />
+						[24] (32,148)<font >암호 />
+				196
+				(
+				196
+				)
+				결과
+		[25] (73,182)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=repositories&sort=stars&order=desc' id='_r_5_' />
+			[26] (79,182)<span  />
+				[27] (70,182)<span  />
+					[28] (35,181)<font  />
+						[29] (35,181)<font >저장소 />
+				18
+				(
+				18
+				)
+				결과
+		[30] (73,216)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=issues&sort=stars&order=desc' id='_r_6_' />
+			[31] (79,216)<span  />
+				[32] (68,216)<span  />
+					[33] (35,215)<font  />
+						[34] (35,215)<font >문제점 />
+				10k
+				(
+				10k
+				)
+				결과
+		[35] (73,250)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=pullrequests&sort=stars&order=desc' id='_r_7_' />
+			[36] (79,250)<span  />
+				[37] (68,250)<span  />
+					[38] (43,249)<font  />
+						[39] (43,249)<font >풀 리퀘스트 />
+				13k
+				(
+				13k
+				)
+				결과
+		[40] (73,284)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=discussions&sort=stars&order=desc' id='_r_8_' />
+			[41] (79,284)<span  />
+				[42] (71,284)<span  />
+					[43] (32,283)<font  />
+						[44] (32,283)<font >토론 />
+				4
+				(
+				4
+				)
+				결과
+		[45] (73,317)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50&type=users&sort=stars&order=desc' id='_r_9_' />
+			[46] (79,317)<span  />
+				[47] (71,317)<span  />
+					[48] (35,317)<font  />
+						[49] (35,317)<font >사용자 />
+				0
+				(
+				0
+				)
+				결과
+		[50] (73,351)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_a_' />
+			[51] (79,351)<span  />
+				[52] (79,351)<span  />
+					[53] (28,351)<font  />
+						[54] (28,351)<font >더 />
+		언어
+		[55] (73,435)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50+language%3APython&type=repositories&sort=stars&order=desc' id='_r_c_' />
+			[56] (78,435)<span  />
+				[57] (78,435)<span  />
+					[58] (78,435)<div  />
+						[59] (78,435)<div  />
+							[60] (32,434)<font  />
+								[61] (32,434)<font >파이썬 />
+		[62] (73,469)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50+language%3ATypeScript&type=repositories&sort=stars&order=desc' id='_r_d_' />
+			[63] (78,469)<span  />
+				[64] (78,469)<span  />
+					[65] (78,469)<div  />
+						[66] (78,469)<div  />
+							[67] (42,468)<font  />
+								[68] (42,468)<font >타입스크립트 />
+		[69] (73,503)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50+language%3ADart&type=repositories&sort=stars&order=desc' id='_r_e_' />
+			[70] (78,503)<span  />
+				[71] (78,503)<span  />
+					[72] (78,503)<div  />
+						[73] (78,503)<div  />
+							[74] (29,502)<font  />
+								[75] (29,502)<font >다트 />
+		[76] (73,537)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50+language%3ASwift&type=repositories&sort=stars&order=desc' id='_r_f_' />
+			[77] (78,537)<span  />
+				[78] (78,537)<span  />
+					[79] (78,537)<div  />
+						[80] (78,537)<div  />
+							[81] (35,536)<font  />
+								[82] (35,536)<font >스위프트 />
+		[83] (73,570)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=awesome+UI+UX+stars%3A%3E%3D50+language%3AVue&type=repositories&sort=stars&order=desc' id='_r_g_' />
+			[84] (78,570)<span  />
+				[85] (78,570)<span  />
+					[86] (78,570)<div  />
+						[87] (78,570)<div  />
+							[88] (25,570)<font  />
+								[89] (25,570)<font >뷰 />
+		[90] (73,604)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_h_' />
+			[91] (79,604)<span  />
+				[92] (79,604)<span  />
+					[93] (79,604)<div  />
+						[94] (46,604)<font  />
+							[95] (46,604)<font >더 많은 언어... />
+		고급의
+		[96] (73,688)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_j_' />
+			[97] (79,688)<span  />
+				[98] (79,688)<span  />
+					[99] (79,688)<div  />
+						[100] (79,688)<div  />
+							[101] (35,687)<font  />
+								[102] (35,687)<font >소유자 />
+		[103] (73,722)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_k_' />
+			[104] (79,722)<span  />
+				[105] (79,722)<span  />
+					[106] (79,722)<div  />
+						[107] (79,722)<div  />
+							[108] (32,721)<font  />
+								[109] (32,721)<font >크기 />
+		[110] (73,756)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_l_' />
+			[111] (79,756)<span  />
+				[112] (79,756)<span  />
+					[113] (79,756)<div  />
+						[114] (79,756)<div  />
+							[115] (39,755)<font  />
+								[116] (39,755)<font >팔로워 수 />
+		[117] (73,789)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_m_' />
+			[118] (79,789)<span  />
+				[119] (79,789)<span  />
+					[120] (79,789)<div  />
+						[121] (79,789)<div  />
+							[122] (43,789)<font  />
+								[123] (43,789)<font >포크의 개수 />
+		[124] (73,823)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_n_' />
+			[125] (79,823)<span  />
+				[126] (79,823)<span  />
+					[127] (79,823)<div  />
+						[128] (79,823)<div  />
+							[129] (39,823)<font  />
+								[130] (39,823)<font >별의 개수 />
+		[131] (73,857)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_o_' />
+			[132] (79,857)<span  />
+				[133] (79,857)<span  />
+					[134] (79,857)<div  />
+						[135] (79,857)<div  />
+							[136] (35,857)<font  />
+								[137] (35,857)<font >생성일 />
+		[138] (73,891)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_p_' />
+			[139] (79,891)<span  />
+				[140] (79,891)<span  />
+					[141] (79,891)<div  />
+						[142] (79,891)<div  />
+							[143] (60,890)<font  />
+								[144] (60,890)<font >날짜가 변경되었습니다 />
+		[145] (73,925)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_q_' />
+			[146] (79,925)<span  />
+				[147] (79,925)<span  />
+					[148] (79,925)<div  />
+						[149] (79,925)<div  />
+							[150] (32,924)<font  />
+								[151] (32,924)<font >주제 />
+		[152] (73,959)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_r_' />
+			[153] (79,959)<span  />
+				[154] (79,959)<span  />
+					[155] (79,959)<div  />
+						[156] (79,959)<div  />
+							[157] (32,958)<font  />
+								[158] (32,958)<font >특허 />
+		[159] (73,993)<button class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' id='_r_s_' />
+			[160] (79,993)<span  />
+				[161] (79,993)<span  />
+					[162] (79,993)<div  />
+						[163] (79,993)<div  />
+							[164] (35,992)<font  />
+								[165] (35,992)<font >보관됨 />
+	[166] (154,568)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+	18개 결과
+	(
+	196ms
+	)
+	18개 결과
+	[167] (662,99)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_14_' />
+		[168] (658,99)<span  />
+			[169] (658,99)<span  />
+				[170] (633,99)<span  />
+					[171] (633,99)<font  />
+						[172] (633,99)<font >정렬 기준: />
+				[173] (672,99)<font  />
+					[174] (672,99)<font >가장 일치하는 항목 />
+	[175] (733,99)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[176] (733,99)<span  />
+			[177] (733,99)<span  />
+				[178] (733,99)<div  />
+					[179] (738,99)<font  />
+						[180] (738,99)<font >구하다 />
+	[181] (763,99)<button aria-label='열 옵션 열기' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_r_1e_' />
+	[182] (248,162)<a class='prc-Link-Link-9ZwDx' href='/wasabeef/awesome-android-ui' />
+		[183] (248,161)<span  />
+			[184] (212,161)<font  />
+				[185] (212,161)<font >wasabeef/ />
+			[186] (240,161)<em  />
+				[187] (240,161)<font  />
+					[188] (240,161)<font >멋진 />
+			[189] (273,161)<font  />
+				[190] (273,161)<font >-안드로이드- />
+			[191] (301,161)<em  />
+				[192] (301,161)<font  />
+					[193] (301,161)<font >ui />
+	엄선된 훌륭한
+	안드로이드
+	UI
+	/
+	UX
+	라이브러리
+	목록
+	[194] (203,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/android' />
+		[195] (203,221)<font  />
+			[196] (203,221)<font >기계적 인조 인간 />
+	[197] (248,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome' />
+		[198] (248,221)<font  />
+			[199] (248,221)<font >엄청난 />
+	[200] (274,221)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ui' />
+		[201] (274,221)<font  />
+			[202] (274,221)<font >ui />
+	[203] (187,252)<a aria-label='56008개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/wasabeef/awesome-android-ui/stargazers' />
+		[204] (192,252)<span  />
+			[205] (192,252)<font  />
+				[206] (192,252)<font >56k />
+	·
+	업데이트됨
+	2024년 7월 6일
+	[207] (705,168)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[208] (705,168)<span  />
+			[209] (711,168)<span  />
+				[210] (711,167)<font  />
+					[211] (711,167)<font >별 />
+	[212] (742,168)<button aria-label='후원: wasabeef/awesome-android-ui' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-wasabeef-awesome-android-ui' />
+		[213] (742,168)<span  />
+			[214] (742,168)<span  />
+				[215] (748,167)<span  />
+					[216] (748,167)<font  />
+						[217] (748,167)<font >스폰서 />
+	[218] (230,329)<a class='prc-Link-Link-9ZwDx' href='/cjwirth/awesome-ios-ui' />
+		[219] (230,329)<span  />
+			[220] (207,329)<font  />
+				[221] (207,329)<font >cjwirth/ />
+			[222] (231,329)<em  />
+				[223] (231,329)<font  />
+					[224] (231,329)<font >멋진 />
+			[225] (250,329)<font  />
+				[226] (250,329)<font >-ios- />
+			[227] (264,329)<em  />
+				[228] (264,329)<font  />
+					[229] (264,329)<font >ui />
+	엄선된 훌륭한
+	iOS
+	UI
+	/
+	UX
+	라이브러리
+	목록
+	[230] (189,384)<a aria-label='11193개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/cjwirth/awesome-ios-ui/stargazers' />
+		[231] (195,384)<span  />
+			[232] (195,384)<font  />
+				[233] (195,384)<font >11.2k />
+	·
+	업데이트됨
+	2018년 3월 8일
+	[234] (748,335)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[235] (748,335)<span  />
+			[236] (754,335)<span  />
+				[237] (754,335)<font  />
+					[238] (754,335)<font >별 />
+	[239] (229,460)<a class='prc-Link-Link-9ZwDx' href='/shoelace-style/shoelace' />
+		[240] (229,460)<span  />
+			[241] (229,460)<font  />
+				[242] (229,460)<font >신발끈 스타일/신발끈 />
+	공개 아카이브
+	Shoelace가 이제 Web
+	Awesome으로
+	새롭게 단장했습니다. 무엇이 새로워졌는지 확인해 보세요!
+	[243] (199,520)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/javascript' />
+		[244] (199,520)<font  />
+			[245] (199,520)<font >자바스크립트 />
+	[246] (236,520)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/css' />
+		[247] (236,520)<font  />
+			[248] (236,520)<font >CSS />
+	[249] (264,520)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/html' />
+		[250] (264,520)<font  />
+			[251] (264,520)<font >HTML />
+	[252] (290,520)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ui' />
+		[253] (290,520)<font  />
+			[254] (290,520)<font >ui />
+	[255] (322,520)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/webcomponents' />
+		[256] (322,520)<font  />
+			[257] (322,520)<font >웹 컴포넌트 />
+	타입스크립트
+	·
+	[258] (243,551)<a aria-label='13868개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/shoelace-style/shoelace/stargazers' />
+		[259] (249,551)<span  />
+			[260] (249,551)<font  />
+				[261] (249,551)<font >13.9k />
+	·
+	업데이트됨
+	3월 25일
+	[262] (705,467)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[263] (705,467)<span  />
+			[264] (711,467)<span  />
+				[265] (711,466)<font  />
+					[266] (711,466)<font >별 />
+	[267] (742,467)<button aria-label='스폰서 신발끈 스타일/신발끈' class='Button--secondary Button--small Button' id='dialog-show-funding-links-modal-shoelace-style-shoelace' />
+		[268] (742,467)<span  />
+			[269] (742,467)<span  />
+				[270] (748,466)<span  />
+					[271] (748,466)<font  />
+						[272] (748,466)<font >스폰서 />
+	[273] (220,628)<a class='prc-Link-Link-9ZwDx' href='/younatics/MotionBook' />
+		[274] (220,627)<span  />
+			[275] (220,627)<font  />
+				[276] (220,627)<font >유나틱스/모션북 />
+	📖
+	멋진
+	iOS
+	UI
+	/
+	UX
+	애플리케이션 (오픈소스)
+	[277] (184,687)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ui' />
+		[278] (184,687)<font  />
+			[279] (184,687)<font >ui />
+	[280] (207,687)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/animation' />
+		[281] (207,687)<font  />
+			[282] (207,687)<font >생기 />
+	[283] (233,687)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/motion' />
+		[284] (233,687)<font  />
+			[285] (233,687)<font >운동 />
+	[286] (281,687)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ux-animation-book' />
+		[287] (281,687)<font  />
+			[288] (281,687)<font >ux-animation-book />
+	스위프트
+	·
+	[289] (230,718)<a aria-label='1468개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/younatics/MotionBook/stargazers' />
+		[290] (235,718)<span  />
+			[291] (235,718)<font  />
+				[292] (235,718)<font >1.5k />
+	·
+	업데이트됨
+	2020년 10월 1일
+	[293] (748,634)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[294] (748,634)<span  />
+			[295] (754,634)<span  />
+				[296] (754,633)<font  />
+					[297] (754,633)<font >별 />
+	[298] (264,795)<a class='prc-Link-Link-9ZwDx' href='/thanhtoan1196/awesome-android-ui' />
+		[299] (264,794)<span  />
+			[300] (222,794)<font  />
+				[301] (222,794)<font >thanhtoan1196/ />
+			[302] (271,794)<em  />
+				[303] (271,794)<font  />
+					[304] (271,794)<font >awesome />
+			[305] (309,794)<font  />
+				[306] (309,794)<font >-android- />
+			[307] (333,794)<em  />
+				[308] (333,794)<font  />
+					[309] (333,794)<font >ui />
+	😎 엄선된 멋진
+	안드로이드
+	UI
+	/
+	UX
+	라이브러리
+	목록
+	[310] (203,854)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/android' />
+		[311] (203,854)<font  />
+			[312] (203,854)<font >기계적 인조 인간 />
+	[313] (248,854)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/library' />
+		[314] (248,854)<font  />
+			[315] (248,854)<font >도서관 />
+	[316] (280,854)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/awesome' />
+		[317] (280,854)<font  />
+			[318] (280,854)<font >엄청난 />
+	[319] (306,854)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/ui' />
+		[320] (306,854)<font  />
+			[321] (306,854)<font >ui />
+	[322] (344,854)<a class='TopicLabel-module__topicLabel__QbTaK prc-Link-Link-9ZwDx' href='/topics/android-sdk' />
+		[323] (344,854)<font  />
+			[324] (344,854)<font >안드로이드 SDK />
+	[325] (187,885)<a aria-label='501개의 별' class='Repositories-module__stargazersLink__KRMAf prc-Link-Link-9ZwDx' href='/thanhtoan1196/awesome-android-ui/stargazers' />
+		[326] (193,885)<span  />
+			[327] (193,885)<font  />
+				[328] (193,885)<font >501 />
+	·
+	업데이트됨
+	2021년 9월 3일
+	[329] (748,801)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[330] (748,801)<span  />
+			[331] (754,801)<span  />
+				[332] (754,800)<font  />
+					[333] (754,800)<font >별 />
+	[334] (230,962)<a class='prc-Link-Link-9ZwDx' href='/gztchan/awesome-design' />
+		[335] (230,961)<span  />
+			[336] (209,961)<font  />
+				[337] (209,961)<font >gztchan/ />
+			[338] (235,961)<em  />
+				[339] (235,961)<font  />
+					[340] (235,961)<font >멋진 />
+			[341] (255,961)<font  />
+				[342] (255,961)<font >디자인 />
+	🌟 전 세계에서 엄선한 디자인 리소스.
+	[343] (748,968)<button class='prc-Button-ButtonBase-9n-Xk' />
+		[344] (748,968)<span  />
+			[345] (754,968)<span  />
+				[346] (754,967)<font  />
+					[347] (754,967)<font >별 />
+	멋진 목록들
+	멋진 목록은 커뮤니티에서 엄선한 멋진 것들의 목록입니다.
+	[348] (885,231)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/topics/awesome' id='_r_22_' />
+		[349] (891,231)<span  />
+			[350] (891,231)<span  />
+				[351] (821,230)<font  />
+					[352] (821,230)<font >깃허브닷컴 />
+	[353] (885,265)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/sindresorhus/awesome' id='_r_23_' />
+		[354] (891,265)<span  />
+			[355] (891,265)<span  />
+				[356] (835,264)<font  />
+					[357] (835,264)<font >신드레소르후스/멋진 />
+	[358] (885,298)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/topics/awesome' id='_r_24_' />
+		[359] (891,298)<span  />
+			[360] (891,298)<span  />
+				[361] (818,298)<font  />
+					[362] (818,298)<font >주제 보기 />
+	여러분이 의존하는 오픈 소스 프로젝트를 후원하세요
+	기여자들은 모두를 위해 오픈소스를 더 나은 환경으로 만들기 위해 보이지 않는 곳에서 노력하고 있습니다. 그들에게 마땅한 도움과 인정을 베풀어 주세요.
+	[363] (885,531)<a class='MarketingSuggestion-module__ctaLink__dJv8m prc-Link-Link-9ZwDx' href='https://github.com/sponsors/explore' />
+		[364] (837,527)<font  />
+			[365] (837,527)<font >후원 가능한 프로젝트를 살펴보세요 />
+	검색 기능을 어떻게 개선할 수 있을까요?
+	[366] (923,601)<button class='Feedback-module__feedbackLink__MEXLw prc-Link-Link-9ZwDx' />
+		[367] (923,601)<span  />
+			[368] (923,601)<font  />
+				[369] (923,601)<font >피드백을 제공하세요 />
+	꿀팁!
+	누르세요
+	/
+	검색 입력란을 다시 활성화하고 검색어를 조정하려면 키를 누르십시오.
+
+</current_dom>

@@ -1,0 +1,151 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (258,87)<a href='https://www.coupang.com/' title='Coupang - 내가 잘사는 이유' />
+	[1] (258,87)<img  />
+전체
+[2] (496,85)<a class='select--category--button' href='#' id='sbToggle_93267308' />
+[3] (429,86)<a class='select--category__current' href='#' id='sbSelector_93267308'>전체 />
+[4] (665,85)<input class='coupang-search ad-keyword is-speech' id='headerSearchKeyword' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[5] (813,85)<a class='speech-content-mic speech-mic' href='#'>마이크 />
+[6] (851,86)<a class='search' href='javascript:throw new Error('React has blocked a javascript: URL as a security precaution.')' id='headerSearchBtn' title='검색'>검색 />
+[7] (928,87)<a href='https://mc.coupang.com/ssr/desktop/order/list' />
+	[8] (928,79)<span  />
+		[9] (928,79)<img  />
+	[10] (928,111)<span >마이쿠팡 />
+장바구니
+[11] (211,134)<a href='https://www.coupangplay.com/catalog' />
+	[12] (178,134)<img  />
+	[13] (222,134)<span >쿠팡플레이 />
+[14] (312,134)<a href='https://www.coupang.com/np/campaigns/82' />
+	[15] (286,134)<img  />
+	[16] (324,134)<span >로켓배송 />
+[17] (413,134)<a href='https://www.coupang.com/np/categories/393760' />
+	[18] (381,134)<img  />
+	[19] (425,134)<span >로켓프레시 />
+[20] (524,134)<a href='https://pages.coupang.com/p/168131' />
+	[21] (489,134)<img  />
+	[22] (528,134)<span >가정의 달 />
+	[23] (564,133)<i  />
+[24] (631,134)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[25] (603,134)<img  />
+	[26] (642,134)<span >다시 구매 />
+[27] (728,134)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[28] (702,134)<img  />
+	[29] (739,134)<span >쿠팡비즈 />
+[30] (823,134)<a href='https://www.coupang.com/np/coupangglobal' />
+	[31] (797,134)<img  />
+	[32] (834,134)<span >로켓직구 />
+[33] (918,134)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[34] (892,134)<img  />
+	[35] (929,134)<span >골드박스 />
+이달의신상
+[36] (78,120)<a href='javascript:throw new Error('React has blocked a javascript: URL as a security precaution.')'>카테고리 />
+[37] (817,19)<a href='https://mc.coupang.com/ssr/desktop/order/list' title='이*준님 마이쿠팡 바로가기'>님 />
+	[38] (812,19)<strong >이*준 />
+[39] (873,19)<a class='logout' href='https://login.coupang.com/login/logout.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogout%3Fr%3Dhttps%253A%252F%252Fmc.coupang.com%252Fssr%252Fdesktop%252Forder%252Flist' title='로그아웃' />
+	[40] (873,19)<span >로그아웃 />
+[41] (947,19)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+판매자 가입
+[42] (56,19)<a class='bookmark'>즐겨찾기 />
+[43] (125,19)<a class='dropdown_menu_flag'>입점신청 />
+	[44] (150,19)<i  />
+MY쿠팡
+MY 쇼핑
+[45] (103,312)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/order/list' title='주문목록/배송조회'>주문목록/배송조회 />
+[46] (103,344)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/cancel-return-exchange/list' title='취소/반품/교환/환불내역'>취소/반품/교환/환불내역 />
+[47] (103,376)<a class='sc-3cf5673a-10 hvIWVn' href='https://loyalty.coupang.com/loyalty/management/home' title='와우 멤버십'>와우 멤버십 />
+[48] (103,399)<a class='sc-3cf5673a-10 hvIWVn' href='https://dash-app.coupang.com/desktop/subscribe/list' title='구독 서비스'>구독 서비스 />
+	[49] (115,399)<span  />
+[50] (103,431)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/fresh-bag/main' title='로켓프레시 프레시백'>로켓프레시 프레시백 />
+	[51] (48,439)<span  />
+[52] (103,462)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/payment-receipt' title='영수증 조회/출력'>영수증 조회/출력 />
+MY 혜택
+[53] (103,552)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/discount-coupon' title='쿠폰 · 이용권'>쿠폰 · 이용권 />
+[54] (103,576)<a class='sc-3cf5673a-10 hvIWVn' href='https://cash.coupang.com/coupang-cash/home' title='쿠팡캐시/기프트카드'>쿠팡캐시/기프트카드 />
+MY 활동
+[55] (103,666)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/contact/inquiry' title='문의하기'>문의하기 />
+[56] (103,689)<a class='sc-3cf5673a-10 hvIWVn' href='/ssr/desktop/contact/inquiry' title='문의내역 확인'>문의내역 확인 />
+[57] (103,712)<a class='sc-3cf5673a-10 hvIWVn' href='https://my.coupang.com/productreview/reviewable' title='리뷰관리'>리뷰관리 />
+[58] (103,735)<a class='sc-3cf5673a-10 hvIWVn' href='https://wish-web.coupang.com/wishInitView.pang' title='찜 리스트'>찜 리스트 />
+MY 정보
+[59] (103,825)<a class='sc-3cf5673a-10 hvIWVn' href='https://login.coupang.com/login/userModify.pang' title='개인정보확인/수정'>개인정보확인/수정 />
+[60] (103,849)<a class='sc-3cf5673a-10 hvIWVn' href='https://payment.coupang.com/rocketpay/mypage' title='결제수단·쿠페이 관리'>결제수단·쿠페이 관리 />
+[61] (103,872)<a class='sc-3cf5673a-10 hvIWVn' href='https://id.coupang.com/addressbook/list?layoutType=mycoupang_desktop&displayTitle=true&displayDeliveryPreferences=true' title='배송지 관리'>배송지 관리 />
+[62] (103,895)<a class='sc-3cf5673a-10 hvIWVn' href='https://login.coupang.com/login/secession.pang' title='회원 탈퇴'>회원 탈퇴 />
+[63] (99,979)<a class='sc-3cf5673a-17 loAvqc my-lnb-cs__link' href='/ssr/desktop/contact/inquiry' />
+	[64] (99,979)<span  />
+		[65] (132,979)<span >쿠팡문의 />
+쿠페이 머니
+[66] (577,210)<a class='sc-59aa299-5 iFHAAF' href='https://payment.coupang.com/rocketpay/mypage' />
+	[67] (577,214)<span  />
+		[68] (554,210)<span >0 />
+		[69] (572,213)<span >원 />
+쿠팡캐시
+[70] (987,210)<span >0 />
+원
+주문목록
+[71] (443,349)<input class='sc-706e9423-3 lgQPoZ' placeholder='주문한 상품을 검색할 수 있어요!' />
+[72] (688,349)<div  />
+[73] (246,395)<div >최근 6개월 />
+[74] (317,395)<div >2026 />
+[75] (379,395)<div >2025 />
+[76] (441,395)<div >2024 />
+[77] (502,395)<div >2023 />
+[78] (564,395)<div >2022 />
+[79] (625,395)<div >2021 />
+2026. 4. 26 주문
+[80] (963,474)<div >주문 상세보기 />
+	주문 상세보기
+배송완료
+어제(월) 도착
+[81] (772,544)<button class='sc-91e81f98-0 ihbdOO' />
+	[82] (772,538)<div  />
+	[83] (772,544)<div  />
+	[84] (772,550)<div  />
+[85] (289,617)<a class='sc-408af0a8-0 hjrnzM sc-d4252421-0 hkhAgS' href='/ssr/sdp/link?vendorItemId=3000205578&imagePath=https%3A%2F%2Fthumbnail.coupangcdn.com%2Fthumbnails%2Fremote%2F120x120ex%2Fimage%2Fretail%2Fimages%2F308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg&sourceType=MyCoupang_my_orders_list_product_image' />
+	[86] (289,617)<img  />
+[87] (563,594)<a class='sc-5a139ee-10 sc-2bf0aafd-0 iQzGUh gqLzHJ' href='/ssr/sdp/link?vendorItemId=3000205578&imagePath=https%3A%2F%2Fthumbnail.coupangcdn.com%2Fthumbnails%2Fremote%2F120x120ex%2Fimage%2Fretail%2Fimages%2F308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg&sourceType=MyCoupang_my_orders_list_product_title' />
+	[88] (377,593)<img  />
+	[89] (597,593)<span >투데이넛 너트한줌 요거트 견과세트 600g, 30개 />
+[90] (563,630)<a class='sc-5a139ee-10 sc-2bf0aafd-5 iQzGUh kCujoX' />
+	[91] (394,630)<div  />
+		[92] (394,630)<div  />
+			[93] (375,630)<span >17,800 원 />
+			[94] (417,630)<span  />
+				[95] (417,630)<span  />
+			[96] (435,630)<span >1개 />
+	[97] (727,630)<div  />
+		[98] (727,630)<button class='sc-19a0c88a-0 jFNgnO sc-7f32fd37-0 gmZDBn'>장바구니 담기 />
+[99] (913,552)<button class='sc-19a0c88a-0 cARUAN sc-56309c84-0 dNMsmm'>배송 조회 />
+[100] (913,600)<button class='sc-19a0c88a-0 bDdUmV sc-5a139ee-8 fPbPIu'>교환, 반품 신청 />
+[101] (913,647)<button class='sc-19a0c88a-0 bDdUmV sc-5a139ee-8 fPbPIu'>리뷰 작성하기 />
+2026. 4. 11 주문
+[102] (963,781)<div >주문 상세보기 />
+	주문 상세보기
+배송완료
+4/14(화) 도착
+[103] (772,851)<button class='sc-91e81f98-0 ihbdOO' />
+	[104] (772,844)<div  />
+	[105] (772,851)<div  />
+	[106] (772,857)<div  />
+[107] (289,937)<a class='sc-408af0a8-0 hjrnzM sc-d4252421-0 hkhAgS' href='/ssr/sdp/link?vendorItemId=94424756111&imagePath=https%3A%2F%2Fthumbnail.coupangcdn.com%2Fthumbnails%2Fremote%2F120x120ex%2Fimage%2Fvendor_inventory%2Fa095%2Fcc1c386291c0662759749f51879caf27f754ff5ceb334af0fb0534086368.jpg&sourceType=MyCoupang_my_orders_list_product_image' />
+	[108] (289,937)<img  />
+[109] (563,913)<a class='sc-5a139ee-10 sc-2bf0aafd-0 iQzGUh gqLzHJ' href='/ssr/sdp/link?vendorItemId=94424756111&imagePath=https%3A%2F%2Fthumbnail.coupangcdn.com%2Fthumbnails%2Fremote%2F120x120ex%2Fimage%2Fvendor_inventory%2Fa095%2Fcc1c386291c0662759749f51879caf27f754ff5ceb334af0fb0534086368.jpg&sourceType=MyCoupang_my_orders_list_product_title' />
+	[110] (560,913)<span >SPM x HMX 목새 택타일 기계식 키보드 저소음 스위치 5핀 (35개 패키지) />
+[111] (563,962)<a class='sc-5a139ee-10 sc-2bf0aafd-5 iQzGUh kCujoX' />
+	[112] (394,962)<div  />
+		[113] (394,962)<div  />
+			[114] (375,962)<span >13,000 원 />
+			[115] (417,962)<span  />
+				[116] (417,962)<span  />
+			[117] (435,962)<span >2개 />
+	[118] (727,962)<div  />
+		[119] (727,962)<button class='sc-19a0c88a-0 jFNgnO sc-7f32fd37-0 gmZDBn'>장바구니 담기 />
+[120] (913,859)<button class='sc-19a0c88a-0 cARUAN sc-56309c84-0 dNMsmm'>배송 조회 />
+[121] (913,907)<button class='sc-19a0c88a-0 bDdUmV sc-5a139ee-8 fPbPIu'>교환, 반품 신청 />
+[122] (913,953)<button class='sc-19a0c88a-0 bDdUmV sc-5a139ee-8 fPbPIu'>리뷰 작성하기 />
+판매자 문의
+
+</current_dom>

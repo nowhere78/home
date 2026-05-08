@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (144,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/aden-hive' />
+	[3] (144,34)<span  />
+		[4] (144,33)<font  />
+			[5] (144,33)<font >아덴하이브 />
+[6] (220,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/aden-hive/hive' />
+	[7] (220,34)<span  />
+		[8] (220,33)<font  />
+			[9] (220,33)<font >벌집 />
+[10] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[11] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[12] (684,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[13] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[14] (740,34)<span  />
+[15] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[16] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[17] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[18] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[19] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[20] (967,34)<img  />
+저장소 탐색
+[21] (42,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive' />
+	[22] (42,81)<span  />
+		[23] (42,81)<font  />
+			[24] (42,81)<font >암호 />
+[25] (127,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/issues' />
+	[26] (105,81)<span  />
+		[27] (105,81)<font  />
+			[28] (105,81)<font >문제점 />
+	[29] (151,81)<span  />
+		[30] (151,81)<span  />
+			[31] (151,81)<font  />
+				[32] (151,81)<font >868 />
+		(
+		868
+		)
+[33] (258,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/pulls' />
+	[34] (236,81)<span  />
+		[35] (236,81)<font  />
+			[36] (236,81)<font >풀 리퀘스트 />
+	[37] (305,81)<span  />
+		[38] (305,81)<span  />
+			[39] (305,81)<font  />
+				[40] (305,81)<font >406 />
+		(
+		406
+		)
+[41] (383,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/agents?author=nowhere78' />
+	[42] (383,81)<span  />
+		[43] (383,81)<font  />
+			[44] (383,81)<font >자치령 대표 />
+[45] (482,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/discussions' />
+	[46] (482,81)<span  />
+		[47] (482,81)<font  />
+			[48] (482,81)<font >토론 />
+[49] (570,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/actions' />
+	[50] (570,81)<span  />
+		[51] (570,81)<font  />
+			[52] (570,81)<font >행위 />
+[53] (646,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/projects' />
+	[54] (646,81)<span  />
+		[55] (646,81)<font  />
+			[56] (646,81)<font >프로젝트 />
+[57] (764,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/security' />
+	[58] (764,81)<span  />
+		[59] (764,81)<font  />
+			[60] (764,81)<font >보안 및 품질 />
+[61] (882,81)<a class='prc-components-UnderlineItem-7fP-n' href='/aden-hive/hive/pulse' />
+	[62] (882,81)<span  />
+		[63] (882,81)<font  />
+			[64] (882,81)<font >인사이트 />
+[65] (33,140)<button class='prc-Button-ButtonBase-9n-Xk react-tree-toggle-button-with-indicator position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+[66] (113,140)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector-wide' />
+	[67] (113,140)<span  />
+		[68] (101,140)<span  />
+			[69] (101,140)<div  />
+				[70] (80,140)<div  />
+				[71] (111,140)<div  />
+					[72] (111,140)<span >main />
+Breadcrumbs
+[73] (201,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/aden-hive/hive/tree/main'>hive />
+/
+[74] (257,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/aden-hive/hive/tree/main/docs'>docs />
+/
+key_concepts
+/
+[75] (444,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+[76] (714,140)<span  />
+	[77] (612,140)<span  />
+	[78] (712,140)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[79] (813,140)<span  />
+		[80] (813,140)<kbd  />
+			[81] (813,140)<span >t />
+				t
+				[82] (813,140)<span >T />
+Add file
+[83] (894,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_gf_' />
+	[84] (894,140)<span  />
+		[85] (894,140)<span  />
+			[86] (894,140)<span >Add file />
+More options
+[87] (967,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_gk_' title='More options' />
+Latest commit
+[88] (45,198)<a class='prc-Link-Link-9ZwDx' href='/RichardTang-Aden' />
+	[89] (42,199)<img  />
+[90] (122,198)<a aria-label='commits by RichardTang-Aden' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/aden-hive/hive/commits?author=RichardTang-Aden'>RichardTang-Aden />
+[91] (279,198)<a class='Link--secondary' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0'>feat: worker agent memory />
+[92] (864,198)<a aria-label='Commit ec08ae7' class='Link--secondary prc-Link-Link-9ZwDx' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0'>ec08ae7 />
+·
+History
+[93] (956,198)<a aria-label='View commit history for this file.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/aden-hive/hive/commits/main/docs/key_concepts' />
+	[94] (956,198)<span  />
+Folders and files
+Name
+Last commit message
+Last commit date
+[95] (500,304)<tr  />
+	parent directory
+	[96] (500,305)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/aden-hive/hive/tree/main/docs' />
+		[97] (500,305)<div >.. />
+[98] (500,347)<tr  />
+	[99] (104,347)<a aria-label='evolution.md, (File)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/key_concepts/evolution.md' title='evolution.md'>evolution.md />
+	[100] (517,347)<a class='Link--secondary' href='/aden-hive/hive/commit/830f11c47d5f053822eb434eaac0103956077bce' title='docs: add key concept section'>docs: add key concept section />
+[101] (500,390)<tr  />
+	[102] (123,391)<a aria-label='goals_outcome.md, (File)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/key_concepts/goals_outcome.md' title='goals_outcome.md'>goals_outcome.md />
+	[103] (663,391)<a class='Link--secondary' href='/aden-hive/hive/commit/1f9c47fef1897d761e8598ef1ae885ce64e47a76' title='removed twitter agent, create new terminal, resume command, update quickstart'>removed twitter agent, create new terminal, resume command, update qu… />
+[104] (500,434)<tr  />
+	[105] (93,434)<a aria-label='graph.md, (File)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/key_concepts/graph.md' title='graph.md'>graph.md />
+	[106] (507,434)<a class='Link--secondary' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0' title='feat: worker agent memory'>feat: worker agent memory />
+[107] (500,477)<tr  />
+	[108] (117,478)<a aria-label='worker_agent.md, (File)' class='Link--primary' href='/aden-hive/hive/blob/main/docs/key_concepts/worker_agent.md' title='worker_agent.md'>worker_agent.md />
+	[109] (507,478)<a class='Link--secondary' href='/aden-hive/hive/commit/ec08ae7438436e8a1255a968021a4ff1af5ea8c0' title='feat: worker agent memory'>feat: worker agent memory />
+
+</current_dom>

@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+저장소 파일 탐색
+[0] (213,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (196,25)<span  />
+	[2] (219,25)<span  />
+		[3] (219,25)<font  />
+			[4] (219,25)<font >README />
+[5] (274,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[6] (250,25)<span  />
+	[7] (280,25)<span  />
+		[8] (280,25)<font  />
+			[9] (280,25)<font >기여하기 />
+[10] (352,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[11] (318,25)<span  />
+	[12] (359,25)<span  />
+		[13] (359,25)<font  />
+			[14] (359,25)<font >Apache-2.0 라이선스 />
+[15] (423,25)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (408,25)<span  />
+	[17] (429,25)<span  />
+		[18] (429,25)<font  />
+			[19] (429,25)<font >보안 />
+[20] (620,25)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[21] (641,25)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_16_' />
+[22] (419,258)<div  />
+	시작하기
+	macOS, Linux 및 Windows용
+	[23] (359,101)<a href='https://goose-docs.ai/docs/getting-started/installation' />
+		[24] (359,101)<font >데스크톱 앱을 다운로드하세요 . />
+	또는 CLI를 설치하세요.
+	curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download_cli.sh
+	|
+	bash
+	[25] (626,197)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+	바로가기 링크
+	[26] (193,276)<a aria-label='고유 링크: 빠른 링크' class='anchor' href='#quick-links' id='user-content-quick-links' />
+	[27] (234,337)<a href='https://goose-docs.ai/docs/quickstart' />
+		[28] (234,337)<font  />
+			[29] (234,337)<font >빠른 시작 />
+	[30] (225,366)<a href='https://goose-docs.ai/docs/getting-started/installation' />
+		[31] (225,366)<font  />
+			[32] (225,366)<font >설치 />
+	[33] (233,396)<a href='https://goose-docs.ai/docs/category/tutorials' />
+		[34] (233,396)<font  />
+			[35] (233,396)<font >튜토리얼 />
+	[36] (242,426)<a href='https://goose-docs.ai/docs/category/getting-started' />
+		[37] (242,426)<font  />
+			[38] (242,426)<font >선적 서류 비치 />
+	[39] (225,455)<a href='https://github.com/aaif-goose/goose/blob/main/GOVERNANCE.md' />
+		[40] (225,455)<font  />
+			[41] (225,455)<font >통치 />
+	[42] (250,485)<a href='https://github.com/aaif-goose/goose/blob/main/CUSTOM_DISTROS.md' />
+		[43] (250,485)<font  />
+			[44] (250,485)<font >사용자 지정 배포판 />
+	— 사전 구성된 공급자, 확장 기능 및 브랜딩을 사용하여 나만의 Goose 배포판을 구축하세요.
+	도움이 필요하세요?
+	[45] (193,539)<a aria-label='고유 링크: 도움이 필요하신가요?' class='anchor' href='#need-help' id='user-content-need-help' />
+	[46] (239,593)<a href='https://goose-docs.ai/docs/troubleshooting/diagnostics-and-reporting' />
+		[47] (239,593)<font  />
+			[48] (239,593)<font >진단 및 보고 />
+	[49] (241,623)<a href='https://goose-docs.ai/docs/troubleshooting/known-issues' />
+		[50] (241,623)<font  />
+			[51] (241,623)<font >알려진 문제점 />
+	약간의 거위 유머 🪿
+	[52] (193,683)<a aria-label='고유 링크: 약간의 거위 유머 🪿' class='anchor' href='#a-little-goose-humor-' id='user-content-a-little-goose-humor-' />
+	개발자는 왜 거위를 인공지능 에이전트로 선택했을까요?
+	왜냐하면 그렇게 하면 개발자들이 코드를 프로덕션 환경으로 "이전"하는 데 항상 도움이 되기 때문입니다! 🚀
+	우리와 함께 거위 놀이를 즐겨보세요
+	[53] (193,847)<a aria-label='Permalink: 우리와 함께 거위 구경하기' class='anchor' href='#goose-around-with-us' id='user-content-goose-around-with-us' />
+	[54] (225,908)<a href='https://discord.gg/goose-oss' />
+		[55] (225,908)<font  />
+			[56] (225,908)<font >불화 />
+	[57] (229,937)<a href='https://www.youtube.com/@goose-oss' />
+		[58] (229,937)<font  />
+			[59] (229,937)<font >유튜브 />
+	[60] (233,967)<a href='https://www.linkedin.com/company/goose-oss' />
+		[61] (233,967)<font  />
+			[62] (233,967)<font >링크드인 />
+	[63] (233,996)<a href='https://x.com/goose_oss' />
+		[64] (233,996)<font  />
+			[65] (233,996)<font >트위터/X />
+
+</current_dom>

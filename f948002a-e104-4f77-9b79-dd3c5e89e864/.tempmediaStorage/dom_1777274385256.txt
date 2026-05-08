@@ -1,0 +1,56 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (136,46)<a class='logo FL clearfix navbar-brand' href='https://www.quantconnect.com' id='header-qc-logo' title='QuantConnect - Democratizing Finance, Empowering Individuals' />
+[1] (282,42)<div id='search-wrapper' />
+	[2] (282,42)<input id='auto-complete-input-field' placeholder='' />
+[3] (650,42)<a class='top' href='/pricing/' title='Pricing'>Pricing />
+[4] (736,42)<a class='top' href='https://www.quantconnect.com/research/' title='Explore comprehensive financial research, providing insights, analysis, and trends for informed decision-making.'>Research />
+[5] (814,42)<a class='top' href='https://www.quantconnect.com/docs/' title='Learn more about how to make the most of QuantConnect in the documentation' />
+	[6] (814,42)<span >Docs />
+[7] (869,42)<a class='top' href='https://www.quantconnect.com/terminal/' title='Backtest your algorithms on historical data.' />
+	[8] (869,42)<span >Lab />
+[9] (939,42)<a class='dropdown-toggle top' href='/login/' role='button' title='Sign In to QuantConnect'>Sign In />
+	[10] (910,42)<i  />
+[11] (500,222)<h1 >QUANTCONNECT COMMUNITY />
+Research
+Announcements
+Lean
+[12] (853,355)<span >COMMUNITY FEED />
+|
+[13] (956,355)<button class='more-menu popover-initialized' id='more-menu-2' />
+	[14] (956,356)<div  />
+[15] (942,617)<span class='hide-discord' id='hide-discord' />
+[16] (500,666)<a class='discord-link' href='/discord' />
+Join Our Discord Channel
+Join QuantConnect's Discord server for real-time support, where a vibrant community of traders and developers awaits to help you with any of your QuantConnect needs.
+[17] (500,816)<div  />
+	[18] (70,811)<div  />
+		[19] (70,811)<a class='profile-popover thumb clickable' href='https://www.quantconnect.com/u/tim-nic' role='button' />
+	[20] (528,811)<div  />
+		[21] (528,811)<div  />
+			[22] (528,811)<div  />
+				[23] (539,799)<a class='title' href='https://www.quantconnect.com/forum/discussion/20529/how-to-get-every-stock-in-research/'>How to get every stock in research />
+				[24] (221,825)<div  />
+					[25] (152,825)<span >Started by />
+					[26] (213,830)<a class='commenter-name profile-popover' href='https://www.quantconnect.com/u/tim-nic' role='button'>Tim Nic />
+					[27] (245,825)<span >- />
+					[28] (287,825)<span >2 days ago />
+[29] (500,925)<div  />
+	[30] (70,920)<div  />
+		[31] (70,920)<a class='profile-popover thumb clickable' href='https://www.quantconnect.com/u/alberto_2' role='button' />
+	[32] (528,920)<div  />
+		[33] (528,920)<div  />
+			[34] (528,920)<div  />
+				[35] (539,908)<a class='title' href='https://www.quantconnect.com/forum/discussion/16409/credit-card-verification-problem/'>Credit card verification problem />
+				[36] (293,934)<div  />
+					[37] (174,934)<span >Last comment by />
+					[38] (307,939)<a class='commenter-name profile-popover' href='https://www.quantconnect.com/u/joanna-maria-wyrobek' role='button'>Joanna Maria Wyrobek />
+					[39] (389,934)<span >- />
+					[40] (431,934)<span >3 days ago />
+[41] (500,408)<a class='new-discussion-btn' href='https://www.quantconnect.com/terminal' role='button'>Sign up />
+SEARCH DISCUSSIONS
+[42] (480,505)<input class='form-control input-lg' id='discussions-search-box-desktop' placeholder='Keyword' />
+
+</current_dom>

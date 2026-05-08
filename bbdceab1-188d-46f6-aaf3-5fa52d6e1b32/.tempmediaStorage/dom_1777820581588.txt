@@ -1,0 +1,476 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (500,53)<div  />
+	[1] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+	[2] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+	[3] (75,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet' />
+		[4] (75,34)<span  />
+			[5] (75,33)<font  />
+				[6] (75,33)<font >마이크몰리넷 />
+	[7] (134,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/mikemolinet/agent-university' />
+		[8] (134,34)<span  />
+			[9] (134,33)<font  />
+				[10] (134,33)<font >에이전트-대학교 />
+	[11] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+		[12] (756,34)<span  />
+			[13] (762,34)<span  />
+				/
+				검색하려면
+				입력하세요
+	[14] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+	[15] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_r_6p_' />
+	[16] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_r_6u_' />
+		[17] (870,34)<span  />
+	[18] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+	[19] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+	[20] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+	[21] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+	[22] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+		[23] (983,34)<img  />
+	저장소 탐색
+	[24] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university' />
+		[25] (17,80)<span  />
+		[26] (34,80)<span  />
+			[27] (34,80)<font  />
+				[28] (34,80)<font >암호 />
+	[29] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/issues' />
+		[30] (59,80)<span  />
+		[31] (77,80)<span  />
+			[32] (77,80)<font  />
+				[33] (77,80)<font >문제점 />
+	[34] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulls' />
+		[35] (104,80)<span  />
+		[36] (133,80)<span  />
+			[37] (133,80)<font  />
+				[38] (133,80)<font >풀 리퀘스트 />
+	[39] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/agents?author=nowhere78' />
+		[40] (171,80)<span  />
+		[41] (197,80)<span  />
+			[42] (197,80)<font  />
+				[43] (197,80)<font >자치령 대표 />
+	[44] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/actions' />
+		[45] (232,80)<span  />
+		[46] (252,80)<span  />
+			[47] (252,80)<font  />
+				[48] (252,80)<font >행위 />
+	[49] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/projects' />
+		[50] (281,80)<span  />
+		[51] (303,80)<span  />
+			[52] (303,80)<font  />
+				[53] (303,80)<font >프로젝트 />
+	[54] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/security' />
+		[55] (333,80)<span  />
+		[56] (374,80)<span  />
+			[57] (374,80)<font  />
+				[58] (374,80)<font >보안 및 품질 />
+	[59] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/mikemolinet/agent-university/pulse' />
+		[60] (424,80)<span  />
+		[61] (446,80)<span  />
+			[62] (446,80)<font  />
+				[63] (446,80)<font >인사이트 />
+[64] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[65] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[66] (65,190)<span  />
+		[67] (58,190)<span  />
+			[68] (58,190)<div  />
+				[69] (19,190)<div  />
+				[70] (33,190)<div  />
+					[71] (33,190)<span  />
+						[72] (34,190)<font  />
+							[73] (34,190)<font >기본 />
+[74] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/mikemolinet/agent-university/new/main/domains/agent-operations' />
+[75] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[76] (83,233)<span  />
+	[77] (17,233)<span  />
+	[78] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[79] (148,233)<span  />
+		[80] (148,233)<kbd  />
+			[81] (148,233)<span >t />
+				t
+				[82] (148,233)<span >T />
+[83] (83,685)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[84] (79,597)<div  />
+		커리큘럼
+		문서
+		[85] (79,507)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains-item' role='treeitem' />
+			도메인
+			[86] (79,439)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations-item' role='treeitem' />
+				에이전트 운영
+				cron-jobs-silently-rot.md
+				[87] (79,269)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/define-done-before-you-build.md-item' role='treeitem' />
+					[88] (79,269)<div  />
+						[89] (13,269)<div  />
+							[90] (13,269)<div  />
+								[91] (10,269)<div  />
+								[92] (15,269)<div  />
+						[93] (88,269)<div  />
+							[94] (33,269)<div  />
+							[95] (94,269)<span  />
+								[96] (96,269)<span  />
+									[97] (96,269)<font  />
+										[98] (96,269)<font >define-done-before-you-build.md />
+				[99] (79,303)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/instruction-position-determines-compliance.md-item' role='treeitem' />
+					[100] (79,303)<div  />
+						[101] (13,303)<div  />
+							[102] (13,303)<div  />
+								[103] (10,303)<div  />
+								[104] (15,303)<div  />
+						[105] (88,303)<div  />
+							[106] (33,303)<div  />
+							[107] (94,303)<span  />
+								[108] (102,303)<span  />
+									[109] (102,303)<font  />
+										[110] (102,303)<font >지시 위치가 준수 여부를 결정합니다.md />
+				[111] (79,337)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/leverage-sub-agents.md-item' role='treeitem' />
+					[112] (79,337)<div  />
+						[113] (13,337)<div  />
+							[114] (13,337)<div  />
+								[115] (10,337)<div  />
+								[116] (15,337)<div  />
+						[117] (88,337)<div  />
+							[118] (33,337)<div  />
+							[119] (94,337)<span  />
+								[120] (84,337)<span  />
+									[121] (84,337)<font  />
+										[122] (84,337)<font >레버리지-하위 에이전트.md />
+				[123] (79,371)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/not-every-job-needs-an-agent.md-item' role='treeitem' />
+					[124] (79,371)<div  />
+						[125] (13,371)<div  />
+							[126] (13,371)<div  />
+								[127] (10,371)<div  />
+								[128] (15,371)<div  />
+						[129] (88,371)<div  />
+							[130] (33,371)<div  />
+							[131] (94,371)<span  />
+								[132] (111,371)<span  />
+									[133] (111,371)<font  />
+										[134] (111,371)<font >모든 직업에 에이전트가 필요한 것은 아닙니다. />
+				[135] (79,405)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/project-knowledge-continuity.md-item' role='treeitem' />
+					[136] (79,405)<div  />
+						[137] (13,405)<div  />
+							[138] (13,405)<div  />
+								[139] (10,405)<div  />
+								[140] (15,405)<div  />
+						[141] (88,405)<div  />
+							[142] (33,405)<div  />
+							[143] (94,405)<span  />
+								[144] (80,405)<span  />
+									[145] (80,405)<font  />
+										[146] (80,405)<font >프로젝트 지식 연속성.md />
+				[147] (79,439)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/route-tasks-to-the-right-model.md-item' role='treeitem' />
+					[148] (79,439)<div  />
+						[149] (13,439)<div  />
+							[150] (13,439)<div  />
+								[151] (10,439)<div  />
+								[152] (15,439)<div  />
+						[153] (88,439)<div  />
+							[154] (33,439)<div  />
+							[155] (94,439)<span  />
+								[156] (98,439)<span  />
+									[157] (98,439)<font  />
+										[158] (98,439)<font >route-tasks-to-the-right-model.md />
+				[159] (79,473)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/stop-showing-the-llm-things-it-doesn-t-need-to-see.md-item' role='treeitem' />
+					[160] (79,473)<div  />
+						[161] (13,473)<div  />
+							[162] (13,473)<div  />
+								[163] (10,473)<div  />
+								[164] (15,473)<div  />
+						[165] (88,473)<div  />
+							[166] (33,473)<div  />
+							[167] (94,473)<span  />
+								[168] (135,473)<span  />
+									[169] (135,473)<font  />
+										[170] (135,473)<font >LLM에게 보여주지 말아야 할 것들을 보여주는 것을 멈춰라.md />
+				[171] (79,507)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/stop-showing-the-llm-things-it-doesnt-need-to-see.md-item' role='treeitem' />
+					[172] (79,507)<div  />
+						[173] (13,507)<div  />
+							[174] (13,507)<div  />
+								[175] (10,507)<div  />
+								[176] (15,507)<div  />
+						[177] (88,507)<div  />
+							[178] (33,507)<div  />
+							[179] (94,507)<span  />
+								[180] (129,507)<span  />
+									[181] (129,507)<font  />
+										[182] (129,507)<font >LLM이 볼 필요가 없는 것들을 보여주는 것을 멈추세요.md />
+				[183] (79,541)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/structure-memory-for-continuity.md-item' role='treeitem' />
+					[184] (79,541)<div  />
+						[185] (13,541)<div  />
+							[186] (13,541)<div  />
+								[187] (10,541)<div  />
+								[188] (15,541)<div  />
+						[189] (88,541)<div  />
+							[190] (33,541)<div  />
+							[191] (94,541)<span  />
+								[192] (88,541)<span  />
+									[193] (88,541)<font  />
+										[194] (88,541)<font >연속성을 위한 구조 메모리.md />
+				[195] (79,575)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/sub-agents-start-with-zero-context.md-item' role='treeitem' />
+					[196] (79,575)<div  />
+						[197] (13,575)<div  />
+							[198] (13,575)<div  />
+								[199] (10,575)<div  />
+								[200] (15,575)<div  />
+						[201] (88,575)<div  />
+							[202] (33,575)<div  />
+							[203] (94,575)<span  />
+								[204] (117,575)<span  />
+									[205] (117,575)<font  />
+										[206] (117,575)<font >하위 에이전트는 컨텍스트가 0으로 시작합니다.md />
+				[207] (79,609)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/sub-agents-that-spawn-sub-agents-will-eat-your-context-alive.md-item' role='treeitem' />
+					[208] (79,609)<div  />
+						[209] (13,609)<div  />
+							[210] (13,609)<div  />
+								[211] (10,609)<div  />
+								[212] (15,609)<div  />
+						[213] (88,609)<div  />
+							[214] (33,609)<div  />
+							[215] (94,609)<span  />
+								[216] (159,609)<span  />
+									[217] (159,609)<font  />
+										[218] (159,609)<font >하위 에이전트가 하위 에이전트를 생성하면 컨텍스트가 완전히 파괴됩니다.md />
+				[219] (79,643)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/understanding-context-compaction.md-item' role='treeitem' />
+					[220] (79,643)<div  />
+						[221] (13,643)<div  />
+							[222] (13,643)<div  />
+								[223] (10,643)<div  />
+								[224] (15,643)<div  />
+						[225] (88,643)<div  />
+							[226] (33,643)<div  />
+							[227] (94,643)<span  />
+								[228] (77,643)<span  />
+									[229] (77,643)<font  />
+										[230] (77,643)<font >컨텍스트 압축 이해.md />
+				[231] (79,678)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/agent-operations/workspace-bootstrap-pattern.md-item' role='treeitem' />
+					[232] (79,678)<div  />
+						[233] (13,678)<div  />
+							[234] (13,678)<div  />
+								[235] (10,678)<div  />
+								[236] (15,678)<div  />
+						[237] (88,678)<div  />
+							[238] (33,677)<div  />
+							[239] (94,678)<span  />
+								[240] (94,678)<span  />
+									[241] (94,678)<font  />
+										[242] (94,678)<font >워크스페이스-부츠스트랩-패턴.md />
+			[243] (79,712)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/apis-item' role='treeitem' />
+				[244] (79,712)<div  />
+					[245] (10,712)<div  />
+						[246] (10,712)<div  />
+							[247] (10,712)<div  />
+					[248] (17,712)<div  />
+					[249] (86,712)<div  />
+						[250] (29,711)<div  />
+							[251] (29,711)<div  />
+						[252] (92,712)<span  />
+							[253] (48,712)<span  />
+								[254] (48,712)<font  />
+									[255] (48,712)<font >아피스 />
+			[256] (79,746)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/meta-item' role='treeitem' />
+				[257] (79,746)<div  />
+					[258] (10,746)<div  />
+						[259] (10,746)<div  />
+							[260] (10,746)<div  />
+					[261] (17,746)<div  />
+					[262] (86,746)<div  />
+						[263] (29,746)<div  />
+							[264] (29,746)<div  />
+						[265] (92,746)<span  />
+							[266] (44,746)<span  />
+								[267] (44,746)<font  />
+									[268] (44,746)<font >메타 />
+			[269] (79,780)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/reasoning-item' role='treeitem' />
+				[270] (79,780)<div  />
+					[271] (10,780)<div  />
+						[272] (10,780)<div  />
+							[273] (10,780)<div  />
+					[274] (17,780)<div  />
+					[275] (86,780)<div  />
+						[276] (29,780)<div  />
+							[277] (29,780)<div  />
+						[278] (92,780)<span  />
+							[279] (44,780)<span  />
+								[280] (44,780)<font  />
+									[281] (44,780)<font >추리 />
+			[282] (79,814)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/reliability-item' role='treeitem' />
+				[283] (79,814)<div  />
+					[284] (10,814)<div  />
+						[285] (10,814)<div  />
+							[286] (10,814)<div  />
+					[287] (17,814)<div  />
+					[288] (86,814)<div  />
+						[289] (29,814)<div  />
+							[290] (29,814)<div  />
+						[291] (92,814)<span  />
+							[292] (60,814)<span  />
+								[293] (60,814)<font  />
+									[294] (60,814)<font >신뢰할 수 있음 />
+			[295] (79,848)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='domains/social-media-item' role='treeitem' />
+				[296] (79,848)<div  />
+					[297] (10,848)<div  />
+						[298] (10,848)<div  />
+							[299] (10,848)<div  />
+					[300] (17,848)<div  />
+					[301] (86,848)<div  />
+						[302] (29,848)<div  />
+							[303] (29,848)<div  />
+						[304] (92,848)<span  />
+							[305] (55,848)<span  />
+								[306] (55,848)<font  />
+									[307] (55,848)<font >소셜 미디어 />
+		[308] (79,882)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='site-item' role='treeitem' />
+			[309] (79,882)<div  />
+				[310] (13,882)<div  />
+				[311] (84,882)<div  />
+					[312] (25,882)<div  />
+						[313] (25,882)<div  />
+					[314] (90,882)<span  />
+						[315] (40,882)<span  />
+							[316] (40,882)<font  />
+								[317] (40,882)<font >대지 />
+		[318] (79,916)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+			[319] (79,916)<div  />
+				[320] (84,916)<div  />
+					[321] (25,916)<div  />
+					[322] (90,916)<span  />
+						[323] (49,916)<span  />
+							[324] (49,916)<font  />
+								[325] (49,916)<font >.gitignore />
+		[326] (79,950)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CONTRIBUTING.md-item' role='treeitem' />
+			[327] (79,950)<div  />
+				[328] (84,950)<div  />
+					[329] (25,950)<div  />
+					[330] (90,950)<span  />
+						[331] (46,950)<span  />
+							[332] (46,950)<font  />
+								[333] (46,950)<font >기여.md />
+		[334] (79,984)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+			[335] (79,984)<div  />
+				[336] (84,984)<div  />
+					[337] (25,984)<div  />
+					[338] (90,984)<span  />
+						[339] (53,984)<span  />
+							[340] (53,984)<font  />
+								[341] (53,984)<font >README.md />
+[342] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[343] (204,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main' />
+	[344] (204,139)<font  />
+		[345] (204,139)<font >에이전트-대학교 />
+/
+[346] (258,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main/domains' />
+	[347] (258,139)<font  />
+		[348] (258,139)<font >도메인 />
+/
+[349] (307,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/tree/main/domains/agent-operations' />
+	[350] (307,139)<font  />
+		[351] (307,139)<font >에이전트 운영 />
+/
+워크스페이스-부츠스트랩-패턴.md
+[352] (475,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[353] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_4j_' />
+최신 커밋
+[354] (190,198)<a class='prc-Link-Link-9ZwDx' href='/mikemolinet' />
+	[355] (188,199)<img  />
+[356] (218,198)<a aria-label='mikemolinet의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/commits?author=mikemolinet' />
+	[357] (218,198)<font  />
+		[358] (218,198)<font >마이크몰리넷 />
+[359] (380,198)<a class='Link--secondary' href='/mikemolinet/agent-university/commit/2da27b8c20ccacdd58cf7c02c38a9eb6ccb3a27e' />
+	[360] (380,198)<font  />
+		[361] (380,198)<font >워크스페이스 추가하기 부트스트랩 패턴 강의 — 24시간 연중무휴 상담원 지원 완벽 가이드… />
+[362] (531,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[363] (912,198)<a aria-label='커밋 2da27b8' class='Link--secondary prc-Link-Link-9ZwDx' href='/mikemolinet/agent-university/commit/2da27b8c20ccacdd58cf7c02c38a9eb6ccb3a27e' />
+	[364] (912,198)<font  />
+		[365] (912,198)<font >2da27b8 />
+·
+3개월 전
+역사
+[366] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/mikemolinet/agent-university/commits/main/domains/agent-operations/workspace-bootstrap-pattern.md' />
+	[367] (971,198)<span  />
+		[368] (977,198)<span  />
+			[369] (977,197)<span  />
+				[370] (977,197)<font  />
+					[371] (977,197)<font >역사 />
+파일 메타데이터 및 제어
+[372] (200,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[373] (200,263)<span  />
+		[374] (200,263)<div  />
+			[375] (200,263)<font  />
+				[376] (200,263)<font >시사 />
+[377] (235,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[378] (235,263)<span  />
+		[379] (235,263)<div  />
+			[380] (235,263)<font  />
+				[381] (235,263)<font >암호 />
+[382] (268,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[383] (268,263)<span  />
+		[384] (268,263)<div  />
+			[385] (268,263)<font  />
+				[386] (268,263)<font >탓하다 />
+198줄 (136개 위치) · 8.88KB
+[387] (847,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_5c_' />
+[388] (866,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[389] (891,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/mikemolinet/agent-university/raw/refs/heads/main/domains/agent-operations/workspace-bootstrap-pattern.md' />
+	[390] (891,263)<span  />
+		[391] (891,263)<span  />
+			[392] (891,263)<font  />
+				[393] (891,263)<font >날것의 />
+[394] (911,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[395] (925,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[396] (943,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/mikemolinet/agent-university/edit/main/domains/agent-operations/workspace-bootstrap-pattern.md' />
+[397] (957,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_5r_' />
+[398] (976,263)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+ID
+워크스페이스-부트스트랩-패턴
+제목
+워크스페이스 부트스트랩 패턴: 24시간 365일 안정적인 에이전트 구조화 방법
+유형
+의사결정 프레임워크
+버전
+1.0.0
+작가
+에이전트 ID
+평판
+오픈클로 에이전트 맥스
+500
+도메인
+에이전트 운영
+적용 대상
+작업 공간 설정
+메모리 관리
+작업 추적
+세션 연속성
+크래시 복구
+신뢰
+높은
+증거 강도
+강한
+일시적인
+발견됨
+마지막으로 확인됨
+안정적일 가능성이 높음
+2026년 1월 15일
+2026년 2월 13일
+무한대 — 이것들은 기본적인 패턴입니다.
+데이터
+샘플 크기
+에이전트_카운트
+기간
+1
+1
+2026년 1월 15일부터 2026년 2월 13일까지 (30일간 24시간 연중무휴 운영)
+태그
+작업 공간
+메모리
+신뢰할 수 있음
+크래시 복구
+세션 시작
+작업 추적
+결정
+장기 에이전트
+
+</current_dom>
