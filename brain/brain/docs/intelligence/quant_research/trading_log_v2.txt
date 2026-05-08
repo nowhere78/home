@@ -1,0 +1,50 @@
+[2026-04-27 02:04:34] ====== Trading Bot v2.0 Started ======
+[2026-04-27 02:04:34] Tickers: ['KRW-XRP', 'KRW-BTC', 'KRW-ETH']
+[2026-04-27 02:04:34] Strategy: RSI + MACD + Bollinger Bands
+[2026-04-27 02:04:34] Invest: 15.0% | TP: 3.0% | SL: -5.0%
+[2026-04-27 02:04:34] =======================================
+[2026-04-27 02:04:35]   KRW-XRP | Price=2,117.00 | RSI=22.22 | MACD_X=False | BB=-0.029 | Score=2/3
+[2026-04-27 02:04:35]   KRW-BTC | Price=115,886,000.00 | RSI=41.45 | MACD_X=False | BB=0.214 | Score=0/3
+[2026-04-27 02:04:35]   KRW-ETH | Price=3,480,000.00 | RSI=40.74 | MACD_X=False | BB=0.072 | Score=1/3
+[2026-04-27 02:04:36] [BUY] KRW-XRP | 12,749원 @ 2,117.00 | Score=2/3
+[2026-04-27 02:05:07] [HOLD] KRW-XRP | Price=2,117.00 | PnL=+0.00% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:05:38] [HOLD] KRW-XRP | Price=2,116.00 | PnL=-0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:06:08] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:06:39] [HOLD] KRW-XRP | Price=2,116.00 | PnL=-0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:07:10] [HOLD] KRW-XRP | Price=2,116.00 | PnL=-0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:07:41] [HOLD] KRW-XRP | Price=2,116.00 | PnL=-0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:08:12] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:08:43] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:09:14] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:09:45] [HOLD] KRW-XRP | Price=2,117.00 | PnL=+0.00% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:10:15] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:10:46] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:11:17] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:11:48] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:12:19] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:12:50] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:13:21] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:13:52] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:14:23] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:14:54] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:15:24] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:15:55] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:16:26] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:16:57] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:17:28] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:17:59] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:18:30] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:19:01] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:19:32] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:20:02] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:20:33] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:21:04] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:21:35] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:22:06] [HOLD] KRW-XRP | Price=2,120.00 | PnL=+0.14% | Trail=+0.00% | Qty=13.100962
+[2026-04-27 02:22:37] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:23:08] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:23:39] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:24:10] [HOLD] KRW-XRP | Price=2,118.00 | PnL=+0.05% | Trail=-0.09% | Qty=13.100962
+[2026-04-27 02:24:40] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:25:11] [HOLD] KRW-XRP | Price=2,119.00 | PnL=+0.09% | Trail=-0.05% | Qty=13.100962
+[2026-04-27 02:25:24] Bot manually stopped (Ctrl+C).

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omega Dispatch | Structural Risk Intelligence</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <button class="menu-btn" id="menu-toggle"><i class="fas fa-bars"></i></button>
+            <div class="logo">
+                <i class="fas fa-omega neon-icon"></i>
+                <span>Omega<span class="highlight">Dispatch</span></span>
+            </div>
+        </div>
+        <div class="nav-center">
+            <div class="search-bar">
+                <input type="text" placeholder="자산군 위험 괴리 검색...">
+                <button><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+        <div class="nav-right">
+            <button class="icon-btn"><i class="fas fa-chart-line"></i></button>
+            <button class="icon-btn"><i class="fas fa-bell"></i></button>
+            <img src="https://ui-avatars.com/api/?name=Omega&background=800020&color=D4AF37" alt="Profile" class="profile-img">
+        </div>
+    </nav>
+
+    <div class="dashboard">
+        <header class="hero-section">
+            <h1 class="fade-in">⚡ 구조적 위험 괴리 지수</h1>
+            <p>데이터가 아닌 '인과관계'를 통해 시장의 취약점을 분별합니다.</p>
+        </header>
+
+        <div class="grid-container">
+            <!-- Risk Card 1 -->
+            <div class="card">
+                <div class="card-header">
+                    <span class="risk-tag">CRITICAL</span>
+                    <span class="live-indicator"></span>
+                </div>
+                <h3>비트코인 구조적 괴리</h3>
+                <p class="text-muted">시장 심리와 실제 온체인 데이터의 이격</p>
+                <div class="divergence-value">+2.45</div>
+                <div class="chart-mini">
+                    <!-- Chart logic will be injected here -->
+                </div>
+            </div>
+
+            <!-- Risk Card 2 -->
+            <div class="card">
+                <div class="card-header">
+                    <span class="risk-tag" style="background: var(--primary-gold); color: black;">WARNING</span>
+                </div>
+                <h3>나스닥 섹터 베타</h3>
+                <p class="text-muted">거시 경제 지표 대비 과열 양상</p>
+                <div class="divergence-value">+1.82</div>
+            </div>
+
+            <!-- Risk Card 3 -->
+            <div class="card">
+                <div class="card-header">
+                    <span class="risk-tag" style="background: #2ecc71;">STABLE</span>
+                </div>
+                <h3>달러 인덱스 안정성</h3>
+                <p class="text-muted">글로벌 유동성 흐름 분석</p>
+                <div class="divergence-value">0.12</div>
+            </div>
+        </div>
+
+        <section class="analysis-story mt-5">
+            <h2 class="mb-4" style="color: var(--primary-gold)">📢 오늘의 핵심 인사이트: "왜(Why)"에 주목하십시오</h2>
+            <div class="card" style="border-left: 5px solid var(--primary-burgundy);">
+                <p>현재 비트코인의 상승은 단순 수급이 아닌, <strong>구조적 괴리 지수의 급등</strong>과 일치합니다. 이는 40대 투자자들이 가장 경계해야 할 '거품의 인과관계'를 시사하며, 포트폴리오의 리스크 헤지가 시급한 시점입니다.</p>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

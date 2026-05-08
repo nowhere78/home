@@ -1,0 +1,4 @@
+FROM luna-expert-v5:latest
+PARAMETER num_gpu 99
+PARAMETER temperature 0.1
+PARAMETER repeat_penalty 1.1
