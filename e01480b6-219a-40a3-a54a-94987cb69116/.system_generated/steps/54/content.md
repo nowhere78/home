@@ -1,0 +1,941 @@
+Title: GitHub - SpaceLearner/Awesome-DynamicGraphLearning: Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs). · GitHub
+
+Description: Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs). - SpaceLearner/Awesome-DynamicGraphLearning
+
+Source: https://github.com/SpaceLearner/Awesome-DynamicGraphLearning
+
+---
+
+[Skip to content](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning#start-of-content)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+- PlatformAI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)[View all features](https://github.com/features)
+- AI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+- APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+
+- SolutionsBY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)[View all solutions](https://github.com/solutions)
+- BY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+- BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+- BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+- ResourcesEXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)[View all resources](https://github.com/resources)
+- EXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+
+- EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+- SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+- Open SourceCOMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- COMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+- REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+- EnterpriseENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- ENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [Pricing](https://github.com/pricing)
+- AI CODE CREATION[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)[GitHub ModelsManage and compare prompts](https://github.com/features/models)[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+
+- DEVELOPER WORKFLOWS[ActionsAutomate any workflow](https://github.com/features/actions)[CodespacesInstant dev environments](https://github.com/features/codespaces)[IssuesPlan and track work](https://github.com/features/issues)[Code ReviewManage code changes](https://github.com/features/code-review)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+- APPLICATION SECURITY[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- EXPLORE[Why GitHub](https://github.com/why-github)[Documentation](https://docs.github.com)[Blog](https://github.blog)[Changelog](https://github.blog/changelog)[Marketplace](https://github.com/marketplace)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+- [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+- [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+- [GitHub ModelsManage and compare prompts](https://github.com/features/models)
+- [MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+[GitHub CopilotWrite better code with AI](https://github.com/features/copilot)
+[GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)
+[GitHub ModelsManage and compare prompts](https://github.com/features/models)
+[MCP RegistryNewIntegrate external tools](https://github.com/mcp)
+- [ActionsAutomate any workflow](https://github.com/features/actions)
+- [CodespacesInstant dev environments](https://github.com/features/codespaces)
+- [IssuesPlan and track work](https://github.com/features/issues)
+- [Code ReviewManage code changes](https://github.com/features/code-review)
+[ActionsAutomate any workflow](https://github.com/features/actions)
+[CodespacesInstant dev environments](https://github.com/features/codespaces)
+[IssuesPlan and track work](https://github.com/features/issues)
+[Code ReviewManage code changes](https://github.com/features/code-review)
+- [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+- [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+- [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+[GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)
+[Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)
+[Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+- [Why GitHub](https://github.com/why-github)
+- [Documentation](https://docs.github.com)
+- [Blog](https://github.blog)
+- [Changelog](https://github.blog/changelog)
+- [Marketplace](https://github.com/marketplace)
+[Why GitHub](https://github.com/why-github)
+[Documentation](https://docs.github.com)
+[Blog](https://github.blog)
+[Changelog](https://github.blog/changelog)
+[Marketplace](https://github.com/marketplace)
+[View all features](https://github.com/features)
+- BY COMPANY SIZE[Enterprises](https://github.com/enterprise)[Small and medium teams](https://github.com/team)[Startups](https://github.com/enterprise/startups)[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+
+- BY USE CASE[App Modernization](https://github.com/solutions/use-case/app-modernization)[DevSecOps](https://github.com/solutions/use-case/devsecops)[DevOps](https://github.com/solutions/use-case/devops)[CI/CD](https://github.com/solutions/use-case/ci-cd)[View all use cases](https://github.com/solutions/use-case)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+- BY INDUSTRY[Healthcare](https://github.com/solutions/industry/healthcare)[Financial services](https://github.com/solutions/industry/financial-services)[Manufacturing](https://github.com/solutions/industry/manufacturing)[Government](https://github.com/solutions/industry/government)[View all industries](https://github.com/solutions/industry)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+- [Enterprises](https://github.com/enterprise)
+- [Small and medium teams](https://github.com/team)
+- [Startups](https://github.com/enterprise/startups)
+- [Nonprofits](https://github.com/solutions/industry/nonprofits)
+[Enterprises](https://github.com/enterprise)
+[Small and medium teams](https://github.com/team)
+[Startups](https://github.com/enterprise/startups)
+[Nonprofits](https://github.com/solutions/industry/nonprofits)
+- [App Modernization](https://github.com/solutions/use-case/app-modernization)
+- [DevSecOps](https://github.com/solutions/use-case/devsecops)
+- [DevOps](https://github.com/solutions/use-case/devops)
+- [CI/CD](https://github.com/solutions/use-case/ci-cd)
+- [View all use cases](https://github.com/solutions/use-case)
+[App Modernization](https://github.com/solutions/use-case/app-modernization)
+[DevSecOps](https://github.com/solutions/use-case/devsecops)
+[DevOps](https://github.com/solutions/use-case/devops)
+[CI/CD](https://github.com/solutions/use-case/ci-cd)
+[View all use cases](https://github.com/solutions/use-case)
+- [Healthcare](https://github.com/solutions/industry/healthcare)
+- [Financial services](https://github.com/solutions/industry/financial-services)
+- [Manufacturing](https://github.com/solutions/industry/manufacturing)
+- [Government](https://github.com/solutions/industry/government)
+- [View all industries](https://github.com/solutions/industry)
+[Healthcare](https://github.com/solutions/industry/healthcare)
+[Financial services](https://github.com/solutions/industry/financial-services)
+[Manufacturing](https://github.com/solutions/industry/manufacturing)
+[Government](https://github.com/solutions/industry/government)
+[View all industries](https://github.com/solutions/industry)
+[View all solutions](https://github.com/solutions)
+- EXPLORE BY TOPIC[AI](https://github.com/resources/articles?topic=ai)[Software Development](https://github.com/resources/articles?topic=software-development)[DevOps](https://github.com/resources/articles?topic=devops)[Security](https://github.com/resources/articles?topic=security)[View all topics](https://github.com/resources/articles)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+- EXPLORE BY TYPE[Customer stories](https://github.com/customer-stories)[Events & webinars](https://github.com/resources/events)[Ebooks & reports](https://github.com/resources/whitepapers)[Business insights](https://github.com/solutions/executive-insights)[GitHub Skills](https://skills.github.com)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+
+- SUPPORT & SERVICES[Documentation](https://docs.github.com)[Customer support](https://support.github.com)[Community forum](https://github.com/orgs/community/discussions)[Trust center](https://github.com/trust-center)[Partners](https://github.com/partners)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+- [AI](https://github.com/resources/articles?topic=ai)
+- [Software Development](https://github.com/resources/articles?topic=software-development)
+- [DevOps](https://github.com/resources/articles?topic=devops)
+- [Security](https://github.com/resources/articles?topic=security)
+- [View all topics](https://github.com/resources/articles)
+[AI](https://github.com/resources/articles?topic=ai)
+[Software Development](https://github.com/resources/articles?topic=software-development)
+[DevOps](https://github.com/resources/articles?topic=devops)
+[Security](https://github.com/resources/articles?topic=security)
+[View all topics](https://github.com/resources/articles)
+- [Customer stories](https://github.com/customer-stories)
+- [Events & webinars](https://github.com/resources/events)
+- [Ebooks & reports](https://github.com/resources/whitepapers)
+- [Business insights](https://github.com/solutions/executive-insights)
+- [GitHub Skills](https://skills.github.com)
+[Customer stories](https://github.com/customer-stories)
+[Events & webinars](https://github.com/resources/events)
+[Ebooks & reports](https://github.com/resources/whitepapers)
+[Business insights](https://github.com/solutions/executive-insights)
+[GitHub Skills](https://skills.github.com)
+- [Documentation](https://docs.github.com)
+- [Customer support](https://support.github.com)
+- [Community forum](https://github.com/orgs/community/discussions)
+- [Trust center](https://github.com/trust-center)
+- [Partners](https://github.com/partners)
+[Documentation](https://docs.github.com)
+[Customer support](https://support.github.com)
+[Community forum](https://github.com/orgs/community/discussions)
+[Trust center](https://github.com/trust-center)
+[Partners](https://github.com/partners)
+[View all resources](https://github.com/resources)
+- COMMUNITY[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- PROGRAMS[Security Lab](https://securitylab.github.com)[Maintainer Community](https://maintainers.github.com)[Accelerator](https://github.com/accelerator)[GitHub Stars](https://stars.github.com)[Archive Program](https://archiveprogram.github.com)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+- REPOSITORIES[Topics](https://github.com/topics)[Trending](https://github.com/trending)[Collections](https://github.com/collections)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+- [GitHub SponsorsFund open source developers](https://github.com/sponsors)
+[GitHub SponsorsFund open source developers](https://github.com/sponsors)
+- [Security Lab](https://securitylab.github.com)
+- [Maintainer Community](https://maintainers.github.com)
+- [Accelerator](https://github.com/accelerator)
+- [GitHub Stars](https://stars.github.com)
+- [Archive Program](https://archiveprogram.github.com)
+[Security Lab](https://securitylab.github.com)
+[Maintainer Community](https://maintainers.github.com)
+[Accelerator](https://github.com/accelerator)
+[GitHub Stars](https://stars.github.com)
+[Archive Program](https://archiveprogram.github.com)
+- [Topics](https://github.com/topics)
+- [Trending](https://github.com/trending)
+- [Collections](https://github.com/collections)
+[Topics](https://github.com/topics)
+[Trending](https://github.com/trending)
+[Collections](https://github.com/collections)
+- ENTERPRISE SOLUTIONS[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+
+- AVAILABLE ADD-ONS[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+- [Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+[Enterprise platformAI-powered developer platform](https://github.com/enterprise)
+- [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+- [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+- [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+[GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)
+[Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+[Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)
+[Pricing](https://github.com/pricing)
+
+# Search code, repositories, users, issues, pull requests...
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+# Provide feedback
+We read every piece of feedback, and take your input very seriously.
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SpaceLearner%2FAwesome-DynamicGraphLearning)
+[Reload](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[Reload](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[Reload](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[SpaceLearner](https://github.com/SpaceLearner)
+[Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+- 
+            [Notifications](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)    You must be signed in to change notification settings
+
+
+- 
+          [Fork
+    86](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+
+- 
+
+        [Star
+          708](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+
+[Notifications](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+[Fork
+    86](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+[Star
+          708](https://github.com/login?return_to=%2FSpaceLearner%2FAwesome-DynamicGraphLearning)
+- 
+  [Code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+- 
+  [Issues
+          3](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/issues)
+- 
+  [Pull requests
+          0](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulls)
+- 
+  [Actions](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/actions)
+- 
+  [Projects](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/projects)
+- 
+  [Security and quality
+          0](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/security)
+- 
+  [Insights](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulse)
+[Code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[Issues
+          3](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/issues)
+[Pull requests
+          0](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulls)
+[Actions](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/actions)
+[Projects](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/projects)
+[Security and quality
+          0](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/security)
+[Insights](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulse)
+- 
+
+
+    [Code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+
+
+- 
+
+
+    [Issues](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/issues)
+
+
+- 
+
+
+    [Pull requests](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulls)
+
+
+- 
+
+
+    [Actions](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/actions)
+
+
+- 
+
+
+    [Projects](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/projects)
+
+
+- 
+
+
+    [Security and quality](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/security)
+
+
+- 
+
+
+    [Insights](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulse)
+
+
+[Code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[Issues](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/issues)
+[Pull requests](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulls)
+[Actions](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/actions)
+[Projects](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/projects)
+[Security and quality](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/security)
+[Insights](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/pulse)
+
+[Branches](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/branches)
+[Tags](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/tags)
+
+## History
+[151 Commits](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/commits/main/)
+[README.md](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main/README.md)
+[README.md](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main/README.md)
+[push.sh](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main/push.sh)
+[push.sh](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main/push.sh)
+
+## Repository files navigation
+- [README](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+[README](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+
+Awesome papers (codes) about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (i.e. Recommender Systems).
+
+- Deep learning for dynamic graphs: models and benchmarks (TNNLS, 2024) [[paper](https://ieeexplore.ieee.org/document/10490120)][[code](https://github.com/gravins/dynamic_graph_benchmark)]
+- Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (ARXIV, 2023) [[paper](https://arxiv.org/pdf/2302.01018.pdf)]
+- Graph Neural Networks Designed for Different Graph Types: A Survey (ARXIV, 2022) [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
+- Representation Learning for Dynamic Graphs: A Survey (JMLR, 2020) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
+- A Survey on Embedding Dynamic Graphs (ARXIV, 2021) [[paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
+- Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey (ARXIV, 2019) [[paper](https://arxiv.org/pdf/1905.11485v1.pdf)]
+- Nonlinearity + Networks: A 2020 Vision (ARXIV, 2019) [[paper](https://arxiv.org/pdf/1911.03805v1.pdf)]
+- Temporal networks (Physics Report, 2012) [[paper](https://pdf.sciencedirectassets.com/271542/1-s2.0-S0370157312X00309/1-s2.0-S0370157312000841/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCKOucVujQP07wkAKxMuMLMSsHqFv%2FFb%2BYWtNrMjUENTwIgWQ3afs%2FTBaPhDmEiZPlrVllfwmAmEN9OMs0ReONp0PIq%2BgMIOxAEGgwwNTkwMDM1NDY4NjUiDHz5nNBj0grdhs2zQirXA6ElLZy%2FDlDSDU86oA74varszz0ma8Dbz0g92LEczi64XvbCAHQmPQIiskdJpYzeQQCoHHQwirdve6OhcF6pTJwGbJ2lL84oSrywuWhi6Z0e9kdtLUw2deUEHp2La7FUeebH%2FnHaHV3BpYfl2%2BXA0Y1zI67VWbtXv6MALP6e9THRpRmS6omIAgiB9u6bOm3NDQ4hC7Cp%2F22gUvRvSOm14Y%2F9s2kk7QcqRxTMDTW94Dbtty2O8Pw54CJulxcOo7Nby7%2FXrarewlMgFBxCwhNteoXaVviFrgl91rtQTq5EnU9HEBntgE0r8z%2F0e%2FGh1JuYvd0aK5FzC2ZTGjFHNq7bx%2BdscwV1QiLkiVHsNKc2CURzGvUx0dRFIud8w3PkH7aZVESvKlNvLyKa%2FgL4TU%2B0n5j92ppZHbC3DfB8kwZV1I1QFzB7mFmhdpoAWFlXXY2xxPPkQqsV1%2BsPanWb9JIgkpBnu5ZO2xmVHPRSlvL%2BUTKvD3Jq0LmqEYo1tFy3F4sYEmGV4vw0RKKo7tOYb8SFgdTw26SVhera5aeLIwSFZYAvv0wRb%2BsXgoPJK51YLI1XTXnNep%2FWNLv1Gem993YkpKZdgmoEpPheKv1%2B85mELU1J82NJeExBXTDumIiTBjqlAUQbPzomGso8OdXiqdTW8V8WaRL%2B0ZgHpf3Kzcb3k2W%2FWSKiA91fU6BA%2FTFUUd2iafG1k%2Bgm8Yvli8YBEroGEXmUOH5IdiIyFTIUL7BfcyvedVwWbBCVoGyLxs48G6KWaVwowy2XYP%2BXHfbDghl6NNzdaUwlWc1blXx%2BkkoUq1ZIwsAzhLrwLthvrB%2BLeKT8IdYOWCDhjSdy%2BsHs6t%2F4WEMwQVHScg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220422T030440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3GYD4RGC%2F20220422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6c67c850d5b9141253837519a558f2d56ee022ea163233ccf17b88f9815df4f&hash=5c12a8966a05652f2c4464fea3e79f3c7f669cf94a84365674e2e0647371a431&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0370157312000841&tid=spdf-a3f8bf90-014a-4f05-ba9e-eebf11a58a9a&sid=55bff1c97359b9450988c4c294161bf31292gxrqa&type=client&ua=4c00050055575755530304&rr=6ffb22261cbf968e)]
+[paper](https://ieeexplore.ieee.org/document/10490120)
+[code](https://github.com/gravins/dynamic_graph_benchmark)
+[paper](https://arxiv.org/pdf/2302.01018.pdf)
+[paper](https://arxiv.org/pdf/2204.03080.pdf)
+[paper](https://arxiv.org/pdf/1905.11485.pdf)
+[paper](https://arxiv.org/pdf/2101.01229v1.pdf)
+[paper](https://arxiv.org/pdf/1905.11485v1.pdf)
+[paper](https://arxiv.org/pdf/1911.03805v1.pdf)
+
+[paper](https://pdf.sciencedirectassets.com/271542/1-s2.0-S0370157312X00309/1-s2.0-S0370157312000841/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCKOucVujQP07wkAKxMuMLMSsHqFv%2FFb%2BYWtNrMjUENTwIgWQ3afs%2FTBaPhDmEiZPlrVllfwmAmEN9OMs0ReONp0PIq%2BgMIOxAEGgwwNTkwMDM1NDY4NjUiDHz5nNBj0grdhs2zQirXA6ElLZy%2FDlDSDU86oA74varszz0ma8Dbz0g92LEczi64XvbCAHQmPQIiskdJpYzeQQCoHHQwirdve6OhcF6pTJwGbJ2lL84oSrywuWhi6Z0e9kdtLUw2deUEHp2La7FUeebH%2FnHaHV3BpYfl2%2BXA0Y1zI67VWbtXv6MALP6e9THRpRmS6omIAgiB9u6bOm3NDQ4hC7Cp%2F22gUvRvSOm14Y%2F9s2kk7QcqRxTMDTW94Dbtty2O8Pw54CJulxcOo7Nby7%2FXrarewlMgFBxCwhNteoXaVviFrgl91rtQTq5EnU9HEBntgE0r8z%2F0e%2FGh1JuYvd0aK5FzC2ZTGjFHNq7bx%2BdscwV1QiLkiVHsNKc2CURzGvUx0dRFIud8w3PkH7aZVESvKlNvLyKa%2FgL4TU%2B0n5j92ppZHbC3DfB8kwZV1I1QFzB7mFmhdpoAWFlXXY2xxPPkQqsV1%2BsPanWb9JIgkpBnu5ZO2xmVHPRSlvL%2BUTKvD3Jq0LmqEYo1tFy3F4sYEmGV4vw0RKKo7tOYb8SFgdTw26SVhera5aeLIwSFZYAvv0wRb%2BsXgoPJK51YLI1XTXnNep%2FWNLv1Gem993YkpKZdgmoEpPheKv1%2B85mELU1J82NJeExBXTDumIiTBjqlAUQbPzomGso8OdXiqdTW8V8WaRL%2B0ZgHpf3Kzcb3k2W%2FWSKiA91fU6BA%2FTFUUd2iafG1k%2Bgm8Yvli8YBEroGEXmUOH5IdiIyFTIUL7BfcyvedVwWbBCVoGyLxs48G6KWaVwowy2XYP%2BXHfbDghl6NNzdaUwlWc1blXx%2BkkoUq1ZIwsAzhLrwLthvrB%2BLeKT8IdYOWCDhjSdy%2BsHs6t%2F4WEMwQVHScg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220422T030440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3GYD4RGC%2F20220422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6c67c850d5b9141253837519a558f2d56ee022ea163233ccf17b88f9815df4f&hash=5c12a8966a05652f2c4464fea3e79f3c7f669cf94a84365674e2e0647371a431&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0370157312000841&tid=spdf-a3f8bf90-014a-4f05-ba9e-eebf11a58a9a&sid=55bff1c97359b9450988c4c294161bf31292gxrqa&type=client&ua=4c00050055575755530304&rr=6ffb22261cbf968e)
+
+- Rethinking Time Encoding via Learnable Transformation Functions (ICML, 2025) [[paper](https://arxiv.org/pdf/2505.00887)][[code](https://github.com/chenxi1228/LeTE)]
+- Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding  (WSDM, 2025) [[paper](https://arxiv.org/abs/2407.16959)][[code](https://github.com/wangz3066/CorDGT)]
+[paper](https://arxiv.org/pdf/2505.00887)
+[code](https://github.com/chenxi1228/LeTE)
+[paper](https://arxiv.org/abs/2407.16959)
+[code](https://github.com/wangz3066/CorDGT)
+
+- Long Range Propagation on Continuous-Time Dynamic Graphs (ICML, 2024) [[paper](https://proceedings.mlr.press/v235/gravina24a.html)][[code](https://github.com/gravins/non-dissipative-propagation-CTDGs)]
+- LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs? (SIGKDD, 2024) [[paper](https://arxiv.org/abs/2310.17110)][[code](https://github.com/wondergo2017/LLM4DyG)]
+- Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling (SIGKDD, 2024) [[paper](https://arxiv.org/pdf/2406.11891)]
+- SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning (SIGKDD, 2024) [[paper](https://arxiv.org/pdf/2402.11933)][[code](https://arxiv.org/pdf/2402.11933)]
+- Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space (SIGKDD, 2024) [[code](https://github.com/tsinghua-fib-lab/DiskNet)]
+- Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model (SIGKDD, 2024) [[paper](https://arxiv.org/pdf/2407.08500)][[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- MemMap: An Adaptive and Latent Memory Structure for Dynamic Graph Learning (SIGKDD, 2024)
+- TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (IPDPS, 2024) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
+- Mayfly: a Neural Data Structure for Graph Stream Summarization (ICLR, 2024, Spotlight) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
+- Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
+- FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)][[code](https://github.com/Tianxzzz/FreeDyG)]
+- PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=gjXor87Xfy&name=pdf)][[code](https://github.com/jwsu825/MDGNN_BS)]
+- Hypergraph Dynamic System (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
+- Deep Temporal Graph Clustering (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
+- GraphPulse: Topological representations for temporal graph property prediction (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=DZqic2sPTY&name=pdf)][[code](https://github.com/kiarashamsi/GraphPulse)]
+- Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)][[code](https://github.com/ansonb/EFT)]
+- HOPE: High-order Graph ODE For Modeling Interacting Dynamics (ICML, 2024, Poster) [[paper](https://openreview.net/attachment?id=9iChKP4k32&name=pdf)]
+- Temporal Generalization Estimation in Evolving Graphs (ICLR, 2024, Poster) [[paper](https://openreview.net/attachment?id=HFtrXBfNru&name=pdf)]
+- Dynamic Graph Information Bottleneck (WWW, 2024) [[paper](https://arxiv.org/pdf/2402.06716.pdf)][[code](https://github.com/RingBDStack/DGIB)]
+- On the Feasibility of Simple Transformer for Dynamic Graph Modeling (WWW, 2024) [[paper](https://arxiv.org/pdf/2401.14009.pdf)]
+- Temporal Conformity-aware Hawkes Graph Network for Recommendations (WWW, 2024)
+- IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (WWW, 2024)
+- TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (WWW, 2024)
+- Efficient exact and approximate betweenness centrality computation for temporal graphs (WWW, 2024)
+- Temporal Graph ODEs for Irregularly-Sampled Time Series (IJCAI, 2024) [[paper](https://www.ijcai.org/proceedings/2024/445)][[code](https://github.com/gravins/TG-ODE)]
+- Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (Neurips 2024 Submission) [[paper](https://arxiv.org/pdf/2405.14170)][[code](https://anonymous.4open.science/r/LLM-DA-1E6D)]
+
+- Anomaly Detection in Continuous-Time Temporal Provenance Graphs (Temporal Graph Learning Workshop @ NeurIPS, 2023) [[paper](https://openreview.net/pdf?id=88tGIxxhsfn)][[code](https://github.com/JakubReha/ProvCTDG)]
+[paper](https://proceedings.mlr.press/v235/gravina24a.html)
+[code](https://github.com/gravins/non-dissipative-propagation-CTDGs)
+[paper](https://arxiv.org/abs/2310.17110)
+[code](https://github.com/wondergo2017/LLM4DyG)
+[paper](https://arxiv.org/pdf/2406.11891)
+[paper](https://arxiv.org/pdf/2402.11933)
+[code](https://arxiv.org/pdf/2402.11933)
+[code](https://github.com/tsinghua-fib-lab/DiskNet)
+[paper](https://arxiv.org/pdf/2407.08500)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](https://arxiv.org/abs/2402.05396)
+[code](https://github.com/facebookresearch/taser-tgnn)
+[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)
+[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)
+[code](https://github.com/kesenzhao/DyGNNExplainer)
+[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)
+[code](https://github.com/Tianxzzz/FreeDyG)
+[paper](https://openreview.net/attachment?id=gjXor87Xfy&name=pdf)
+[code](https://github.com/jwsu825/MDGNN_BS)
+[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)
+[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)
+[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)
+[paper](https://openreview.net/attachment?id=DZqic2sPTY&name=pdf)
+[code](https://github.com/kiarashamsi/GraphPulse)
+[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)
+[code](https://github.com/ansonb/EFT)
+[paper](https://openreview.net/attachment?id=9iChKP4k32&name=pdf)
+[paper](https://openreview.net/attachment?id=HFtrXBfNru&name=pdf)
+[paper](https://arxiv.org/pdf/2402.06716.pdf)
+[code](https://github.com/RingBDStack/DGIB)
+[paper](https://arxiv.org/pdf/2401.14009.pdf)
+[paper](https://www.ijcai.org/proceedings/2024/445)
+[code](https://github.com/gravins/TG-ODE)
+[paper](https://arxiv.org/pdf/2405.14170)
+[code](https://anonymous.4open.science/r/LLM-DA-1E6D)
+[paper](https://openreview.net/pdf?id=88tGIxxhsfn)
+[code](https://github.com/JakubReha/ProvCTDG)
+
+- Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts (Neurips, 2023) [[paper](https://arxiv.org/abs/2403.05026)][[code](https://github.com/wondergo2017/sild)]
+- DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training (SC, 2023) [[paper](https://arxiv.org/abs/2307.07649)][[code](https://github.com/amazon-science/disttgl)]
+- Towards Better Dynamic Graph Learning: New Architecture and Unified Library (ARXIV, 2023) [[paper](https://arxiv.org/pdf/2303.13047.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
+- SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning (ARXIV, 2023) [[paper](https://arxiv.org/pdf/2303.03379.pdf)][[code](https://github.com/Graph-COM/SUREL_Plus)]
+- Towards Open Temporal Graph Neural Networks (ICLR, 2023) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
+- Do We Really Need Complicated Model Architectures For Temporal Networks? (ICLR, 2023) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
+- Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank (VLDB, 2023) [[paper](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)][[code](https://github.com/LuckyLYM/Zebra)]
+- Temporal SIR-GN: Eficient and Efective Structural Representation Learning for Temporal Graphs (VLDB, 2023) [[paper](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)][[code](https://github.com/janetlayne2/Temporal-SIR-GN)]
+- SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs (ICDE, 2023) [[paper](https://ieeexplore.ieee.org/abstract/document/10184567)]
+- A Higher-Order Temporal H-Index for Evolving Networks (KDD, 2023) [[paper](https://arxiv.org/pdf/2305.16001.pdf)]
+- Using Motif Transitions for Temporal Graph Generation (KDD, 2023) [[paper](https://arxiv.org/pdf/2306.11190.pdf)]
+- Temporal Dynamics Aware Adversarial Attacks on Discrete-Time Graph Models (KDD, 2023) [[paper](https://openreview.net/pdf?id=yUY15QBERj)][[code](https://github.com/erdemUB/KDD23-MTM)]
+- Fairness-Aware Continuous Predictions of Multiple Analytics Targets in Dynamic Networks (KDD, 2023) [[paper](https://arxiv.org/pdf/2209.01678.pdf)]
+- DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph (KDD, 2023) [[paper](https://arxiv.org/pdf/2210.10592.pdf)]
+- WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window (KDD, 2023)
+- Community-based Dynamic Graph Learning for Popularity Prediction (KDD, 2023)
+- An Atentional Multi-scale Co-evolving Model for Dynamic Link Prediction (WWW, 2023) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583396)][[code](https://github.com/tsinghua-fib-lab/AMCNet)]
+- TIGER: Temporal Interaction Graph Embedding with Restarts (WWW, 2023) [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
+- HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (WWW, 2023) [[paper](https://arxiv.org/pdf/2304.07302.pdf)][[code](https://github.com/TaiLvYuanLiang/HGWaveNet)]
+- Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs (WWW, 2023) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583476)][[code](https://github.com/susheels/tgrank)]
+- Local Edge Dynamics and Opinion Polarization (WSDM, 2023) [[paper](https://arxiv.org/pdf/2111.14020.pdf)][[code](https://github.com/adamlechowicz/opinion-polarization/)]
+- Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs (WSDM, 2023) [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
+- Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs (WSDM, 2023) [[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)]
+- Dynamic Heterogeneous Graph Attention Neural Architecture Search (AAAI, 2023) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26338)][[code](https://github.com/wondergo2017/DHGAS)]
+- Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (AAAI, 2023) [[paper](https://arxiv.org/pdf/2208.10364.pdf)][[code](https://github.com/EdisonLeeeee/SpikeNet)]
+- Hidden Markov Models for Temporal Graph Representation Learning (ESANN, 2023) [[paper](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-35.pdf)][[code](https://github.com/nec-research/hidden_markov_model_temporal_graphs)]
+
+[paper](https://arxiv.org/abs/2403.05026)
+[code](https://github.com/wondergo2017/sild)
+[paper](https://arxiv.org/abs/2307.07649)
+[code](https://github.com/amazon-science/disttgl)
+[paper](https://arxiv.org/pdf/2303.13047.pdf)
+[code](https://github.com/yule-BUAA/DyGLib)
+[paper](https://arxiv.org/pdf/2303.03379.pdf)
+[code](https://github.com/Graph-COM/SUREL_Plus)
+[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)
+[code](https://github.com/tulerfeng/OTGNet)
+[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)
+[code](https://github.com/CongWeilin/GraphMixer)
+[paper](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)
+[code](https://github.com/LuckyLYM/Zebra)
+[paper](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)
+[code](https://github.com/janetlayne2/Temporal-SIR-GN)
+[paper](https://ieeexplore.ieee.org/abstract/document/10184567)
+[paper](https://arxiv.org/pdf/2305.16001.pdf)
+[paper](https://arxiv.org/pdf/2306.11190.pdf)
+[paper](https://openreview.net/pdf?id=yUY15QBERj)
+[code](https://github.com/erdemUB/KDD23-MTM)
+[paper](https://arxiv.org/pdf/2209.01678.pdf)
+[paper](https://arxiv.org/pdf/2210.10592.pdf)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583396)
+[code](https://github.com/tsinghua-fib-lab/AMCNet)
+[paper](https://arxiv.org/pdf/2302.06057.pdf)
+[code](https://github.com/yzhang1918/www2023tiger)
+[paper](https://arxiv.org/pdf/2304.07302.pdf)
+[code](https://github.com/TaiLvYuanLiang/HGWaveNet)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583476)
+[code](https://github.com/susheels/tgrank)
+[paper](https://arxiv.org/pdf/2111.14020.pdf)
+[code](https://github.com/adamlechowicz/opinion-polarization/)
+[paper](https://arxiv.org/pdf/2211.08568.pdf)
+[code](https://github.com/RManLuo/GSNOP)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26338)
+[code](https://github.com/wondergo2017/DHGAS)
+[paper](https://arxiv.org/pdf/2208.10364.pdf)
+[code](https://github.com/EdisonLeeeee/SpikeNet)
+[paper](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-35.pdf)
+[code](https://github.com/nec-research/hidden_markov_model_temporal_graphs)
+
+- TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs (VLDB, 2022) [[paper](https://arxiv.org/pdf/2203.14883.pdf)][[code](https://github.com/amazon-science/tgl)]
+- Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs (Neurips, 2022)[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)][[code](https://github.com/KimMeen/Neural-Temporal-Walks)]
+- Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift (Neurips, 2022) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2857242c9e97de339ce642e75b15ff24-Abstract-Conference.html)][[code](https://github.com/wondergo2017/DIDA)]
+- Adaptive Data Augmentation on Temporal Graphs (Neurips, 2022) [[paper](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)]
+- Parameter-free Dynamic Graph Embedding for Link Prediction (Neurips, 2022) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b14d7175755b180dc2163e15e3110cb6-Paper-Conference.pdf)][[code](https://github.com/FudanCISL/FreeGEM)]
+- Instant Graph Neural Networks for Dynamic Graphs (KDD, 2022) [[paper](https://arxiv.org/pdf/2206.01379.pdf)][[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction (KDD, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539279)][[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- ROLAND: Graph Learning Framework for Dynamic Graphs (KDD, 2022) [[paper](https://arxiv.org/pdf/2208.07239.pdf)][[code](https://github.com/snap-stanford/roland)]
+- Subset Node Anomaly Tracking over Large Dynamic Graphs (KDD, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539389)][[code](https://github.com/zjlxgxz/DynAnom)]
+- Streaming Graph Neural Networks via Generative Replay (KDD, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539336)][[code](https://github.com/Junshan-Wang/SGNN-GR)]
+- Neighborhood-aware Scalable Temporal Network Representation Learning (LoG, 2022) [[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)]
+- DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction (SIGIR, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531851)][[code](https://github.com/Fang6ang/DisenCTR)]
+- STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation (WWW, 2022) [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/WWW22-Yang%20et%20al.-STAM-GNN.pdf)][[code](https://github.com/zyang-16/STAM)]
+- Neural Predicting Higher-order Patterns in Temporal Networks (WWW, 2022) [[paper](https://arxiv.org/pdf/2106.06039.pdf)][[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)]
+- TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (WWW, 2022) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)]
+- A Viral Marketing-Based Model For Opinion Dynamics in Online Social Networks (WWW, 2022) [[paper](https://arxiv.org/pdf/2202.03573.pdf)]
+- EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (WSDM, 2022) [[paper](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/WSDM22-park-evokg.pdf)][[code](https://github.com/NamyongPark/EvoKG)]
+- Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (WSDM, 2022) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
+- Few-shot Link Prediction in Dynamic Networks (WSDM, 2022) [[paper](http://www.shichuan.org/doc/120.pdf)]
+- On Generalizing Static Node Embedding to Dynamic Settings (WSDM, 2022) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
+- Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion (CIKM, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557233)][[code](https://github.com/zhangfw123/TLT-KGE)]
+- DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning (CIKM, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557280)]
+- A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning (CIKM, 2022) [[paper](https://arxiv.org/pdf/2208.14073.pdf)]
+
+- Dynamic Hypergraph Learning for Collaborative Filtering (CIKM, 2022) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
+[paper](https://arxiv.org/pdf/2203.14883.pdf)
+[code](https://github.com/amazon-science/tgl)
+[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)
+[code](https://github.com/KimMeen/Neural-Temporal-Walks)
+[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2857242c9e97de339ce642e75b15ff24-Abstract-Conference.html)
+[code](https://github.com/wondergo2017/DIDA)
+[paper](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)
+[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b14d7175755b180dc2163e15e3110cb6-Paper-Conference.pdf)
+[code](https://github.com/FudanCISL/FreeGEM)
+[paper](https://arxiv.org/pdf/2206.01379.pdf)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539279)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](https://arxiv.org/pdf/2208.07239.pdf)
+[code](https://github.com/snap-stanford/roland)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539389)
+[code](https://github.com/zjlxgxz/DynAnom)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539336)
+[code](https://github.com/Junshan-Wang/SGNN-GR)
+[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)
+[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531851)
+[code](https://github.com/Fang6ang/DisenCTR)
+[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/WWW22-Yang%20et%20al.-STAM-GNN.pdf)
+[code](https://github.com/zyang-16/STAM)
+[paper](https://arxiv.org/pdf/2106.06039.pdf)
+[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)
+[paper](https://arxiv.org/pdf/2203.14303.pdf)
+[code](https://github.com/WenZhihao666/TREND)
+[paper](https://arxiv.org/pdf/2202.03573.pdf)
+[paper](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/WSDM22-park-evokg.pdf)
+[code](https://github.com/NamyongPark/EvoKG)
+[paper](https://arxiv.org/pdf/2110.14875.pdf)
+[code](https://github.com/hyeonjeong1/cutnpeel)
+[paper](http://www.shichuan.org/doc/120.pdf)
+[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557233)
+[code](https://github.com/zhangfw123/TLT-KGE)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557280)
+[paper](https://arxiv.org/pdf/2208.14073.pdf)
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
+
+- Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (ICLR, 2021) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
+- Coupled Graph ODE for Learning Interacting System Dynamics (KDD, 2021) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
+- Subset Node Representation Learning over Large Dynamic Graphs (KDD, 2021) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
+- Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
+- Learning to Walk across Time for Temporal Knowledge Graph Completion (KDD, 2021) [[paper](https://arxiv.org/pdf/2012.10595v1.pdf)]
+- Forecasting Interaction Order on Temporal Graphs (KDD, 2021)
+- Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (SIGIR, 2021) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
+- Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (SIGIR, 2021)
+- TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion [[paper](https://arxiv.org/pdf/2104.08419.pdf)]
+- SDG: A Simplified and Dynamic Graph Neural Network (SIGIR SHORT, 2021) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
+- Temporal Augmented Graph Neural Networks for Session-Based Recommendations (SIGIR SHORT, 2021) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
+- HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (WWW, 2021) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
+- TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (WWW, 2021) [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
+- Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (AAAI, 2021) [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
+- Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (AAAI, 2021) [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
+- Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (AAAI, 2021) [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
+- Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (WSDM, 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
+- F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (WSDM, 2021) [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
+- Cache-based GNN System for Dynamic Graphs (CIKM 2021) [[paper]]
+- Self-supervised Representation Learning on Dynamic Graphs (CIKM 2021)[[paper]]
+- Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
+- Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (CIKM 2021) [[paper](https://arxiv.org/pdf/2005.07427.pdf)]
+- Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (ARXIV, 2021) [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
+[paper](https://openreview.net/pdf?id=KYPz4YsCPj)
+[code](https://github.com/snap-stanford/CAW)
+[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)
+[code](https://github.com/ZijieH/CG-ODE)
+[paper](https://arxiv.org/pdf/2106.01570.pdf)
+[code](https://github.com/zjlxgxz/DynamicPPE)
+[paper](https://arxiv.org/pdf/2107.03767.pdf)
+[code](https://github.com/marlin-codes/HTGN-KDD21)
+[paper](https://arxiv.org/pdf/2012.10595v1.pdf)
+[paper](https://arxiv.org/pdf/2104.10353.pdf)
+[code](https://github.com/Lee-zix/RE-GCN)
+[paper](https://arxiv.org/pdf/2104.08419.pdf)
+[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)
+[code](https://github.com/DongqiFu/SDG)
+[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)
+
+[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)
+[code](https://github.com/songjiang0909/HINTS_code)
+[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)
+[paper](https://arxiv.org/pdf/2104.02228.pdf)
+[paper](https://arxiv.org/pdf/2012.08740.pdf)
+[code](https://github.com/InterpretableClustering/InterpretableClustering)
+[paper](https://arxiv.org/pdf/2003.09908.pdf)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)
+[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)
+[code](https://github.com/snap-stanford/F-FADE)
+[paper](https://arxiv.org/pdf/2108.06625.pdf)
+[code](https://github.com/DyGRec/TGSRec)
+[paper](https://arxiv.org/pdf/2005.07427.pdf)
+[paper](https://arxiv.org/pdf/2106.06039.pdf)
+
+- Inductive Representation Learning on Temporal Graphs (ICLR, 2020) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
+- Temporal Graph Networks for Deep Learning on Dynamic Graphs (ICML Workshop, 2020) [[paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[code](https://github.com/twitter-research/tgn)]
+- A Data-Driven Graph Generative Model for Temporal Interaction Networks (KDD, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
+- Dynamic Knowledge Graph based Multi-Event Forecasting (KDD, 2020) [[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)][[code](https://github.com/amy-deng/glean)]
+- Laplacian Change Point Detection for Dynamic Graphs (KDD, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
+- Algorithmic Aspects of Temporal Betweenness (KDD, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
+- Heterogeneous Graph Transformer (WWW, 2020) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
+- Streaming Graph Neural Network (SIGIR, 2020) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
+- Next-item Recommendation with Sequential Hypergraphs (SIGIR, 2020) [[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[code](https://github.com/wangjlgz/HyperRec)]
+- Temporal Network Embedding with High-Order Nonlinear Information (AAAI, 2020) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
+- Motif-Preserving Temporal Network Embedding (IJCAI, 2020) [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
+- Dynamic Graph Collaborative Filtering (ICDM, 2020) [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
+- DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (WSDM, 2020) [[papr](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[code](https://github.com/aravindsankar28/DySAT)]
+- Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (WSDM, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)][[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (CIKM, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
+- tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (CIKM, 2020) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
+- Streaming Graph Neural Network via Continue Learning (CIKM, 2020) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
+- Disentangle-based Continual Graph Representation Learning (EMNLP, 2020) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
+- TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (EMNLP, 2020) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
+- Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (EMNLP, 2020) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
+- EPNE: Evolutionary Pattern Preserving Network Embedding (ECAI, 2020) [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
+- GloDyNE: Global Topology Preserving Dynamic Network Embedding (TKDE, 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
+- Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (TKDE, 2020) [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
+- Lifelong Graph Learning (ARXIV, 2020) [[paper](https://arxiv.org/pdf/2009.00647.pdf)]
+[paper](https://arxiv.org/pdf/2002.07962.pdf)
+[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)
+[paper](https://arxiv.org/pdf/2006.10637v1.pdf)
+[code](https://github.com/twitter-research/tgn)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)
+[code](https://github.com/davidchouzdw/TagGen)
+
+[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)
+[code](https://github.com/amy-deng/glean)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)
+[code](https://github.com/shenyangHuang/LAD)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)
+[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)
+[paper](https://arxiv.org/pdf/2003.01332.pdf)
+[code](https://github.com/acbull/pyHGT)
+[paper](https://arxiv.org/pdf/1810.10627.pdf)
+[code](https://github.com/alge24/DyGNN)
+[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)
+[code](https://github.com/wangjlgz/HyperRec)
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)
+[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)
+[paper](https://arxiv.org/pdf/2101.02844.pdf)
+[code](https://github.com/CRIPAC-DIG/DGCF)
+[papr](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)
+[code](https://github.com/aravindsankar28/DySAT)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)
+[code](https://github.com/moranbel/tdGraphEmbed)
+[paper](https://arxiv.org/pdf/2009.10951.pdf)
+[code](https://github.com/Junshan-Wang/ContinualGNN)
+[paper](https://arxiv.org/pdf/2010.02565.pdf)
+[code](https://github.com/KXY-PUBLIC/DiCGRL)
+[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)
+[code](https://github.com/JiapengWu/TeMP)
+[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)
+[code](https://github.com/INK-USC/RE-Net)
+[paper](http://ecai2020.eu/papers/528_paper.pdf)
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)
+[code](https://github.com/houchengbin/GloDyNE)
+[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)
+[code](https://github.com/rootlu/DyHNE)
+[paper](https://arxiv.org/pdf/2009.00647.pdf)
+
+- Variational Graph Recurrent Neural Networks (NeurIPS, 2019) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
+- Recurrent Space-time Graph Neural Networks (NeurIPS, 2019) [[paper](http://export.arxiv.org/pdf/1904.05582#:~:text=Our%20recurrent%20neural%20graph%20ef%EF%AC%81ciently%20processes%20information%20in,in%20space-time%20using%20a%20backbone%20deep%20neural%20network.)][[code](https://github.com/IuliaDuta/RSTG)]
+- DyRep: Learning Representations over Dynamic Graphs (ICLR, 2019) [[paper](https://openreview.net/pdf?id=HyePrhR5KX)]
+- Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (KDD, 2019) [[paper](https://arxiv.org/pdf/1908.01207.pdf)][[code](https://github.com/srijankr/jodie)]
+- Learning Dynamic Context Graphs for Predicting Social Events (KDD, 2019) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
+- EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI, 2019) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
+- Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (WWW, 2019) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
+- Real-Time Streaming Graph Embedding Through Local Actions (WWW, 2019) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
+- Dynamic Hypergraph Neural Networks (IJCAI, 2019) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
+- Node Embedding over Temporal Graphs (IJCAI, 2019) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
+- Temporal Network Embedding with Micro- and Macro-dynamics (CIKM, 2019) [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
+[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)
+[code](https://github.com/VGraphRNN/VGRNN)
+[paper](http://export.arxiv.org/pdf/1904.05582#:~:text=Our%20recurrent%20neural%20graph%20ef%EF%AC%81ciently%20processes%20information%20in,in%20space-time%20using%20a%20backbone%20deep%20neural%20network.)
+[code](https://github.com/IuliaDuta/RSTG)
+[paper](https://openreview.net/pdf?id=HyePrhR5KX)
+[paper](https://arxiv.org/pdf/1908.01207.pdf)
+[code](https://github.com/srijankr/jodie)
+[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)
+[code](https://github.com/amy-deng/DynamicGCN)
+[paper](https://arxiv.org/pdf/1902.10191.pdf)
+[code](https://github.com/IBM/EvolveGCN)
+[paper](https://arxiv.org/pdf/1904.04381.pdf)
+[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)
+[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)
+[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)
+[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)
+[code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)
+[paper](https://par.nsf.gov/servlets/purl/10148548)
+[code](https://github.com/rootlu/MMDNE)
+
+### 2018
+- NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (KDD, 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/kdmsit/NetWalk)]
+- Embedding Temporal Network via Neighborhood Formation (KDD, 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220054)][[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- Dynamic Network Embedding by Modeling Triadic Closure Process (AAAI, 2018) [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
+- Continuous-Time Dynamic Network Embeddings (WWW, 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[code](https://github.com/Shubhranshu-Shekhar/ctdne)]
+- Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding (IJCAI, 2018) [[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)]
+[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)
+[code](https://github.com/kdmsit/NetWalk)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220054)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
+[code](https://github.com/luckiezhou/DynamicTriad)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)
+[code](https://github.com/Shubhranshu-Shekhar/ctdne)
+[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)
+
+### 2017
+- Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (ICML, 2017) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
+- The Co-Evolution Model for Social Network Evolving and Opinion Migration (KDD, 2017) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)]
+- Attributed Network Embedding for Learning in a Dynamic Environment (CIKM, 2017) [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
+[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)
+[code](https://github.com/rstriv/Know-Evolve)
+[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)
+[code](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/blob/main)
+[paper](https://arxiv.org/pdf/1706.01860.pdf)
+[code](https://github.com/gaoghc/DANE)
+
+### General Graph Learning
+- [Deep Graph Library](https://www.dgl.ai/)
+- [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+- [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
+- [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
+- [GraphVite](https://graphvite.io/)
+[Deep Graph Library](https://www.dgl.ai/)
+[Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+[Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
+[Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
+[GraphVite](https://graphvite.io/)
+
+### Knowledge Graph
+- [DGL-KE](https://dglke.dgl.ai/doc/)
+- [OpenKE](https://github.com/thunlp/OpenKE)
+[DGL-KE](https://dglke.dgl.ai/doc/)
+[OpenKE](https://github.com/thunlp/OpenKE)
+
+### Recommender System
+- [RecBole](https://www.recbole.io/)
+[RecBole](https://www.recbole.io/)
+
+Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).
+
+### Topics
+[deep-learning](https://github.com/topics/deep-learning)
+[graph-neural-networks](https://github.com/topics/graph-neural-networks)
+[graph-neural-network](https://github.com/topics/graph-neural-network)
+[temporal-network](https://github.com/topics/temporal-network)
+[dynamic-network-embedding](https://github.com/topics/dynamic-network-embedding)
+[dynamic-graph-embedding](https://github.com/topics/dynamic-graph-embedding)
+[temporal-graph](https://github.com/topics/temporal-graph)
+
+### Resources
+[Readme](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning#readme-ov-file)
+
+### Uh oh!
+There was an error while loading. [Please reload this page](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning).
+[Activity](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/activity)
+
+### Stars
+[708
+        stars](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/stargazers)
+
+### Watchers
+[15
+        watching](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/watchers)
+
+### Forks
+[86
+        forks](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/forks)
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FSpaceLearner%2FAwesome-DynamicGraphLearning&report=SpaceLearner+%28user%29)
+
+## [Releases](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/releases)
+[Releases](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/releases)
+
+## [Packages 0](https://github.com/users/SpaceLearner/packages?repo_name=Awesome-DynamicGraphLearning)
+[Packages
+      0](https://github.com/users/SpaceLearner/packages?repo_name=Awesome-DynamicGraphLearning)
+
+There was an error while loading. [Please reload this page](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning).
+
+[Contributors](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/graphs/contributors)
+
+There was an error while loading. [Please reload this page](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning).
+
+- 
+        [Shell
+          100.0%](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/search?l=shell)
+
+[Shell
+          100.0%](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning/search?l=shell)
+
+- 
+            [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+
+- 
+            [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+
+- 
+            [Security](https://github.com/security)
+
+- 
+            [Status](https://www.githubstatus.com/)
+
+- 
+            [Community](https://github.community/)
+
+- 
+            [Docs](https://docs.github.com/)
+
+- 
+            [Contact](https://support.github.com?tags=dotcom-footer)
+
+- 
+
+
+       Manage cookies
+
+
+
+- 
+
+
+      Do not share my personal information
+
+
+
+[Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+[Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+[Security](https://github.com/security)
+[Status](https://www.githubstatus.com/)
+[Community](https://github.community/)
+[Docs](https://docs.github.com/)
+[Contact](https://support.github.com?tags=dotcom-footer)
+

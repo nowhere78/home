@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+KR
+만들기
+9+
+[0] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	홈
+	Shorts
+	구독
+	1theK (원더케이)
+	1분과학
+	1분미만
+	14번지 LP가게
+	21일간 열방과 함께하는 다니엘기도회
+	180초 바이블
+	522의 하루
+	더보기
+	내 페이지
+	내 채널
+	기록
+	재생목록
+	나중에 볼 동영상
+	좋아요 표시한 동영상
+	내 동영상
+	오프라인 저장 동영상
+	더보기
+곽상빈 인사이트
+@kwaksinsight
+•
+구독자 1.54만명
+•
+동영상 38개
+저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다.
+...더보기
+구독
+홈
+동영상
+Shorts
+라이브
+재생목록
+저도 머리가 나빠요. 이거 촬영하는
+순간에도 뭐 질문했는지 사실
+까먹었어. 제 진짜 극단적으로 정말
+못하는 사람이 합격하는 것도 봤어요.
+전문직 자격증 공부? 그냥 이 공식만 따라하시면 됩니다
+조회수 67,619회
+4개월 전
+안녕하세요 여러분, 곽상빈 변호사입니다.
+IQ 100, 실업계 출신인 제가 전문직 시험을 통과한 건
+머리가 아니라 합격 구조 덕분이었습니다. 
+
+그래서 이번 강의에 제 모든 노하우를 갈아 넣었습니다.
+수십 개의 자격증을 따면서 뼈저리게 깨달은, 
+평범한 머리로도 최단기에 합격하는 기술입니다.
+
+두꺼운 기본서를 1/10로 줄여 시험장에 가져갈 핵심만 남기는 [압축 단권화 솔루션]
+출제자 머리 꼭대기에서 정답만 골라내는 [유형별 고득점 메커니즘]
+그리고 손으로 쓰지 않고 AI로 오답과 약점을 10분 만에 분석하는 [AI 기반 자동화 기술]
+
+지능의 차이가 아닙니다. 방법과 기술의 차이입니다.
+여러분의 소중한 1년, 제가 확실하게 줄여드리겠습니다.
+_ 
+
+이 영상 보신 분들은, 아래 쿠폰으로 15% 할인 받을 수 있다고 하네요:)
+✔️ 15% 쿠폰 코드명: 단기합격기술 (*~1/31)
+✔️ 강의 링크:
+자세히 알아보기
+인기 동영상
+30:38
+5:34
+35:52
+10:23
+8:51
+7:07
+곽상빈 인사이트
+[1] (630,145)<button aria-label='닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[2] (630,145)<yt-touch-feedback-shape  />
+		[3] (630,145)<div  />
+[4] (500,521)<div class='style-scope ytd-section-list-renderer' id='contents' scrollable='true' />
+	설명
+	저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다.
+
+[곽상빈 변호사 소개]
+(변호사/회계사/감정평가사/손해사정사/경영학박사)
+
+연세대학교 경제학 경영학 최우등 졸(상위 1%)
+아주대학교 법학전문석사, aSSIST 경영학박사
+(현) 바로회계법인 역삼 부대표
+(현) 법무법인 필 파트너 변호사
+(현) 이화감정평가법인 이사/감정평가사
+(현) 대한가맹거래사협회 감사
+(현) 한국손해사정사협회 법률지원센터 구성원
+(현) 산업정책연구원 연구교수
+(현) 동국대학교 법과대학 대학원 겸임교수
+(현) WMD 최고법률책임자
+-----------------------------------------
+(전) 김앤장 법률사무소 변호사
+(전) 삼정KPMG 공인회계사
+(전) 데모닉스 대표이사
+
+주식/선물/부동산 실전 투자자
+- 삼전동 빌딩 투자 - 법인
+- 수서역 상가 투자 - 법인
+- 이수역 재개발 투자 - 개인
+- 사당동 주택/방배동 상가 2채 재개발 투자
+- 비상장 스타트업 투자 - 개인
+
+문의 : sangbin.kwak@lawpil.com
+	추가 정보
+	www.youtube.com/@kwaksinsight
+	가입일: 2024. 5. 26.
+
+</current_dom>

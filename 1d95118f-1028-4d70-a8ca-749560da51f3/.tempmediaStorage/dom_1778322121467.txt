@@ -1,0 +1,289 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (72,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics' />
+	[3] (72,34)<span >anthropics />
+[4] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics/skills' />
+	[5] (111,34)<span >skills />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (100,80)<span >(
+226
+) />
+		[26] (100,80)<span >226 />
+		(
+		226
+		)
+[27] (160,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulls' />
+	[28] (125,80)<span  />
+	[29] (155,80)<span >Pull requests />
+	[30] (189,80)<span >(
+592
+) />
+		[31] (189,80)<span >592 />
+		(
+		592
+		)
+[32] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/agents?author=nowhere78' />
+	[33] (215,80)<span  />
+	[34] (235,80)<span >Agents />
+[35] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/discussions' />
+	[36] (263,80)<span  />
+	[37] (290,80)<span >Discussions />
+[38] (340,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/actions' />
+	[39] (326,80)<span  />
+	[40] (346,80)<span >Actions />
+[41] (410,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/security' />
+	[42] (375,80)<span  />
+	[43] (416,80)<span >Security and quality />
+[44] (481,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulse' />
+	[45] (466,80)<span  />
+	[46] (487,80)<span >Insights />
+[47] (211,139)<a class='d-block overflow-x-hidden color-fg-default' href='/anthropics/skills'>skills />
+Public
+[48] (617,138)<div  />
+	[49] (617,138)<button aria-label='Watch: Participating in anthropics/skills' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_a_' />
+		[50] (613,138)<span  />
+			[51] (609,138)<span >Watch />
+			862
+			(
+			862
+			)
+[52] (686,138)<a class='btn-sm btn BtnGroup-item' href='/anthropics/skills/fork' id='fork-button'>Fork />
+	[53] (700,138)<span >15.4k />
+[54] (726,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1061953414' />
+	[55] (726,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[56] (769,138)<button aria-label='Star this repository (130850)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[57] (765,138)<span >Star />
+	[58] (783,138)<span >131k />
+[59] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1061953414-unstarred-button' />
+anthropics/skills
+[60] (211,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[61] (211,215)<span  />
+		[62] (205,215)<span  />
+			[63] (205,215)<div  />
+				[64] (194,215)<div  />
+				[65] (210,215)<div  />
+					[66] (210,215)<span >main />
+[67] (271,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/anthropics/skills/branches' />
+	[68] (271,215)<span  />
+		[69] (277,215)<span  />
+			[70] (277,215)<span >Branches />
+				[71] (262,215)<strong >14 />
+[72] (318,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/anthropics/skills/tags' />
+	[73] (318,215)<span  />
+		[74] (325,215)<span  />
+			[75] (325,215)<span >Tags />
+				[76] (317,215)<strong >0 />
+[77] (481,215)<span  />
+	[78] (430,215)<span  />
+	[79] (480,215)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[80] (530,215)<span  />
+		[81] (530,215)<kbd  />
+			[82] (530,215)<span >t />
+				t
+				[83] (530,215)<span >T />
+Add file
+[84] (569,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[85] (569,215)<span  />
+		[86] (569,215)<span  />
+			[87] (569,215)<span >Add file />
+[88] (626,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[89] (626,215)<span  />
+		[90] (626,215)<span >Code />
+Folders and files
+Latest commit
+[91] (198,277)<a class='prc-Link-Link-9ZwDx' href='/quuu' />
+	[92] (196,278)<img  />
+[93] (214,277)<a aria-label='commits by quuu' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/anthropics/skills/commits?author=quuu'>quuu />
+[94] (262,277)<a class='Link--secondary' href='/anthropics/skills/commit/f458cee31a7577a47ba0c9a101976fa599385174'>Update README.md ( />
+[95] (307,277)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/1094'>#1094 />
+[96] (318,277)<a class='Link--secondary' href='/anthropics/skills/commit/f458cee31a7577a47ba0c9a101976fa599385174'>) />
+[97] (541,277)<a aria-label='Commit f458cee' class='Link--secondary prc-Link-Link-9ZwDx' href='/anthropics/skills/commit/f458cee31a7577a47ba0c9a101976fa599385174'>f458cee />
+·
+History
+[98] (620,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/anthropics/skills/commits/main/' />
+	[99] (620,277)<span  />
+		[100] (626,277)<span  />
+			[101] (626,276)<span >34 Commits />
+[102] (419,326)<tr  />
+	[103] (229,327)<a aria-label='.claude-plugin, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/.claude-plugin' title='.claude-plugin'>.claude-plugin />
+	[104] (414,327)<a class='Link--secondary' href='/anthropics/skills/commit/7029232b9212482c0476da354b83364bd28fab2f' title='Add claude-api skill (#515)
+
+Documentation skill for building applications with the Claude API
+and Agent SDK. Covers Python, TypeScript, Java, Go, Ruby, C#, PHP,
+and cURL with language-specific guides for:
+
+- Messages API basics, streaming, and error handling
+- Tool use (tool runner and manual agentic loop)
+- Structured outputs and adaptive thinking
+- Batches and Files APIs
+- Agent SDK patterns (Python/TypeScript)
+- Model catalog and selection guidance'>Add claude-api skill ( />
+	[105] (455,327)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/515'>#515 />
+	[106] (465,327)<a class='Link--secondary' href='/anthropics/skills/commit/7029232b9212482c0476da354b83364bd28fab2f' title='Add claude-api skill (#515)
+
+Documentation skill for building applications with the Claude API
+and Agent SDK. Covers Python, TypeScript, Java, Go, Ruby, C#, PHP,
+and cURL with language-specific guides for:
+
+- Messages API basics, streaming, and error handling
+- Tool use (tool runner and manual agentic loop)
+- Structured outputs and adaptive thinking
+- Batches and Files APIs
+- Agent SDK patterns (Python/TypeScript)
+- Model catalog and selection guidance'>) />
+[107] (419,370)<tr  />
+	[108] (213,370)<a aria-label='skills, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills' title='skills'>skills />
+	[109] (504,370)<a class='Link--secondary' href='/anthropics/skills/commit/d211d437443a7b2496a3dad9575e7dddd724c585' title='Add Managed Agents outcomes, multiagent, and webhooks to claude-api skill (#1096)'>Add Managed Agents outcomes, multiagent, and webhooks to claude-api s… />
+[110] (419,413)<tr  />
+	[111] (213,414)<a aria-label='spec, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/spec' title='spec'>spec />
+	[112] (454,414)<a class='Link--secondary' href='/anthropics/skills/commit/69c0b1a0674149f27b61b2635f935524b6add202' title='Add link to Agent Skills specification website (#160)
+
+Added a note at the top of the README directing users to
+agentskills.io for information about the Agent Skills standard.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-authored-by: Claude <noreply@anthropic.com>'>Add link to Agent Skills specification website ( />
+	[113] (536,414)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/160'>#160 />
+	[114] (545,414)<a class='Link--secondary' href='/anthropics/skills/commit/69c0b1a0674149f27b61b2635f935524b6add202' title='Add link to Agent Skills specification website (#160)
+
+Added a note at the top of the README directing users to
+agentskills.io for information about the Agent Skills standard.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-authored-by: Claude <noreply@anthropic.com>'>) />
+[115] (419,457)<tr  />
+	[116] (220,457)<a aria-label='template, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/template' title='template'>template />
+	[117] (496,457)<a class='Link--secondary' href='/anthropics/skills/commit/ef740771ac901e03fbca3ce4e1c453a96010f30a' title='Move example skills into dedicated folder and create minimal top-level folder structure (#129)'>Move example skills into dedicated folder and create minimal top-leve… />
+[118] (419,500)<tr  />
+	[119] (221,501)<a aria-label='.gitignore, (File)' class='Link--primary' href='/anthropics/skills/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[120] (454,501)<a class='Link--secondary' href='/anthropics/skills/commit/69c0b1a0674149f27b61b2635f935524b6add202' title='Add link to Agent Skills specification website (#160)
+
+Added a note at the top of the README directing users to
+agentskills.io for information about the Agent Skills standard.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-authored-by: Claude <noreply@anthropic.com>'>Add link to Agent Skills specification website ( />
+	[121] (536,501)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/160'>#160 />
+	[122] (545,501)<a class='Link--secondary' href='/anthropics/skills/commit/69c0b1a0674149f27b61b2635f935524b6add202' title='Add link to Agent Skills specification website (#160)
+
+Added a note at the top of the README directing users to
+agentskills.io for information about the Agent Skills standard.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-authored-by: Claude <noreply@anthropic.com>'>) />
+[123] (419,543)<tr  />
+	[124] (226,544)<a aria-label='README.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/README.md' title='README.md'>README.md />
+	[125] (415,544)<a class='Link--secondary' href='/anthropics/skills/commit/f458cee31a7577a47ba0c9a101976fa599385174' title='Update README.md (#1094)'>Update README.md ( />
+	[126] (460,544)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/1094'>#1094 />
+	[127] (471,544)<a class='Link--secondary' href='/anthropics/skills/commit/f458cee31a7577a47ba0c9a101976fa599385174' title='Update README.md (#1094)'>) />
+[128] (419,587)<tr  />
+	[129] (249,587)<a aria-label='THIRD_PARTY_NOTICES.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/THIRD_PARTY_NOTICES.md' title='THIRD_PARTY_NOTICES.md'>THIRD_PARTY_NOTICES.md />
+	[130] (417,587)<a class='Link--secondary' href='/anthropics/skills/commit/ec841043a5cdd938a42d711367a89999be0a2862' title='Add 3rd Party notices (#4)'>Add 3rd Party notices ( />
+	[131] (457,587)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/4'>#4 />
+	[132] (463,587)<a class='Link--secondary' href='/anthropics/skills/commit/ec841043a5cdd938a42d711367a89999be0a2862' title='Add 3rd Party notices (#4)'>) />
+Repository files navigation
+[133] (213,653)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[134] (196,653)<span  />
+	[135] (219,653)<span >README />
+[136] (620,652)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[137] (641,652)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+Note:
+This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see
+[138] (306,750)<a href='http://agentskills.io'>agentskills.io />
+.
+[139] (239,794)<a href='https://skills.sh/anthropics/skills' />
+	[140] (239,790)<img  />
+Skills
+[141] (193,854)<a aria-label='Permalink: Skills' class='anchor' href='#skills' id='user-content-skills' />
+Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.
+About
+Public repository for Agent Skills
+Topics
+[142] (697,295)<a class='topic-tag topic-tag-link' href='/topics/agent-skills' title='Topic: agent-skills'>agent-skills />
+Resources
+[143] (695,340)<a class='Link--muted' href='#readme-ov-file'>Readme />
+[144] (694,371)<a class='Link Link--muted' href='/anthropics/skills/activity' />
+	[145] (701,371)<span >Activity />
+[146] (712,402)<a class='Link Link--muted' href='/anthropics/skills/custom-properties' />
+	[147] (719,402)<span >Custom properties />
+Stars
+[148] (698,432)<a class='Link Link--muted' href='/anthropics/skills/stargazers'>stars />
+	[149] (696,432)<strong >131k />
+Watchers
+[150] (704,463)<a class='Link Link--muted' href='/anthropics/skills/watchers'>watching />
+	[151] (696,463)<strong >862 />
+Forks
+[152] (700,494)<a class='Link Link--muted' href='/anthropics/skills/forks'>forks />
+	[153] (698,494)<strong >15.4k />
+[154] (703,524)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fanthropics%2Fskills&report=anthropics+%28user%29'>Report repository />
+[155] (691,583)<a class='Link--primary no-underline Link' href='/anthropics/skills/releases'>Releases />
+No releases published
+[156] (746,679)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/orgs/anthropics/packages?repo_name=skills'>Packages />
+No packages published
+[157] (746,776)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/anthropics/skills/graphs/contributors'>Contributors />
+	[158] (732,776)<span >15 />
+[159] (683,820)<a href='https://github.com/klazuka' />
+	[160] (683,822)<img  />
+[161] (704,820)<a href='https://github.com/claude' />
+	[162] (704,822)<img  />
+[163] (725,820)<a href='https://github.com/ericharmeling' />
+	[164] (725,822)<img  />
+[165] (746,820)<a href='https://github.com/rlancemartin' />
+	[166] (746,822)<img  />
+[167] (767,820)<a href='https://github.com/maheshmurag' />
+	[168] (767,822)<img  />
+[169] (788,820)<a href='https://github.com/quuu' />
+	[170] (788,822)<img  />
+[171] (683,862)<a href='https://github.com/apps/github-actions' />
+	[172] (683,865)<img  />
+[173] (704,862)<a href='https://github.com/mattpic-ant' />
+	[174] (704,865)<img  />
+[175] (725,862)<a href='https://github.com/apps/cc-skill-sync' />
+	[176] (725,865)<img  />
+[177] (746,862)<a href='https://github.com/kencheeto' />
+	[178] (746,865)<img  />
+[179] (767,862)<a href='https://github.com/camaris' />
+	[180] (767,865)<img  />
+[181] (788,862)<a href='https://github.com/allenzhou101' />
+	[182] (788,865)<img  />
+[183] (683,905)<a href='https://github.com/zack-anthropic' />
+	[184] (683,907)<img  />
+[185] (704,905)<a href='https://github.com/peterlai-ant' />
+	[186] (704,907)<img  />
+[187] (725,905)<a href='https://github.com/ant-andi' />
+	[188] (725,907)<img  />
+Languages
+
+</current_dom>

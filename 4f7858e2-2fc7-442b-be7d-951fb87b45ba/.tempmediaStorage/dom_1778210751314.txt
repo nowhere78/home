@@ -1,0 +1,415 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (73,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nowhere78' />
+	[3] (73,34)<span  />
+		[4] (73,33)<font  />
+			[5] (73,33)<font >어디에도78 />
+[6] (118,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nowhere78/apar' />
+	[7] (114,34)<span  />
+		[8] (114,33)<font  />
+			[9] (114,33)<font >아파르 />
+[10] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[11] (756,34)<span  />
+		[12] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[13] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[14] (842,34)<button aria-label='Copilot 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[15] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[16] (870,34)<span  />
+[17] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[18] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[19] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[20] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[21] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[22] (983,34)<img  />
+저장소 탐색
+[23] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar' />
+	[24] (17,80)<span  />
+	[25] (34,80)<span  />
+		[26] (34,80)<font  />
+			[27] (34,80)<font >암호 />
+[28] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/issues' />
+	[29] (59,80)<span  />
+	[30] (77,80)<span  />
+		[31] (77,80)<font  />
+			[32] (77,80)<font >문제점 />
+[33] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/pulls' />
+	[34] (104,80)<span  />
+	[35] (133,80)<span  />
+		[36] (133,80)<font  />
+			[37] (133,80)<font >풀 리퀘스트 />
+[38] (191,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/agents?author=nowhere78' />
+	[39] (171,80)<span  />
+	[40] (197,80)<span  />
+		[41] (197,80)<font  />
+			[42] (197,80)<font >자치령 대표 />
+[43] (246,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/actions' />
+	[44] (232,80)<span  />
+	[45] (252,80)<span  />
+		[46] (252,80)<font  />
+			[47] (252,80)<font >행위 />
+[48] (297,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/projects' />
+	[49] (281,80)<span  />
+	[50] (303,80)<span  />
+		[51] (303,80)<font  />
+			[52] (303,80)<font >프로젝트 />
+[53] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/security' />
+	[54] (333,80)<span  />
+	[55] (374,80)<span  />
+		[56] (374,80)<font  />
+			[57] (374,80)<font >보안 및 품질 />
+[58] (439,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/network/dependencies' />
+	[59] (424,80)<span  />
+	[60] (446,80)<span  />
+		[61] (446,80)<font  />
+			[62] (446,80)<font >인사이트 />
+[63] (491,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nowhere78/apar/settings' />
+	[64] (476,80)<span  />
+	[65] (497,80)<span  />
+		[66] (497,80)<font  />
+			[67] (497,80)<font >설정 />
+[68] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+파일
+[69] (65,190)<button aria-label='본점' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[70] (65,190)<span  />
+		[71] (58,190)<span  />
+			[72] (58,190)<div  />
+				[73] (19,190)<div  />
+				[74] (33,190)<div  />
+					[75] (33,190)<span  />
+						[76] (34,190)<font  />
+							[77] (34,190)<font >기본 />
+[78] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/nowhere78/apar/new/main' />
+[79] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[80] (83,233)<span  />
+	[81] (17,233)<span  />
+	[82] (82,233)<input aria-label='파일로 이동' class='prc-components-Input-IwWrt' placeholder='파일로 이동' role='combobox' />
+	[83] (148,233)<span  />
+		[84] (148,233)<kbd  />
+			[85] (148,233)<span >t />
+				t
+				[86] (148,233)<span >T />
+[87] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[88] (79,982)<div  />
+		[89] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw-item' role='treeitem' />
+			[90] (79,279)<div  />
+				[91] (13,279)<div  />
+				[92] (84,279)<div  />
+					[93] (25,279)<div  />
+						[94] (25,279)<div  />
+					[95] (90,279)<span  />
+						[96] (45,279)<span  />
+							[97] (45,279)<font  />
+								[98] (45,279)<font >00_Raw />
+		[99] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='11cba96b-9295-464c-9639-07360f74dde3-item' role='treeitem' />
+			[100] (79,314)<div  />
+				[101] (13,314)<div  />
+				[102] (84,314)<div  />
+					[103] (25,313)<div  />
+						[104] (25,313)<div  />
+					[105] (90,314)<span  />
+						[106] (101,314)<span  />
+							[107] (101,314)<font  />
+								[108] (101,314)<font >11cba96b-9295-464c-9639-07360f74dde3 />
+		[109] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='28818969-abfb-4819-a4ee-8903cf2799d0-item' role='treeitem' />
+			[110] (79,348)<div  />
+				[111] (13,348)<div  />
+				[112] (84,348)<div  />
+					[113] (25,347)<div  />
+						[114] (25,347)<div  />
+					[115] (90,348)<span  />
+						[116] (100,348)<span  />
+							[117] (100,348)<font  />
+								[118] (100,348)<font >28818969-abfb-4819-a4ee-8903cf2799d0 />
+		[119] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='2bcedb0d-f737-4b5e-8935-36c4c76f82f8-item' role='treeitem' />
+			[120] (79,382)<div  />
+				[121] (13,382)<div  />
+				[122] (84,382)<div  />
+					[123] (25,382)<div  />
+						[124] (25,382)<div  />
+					[125] (90,382)<span  />
+						[126] (100,382)<span  />
+							[127] (100,382)<font  />
+								[128] (100,382)<font >2bcedb0d-f737-4b5e-8935-36c4c76f82f8 />
+		[129] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='37be8d2b-d5eb-4a23-945b-552ff3703cfe-item' role='treeitem' />
+			[130] (79,416)<div  />
+				[131] (13,416)<div  />
+				[132] (84,416)<div  />
+					[133] (25,416)<div  />
+						[134] (25,416)<div  />
+					[135] (90,416)<span  />
+						[136] (100,416)<span  />
+							[137] (100,416)<font  />
+								[138] (100,416)<font >37be8d2b-d5eb-4a23-945b-552ff3703cfe />
+		[139] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='393085bd-ffa1-4fe5-ac6e-2536f3767bc5-item' role='treeitem' />
+			[140] (79,450)<div  />
+				[141] (13,450)<div  />
+				[142] (84,450)<div  />
+					[143] (25,450)<div  />
+						[144] (25,450)<div  />
+					[145] (90,450)<span  />
+						[146] (98,450)<span  />
+							[147] (98,450)<font  />
+								[148] (98,450)<font >393085bd-ffa1-4fe5-ac6e-2536f3767bc5 />
+		[149] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='4f7858e2-2fc7-442b-be7d-951fb87b45ba-item' role='treeitem' />
+			[150] (79,484)<div  />
+				[151] (13,484)<div  />
+				[152] (84,484)<div  />
+					[153] (25,484)<div  />
+						[154] (25,484)<div  />
+					[155] (90,484)<span  />
+						[156] (100,484)<span  />
+							[157] (100,484)<font  />
+								[158] (100,484)<font >4f7858e2-2fc7-442b-be7d-951fb87b45ba />
+		[159] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='4f87238a-a64d-4157-92f7-8e7c1ab468db-item' role='treeitem' />
+			[160] (79,518)<div  />
+				[161] (13,518)<div  />
+				[162] (84,518)<div  />
+					[163] (25,518)<div  />
+						[164] (25,518)<div  />
+					[165] (90,518)<span  />
+						[166] (100,518)<span  />
+							[167] (100,518)<font  />
+								[168] (100,518)<font >4f87238a-a64d-4157-92f7-8e7c1ab468db />
+		[169] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='5287974b-2ee6-4422-8b17-0929f37ff3df-item' role='treeitem' />
+			[170] (79,552)<div  />
+				[171] (13,552)<div  />
+				[172] (84,552)<div  />
+					[173] (25,552)<div  />
+						[174] (25,552)<div  />
+					[175] (90,552)<span  />
+						[176] (99,552)<span  />
+							[177] (99,552)<font  />
+								[178] (99,552)<font >5287974b-2ee6-4422-8b17-0929f37ff3df />
+		[179] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='5a861607-2b92-4c04-9a14-8d54b2375e60-item' role='treeitem' />
+			[180] (79,586)<div  />
+				[181] (13,586)<div  />
+				[182] (84,586)<div  />
+					[183] (25,586)<div  />
+						[184] (25,586)<div  />
+					[185] (90,586)<span  />
+						[186] (102,586)<span  />
+							[187] (102,586)<font  />
+								[188] (102,586)<font >5a861607-2b92-4c04-9a14-8d54b2375e60 />
+		[189] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='6188b45c-04eb-4146-98d4-f61f50e3105b-item' role='treeitem' />
+			[190] (79,620)<div  />
+				[191] (13,620)<div  />
+				[192] (84,620)<div  />
+					[193] (25,620)<div  />
+						[194] (25,620)<div  />
+					[195] (90,620)<span  />
+						[196] (101,620)<span  />
+							[197] (101,620)<font  />
+								[198] (101,620)<font >6188b45c-04eb-4146-98d4-f61f50e3105b />
+		[199] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='7c9320dd-3aa2-4516-a660-bca912a91fe8-item' role='treeitem' />
+			[200] (79,654)<div  />
+				[201] (13,654)<div  />
+				[202] (84,654)<div  />
+					[203] (25,654)<div  />
+						[204] (25,654)<div  />
+					[205] (90,654)<span  />
+						[206] (101,654)<span  />
+							[207] (101,654)<font  />
+								[208] (101,654)<font >7c9320dd-3aa2-4516-a660-bca912a91fe8 />
+		[209] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='_agents-item' role='treeitem' />
+			[210] (79,688)<div  />
+				[211] (13,688)<div  />
+				[212] (84,688)<div  />
+					[213] (25,688)<div  />
+						[214] (25,688)<div  />
+					[215] (90,688)<span  />
+						[216] (53,688)<span  />
+							[217] (53,688)<font  />
+								[218] (53,688)<font >_자치령 대표 />
+		[219] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='_company-item' role='treeitem' />
+			[220] (79,722)<div  />
+				[221] (13,722)<div  />
+				[222] (84,722)<div  />
+					[223] (25,722)<div  />
+						[224] (25,722)<div  />
+					[225] (90,722)<span  />
+						[226] (42,722)<span  />
+							[227] (42,722)<font  />
+								[228] (42,722)<font >_회사 />
+		[229] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='_shared-item' role='treeitem' />
+			[230] (79,756)<div  />
+				[231] (13,756)<div  />
+				[232] (84,756)<div  />
+					[233] (25,756)<div  />
+						[234] (25,756)<div  />
+					[235] (90,756)<span  />
+						[236] (43,756)<span  />
+							[237] (43,756)<font  />
+								[238] (43,756)<font >공유됨 />
+		[239] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='a895810c-9fac-45de-97b2-021d117283a7-item' role='treeitem' />
+			[240] (79,790)<div  />
+				[241] (13,790)<div  />
+				[242] (84,790)<div  />
+					[243] (25,790)<div  />
+						[244] (25,790)<div  />
+					[245] (90,790)<span  />
+						[246] (101,790)<span  />
+							[247] (101,790)<font  />
+								[248] (101,790)<font >a895810c-9fac-45de-97b2-021d117283a7 />
+		[249] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='aaf85337-1e4b-4def-93a7-ca29baacc296-item' role='treeitem' />
+			[250] (79,824)<div  />
+				[251] (13,824)<div  />
+				[252] (84,824)<div  />
+					[253] (25,824)<div  />
+						[254] (25,824)<div  />
+					[255] (90,824)<span  />
+						[256] (99,824)<span  />
+							[257] (99,824)<font  />
+								[258] (99,824)<font >aaf85337-1e4b-4def-93a7-ca29baacc296 />
+		[259] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='assets-item' role='treeitem' />
+			[260] (79,858)<div  />
+				[261] (13,858)<div  />
+				[262] (84,858)<div  />
+					[263] (25,858)<div  />
+						[264] (25,858)<div  />
+					[265] (90,858)<span  />
+						[266] (40,858)<span  />
+							[267] (40,858)<font  />
+								[268] (40,858)<font >자산 />
+		[269] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='b5d41a57-a9d2-41c5-b31a-1cea879d91f0-item' role='treeitem' />
+			[270] (79,893)<div  />
+				[271] (13,893)<div  />
+				[272] (84,893)<div  />
+					[273] (25,892)<div  />
+						[274] (25,892)<div  />
+					[275] (90,893)<span  />
+						[276] (101,893)<span  />
+							[277] (101,893)<font  />
+								[278] (101,893)<font >b5d41a57-a9d2-41c5-b31a-1cea879d91f0 />
+		[279] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='bbdceab1-188d-46f6-aaf3-5fa52d6e1b32-item' role='treeitem' />
+			[280] (79,927)<div  />
+				[281] (13,927)<div  />
+				[282] (84,927)<div  />
+					[283] (25,927)<div  />
+						[284] (25,927)<div  />
+					[285] (90,927)<span  />
+						[286] (100,927)<span  />
+							[287] (100,927)<font  />
+								[288] (100,927)<font >bbdceab1-188d-46f6-aaf3-5fa52d6e1b32 />
+		[289] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='brain-item' role='treeitem' />
+			[290] (79,961)<div  />
+				[291] (13,961)<div  />
+				[292] (84,961)<div  />
+					[293] (25,961)<div  />
+						[294] (25,961)<div  />
+					[295] (90,961)<span  />
+						[296] (37,961)<span  />
+							[297] (37,961)<font  />
+								[298] (37,961)<font >뇌 />
+		[299] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='config-item' role='treeitem' />
+			[300] (79,995)<div  />
+				[301] (13,995)<div  />
+				[302] (84,995)<div  />
+					[303] (25,995)<div  />
+						[304] (25,995)<div  />
+					[305] (90,995)<span  />
+						[306] (40,995)<span  />
+							[307] (40,995)<font  />
+								[308] (40,995)<font >구성 />
+[309] (167,606)<div aria-label='드래그 가능한 패널 분할기' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+빵가루
+[310] (187,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/nowhere78/apar/tree/main' />
+	[311] (187,139)<font  />
+		[312] (187,139)<font >아파르 />
+/
+회사 상태.json
+[313] (272,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[314] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_R_icql3al1d_' />
+최신 커밋
+[315] (190,198)<a class='prc-Link-Link-9ZwDx' href='/nowhere78' />
+	[316] (188,199)<img  />
+[317] (215,198)<a aria-label='nowhere78의 커밋' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/nowhere78/apar/commits?author=nowhere78' />
+	[318] (215,198)<font  />
+		[319] (215,198)<font >어디에도78 />
+[320] (255,198)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' />
+	[321] (255,198)<font  />
+		[322] (255,198)<font >초기 뇌 결속 />
+[323] (915,198)<a aria-label='커밋 5a3587b' class='Link--secondary prc-Link-Link-9ZwDx' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' />
+	[324] (915,198)<font  />
+		[325] (915,198)<font >5a3587b />
+·
+11분 전
+역사
+[326] (971,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/nowhere78/apar/commits/main/company_state.json' />
+	[327] (971,198)<span  />
+		[328] (977,198)<span  />
+			[329] (977,197)<span  />
+				[330] (977,197)<font  />
+					[331] (977,197)<font >역사 />
+파일 메타데이터 및 제어
+[332] (196,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[333] (196,263)<span  />
+		[334] (196,263)<div  />
+			[335] (196,263)<font  />
+				[336] (196,263)<font >암호 />
+[337] (228,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[338] (228,263)<span  />
+		[339] (228,263)<div  />
+			[340] (228,263)<font  />
+				[341] (228,263)<font >탓하다 />
+6줄 (6개 위치) · 105바이트
+[342] (851,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_1kn6clal3al1d_' />
+[343] (870,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[344] (895,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/Nowhere78/apar/raw/refs/heads/main/company_state.json' />
+	[345] (895,263)<span  />
+		[346] (895,263)<span  />
+			[347] (895,263)<font  />
+				[348] (895,263)<font >날것의 />
+[349] (915,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[350] (929,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[351] (947,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/nowhere78/apar/edit/main/company_state.json' />
+[352] (961,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_R_59f6clal3al1d_' />
+[353] (980,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[354] (584,368)<textarea aria-label='파일 내용' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' />
+[355] (203,307)<div  />
+	[356] (203,307)<font  />
+		[357] (203,307)<font >1 />
+[358] (203,328)<div  />
+	[359] (203,328)<font  />
+		[360] (203,328)<font >2 />
+[361] (203,349)<div  />
+	[362] (203,349)<font  />
+		[363] (203,349)<font >3 />
+[364] (203,370)<div  />
+	[365] (203,370)<font  />
+		[366] (203,370)<font >4 />
+[367] (203,392)<div  />
+	[368] (203,392)<font  />
+		[369] (203,392)<font >5 />
+[370] (203,413)<div  />
+	[371] (203,413)<font  />
+		[372] (203,413)<font >6 />
+{
+"작업 완료"
+:
+5
+,
+"지식 주입됨"
+:
+0
+,
+"마지막세션날짜"
+:
+"
+"
+,
+"foundedAt"
+:
+"
+2026년 5월 7일
+"
+}
+
+</current_dom>

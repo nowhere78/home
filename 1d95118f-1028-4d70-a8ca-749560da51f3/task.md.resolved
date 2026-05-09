@@ -1,0 +1,3 @@
+- [x] Update `core_vision.md` with Joshua 1:7-9 vision statement.
+- [x] Update `compounding_loop.py` to include token-free conceptual reading (morning, noon, evening, post-mission).
+- [x] Create Walkthrough artifact summarizing the changes and how the token issue is solved.

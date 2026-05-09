@@ -1,0 +1,464 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (72,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics' />
+	[3] (72,34)<span >anthropics />
+[4] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics/skills' />
+	[5] (111,34)<span >skills />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (100,80)<span >(
+226
+) />
+		[26] (100,80)<span >226 />
+		(
+		226
+		)
+[27] (160,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulls' />
+	[28] (125,80)<span  />
+	[29] (155,80)<span >Pull requests />
+	[30] (189,80)<span >(
+592
+) />
+		[31] (189,80)<span >592 />
+		(
+		592
+		)
+[32] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/agents?author=nowhere78' />
+	[33] (215,80)<span  />
+	[34] (235,80)<span >Agents />
+[35] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/discussions' />
+	[36] (263,80)<span  />
+	[37] (290,80)<span >Discussions />
+[38] (340,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/actions' />
+	[39] (326,80)<span  />
+	[40] (346,80)<span >Actions />
+[41] (410,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/security' />
+	[42] (375,80)<span  />
+	[43] (416,80)<span >Security and quality />
+[44] (481,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulse' />
+	[45] (466,80)<span  />
+	[46] (487,80)<span >Insights />
+[47] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[48] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[49] (65,190)<span  />
+		[50] (58,190)<span  />
+			[51] (58,190)<div  />
+				[52] (19,190)<div  />
+				[53] (35,190)<div  />
+					[54] (35,190)<span >main />
+[55] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/anthropics/skills/new/main/skills/claude-api/python/claude-api' />
+[56] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[57] (83,233)<span  />
+	[58] (17,233)<span  />
+	[59] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[60] (148,233)<span  />
+		[61] (148,233)<kbd  />
+			[62] (148,233)<span >t />
+				t
+				[63] (148,233)<span >T />
+[64] (83,684)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[65] (79,982)<div  />
+		[66] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude-plugin-item' role='treeitem' />
+			[67] (79,279)<div  />
+				[68] (13,279)<div  />
+				[69] (84,279)<div  />
+					[70] (25,279)<div  />
+						[71] (25,279)<div  />
+					[72] (90,279)<span  />
+						[73] (56,279)<span >.claude-plugin />
+		[74] (79,910)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills-item' role='treeitem' />
+			[75] (79,314)<div  />
+				[76] (13,314)<div  />
+				[77] (84,314)<div  />
+					[78] (25,313)<div  />
+						[79] (25,313)<div  />
+					[80] (90,314)<span  />
+						[81] (41,314)<span >skills />
+			[82] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/algorithmic-art-item' role='treeitem' />
+				[83] (79,348)<div  />
+					[84] (10,348)<div  />
+						[85] (10,348)<div  />
+							[86] (10,348)<div  />
+					[87] (17,348)<div  />
+					[88] (86,348)<div  />
+						[89] (29,347)<div  />
+							[90] (29,347)<div  />
+						[91] (92,348)<span  />
+							[92] (61,348)<span >algorithmic-art />
+			[93] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/brand-guidelines-item' role='treeitem' />
+				[94] (79,382)<div  />
+					[95] (10,382)<div  />
+						[96] (10,382)<div  />
+							[97] (10,382)<div  />
+					[98] (17,382)<div  />
+					[99] (86,382)<div  />
+						[100] (29,382)<div  />
+							[101] (29,382)<div  />
+						[102] (92,382)<span  />
+							[103] (65,382)<span >brand-guidelines />
+			[104] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/canvas-design-item' role='treeitem' />
+				[105] (79,416)<div  />
+					[106] (10,416)<div  />
+						[107] (10,416)<div  />
+							[108] (10,416)<div  />
+					[109] (17,416)<div  />
+					[110] (86,416)<div  />
+						[111] (29,416)<div  />
+							[112] (29,416)<div  />
+						[113] (92,416)<span  />
+							[114] (60,416)<span >canvas-design />
+			[115] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api-item' role='treeitem' />
+				[116] (79,450)<div  />
+					[117] (10,450)<div  />
+						[118] (10,450)<div  />
+							[119] (10,450)<div  />
+					[120] (17,450)<div  />
+					[121] (86,450)<div  />
+						[122] (29,450)<div  />
+							[123] (29,450)<div  />
+						[124] (92,450)<span  />
+							[125] (54,450)<span >claude-api />
+				[126] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/csharp-item' role='treeitem' />
+					[127] (79,484)<div  />
+						[128] (13,484)<div  />
+							[129] (13,484)<div  />
+								[130] (10,484)<div  />
+								[131] (15,484)<div  />
+						[132] (21,484)<div  />
+						[133] (88,484)<div  />
+							[134] (33,484)<div  />
+								[135] (33,484)<div  />
+							[136] (94,484)<span  />
+								[137] (52,484)<span >csharp />
+				[138] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/curl-item' role='treeitem' />
+					[139] (79,518)<div  />
+						[140] (13,518)<div  />
+							[141] (13,518)<div  />
+								[142] (10,518)<div  />
+								[143] (15,518)<div  />
+						[144] (21,518)<div  />
+						[145] (88,518)<div  />
+							[146] (33,518)<div  />
+								[147] (33,518)<div  />
+							[148] (94,518)<span  />
+								[149] (48,518)<span >curl />
+				[150] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/go-item' role='treeitem' />
+					[151] (79,552)<div  />
+						[152] (13,552)<div  />
+							[153] (13,552)<div  />
+								[154] (10,552)<div  />
+								[155] (15,552)<div  />
+						[156] (21,552)<div  />
+						[157] (88,552)<div  />
+							[158] (33,552)<div  />
+								[159] (33,552)<div  />
+							[160] (94,552)<span  />
+								[161] (46,552)<span >go />
+				[162] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/java-item' role='treeitem' />
+					[163] (79,586)<div  />
+						[164] (13,586)<div  />
+							[165] (13,586)<div  />
+								[166] (10,586)<div  />
+								[167] (15,586)<div  />
+						[168] (21,586)<div  />
+						[169] (88,586)<div  />
+							[170] (33,586)<div  />
+								[171] (33,586)<div  />
+							[172] (94,586)<span  />
+								[173] (48,586)<span >java />
+				[174] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/php-item' role='treeitem' />
+					[175] (79,620)<div  />
+						[176] (13,620)<div  />
+							[177] (13,620)<div  />
+								[178] (10,620)<div  />
+								[179] (15,620)<div  />
+						[180] (21,620)<div  />
+						[181] (88,620)<div  />
+							[182] (33,620)<div  />
+								[183] (33,620)<div  />
+							[184] (94,620)<span  />
+								[185] (48,620)<span >php />
+				[186] (79,773)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python-item' role='treeitem' />
+					[187] (79,654)<div  />
+						[188] (13,654)<div  />
+							[189] (13,654)<div  />
+								[190] (10,654)<div  />
+								[191] (15,654)<div  />
+						[192] (21,654)<div  />
+						[193] (88,654)<div  />
+							[194] (33,654)<div  />
+								[195] (33,654)<div  />
+							[196] (94,654)<span  />
+								[197] (53,654)<span >python />
+					[198] (79,773)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api-item' role='treeitem' />
+						[199] (79,688)<div  />
+							[200] (15,688)<div  />
+								[201] (15,688)<div  />
+									[202] (10,688)<div  />
+									[203] (15,688)<div  />
+									[204] (19,688)<div  />
+							[205] (25,688)<div  />
+							[206] (90,688)<div  />
+								[207] (38,688)<div  />
+									[208] (38,688)<div  />
+								[209] (96,688)<span  />
+									[210] (63,688)<span >claude-api />
+						[211] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/README.md-item' role='treeitem' />
+							[212] (79,722)<div  />
+								[213] (17,722)<div  />
+									[214] (17,722)<div  />
+										[215] (10,722)<div  />
+										[216] (15,722)<div  />
+										[217] (19,722)<div  />
+										[218] (23,722)<div  />
+								[219] (92,722)<div  />
+									[220] (42,722)<div  />
+									[221] (98,722)<span  />
+										[222] (70,722)<span >README.md />
+						[223] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/batches.md-item' role='treeitem' />
+							[224] (79,756)<div  />
+								[225] (17,756)<div  />
+									[226] (17,756)<div  />
+										[227] (10,756)<div  />
+										[228] (15,756)<div  />
+										[229] (19,756)<div  />
+										[230] (23,756)<div  />
+								[231] (92,756)<div  />
+									[232] (42,756)<div  />
+									[233] (98,756)<span  />
+										[234] (69,756)<span >batches.md />
+						[235] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/files-api.md-item' role='treeitem' />
+							[236] (79,790)<div  />
+								[237] (17,790)<div  />
+									[238] (17,790)<div  />
+										[239] (10,790)<div  />
+										[240] (15,790)<div  />
+										[241] (19,790)<div  />
+										[242] (23,790)<div  />
+								[243] (92,790)<div  />
+									[244] (42,790)<div  />
+									[245] (98,790)<span  />
+										[246] (69,790)<span >files-api.md />
+						[247] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/streaming.md-item' role='treeitem' />
+							[248] (79,824)<div  />
+								[249] (17,824)<div  />
+									[250] (17,824)<div  />
+										[251] (10,824)<div  />
+										[252] (15,824)<div  />
+										[253] (19,824)<div  />
+										[254] (23,824)<div  />
+								[255] (92,824)<div  />
+									[256] (42,824)<div  />
+									[257] (98,824)<span  />
+										[258] (72,824)<span >streaming.md />
+						[259] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/tool-use.md-item' role='treeitem' />
+							[260] (79,858)<div  />
+								[261] (17,858)<div  />
+									[262] (17,858)<div  />
+										[263] (10,858)<div  />
+										[264] (15,858)<div  />
+										[265] (19,858)<div  />
+										[266] (23,858)<div  />
+								[267] (92,858)<div  />
+									[268] (42,858)<div  />
+									[269] (98,858)<span  />
+										[270] (69,858)<span >tool-use.md />
+					[271] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/managed-agents-item' role='treeitem' />
+						[272] (79,893)<div  />
+							[273] (15,893)<div  />
+								[274] (15,893)<div  />
+									[275] (10,893)<div  />
+									[276] (15,893)<div  />
+									[277] (19,893)<div  />
+							[278] (25,893)<div  />
+							[279] (90,893)<div  />
+								[280] (38,892)<div  />
+									[281] (38,892)<div  />
+								[282] (96,893)<span  />
+									[283] (73,893)<span >managed-agents />
+				[284] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/ruby-item' role='treeitem' />
+					[285] (79,927)<div  />
+						[286] (13,927)<div  />
+							[287] (13,927)<div  />
+								[288] (10,927)<div  />
+								[289] (15,927)<div  />
+						[290] (21,927)<div  />
+						[291] (88,927)<div  />
+							[292] (33,927)<div  />
+								[293] (33,927)<div  />
+							[294] (94,927)<span  />
+								[295] (49,927)<span >ruby />
+				[296] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/shared-item' role='treeitem' />
+					[297] (79,961)<div  />
+						[298] (13,961)<div  />
+							[299] (13,961)<div  />
+								[300] (10,961)<div  />
+								[301] (15,961)<div  />
+						[302] (21,961)<div  />
+						[303] (88,961)<div  />
+							[304] (33,961)<div  />
+								[305] (33,961)<div  />
+							[306] (94,961)<span  />
+								[307] (52,961)<span >shared />
+				[308] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/typescript-item' role='treeitem' />
+					[309] (79,995)<div  />
+						[310] (13,995)<div  />
+							[311] (13,995)<div  />
+								[312] (10,995)<div  />
+								[313] (15,995)<div  />
+						[314] (21,995)<div  />
+						[315] (88,995)<div  />
+							[316] (33,995)<div  />
+								[317] (33,995)<div  />
+							[318] (94,995)<span  />
+								[319] (57,995)<span >typescript />
+[320] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[321] (185,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main'>skills />
+/
+[322] (214,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills'>skills />
+/
+[323] (253,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills/claude-api'>claude-api />
+/
+[324] (297,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills/claude-api/python'>python />
+/
+claude-api
+/
+[325] (385,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[326] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_8p_' />
+	[327] (947,140)<span  />
+		[328] (947,140)<span  />
+			[329] (947,140)<span >Add file />
+More options
+[330] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_8u_' title='More options' />
+Latest commit
+[331] (190,198)<a class='prc-Link-Link-9ZwDx' href='/ericharmeling' />
+	[332] (188,199)<img  />
+[333] (220,198)<a aria-label='commits by ericharmeling' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/anthropics/skills/commits?author=ericharmeling'>ericharmeling />
+[334] (296,198)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c'>chore: update claude-api skill ( />
+[335] (353,198)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+[336] (363,198)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c'>) />
+[337] (375,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[338] (892,198)<a aria-label='Commit 2c7ec5e' class='Link--secondary prc-Link-Link-9ZwDx' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c'>2c7ec5e />
+·
+History
+[339] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/anthropics/skills/commits/main/skills/claude-api/python/claude-api' />
+	[340] (967,198)<span  />
+		[341] (972,198)<span  />
+			[342] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[343] (584,304)<tr  />
+	parent directory
+	[344] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills/claude-api/python' />
+		[345] (584,304)<div >.. />
+[346] (584,347)<tr  />
+	[347] (218,347)<a aria-label='README.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/claude-api/python/claude-api/README.md' title='README.md'>README.md />
+	[348] (560,347)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>chore: update claude-api skill ( />
+	[349] (617,347)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+	[350] (626,347)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>) />
+[351] (584,390)<tr  />
+	[352] (216,390)<a aria-label='batches.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/claude-api/python/claude-api/batches.md' title='batches.md'>batches.md />
+	[353] (560,390)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>chore: update claude-api skill ( />
+	[354] (617,390)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+	[355] (626,390)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>) />
+[356] (584,433)<tr  />
+	[357] (217,434)<a aria-label='files-api.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/claude-api/python/claude-api/files-api.md' title='files-api.md'>files-api.md />
+	[358] (560,434)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>chore: update claude-api skill ( />
+	[359] (617,434)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+	[360] (626,434)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>) />
+[361] (584,477)<tr  />
+	[362] (220,477)<a aria-label='streaming.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/claude-api/python/claude-api/streaming.md' title='streaming.md'>streaming.md />
+	[363] (560,477)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>chore: update claude-api skill ( />
+	[364] (617,477)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+	[365] (626,477)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>) />
+[366] (584,520)<tr  />
+	[367] (217,521)<a aria-label='tool-use.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/claude-api/python/claude-api/tool-use.md' title='tool-use.md'>tool-use.md />
+	[368] (560,521)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>chore: update claude-api skill ( />
+	[369] (617,521)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/956'>#956 />
+	[370] (626,521)<a class='Link--secondary' href='/anthropics/skills/commit/2c7ec5e78b8e5d43ea02e90bb8826f6b9f147b0c' title='chore: update claude-api skill (#956)
+
+Add shared/model-migration.md and refresh model references, managed
+agents docs, and skill description across all language guides.'>) />
+[371] (203,584)<a class='DirectoryReadmePreview-module__readmeLink__JEGBK prc-Link-Link-9ZwDx' href='#readme'>README.md />
+[372] (961,584)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[373] (980,584)<button class='prc-Button-ButtonBase-9n-Xk TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+Claude API — Python
+[374] (313,664)<a aria-label='Permalink: Claude API — Python' class='anchor' href='#claude-api--python' id='user-content-claude-api--python' />
+Installation
+[375] (313,736)<a aria-label='Permalink: Installation' class='anchor' href='#installation' id='user-content-installation' />
+pip install anthropic
+[376] (836,802)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+Client Initialization
+[377] (313,874)<a aria-label='Permalink: Client Initialization' class='anchor' href='#client-initialization' id='user-content-client-initialization' />
+import
+anthropic
+# Default (uses ANTHROPIC_API_KEY env var)
+client
+=
+anthropic
+.
+Anthropic
+()
+[378] (836,940)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

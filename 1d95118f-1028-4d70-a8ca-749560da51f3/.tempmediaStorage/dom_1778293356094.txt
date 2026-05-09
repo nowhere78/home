@@ -1,0 +1,232 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+[2] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[3] (63,30)<div  />
+		[4] (63,29)<ytd-logo  />
+			[5] (63,30)<yt-icon  />
+KR
+[6] (470,30)<div  />
+	[7] (465,30)<form  />
+		[8] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (599,30)<div  />
+		[10] (599,30)<ytd-text-input-assistant  />
+			[11] (599,30)<button class='ytdTextInputAssistantButton' />
+				[12] (599,30)<img  />
+[13] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (626,30)<span  />
+		[15] (626,30)<span  />
+			[16] (626,30)<div  />
+[17] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[18] (662,30)<yt-touch-feedback-shape  />
+		[19] (662,30)<div  />
+[20] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[21] (902,30)<yt-touch-feedback-shape  />
+		[22] (902,30)<div  />
+[23] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[24] (941,29)<yt-icon-badge-shape  />
+		[25] (941,30)<div  />
+			[26] (941,30)<div  />
+				[27] (941,30)<span  />
+[28] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[29] (971,30)<yt-img-shadow  />
+		[30] (971,30)<img  />
+[31] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[32] (59,93)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='홈' />
+		[33] (59,93)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[34] (19,93)<yt-icon  />
+			[35] (72,93)<yt-formatted-string >홈 />
+	[36] (59,135)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[37] (59,135)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[38] (19,135)<yt-icon  />
+			[39] (72,135)<yt-formatted-string >Shorts />
+	[40] (59,204)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='구독' />
+		[41] (59,204)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[42] (22,204)<yt-formatted-string >구독 />
+			[43] (36,204)<yt-icon  />
+	[44] (59,247)<a aria-label='1theK (원더케이)에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1theK' id='endpoint' role='link' title='1theK (원더케이)' />
+		[45] (59,247)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[46] (19,247)<yt-img-shadow  />
+				[47] (19,247)<img  />
+			[48] (68,247)<yt-formatted-string >1theK (원더케이) />
+			[49] (102,247)<div  />
+	[50] (59,289)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1minscience' id='endpoint' role='link' title='1분과학' />
+		[51] (59,289)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[52] (19,289)<yt-img-shadow  />
+				[53] (19,289)<img  />
+			[54] (72,289)<yt-formatted-string >1분과학 />
+	[55] (59,331)<a aria-label='1분미만에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1%EB%B6%84%EB%AF%B8%EB%A7%8C' id='endpoint' role='link' title='1분미만' />
+		[56] (59,331)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[57] (19,331)<yt-img-shadow  />
+				[58] (19,331)<img  />
+			[59] (68,331)<yt-formatted-string >1분미만 />
+			[60] (102,331)<div  />
+	[61] (59,374)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@No.14VinylShop' id='endpoint' role='link' title='14번지 LP가게' />
+		[62] (59,374)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[63] (19,374)<yt-img-shadow  />
+				[64] (19,374)<img  />
+			[65] (72,374)<yt-formatted-string >14번지 LP가게 />
+	[66] (59,416)<a aria-label='21일간 열방과 함께하는 다니엘기도회에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@danielprayer' id='endpoint' role='link' title='21일간 열방과 함께하는 다니엘기도회' />
+		[67] (59,416)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[68] (19,416)<yt-img-shadow  />
+				[69] (19,416)<img  />
+			[70] (68,416)<yt-formatted-string >21일간 열방과 함께하는 다니엘기도회 />
+			[71] (102,416)<div  />
+	[72] (59,458)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@180%EC%B4%88%EB%B0%94%EC%9D%B4%EB%B8%94' id='endpoint' role='link' title='180초 바이블' />
+		[73] (59,458)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[74] (19,458)<yt-img-shadow  />
+				[75] (19,458)<img  />
+			[76] (72,458)<yt-formatted-string >180초 바이블 />
+	[77] (59,501)<a aria-label='522의 하루에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@522_today' id='endpoint' role='link' title='522의 하루' />
+		[78] (59,501)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[79] (19,501)<yt-img-shadow  />
+				[80] (19,501)<img  />
+			[81] (68,501)<yt-formatted-string >522의 하루 />
+			[82] (102,501)<div  />
+	[83] (59,543)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[84] (59,543)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[85] (59,543)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[86] (19,543)<yt-icon  />
+				[87] (72,543)<yt-formatted-string >더보기 />
+	[88] (59,612)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='내 페이지' />
+		[89] (59,612)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[90] (31,612)<yt-formatted-string >내 페이지 />
+			[91] (54,612)<yt-icon  />
+	[92] (59,654)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@honeyjarfinds' id='endpoint' role='link' title='내 채널' />
+		[93] (59,654)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[94] (19,654)<yt-icon  />
+			[95] (72,654)<yt-formatted-string >내 채널 />
+	[96] (59,696)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='기록' />
+		[97] (59,696)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[98] (19,696)<yt-icon  />
+			[99] (72,696)<yt-formatted-string >기록 />
+	[100] (59,739)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='재생목록' />
+		[101] (59,739)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[102] (19,739)<yt-icon  />
+			[103] (72,739)<yt-formatted-string >재생목록 />
+	[104] (59,781)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='나중에 볼 동영상' />
+		[105] (59,781)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[106] (19,781)<yt-icon  />
+			[107] (72,781)<yt-formatted-string >나중에 볼 동영상 />
+	[108] (59,823)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='좋아요 표시한 동영상' />
+		[109] (59,823)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[110] (19,823)<yt-icon  />
+			[111] (72,823)<yt-formatted-string >좋아요 표시한 동영상 />
+	[112] (59,866)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/videos' id='endpoint' role='link' title='내 동영상' />
+		[113] (59,866)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[114] (19,866)<yt-icon  />
+			[115] (72,866)<yt-formatted-string >내 동영상 />
+	[116] (59,908)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='오프라인 저장 동영상' />
+		[117] (59,908)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[118] (19,908)<yt-icon  />
+			[119] (72,908)<yt-formatted-string >오프라인 저장 동영상 />
+	[120] (59,950)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[121] (59,950)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[122] (59,950)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[123] (19,950)<yt-icon  />
+				[124] (72,950)<yt-formatted-string >더보기 />
+곽상빈 인사이트
+@kwaksinsight
+•
+구독자 1.54만명
+•
+동영상 38개
+[125] (472,395)<yt-description-preview-view-model  />
+	[126] (472,395)<truncated-text  />
+		[127] (472,395)<truncated-text-content >저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다. />
+			저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다.
+		[128] (615,395)<button aria-label='설명: 저는 김앤장법률사무소와 대형회계법인, 스�... 탭하여 자세히 알아보세요.' class='ytTruncatedTextAbsoluteButton' />
+			[129] (615,394)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text' />
+				[130] (615,394)<span >...더보기 />
+[131] (331,437)<button aria-label='곽상빈 인사이트을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextDisableTextEllipsis ytSpecButtonShapeNextEnableBackdropFilterExperiment'>구독 />
+	구독
+	[132] (331,437)<yt-touch-feedback-shape  />
+		[133] (331,437)<div  />
+[134] (237,494)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[135] (237,494)<div >홈 />
+[136] (274,494)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[137] (274,494)<div >동영상 />
+[138] (312,494)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[139] (312,494)<div >Shorts />
+[140] (349,494)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[141] (349,494)<div >라이브 />
+[142] (390,494)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[143] (390,494)<div >재생목록 />
+[144] (468,494)<yt-tab-shape  />
+	[145] (428,494)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[146] (428,494)<yt-icon  />
+			[147] (428,494)<span  />
+				[148] (428,494)<div  />
+[149] (556,556)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=ekoOYGNCNUE'>전문직 자격증 공부? 그냥 이 공식만 따라하시면 됩니다 />
+조회수 67,619회
+4개월 전
+안녕하세요 여러분, 곽상빈 변호사입니다.
+IQ 100, 실업계 출신인 제가 전문직 시험을 통과한 건
+머리가 아니라 합격 구조 덕분이었습니다. 
+
+그래서 이번 강의에 제 모든 노하우를 갈아 넣었습니다.
+수십 개의 자격증을 따면서 뼈저리게 깨달은, 
+평범한 머리로도 최단기에 합격하는 기술입니다.
+
+두꺼운 기본서를 1/10로 줄여 시험장에 가져갈 핵심만 남기는 [압축 단권화 솔루션]
+출제자 머리 꼭대기에서 정답만 골라내는 [유형별 고득점 메커니즘]
+그리고 손으로 쓰지 않고 AI로 오답과 약점을 10분 만에 분석하는 [AI 기반 자동화 기술]
+
+지능의 차이가 아닙니다. 방법과 기술의 차이입니다.
+여러분의 소중한 1년, 제가 확실하게 줄여드리겠습니다.
+_ 
+
+이 영상 보신 분들은, 아래 쿠폰으로 15% 할인 받을 수 있다고 하네요:)
+✔️ 15% 쿠폰 코드명: 단기합격기술 (*~1/31)
+✔️ 강의 링크:
+[150] (472,778)<tp-yt-paper-button class='style-scope ytd-expander' id='more' role='button' />
+	[151] (472,778)<yt-formatted-string  />
+		[152] (472,778)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=ekoOYGNCNUE'>자세히 알아보기 />
+[153] (243,859)<a class='yt-simple-endpoint style-scope ytd-shelf-renderer' href='/@kwaksinsight/videos?view=0&sort=p&shelf_id=1' />
+	[154] (243,859)<span >인기 동영상 />
+[155] (273,994)<div  />
+	[156] (273,962)<a class='ytLockupViewModelContentImage' href='/watch?v=tXDzppBT4UA&pp=0gcJCQMLAYcqIYzv' />
+		[157] (273,958)<yt-thumbnail-view-model  />
+			[158] (273,958)<div  />
+				[159] (273,958)<img  />
+			30:38
+[160] (386,994)<div  />
+	[161] (386,962)<a class='ytLockupViewModelContentImage' href='/watch?v=ekoOYGNCNUE&pp=0gcJCQMLAYcqIYzv' />
+		[162] (386,958)<yt-thumbnail-view-model  />
+			[163] (386,958)<div  />
+				[164] (386,958)<img  />
+			5:34
+[165] (500,962)<a class='ytLockupViewModelContentImage' href='/watch?v=4hSlyOWuCGA' />
+	[166] (500,958)<yt-thumbnail-view-model  />
+		[167] (500,958)<div  />
+			[168] (500,958)<img  />
+		35:52
+[169] (613,994)<div  />
+	[170] (613,962)<a class='ytLockupViewModelContentImage' href='/watch?v=0JIhXnTUp04' />
+		[171] (613,958)<yt-thumbnail-view-model  />
+			[172] (613,958)<div  />
+				[173] (613,958)<img  />
+			10:23
+[174] (727,994)<div  />
+	[175] (727,962)<a class='ytLockupViewModelContentImage' href='/watch?v=a47AlVBe6Ho' />
+		[176] (727,958)<yt-thumbnail-view-model  />
+			[177] (727,958)<div  />
+				[178] (727,958)<img  />
+			8:51
+[179] (840,994)<div  />
+	[180] (840,962)<a class='ytLockupViewModelContentImage' href='/watch?v=PjY6-yQ6_iM&pp=0gcJCQMLAYcqIYzv' />
+		[181] (840,958)<yt-thumbnail-view-model  />
+			[182] (840,958)<div  />
+				[183] (840,958)<img  />
+			7:07
+[184] (897,958)<ytd-button-renderer  />
+	[185] (897,958)<yt-button-shape  />
+		[186] (897,958)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[187] (897,958)<yt-touch-feedback-shape  />
+				[188] (897,958)<div  />
+
+</current_dom>

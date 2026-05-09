@@ -1,0 +1,202 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (38,30)<yt-icon  />
+		[2] (38,30)<span  />
+			[3] (38,30)<div  />
+[4] (127,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (127,30)<div  />
+		[6] (127,29)<ytd-logo  />
+			[7] (127,30)<yt-icon  />
+KR
+[8] (440,30)<div  />
+	[9] (431,30)<form  />
+		[10] (431,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[11] (587,30)<div  />
+		[12] (587,30)<ytd-text-input-assistant  />
+			[13] (587,30)<button class='ytdTextInputAssistantButton' />
+				[14] (587,30)<img  />
+[15] (641,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[16] (641,30)<span  />
+		[17] (641,30)<span  />
+			[18] (641,30)<div  />
+[19] (712,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[20] (712,30)<yt-touch-feedback-shape  />
+		[21] (712,30)<div  />
+[22] (803,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[23] (803,30)<yt-touch-feedback-shape  />
+		[24] (803,30)<div  />
+[25] (882,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[26] (882,29)<yt-icon-badge-shape  />
+		[27] (882,30)<div  />
+			[28] (882,30)<div  />
+				[29] (882,30)<span  />
+[30] (939,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[31] (943,30)<yt-img-shadow  />
+		[32] (943,30)<img  />
+[33] (38,103)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[34] (38,93)<yt-icon  />
+	[35] (38,120)<span >홈 />
+[36] (38,181)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[37] (38,171)<yt-icon  />
+	[38] (38,198)<span >Shorts />
+[39] (38,259)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[40] (38,250)<yt-icon  />
+	[41] (38,276)<span >구독 />
+[42] (38,338)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[43] (38,328)<yt-icon  />
+	[44] (38,354)<span >내 페이지 />
+곽상빈 인사이트
+@kwaksinsight
+•
+구독자 1.54만명
+•
+동영상 38개
+[45] (622,284)<yt-description-preview-view-model  />
+	[46] (622,284)<truncated-text  />
+		[47] (622,284)<truncated-text-content >저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다. />
+			저는 김앤장법률사무소와 대형회계법인, 스타트업 출신으로서 변호사, 회계사, 감정평가사, 경영학박사, 대학원 교수로서 많은 사업가들에게 도움을 드리고 있습니다.
+		[48] (842,284)<button aria-label='설명: 저는 김앤장법률사무소와 대형회계법인, 스�... 탭하여 자세히 알아보세요.' class='ytTruncatedTextAbsoluteButton' />
+			[49] (842,284)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text' />
+				[50] (842,284)<span >...더보기 />
+[51] (409,325)<button aria-label='곽상빈 인사이트을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextDisableTextEllipsis ytSpecButtonShapeNextEnableBackdropFilterExperiment'>구독 />
+	구독
+	[52] (409,325)<yt-touch-feedback-shape  />
+		[53] (409,325)<div  />
+[54] (220,385)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[55] (220,385)<div >홈 />
+[56] (295,385)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[57] (295,385)<div >동영상 />
+[58] (370,385)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[59] (370,385)<div >Shorts />
+[60] (445,385)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[61] (445,385)<div >라이브 />
+[62] (526,385)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[63] (526,385)<div >재생목록 />
+[64] (683,385)<yt-tab-shape  />
+	[65] (603,385)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[66] (603,385)<yt-icon  />
+			[67] (603,385)<span  />
+				[68] (603,385)<div  />
+[69] (764,446)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=ekoOYGNCNUE'>전문직 자격증 공부? 그냥 이 공식만 따라하시면 됩니다 />
+조회수 67,619회
+4개월 전
+안녕하세요 여러분, 곽상빈 변호사입니다.
+IQ 100, 실업계 출신인 제가 전문직 시험을 통과한 건
+머리가 아니라 합격 구조 덕분이었습니다. 
+
+그래서 이번 강의에 제 모든 노하우를 갈아 넣었습니다.
+수십 개의 자격증을 따면서 뼈저리게 깨달은, 
+평범한 머리로도 최단기에 합격하는 기술입니다.
+
+두꺼운 기본서를 1/10로 줄여 시험장에 가져갈 핵심만 남기는 [압축 단권화 솔루션]
+출제자 머리 꼭대기에서 정답만 골라내는 [유형별 고득점 메커니즘]
+그리고 손으로 쓰지 않고 AI로 오답과 약점을 10분 만에 분석하는 [AI 기반 자동화 기술]
+
+지능의 차이가 아닙니다. 방법과 기술의 차이입니다.
+여러분의 소중한 1년, 제가 확실하게 줄여드리겠습니다.
+_ 
+
+이 영상 보신 분들은, 아래 쿠폰으로 15% 할인 받을 수 있다고 하네요:)
+✔️ 15% 쿠폰 코드명: 단기합격기술 (*~1/31)
+✔️ 강의 링크:
+[70] (698,668)<tp-yt-paper-button class='style-scope ytd-expander' id='more' role='button' />
+	[71] (698,668)<yt-formatted-string  />
+		[72] (698,668)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=ekoOYGNCNUE'>자세히 알아보기 />
+[73] (239,750)<a class='yt-simple-endpoint style-scope ytd-shelf-renderer' href='/@kwaksinsight/videos?view=0&sort=p&shelf_id=1' />
+	[74] (239,750)<span >인기 동영상 />
+[75] (298,884)<div  />
+	[76] (298,852)<a class='ytLockupViewModelContentImage' href='/watch?v=tXDzppBT4UA' />
+		[77] (298,848)<yt-thumbnail-view-model  />
+			[78] (298,848)<div  />
+				[79] (298,848)<img  />
+			[80] (298,898)<yt-thumbnail-bottom-overlay-view-model  />
+				[81] (383,898)<div  />
+					[82] (383,896)<yt-thumbnail-badge-view-model  />
+						[83] (383,896)<badge-shape  />
+							[84] (383,896)<div >30:38 />
+	[85] (298,951)<div  />
+		[86] (298,951)<yt-lockup-metadata-view-model  />
+			[87] (298,951)<div  />
+				[88] (298,940)<h3  />
+					[89] (298,940)<a aria-label='감정평가사 준비한다면 반드시 봐야할 영상 30분' class='ytLockupMetadataViewModelTitle' href='/watch?v=tXDzppBT4UA' />
+						[90] (281,940)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>감정평가사 준비한다면 반드시 봐야할 영상 />
+				[91] (298,972)<div  />
+					[92] (298,973)<yt-content-metadata-view-model  />
+						[93] (298,973)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[94] (227,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 8.7만회 />
+							[95] (273,973)<span >• />
+							[96] (296,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1년 전 />
+			[97] (399,932)<div  />
+				[98] (399,932)<button-view-model  />
+					[99] (399,932)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[100] (399,932)<yt-touch-feedback-shape  />
+							[101] (399,932)<div  />
+[102] (526,884)<div  />
+	[103] (526,852)<a class='ytLockupViewModelContentImage' href='/watch?v=ekoOYGNCNUE' />
+		[104] (526,848)<yt-thumbnail-view-model  />
+			[105] (526,848)<div  />
+				[106] (526,848)<img  />
+			[107] (526,898)<yt-thumbnail-bottom-overlay-view-model  />
+				[108] (614,898)<div  />
+					[109] (614,896)<yt-thumbnail-badge-view-model  />
+						[110] (614,896)<badge-shape  />
+							[111] (614,896)<div >5:34 />
+	[112] (526,951)<div  />
+		[113] (526,951)<yt-lockup-metadata-view-model  />
+			[114] (526,951)<div  />
+				[115] (526,940)<h3  />
+					[116] (526,940)<a aria-label='전문직 자격증 공부? 그냥 이 공식만 따라하시면 됩니다 5분 34초' class='ytLockupMetadataViewModelTitle' href='/watch?v=ekoOYGNCNUE' />
+						[117] (509,940)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>전문직 자격증 공부? 그냥 이 공식만 따라하시면 됩니다 />
+				[118] (526,972)<div  />
+					[119] (526,973)<yt-content-metadata-view-model  />
+						[120] (526,973)<div class='ytContentMetadataViewModelMetadataRow' role='group'>• />
+							[121] (455,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 6.7만회 />
+							•
+							[122] (529,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>4개월 전 />
+			[123] (627,932)<div  />
+				[124] (627,932)<button-view-model  />
+					[125] (627,932)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[126] (627,932)<yt-touch-feedback-shape  />
+							[127] (627,932)<div  />
+[128] (753,884)<div  />
+	[129] (753,852)<a class='ytLockupViewModelContentImage' href='/watch?v=4hSlyOWuCGA' />
+		[130] (753,848)<yt-thumbnail-view-model  />
+			[131] (753,848)<div  />
+				[132] (753,848)<img  />
+			[133] (753,898)<yt-thumbnail-bottom-overlay-view-model  />
+				[134] (838,898)<div  />
+					[135] (838,896)<yt-thumbnail-badge-view-model  />
+						[136] (838,896)<badge-shape  />
+							[137] (838,896)<div >35:52 />
+	[138] (753,951)<div  />
+		[139] (753,951)<yt-lockup-metadata-view-model  />
+			[140] (753,951)<div  />
+				[141] (753,940)<h3  />
+					[142] (753,940)<a aria-label='회계사, 세무사 시험 공부 이 영상으로 종결합니다. 35분' class='ytLockupMetadataViewModelTitle' href='/watch?v=4hSlyOWuCGA' />
+						[143] (735,940)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>회계사, 세무사 시험 공부 이 영상으로 종결합니다. />
+				[144] (753,972)<div  />
+					[145] (753,973)<yt-content-metadata-view-model  />
+						[146] (753,973)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[147] (683,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 5.8만회 />
+							[148] (728,973)<span >• />
+							[149] (751,973)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1년 전 />
+			[150] (854,932)<div  />
+				[151] (854,932)<button-view-model  />
+					[152] (854,932)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[153] (854,932)<yt-touch-feedback-shape  />
+							[154] (854,932)<div  />
+반복만 해서는 절대 합격할 수 없습니다
+조회수 4.8만회
+•
+3개월 전
+[155] (867,848)<ytd-button-renderer  />
+	[156] (867,848)<yt-button-shape  />
+		[157] (867,848)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[158] (867,848)<yt-touch-feedback-shape  />
+				[159] (867,848)<div  />
+
+</current_dom>

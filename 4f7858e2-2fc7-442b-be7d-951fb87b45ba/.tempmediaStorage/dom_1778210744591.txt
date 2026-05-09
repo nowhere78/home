@@ -1,0 +1,130 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+세션
+지식 자동 주입 [Raw]: 테스트_브레인_팩
+5일 전
+[0] (419,42)<tr  />
+	[1] (210,42)<a aria-label='src, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/src' title='src' />
+		[2] (210,42)<font  />
+			[3] (210,42)<font >src />
+	[4] (440,42)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[5] (440,42)<font  />
+			[6] (440,42)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[7] (419,85)<tr  />
+	[8] (233,86)<a aria-label='tempmediaStorage, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/tempmediaStorage' title='임시미디어저장소' />
+		[9] (233,86)<font  />
+			[10] (233,86)<font >임시미디어저장소 />
+	[11] (399,86)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[12] (399,86)<font  />
+			[13] (399,86)<font >초기 뇌 결속 />
+	11분 전
+[14] (419,129)<tr  />
+	[15] (221,129)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/.gitignore' title='.gitignore' />
+		[16] (221,129)<font  />
+			[17] (221,129)<font >.gitignore />
+	[18] (399,129)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[19] (399,129)<font  />
+			[20] (399,129)<font >초기 뇌 결속 />
+	11분 전
+[21] (419,172)<tr  />
+	[22] (219,172)<a aria-label='.gitkeep, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/.gitkeep' title='.gitkeep' />
+		[23] (219,172)<font  />
+			[24] (219,172)<font >.gitkeep />
+	[25] (399,172)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[26] (399,172)<font  />
+			[27] (399,172)<font >초기 뇌 결속 />
+	11분 전
+[28] (419,215)<tr  />
+	[29] (226,216)<a aria-label='README.md, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/README.md' title='README.md' />
+		[30] (226,216)<font  />
+			[31] (226,216)<font >README.md />
+	[32] (417,216)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[33] (417,216)<font  />
+			[34] (417,216)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[35] (419,259)<tr  />
+	[36] (236,259)<a aria-label='alpha_master_launcher.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/alpha_master_launcher.py' title='알파 마스터 런처.py' />
+		[37] (236,259)<font  />
+			[38] (236,259)<font >알파 마스터 런처.py />
+	[39] (450,259)<a class='Link--secondary' href='/nowhere78/apar/commit/eba2bbecdd2bc0a4d194a71d440f365c77dd3849' title='자동 동기화: 2026년 4월 30일 22시 07분 11초' />
+		[40] (450,259)<font  />
+			[41] (450,259)<font >자동 동기화: 2026년 4월 30일 22시 07분 11초 />
+	공지사항
+[42] (419,302)<tr  />
+	[43] (236,303)<a aria-label='alpha_miner_launcher.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/alpha_miner_launcher.py' title='알파 마이너 런처.py' />
+		[44] (236,303)<font  />
+			[45] (236,303)<font >알파 마이너 런처.py />
+	[46] (437,303)<a class='Link--secondary' href='/nowhere78/apar/commit/16ada91368587e43536780882016f8488294ad2d' title='자동 동기화: 업데이트 봇 및 좌뇌 엔진' />
+		[47] (437,303)<font  />
+			[48] (437,303)<font >자동 동기화: 업데이트 봇 및 좌뇌 엔진 />
+	공지사항
+[49] (419,346)<tr  />
+	[50] (225,346)<a aria-label='bot_watchdog.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/bot_watchdog.py' title='봇_감시견.py' />
+		[51] (225,346)<font  />
+			[52] (225,346)<font >봇_감시견.py />
+	[53] (417,346)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[54] (417,346)<font  />
+			[55] (417,346)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[56] (419,389)<tr  />
+	[57] (230,389)<a aria-label='catch_my_id.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/catch_my_id.py' title='catch_my_id.py' />
+		[58] (230,389)<font  />
+			[59] (230,389)<font >catch_my_id.py />
+	[60] (437,389)<a class='Link--secondary' href='/nowhere78/apar/commit/16ada91368587e43536780882016f8488294ad2d' title='자동 동기화: 업데이트 봇 및 좌뇌 엔진' />
+		[61] (437,389)<font  />
+			[62] (437,389)<font >자동 동기화: 업데이트 봇 및 좌뇌 엔진 />
+	공지사항
+[63] (419,432)<tr  />
+	[64] (228,433)<a aria-label='company_state.json, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/company_state.json' title='회사 상태.json' />
+		[65] (228,433)<font  />
+			[66] (228,433)<font >회사 상태.json />
+	[67] (399,433)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[68] (399,433)<font  />
+			[69] (399,433)<font >초기 뇌 결속 />
+	11분 전
+[70] (419,476)<tr  />
+	[71] (223,476)<a aria-label='git_sync.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/git_sync.py' title='git_sync.py' />
+		[72] (223,476)<font  />
+			[73] (223,476)<font >git_sync.py />
+	[74] (440,476)<a class='Link--secondary' href='/nowhere78/apar/commit/58972b6d09217d3d88d0a274cf054583b31c1ada' title='자동 동기화: 2026년 4월 30일 22:30:36' />
+		[75] (440,476)<font  />
+			[76] (440,476)<font >자동 동기화: 2026년 4월 30일 22:30:36 />
+	공지사항
+[77] (419,519)<tr  />
+	[78] (244,520)<a aria-label='test_telegram_send.py, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/test_telegram_send.py' title='테스트_텔레그램_전송.py' />
+		[79] (244,520)<font  />
+			[80] (244,520)<font >테스트_텔레그램_전송.py />
+	[81] (437,520)<a class='Link--secondary' href='/nowhere78/apar/commit/16ada91368587e43536780882016f8488294ad2d' title='자동 동기화: 업데이트 봇 및 좌뇌 엔진' />
+		[82] (437,520)<font  />
+			[83] (437,520)<font >자동 동기화: 업데이트 봇 및 좌뇌 엔진 />
+	공지사항
+저장소 파일 탐색
+[84] (213,585)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[85] (196,585)<span  />
+	[86] (219,585)<span  />
+		[87] (219,585)<font  />
+			[88] (219,585)<font >README />
+[89] (620,585)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[90] (641,585)<button aria-label='개요' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+?? ?뚰뙆?먯씠?꾪듃 (알파 에이전트) ?쒖뒪??
+[91] (193,666)<a aria-label='고유링크: ?? ?뚰뙆?먯씠?꾪듃 (알파 에이전트) ?쒖뒪??' class='anchor' href='#-뚰뙆먯씠꾪듃-alpha-agent-쒖뒪' id='user-content--뚰뙆먯씠꾪듃-alpha-agent-쒖뒪' />
+蹂??뚰겕?ㅽ럹?댁뒪???좏뒠釉??깆옣 ?꾨왂, ?ㅺ탳 ?뺣━ ?먮룞?? 洹몃━怨?吏�?ν삎 AI ?먯씠?꾪듃 ?댁슜???꾪븳 ?듯빀 ?섍꼍?낅땲??
+?뱚 ?꾨줈?앺듃 援ъ“
+[92] (193,806)<a aria-label='고유 링크: ?뱚 ?꾨줈?앺듃 援ъ“' class='anchor' href='#뱚-꾨줈앺듃-援ъ' id='user-content-뱚-꾨줈앺듃-援ъ' />
+/docs
+: ?꾨왂 臾 회원꽌, ?곸긽 遺꾩꽍 由ы룷??諛?吏�??踰좎씠??(브레인 팩)
+/자동화
+: ?대씪?곕뱶 鍮꾩슜 리쒖쟻??諛?AI ?먯씠?꾪듃 ?쇱씠釉뚮윭由? -
+docs/automation/jesper/
+: AWS 鍮꾩슜 ?덇컧 諛??ㅼ?以꾨쭅 ?꾨왂 媛�?대뱶
+docs/automation/carlos/
+: AI ?먯씠?꾪듃 諛?硫�???먯씠?꾪듃 ?ㅼ??ㅽ듃?덉씠???먮즺
+docs/automation/x1001000/
+: MCP(Model Context Protocol) ?쒕쾭 諛?Perplexity AI 寃�???곕룞 媛�?대뱶
+docs/automation/motanelson/
+: 遊??댁뀍釉붾윭(HTML Bot Generator) 諛??ㅽ뵾??臾맴꽌 ?먮룞???꾨왂
+
+</current_dom>

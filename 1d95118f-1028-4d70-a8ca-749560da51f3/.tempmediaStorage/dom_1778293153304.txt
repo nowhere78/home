@@ -1,0 +1,220 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (38,30)<yt-icon  />
+		[2] (38,30)<span  />
+			[3] (38,30)<div  />
+[4] (127,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (127,30)<div  />
+		[6] (127,29)<ytd-logo  />
+			[7] (127,30)<yt-icon  />
+				[8] (128,30)<span  />
+					[9] (128,30)<div  />
+KR
+[10] (440,30)<div  />
+	[11] (431,30)<form  />
+		[12] (431,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (587,30)<div  />
+		[14] (587,30)<ytd-text-input-assistant  />
+			[15] (587,30)<button class='ytdTextInputAssistantButton' />
+				[16] (587,30)<img  />
+[17] (641,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (641,30)<span  />
+		[19] (641,30)<span  />
+			[20] (641,30)<div  />
+[21] (712,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (712,30)<yt-touch-feedback-shape  />
+		[23] (712,30)<div  />
+[24] (803,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (803,30)<yt-touch-feedback-shape  />
+		[26] (803,30)<div  />
+[27] (882,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (882,29)<yt-icon-badge-shape  />
+		[29] (882,30)<div  />
+			[30] (882,30)<div  />
+				[31] (882,30)<span  />
+					[32] (882,30)<span  />
+						[33] (882,30)<div  />
+			[34] (895,23)<div >9+ />
+[35] (939,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (943,30)<yt-img-shadow  />
+		[37] (943,30)<img  />
+[38] (33,71)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[39] (88,71)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[40] (173,71)<div  />
+	[41] (173,71)<div  />
+		[42] (173,71)<div aria-label='0 분 19 초/40 분 29 초' class='ytp-time-contents' role='button' />
+			[43] (148,70)<span  />
+			[44] (169,70)<span  />
+			[45] (194,70)<span  />
+[46] (742,71)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[47] (742,71)<div  />
+		[48] (742,71)<div  />
+[49] (792,71)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[50] (792,83)<div  />
+[51] (842,71)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[52] (892,71)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[53] (943,71)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+스크립트
+[54] (944,156)<button aria-label='닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[55] (944,156)<yt-touch-feedback-shape  />
+		[56] (944,156)<div  />
+[57] (492,219)<div  />
+	[58] (492,218)<textarea aria-label='스크립트 검색' class='ytStandardsTextareaShapeTextarea' placeholder='스크립트 검색' />
+[59] (492,428)<div class='ytSectionListRendererContents' scrollable='true' />
+	23분 14초
+	라기보다는 안 주셔도 좋으니까 이제 저 살게만 해 주세요라고 기도를 했는데 그
+	23:21
+	23분 21초
+	들어주셨어요 갑자기 정말 놀라운 거는 1년 동안 고생했거든요 1년 동안 기도하고
+	23:28
+	23분 28초
+	그랬는데 전출 같습니다 누군가 나타났어요 그게 누구냐면 검찰관이라고
+	23:34
+	23분 34초
+	해서 그 선배 중에 되게 센 분이 나타났어요 부대 저한테 잘 지내냐 했는데 이런 이러한 사정이 있다
+	23:43
+	23분 43초
+	했더니 그분 이제 조사 들어갈 수 있다 나한테 얘기 잘 해달라 해봐주고
+	23:49
+	23분 49초
+	조사를 실제로 이제 고발을 했고 그 상태에서 잘 그분도 이제 막 싹싹 빌고 그래서 마무리가 된 사건이
+	[60] (487,257)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[61] (487,257)<timeline-item-view-model  />
+			[62] (487,257)<div  />
+				[63] (487,257)<transcript-segment-view-model >23분 57초 />
+					[64] (57,258)<div >23:57 />
+					23분 57초
+					[65] (313,257)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>있습니다 그때 이걸 느꼈어요 아 내가 타락했을 때 예수님이 />
+	[66] (487,301)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[67] (487,301)<timeline-item-view-model  />
+			[68] (487,301)<div  />
+				[69] (487,301)<transcript-segment-view-model >24분 4초 />
+					[70] (57,303)<div >24:04 />
+					24분 4초
+					[71] (502,301)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>시련을 한번 주시고 하나님이 실현 한번 주시고 그 다음에 거기서 저를 건져 주시는구나이 생각을 좀 했습니다 />
+	[72] (487,346)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[73] (487,346)<timeline-item-view-model  />
+			[74] (487,346)<div  />
+				[75] (487,346)<transcript-segment-view-model >24분 14초 />
+					[76] (57,347)<div >24:14 />
+					24분 14초
+					[77] (302,346)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>그리고 제가 자만했던 거가 다 부질없다는 생각을 했어요 />
+	[78] (487,390)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[79] (487,390)<timeline-item-view-model  />
+			[80] (487,390)<div  />
+				[81] (487,390)<transcript-segment-view-model >24분 20초 />
+					[82] (57,392)<div >24:20 />
+					24분 20초
+					[83] (357,390)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>마지막으로 이제 이걸 좀 들어 주신 거를 제가 완성할 수 있는 거는 이제 />
+	[84] (487,435)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[85] (487,435)<timeline-item-view-model  />
+			[86] (487,435)<div  />
+				[87] (487,435)<transcript-segment-view-model >24분 28초 />
+					[88] (57,436)<div >24:28 />
+					24분 28초
+					[89] (409,435)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>제가 지금 준비하던 시험을 마무리 잘 해서 그거를 가지고서 세상에 좋은 일을 하자는 />
+	[90] (487,479)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[91] (487,479)<timeline-item-view-model  />
+			[92] (487,479)<div  />
+				[93] (487,479)<transcript-segment-view-model >24분 35초 />
+					[94] (57,481)<div >24:35 />
+					24분 35초
+					[95] (387,479)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>거라 그게 감정평가사거든요 사실 군대에서 또 시험 준비했어요 이게 왜 이렇게 />
+	[96] (487,537)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[97] (487,537)<timeline-item-view-model  />
+			[98] (487,537)<div  />
+				[99] (487,537)<transcript-segment-view-model >24분 43초
+계속 시험을 준비했냐면 그 처음으로 돌아갔을 때 실패를 했잖아요 그때 이제 하나님 앞에서 난 공부를 해서 내 능력을 />
+					[100] (57,525)<div >24:43 />
+					24분 43초
+					계속 시험을 준비했냐면 그 처음으로 돌아갔을 때 실패를 했잖아요 그때 이제 하나님 앞에서 난 공부를 해서 내 능력을
+	24:52
+	24분 52초
+	키워서 그거를 이제 세상에 좋은 일에 쓰겠습니다라고 말을 하고 시작한 거라 끝을 보고 싶었어요
+	25:00
+	25분
+	근데 이제 이거를 준비하는데 또 한 번의 실험을 주시더라구요 너무 놀라웠던게 시험 보기 한 두 달 전에
+	25:09
+	25분 9초
+	맹장이 터지는 거예요 또 이게 이게 하나가 끝났는데 또 하나의 시련이 맹장인 거예요 맹장이 터지면
+	25:16
+	25분 16초
+	아시겠지만 터져 보셨어요 아니요 터지면 안 돼요 진짜 너무 아픈데 내가
+	25:24
+	25분 24초
+	[웃음]
+	25:29
+	25분 29초
+	진짜 이거는 세상에서 이런 고통은 전 처음 느껴봤어요 여기가 막 진짜 아프거든요
+	25:36
+	25분 36초
+	이러니까 이제 아는 동기가 없고서 이제 응급실로 갔습니다 거기서
+	25:45
+	25분 45초
+	어떤 기분이 드냐면요 제가 공부를 계속 이제 마무리를 하려고 이제이 시험까지 붙고 나가서 좋은 일에 한번 써보자 이랬는데
+	25:53
+	25분 53초
+	갑자기 드는 생각은 여기서 이제 죽으면 안 돼요 죽어도 돼 약간 막 그러다가 이거는
+[101] (492,580)<button aria-label='동영상 시간 동기화' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	동영상 시간 동기화
+	[102] (492,580)<yt-touch-feedback-shape  />
+		[103] (492,580)<div  />
+💸돈! 돈! 돈! 하며 살았던 내게 찾아온 하나님ㅣ곽상빈 변호사ㅣ새롭게하소서
+[104] (44,703)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@cbsrenew' />
+	[105] (38,701)<yt-img-shadow  />
+		[106] (38,701)<img  />
+[107] (118,694)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@cbsrenew'>새롭게하소서 />
+구독자 96.5만명
+[108] (218,703)<button aria-label='이 채널 가입' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	가입
+	[109] (218,703)<yt-touch-feedback-shape  />
+		[110] (218,703)<div  />
+[111] (287,703)<button aria-label='새롭게하소서을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[112] (287,703)<yt-touch-feedback-shape  />
+		[113] (287,703)<div  />
+[114] (513,703)<button aria-label='다른 사용자 8,634명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>8.6천 />
+	8.6천
+	[115] (513,703)<yt-touch-feedback-shape  />
+		[116] (513,703)<div  />
+[117] (587,703)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[118] (587,703)<yt-touch-feedback-shape  />
+		[119] (587,703)<div  />
+[120] (665,703)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[121] (665,703)<yt-touch-feedback-shape  />
+		[122] (665,703)<div  />
+[123] (772,703)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[124] (772,703)<yt-touch-feedback-shape  />
+		[125] (772,703)<div  />
+[126] (879,703)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[127] (879,703)<yt-touch-feedback-shape  />
+		[128] (879,703)<div  />
+조회수 360,931회
+2023. 6. 19.
+[129] (256,762)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/%EC%9E%90%EA%B2%A9%EC%A6%9D'>#자격증 />
+[130] (309,762)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/%EB%B3%80%ED%98%B8%EC%82%AC'>#변호사 />
+[131] (362,762)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/%EA%B3%BD%EC%83%81%EB%B9%88'>#곽상빈 />
+⭐'새롭게 하소서' 후원 방법⭐
+
+'새롭게 하소서'는 이 시대에  우리를 통해 역사하시는, 하나님의 살아계심을 생생하게 증거하고 있습니다. 하나님의 사랑을 전하는 '새롭게 하소서'의 걸음에 여러분의 많은 관심과 후원 부탁드립니다. 
+사랑합니다♡
+
+후원하기
+[132] (160,909)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbV9STHlpT0RKd1V4RE1TTFduNE9faWhuOVFRUXxBQ3Jtc0tuNDdaVk5NcVdmdUZxSFYxVXRDNFU2ZlRseXZLNEd4WDRZbFJsMUs0UHVqcEJDbGRiSXFoMVB0SUhTc3h4b3ZMTGxIN2Naak9XZWdKYU9VQmlud1BKU3dPWEV2QUw4RTJLQVJ4YmQtR1lfZjl4X041QQ&q=https%3A%2F%2Fbit.ly%2F36BW0h2&v=Ndtl0yefwYs'>https://bit.ly/36BW0h2 />
+쉬운후원
+[133] (157,931)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjlPZnZNVHdIREZDTnNzQ1hfaHI2amhyVWNkUXxBQ3Jtc0trTDBWeGFGOWlRZ05lRDJ4OHJ5R3pqNVE1cnNVMnVrdS1BT01Kc01FMm5zdTZZdHVqYWN1XzFFMHUxdld5Z3JJX25oTmNQZXktMUNHSllGdUlXMGRiUllBUWZEQnB2TXNES0hlZnZPU1pUMHN0cXNzaw&q=https%3A%2F%2Fbit.ly%2F3epaLqb&v=Ndtl0yefwYs'>https://bit.ly/3epaLqb />
+후원문의 02-2650-7004
+
+※출연자 후원은 댓글로 문의 부탁드립니다.
+
+★Youtube 업로드
+매주 월요일, 수요일, 금요일 오전 8시★
+
+</current_dom>

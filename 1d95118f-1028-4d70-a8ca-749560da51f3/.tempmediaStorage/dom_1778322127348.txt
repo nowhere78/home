@@ -1,0 +1,580 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (72,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics' />
+	[3] (72,34)<span >anthropics />
+[4] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics/skills' />
+	[5] (111,34)<span >skills />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (100,80)<span >(
+226
+) />
+		[26] (100,80)<span >226 />
+		(
+		226
+		)
+[27] (160,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulls' />
+	[28] (125,80)<span  />
+	[29] (155,80)<span >Pull requests />
+	[30] (189,80)<span >(
+592
+) />
+		[31] (189,80)<span >592 />
+		(
+		592
+		)
+[32] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/agents?author=nowhere78' />
+	[33] (215,80)<span  />
+	[34] (235,80)<span >Agents />
+[35] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/discussions' />
+	[36] (263,80)<span  />
+	[37] (290,80)<span >Discussions />
+[38] (340,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/actions' />
+	[39] (326,80)<span  />
+	[40] (346,80)<span >Actions />
+[41] (410,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/security' />
+	[42] (375,80)<span  />
+	[43] (416,80)<span >Security and quality />
+[44] (481,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulse' />
+	[45] (466,80)<span  />
+	[46] (487,80)<span >Insights />
+[47] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[48] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[49] (65,190)<span  />
+		[50] (58,190)<span  />
+			[51] (58,190)<div  />
+				[52] (19,190)<div  />
+				[53] (35,190)<div  />
+					[54] (35,190)<span >main />
+[55] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/anthropics/skills/new/main/skills' />
+[56] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[57] (83,233)<span  />
+	[58] (17,233)<span  />
+	[59] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[60] (148,233)<span  />
+		[61] (148,233)<kbd  />
+			[62] (148,233)<span >t />
+				t
+				[63] (148,233)<span >T />
+[64] (79,675)<div  />
+	[65] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude-plugin-item' role='treeitem' />
+		[66] (79,279)<div  />
+			[67] (13,279)<div  />
+			[68] (84,279)<div  />
+				[69] (25,279)<div  />
+					[70] (25,279)<div  />
+				[71] (90,279)<span  />
+					[72] (56,279)<span >.claude-plugin />
+	[73] (79,603)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills-item' role='treeitem' />
+		[74] (79,314)<div  />
+			[75] (13,314)<div  />
+			[76] (84,314)<div  />
+				[77] (25,313)<div  />
+					[78] (25,313)<div  />
+				[79] (90,314)<span  />
+					[80] (41,314)<span >skills />
+		[81] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/algorithmic-art-item' role='treeitem' />
+			[82] (79,348)<div  />
+				[83] (10,348)<div  />
+					[84] (10,348)<div  />
+						[85] (10,348)<div  />
+				[86] (17,348)<div  />
+				[87] (86,348)<div  />
+					[88] (29,347)<div  />
+						[89] (29,347)<div  />
+					[90] (92,348)<span  />
+						[91] (61,348)<span >algorithmic-art />
+		[92] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/brand-guidelines-item' role='treeitem' />
+			[93] (79,382)<div  />
+				[94] (10,382)<div  />
+					[95] (10,382)<div  />
+						[96] (10,382)<div  />
+				[97] (17,382)<div  />
+				[98] (86,382)<div  />
+					[99] (29,382)<div  />
+						[100] (29,382)<div  />
+					[101] (92,382)<span  />
+						[102] (65,382)<span >brand-guidelines />
+		[103] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/canvas-design-item' role='treeitem' />
+			[104] (79,416)<div  />
+				[105] (10,416)<div  />
+					[106] (10,416)<div  />
+						[107] (10,416)<div  />
+				[108] (17,416)<div  />
+				[109] (86,416)<div  />
+					[110] (29,416)<div  />
+						[111] (29,416)<div  />
+					[112] (92,416)<span  />
+						[113] (60,416)<span >canvas-design />
+		[114] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api-item' role='treeitem' />
+			[115] (79,450)<div  />
+				[116] (10,450)<div  />
+					[117] (10,450)<div  />
+						[118] (10,450)<div  />
+				[119] (17,450)<div  />
+				[120] (86,450)<div  />
+					[121] (29,450)<div  />
+						[122] (29,450)<div  />
+					[123] (92,450)<span  />
+						[124] (54,450)<span >claude-api />
+		[125] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/doc-coauthoring-item' role='treeitem' />
+			[126] (79,484)<div  />
+				[127] (10,484)<div  />
+					[128] (10,484)<div  />
+						[129] (10,484)<div  />
+				[130] (17,484)<div  />
+				[131] (86,484)<div  />
+					[132] (29,484)<div  />
+						[133] (29,484)<div  />
+					[134] (92,484)<span  />
+						[135] (64,484)<span >doc-coauthoring />
+		[136] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/docx-item' role='treeitem' />
+			[137] (79,518)<div  />
+				[138] (10,518)<div  />
+					[139] (10,518)<div  />
+						[140] (10,518)<div  />
+				[141] (17,518)<div  />
+				[142] (86,518)<div  />
+					[143] (29,518)<div  />
+						[144] (29,518)<div  />
+					[145] (92,518)<span  />
+						[146] (45,518)<span >docx />
+		[147] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/frontend-design-item' role='treeitem' />
+			[148] (79,552)<div  />
+				[149] (10,552)<div  />
+					[150] (10,552)<div  />
+						[151] (10,552)<div  />
+				[152] (17,552)<div  />
+				[153] (86,552)<div  />
+					[154] (29,552)<div  />
+						[155] (29,552)<div  />
+					[156] (92,552)<span  />
+						[157] (64,552)<span >frontend-design />
+		[158] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/internal-comms-item' role='treeitem' />
+			[159] (79,586)<div  />
+				[160] (10,586)<div  />
+					[161] (10,586)<div  />
+						[162] (10,586)<div  />
+				[163] (17,586)<div  />
+				[164] (86,586)<div  />
+					[165] (29,586)<div  />
+						[166] (29,586)<div  />
+					[167] (92,586)<span  />
+						[168] (63,586)<span >internal-comms />
+		[169] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder-item' role='treeitem' />
+			[170] (79,620)<div  />
+				[171] (10,620)<div  />
+					[172] (10,620)<div  />
+						[173] (10,620)<div  />
+				[174] (17,620)<div  />
+				[175] (86,620)<div  />
+					[176] (29,620)<div  />
+						[177] (29,620)<div  />
+					[178] (92,620)<span  />
+						[179] (57,620)<span >mcp-builder />
+		[180] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/pdf-item' role='treeitem' />
+			[181] (79,654)<div  />
+				[182] (10,654)<div  />
+					[183] (10,654)<div  />
+						[184] (10,654)<div  />
+				[185] (17,654)<div  />
+				[186] (86,654)<div  />
+					[187] (29,654)<div  />
+						[188] (29,654)<div  />
+					[189] (92,654)<span  />
+						[190] (43,654)<span >pdf />
+		[191] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/pptx-item' role='treeitem' />
+			[192] (79,688)<div  />
+				[193] (10,688)<div  />
+					[194] (10,688)<div  />
+						[195] (10,688)<div  />
+				[196] (17,688)<div  />
+				[197] (86,688)<div  />
+					[198] (29,688)<div  />
+						[199] (29,688)<div  />
+					[200] (92,688)<span  />
+						[201] (45,688)<span >pptx />
+		[202] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/skill-creator-item' role='treeitem' />
+			[203] (79,722)<div  />
+				[204] (10,722)<div  />
+					[205] (10,722)<div  />
+						[206] (10,722)<div  />
+				[207] (17,722)<div  />
+				[208] (86,722)<div  />
+					[209] (29,722)<div  />
+						[210] (29,722)<div  />
+					[211] (92,722)<span  />
+						[212] (56,722)<span >skill-creator />
+		[213] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/slack-gif-creator-item' role='treeitem' />
+			[214] (79,756)<div  />
+				[215] (10,756)<div  />
+					[216] (10,756)<div  />
+						[217] (10,756)<div  />
+				[218] (17,756)<div  />
+				[219] (86,756)<div  />
+					[220] (29,756)<div  />
+						[221] (29,756)<div  />
+					[222] (92,756)<span  />
+						[223] (64,756)<span >slack-gif-creator />
+		[224] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/theme-factory-item' role='treeitem' />
+			[225] (79,790)<div  />
+				[226] (10,790)<div  />
+					[227] (10,790)<div  />
+						[228] (10,790)<div  />
+				[229] (17,790)<div  />
+				[230] (86,790)<div  />
+					[231] (29,790)<div  />
+						[232] (29,790)<div  />
+					[233] (92,790)<span  />
+						[234] (60,790)<span >theme-factory />
+		[235] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/web-artifacts-builder-item' role='treeitem' />
+			[236] (79,824)<div  />
+				[237] (10,824)<div  />
+					[238] (10,824)<div  />
+						[239] (10,824)<div  />
+				[240] (17,824)<div  />
+				[241] (86,824)<div  />
+					[242] (29,824)<div  />
+						[243] (29,824)<div  />
+					[244] (92,824)<span  />
+						[245] (71,824)<span >web-artifacts-builder />
+		[246] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/webapp-testing-item' role='treeitem' />
+			[247] (79,858)<div  />
+				[248] (10,858)<div  />
+					[249] (10,858)<div  />
+						[250] (10,858)<div  />
+				[251] (17,858)<div  />
+				[252] (86,858)<div  />
+					[253] (29,858)<div  />
+						[254] (29,858)<div  />
+					[255] (92,858)<span  />
+						[256] (63,858)<span >webapp-testing />
+		[257] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/xlsx-item' role='treeitem' />
+			[258] (79,893)<div  />
+				[259] (10,893)<div  />
+					[260] (10,893)<div  />
+						[261] (10,893)<div  />
+				[262] (17,893)<div  />
+				[263] (86,893)<div  />
+					[264] (29,892)<div  />
+						[265] (29,892)<div  />
+					[266] (92,893)<span  />
+						[267] (43,893)<span >xlsx />
+	[268] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='spec-item' role='treeitem' />
+		[269] (79,927)<div  />
+			[270] (13,927)<div  />
+			[271] (84,927)<div  />
+				[272] (25,927)<div  />
+					[273] (25,927)<div  />
+				[274] (90,927)<span  />
+					[275] (41,927)<span >spec />
+	[276] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='template-item' role='treeitem' />
+		[277] (79,961)<div  />
+			[278] (13,961)<div  />
+			[279] (84,961)<div  />
+				[280] (25,961)<div  />
+					[281] (25,961)<div  />
+				[282] (90,961)<span  />
+					[283] (48,961)<span >template />
+	[284] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[285] (79,995)<div  />
+			[286] (84,995)<div  />
+				[287] (25,995)<div  />
+				[288] (90,995)<span  />
+					[289] (49,995)<span >.gitignore />
+[290] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[291] (185,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main'>skills />
+/
+skills
+/
+[292] (246,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[293] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_2g_' />
+	[294] (947,140)<span  />
+		[295] (947,140)<span  />
+			[296] (947,140)<span >Add file />
+More options
+[297] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_2l_' title='More options' />
+Latest commit
+[298] (190,198)<a class='prc-Link-Link-9ZwDx' href='/rlancemartin' />
+	[299] (188,199)<img  />
+[300] (218,198)<a aria-label='commits by rlancemartin' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/anthropics/skills/commits?author=rlancemartin'>rlancemartin />
+[301] (367,198)<a class='Link--secondary' href='/anthropics/skills/commit/d211d437443a7b2496a3dad9575e7dddd724c585'>Add Managed Agents outcomes, multiagent, and webhooks to claude-api s… />
+[302] (503,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[303] (896,198)<a aria-label='Commit d211d43' class='Link--secondary prc-Link-Link-9ZwDx' href='/anthropics/skills/commit/d211d437443a7b2496a3dad9575e7dddd724c585'>d211d43 />
+·
+History
+[304] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/anthropics/skills/commits/main/skills' />
+	[305] (967,198)<span  />
+		[306] (972,198)<span  />
+			[307] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[308] (584,304)<tr  />
+	parent directory
+	[309] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main' />
+		[310] (584,304)<div >.. />
+[311] (584,347)<tr  />
+	[312] (222,347)<a aria-label='algorithmic-art, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/algorithmic-art' title='algorithmic-art'>algorithmic-art />
+	[313] (608,347)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[314] (713,347)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[315] (723,347)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[316] (584,390)<tr  />
+	[317] (225,390)<a aria-label='brand-guidelines, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/brand-guidelines' title='brand-guidelines'>brand-guidelines />
+	[318] (608,390)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[319] (713,390)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[320] (723,390)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[321] (584,433)<tr  />
+	[322] (221,434)<a aria-label='canvas-design, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/canvas-design' title='canvas-design'>canvas-design />
+	[323] (608,434)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[324] (713,434)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[325] (723,434)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[326] (584,477)<tr  />
+	[327] (215,477)<a aria-label='claude-api, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/claude-api' title='claude-api'>claude-api />
+	[328] (634,477)<a class='Link--secondary' href='/anthropics/skills/commit/d211d437443a7b2496a3dad9575e7dddd724c585' title='Add Managed Agents outcomes, multiagent, and webhooks to claude-api skill (#1096)'>Add Managed Agents outcomes, multiagent, and webhooks to claude-api s… />
+[329] (584,520)<tr  />
+	[330] (225,521)<a aria-label='doc-coauthoring, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/doc-coauthoring' title='doc-coauthoring'>doc-coauthoring />
+	[331] (597,521)<a class='Link--secondary' href='/anthropics/skills/commit/00756142ab04c82a447693cf373c4e0c554d1005' title='Add doc-coauthoring skill and update example skills (#134)
+
+* export/update example skills
+
+* Add 'doc-coauthoring' to example-skills plugin
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+---------
+
+Co-authored-by: Claude <noreply@anthropic.com>'>Add doc-coauthoring skill and update example skills ( />
+	[332] (691,521)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/134'>#134 />
+	[333] (700,521)<a class='Link--secondary' href='/anthropics/skills/commit/00756142ab04c82a447693cf373c4e0c554d1005' title='Add doc-coauthoring skill and update example skills (#134)
+
+* export/update example skills
+
+* Add 'doc-coauthoring' to example-skills plugin
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+---------
+
+Co-authored-by: Claude <noreply@anthropic.com>'>) />
+[334] (584,563)<tr  />
+	[335] (206,564)<a aria-label='docx, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/docx' title='docx'>docx />
+	[336] (552,564)<a class='Link--secondary' href='/anthropics/skills/commit/3d59511518591fa82e6cfcf0438d68dd5dad3e76' title='chore: export latest skills (#465)'>chore: export latest skills ( />
+	[337] (602,564)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/465'>#465 />
+	[338] (611,564)<a class='Link--secondary' href='/anthropics/skills/commit/3d59511518591fa82e6cfcf0438d68dd5dad3e76' title='chore: export latest skills (#465)'>) />
+[339] (584,607)<tr  />
+	[340] (224,607)<a aria-label='frontend-design, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/frontend-design' title='frontend-design'>frontend-design />
+	[341] (597,607)<a class='Link--secondary' href='/anthropics/skills/commit/00756142ab04c82a447693cf373c4e0c554d1005' title='Add doc-coauthoring skill and update example skills (#134)
+
+* export/update example skills
+
+* Add 'doc-coauthoring' to example-skills plugin
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+---------
+
+Co-authored-by: Claude <noreply@anthropic.com>'>Add doc-coauthoring skill and update example skills ( />
+	[342] (691,607)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/134'>#134 />
+	[343] (700,607)<a class='Link--secondary' href='/anthropics/skills/commit/00756142ab04c82a447693cf373c4e0c554d1005' title='Add doc-coauthoring skill and update example skills (#134)
+
+* export/update example skills
+
+* Add 'doc-coauthoring' to example-skills plugin
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+
+---------
+
+Co-authored-by: Claude <noreply@anthropic.com>'>) />
+[344] (584,650)<tr  />
+	[345] (223,651)<a aria-label='internal-comms, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/internal-comms' title='internal-comms'>internal-comms />
+	[346] (608,651)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[347] (713,651)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[348] (723,651)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[349] (584,694)<tr  />
+	[350] (218,694)<a aria-label='mcp-builder, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/mcp-builder' title='mcp-builder'>mcp-builder />
+	[351] (608,694)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[352] (713,694)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[353] (723,694)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[354] (584,737)<tr  />
+	[355] (203,738)<a aria-label='pdf, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/pdf' title='pdf'>pdf />
+	[356] (590,738)<a class='Link--secondary' href='/anthropics/skills/commit/1ed29a03dc852d30fa6ef2ca53a67dc2c2c2c563' title='Update skill-creator and make scripts executable (#350)
+
+- Add `compatibility` optional field to SKILL.md frontmatter spec
+- Add validation for `compatibility` field in quick_validate.py
+- Rename "hyphen-case" to "kebab-case" terminology in init_skill.py
+  and quick_validate.py
+- Update max skill name length from 40 to 64 characters
+- Make scripts executable (chmod +x) for accept_changes.py,
+  comment.py, extract_form_structure.py, add_slide.py, thumbnail.py,
+  and recalc.py
+
+Co-authored-by: Claude Opus 4.6 <noreply@anthropic.com>'>Update skill-creator and make scripts executable ( />
+	[357] (679,738)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/350'>#350 />
+	[358] (688,738)<a class='Link--secondary' href='/anthropics/skills/commit/1ed29a03dc852d30fa6ef2ca53a67dc2c2c2c563' title='Update skill-creator and make scripts executable (#350)
+
+- Add `compatibility` optional field to SKILL.md frontmatter spec
+- Add validation for `compatibility` field in quick_validate.py
+- Rename "hyphen-case" to "kebab-case" terminology in init_skill.py
+  and quick_validate.py
+- Update max skill name length from 40 to 64 characters
+- Make scripts executable (chmod +x) for accept_changes.py,
+  comment.py, extract_form_structure.py, add_slide.py, thumbnail.py,
+  and recalc.py
+
+Co-authored-by: Claude Opus 4.6 <noreply@anthropic.com>'>) />
+[359] (584,780)<tr  />
+	[360] (205,781)<a aria-label='pptx, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/pptx' title='pptx'>pptx />
+	[361] (590,781)<a class='Link--secondary' href='/anthropics/skills/commit/1ed29a03dc852d30fa6ef2ca53a67dc2c2c2c563' title='Update skill-creator and make scripts executable (#350)
+
+- Add `compatibility` optional field to SKILL.md frontmatter spec
+- Add validation for `compatibility` field in quick_validate.py
+- Rename "hyphen-case" to "kebab-case" terminology in init_skill.py
+  and quick_validate.py
+- Update max skill name length from 40 to 64 characters
+- Make scripts executable (chmod +x) for accept_changes.py,
+  comment.py, extract_form_structure.py, add_slide.py, thumbnail.py,
+  and recalc.py
+
+Co-authored-by: Claude Opus 4.6 <noreply@anthropic.com>'>Update skill-creator and make scripts executable ( />
+	[362] (679,781)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/350'>#350 />
+	[363] (688,781)<a class='Link--secondary' href='/anthropics/skills/commit/1ed29a03dc852d30fa6ef2ca53a67dc2c2c2c563' title='Update skill-creator and make scripts executable (#350)
+
+- Add `compatibility` optional field to SKILL.md frontmatter spec
+- Add validation for `compatibility` field in quick_validate.py
+- Rename "hyphen-case" to "kebab-case" terminology in init_skill.py
+  and quick_validate.py
+- Update max skill name length from 40 to 64 characters
+- Make scripts executable (chmod +x) for accept_changes.py,
+  comment.py, extract_form_structure.py, add_slide.py, thumbnail.py,
+  and recalc.py
+
+Co-authored-by: Claude Opus 4.6 <noreply@anthropic.com>'>) />
+[364] (584,824)<tr  />
+	[365] (217,824)<a aria-label='skill-creator, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/skill-creator' title='skill-creator'>skill-creator />
+	[366] (608,824)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[367] (713,824)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[368] (723,824)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[369] (584,867)<tr  />
+	[370] (224,868)<a aria-label='slack-gif-creator, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/slack-gif-creator' title='slack-gif-creator'>slack-gif-creator />
+	[371] (608,868)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[372] (713,868)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[373] (723,868)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[374] (584,911)<tr  />
+	[375] (221,911)<a aria-label='theme-factory, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/theme-factory' title='theme-factory'>theme-factory />
+	[376] (608,911)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[377] (713,911)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[378] (723,911)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[379] (584,954)<tr  />
+	[380] (232,954)<a aria-label='web-artifacts-builder, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/web-artifacts-builder' title='web-artifacts-builder'>web-artifacts-builder />
+	[381] (608,954)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[382] (713,954)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[383] (723,954)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[384] (584,997)<tr  />
+	[385] (223,998)<a aria-label='webapp-testing, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/webapp-testing' title='webapp-testing'>webapp-testing />
+	[386] (608,998)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[387] (713,998)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[388] (723,998)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+
+</current_dom>

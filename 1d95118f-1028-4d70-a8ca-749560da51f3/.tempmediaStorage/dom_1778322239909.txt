@@ -1,0 +1,406 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (72,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics' />
+	[3] (72,34)<span >anthropics />
+[4] (111,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/anthropics/skills' />
+	[5] (111,34)<span >skills />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (82,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (100,80)<span >(
+226
+) />
+		[26] (100,80)<span >226 />
+		(
+		226
+		)
+[27] (160,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulls' />
+	[28] (125,80)<span  />
+	[29] (155,80)<span >Pull requests />
+	[30] (189,80)<span >(
+592
+) />
+		[31] (189,80)<span >592 />
+		(
+		592
+		)
+[32] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/agents?author=nowhere78' />
+	[33] (215,80)<span  />
+	[34] (235,80)<span >Agents />
+[35] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/discussions' />
+	[36] (263,80)<span  />
+	[37] (290,80)<span >Discussions />
+[38] (340,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/actions' />
+	[39] (326,80)<span  />
+	[40] (346,80)<span >Actions />
+[41] (410,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/security' />
+	[42] (375,80)<span  />
+	[43] (416,80)<span >Security and quality />
+[44] (481,80)<a class='prc-components-UnderlineItem-7fP-n' href='/anthropics/skills/pulse' />
+	[45] (466,80)<span  />
+	[46] (487,80)<span >Insights />
+[47] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[48] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[49] (65,190)<span  />
+		[50] (58,190)<span  />
+			[51] (58,190)<div  />
+				[52] (19,190)<div  />
+				[53] (35,190)<div  />
+					[54] (35,190)<span >main />
+[55] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/anthropics/skills/new/main/skills/mcp-builder' />
+[56] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[57] (83,233)<span  />
+	[58] (17,233)<span  />
+	[59] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[60] (148,233)<span  />
+		[61] (148,233)<kbd  />
+			[62] (148,233)<span >t />
+				t
+				[63] (148,233)<span >T />
+[64] (83,685)<div class='ReposFileTreePane-module__Box_5__Zy_o6' scrollable='true' />
+	[65] (79,491)<div  />
+		[66] (79,419)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills-item' role='treeitem' />
+			go
+			java
+			php
+			python
+			claude-api
+			README.md
+			batches.md
+			files-api.md
+			[67] (79,266)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/streaming.md-item' role='treeitem' />
+				[68] (79,266)<div  />
+					[69] (17,266)<div  />
+						[70] (17,266)<div  />
+							[71] (10,266)<div  />
+							[72] (15,266)<div  />
+							[73] (19,266)<div  />
+							[74] (23,266)<div  />
+					[75] (92,266)<div  />
+						[76] (42,266)<div  />
+						[77] (98,266)<span  />
+							[78] (72,266)<span >streaming.md />
+			[79] (79,300)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/claude-api/tool-use.md-item' role='treeitem' />
+				[80] (79,300)<div  />
+					[81] (17,300)<div  />
+						[82] (17,300)<div  />
+							[83] (10,300)<div  />
+							[84] (15,300)<div  />
+							[85] (19,300)<div  />
+							[86] (23,300)<div  />
+					[87] (92,300)<div  />
+						[88] (42,300)<div  />
+						[89] (98,300)<span  />
+							[90] (69,300)<span >tool-use.md />
+			[91] (79,334)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/python/managed-agents-item' role='treeitem' />
+				[92] (79,334)<div  />
+					[93] (15,334)<div  />
+						[94] (15,334)<div  />
+							[95] (10,334)<div  />
+							[96] (15,334)<div  />
+							[97] (19,334)<div  />
+					[98] (25,334)<div  />
+					[99] (90,334)<div  />
+						[100] (38,334)<div  />
+							[101] (38,334)<div  />
+						[102] (96,334)<span  />
+							[103] (73,334)<span >managed-agents />
+			[104] (79,368)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/ruby-item' role='treeitem' />
+				[105] (79,368)<div  />
+					[106] (13,368)<div  />
+						[107] (13,368)<div  />
+							[108] (10,368)<div  />
+							[109] (15,368)<div  />
+					[110] (21,368)<div  />
+					[111] (88,368)<div  />
+						[112] (33,368)<div  />
+							[113] (33,368)<div  />
+						[114] (94,368)<span  />
+							[115] (49,368)<span >ruby />
+			[116] (79,402)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/shared-item' role='treeitem' />
+				[117] (79,402)<div  />
+					[118] (13,402)<div  />
+						[119] (13,402)<div  />
+							[120] (10,402)<div  />
+							[121] (15,402)<div  />
+					[122] (21,402)<div  />
+					[123] (88,402)<div  />
+						[124] (33,402)<div  />
+							[125] (33,402)<div  />
+						[126] (94,402)<span  />
+							[127] (52,402)<span >shared />
+			[128] (79,436)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/typescript-item' role='treeitem' />
+				[129] (79,436)<div  />
+					[130] (13,436)<div  />
+						[131] (13,436)<div  />
+							[132] (10,436)<div  />
+							[133] (15,436)<div  />
+					[134] (21,436)<div  />
+					[135] (88,436)<div  />
+						[136] (33,436)<div  />
+							[137] (33,436)<div  />
+						[138] (94,436)<span  />
+							[139] (57,436)<span >typescript />
+			[140] (79,470)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/LICENSE.txt-item' role='treeitem' />
+				[141] (79,470)<div  />
+					[142] (13,470)<div  />
+						[143] (13,470)<div  />
+							[144] (10,470)<div  />
+							[145] (15,470)<div  />
+					[146] (88,470)<div  />
+						[147] (33,470)<div  />
+						[148] (94,470)<span  />
+							[149] (60,470)<span >LICENSE.txt />
+			[150] (79,504)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/claude-api/SKILL.md-item' role='treeitem' />
+				[151] (79,504)<div  />
+					[152] (13,504)<div  />
+						[153] (13,504)<div  />
+							[154] (10,504)<div  />
+							[155] (15,504)<div  />
+					[156] (88,504)<div  />
+						[157] (33,504)<div  />
+						[158] (94,504)<span  />
+							[159] (56,504)<span >SKILL.md />
+			[160] (79,538)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/doc-coauthoring-item' role='treeitem' />
+				[161] (79,538)<div  />
+					[162] (10,538)<div  />
+						[163] (10,538)<div  />
+							[164] (10,538)<div  />
+					[165] (17,538)<div  />
+					[166] (86,538)<div  />
+						[167] (29,538)<div  />
+							[168] (29,538)<div  />
+						[169] (92,538)<span  />
+							[170] (64,538)<span >doc-coauthoring />
+			[171] (79,572)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/docx-item' role='treeitem' />
+				[172] (79,572)<div  />
+					[173] (10,572)<div  />
+						[174] (10,572)<div  />
+							[175] (10,572)<div  />
+					[176] (17,572)<div  />
+					[177] (86,572)<div  />
+						[178] (29,572)<div  />
+							[179] (29,572)<div  />
+						[180] (92,572)<span  />
+							[181] (45,572)<span >docx />
+			[182] (79,606)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/frontend-design-item' role='treeitem' />
+				[183] (79,606)<div  />
+					[184] (10,606)<div  />
+						[185] (10,606)<div  />
+							[186] (10,606)<div  />
+					[187] (17,606)<div  />
+					[188] (86,606)<div  />
+						[189] (29,606)<div  />
+							[190] (29,606)<div  />
+						[191] (92,606)<span  />
+							[192] (64,606)<span >frontend-design />
+			[193] (79,640)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/internal-comms-item' role='treeitem' />
+				[194] (79,640)<div  />
+					[195] (10,640)<div  />
+						[196] (10,640)<div  />
+							[197] (10,640)<div  />
+					[198] (17,640)<div  />
+					[199] (86,640)<div  />
+						[200] (29,640)<div  />
+							[201] (29,640)<div  />
+						[202] (92,640)<span  />
+							[203] (63,640)<span >internal-comms />
+			[204] (79,743)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder-item' role='treeitem' />
+				[205] (79,674)<div  />
+					[206] (10,674)<div  />
+						[207] (10,674)<div  />
+							[208] (10,674)<div  />
+					[209] (17,674)<div  />
+					[210] (86,674)<div  />
+						[211] (29,674)<div  />
+							[212] (29,674)<div  />
+						[213] (92,674)<span  />
+							[214] (57,674)<span >mcp-builder />
+				[215] (79,708)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder/reference-item' role='treeitem' />
+					[216] (79,708)<div  />
+						[217] (13,708)<div  />
+							[218] (13,708)<div  />
+								[219] (10,708)<div  />
+								[220] (15,708)<div  />
+						[221] (21,708)<div  />
+						[222] (88,708)<div  />
+							[223] (33,708)<div  />
+								[224] (33,708)<div  />
+							[225] (94,708)<span  />
+								[226] (57,708)<span >reference />
+				[227] (79,743)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder/scripts-item' role='treeitem' />
+					[228] (79,743)<div  />
+						[229] (13,743)<div  />
+							[230] (13,743)<div  />
+								[231] (10,743)<div  />
+								[232] (15,743)<div  />
+						[233] (21,743)<div  />
+						[234] (88,743)<div  />
+							[235] (33,742)<div  />
+								[236] (33,742)<div  />
+							[237] (94,743)<span  />
+								[238] (52,743)<span >scripts />
+				[239] (79,777)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder/LICENSE.txt-item' role='treeitem' />
+					[240] (79,777)<div  />
+						[241] (13,777)<div  />
+							[242] (13,777)<div  />
+								[243] (10,777)<div  />
+								[244] (15,777)<div  />
+						[245] (88,777)<div  />
+							[246] (33,777)<div  />
+							[247] (94,777)<span  />
+								[248] (60,777)<span >LICENSE.txt />
+				[249] (79,811)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/mcp-builder/SKILL.md-item' role='treeitem' />
+					[250] (79,811)<div  />
+						[251] (13,811)<div  />
+							[252] (13,811)<div  />
+								[253] (10,811)<div  />
+								[254] (15,811)<div  />
+						[255] (88,811)<div  />
+							[256] (33,811)<div  />
+							[257] (94,811)<span  />
+								[258] (56,811)<span >SKILL.md />
+			[259] (79,845)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/pdf-item' role='treeitem' />
+				[260] (79,845)<div  />
+					[261] (10,845)<div  />
+						[262] (10,845)<div  />
+							[263] (10,845)<div  />
+					[264] (17,845)<div  />
+					[265] (86,845)<div  />
+						[266] (29,845)<div  />
+							[267] (29,845)<div  />
+						[268] (92,845)<span  />
+							[269] (43,845)<span >pdf />
+			[270] (79,879)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/pptx-item' role='treeitem' />
+				[271] (79,879)<div  />
+					[272] (10,879)<div  />
+						[273] (10,879)<div  />
+							[274] (10,879)<div  />
+					[275] (17,879)<div  />
+					[276] (86,879)<div  />
+						[277] (29,879)<div  />
+							[278] (29,879)<div  />
+						[279] (92,879)<span  />
+							[280] (45,879)<span >pptx />
+			[281] (79,913)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/skill-creator-item' role='treeitem' />
+				[282] (79,913)<div  />
+					[283] (10,913)<div  />
+						[284] (10,913)<div  />
+							[285] (10,913)<div  />
+					[286] (17,913)<div  />
+					[287] (86,913)<div  />
+						[288] (29,913)<div  />
+							[289] (29,913)<div  />
+						[290] (92,913)<span  />
+							[291] (56,913)<span >skill-creator />
+			[292] (79,947)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/slack-gif-creator-item' role='treeitem' />
+				[293] (79,947)<div  />
+					[294] (10,947)<div  />
+						[295] (10,947)<div  />
+							[296] (10,947)<div  />
+					[297] (17,947)<div  />
+					[298] (86,947)<div  />
+						[299] (29,947)<div  />
+							[300] (29,947)<div  />
+						[301] (92,947)<span  />
+							[302] (64,947)<span >slack-gif-creator />
+			[303] (79,981)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='skills/theme-factory-item' role='treeitem' />
+				[304] (79,981)<div  />
+					[305] (10,981)<div  />
+						[306] (10,981)<div  />
+							[307] (10,981)<div  />
+					[308] (17,981)<div  />
+					[309] (86,981)<div  />
+						[310] (29,981)<div  />
+							[311] (29,981)<div  />
+						[312] (92,981)<span  />
+							[313] (60,981)<span >theme-factory />
+[314] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[315] (185,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main'>skills />
+/
+[316] (214,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills'>skills />
+/
+mcp-builder
+/
+[317] (304,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[318] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_cg_' />
+	[319] (947,140)<span  />
+		[320] (947,140)<span  />
+			[321] (947,140)<span >Add file />
+More options
+[322] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_cl_' title='More options' />
+Latest commit
+[323] (190,198)<a class='prc-Link-Link-9ZwDx' href='/rlancemartin' />
+	[324] (188,199)<img  />
+[325] (218,198)<a aria-label='commits by rlancemartin' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/anthropics/skills/commits?author=rlancemartin'>rlancemartin />
+[326] (341,198)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+[327] (447,198)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+[328] (456,198)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1'>) />
+[329] (468,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[330] (892,198)<a aria-label='Commit b9e19e6' class='Link--secondary prc-Link-Link-9ZwDx' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1'>b9e19e6 />
+·
+History
+[331] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/anthropics/skills/commits/main/skills/mcp-builder' />
+	[332] (967,198)<span  />
+		[333] (972,198)<span  />
+			[334] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[335] (584,304)<tr  />
+	parent directory
+	[336] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/anthropics/skills/tree/main/skills' />
+		[337] (584,304)<div >.. />
+[338] (584,347)<tr  />
+	[339] (213,347)<a aria-label='reference, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/mcp-builder/reference' title='reference'>reference />
+	[340] (626,347)<a class='Link--secondary' href='/anthropics/skills/commit/ef740771ac901e03fbca3ce4e1c453a96010f30a' title='Move example skills into dedicated folder and create minimal top-level folder structure (#129)'>Move example skills into dedicated folder and create minimal top-leve… />
+[341] (584,390)<tr  />
+	[342] (208,390)<a aria-label='scripts, (Directory)' class='Link--primary' href='/anthropics/skills/tree/main/skills/mcp-builder/scripts' title='scripts'>scripts />
+	[343] (626,390)<a class='Link--secondary' href='/anthropics/skills/commit/ef740771ac901e03fbca3ce4e1c453a96010f30a' title='Move example skills into dedicated folder and create minimal top-level folder structure (#129)'>Move example skills into dedicated folder and create minimal top-leve… />
+[344] (584,433)<tr  />
+	[345] (216,434)<a aria-label='LICENSE.txt, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/mcp-builder/LICENSE.txt' title='LICENSE.txt'>LICENSE.txt />
+	[346] (608,434)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt ( />
+	[347] (713,434)<a class='issue-link js-issue-link' href='https://github.com/anthropics/skills/pull/990'>#990 />
+	[348] (723,434)<a class='Link--secondary' href='/anthropics/skills/commit/b9e19e6f44773509fbdd7001d77ff41a49a486c1' title='Fill in Apache 2.0 copyright notice in claude-api LICENSE.txt (#990)
+
+Replace the [yyyy] [name of copyright owner] placeholder with the
+actual copyright holder so the license attribution is explicit.'>) />
+[349] (584,477)<tr  />
+	[350] (212,477)<a aria-label='SKILL.md, (File)' class='Link--primary' href='/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md' title='SKILL.md'>SKILL.md />
+	[351] (626,477)<a class='Link--secondary' href='/anthropics/skills/commit/ef740771ac901e03fbca3ce4e1c453a96010f30a' title='Move example skills into dedicated folder and create minimal top-level folder structure (#129)'>Move example skills into dedicated folder and create minimal top-leve… />
+
+</current_dom>

@@ -1,0 +1,266 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (225,2)<a aria-label='에이전트, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/_agents' title='_자치령 대표' />
+	[1] (225,2)<font  />
+		[2] (225,2)<font >_자치령 대표 />
+[3] (440,2)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+	[4] (440,2)<font  />
+		[5] (440,2)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+5일 전
+[6] (419,45)<tr  />
+	[7] (214,46)<a aria-label='_회사, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/_company' title='_회사' />
+		[8] (214,46)<font  />
+			[9] (214,46)<font >_회사 />
+	[10] (399,46)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[11] (399,46)<font  />
+			[12] (399,46)<font >초기 뇌 결속 />
+	12분 전
+[13] (419,88)<tr  />
+	[14] (216,89)<a aria-label='공유됨, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/_shared' title='공유됨' />
+		[15] (216,89)<font  />
+			[16] (216,89)<font >공유됨 />
+	[17] (440,89)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[18] (440,89)<font  />
+			[19] (440,89)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[20] (419,132)<tr  />
+	[21] (273,132)<a aria-label='a895810c-9fac-45de-97b2-021d117283a7, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/a895810c-9fac-45de-97b2-021d117283a7' title='a895810c-9fac-45de-97b2-021d117283a7' />
+		[22] (273,132)<font  />
+			[23] (273,132)<font >a895810c-9fac-45de-97b2-021d117283a7 />
+	[24] (399,132)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[25] (399,132)<font  />
+			[26] (399,132)<font >초기 뇌 결속 />
+	12분 전
+[27] (419,175)<tr  />
+	[28] (272,176)<a aria-label='aaf85337-1e4b-4def-93a7-ca29baacc296, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/aaf85337-1e4b-4def-93a7-ca29baacc296' title='aaf85337-1e4b-4def-93a7-ca29baacc296' />
+		[29] (272,176)<font  />
+			[30] (272,176)<font >aaf85337-1e4b-4def-93a7-ca29baacc296 />
+	[31] (399,176)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[32] (399,176)<font  />
+			[33] (399,176)<font >초기 뇌 결속 />
+	12분 전
+[34] (419,219)<tr  />
+	[35] (212,219)<a aria-label='자산, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/assets' title='자산' />
+		[36] (212,219)<font  />
+			[37] (212,219)<font >자산 />
+	[38] (417,219)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[39] (417,219)<font  />
+			[40] (417,219)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[41] (419,262)<tr  />
+	[42] (315,262)<a aria-label='b5d41a57-a9d2-41c5-b31a-1cea879d91f0/.system_generated/logs, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/b5d41a57-a9d2-41c5-b31a-1cea879d91f0/.system_generated/logs' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[43] (276,262)<span  />
+			[44] (276,262)<font  />
+				[45] (276,262)<font >b5d41a57-a9d2-41c5-b31a-1cea879d91f0/ />
+		[46] (378,262)<span  />
+			[47] (378,262)<font  />
+				[48] (378,262)<font >.system_generated/ />
+		로그
+	[49] (399,262)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[50] (399,262)<font  />
+			[51] (399,262)<font >초기 뇌 결속 />
+	12분 전
+[52] (419,305)<tr  />
+	[53] (272,306)<a aria-label='bbdceab1-188d-46f6-aaf3-5fa52d6e1b32, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/bbdceab1-188d-46f6-aaf3-5fa52d6e1b32' title='bbdceab1-188d-46f6-aaf3-5fa52d6e1b32' />
+		[54] (272,306)<font  />
+			[55] (272,306)<font >bbdceab1-188d-46f6-aaf3-5fa52d6e1b32 />
+	[56] (399,306)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[57] (399,306)<font  />
+			[58] (399,306)<font >초기 뇌 결속 />
+	12분 전
+[59] (419,349)<tr  />
+	[60] (209,349)<a aria-label='뇌, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/brain' title='뇌' />
+		[61] (209,349)<font  />
+			[62] (209,349)<font >뇌 />
+	[63] (440,349)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[64] (440,349)<font  />
+			[65] (440,349)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[66] (419,392)<tr  />
+	[67] (212,393)<a aria-label='설정, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/config' title='구성' />
+		[68] (212,393)<font  />
+			[69] (212,393)<font >구성 />
+	[70] (417,393)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[71] (417,393)<font  />
+			[72] (417,393)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[73] (419,435)<tr  />
+	[74] (212,436)<a aria-label='핵심, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/core' title='핵심' />
+		[75] (212,436)<font  />
+			[76] (212,436)<font >핵심 />
+	[77] (417,436)<a class='Link--secondary' href='/nowhere78/apar/commit/17e8e6756db5e63abe557fcd5ead6ca4b86bc723' title='로컬 브레인 자동 동기화' />
+		[78] (417,436)<font  />
+			[79] (417,436)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[80] (419,479)<tr  />
+	[81] (274,479)<a aria-label='d796d2df-5473-46b6-ac7c-265ab267c9b2, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/d796d2df-5473-46b6-ac7c-265ab267c9b2' title='d796d2df-5473-46b6-ac7c-265ab267c9b2' />
+		[82] (274,479)<font  />
+			[83] (274,479)<font >d796d2df-5473-46b6-ac7c-265ab267c9b2 />
+	[84] (399,479)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[85] (399,479)<font  />
+			[86] (399,479)<font >초기 뇌 결속 />
+	12분 전
+[87] (419,522)<tr  />
+	[88] (212,523)<a aria-label='문서, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/docs' title='문서' />
+		[89] (212,523)<font  />
+			[90] (212,523)<font >문서 />
+	[91] (417,523)<a class='Link--secondary' href='/nowhere78/apar/commit/17e8e6756db5e63abe557fcd5ead6ca4b86bc723' title='로컬 브레인 자동 동기화' />
+		[92] (417,523)<font  />
+			[93] (417,523)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[94] (419,566)<tr  />
+	[95] (273,566)<a aria-label='f948002a-e104-4f77-9b79-dd3c5e89e864, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/f948002a-e104-4f77-9b79-dd3c5e89e864' title='f948002a-e104-4f77-9b79-dd3c5e89e864' />
+		[96] (273,566)<font  />
+			[97] (273,566)<font >f948002a-e104-4f77-9b79-dd3c5e89e864 />
+	[98] (399,566)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[99] (399,566)<font  />
+			[100] (399,566)<font >초기 뇌 결속 />
+	12분 전
+[101] (419,609)<tr  />
+	[102] (229,610)<a aria-label='output/luna_shorts, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/output/luna_shorts' title='이 경로는 비어 있는 디렉토리를 건너뜁니다.' />
+		[103] (215,610)<span  />
+			[104] (215,610)<font  />
+				[105] (215,610)<font >출력/ />
+		[106] (238,610)<span  />
+			[107] (238,610)<font  />
+				[108] (238,610)<font >루나 쇼츠 />
+	[109] (399,610)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[110] (399,610)<font  />
+			[111] (399,610)<font >초기 뇌 결속 />
+	12분 전
+[112] (419,652)<tr  />
+	[113] (212,653)<a aria-label='제작, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/production' title='생산' />
+		[114] (212,653)<font  />
+			[115] (212,653)<font >생산 />
+	[116] (417,653)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[117] (417,653)<font  />
+			[118] (417,653)<font >로컬 브레인 자동 동기화 />
+	공지사항
+[119] (419,696)<tr  />
+	[120] (216,696)<a aria-label='스크래치, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/scratch' title='할퀴다' />
+		[121] (216,696)<font  />
+			[122] (216,696)<font >할퀴다 />
+	[123] (440,696)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[124] (440,696)<font  />
+			[125] (440,696)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[126] (419,739)<tr  />
+	[127] (212,740)<a aria-label='세션, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/sessions' title='세션' />
+		[128] (212,740)<font  />
+			[129] (212,740)<font >세션 />
+	[130] (440,740)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[131] (440,740)<font  />
+			[132] (440,740)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[133] (419,783)<tr  />
+	[134] (210,783)<a aria-label='src, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/src' title='src' />
+		[135] (210,783)<font  />
+			[136] (210,783)<font >src />
+	[137] (440,783)<a class='Link--secondary' href='/nowhere78/apar/commit/dac5bf812d9a69364ab72989182447687a013dc0' title='지식 자동 주입 [Raw]: 테스트_브레인_팩' />
+		[138] (440,783)<font  />
+			[139] (440,783)<font >지식 자동 주입 [Raw]: 테스트_브레인_팩 />
+	5일 전
+[140] (419,826)<tr  />
+	[141] (233,826)<a aria-label='tempmediaStorage, (디렉토리)' class='Link--primary' href='/nowhere78/apar/tree/main/tempmediaStorage' title='임시미디어저장소' />
+		[142] (233,826)<font  />
+			[143] (233,826)<font >임시미디어저장소 />
+	[144] (399,826)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[145] (399,826)<font  />
+			[146] (399,826)<font >초기 뇌 결속 />
+	12분 전
+[147] (419,869)<tr  />
+	[148] (221,870)<a aria-label='.gitignore, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/.gitignore' title='.gitignore' />
+		[149] (221,870)<font  />
+			[150] (221,870)<font >.gitignore />
+	[151] (399,870)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[152] (399,870)<font  />
+			[153] (399,870)<font >초기 뇌 결속 />
+	12분 전
+[154] (419,913)<tr  />
+	[155] (219,913)<a aria-label='.gitkeep, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/.gitkeep' title='.gitkeep' />
+		[156] (219,913)<font  />
+			[157] (219,913)<font >.gitkeep />
+	[158] (399,913)<a class='Link--secondary' href='/nowhere78/apar/commit/5a3587b064fa13d28f63e330bd72f6a36244f62d' title='초기 뇌 결속' />
+		[159] (399,913)<font  />
+			[160] (399,913)<font >초기 뇌 결속 />
+	12분 전
+[161] (419,956)<tr  />
+	[162] (226,957)<a aria-label='README.md, (파일)' class='Link--primary' href='/nowhere78/apar/blob/main/README.md' title='README.md' />
+		[163] (226,957)<font  />
+			[164] (226,957)<font >README.md />
+	[165] (417,957)<a class='Link--secondary' href='/nowhere78/apar/commit/0dc4294441e13d07961156aced9296fa09beaded' title='로컬 브레인 자동 동기화' />
+		[166] (417,957)<font  />
+			[167] (417,957)<font >로컬 브레인 자동 동기화 />
+	공지사항
+알파 마스터 런처.py
+자동 동기화: 2026년 4월 30일 22시 07분 11초
+공지사항
+언어
+[168] (699,61)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nowhere78/apar/search?l=python' />
+	[169] (696,61)<span  />
+		[170] (696,61)<font  />
+			[171] (696,61)<font >파이썬 />
+	[172] (715,61)<span  />
+		[173] (715,61)<font  />
+			[174] (715,61)<font >88.7% />
+[175] (756,61)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nowhere78/apar/search?l=html' />
+	[176] (755,61)<span  />
+		[177] (755,61)<font  />
+			[178] (755,61)<font >HTML />
+	[179] (772,61)<span  />
+		[180] (772,61)<font  />
+			[181] (772,61)<font >6.9% />
+[182] (706,85)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nowhere78/apar/search?l=javascript' />
+	[183] (705,85)<span  />
+		[184] (705,85)<font  />
+			[185] (705,85)<font >자바스크립트 />
+	[186] (731,85)<span  />
+		[187] (731,85)<font  />
+			[188] (731,85)<font >2.0% />
+[189] (767,85)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nowhere78/apar/search?l=css' />
+	[190] (765,85)<span  />
+		[191] (765,85)<font  />
+			[192] (765,85)<font >CSS />
+	[193] (780,85)<span  />
+		[194] (780,85)<font  />
+			[195] (780,85)<font >2.0% />
+다른
+0.4%
+제안된 워크플로
+사용하시는 기술 스택에 따라
+Anaconda를 사용하는 Python 패키지
+[196] (787,254)<a class='Button--secondary Button--small Button ml-auto tmp-ml-auto' href='/nowhere78/apar/new/main?filename=.github%2Fworkflows%2Fpython-package-conda.yml&workflow_template=ci%2Fpython-package-conda' />
+	[197] (787,254)<span  />
+		[198] (787,254)<span  />
+			[199] (787,253)<font  />
+				[200] (787,253)<font >구성 />
+			Anaconda를 사용하는 Python 패키지
+Anaconda 패키지 관리 도구를 사용하여 여러 Python 버전에서 Python 패키지를 생성하고 테스트합니다.
+SLSA 일반 생성기
+[201] (787,404)<a class='Button--secondary Button--small Button ml-auto tmp-ml-auto' href='/nowhere78/apar/new/main?filename=.github%2Fworkflows%2Fgenerator-generic-ossf-slsa3-publish.yml&workflow_template=ci%2Fgenerator-generic-ossf-slsa3-publish' />
+	[202] (787,404)<span  />
+		[203] (787,404)<span  />
+			[204] (787,403)<font  />
+				[205] (787,403)<font >구성 />
+			SLSA 일반 생성기
+기존 릴리스 워크플로에 대한 SLSA3 출처 정보를 생성하세요.
+파이썬 애플리케이션
+[206] (787,525)<a class='Button--secondary Button--small Button ml-auto tmp-ml-auto' href='/nowhere78/apar/new/main?filename=.github%2Fworkflows%2Fpython-app.yml&workflow_template=ci%2Fpython-app' />
+	[207] (787,525)<span  />
+		[208] (787,525)<span  />
+			[209] (787,524)<font  />
+				[210] (787,524)<font >구성 />
+			파이썬 애플리케이션
+파이썬 애플리케이션을 생성하고 테스트합니다.
+[211] (696,634)<a class='Link' href='/nowhere78/apar/actions/new' />
+	[212] (696,634)<font  />
+		[213] (696,634)<font >추가 워크플로 />
+[214] (793,635)<button class='Button--link Button--medium Button text-small color-fg-muted text-normal' />
+	[215] (793,635)<span  />
+		[216] (793,635)<span  />
+			[217] (793,635)<font  />
+				[218] (793,635)<font >제안을 기각합니다 />
+
+</current_dom>

@@ -1,0 +1,9 @@
+# Alpha Dashboard UI Verification Plan
+
+- [ ] Open `C:\Users\smile\.gemini\antigravity\apps\alpha_dashboard\index.html` in browser.
+- [ ] Verify glassmorphism UI elements are visible.
+- [ ] Verify background blobs are moving (via screenshot comparison or console logs if applicable).
+- [ ] Verify chart is rendered (check DOM and screenshot).
+- [ ] Verify particle network animation is active.
+- [ ] Take final screenshot.
+- [ ] Summarize visual quality.
