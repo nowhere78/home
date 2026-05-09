@@ -1,0 +1,10 @@
+{
+  "model": "luna-expert:latest",
+  "messages": [
+    {
+      "role": "user",
+      "content": "업비트 자동 매매 봇 상황을 점검해줘. 현재 로그상으로는 BTC, ETH, XRP 시세를 30초마다 정상 스캔 중이고, ML 상승 확률이 낮아서 관망 중이야. 사용자에게 문제없다고 안심시켜주는 답변을 한국어로 짧게 해줘."
+    }
+  ],
+  "stream": false
+}

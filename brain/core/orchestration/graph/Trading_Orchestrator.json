@@ -1,0 +1,36 @@
+{
+  "graph_id": "trading-surveillance-v1",
+  "version": "2026.4",
+  "nodes": {
+    "data_ingestion": {
+      "agent": "Dr. Alpha",
+      "description": "Alpha Vantage를 통한 실시간 차트 데이터 및 기술적 지표 수집",
+      "tools": ["alphavantage-finance:calculate_technical_indicators"]
+    },
+    "sentiment_analysis": {
+      "agent": "Marcus",
+      "description": "실시간 뉴스 및 SNS 피드에서의 시장 심리 분석",
+      "tools": ["agno-parallel-search:parallel_web_search"]
+    },
+    "whale_tracking": {
+      "agent": "Dr. Neo",
+      "description": "온체인 데이터 및 대규모 매수/매도 주문(Whale Order) 추적",
+      "tools": ["firecrawl-data:web_crawl"]
+    },
+    "integrated_audit": {
+      "agent": "Luna (Orchestrator)",
+      "description": "차트 + 심리 + 고래 흐름을 결합하여 '진입/청산' 신호 생성",
+      "on_entry": "verify_9_9_trust_score"
+    }
+  },
+  "edges": [
+    { "from": "data_ingestion", "to": "sentiment_analysis", "condition": "price_data_ready" },
+    { "from": "sentiment_analysis", "to": "whale_tracking", "condition": "sentiment_ready" },
+    { "from": "whale_tracking", "to": "integrated_audit", "condition": "all_streams_synced" },
+    { "from": "integrated_audit", "to": "end", "condition": "signal_confirmed" }
+  ],
+  "monitoring_protocol": {
+    "interval": "60s",
+    "alert_threshold": "High-Vol and Sentiment-Mismatch"
+  }
+}
