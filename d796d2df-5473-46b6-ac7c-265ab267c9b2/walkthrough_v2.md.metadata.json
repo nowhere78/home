@@ -1,5 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
-  "summary":  "Walkthrough of the profitability improvements. Fixed the 'Blind Buy' bug, implemented a self-learning weight system, and refined risk parameters. Analysis shows a 34% success rate, which the system has now automatically adjusted for by entering Conservative Mode.",
-  "updatedAt":  "2026-05-01T00:34:58.227218900Z"
-}

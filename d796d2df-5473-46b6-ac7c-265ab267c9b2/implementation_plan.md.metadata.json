@@ -1,6 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Unifying AI models to gemma4:e2b across the Alpha Agent system. This includes updating the Reasoning Gate and the Shorts Pipeline to use the user's preferred model.",
-  "updatedAt":  "2026-04-30T22:55:27.044339800Z",
-  "requestFeedback":  true
-}

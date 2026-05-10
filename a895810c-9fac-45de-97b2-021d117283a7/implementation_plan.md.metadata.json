@@ -1,6 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Plan to merge AutoNovel's narrative generation with Terminal Velocity's (KinOS) multi-agent editing framework to create a powerful, local LLM-compatible novel writing pipeline (AlphaNovel).",
-  "updatedAt":  "2026-05-06T18:56:26.699385Z",
-  "requestFeedback":  true
-}

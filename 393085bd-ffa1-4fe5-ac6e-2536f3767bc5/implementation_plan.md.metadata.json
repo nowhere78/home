@@ -1,7 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Implementation plan for V13 Telegram Remote Control Bot, allowing the user to control the Alpha Agent Swarm and receive trade alerts via their smartphone.",
-  "updatedAt":  "2026-04-28T22:27:45.658406300Z",
-  "version":  "7",
-  "requestFeedback":  true
-}

@@ -7,3 +7,16 @@ node_modules/
 *.log
 .cache/
 Thumbs.db
+
+# [추가] 대용량 및 외부 저장소 차단
+github_repos/
+_STORAGE_OFFLINE_/
+*.zip
+*.tar.gz
+*.7z
+brain_data/2026-03_*
+brain_data/2026-04_*
+Knowledge_Base/
+Past_Conversations/
+Extra_Brain_Backup/
+00_Raw/
