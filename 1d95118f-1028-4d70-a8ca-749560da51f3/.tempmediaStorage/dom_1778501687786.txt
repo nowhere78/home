@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+A
+Alpha
+Omega Station
+[0] (75,151)<a href='/' />
+	[1] (75,151)<div  />
+		[2] (29,151)<span >🏠 />
+		[3] (59,151)<span >메인 대시보드 />
+		[4] (127,151)<div  />
+[5] (75,207)<a href='/web-agent' />
+	[6] (75,207)<div  />
+		[7] (28,207)<span >🌐 />
+		[8] (56,207)<span >웹 에이전트 />
+[9] (75,262)<a href='/knowledge' />
+	[10] (75,262)<div  />
+		[11] (28,262)<span >🧠 />
+		[12] (62,262)<span >지식 라이브러리 />
+[13] (75,317)<a href='/automation' />
+	[14] (75,317)<div  />
+		[15] (28,317)<span >⚡ />
+		[16] (56,317)<span >자동화 설정 />
+에이전트 군단
+[17] (75,448)<a href='/agent/luna' />
+	[18] (75,448)<div  />
+		[19] (28,448)<span >👸 />
+		[20] (54,448)<span >CEO 루나 />
+[21] (75,503)<a href='/agent/researcher' />
+	[22] (75,503)<div  />
+		[23] (28,503)<span >🔍 />
+		[24] (50,503)<span >리서처 />
+[25] (75,558)<a href='/agent/designer' />
+	[26] (75,558)<div  />
+		[27] (28,558)<span >🎨 />
+		[28] (53,558)<span >디자이너 />
+Sandbox
+[29] (75,688)<a href='/simulation' />
+	[30] (75,688)<div  />
+		[31] (28,688)<span >🎮 />
+		[32] (59,688)<span >AI 시뮬레이션 />
+Engine Status
+Gemma 4
+STABLE
+[33] (401,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[34] (656,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[35] (685,42)<div  />
+Strategic War Room
+CEO Luna, 지능형 비즈니스 자동화 파이프라인이 1,307개의 지식 노드와 동기화되었습니다.
+Algorithm Defensibility
+94.2% SECURE
+Live Intelligence Feed
+지능 점유율 (RAG)
+92%
+비매개변수 메모리 최적화
+알고리즘 방어력
+A+
+MrBeast 프로토콜 적용
+지식 엔트로피
+1.3k
+72개 도메인 통합
+자동화 수익 가치
+₩1.2M
+잠재 파이프라인 추산
+금일 비즈니스 전략 브리핑
+RAG
+CHAPTER 01
+Intelligence > Automation
+"무지성 자동화를 멈추고,
+지능이 탑재된 자동화
+를 구축하십시오."
+"수익은 사람이나 에이전트가 그 서비스에서 고유한 가치를 발견할 때 발생합니다. RAG는 AI에게 뻔한 소리가 아닌 '진짜 알맹이'를 만들어낼 뇌를 달아주는 작업입니다."
+📖
+Parametric: Active
+🧠
+Non-Parametric: Synced
+핵심 실행 통로 (MrBeast Optimized)
+[36] (321,898)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://studio.youtube.com' />
+	[37] (321,884)<div >📽️ />
+	[38] (321,924)<span >YT Studio />
+[39] (422,898)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://partners.coupang.com' />
+	[40] (422,884)<div >🛍️ />
+	[41] (422,924)<span >Partners />
+[42] (523,898)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://www.notion.so' />
+	[43] (523,884)<div >📓 />
+	[44] (523,924)<span >HQ Notion />
+[45] (623,898)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://github.com' />
+	[46] (623,884)<div >📂 />
+	[47] (623,924)<span >Vault Git />
+지능 저장고 심층 피드
+MrBeast 전략 업데이트
+JUST NOW
+알고리즘 방어율 측정을 위한 풀-스크립트 분석 프로토콜 로드 완료.
+8주 자동화 커리큘럼
+2시간 전
+Step 1: RAG 지능 구축 단계 진입. 데이터 구조화 맵 생성 중.
+지식 도메인 확장
+오늘
+신화, 양자역학, 사이버보안 등 72개 도메인 교차 분석 중.
+[48] (781,796)<a class='block w-full mt-6' href='/knowledge' />
+	[49] (781,796)<button class='w-full py-4 bg-transparent hover:bg-[#d4ff00] text-gray-400 hover:text-black font-bold rounded-2xl text-[10px] tracking-[0.2em] uppercase transition-all border border-[#2a2a2a] hover:border-[#d4ff00] shadow-[0_0_20px_rgba(212,255,0,0.05)]'>EXPLORE KNOWLEDGE VAULT />
+
+</current_dom>

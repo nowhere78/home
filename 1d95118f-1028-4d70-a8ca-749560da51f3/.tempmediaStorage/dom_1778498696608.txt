@@ -1,0 +1,487 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (74,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin' />
+	[3] (74,34)<span >nico-martin />
+[4] (153,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin/gemma4-browser-extension' />
+	[5] (153,34)<span >gemma4-browser-extension />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (96,80)<span >(
+5
+) />
+		[26] (96,80)<span >5 />
+		(
+		5
+		)
+[27] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulls' />
+	[28] (118,80)<span  />
+	[29] (148,80)<span >Pull requests />
+	[30] (179,80)<span >(
+5
+) />
+		[31] (179,80)<span >5 />
+		(
+		5
+		)
+[32] (214,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/agents?author=nowhere78' />
+	[33] (201,80)<span  />
+	[34] (221,80)<span >Agents />
+[35] (263,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/actions' />
+	[36] (249,80)<span  />
+	[37] (270,80)<span >Actions />
+[38] (314,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/projects' />
+	[39] (298,80)<span  />
+	[40] (320,80)<span >Projects />
+[41] (385,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/security' />
+	[42] (350,80)<span  />
+	[43] (391,80)<span >Security and quality />
+[44] (455,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulse' />
+	[45] (440,80)<span  />
+	[46] (462,80)<span >Insights />
+[47] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[48] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[49] (65,190)<span  />
+		[50] (58,190)<span  />
+			[51] (58,190)<div  />
+				[52] (19,190)<div  />
+				[53] (35,190)<div  />
+					[54] (35,190)<span >main />
+[55] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/nico-martin/gemma4-browser-extension/new/main/src/background/agent' />
+[56] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[57] (83,233)<span  />
+	[58] (17,233)<span  />
+	[59] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[60] (148,233)<span  />
+		[61] (148,233)<kbd  />
+			[62] (148,233)<span >t />
+				t
+				[63] (148,233)<span >T />
+[64] (79,675)<div  />
+	[65] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='public-item' role='treeitem' />
+		[66] (79,279)<div  />
+			[67] (13,279)<div  />
+			[68] (84,279)<div  />
+				[69] (25,279)<div  />
+					[70] (25,279)<div  />
+				[71] (90,279)<span  />
+					[72] (43,279)<span >public />
+	[73] (79,535)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[74] (79,314)<div  />
+			[75] (13,314)<div  />
+			[76] (84,314)<div  />
+				[77] (25,313)<div  />
+					[78] (25,313)<div  />
+				[79] (90,314)<span  />
+					[80] (38,314)<span >src />
+		[81] (79,501)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background-item' role='treeitem' />
+			[82] (79,348)<div  />
+				[83] (10,348)<div  />
+					[84] (10,348)<div  />
+						[85] (10,348)<div  />
+				[86] (17,348)<div  />
+				[87] (86,348)<div  />
+					[88] (29,347)<div  />
+						[89] (29,347)<div  />
+					[90] (92,348)<span  />
+						[91] (57,348)<span >background />
+			[92] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent-item' role='treeitem' />
+				[93] (79,382)<div  />
+					[94] (13,382)<div  />
+						[95] (13,382)<div  />
+							[96] (10,382)<div  />
+							[97] (15,382)<div  />
+					[98] (21,382)<div  />
+					[99] (88,382)<div  />
+						[100] (33,382)<div  />
+							[101] (33,382)<div  />
+						[102] (94,382)<span  />
+							[103] (51,382)<span >agent />
+				[104] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent/Agent.ts-item' role='treeitem' />
+					[105] (79,416)<div  />
+						[106] (15,416)<div  />
+							[107] (15,416)<div  />
+								[108] (10,416)<div  />
+								[109] (15,416)<div  />
+								[110] (19,416)<div  />
+						[111] (90,416)<div  />
+							[112] (38,416)<div  />
+							[113] (96,416)<span  />
+								[114] (59,416)<span >Agent.ts />
+				[115] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent/extractToolCalls.ts-item' role='treeitem' />
+					[116] (79,450)<div  />
+						[117] (15,450)<div  />
+							[118] (15,450)<div  />
+								[119] (10,450)<div  />
+								[120] (15,450)<div  />
+								[121] (19,450)<div  />
+						[122] (90,450)<div  />
+							[123] (38,450)<div  />
+							[124] (96,450)<span  />
+								[125] (74,450)<span >extractToolCalls.ts />
+				[126] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent/types.ts-item' role='treeitem' />
+					[127] (79,484)<div  />
+						[128] (15,484)<div  />
+							[129] (15,484)<div  />
+								[130] (10,484)<div  />
+								[131] (15,484)<div  />
+								[132] (19,484)<div  />
+						[133] (90,484)<div  />
+							[134] (38,484)<div  />
+							[135] (96,484)<span  />
+								[136] (58,484)<span >types.ts />
+				[137] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent/webMcp.tsx-item' role='treeitem' />
+					[138] (79,518)<div  />
+						[139] (15,518)<div  />
+							[140] (15,518)<div  />
+								[141] (10,518)<div  />
+								[142] (15,518)<div  />
+								[143] (19,518)<div  />
+						[144] (90,518)<div  />
+							[145] (38,518)<div  />
+							[146] (96,518)<span  />
+								[147] (65,518)<span >webMcp.tsx />
+			[148] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/tools-item' role='treeitem' />
+				[149] (79,552)<div  />
+					[150] (13,552)<div  />
+						[151] (13,552)<div  />
+							[152] (10,552)<div  />
+							[153] (15,552)<div  />
+					[154] (21,552)<div  />
+					[155] (88,552)<div  />
+						[156] (33,552)<div  />
+							[157] (33,552)<div  />
+						[158] (94,552)<span  />
+							[159] (50,552)<span >tools />
+			[160] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/utils-item' role='treeitem' />
+				[161] (79,586)<div  />
+					[162] (13,586)<div  />
+						[163] (13,586)<div  />
+							[164] (10,586)<div  />
+							[165] (15,586)<div  />
+					[166] (21,586)<div  />
+					[167] (88,586)<div  />
+						[168] (33,586)<div  />
+							[169] (33,586)<div  />
+						[170] (94,586)<span  />
+							[171] (48,586)<span >utils />
+			[172] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/vectorHistory-item' role='treeitem' />
+				[173] (79,620)<div  />
+					[174] (13,620)<div  />
+						[175] (13,620)<div  />
+							[176] (10,620)<div  />
+							[177] (15,620)<div  />
+					[178] (21,620)<div  />
+					[179] (88,620)<div  />
+						[180] (33,620)<div  />
+							[181] (33,620)<div  />
+						[182] (94,620)<span  />
+							[183] (63,620)<span >vectorHistory />
+			[184] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/background.ts-item' role='treeitem' />
+				[185] (79,654)<div  />
+					[186] (13,654)<div  />
+						[187] (13,654)<div  />
+							[188] (10,654)<div  />
+							[189] (15,654)<div  />
+					[190] (88,654)<div  />
+						[191] (33,654)<div  />
+						[192] (94,654)<span  />
+							[193] (65,654)<span >background.ts />
+		[194] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/content-item' role='treeitem' />
+			[195] (79,688)<div  />
+				[196] (10,688)<div  />
+					[197] (10,688)<div  />
+						[198] (10,688)<div  />
+				[199] (17,688)<div  />
+				[200] (86,688)<div  />
+					[201] (29,688)<div  />
+						[202] (29,688)<div  />
+					[203] (92,688)<span  />
+						[204] (50,688)<span >content />
+		[205] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/shared-item' role='treeitem' />
+			[206] (79,722)<div  />
+				[207] (10,722)<div  />
+					[208] (10,722)<div  />
+						[209] (10,722)<div  />
+				[210] (17,722)<div  />
+				[211] (86,722)<div  />
+					[212] (29,722)<div  />
+						[213] (29,722)<div  />
+					[214] (92,722)<span  />
+						[215] (48,722)<span >shared />
+		[216] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/sidebar-item' role='treeitem' />
+			[217] (79,756)<div  />
+				[218] (10,756)<div  />
+					[219] (10,756)<div  />
+						[220] (10,756)<div  />
+				[221] (17,756)<div  />
+				[222] (86,756)<div  />
+					[223] (29,756)<div  />
+						[224] (29,756)<div  />
+					[225] (92,756)<span  />
+						[226] (49,756)<span >sidebar />
+	[227] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.env-item' role='treeitem' />
+		[228] (79,790)<div  />
+			[229] (84,790)<div  />
+				[230] (25,790)<div  />
+				[231] (90,790)<span  />
+					[232] (40,790)<span >.env />
+	[233] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[234] (79,824)<div  />
+			[235] (84,824)<div  />
+				[236] (25,824)<div  />
+				[237] (90,824)<span  />
+					[238] (49,824)<span >.gitignore />
+	[239] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.prettierignore-item' role='treeitem' />
+		[240] (79,858)<div  />
+			[241] (84,858)<div  />
+				[242] (25,858)<div  />
+				[243] (90,858)<span  />
+					[244] (56,858)<span >.prettierignore />
+	[245] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[246] (79,893)<div  />
+			[247] (84,893)<div  />
+				[248] (25,892)<div  />
+				[249] (90,893)<span  />
+					[250] (53,893)<span >README.md />
+	[251] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='eslint.config.js-item' role='treeitem' />
+		[252] (79,927)<div  />
+			[253] (84,927)<div  />
+				[254] (25,927)<div  />
+				[255] (90,927)<span  />
+					[256] (56,927)<span >eslint.config.js />
+	[257] (79,961)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[258] (79,961)<div  />
+			[259] (84,961)<div  />
+				[260] (25,961)<div  />
+				[261] (90,961)<span  />
+					[262] (54,961)<span >package.json />
+	[263] (79,995)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-lock.yaml-item' role='treeitem' />
+		[264] (79,995)<div  />
+			[265] (84,995)<div  />
+				[266] (25,995)<div  />
+				[267] (90,995)<span  />
+					[268] (59,995)<span >pnpm-lock.yaml />
+[269] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[270] (229,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main'>gemma4-browser-extension />
+/
+[271] (299,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main/src'>src />
+/
+[272] (338,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main/src/background'>background />
+/
+[273] (382,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main/src/background/agent'>agent />
+/
+Agent.ts
+[274] (447,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[275] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_5e_' />
+Latest commit
+[276] (190,198)<a class='prc-Link-Link-9ZwDx' href='/nico-martin' />
+	[277] (188,199)<img  />
+[278] (217,198)<a aria-label='commits by nico-martin' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commits?author=nico-martin'>nico-martin />
+[279] (280,198)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e'>fixed chat template issue />
+[280] (892,198)<a aria-label='Commit 92c6eb9' class='Link--secondary prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e'>92c6eb9 />
+·
+History
+[281] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/nico-martin/gemma4-browser-extension/commits/main/src/background/agent/Agent.ts' />
+	[282] (967,198)<span  />
+		[283] (972,198)<span  />
+			[284] (972,197)<span >History />
+File metadata and controls
+[285] (196,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[286] (196,263)<span  />
+		[287] (196,263)<div >Code />
+[288] (228,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[289] (228,263)<span  />
+		[290] (228,263)<div >Blame />
+428 lines (374 loc) · 13.1 KB
+[291] (857,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_66_' />
+[292] (876,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[293] (898,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/nico-martin/gemma4-browser-extension/raw/refs/heads/main/src/background/agent/Agent.ts' />
+	[294] (898,263)<span  />
+		[295] (898,263)<span >Raw />
+[296] (915,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[297] (929,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[298] (947,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/nico-martin/gemma4-browser-extension/edit/main/src/background/agent/Agent.ts' />
+[299] (961,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_6l_' />
+[300] (980,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[301] (202,307)<div >1 />
+[302] (202,328)<div >2 />
+[303] (202,349)<div >3 />
+[304] (202,370)<div >4 />
+[305] (202,392)<div >5 />
+[306] (202,413)<div >6 />
+[307] (202,434)<div >7 />
+[308] (202,455)<div >8 />
+[309] (202,476)<div >9 />
+[310] (202,497)<div >10 />
+[311] (202,519)<div >11 />
+[312] (202,540)<div >12 />
+[313] (202,561)<div >13 />
+[314] (202,582)<div >14 />
+[315] (202,603)<div >15 />
+[316] (202,624)<div >16 />
+[317] (202,646)<div >17 />
+[318] (202,667)<div >18 />
+[319] (202,688)<div >19 />
+[320] (202,709)<div >20 />
+[321] (202,730)<div >21 />
+[322] (202,751)<div >22 />
+	[323] (214,752)<div aria-label='Collapse code section' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+[324] (202,772)<div >23 />
+[325] (202,794)<div >24 />
+[326] (202,815)<div >25 />
+[327] (202,836)<div >26 />
+[328] (202,857)<div >27 />
+[329] (202,878)<div >28 />
+[330] (202,899)<div >29 />
+[331] (202,921)<div >30 />
+[332] (202,942)<div >31 />
+[333] (202,963)<div >32 />
+[334] (202,984)<div >33 />
+34
+import
+{
+DynamicCache
+,
+TextGenerationPipeline
+,
+TextStreamer
+,
+pipeline
+,
+}
+from
+"@huggingface/transformers"
+;
+import
+{
+MODELS
+,
+TEXT_GENERATION_ID
+}
+from
+"../../shared/constants.ts"
+;
+import
+{
+AgentMetrics
+,
+ChatMessage
+,
+ChatMessageAssistant
+,
+}
+from
+"../../shared/types.ts"
+;
+import
+{
+extractToolCalls
+}
+from
+"./extractToolCalls.ts"
+;
+import
+{
+ToolCallPayload
+}
+from
+"./types.ts"
+;
+import
+{
+WebMCPTool
+,
+executeWebMCPTool
+,
+webMCPToolToChatTemplateTool
+,
+}
+from
+"./webMcp.tsx"
+;
+type
+Message
+=
+{
+role
+:
+"system"
+|
+"user"
+|
+"assistant"
+|
+"tool"
+;
+content
+:
+string
+;
+[
+key
+:
+string
+]
+:
+any
+;
+}
+;
+type
+GenerationMetrics
+=
+AgentMetrics
+;
+export
+type
+AgentRunMetrics
+=
+AgentMetrics
+;
+let
+pipe
+:
+TextGenerationPipeline
+|
+null
+=
+null
+;
+const
+SYSTEM_PROMPT
+=
+"You are a helpful assistant with access to external tools declared in this conversation. "
++
+"Never claim you do not have tools when tool declarations are present. "
++
+
+</current_dom>

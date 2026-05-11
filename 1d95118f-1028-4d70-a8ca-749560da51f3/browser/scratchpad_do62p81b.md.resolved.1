@@ -1,0 +1,29 @@
+# Task: Analyze Codex-R and YouTube video for Alpha Browser improvements
+
+## Plan
+1. [x] Visit GitHub repository: https://github.com/thedalbee/codex-r
+2. [x] Analyze Codex-R features and UI
+3. [x] Visit YouTube video: https://youtu.be/8P3enx5Z490
+4. [x] Analyze YouTube video content for AI integration tips
+5. [x] Identify actionable features and UI improvements for Alpha Browser
+6. [ ] Save useful data/resources to `D:\에이전트자료저장고`
+7. [ ] Report findings and integration points
+
+## Findings
+### Codex-R (GitHub)
+- **Purpose**: Migration tool for Claude Code sessions to OpenAI Codex.
+- **Key Feature**: Persistent session management and "Session Picker" for AI agents.
+- **UI**: Minimalist CLI-based session selection.
+- **Integration Idea**: Add a "Session History" or "Context Migration" feature to Alpha Browser to allow users to resume agent tasks across different models or sessions.
+
+### Gemma 4 Browser Extension (YouTube & GitHub)
+- **Purpose**: Local AI browser agent using Google Gemma 2B (Gemma 4).
+- **Core Technology**: `Transformers.js` + WebGPU (runs entirely in the browser).
+- **Key Features**:
+    - **Local RAG**: Vectorizes browsing history for semantic search and context-aware Q&A.
+    - **Tool Calling**: Native browser tools (create/remove tabs, search, ask questions about current page).
+    - **Multi-step Reasoning**: Agent can perform complex tasks by chaining tool calls.
+- **Integration Ideas**:
+    - **Knowledge Library**: Implement the local vector DB for history search.
+    - **Web Agent Page**: Add specific tools for tab management and page interaction.
+    - **Local Engine**: Use the `Transformers.js` approach for the Gemma engine to ensure zero API costs and privacy.

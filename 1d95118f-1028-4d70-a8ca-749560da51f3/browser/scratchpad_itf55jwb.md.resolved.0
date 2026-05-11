@@ -1,0 +1,7 @@
+# Alpha Browser Menu Verification Checklist
+- [ ] Open http://localhost:3000
+- [ ] Click '웹 에이전트' (Web Agents)
+- [ ] Verify content change for Web Agents
+- [ ] Click 'CEO 루나' (CEO Luna)
+- [ ] Verify content change for CEO Luna
+- [ ] Final Report

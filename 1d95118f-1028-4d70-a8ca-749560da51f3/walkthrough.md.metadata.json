@@ -1,6 +1,7 @@
 {
   "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
-  "summary":  "Anthropic Skills 연구를 바탕으로 한 시스템 업그레이드 완료 보고서. MCP 빌더 및 API 전문가 스킬 도입, CEO 모델의 전략적 고도화 완료.",
-  "updatedAt":  "2026-05-09T11:54:18.604055400Z",
-  "version":  "2"
+  "summary":  "Comprehensive user guide for the Alpha YouTube Forge, detailing each production step from strategy to publishing.",
+  "updatedAt":  "2026-05-11T12:27:24.072350600Z",
+  "version":  "6",
+  "requestFeedback":  true
 }

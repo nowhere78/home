@@ -1,0 +1,447 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (387,311)<div  />
+	[39] (387,311)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,306)<div  />
+		[41] (387,311)<div  />
+		[42] (44,311)<div  />
+			[43] (44,311)<div  />
+[44] (40,344)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,344)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (110,344)<div  />
+	[47] (110,344)<div  />
+		[48] (110,344)<div aria-label='0 분 11 초/10 분 5 초' class='ytp-time-contents' role='button' />
+			[49] (98,343)<span  />
+			[50] (108,343)<span  />
+			[51] (121,343)<span  />
+[52] (630,344)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,344)<div  />
+		[54] (630,344)<div  />
+[55] (655,344)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,357)<div  />
+[57] (680,344)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,344)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,344)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+Google Gemma 4 Browser Agent: Free Chrome Automation Agent Runs Locally (No API Key)
+[60] (37,447)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@AIStackEngineer' />
+	[61] (34,445)<yt-img-shadow  />
+		[62] (34,445)<img  />
+[63] (84,438)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@AIStackEngineer'>AI Stack Engineer />
+구독자 9.92천명
+[64] (144,447)<button aria-label='AI Stack Engineer을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[65] (144,447)<yt-touch-feedback-shape  />
+		[66] (144,447)<div  />
+[67] (524,447)<button aria-label='다른 사용자 1,410명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>1.4천 />
+	1.4천
+	[68] (524,447)<yt-touch-feedback-shape  />
+		[69] (524,447)<div  />
+[70] (561,447)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[71] (561,447)<yt-touch-feedback-shape  />
+		[72] (561,447)<div  />
+[73] (600,447)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[74] (600,447)<yt-touch-feedback-shape  />
+		[75] (600,447)<div  />
+[76] (653,447)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[77] (653,447)<yt-touch-feedback-shape  />
+		[78] (653,447)<div  />
+[79] (706,447)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[80] (706,447)<yt-touch-feedback-shape  />
+		[81] (706,447)<div  />
+[82] (741,447)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[83] (741,447)<yt-touch-feedback-shape  />
+		[84] (741,447)<div  />
+조회수 50,044회
+2026. 5. 4.
+[85] (140,506)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/gemma4'>#Gemma4 />
+[86] (164,506)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/ai'>#AI />
+[87] (196,506)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/huggingface'>#HuggingFace />
+A look at the Transformers.js Gemma 4 Browser Assistant, an open source Chrome extension built by Nico Martin from Hugging Face. 
+
+🔗 Video Links:
+Chrome Web Store:
+[88] (163,590)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblp4WTFscW9RamNqWUtJeXRQZjZBcldYYTJKQXxBQ3Jtc0trNnhZVGZiTk80bnVRQ0VuQlhQUmd0MG1vcVNjcXBsN3lEYnhGRFRfbzdpT2VkdVBDWHlLRnloazRCbWZ6cW9GbWdHVE5ZWnJOUXh5NWNralhaQmYwVmoweEx6OGVKUS1JcUZXWmhvODV4bzFrd0h4OA&q=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Ftransformerjs-gemma-4-bro%2Fdhaknnnkcdkjhcclchmnfdhddoehoool&v=8P3enx5Z490'>https://chromewebstore.google.com/det... />
+Source code:
+[89] (143,611)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGkwNGhmVzZRa3p5TkVlYW9aRUVPbTVqTWxPZ3xBQ3Jtc0tuUE9ySC1Zb1pYeEpUVmlOZUp1OWh4WVU4MmpRMmNNdDIzLW5Td3g3Qk1laUNIckVfOU9ZSUQ2cE5jLVlfV04tbGNOTWVHdF83aWJNRG1kcll3LUtEd095YjZFNG1pakhMQW82UVhtUVBDcV9YZXREbw&q=https%3A%2F%2Fgithub.com%2Fnico-martin%2Fgemma4-browser-extension&v=8P3enx5Z490'>https://github.com/nico-martin/gemma4... />
+Hugging Face blog:
+[90] (160,632)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRTakc2S1pXX21Xem5lS1NGTy1GaDFZTU5NZ3xBQ3Jtc0ttaHlUbEZlXzdCWWF4UUE0LW82RXpfX3NraThFVGFidTg0dWZxMFhZX1VTZ3Myd2pCUk5ybG1vRWdYNXBiTVpmS1dsX0tQM0JSRDNjQk1NcFFONDFPdlc3djVfVUlsS0QzN0RpMGJQX1pOTlRfaEpDbw&q=https%3A%2F%2Fhuggingface.co%2Fblog%2Ftransformersjs-chrome-extension&v=8P3enx5Z490'>https://huggingface.co/blog/transform... />
+Gemma 4 E2B:
+[91] (149,653)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblNybHA1bWphY2NXdU0yV1dKU21BTWk4M0tWZ3xBQ3Jtc0tuVG9iSk82ZldSMWF4NV9YamZIQnBVNXF5ZUxpYW1uTFJsaWdRTWVEY21pYU96RlNBLVpkSlpKc0lGZGJWRjExQVRkWnNqWUNkaDFrWmJ1WUhaa2xrdjhmSFpBVVZmcGFHZ04zT0RHVHN0bnBsZEpwWQ&q=https%3A%2F%2Fhuggingface.co%2Fgoogle%2Fgemma-4-E2B&v=8P3enx5Z490'>https://huggingface.co/google/gemma-4... />
+[92] (47,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/gemma4'>#Gemma4 />
+[93] (72,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/ai'>#AI />
+[94] (110,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/chromeextension'>#ChromeExtension />
+[95] (157,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/localai'>#LocalAI />
+[96] (190,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/webgpu'>#WebGPU />
+[97] (232,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/huggingface'>#HuggingFace />
+[98] (286,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/transformersjs'>#TransformersJS />
+[99] (337,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/ondeviceai'>#OnDeviceAI />
+[100] (375,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/aiagent'>#AIAgent />
+[101] (413,696)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/privacyfirst'>#PrivacyFirst />
+[102] (365,745)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>Nico Martin demonstrates an open-source browser extension that utilizes Transformers.js and Gemma 4 to provide a fully local, GPU-accelerated AI agent. This assistant performs multi-step reasoning, semantic search across browsing history, and native tool calling to manage tabs and interact with web content without relying on external servers or API keys. />
+	Nico Martin demonstrates an open-source browser extension that utilizes Transformers.js and Gemma 4 to provide a fully local, GPU-accelerated AI agent. This assistant performs multi-step reasoning, semantic search across browsing history, and native tool calling to manage tabs and interact with web content without relying on external servers or API keys.
+요약
+[103] (732,745)<button aria-label='더보기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[104] (732,745)<yt-touch-feedback-shape  />
+		[105] (732,745)<div  />
+콘텐츠 생성 방식
+자동 더빙
+일부 언어의 오디오 트랙이 자동으로 생성되었습니다.
+[106] (215,857)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='//support.google.com/youtube/answer/15569972?hl=ko'>자세히 알아보기 />
+질문하기
+궁금한 점을 해결하고, 관심 있는 주제도 살펴보세요
+질문하기
+17:59
+아이자야씩스티원 Isaiah6tyOne
+조회수 88만회
+•
+4년 전
+[107] (864,111)<div  />
+	[108] (805,111)<a class='ytLockupViewModelContentImage' href='/watch?v=FhqlaeDlSVw' />
+		[109] (803,111)<yt-thumbnail-view-model  />
+			[110] (803,111)<div  />
+				[111] (803,111)<img  />
+			[112] (803,149)<yt-thumbnail-bottom-overlay-view-model  />
+				[113] (830,149)<div  />
+					[114] (830,147)<yt-thumbnail-badge-view-model  />
+						[115] (830,147)<badge-shape  />
+							[116] (820,147)<div  />
+								[117] (820,147)<span  />
+									[118] (820,147)<div  />
+							[119] (834,147)<div >라이브 />
+	[120] (910,111)<div  />
+		[121] (910,104)<yt-lockup-metadata-view-model  />
+			[122] (910,104)<div  />
+				[123] (910,83)<h3  />
+					[124] (910,83)<a aria-label='🔴 [LIVE] 코딩을 위한 최고의 로컬 LLM은? 💻 젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석!' class='ytLockupMetadataViewModelTitle' href='/watch?v=FhqlaeDlSVw' />
+						[125] (904,93)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>🔴 [LIVE] 코딩을 위한 최고의 로컬 LLM은? 💻 젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석! />
+				[126] (910,125)<div  />
+					[127] (910,126)<yt-content-metadata-view-model  />
+						[128] (910,115)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[129] (880,115)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>CONNECT AI LAB />
+								[130] (904,115)<span  />
+									[131] (905,115)<span  />
+										[132] (905,115)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[133] (905,115)<span  />
+												[134] (905,115)<div  />
+						[135] (910,137)<div class='ytContentMetadataViewModelMetadataRow ytContentMetadataViewModelMetadataRowMetadataRowWrap' role='group' />
+							[136] (870,137)<div  />
+								[137] (870,137)<yt-badge-view-model  />
+									[138] (870,137)<badge-shape  />
+										[139] (857,137)<div  />
+											[140] (857,137)<span  />
+												[141] (857,137)<div  />
+										[142] (874,137)<div >회원 전용 />
+			[143] (964,74)<div  />
+				[144] (964,74)<button-view-model  />
+					[145] (964,74)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[146] (964,74)<yt-touch-feedback-shape  />
+							[147] (964,74)<div  />
+[148] (864,220)<div  />
+	[149] (805,220)<a class='ytLockupViewModelContentImage' href='/watch?v=QvOLApzO0No' />
+		[150] (803,220)<yt-thumbnail-view-model  />
+			[151] (803,220)<div  />
+				[152] (803,220)<img  />
+			[153] (803,257)<yt-thumbnail-bottom-overlay-view-model  />
+				[154] (836,257)<div  />
+					[155] (836,255)<yt-thumbnail-badge-view-model  />
+						[156] (836,255)<badge-shape  />
+							[157] (836,255)<div >3:09 />
+	[158] (910,220)<div  />
+		[159] (910,212)<yt-lockup-metadata-view-model  />
+			[160] (893,212)<div  />
+				[161] (893,180)<h3  />
+					[162] (893,180)<a aria-label='아키캐드 그림 삽입 방법 3분 9초' class='ytLockupMetadataViewModelTitle' href='/watch?v=QvOLApzO0No' />
+						[163] (887,180)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>아키캐드 그림 삽입 방법 />
+				[164] (893,223)<div  />
+					[165] (893,224)<yt-content-metadata-view-model  />
+						[166] (893,203)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[167] (884,203)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>설계하는목수 CarpenterA />
+						[168] (893,224)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[169] (865,224)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 1회 />
+							[170] (882,224)<span >• />
+							[171] (895,224)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>40분 전 />
+						[172] (893,245)<div class='ytContentMetadataViewModelMetadataRow ytContentMetadataViewModelMetadataRowMetadataRowWrap' role='group' />
+							[173] (865,245)<div  />
+								[174] (865,245)<yt-badge-view-model  />
+									[175] (865,245)<badge-shape  />
+										[176] (865,245)<div >새 동영상 />
+			[177] (964,183)<div  />
+				[178] (964,183)<button-view-model  />
+					[179] (964,183)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[180] (964,183)<yt-touch-feedback-shape  />
+							[181] (964,183)<div  />
+[182] (864,328)<div  />
+	[183] (805,328)<a class='ytLockupViewModelContentImage' href='/watch?v=iD65h6SYG9Y' />
+		[184] (803,328)<yt-thumbnail-view-model  />
+			[185] (803,328)<div  />
+				[186] (803,328)<img  />
+			[187] (803,366)<yt-thumbnail-bottom-overlay-view-model  />
+				[188] (836,366)<div  />
+					[189] (836,363)<yt-thumbnail-badge-view-model  />
+						[190] (836,363)<badge-shape  />
+							[191] (836,363)<div >3:36 />
+	[192] (910,328)<div  />
+		[193] (910,321)<yt-lockup-metadata-view-model  />
+			[194] (910,321)<div  />
+				[195] (910,299)<h3  />
+					[196] (910,299)<a aria-label='＂여자 생기면 해지랬잖아~＂구교환 편 드는 고윤정 한마디에 ❌출입 금지❌ 풀어준 강말금ㅋㅋㅋ｜모.자.무.싸｜JTBC 260502 방송 3분 36초' class='ytLockupMetadataViewModelTitle' href='/watch?v=iD65h6SYG9Y' />
+						[197] (903,320)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>＂여자 생기면 해지랬잖아~＂구교환 편 드는 고윤정 한마디에 ❌출입 금지❌ 풀어준 강말금ㅋㅋㅋ｜모.자.무.싸｜JTBC 260502 방송 />
+				[198] (910,342)<div  />
+					[199] (910,343)<yt-content-metadata-view-model  />
+						[200] (910,332)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[201] (872,332)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>DRAMA Voyage />
+						[202] (910,353)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[203] (869,353)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 38만회 />
+							[204] (891,353)<span >• />
+							[205] (903,353)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>8일 전 />
+			[206] (964,291)<div  />
+				[207] (964,291)<button-view-model  />
+					[208] (964,291)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[209] (964,291)<yt-touch-feedback-shape  />
+							[210] (964,291)<div  />
+[211] (864,437)<div  />
+	[212] (805,437)<a class='ytLockupViewModelContentImage' href='/watch?v=IAjlqNJw68s&list=RDIAjlqNJw68s&start_radio=1&pp=oAcB' />
+		[213] (803,437)<yt-thumbnail-view-model  />
+			[214] (803,437)<div  />
+				[215] (803,437)<img  />
+			[216] (803,474)<yt-thumbnail-bottom-overlay-view-model  />
+				[217] (803,485)<div  />
+					[218] (803,485)<div  />
+				[219] (830,474)<div  />
+					[220] (830,472)<yt-thumbnail-badge-view-model  />
+						[221] (830,472)<badge-shape  />
+							[222] (821,472)<div  />
+								[223] (821,472)<span  />
+									[224] (821,472)<div  />
+							[225] (834,472)<div >11:48 />
+	[226] (910,437)<div  />
+		[227] (910,429)<yt-lockup-metadata-view-model  />
+			[228] (910,429)<div  />
+				[229] (910,408)<h3  />
+					[230] (910,408)<a aria-label='주님 계신 곳에 나가리 | 주 경외하는 것 | Awesome In This Place | 2025 Worship Conference | BORN ZEAL 11분 48초' class='ytLockupMetadataViewModelTitle' href='/watch?v=IAjlqNJw68s&list=RDIAjlqNJw68s&start_radio=1&pp=oAcB' />
+						[231] (902,429)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>주님 계신 곳에 나가리 | 주 경외하는 것 | Awesome In This Place | 2025 Worship Conference | BORN ZEAL />
+				[232] (910,450)<div  />
+					[233] (910,451)<yt-content-metadata-view-model  />
+						[234] (910,441)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[235] (897,441)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>아이자야씩스티원 Isaiah6tyOne />
+								[236] (939,441)<span  />
+									[237] (940,441)<span  />
+										[238] (940,441)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[239] (940,441)<span  />
+												[240] (940,441)<div  />
+						[241] (910,462)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[242] (869,462)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 21만회 />
+							[243] (891,462)<span >• />
+							[244] (905,462)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>7개월 전 />
+			[245] (964,399)<div  />
+				[246] (964,399)<button-view-model  />
+					[247] (964,399)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[248] (964,399)<yt-touch-feedback-shape  />
+							[249] (964,399)<div  />
+[250] (864,545)<div  />
+	[251] (805,545)<a class='ytLockupViewModelContentImage' href='/watch?v=4Opsp_GkniU' />
+		[252] (803,545)<yt-thumbnail-view-model  />
+			[253] (803,545)<div  />
+				[254] (803,545)<img  />
+			[255] (803,583)<yt-thumbnail-bottom-overlay-view-model  />
+				[256] (836,583)<div  />
+					[257] (836,580)<yt-thumbnail-badge-view-model  />
+						[258] (836,580)<badge-shape  />
+							[259] (836,580)<div >6:53 />
+	[260] (910,545)<div  />
+		[261] (910,538)<yt-lockup-metadata-view-model  />
+			[262] (910,538)<div  />
+				[263] (910,516)<h3  />
+					[264] (910,516)<a aria-label='클로드 미쳤습니다.. 클로드 코드가 챗GPT, 제미나이 꺾고 전세계 1위 AI가 된 충격적인 이유 (claude code 가 압도적 1등인 이유) 6분 53초' class='ytLockupMetadataViewModelTitle' href='/watch?v=4Opsp_GkniU' />
+						[265] (903,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>클로드 미쳤습니다.. 클로드 코드가 챗GPT, 제미나이 꺾고 전세계 1위 AI가 된 충격적인 이유 (claude code 가 압도적 1등인 이유) />
+				[266] (910,559)<div  />
+					[267] (910,560)<yt-content-metadata-view-model  />
+						[268] (910,549)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[269] (869,549)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>AI 설계자 이안 />
+						[270] (910,570)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[271] (868,570)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 1만회 />
+							[272] (888,570)<span >• />
+							[273] (901,570)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>11일 전 />
+			[274] (964,508)<div  />
+				[275] (964,508)<button-view-model  />
+					[276] (964,508)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[277] (964,508)<yt-touch-feedback-shape  />
+							[278] (964,508)<div  />
+[279] (864,654)<div  />
+	[280] (805,654)<a class='ytLockupViewModelContentImage' href='/watch?v=KnrdxmsZEqA' />
+		[281] (803,654)<yt-thumbnail-view-model  />
+			[282] (803,654)<div  />
+				[283] (803,654)<img  />
+			[284] (803,691)<yt-thumbnail-bottom-overlay-view-model  />
+				[285] (834,691)<div  />
+					[286] (834,689)<yt-thumbnail-badge-view-model  />
+						[287] (834,689)<badge-shape  />
+							[288] (834,689)<div >10:57 />
+	[289] (910,654)<div  />
+		[290] (910,646)<yt-lockup-metadata-view-model  />
+			[291] (910,646)<div  />
+				[292] (910,625)<h3  />
+					[293] (910,625)<a aria-label='Google's OFFICIAL Gemma 4 Coder Desktop App: This FREE & LOCAL App by Google is ACTUALLY CRAZY! 10분 57초' class='ytLockupMetadataViewModelTitle' href='/watch?v=KnrdxmsZEqA' />
+						[294] (903,646)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>Google's OFFICIAL Gemma 4 Coder Desktop App: This FREE & LOCAL App by Google is ACTUALLY CRAZY! />
+				[295] (910,667)<div  />
+					[296] (910,668)<yt-content-metadata-view-model  />
+						[297] (910,658)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[298] (872,658)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>AICodeKing />
+								[299] (888,658)<span  />
+									[300] (889,658)<span  />
+										[301] (889,658)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[302] (889,658)<span  />
+												[303] (889,658)<div  />
+						[304] (910,679)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[305] (870,679)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 3.4만회 />
+							[306] (893,679)<span >• />
+							[307] (906,679)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>10일 전 />
+			[308] (964,616)<div  />
+				[309] (964,616)<button-view-model  />
+					[310] (964,616)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[311] (964,616)<yt-touch-feedback-shape  />
+							[312] (964,616)<div  />
+[313] (864,768)<div  />
+	[314] (805,768)<a class='ytLockupViewModelContentImage' href='/watch?v=wCYCYfNNGUM' />
+		[315] (803,762)<yt-thumbnail-view-model  />
+			[316] (803,762)<div  />
+				[317] (803,762)<img  />
+			[318] (803,799)<yt-thumbnail-bottom-overlay-view-model  />
+				[319] (834,799)<div  />
+					[320] (834,797)<yt-thumbnail-badge-view-model  />
+						[321] (834,797)<badge-shape  />
+							[322] (834,797)<div >28:26 />
+	[323] (910,768)<div  />
+		[324] (910,768)<yt-lockup-metadata-view-model  />
+			[325] (910,768)<div  />
+				[326] (910,733)<h3  />
+					[327] (910,733)<a aria-label='구글 클라우드 부사장이 예측한, 2030년 AI로 달라질 충격적 미래ㅣ지식인초대석 EP.129 (모에 압둘라 부사장) 28분' class='ytLockupMetadataViewModelTitle' href='/watch?v=wCYCYfNNGUM' />
+						[328] (903,754)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>구글 클라우드 부사장이 예측한, 2030년 AI로 달라질 충격적 미래ㅣ지식인초대석 EP.129 (모에 압둘라 부사장) />
+				[329] (910,789)<div  />
+					[330] (910,790)<yt-content-metadata-view-model  />
+						[331] (910,766)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[332] (873,766)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>지식인사이드 />
+								[333] (890,766)<span  />
+									[334] (891,766)<span  />
+										[335] (891,766)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[336] (891,766)<span  />
+												[337] (891,766)<div  />
+						[338] (910,787)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[339] (869,787)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 36만회 />
+							[340] (891,787)<span >• />
+							[341] (904,787)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>12일 전 />
+						[342] (910,812)<div class='ytContentMetadataViewModelMetadataRow ytContentMetadataViewModelMetadataRowMetadataRowWrap' role='group' />
+							[343] (863,812)<div  />
+								[344] (863,808)<yt-badge-view-model  />
+									[345] (863,808)<badge-shape  />
+										[346] (857,808)<div  />
+											[347] (857,808)<span  />
+												[348] (857,808)<div  />
+										[349] (868,808)<div >더빙 />
+			[350] (964,725)<div  />
+				[351] (964,725)<button-view-model  />
+					[352] (964,725)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[353] (964,725)<yt-touch-feedback-shape  />
+							[354] (964,725)<div  />
+[355] (864,883)<div  />
+	[356] (805,883)<a class='ytLockupViewModelContentImage' href='/watch?v=4wZmRQcIDME&list=RD4wZmRQcIDME&start_radio=1&pp=oAcB' />
+		[357] (803,883)<yt-thumbnail-view-model  />
+			[358] (803,883)<div  />
+				[359] (803,883)<img  />
+			[360] (803,920)<yt-thumbnail-bottom-overlay-view-model  />
+				[361] (828,920)<div  />
+					[362] (828,918)<yt-thumbnail-badge-view-model  />
+						[363] (828,918)<badge-shape  />
+							[364] (816,918)<div  />
+								[365] (816,918)<span  />
+									[366] (816,918)<div  />
+							[367] (832,918)<div >1:03:17 />
+	[368] (910,883)<div  />
+		[369] (910,875)<yt-lockup-metadata-view-model  />
+			[370] (910,875)<div  />
+				[371] (910,854)<h3  />
+					[372] (910,854)<a aria-label='CALM - Soaking worship instrumental | Prayer and Devotional 1시간 3분' class='ytLockupMetadataViewModelTitle' href='/watch?v=4wZmRQcIDME&list=RD4wZmRQcIDME&start_radio=1&pp=oAcB' />
+						[373] (895,864)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>CALM - Soaking worship instrumental | Prayer and Devotional />
+				[374] (910,896)<div  />
+					[375] (910,897)<yt-content-metadata-view-model  />
+						[376] (910,887)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[377] (876,887)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>Central Record />
+								[378] (896,887)<span  />
+									[379] (897,887)<span  />
+										[380] (897,887)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[381] (897,887)<span  />
+												[382] (897,887)<div  />
+						[383] (910,908)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[384] (871,908)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 411만회 />
+							[385] (895,908)<span >• />
+							[386] (906,908)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1년 전 />
+			[387] (964,846)<div  />
+				[388] (964,846)<button-view-model  />
+					[389] (964,846)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[390] (964,846)<yt-touch-feedback-shape  />
+							[391] (964,846)<div  />
+[392] (864,991)<div  />
+	[393] (805,991)<a class='ytLockupViewModelContentImage' href='/watch?v=YwGUT6z0lQI&pp=ugUEEgJlbg%3D%3D' />
+		[394] (803,991)<yt-thumbnail-view-model  />
+			[395] (803,991)<div  />
+				[396] (803,991)<img  />
+	[397] (910,991)<div  />
+		[398] (910,984)<yt-lockup-metadata-view-model  />
+			[399] (910,984)<div  />
+				[400] (910,962)<h3  />
+					[401] (910,962)<a aria-label='Antigravity + Graphify: Free Tool Makes Google Antigravity 10x Smarter & Token-Efficient 9분 10초' class='ytLockupMetadataViewModelTitle' href='/watch?v=YwGUT6z0lQI&pp=ugUEEgJlbg%3D%3D' />
+						[402] (904,972)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>Antigravity + Graphify: Free Tool Makes Google Antigravity 10x Smarter & Token-Efficient />
+				[403] (910,995)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+					[404] (875,995)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>AI Stack Engineer />
+			[405] (964,954)<div  />
+				[406] (964,954)<button-view-model  />
+					[407] (964,954)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[408] (964,954)<yt-touch-feedback-shape  />
+							[409] (964,954)<div  />
+
+</current_dom>

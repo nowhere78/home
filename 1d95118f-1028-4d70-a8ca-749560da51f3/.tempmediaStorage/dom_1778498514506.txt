@@ -1,0 +1,159 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (71,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/thedalbee' />
+	[3] (71,34)<span >thedalbee />
+[4] (114,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/thedalbee/codex-r' />
+	[5] (114,34)<span >codex-r />
+[6] (759,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (759,34)<span  />
+		[8] (765,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (820,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (834,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (867,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (863,34)<span  />
+[13] (892,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (913,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (934,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (955,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (976,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (976,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (214,139)<a class='d-block overflow-x-hidden color-fg-default' href='/thedalbee/codex-r'>codex-r />
+Public
+Watch
+[44] (695,138)<a class='btn-sm btn BtnGroup-item' href='/thedalbee/codex-r/fork' id='fork-button'>Fork />
+	[45] (710,138)<span >0 />
+[46] (730,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1226579873' />
+	[47] (730,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[48] (769,138)<button aria-label='Star this repository (4)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[49] (770,138)<span >Star />
+	[50] (783,138)<span >4 />
+[51] (804,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1226579873-unstarred-button' />
+thedalbee/codex-r
+[52] (207,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[53] (207,215)<span  />
+		[54] (201,215)<span  />
+			[55] (201,215)<div  />
+				[56] (190,215)<div  />
+				[57] (206,215)<div  />
+					[58] (206,215)<span >main />
+[59] (262,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/thedalbee/codex-r/branches' />
+	[60] (262,215)<span  />
+		[61] (269,215)<span >Branches />
+[62] (302,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/thedalbee/codex-r/tags' />
+	[63] (302,215)<span  />
+		[64] (308,215)<span >Tags />
+Add file
+[65] (565,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[66] (565,215)<span  />
+		[67] (565,215)<span  />
+			[68] (565,215)<span >Add file />
+[69] (622,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[70] (622,215)<span  />
+		[71] (622,215)<span >Code />
+Folders and files
+Latest commit
+History
+[72] (618,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/thedalbee/codex-r/commits/main/' />
+	[73] (618,277)<span  />
+		[74] (624,277)<span  />
+			[75] (624,276)<span >5 Commits />
+[76] (211,327)<a aria-label='assets, (Directory)' class='Link--primary' href='/thedalbee/codex-r/tree/main/assets' title='assets'>assets />
+[77] (209,370)<a aria-label='docs, (Directory)' class='Link--primary' href='/thedalbee/codex-r/tree/main/docs' title='docs'>docs />
+[78] (215,414)<a aria-label='LICENSE, (File)' class='Link--primary' href='/thedalbee/codex-r/blob/main/LICENSE' title='LICENSE'>LICENSE />
+[79] (222,457)<a aria-label='README.md, (File)' class='Link--primary' href='/thedalbee/codex-r/blob/main/README.md' title='README.md'>README.md />
+[80] (216,501)<a aria-label='SKILL.md, (File)' class='Link--primary' href='/thedalbee/codex-r/blob/main/SKILL.md' title='SKILL.md'>SKILL.md />
+Repository files navigation
+[81] (209,566)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[82] (192,566)<span  />
+	[83] (215,566)<span >README />
+[84] (267,566)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[85] (246,566)<span  />
+	[86] (273,566)<span >MIT license />
+[87] (616,566)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[88] (637,566)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+CODEX-R
+[89] (189,647)<a aria-label='Permalink: CODEX-R' class='anchor' href='#codex-r' id='user-content-codex-r' />
+CODEX-R gives Codex the
+claude -r
+workflow: pick a Claude Code session, import it into Codex, and jump straight into the imported Codex session.
+codex -r
+[90] (622,829)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+It exists because Codex added external agent session import, but the first usable path can be hard to trigger. The startup prompt depends on the
+external_migration
+feature flag and the trust onboarding flow. In projects that are already trusted, you may never see the prompt. Large
+~/.claude/projects
+folders can also make home-wide detection slow.
+If you move between Claude Code and OpenAI Codex, CODEX-R turns session migration into a picker instead of a scavenger hunt.
+About
+CODEX-R: codex -r for Claude Code sessions
+Topics
+[91] (690,321)<a class='topic-tag topic-tag-link' href='/topics/ai-agents' title='Topic: ai-agents'>ai-agents />
+[92] (737,321)<a class='topic-tag topic-tag-link' href='/topics/openai-codex' title='Topic: openai-codex'>openai-codex />
+[93] (787,321)<a class='topic-tag topic-tag-link' href='/topics/claude-code' title='Topic: claude-code'>claude-code />
+[94] (690,350)<a class='topic-tag topic-tag-link' href='/topics/codex-cli' title='Topic: codex-cli'>codex-cli />
+[95] (732,350)<a class='topic-tag topic-tag-link' href='/topics/codex-skill' title='Topic: codex-skill'>codex-skill />
+[96] (702,380)<a class='topic-tag topic-tag-link' href='/topics/session-migration' title='Topic: session-migration'>session-migration />
+Resources
+[97] (691,425)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[98] (696,456)<a class='Link--muted' href='#MIT-1-ov-file'>MIT license />
+[99] (690,486)<a class='Link Link--muted' href='/thedalbee/codex-r/activity' />
+	[100] (697,486)<span >Activity />
+Stars
+[101] (689,517)<a class='Link Link--muted' href='/thedalbee/codex-r/stargazers'>stars />
+	[102] (688,517)<strong >4 />
+Watchers
+[103] (696,548)<a class='Link Link--muted' href='/thedalbee/codex-r/watchers'>watching />
+	[104] (688,548)<strong >0 />
+Forks
+[105] (689,578)<a class='Link Link--muted' href='/thedalbee/codex-r/forks'>forks />
+	[106] (688,578)<strong >0 />
+[107] (699,609)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fthedalbee%2Fcodex-r&report=thedalbee+%28user%29'>Report repository />
+[108] (694,667)<a class='Link--primary no-underline Link' href='/thedalbee/codex-r/releases'>Releases />
+	[109] (711,669)<span >2 />
+[110] (742,718)<a class='Link--primary d-flex no-underline' href='/thedalbee/codex-r/releases/tag/v0.1.1' />
+	[111] (723,718)<div  />
+		[112] (723,708)<div  />
+			[113] (709,708)<span >Crossfade v0.1.1 />
+			[114] (751,708)<span >Latest />
+		[115] (723,729)<div  />
+			[116] (696,729)<relative-time  />
+[117] (689,767)<a class='Link' href='/thedalbee/codex-r/releases'>+ 1 release />
+[118] (742,825)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/thedalbee/packages?repo_name=codex-r'>Packages />
+[119] (742,995)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/thedalbee/codex-r/graphs/contributors'>Contributors />
+
+</current_dom>

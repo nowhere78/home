@@ -1,0 +1,313 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (74,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin' />
+	[3] (74,34)<span >nico-martin />
+[4] (153,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin/gemma4-browser-extension' />
+	[5] (153,34)<span >gemma4-browser-extension />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (96,80)<span >(
+5
+) />
+		[26] (96,80)<span >5 />
+		(
+		5
+		)
+[27] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulls' />
+	[28] (118,80)<span  />
+	[29] (148,80)<span >Pull requests />
+	[30] (179,80)<span >(
+5
+) />
+		[31] (179,80)<span >5 />
+		(
+		5
+		)
+[32] (214,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/agents?author=nowhere78' />
+	[33] (201,80)<span  />
+	[34] (221,80)<span >Agents />
+[35] (263,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/actions' />
+	[36] (249,80)<span  />
+	[37] (270,80)<span >Actions />
+[38] (314,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/projects' />
+	[39] (298,80)<span  />
+	[40] (320,80)<span >Projects />
+[41] (385,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/security' />
+	[42] (350,80)<span  />
+	[43] (391,80)<span >Security and quality />
+[44] (455,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulse' />
+	[45] (440,80)<span  />
+	[46] (462,80)<span >Insights />
+[47] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[48] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[49] (65,190)<span  />
+		[50] (58,190)<span  />
+			[51] (58,190)<div  />
+				[52] (19,190)<div  />
+				[53] (35,190)<div  />
+					[54] (35,190)<span >main />
+[55] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/nico-martin/gemma4-browser-extension/new/main/src/background' />
+[56] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[57] (83,233)<span  />
+	[58] (17,233)<span  />
+	[59] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[60] (148,233)<span  />
+		[61] (148,233)<kbd  />
+			[62] (148,233)<span >t />
+				t
+				[63] (148,233)<span >T />
+[64] (79,607)<div  />
+	[65] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='public-item' role='treeitem' />
+		[66] (79,279)<div  />
+			[67] (13,279)<div  />
+			[68] (84,279)<div  />
+				[69] (25,279)<div  />
+					[70] (25,279)<div  />
+				[71] (90,279)<span  />
+					[72] (43,279)<span >public />
+	[73] (79,467)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[74] (79,314)<div  />
+			[75] (13,314)<div  />
+			[76] (84,314)<div  />
+				[77] (25,313)<div  />
+					[78] (25,313)<div  />
+				[79] (90,314)<span  />
+					[80] (38,314)<span >src />
+		[81] (79,433)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background-item' role='treeitem' />
+			[82] (79,348)<div  />
+				[83] (10,348)<div  />
+					[84] (10,348)<div  />
+						[85] (10,348)<div  />
+				[86] (17,348)<div  />
+				[87] (86,348)<div  />
+					[88] (29,347)<div  />
+						[89] (29,347)<div  />
+					[90] (92,348)<span  />
+						[91] (57,348)<span >background />
+			[92] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/agent-item' role='treeitem' />
+				[93] (79,382)<div  />
+					[94] (13,382)<div  />
+						[95] (13,382)<div  />
+							[96] (10,382)<div  />
+							[97] (15,382)<div  />
+					[98] (21,382)<div  />
+					[99] (88,382)<div  />
+						[100] (33,382)<div  />
+							[101] (33,382)<div  />
+						[102] (94,382)<span  />
+							[103] (51,382)<span >agent />
+			[104] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/tools-item' role='treeitem' />
+				[105] (79,416)<div  />
+					[106] (13,416)<div  />
+						[107] (13,416)<div  />
+							[108] (10,416)<div  />
+							[109] (15,416)<div  />
+					[110] (21,416)<div  />
+					[111] (88,416)<div  />
+						[112] (33,416)<div  />
+							[113] (33,416)<div  />
+						[114] (94,416)<span  />
+							[115] (50,416)<span >tools />
+			[116] (79,450)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/utils-item' role='treeitem' />
+				[117] (79,450)<div  />
+					[118] (13,450)<div  />
+						[119] (13,450)<div  />
+							[120] (10,450)<div  />
+							[121] (15,450)<div  />
+					[122] (21,450)<div  />
+					[123] (88,450)<div  />
+						[124] (33,450)<div  />
+							[125] (33,450)<div  />
+						[126] (94,450)<span  />
+							[127] (48,450)<span >utils />
+			[128] (79,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/vectorHistory-item' role='treeitem' />
+				[129] (79,484)<div  />
+					[130] (13,484)<div  />
+						[131] (13,484)<div  />
+							[132] (10,484)<div  />
+							[133] (15,484)<div  />
+					[134] (21,484)<div  />
+					[135] (88,484)<div  />
+						[136] (33,484)<div  />
+							[137] (33,484)<div  />
+						[138] (94,484)<span  />
+							[139] (63,484)<span >vectorHistory />
+			[140] (79,518)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/background/background.ts-item' role='treeitem' />
+				[141] (79,518)<div  />
+					[142] (13,518)<div  />
+						[143] (13,518)<div  />
+							[144] (10,518)<div  />
+							[145] (15,518)<div  />
+					[146] (88,518)<div  />
+						[147] (33,518)<div  />
+						[148] (94,518)<span  />
+							[149] (65,518)<span >background.ts />
+		[150] (79,552)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/content-item' role='treeitem' />
+			[151] (79,552)<div  />
+				[152] (10,552)<div  />
+					[153] (10,552)<div  />
+						[154] (10,552)<div  />
+				[155] (17,552)<div  />
+				[156] (86,552)<div  />
+					[157] (29,552)<div  />
+						[158] (29,552)<div  />
+					[159] (92,552)<span  />
+						[160] (50,552)<span >content />
+		[161] (79,586)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/shared-item' role='treeitem' />
+			[162] (79,586)<div  />
+				[163] (10,586)<div  />
+					[164] (10,586)<div  />
+						[165] (10,586)<div  />
+				[166] (17,586)<div  />
+				[167] (86,586)<div  />
+					[168] (29,586)<div  />
+						[169] (29,586)<div  />
+					[170] (92,586)<span  />
+						[171] (48,586)<span >shared />
+		[172] (79,620)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/sidebar-item' role='treeitem' />
+			[173] (79,620)<div  />
+				[174] (10,620)<div  />
+					[175] (10,620)<div  />
+						[176] (10,620)<div  />
+				[177] (17,620)<div  />
+				[178] (86,620)<div  />
+					[179] (29,620)<div  />
+						[180] (29,620)<div  />
+					[181] (92,620)<span  />
+						[182] (49,620)<span >sidebar />
+	[183] (79,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.env-item' role='treeitem' />
+		[184] (79,654)<div  />
+			[185] (84,654)<div  />
+				[186] (25,654)<div  />
+				[187] (90,654)<span  />
+					[188] (40,654)<span >.env />
+	[189] (79,688)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[190] (79,688)<div  />
+			[191] (84,688)<div  />
+				[192] (25,688)<div  />
+				[193] (90,688)<span  />
+					[194] (49,688)<span >.gitignore />
+	[195] (79,722)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.prettierignore-item' role='treeitem' />
+		[196] (79,722)<div  />
+			[197] (84,722)<div  />
+				[198] (25,722)<div  />
+				[199] (90,722)<span  />
+					[200] (56,722)<span >.prettierignore />
+	[201] (79,756)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[202] (79,756)<div  />
+			[203] (84,756)<div  />
+				[204] (25,756)<div  />
+				[205] (90,756)<span  />
+					[206] (53,756)<span >README.md />
+	[207] (79,790)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='eslint.config.js-item' role='treeitem' />
+		[208] (79,790)<div  />
+			[209] (84,790)<div  />
+				[210] (25,790)<div  />
+				[211] (90,790)<span  />
+					[212] (56,790)<span >eslint.config.js />
+	[213] (79,824)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[214] (79,824)<div  />
+			[215] (84,824)<div  />
+				[216] (25,824)<div  />
+				[217] (90,824)<span  />
+					[218] (54,824)<span >package.json />
+	[219] (79,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pnpm-lock.yaml-item' role='treeitem' />
+		[220] (79,858)<div  />
+			[221] (84,858)<div  />
+				[222] (25,858)<div  />
+				[223] (90,858)<span  />
+					[224] (59,858)<span >pnpm-lock.yaml />
+	[225] (79,893)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.json-item' role='treeitem' />
+		[226] (79,893)<div  />
+			[227] (84,893)<div  />
+				[228] (25,892)<div  />
+				[229] (90,893)<span  />
+					[230] (54,893)<span >tsconfig.json />
+	[231] (79,927)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='vite.config.ts-item' role='treeitem' />
+		[232] (79,927)<div  />
+			[233] (84,927)<div  />
+				[234] (25,927)<div  />
+				[235] (90,927)<span  />
+					[236] (54,927)<span >vite.config.ts />
+[237] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[238] (229,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main'>gemma4-browser-extension />
+/
+[239] (299,139)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main/src'>src />
+/
+background
+/
+[240] (384,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+Add file
+[241] (947,140)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_r_2q_' />
+	[242] (947,140)<span  />
+		[243] (947,140)<span  />
+			[244] (947,140)<span >Add file />
+More options
+[245] (983,140)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_r_2v_' title='More options' />
+Latest commit
+[246] (190,198)<a class='prc-Link-Link-9ZwDx' href='/nico-martin' />
+	[247] (188,199)<img  />
+[248] (217,198)<a aria-label='commits by nico-martin' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commits?author=nico-martin'>nico-martin />
+[249] (280,198)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e'>fixed chat template issue />
+[250] (892,198)<a aria-label='Commit 92c6eb9' class='Link--secondary prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e'>92c6eb9 />
+·
+History
+[251] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/nico-martin/gemma4-browser-extension/commits/main/src/background' />
+	[252] (967,198)<span  />
+		[253] (972,198)<span  />
+			[254] (972,197)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[255] (584,304)<tr  />
+	parent directory
+	[256] (584,304)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/tree/main/src' />
+		[257] (584,304)<div >.. />
+[258] (584,347)<tr  />
+	[259] (207,347)<a aria-label='agent, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/src/background/agent' title='agent'>agent />
+	[260] (550,347)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e' title='fixed chat template issue'>fixed chat template issue />
+[261] (584,390)<tr  />
+	[262] (206,390)<a aria-label='tools, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/src/background/tools' title='tools'>tools />
+	[263] (550,390)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e' title='fixed chat template issue'>fixed chat template issue />
+[264] (584,433)<tr  />
+	[265] (205,434)<a aria-label='utils, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/src/background/utils' title='utils'>utils />
+	[266] (561,434)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/e02b27675721a78601075c6f4b26ac42a081c3cc' title='updated to Transformers.js v4.1'>updated to Transformers.js v4.1 />
+[267] (584,477)<tr  />
+	[268] (219,477)<a aria-label='vectorHistory, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/src/background/vectorHistory' title='vectorHistory'>vectorHistory />
+	[269] (543,477)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/034a1c2feb2fb1397890dfd9479aab4410732ed6' title='added VectorHistory'>added VectorHistory />
+[270] (584,520)<tr  />
+	[271] (221,521)<a aria-label='background.ts, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/src/background/background.ts' title='background.ts'>background.ts />
+	[272] (561,521)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/e02b27675721a78601075c6f4b26ac42a081c3cc' title='updated to Transformers.js v4.1'>updated to Transformers.js v4.1 />
+
+</current_dom>

@@ -1,0 +1,87 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+A
+Alpha
+Omega Station
+[0] (75,151)<a href='/' />
+	[1] (75,151)<div  />
+		[2] (29,151)<span >🏠 />
+		[3] (59,151)<span >메인 대시보드 />
+		[4] (127,151)<div  />
+[5] (75,207)<a href='/web-agent' />
+	[6] (75,207)<div  />
+		[7] (28,207)<span >🌐 />
+		[8] (56,207)<span >웹 에이전트 />
+[9] (75,262)<a href='/knowledge' />
+	[10] (75,262)<div  />
+		[11] (28,262)<span >🧠 />
+		[12] (62,262)<span >지식 라이브러리 />
+[13] (75,317)<a href='/automation' />
+	[14] (75,317)<div  />
+		[15] (28,317)<span >⚡ />
+		[16] (56,317)<span >자동화 설정 />
+에이전트 군단
+[17] (75,448)<a href='/agent/luna' />
+	[18] (75,448)<div  />
+		[19] (28,448)<span >👸 />
+		[20] (54,448)<span >CEO 루나 />
+[21] (75,503)<a href='/agent/researcher' />
+	[22] (75,503)<div  />
+		[23] (28,503)<span >🔍 />
+		[24] (50,503)<span >리서처 />
+[25] (75,558)<a href='/agent/designer' />
+	[26] (75,558)<div  />
+		[27] (28,558)<span >🎨 />
+		[28] (53,558)<span >디자이너 />
+Engine Status
+Gemma 4
+STABLE
+[29] (401,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[30] (656,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[31] (685,42)<div  />
+Control Center
+반가워요, CEO님. 알파 시스템이 최적의 상태로 구동 중입니다.
+System Heartbeat
+에이전트 점유율
+84%
+Gemma 4 최적화 모드
+오늘의 처리량
+1,240
++23% vs 어제
+지식 노드
+1.7k
+실시간 동기화 완료
+빠른 실행 통로
+[32] (321,511)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://studio.youtube.com' />
+	[33] (321,496)<div >📽️ />
+	[34] (321,536)<span >YOUTUBE />
+[35] (422,511)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://partners.coupang.com' />
+	[36] (422,496)<div >🛍️ />
+	[37] (422,536)<span >COUPANG />
+[38] (523,511)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://www.notion.so' />
+	[39] (523,496)<div >📓 />
+	[40] (523,536)<span >NOTION />
+[41] (623,511)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://github.com' />
+	[42] (623,496)<div >📂 />
+	[43] (623,536)<span >GITHUB />
+현재 집중 전략 미션
+👸
+CEO 루나의 전략 지시
+HIGH PRIORITY
+"우리는 현재 알파 튜브 콘텐츠 파이프라인을 확장 중입니다. 리서처가 향후 24시간 동안의 바이럴 트렌드를 스캔하고 있습니다."
+최근 지능 정보 피드
+시장 트렌드: Gemma 4
+10분 전
+로컬 브라우저 AI 에이전트가 1인 기업의 표준으로 자리 잡고 있습니다.
+경쟁사 분석 리포트
+2시간 전
+알파 스웜이 얼굴 없는 쇼츠 분야에서 새로운 전략을 감지했습니다.
+시스템 대청소 완료
+8시간 전
+10,000개 이상의 파일을 저장소로 안전하게 이전했습니다.
+[44] (781,796)<a class='block w-full mt-6' href='/knowledge' />
+	[45] (781,796)<button class='w-full py-4 bg-transparent hover:bg-[#d4ff00] text-gray-400 hover:text-black font-bold rounded-2xl text-[10px] tracking-[0.2em] uppercase transition-all border border-[#2a2a2a] hover:border-[#d4ff00]'>VIEW ALL KNOWLEDGE />
+
+</current_dom>

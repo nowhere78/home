@@ -1,0 +1,213 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (74,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin' />
+	[3] (74,34)<span >nico-martin />
+[4] (153,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/nico-martin/gemma4-browser-extension' />
+	[5] (153,34)<span >gemma4-browser-extension />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (78,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+	[25] (96,80)<span >(
+5
+) />
+		[26] (96,80)<span >5 />
+		(
+		5
+		)
+[27] (149,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulls' />
+	[28] (118,80)<span  />
+	[29] (148,80)<span >Pull requests />
+	[30] (179,80)<span >(
+5
+) />
+		[31] (179,80)<span >5 />
+		(
+		5
+		)
+[32] (214,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/agents?author=nowhere78' />
+	[33] (201,80)<span  />
+	[34] (221,80)<span >Agents />
+[35] (263,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/actions' />
+	[36] (249,80)<span  />
+	[37] (270,80)<span >Actions />
+[38] (314,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/projects' />
+	[39] (298,80)<span  />
+	[40] (320,80)<span >Projects />
+[41] (385,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/security' />
+	[42] (350,80)<span  />
+	[43] (391,80)<span >Security and quality />
+[44] (455,80)<a class='prc-components-UnderlineItem-7fP-n' href='/nico-martin/gemma4-browser-extension/pulse' />
+	[45] (440,80)<span  />
+	[46] (462,80)<span >Insights />
+[47] (267,139)<a class='d-block overflow-x-hidden color-fg-default' href='/nico-martin/gemma4-browser-extension'>gemma4-browser-extension />
+Public
+[48] (632,138)<div  />
+	[49] (632,138)<button aria-label='Watch: Participating in nico-martin/gemma4-browser-extension' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_c_' />
+		[50] (628,138)<span  />
+			[51] (627,138)<span >Watch />
+			7
+			(
+			7
+			)
+[52] (694,138)<a class='btn-sm btn BtnGroup-item' href='/nico-martin/gemma4-browser-extension/fork' id='fork-button'>Fork />
+	[53] (708,138)<span >165 />
+[54] (732,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-1095803021' />
+	[55] (732,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[56] (772,138)<button aria-label='Star this repository (1014)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[57] (771,138)<span >Star />
+	[58] (786,138)<span >1k />
+[59] (808,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1095803021-unstarred-button' />
+nico-martin/gemma4-browser-extension
+[60] (211,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[61] (211,215)<span  />
+		[62] (205,215)<span  />
+			[63] (205,215)<div  />
+				[64] (194,215)<div  />
+				[65] (210,215)<div  />
+					[66] (210,215)<span >main />
+[67] (269,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/nico-martin/gemma4-browser-extension/branches' />
+	[68] (269,215)<span  />
+		[69] (275,215)<span  />
+			[70] (275,215)<span >Branches />
+				[71] (261,215)<strong >2 />
+[72] (315,215)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/nico-martin/gemma4-browser-extension/tags' />
+	[73] (315,215)<span  />
+		[74] (321,215)<span  />
+			[75] (321,215)<span >Tags />
+				[76] (314,215)<strong >0 />
+[77] (481,215)<span  />
+	[78] (430,215)<span  />
+	[79] (480,215)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[80] (530,215)<span  />
+		[81] (530,215)<kbd  />
+			[82] (530,215)<span >t />
+				t
+				[83] (530,215)<span >T />
+Add file
+[84] (569,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[85] (569,215)<span  />
+		[86] (569,215)<span  />
+			[87] (569,215)<span >Add file />
+[88] (626,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[89] (626,215)<span  />
+		[90] (626,215)<span >Code />
+Folders and files
+Latest commit
+[91] (198,277)<a class='prc-Link-Link-9ZwDx' href='/nico-martin' />
+	[92] (196,278)<img  />
+[93] (225,277)<a aria-label='commits by nico-martin' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commits?author=nico-martin'>nico-martin />
+[94] (278,277)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/524cee4a1b783d20792a63d6b109ae4092f1d32a'>rebuild pnpm-lock />
+[95] (539,277)<a aria-label='Commit 524cee4' class='Link--secondary prc-Link-Link-9ZwDx' href='/nico-martin/gemma4-browser-extension/commit/524cee4a1b783d20792a63d6b109ae4092f1d32a'>524cee4 />
+·
+History
+[96] (621,277)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/nico-martin/gemma4-browser-extension/commits/main/' />
+	[97] (621,277)<span  />
+		[98] (626,277)<span  />
+			[99] (626,276)<span >33 Commits />
+[100] (419,326)<tr  />
+	[101] (216,327)<a aria-label='public, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/public' title='public'>public />
+	[102] (420,327)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e' title='fixed chat template issue'>fixed chat template issue />
+[103] (419,370)<tr  />
+	[104] (210,370)<a aria-label='src, (Directory)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/tree/main/src' title='src'>src />
+	[105] (420,370)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/92c6eb932f8bd2cea96985b4ff8253206adc888e' title='fixed chat template issue'>fixed chat template issue />
+[106] (419,413)<tr  />
+	[107] (212,414)<a aria-label='.env, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/.env' title='.env'>.env />
+	[108] (429,414)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/610712c488868bb5fd154a1ae4930402437d6b36' title='added XMLHttpRequestPolyfill'>added XMLHttpRequestPolyfill />
+[109] (419,457)<tr  />
+	[110] (221,457)<a aria-label='.gitignore, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[111] (415,457)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/a53ac9ab2d3642803ccd8af5cbdb2a0600d70899' title='changed to gemma-4'>changed to gemma-4 />
+[112] (419,500)<tr  />
+	[113] (229,501)<a aria-label='.prettierignore, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/.prettierignore' title='.prettierignore'>.prettierignore />
+	[114] (399,501)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/c435621433e31c29d019416e7de96114ac29294d' title='first commit'>first commit />
+[115] (419,543)<tr  />
+	[116] (226,544)<a aria-label='README.md, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/README.md' title='README.md'>README.md />
+	[117] (395,544)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/b873bc49cd2e4940aa83859aabc77bd0ec6deb60' title='fixed title'>fixed title />
+[118] (419,587)<tr  />
+	[119] (228,587)<a aria-label='eslint.config.js, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/eslint.config.js' title='eslint.config.js'>eslint.config.js />
+	[120] (399,587)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/c435621433e31c29d019416e7de96114ac29294d' title='first commit'>first commit />
+[121] (419,630)<tr  />
+	[122] (227,631)<a aria-label='package.json, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/package.json' title='package.json'>package.json />
+	[123] (453,631)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/d6aacf0ff691226e1675d6203a6e6645bef6fa26' title='using @huggingface/transformers 4.2.0 again'>using @huggingface/transformers 4.2.0 again />
+[124] (419,674)<tr  />
+	[125] (232,674)<a aria-label='pnpm-lock.yaml, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/pnpm-lock.yaml' title='pnpm-lock.yaml'>pnpm-lock.yaml />
+	[126] (410,674)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/524cee4a1b783d20792a63d6b109ae4092f1d32a' title='rebuild pnpm-lock'>rebuild pnpm-lock />
+[127] (419,717)<tr  />
+	[128] (226,717)<a aria-label='tsconfig.json, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/tsconfig.json' title='tsconfig.json'>tsconfig.json />
+	[129] (399,717)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/c435621433e31c29d019416e7de96114ac29294d' title='first commit'>first commit />
+[130] (419,760)<tr  />
+	[131] (226,761)<a aria-label='vite.config.ts, (File)' class='Link--primary' href='/nico-martin/gemma4-browser-extension/blob/main/vite.config.ts' title='vite.config.ts'>vite.config.ts />
+	[132] (419,761)<a class='Link--secondary' href='/nico-martin/gemma4-browser-extension/commit/e1034cb88a54046704e1a91e003daf5a0040a9c9' title='added ask_website tools'>added ask_website tools />
+Repository files navigation
+[133] (213,826)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[134] (196,826)<span  />
+	[135] (219,826)<span >README />
+[136] (620,826)<button class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__editButton__NMrlF prc-Button-IconButton-fyge7' />
+[137] (641,826)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+Transformers.js Gemma 4 Browser Assistant
+[138] (193,907)<a aria-label='Permalink: Transformers.js Gemma 4 Browser Assistant' class='anchor' href='#transformersjs-gemma-4-browser-assistant' id='user-content-transformersjs-gemma-4-browser-assistant' />
+About this extension
+[139] (193,980)<a aria-label='Permalink: About this extension' class='anchor' href='#about-this-extension' id='user-content-about-this-extension' />
+About
+On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
+Resources
+[140] (695,344)<a class='Link--muted' href='#readme-ov-file'>Readme />
+[141] (694,375)<a class='Link Link--muted' href='/nico-martin/gemma4-browser-extension/activity' />
+	[142] (701,375)<span >Activity />
+Stars
+[143] (694,406)<a class='Link Link--muted' href='/nico-martin/gemma4-browser-extension/stargazers'>stars />
+	[144] (693,406)<strong >1k />
+Watchers
+[145] (700,437)<a class='Link Link--muted' href='/nico-martin/gemma4-browser-extension/watchers'>watching />
+	[146] (691,437)<strong >7 />
+Forks
+[147] (697,467)<a class='Link Link--muted' href='/nico-martin/gemma4-browser-extension/forks'>forks />
+	[148] (695,467)<strong >165 />
+[149] (703,498)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fnico-martin%2Fgemma4-browser-extension&report=nico-martin+%28user%29'>Report repository />
+[150] (691,556)<a class='Link--primary no-underline Link' href='/nico-martin/gemma4-browser-extension/releases'>Releases />
+No releases published
+[151] (746,653)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/nico-martin/packages?repo_name=gemma4-browser-extension'>Packages />
+No packages published
+[152] (746,749)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/nico-martin/gemma4-browser-extension/graphs/contributors'>Contributors />
+	[153] (730,749)<span >1 />
+[154] (683,796)<a class='mr-2' href='https://github.com/nico-martin' />
+	[155] (683,796)<img  />
+[156] (735,796)<a class='Link--primary no-underline flex-self-center' href='https://github.com/nico-martin' />
+	[157] (715,796)<strong >nico-martin />
+	[158] (756,796)<span >Nico Martin />
+Languages
+[159] (705,925)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nico-martin/gemma4-browser-extension/search?l=typescript' />
+	[160] (702,925)<span >TypeScript />
+	[161] (728,925)<span >97.7% />
+[162] (765,925)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/nico-martin/gemma4-browser-extension/search?l=css' />
+	[163] (764,925)<span >CSS />
+	[164] (778,925)<span >1.1% />
+Other
+1.2%
+
+</current_dom>

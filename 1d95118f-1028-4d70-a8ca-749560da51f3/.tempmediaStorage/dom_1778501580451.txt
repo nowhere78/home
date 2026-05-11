@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+1
+/
+1
+Next.js 16.2.6
+Turbopack
+Build Error
+[0] (701,181)<button aria-label='Copy Error Info' class='copy-error-button nextjs-data-copy-button nextjs-data-copy-button--initial' title='Copy Error Info' />
+[1] (736,181)<button class='nodejs-inspector-button' title='Attach Node.js inspector' />
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+./src/app/page.tsx (46:96)
+[2] (730,276)<button aria-label='Open in editor' />
+	[3] (730,276)<span  />
+Unexpected
+token.
+Did
+you
+mean
+`{'>'}`
+or
+`&gt;`?
+44
+|
+...
+p-2
+mb-6"
+>
+45
+|
+...
+ff00]/10
+text-[#d4ff00]
+text-[10px]
+font-black
+rounded-md
+tracking-widest"
+>
+CHAPTER
+01
+</...
+>
+46
+|
+...
+t-[10px]
+font-bold
+uppercase"
+>
+Intelligence
+>
+Automation
+</span>
+|
+^
+47
+|
+...
+48
+|
+...
+xt-white
+mb-4
+leading-tight"
+>
+"무지성
+자동화를
+멈추고,
+<br
+/><span
+className="
+text-[#d4f...
+49
+|
+...
+Parsing
+ecmascript
+source
+code
+failed
+1
+2
+[4] (35,960)<div  />
+	[5] (35,960)<div  />
+		[6] (35,960)<div  />
+			[7] (20,960)<button aria-label='Open Next.js Dev Tools' id='next-logo' />
+			[8] (44,960)<div  />
+				[9] (44,960)<button aria-label='Open issues overlay' />
+					[10] (35,960)<div  />
+						[11] (35,960)<div >1 />
+					[12] (47,960)<div >Issue />
+
+</current_dom>

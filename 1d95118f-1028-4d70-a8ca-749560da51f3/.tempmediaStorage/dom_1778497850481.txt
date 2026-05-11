@@ -1,0 +1,85 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+A
+Alpha Omega
+[0] (66,120)<a href='/' />
+	[1] (66,120)<div  />
+		[2] (22,120)<span >🏠 />
+		[3] (55,120)<span >메인 대시보드 />
+		[4] (116,120)<div  />
+[5] (66,171)<a href='/web-agent' />
+	[6] (66,171)<div  />
+		[7] (21,171)<span >🌐 />
+		[8] (51,171)<span >웹 에이전트 />
+[9] (66,222)<a href='/knowledge' />
+	[10] (66,222)<div  />
+		[11] (21,222)<span >🧠 />
+		[12] (58,222)<span >지식 라이브러리 />
+[13] (66,273)<a href='/automation' />
+	[14] (66,273)<div  />
+		[15] (21,273)<span >⚡ />
+		[16] (51,273)<span >자동화 설정 />
+에이전트 군단
+[17] (66,392)<a href='/agent/luna' />
+	[18] (66,392)<div  />
+		[19] (21,392)<span >👸 />
+		[20] (48,392)<span >CEO 루나 />
+[21] (66,442)<a href='/agent/researcher' />
+	[22] (66,442)<div  />
+		[23] (21,442)<span >🔍 />
+		[24] (44,442)<span >리서처 />
+[25] (66,493)<a href='/agent/designer' />
+	[26] (66,493)<div  />
+		[27] (21,493)<span >🎨 />
+		[28] (47,493)<span >디자이너 />
+엔진 상태
+Gemma 4 가동 중
+[29] (384,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[30] (640,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[31] (668,42)<div  />
+반가워요, CEO님
+알파 스웜이 최상의 컨디션으로 가동 중입니다. 1,743개의 핵심 지식이 동기화되었습니다.
+활성 에이전트
+8
+모든 시스템 정상
+업무 파이프라인
+24
+6개의 항목 검토 대기 중
+지식 IQ
+1,743
+오늘 +12개 추가됨
+⚡
+빠른 실행 (Quick Launch)
+[32] (313,515)<div  />
+	[33] (313,501)<div >📽️ />
+	[34] (313,541)<span >유튜브 스튜디오 />
+[35] (414,515)<div  />
+	[36] (414,501)<div >🛍️ />
+	[37] (414,541)<span >쿠팡 파트너스 />
+[38] (514,515)<div  />
+	[39] (514,501)<div >📓 />
+	[40] (514,541)<span >노션 본부 />
+[41] (615,515)<div  />
+	[42] (615,501)<div >📂 />
+	[43] (615,541)<span >깃허브 저장소 />
+📝
+현재 집중 미션
+👸
+CEO 루나의 전략 지시
+"현재 알파 튜브 콘텐츠 파이프라인을 확장 중입니다. 리서처가 향후 24시간 동안의 바이럴 트렌드를 스캔하고 있습니다."
+🧠
+최근 지능 정보
+시장 트렌드: Gemma 4
+10분 전
+로컬 브라우저 AI 에이전트가 1인 기업의 표준으로 자리 잡고 있습니다.
+경쟁사 분석 리포트
+2시간 전
+알파 스웜이 얼굴 없는 쇼츠 분야에서 새로운 확장 전략을 감지했습니다.
+시스템 대청소 완료
+8시간 전
+10,000개 이상의 파일을 저장소로 성공적으로 이전했습니다. 성능 400% 향상.
+[44] (772,857)<button class='w-full py-3 bg-[#1a1a1a] hover:bg-[#2a2a2a] text-gray-400 rounded-2xl text-sm transition-all border border-[#2a2a2a]'>전체 지식 라이브러리 보기 />
+
+</current_dom>

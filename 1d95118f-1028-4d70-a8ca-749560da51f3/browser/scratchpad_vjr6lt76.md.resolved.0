@@ -1,0 +1,11 @@
+# Task: Verify Hydration Error Removal
+
+## Checklist
+- [ ] Navigate to http://localhost:3000/production
+- [ ] Check console logs for Hydration Errors
+- [ ] Capture a screenshot for visual confirmation
+- [ ] Report findings
+
+## Notes
+- The user reported a Red Console Error (Hydration Error) related to `antigravity-scroll-lock` class mismatch.
+- `layout.tsx` was modified with `suppressHydrationWarning`.

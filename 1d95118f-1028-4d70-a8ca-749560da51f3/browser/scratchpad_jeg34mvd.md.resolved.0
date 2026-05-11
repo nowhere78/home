@@ -1,0 +1,9 @@
+# Task: Verify Korean UI on Alpha Browser
+
+## Checklist
+- [ ] Open http://localhost:3000
+- [ ] Verify Sidebar is in Korean
+- [ ] Verify Dashboard items are in Korean
+- [ ] Verify Search bar is in Korean
+- [ ] Take a screenshot of the Korean Dashboard
+- [ ] Report findings

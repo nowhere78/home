@@ -1,0 +1,120 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+1
+/
+1
+Next.js 16.2.6
+Turbopack
+Build Error
+[0] (701,181)<button aria-label='Copy Error Info' class='copy-error-button nextjs-data-copy-button nextjs-data-copy-button--initial' title='Copy Error Info' />
+[1] (718,181)<a aria-label='Go to related documentation' class='docs-link-button' href='https://nextjs.org/docs/app/api-reference/directives/use-client' title='Go to related documentation' />
+[2] (736,181)<button class='nodejs-inspector-button' title='Attach Node.js inspector' />
+You're importing a module that depends on `usePathname` into a React Server Component module. This API is only available in Client Components. To fix, mark the file (or its parent) with the `"use client"` directive.
+./src/app/layout.tsx (5:10)
+[3] (730,301)<button aria-label='Open in editor' />
+	[4] (730,301)<span  />
+[5] (500,433)<pre class='code-frame-pre' scrollable='true' />
+	You're
+	importing
+	a
+	module
+	that
+	depends
+	on
+	`usePathname`
+	into
+	a
+	React
+	Server
+	Component
+	module.
+	This
+	API
+	is
+	only
+	available
+	in
+	Client
+	Components.
+	To
+	fix,
+	mark
+	the
+	file
+	(or
+	its
+	parent)
+	with
+	the
+	`"use
+	client"`
+	Learn
+	more:
+	[6] (442,362)<a href='https://nextjs.org/docs/app/api-reference/directives/use-client'>https://nextjs.org/docs/app/api-reference/directives/use-client />
+	3
+	|
+	import
+	OmniSearch
+	from
+	"@/components/OmniSearch"
+	;
+	4
+	|
+	import
+	Link
+	from
+	"next/link"
+	;
+	>
+	5
+	|
+	import
+	{
+	usePathname
+	}
+	from
+	"next/navigation"
+	;
+	|
+	^^^^^^^^^^^
+	6
+	|
+	7
+	|
+	export
+	const
+	metadata:
+	Metadata
+	=
+	{
+	8
+	|
+	title:
+	"알파
+	브라우저
+	|
+	AI
+	1인
+	기업
+	HQ"
+	,
+	Ecmascript
+	file
+	had
+	an
+	error
+1
+2
+[7] (35,960)<div  />
+	[8] (35,960)<div  />
+		[9] (35,960)<div  />
+			[10] (20,960)<button aria-label='Open Next.js Dev Tools' id='next-logo' />
+			[11] (44,960)<div  />
+				[12] (44,960)<button aria-label='Open issues overlay' />
+					[13] (35,960)<div  />
+						[14] (35,960)<div >1 />
+					[15] (47,960)<div >Issue />
+
+</current_dom>

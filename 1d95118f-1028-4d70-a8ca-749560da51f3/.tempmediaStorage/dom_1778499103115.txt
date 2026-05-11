@@ -1,0 +1,89 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+A
+Alpha Omega
+[0] (66,119)<a href='/' />
+	[1] (66,119)<div  />
+		[2] (21,119)<span >🏠 />
+		[3] (55,119)<span >메인 대시보드 />
+[4] (66,169)<a href='/web-agent' />
+	[5] (66,169)<div  />
+		[6] (21,169)<span >🌐 />
+		[7] (51,169)<span >웹 에이전트 />
+[8] (66,221)<a href='/knowledge' />
+	[9] (66,221)<div  />
+		[10] (22,221)<span >🧠 />
+		[11] (59,221)<span >지식 라이브러리 />
+		[12] (116,221)<div  />
+[13] (66,273)<a href='/automation' />
+	[14] (66,273)<div  />
+		[15] (21,273)<span >⚡ />
+		[16] (51,273)<span >자동화 설정 />
+에이전트 군단
+[17] (66,392)<a href='/agent/luna' />
+	[18] (66,392)<div  />
+		[19] (21,392)<span >👸 />
+		[20] (48,392)<span >CEO 루나 />
+[21] (66,442)<a href='/agent/researcher' />
+	[22] (66,442)<div  />
+		[23] (21,442)<span >🔍 />
+		[24] (44,442)<span >리서처 />
+[25] (66,493)<a href='/agent/designer' />
+	[26] (66,493)<div  />
+		[27] (21,493)<span >🎨 />
+		[28] (47,493)<span >디자이너 />
+엔진 상태
+Gemma 4 가동 중
+[29] (384,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[30] (640,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[31] (668,42)<div  />
+지식 라이브러리 (Knowledge)
+Gemma 4 로컬 RAG 엔진이 당신의 브라우징 기록을 실시간으로 분석하고 저장합니다.
+[32] (811,154)<button class='px-4 py-2 bg-blue-600/10 text-blue-400 border border-blue-500/20 rounded-xl text-sm font-medium hover:bg-blue-600/20 transition-all'>세션 데이터 동기화 (Codex-R) />
+🔍
+[33] (567,284)<input class='w-full bg-[#0a0a0a] border border-gray-800 rounded-2xl py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all' placeholder='지식 라이브러리에서 의미 기반 검색...' />
+[34] (322,335)<label class='flex items-center gap-2 cursor-pointer group' />
+	[35] (294,335)<div  />
+		[36] (299,335)<div  />
+	[37] (335,335)<span >AI 의미 검색 활성화 />
+Vector Engine: ON
+📄
+ID: KB-
+1001
+샘플 지식 데이터 #
+1
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+📄
+ID: KB-
+1002
+샘플 지식 데이터 #
+2
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+📄
+ID: KB-
+1003
+샘플 지식 데이터 #
+3
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+📄
+ID: KB-
+1004
+샘플 지식 데이터 #
+4
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+📄
+ID: KB-
+1005
+샘플 지식 데이터 #
+5
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+📄
+ID: KB-
+1006
+샘플 지식 데이터 #
+6
+이곳은 수집된 지식의 요약 내용이 표시되는 자리입니다. 현재 시스템 대청소 이후 1,743개의 데이터가 안전하게 동기화되었습니다.
+
+</current_dom>

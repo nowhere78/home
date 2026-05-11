@@ -1,0 +1,12 @@
+# Task: Capture Alpha Browser Dashboard Screenshot
+
+## Checklist
+- [ ] Open http://localhost:3000
+- [ ] Verify page load and dark mode layout
+- [ ] Capture screenshot
+- [ ] Report findings
+
+## Notes
+- Alpha Browser is a custom browser UI built with Next.js.
+- Dark mode should be enabled.
+- Layout includes an agent sidebar, intelligent search bar, and main dashboard.

@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (71,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/thedalbee' />
+	[3] (71,34)<span >thedalbee />
+[4] (114,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/thedalbee/codex-r' />
+	[5] (114,34)<span >codex-r />
+[6] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (766,34)<span  />
+		[8] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+Repository navigation
+[19] (27,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r' />
+	[20] (17,80)<span  />
+	[21] (34,80)<span >Code />
+[22] (71,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/issues' />
+	[23] (59,80)<span  />
+	[24] (77,80)<span >Issues />
+[25] (127,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/pulls' />
+	[26] (104,80)<span  />
+	[27] (133,80)<span >Pull requests />
+[28] (184,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/agents?author=nowhere78' />
+	[29] (171,80)<span  />
+	[30] (191,80)<span >Agents />
+[31] (233,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/actions' />
+	[32] (219,80)<span  />
+	[33] (240,80)<span >Actions />
+[34] (284,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/projects' />
+	[35] (269,80)<span  />
+	[36] (290,80)<span >Projects />
+[37] (355,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/security' />
+	[38] (320,80)<span  />
+	[39] (361,80)<span >Security and quality />
+[40] (425,80)<a class='prc-components-UnderlineItem-7fP-n' href='/thedalbee/codex-r/pulse' />
+	[41] (410,80)<span  />
+	[42] (432,80)<span >Insights />
+[43] (17,140)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[44] (65,190)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[45] (65,190)<span  />
+		[46] (58,190)<span  />
+			[47] (58,190)<div  />
+				[48] (19,190)<div  />
+				[49] (35,190)<div  />
+					[50] (35,190)<span >main />
+[51] (133,190)<a class='prc-Button-ButtonBase-9n-Xk ReposFileTreePane-module__IconButton__rGggU prc-Button-IconButton-fyge7' href='/thedalbee/codex-r/new/main' />
+[52] (150,190)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu ReposFileTreePane-module__SearchButtonWithLeftBorder__TBrDc prc-Button-IconButton-fyge7' />
+[53] (83,233)<span  />
+	[54] (17,233)<span  />
+	[55] (82,233)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+	[56] (148,233)<span  />
+		[57] (148,233)<kbd  />
+			[58] (148,233)<span >t />
+				t
+				[59] (148,233)<span >T />
+[60] (79,352)<div  />
+	[61] (79,279)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='assets-item' role='treeitem' />
+		[62] (79,279)<div  />
+			[63] (13,279)<div  />
+			[64] (84,279)<div  />
+				[65] (25,279)<div  />
+					[66] (25,279)<div  />
+				[67] (90,279)<span  />
+					[68] (43,279)<span >assets />
+	[69] (79,314)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[70] (79,314)<div  />
+			[71] (13,314)<div  />
+			[72] (84,314)<div  />
+				[73] (25,313)<div  />
+					[74] (25,313)<div  />
+				[75] (90,314)<span  />
+					[76] (41,314)<span >docs />
+	[77] (79,348)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[78] (79,348)<div  />
+			[79] (84,348)<div  />
+				[80] (25,347)<div  />
+				[81] (90,348)<span  />
+					[82] (47,348)<span >LICENSE />
+	[83] (79,382)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[84] (79,382)<div  />
+			[85] (84,382)<div  />
+				[86] (25,382)<div  />
+				[87] (90,382)<span  />
+					[88] (53,382)<span >README.md />
+	[89] (79,416)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='SKILL.md-item' role='treeitem' />
+		[90] (79,416)<div  />
+			[91] (84,416)<div  />
+				[92] (25,416)<div  />
+				[93] (90,416)<span  />
+					[94] (48,416)<span >SKILL.md />
+[95] (167,606)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[96] (190,139)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/thedalbee/codex-r/tree/main'>codex-r />
+/
+SKILL.md
+[97] (262,140)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[98] (983,140)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_3g_' />
+Latest commit
+dalbee
+[99] (280,198)<a class='Link--secondary' href='/thedalbee/codex-r/commit/2623e355c0e7aa5464bc81ce34f9b4a0c1062f46'>Keep CODEX-R skill metadata valid />
+[100] (347,198)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[101] (896,198)<a aria-label='Commit 2623e35' class='Link--secondary prc-Link-Link-9ZwDx' href='/thedalbee/codex-r/commit/2623e355c0e7aa5464bc81ce34f9b4a0c1062f46'>2623e35 />
+·
+History
+[102] (967,198)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/thedalbee/codex-r/commits/main/SKILL.md' />
+	[103] (967,198)<span  />
+		[104] (972,198)<span  />
+			[105] (972,197)<span >History />
+File metadata and controls
+[106] (200,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[107] (200,263)<span  />
+		[108] (200,263)<div >Preview />
+[109] (235,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[110] (235,263)<span  />
+		[111] (235,263)<div >Code />
+[112] (268,263)<button class='prc-SegmentedControl-Button-E48xz' />
+	[113] (268,263)<span  />
+		[114] (268,263)<div >Blame />
+166 lines (128 loc) · 6.7 KB
+[115] (853,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_49_' />
+[116] (871,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='blob-view-header-copilot-icon' />
+[117] (894,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/thedalbee/codex-r/raw/refs/heads/main/SKILL.md' />
+	[118] (894,263)<span  />
+		[119] (894,263)<span >Raw />
+[120] (911,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[121] (925,263)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[122] (943,263)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov prc-Button-IconButton-fyge7' href='/thedalbee/codex-r/edit/main/SKILL.md' />
+[123] (957,263)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_4o_' />
+[124] (976,263)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+name
+codex-r
+description
+One-time installer/repair workflow for `codex -r`: a Claude Code session picker that imports the selected Claude session into Codex while keeping `--list` and `--dry-run` safe. Use when setting up, fixing, auditing, or regenerating the Codex Claude session bridge from the existing setup log.
+user-invocable
+true
+argument-hint
+[install|repair|status]
+CODEX-R
+[125] (313,628)<a aria-label='Permalink: CODEX-R' class='anchor' href='#codex-r' id='user-content-codex-r' />
+Install or repair
+codex -r
+so a user can pick an existing Claude Code session, import it into Codex, and start the imported Codex session immediately.
+This is a Markdown-only skill. Do not treat the skill folder as an installer package. Reconstruct or patch the local files directly from the source log and the current machine state.
+If a local setup log exists at
+~/ws/codex-claude-session-import-setup-log.md
+, read it first. If it does not exist, follow this skill as the source of truth.
+Invariants
+[126] (313,904)<a aria-label='Permalink: Invariants' class='anchor' href='#invariants' id='user-content-invariants' />
+codex -r
+opens the Claude session picker.
+codex -r
+defaults to Claude sessions whose recorded cwd exactly matches the current directory.
+
+</current_dom>

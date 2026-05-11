@@ -1,3 +1,9 @@
-- [x] Update `core_vision.md` with Joshua 1:7-9 vision statement.
-- [x] Update `compounding_loop.py` to include token-free conceptual reading (morning, noon, evening, post-mission).
-- [x] Create Walkthrough artifact summarizing the changes and how the token issue is solved.
+# Task: YouTube Production Forge Implementation
+
+- [ ] Add "Production Forge" to Sidebar Navigation (`layout.tsx`)
+- [ ] Create Production Module Page (`src/app/production/page.tsx`)
+    - [ ] Workflow Stepper UI
+    - [ ] Script/Asset Preview Section
+    - [ ] Forge Control Buttons
+- [ ] Create Local Rendering Helper Script (`scripts/render_video.py`)
+- [ ] Verify UI and Routing
