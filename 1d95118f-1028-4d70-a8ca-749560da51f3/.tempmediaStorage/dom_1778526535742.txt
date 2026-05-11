@@ -1,0 +1,149 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (38,30)<yt-icon  />
+		[2] (38,30)<span  />
+			[3] (38,30)<div  />
+[4] (127,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (127,30)<div  />
+		[6] (127,29)<ytd-logo  />
+			[7] (127,30)<yt-icon  />
+				[8] (128,30)<span  />
+					[9] (128,30)<div  />
+KR
+[10] (440,30)<div  />
+	[11] (431,30)<form  />
+		[12] (431,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (587,30)<div  />
+		[14] (587,30)<ytd-text-input-assistant  />
+			[15] (587,30)<button class='ytdTextInputAssistantButton' />
+				[16] (587,30)<img  />
+[17] (641,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (641,30)<span  />
+		[19] (641,30)<span  />
+			[20] (641,30)<div  />
+[21] (712,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (712,30)<yt-touch-feedback-shape  />
+		[23] (712,30)<div  />
+[24] (803,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (803,30)<yt-touch-feedback-shape  />
+		[26] (803,30)<div  />
+[27] (882,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (882,29)<yt-icon-badge-shape  />
+		[29] (882,30)<div  />
+			[30] (882,30)<div  />
+				[31] (882,30)<span  />
+					[32] (882,30)<span  />
+						[33] (882,30)<div  />
+			[34] (895,23)<div >9+ />
+[35] (939,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (943,30)<yt-img-shadow  />
+		[37] (943,30)<img  />
+[38] (33,71)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[39] (88,71)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[40] (169,71)<div  />
+	[41] (169,71)<div  />
+		[42] (169,71)<div aria-label='0 분 25 초/8 분 0 초' class='ytp-time-contents' role='button' />
+			[43] (148,70)<span  />
+			[44] (169,70)<span  />
+			[45] (190,70)<span  />
+[46] (742,71)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[47] (742,71)<div  />
+		[48] (742,71)<div  />
+[49] (792,71)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[50] (792,83)<div  />
+[51] (842,71)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[52] (892,71)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[53] (943,71)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+누군가가 헤지펀드 운영 체제를 오픈소스로 공개했습니다... 무료로요!
+[54] (55,152)<yt-metadata-badge-renderer  />
+	자동 더빙
+[55] (44,193)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@AIFusion-official' />
+	[56] (38,191)<yt-img-shadow  />
+		[57] (38,191)<img  />
+[58] (107,183)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@AIFusion-official'>AI Fusion />
+구독자 4.93천명
+[59] (216,193)<button aria-label='AI Fusion을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[60] (216,193)<yt-touch-feedback-shape  />
+		[61] (216,193)<div  />
+[62] (519,193)<button aria-label='다른 사용자 1,005명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>1천 />
+	1천
+	[63] (519,193)<yt-touch-feedback-shape  />
+		[64] (519,193)<div  />
+[65] (587,193)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[66] (587,193)<yt-touch-feedback-shape  />
+		[67] (587,193)<div  />
+[68] (665,193)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[69] (665,193)<yt-touch-feedback-shape  />
+		[70] (665,193)<div  />
+[71] (772,193)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[72] (772,193)<yt-touch-feedback-shape  />
+		[73] (772,193)<div  />
+[74] (879,193)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[75] (879,193)<yt-touch-feedback-shape  />
+		[76] (879,193)<div  />
+[77] (949,193)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[78] (949,193)<yt-touch-feedback-shape  />
+		[79] (949,193)<div  />
+조회수 29,082회
+2026. 5. 3.
+[80] (225,252)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/ai'>#ai />
+[81] (282,252)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/opensource'>#opensource />
+[82] (368,252)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/hedgefund'>#hedgefund />
+UCLA 연구팀이 AI 에이전트를 사용하여 헤지 펀드의 내부 구조 전체를 복제하는 오픈 소스 프레임워크를 개발했습니다. 이 프레임워크는 모든 전문 역할, 모든 토론, 모든 위험 검토를 포함합니다. 현재 GitHub에서 53,000개 이상의 별을 받았으며 완전히 무료로 사용할 수 있습니다.
+이 영상은 프레임워크의 작동 방식을 자세히 설명합니다. 기본 분석, 시장 심리, 뉴스, 기술적 분석을 담당하는 네 명의 분석가 에이전트, 모든 결정이 내려지기 전에 서로 논쟁하는 매수 및 매도 분석가 에이전트, 토론 내용을 모두 읽는 트레이더 에이전트, 위험 관리팀, 그리고 모든 거래를 서면 설명과 함께 승인 또는 거부하는 포트폴리오 매니저로 구성됩니다.
+모든 결정은 추적 가능하며, 모든 단계는 기록됩니다. 또한, 시스템은 실행될 때마다 과거 거래 내역을 포트폴리오 매니저의 프롬프트에 입력하여 더욱 똑똑해집니다.
+이것은 단순한 매수/매도 신호 생성기가 아닙니다. 기관 투자자 수준의 분석에 가장 근접한 무료 도구입니다.
+
+🔗 TradingAgents GitHub:
+[83] (336,463)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1vN1lSX09fYU5jRVlhd2lGb0VXRG5Jb29iQXxBQ3Jtc0ttVjVGRzRKSThjZVRROWlRRlQ3a1Q5Wmk2Nk9KYXhiYmk4c0FObkoyT0hoOGdSWGpEaTB0dmdqVTRFOUpOVTlHbXJXUVdWLWdvNm1TdjhYRjdKQTdlU1ZISFR0UW51MHVtOFpJMmpEQ09qTjV5RDlUWQ&q=https%3A%2F%2Fgithub.com%2FTauricResearch%2FTradingAgents&v=SxKfafKyp7c'>https://github.com/TauricResearch/Tra... />
+📄 연구 논문:
+[84] (226,484)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVNrWnFrSWVhNVpQRnM0MWlxcmxTOGFkTGJFQXxBQ3Jtc0tuUUdOZUlISjFKTTJnUTVqdGZaMU9jLXBPcnJialkyU2oyZ1owdldlSFVFcWlWTTY3WlkzY0d3SDlkazhMd21JeE5qWFVDM0hKTjB3Y0w4SFdPVVNTOU9HQTRlVzZyLVJROEhZQmRSS3MtRl9SR3NKZw&q=https%3A%2F%2Farxiv.org%2Fabs%2F2412.20138&v=SxKfafKyp7c'>https://arxiv.org/abs/2412.20138 />
+⚠️ 이 영상의 내용은 어떠한 금융 조언도 아닙니다. TradingAgents는 연구 프레임워크입니다. 투자 전에 반드시 직접 조사하십시오.
+
+음악: city lights by Snoozy Beats
+[85] (300,548)<a aria-label='SoundCloud Channel Link: snoozybeats' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1BZV2dWS0xHdFhGOHlSdTlpTDBXTnVNaE1zZ3xBQ3Jtc0treHJiYnA0ZVUxdTBoZXFOSk1QVlR4aW9HVU8wbnc1TDhCeG9vcWttcXR2NXFBYmhLU1lCRlJzeGNJdDJJYTNuWThTMW5RQWtVaHhONUNMTTdBSHprRDdiZHRfTW4wTGIzVS1wR3R1cG1ObEJwQ3hhdw&q=https%3A%2F%2Fsoundcloud.com%2Fsnoozybeats&v=SxKfafKyp7c'>/ snoozybeats />
+	[86] (251,549)<span  />
+		[87] (251,548)<img  />
+라이선스: Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+[88] (39,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/ai'>#ai />
+[89] (96,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/opensource'>#opensource />
+[90] (182,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/hedgefund'>#hedgefund />
+[91] (252,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/trading'>#trading />
+[92] (328,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/stockmarket'>#stockmarket />
+[93] (444,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/artificialintelligence'>#artificialintelligence />
+[94] (530,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/llm'>#llm />
+[95] (575,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/python'>#python />
+[96] (672,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/algorithmictrading'>#AlgorithmicTrading />
+[97] (771,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/aitools'>#AITools />
+[98] (833,612)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/finance'>#Finance />
+[99] (90,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/machinelearning'>#MachineLearning />
+[100] (194,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/multiagent'>#MultiAgent />
+[101] (272,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/investing'>#Investing />
+[102] (346,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/aifinance'>#AIFinance />
+[103] (438,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/tradingagents'>#TradingAgents />
+[104] (521,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/github'>#GitHub />
+[105] (580,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/fintech'>#Fintech />
+[106] (646,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/aiagents'>#AIAgents />
+[107] (721,633)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/freetools'>#FreeTools />
+콘텐츠 생성 방식
+자동 더빙
+일부 언어의 오디오 트랙이 자동으로 생성되었습니다.
+[108] (399,751)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='//support.google.com/youtube/answer/15569972?hl=ko'>자세히 알아보기 />
+질문하기
+궁금한 점을 해결하고, 관심 있는 주제도 살펴보세요
+[109] (85,900)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[110] (85,900)<yt-touch-feedback-shape  />
+		[111] (85,900)<div  />
+스크립트
+스크립트를 보면서 시청하세요.
+
+</current_dom>

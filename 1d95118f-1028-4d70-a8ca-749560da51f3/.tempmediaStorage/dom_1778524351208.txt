@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+5월11일
+[LIVE] 코딩을 위한 최고의 로컬 LLM은?
+젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석!
+지금 시작하기
+[0] (500,523)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+	5월11일
+	[LIVE] 코딩을 위한 최고의 로컬 LLM은?
+	젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석!
+	[LIVE] 코딩을 위한 최고의 로컬 LLM은?
+	젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석!
+[1] (500,500)<div  />
+	[2] (490,115)<div  />
+		[3] (490,115)<input class='x1qlqyl8 x15bjb6t x76ihet xtmcdsl x112ta8 x4gj9lk x11g6tue x1lliihq xtt52l0 xexx8yu xyri2b x18d9i69 x1c1uobl xa7awgv xh8yej3' placeholder='5월11일 🔴 [LIVE] 코딩을 위한 최고의 로컬 LLM은? 💻 젬마 4 (Gemma 4) vs Qwen 3.5 집중 비교 분석!에서 검색' role='combobox' />
+	[4] (730,115)<div aria-label='하이라이트 창 숨기기' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1td3qas x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[5] (748,115)<div aria-label='필터 숨기기' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1td3qas x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[6] (394,195)<a class='x1lliihq x1heor9g x1hl2dhg' href='https://jaijung.notion.site/5-11-LIVE-LLM-4-Gemma-4-vs-Qwen-3-5-35db0dd76323809dbc5df08f4e9b0ac4?pvs=26&qid=1:daad7296-c33a-4858-836d-6720460910cd:0' />
+		[7] (394,195)<div class='x87ps6o x1b7c0jy x1ypdohk xh8yej3 x78zum5 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xt2wqj3 notranslate search-query-result-item' id=':r28:' role='option' />
+			[8] (394,195)<div  />
+				[9] (255,195)<div  />
+					[10] (255,195)<div  />
+						[11] (255,195)<span role='img' />
+				[12] (391,195)<div  />
+					[13] (391,195)<div class='xuxw1ft x6ikm8r x10wlt62 xlyipyv' role='presentation' />
+						[14] (391,195)<div  />
+							[15] (373,195)<div  />
+								[16] (293,195)<img  />
+								[17] (424,195)<img  />
+							[18] (501,195)<div  />
+								[19] (501,195)<div  />
+				[20] (528,195)<div  />
+					[21] (528,195)<div  />
+						[22] (531,195)<div  />
+	[23] (394,234)<a class='x1lliihq x1heor9g x1hl2dhg' href='https://jaijung.notion.site/5-11-35db0dd7632380869371c41b3a00aee0?pvs=26&qid=1:daad7296-c33a-4858-836d-6720460910cd:0' />
+		[24] (394,234)<div class='x87ps6o x1b7c0jy x1ypdohk xh8yej3 x78zum5 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xdxgbl4 xayv9eh notranslate search-query-result-item' id=':r29:' role='option' />
+			[25] (394,234)<div  />
+				[26] (255,234)<div  />
+					[27] (255,234)<div  />
+						[28] (255,234)<span role='img' />
+				[29] (391,234)<div  />
+					[30] (391,234)<div class='xuxw1ft x6ikm8r x10wlt62 xlyipyv' role='presentation' />
+						[31] (391,234)<div  />
+							[32] (290,234)<div  />
+							[33] (321,234)<span  />
+							[34] (422,234)<div  />
+								[35] (422,234)<div  />
+									[36] (351,234)<img  />
+									[37] (461,234)<img  />
+				[38] (528,234)<div  />
+					[39] (528,234)<div  />
+						[40] (531,234)<div  />
+	[41] (652,399)<div scrollable='true' />
+		[42] (708,200)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x1ds2qyl x14rh7hd xl56j7k x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+		[43] (721,200)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x1ds2qyl x14rh7hd xl56j7k x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+		[44] (648,342)<div role='button' />
+			[45] (647,341)<span  />
+				[46] (618,304)<img  />
+				[47] (661,329)<img  />
+		[48] (648,431)<div  />
+		[49] (648,549)<div  />
+			[50] (648,549)<img  />
+	[51] (749,727)<div aria-label='검색 설정' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+
+</current_dom>

@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (75,500)<aside class='w-72 border-r border-[#1a1a1a] bg-[#050505] flex flex-col p-6 h-screen overflow-y-auto custom-scrollbar sticky top-0' scrollable='true' />
+	A
+	Alpha
+	Omega Station
+	[1] (73,150)<a href='/' />
+		[2] (73,150)<div  />
+			[3] (28,150)<span >📊 />
+			[4] (53,150)<span >대시보드 />
+	[5] (73,205)<a href='/web-agent' />
+		[6] (73,205)<div  />
+			[7] (28,205)<span >🌐 />
+			[8] (56,205)<span >웹 에이전트 />
+	[9] (73,260)<a href='/knowledge' />
+		[10] (73,260)<div  />
+			[11] (28,260)<span >🧠 />
+			[12] (62,260)<span >지식 라이브러리 />
+	[13] (73,315)<a href='/automation' />
+		[14] (73,315)<div  />
+			[15] (28,315)<span >⚡ />
+			[16] (56,315)<span >자동화 설정 />
+	에이전트 군단
+	[17] (73,446)<a href='/agent/luna' />
+		[18] (73,446)<div  />
+			[19] (28,446)<span >👸 />
+			[20] (54,446)<span >CEO 루나 />
+	[21] (73,501)<a href='/agent/researcher' />
+		[22] (73,501)<div  />
+			[23] (28,501)<span >🔍 />
+			[24] (50,501)<span >리서처 />
+	[25] (73,556)<a href='/agent/designer' />
+		[26] (73,556)<div  />
+			[27] (28,556)<span >🎨 />
+			[28] (53,556)<span >디자이너 />
+	운영 센터
+	[29] (73,686)<a href='/production' />
+		[30] (73,686)<div  />
+			[31] (28,686)<span >🏗️ />
+			[32] (53,686)<span >제작 공장 />
+	[33] (73,742)<a href='/outputs' />
+		[34] (73,742)<div  />
+			[35] (29,742)<span >📂 />
+			[36] (59,742)<span >결과물 저장고 />
+			[37] (124,742)<div  />
+	시뮬레이션
+	[38] (73,873)<a href='/simulation' />
+		[39] (73,873)<div  />
+			[40] (28,873)<span >🎮 />
+			[41] (57,873)<span >AI 가상 세계 />
+	실시간 군단 지능
+	Stable
+	Luna v7 Final
+	의사결정 중
+	CEO / 전략 지휘
+	Qwen 2.5 14B
+[42] (401,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[43] (656,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[44] (685,42)<div  />
+결과물 저장고
+VAULT
+사령탑에서 생산된 모든 고지능 콘텐츠가 이곳에 보관됩니다.
+[45] (823,174)<button class='px-8 py-4 bg-[#d4ff00] text-black font-black rounded-2xl text-sm tracking-widest uppercase hover:scale-105 active:scale-95 transition-all shadow-[0_0_30px_rgba(212,255,0,0.3)] flex items-center gap-2'>📂 윈도우 폴더 열기 />
+창고가 비어 있습니다
+[46] (322,534)<div  />
+	[47] (322,524)<div >➕ />
+	[48] (322,555)<span >대기 />
+저장고 보안 수칙
+• 모든 결과물은
+C:\Users\smile\alpha-browser\output
+에 저장됩니다.
+• 파일명은 자동으로 타임스탬프가 부여됩니다.
+• 유튜브 업로드 전, [결과물 저장고]에서 최종 검수를 권장합니다.
+
+</current_dom>

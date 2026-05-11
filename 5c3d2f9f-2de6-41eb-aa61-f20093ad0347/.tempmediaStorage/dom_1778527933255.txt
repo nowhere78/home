@@ -1,0 +1,164 @@
+[0] (75,500)<aside class='w-72 border-r border-[#1a1a1a] bg-[#050505] flex flex-col p-6 h-screen overflow-y-auto custom-scrollbar sticky top-0' scrollable='true' />
+	A
+	Alpha
+	Omega Station
+	[1] (73,150)<a href='/' />
+		[2] (73,150)<div  />
+			[3] (28,150)<span >📊 />
+			[4] (53,150)<span >대시보드 />
+	[5] (73,205)<a href='/web-agent' />
+		[6] (73,205)<div  />
+			[7] (28,205)<span >🌐 />
+			[8] (56,205)<span >웹 에이전트 />
+	[9] (73,260)<a href='/knowledge' />
+		[10] (73,260)<div  />
+			[11] (28,260)<span >🧠 />
+			[12] (62,260)<span >지식 라이브러리 />
+	[13] (73,315)<a href='/automation' />
+		[14] (73,315)<div  />
+			[15] (28,315)<span >⚡ />
+			[16] (56,315)<span >자동화 설정 />
+	에이전트 군단
+	[17] (73,446)<a href='/agent/luna' />
+		[18] (73,446)<div  />
+			[19] (28,446)<span >👸 />
+			[20] (54,446)<span >CEO 루나 />
+	[21] (73,501)<a href='/agent/researcher' />
+		[22] (73,501)<div  />
+			[23] (28,501)<span >🔍 />
+			[24] (50,501)<span >리서처 />
+	[25] (73,556)<a href='/agent/designer' />
+		[26] (73,556)<div  />
+			[27] (28,556)<span >🎨 />
+			[28] (53,556)<span >디자이너 />
+	운영 센터
+	[29] (73,686)<a href='/production' />
+		[30] (73,686)<div  />
+			[31] (28,686)<span >🏗️ />
+			[32] (53,686)<span >제작 공장 />
+	[33] (73,742)<a href='/outputs' />
+		[34] (73,742)<div  />
+			[35] (29,742)<span >📂 />
+			[36] (59,742)<span >결과물 저장고 />
+			[37] (124,742)<div  />
+	시뮬레이션
+	[38] (73,873)<a href='/simulation' />
+		[39] (73,873)<div  />
+			[40] (28,873)<span >🎮 />
+			[41] (57,873)<span >AI 가상 세계 />
+	실시간 군단 지능
+	Stable
+	Luna v7 Final
+	의사결정 중
+	CEO / 전략 지휘
+	Qwen 2.5 14B
+[42] (401,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[43] (656,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[44] (685,42)<div  />
+[45] (575,542)<section class='flex-1 overflow-auto custom-scrollbar relative p-8' scrollable='true' />
+	결과물 저장고
+	VAULT
+	사령탑에서 생산된 모든 고지능 콘텐츠가 이곳에 보관됩니다.
+	[46] (821,167)<button class='px-8 py-4 bg-[#d4ff00] text-black font-black rounded-2xl text-sm tracking-widest uppercase hover:scale-105 active:scale-95 transition-all shadow-[0_0_30px_rgba(212,255,0,0.3)] flex items-center gap-2'>📂 윈도우 폴더 열기 />
+	[47] (320,397)<div  />
+		[48] (320,397)<div  />
+		🎬
+		[49] (320,513)<div  />
+			[50] (320,486)<div  />
+				[51] (291,486)<span >Shorts />
+				[52] (312,486)<span >2026. 5. 12. />
+			[53] (320,505)<h4 >Alpha_Test_Fix.mp4 />
+			[54] (320,534)<div  />
+				[55] (289,534)<span >0.0MB />
+				[56] (351,534)<div >▶️ />
+	[57] (421,397)<div  />
+		[58] (421,397)<div  />
+		🎬
+		[59] (421,513)<div  />
+			[60] (421,486)<div  />
+				[61] (392,486)<span >Shorts />
+				[62] (414,486)<span >2026. 5. 12. />
+			[63] (421,505)<h4 >Alpha_HedgeFund_OS.mp4 />
+			[64] (421,534)<div  />
+				[65] (390,534)<span >0.7MB />
+				[66] (453,534)<div >▶️ />
+	[67] (523,397)<div  />
+		[68] (523,397)<div  />
+		🎬
+		[69] (523,513)<div  />
+			[70] (523,486)<div  />
+				[71] (493,486)<span >Shorts />
+				[72] (515,486)<span >2026. 5. 12. />
+			[73] (523,505)<h4 >Alpha_Sync_Voice.mp4 />
+			[74] (523,534)<div  />
+				[75] (491,534)<span >1.3MB />
+				[76] (554,534)<div >▶️ />
+	[77] (624,397)<div  />
+		[78] (624,397)<div  />
+		🎬
+		[79] (624,513)<div  />
+			[80] (624,486)<div  />
+				[81] (595,486)<span >Shorts />
+				[82] (617,486)<span >2026. 5. 12. />
+			[83] (624,505)<h4 >Alpha_Voice_Battle.mp4 />
+			[84] (624,534)<div  />
+				[85] (593,534)<span >0.9MB />
+				[86] (656,534)<div >▶️ />
+	[87] (726,397)<div  />
+		[88] (726,397)<div  />
+		🎬
+		[89] (726,513)<div  />
+			[90] (726,486)<div  />
+				[91] (696,486)<span >Shorts />
+				[92] (718,486)<span >2026. 5. 12. />
+			[93] (726,505)<h4 >LLM_Battle_Report.mp4 />
+			[94] (726,534)<div  />
+				[95] (694,534)<span >0.3MB />
+				[96] (757,534)<div >▶️ />
+	[97] (827,397)<div  />
+		[98] (827,397)<div  />
+		🎬
+		[99] (827,513)<div  />
+			[100] (827,486)<div  />
+				[101] (798,486)<span >Shorts />
+				[102] (819,486)<span >2026. 5. 12. />
+			[103] (827,505)<h4 >Jaijung_Hybrid_Analysis.mp4 />
+			[104] (827,534)<div  />
+				[105] (796,534)<span >0.0MB />
+				[106] (858,534)<div >▶️ />
+	[107] (320,750)<div  />
+		[108] (320,750)<div  />
+		🎬
+		[109] (320,866)<div  />
+			[110] (320,839)<div  />
+				[111] (291,839)<span >Shorts />
+				[112] (312,839)<span >2026. 5. 12. />
+			[113] (320,858)<h4 >Real_Alpha_Video.mp4 />
+			[114] (320,887)<div  />
+				[115] (289,887)<span >0.1MB />
+				[116] (351,887)<div >▶️ />
+	[117] (421,750)<div  />
+		[118] (421,750)<div  />
+		🎬
+		[119] (421,866)<div  />
+			[120] (421,839)<div  />
+				[121] (392,839)<span >Shorts />
+				[122] (414,839)<span >2026. 5. 12. />
+			[123] (421,858)<h4 >Final_Alpha_Video.mp4 />
+			[124] (421,887)<div >▶️ />
+				[125] (390,887)<span >0.0MB />
+				▶️
+	[126] (523,750)<div  />
+		[127] (523,750)<div  />
+		🎬
+		[128] (523,866)<div  />
+			[129] (523,839)<div  />
+				[130] (493,839)<span >Shorts />
+				[131] (515,839)<span >2026. 5. 11. />
+			[132] (523,858)<h4 >Alpha_Forge_Video_01.mp4 />
+			0.0MB
+			▶️
+	[133] (624,750)<div  />
+		[134] (624,740)<div >➕ />
+		[135] (624,771)<span >대기 />
+	저장고 보안 수칙

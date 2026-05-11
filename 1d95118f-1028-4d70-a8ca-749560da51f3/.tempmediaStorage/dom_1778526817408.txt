@@ -1,0 +1,349 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (33,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (79,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (158,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/TauricResearch' />
+	[3] (158,34)<span >TauricResearch />
+[4] (281,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/TauricResearch/TradingAgents' />
+	[5] (281,34)<span >TradingAgents />
+[6] (613,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__smallSearchButton___8Gvn prc-Button-IconButton-fyge7' />
+[7] (654,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (684,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (748,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (740,34)<span  />
+[11] (800,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (841,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (883,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (925,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (967,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (967,34)<img  />
+Repository navigation
+[17] (42,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents' />
+	[18] (42,80)<span >Code />
+[19] (126,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/issues' />
+	[20] (104,80)<span >Issues />
+	[21] (150,80)<span >(
+202
+) />
+		[22] (150,80)<span >202 />
+		(
+		202
+		)
+[23] (256,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/pulls' />
+	[24] (235,80)<span >Pull requests />
+	[25] (303,80)<span >(
+126
+) />
+		[26] (303,80)<span >126 />
+		(
+		126
+		)
+[27] (368,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/agents?author=nowhere78' />
+	[28] (368,80)<span >Agents />
+[29] (441,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/actions' />
+	[30] (441,80)<span >Actions />
+[31] (517,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/projects' />
+	[32] (517,80)<span >Projects />
+[33] (634,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/security' />
+	[34] (634,80)<span >Security and quality />
+[35] (750,80)<a class='prc-components-UnderlineItem-7fP-n' href='/TauricResearch/TradingAgents/pulse' />
+	[36] (750,80)<span >Insights />
+[37] (119,139)<a class='d-block overflow-x-hidden color-fg-default' href='/TauricResearch/TradingAgents'>TradingAgents />
+Public
+[38] (577,138)<div  />
+	[39] (577,138)<button aria-label='Watch: Participating in TauricResearch/TradingAgents' class='prc-Button-ButtonBase-9n-Xk NotificationsSubscriptionsMenu-module__ActionMenuButton__FVE3w' id='_r_e_' />
+		[40] (569,138)<span  />
+			[41] (560,138)<span >Watch />
+			596
+			(
+			596
+			)
+[42] (714,138)<a class='btn-sm btn BtnGroup-item' href='/TauricResearch/TradingAgents/fork' id='fork-button'>Fork />
+	[43] (743,138)<span >14.4k />
+[44] (795,138)<details class='details-reset details-overlay BtnGroup-parent d-inline-block position-relative' id='my-forks-menu-909213664' />
+	[45] (795,138)<summary aria-label='See your forks of this repository' class='btn-sm btn BtnGroup-item px-2 tmp-px-2 float-none' role='button' />
+[46] (884,138)<button aria-label='Star this repository (73749)' class='js-toggler-target rounded-left-2 btn-with-aria-count btn-sm btn BtnGroup-item' />
+	[47] (874,138)<span >Star />
+	[48] (913,138)<span >73.7k />
+[49] (966,138)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-909213664-unstarred-button' />
+TauricResearch/TradingAgents
+[50] (72,215)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[51] (72,215)<span  />
+		[52] (59,215)<span  />
+			[53] (59,215)<div  />
+				[54] (39,215)<div  />
+				[55] (70,215)<div  />
+					[56] (70,215)<span >main />
+[57] (157,215)<a aria-label='Go to Branches page' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/TauricResearch/TradingAgents/branches' />
+[58] (201,215)<a aria-label='Go to Tags page' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/TauricResearch/TradingAgents/tags' />
+[59] (500,215)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[60] (500,215)<span  />
+		[61] (500,215)<span >Go to file />
+Add file
+[62] (570,215)<button aria-label='Add file' class='prc-Button-ButtonBase-9n-Xk' id='_R_a34ql3al1d_' />
+	[63] (570,215)<span  />
+		[64] (570,215)<span  />
+[65] (652,215)<button class='prc-Button-ButtonBase-9n-Xk' id='_R_94ql3al1d_' />
+	[66] (652,215)<span  />
+		[67] (652,215)<span >Code />
+Folders and files
+Latest commit
+[68] (45,277)<a class='prc-Link-Link-9ZwDx' href='/Yijia-Xiao' />
+	[69] (42,278)<img  />
+[70] (92,277)<a aria-label='commits by Yijia-Xiao' class='AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx' href='/TauricResearch/TradingAgents/commits?author=Yijia-Xiao'>Yijia-Xiao />
+[71] (358,277)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/a5cb7cbd61d217fb0bc43f017392a861257afe6a'>chore: release v0.2.5 — sentiment analyst, env-var config, more provi… />
+[72] (460,277)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[73] (497,277)<button class='prc-Button-ButtonBase-9n-Xk ChecksStatusBadge-module__ChecksStatusBadgeIconButton__rcQQ1 prc-Button-IconButton-fyge7' />
+[74] (552,277)<a aria-label='Commit a5cb7cb' class='Link--secondary prc-Link-Link-9ZwDx' href='/TauricResearch/TradingAgents/commit/a5cb7cbd61d217fb0bc43f017392a861257afe6a'>a5cb7cb />
+·
+History
+[75] (676,277)<a aria-label='View commit history for this file.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/TauricResearch/TradingAgents/commits/main/' />
+	[76] (676,277)<span  />
+[77] (362,326)<tr  />
+	[78] (81,327)<a aria-label='assets, (Directory)' class='Link--primary' href='/TauricResearch/TradingAgents/tree/main/assets' title='assets'>assets />
+	[79] (506,327)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/cc97cb6d5deb10eac370db0c6678e2796a62eba8' title='chore(release): v0.1.0 – initial public release of TradingAgents'>chore(release): v0.1.0 – initial public release of TradingAgents />
+[80] (362,370)<tr  />
+	[81] (69,370)<a aria-label='cli, (Directory)' class='Link--primary' href='/TauricResearch/TradingAgents/tree/main/cli' title='cli'>cli />
+	[82] (545,370)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/f10daa28241ac9a6b7aaa52fc82d1ded9b157ad8' title='feat(ollama): OLLAMA_BASE_URL end-to-end with endpoint confirmation
+
+OLLAMA_BASE_URL now flows through both the CLI dropdown and the
+programmatic client (call-time evaluation so tests behave). After
+provider selection, the CLI prints the resolved endpoint and marks
+when it came from the env var, plus a soft warning when the URL is
+missing a scheme or non-default port. Drops the stale "(local)"
+suffix from Ollama model labels since the endpoint is now dynamic.'>feat(ollama): OLLAMA_BASE_URL end-to-end with endpoint confirmation />
+[83] (362,413)<tr  />
+	[84] (82,414)<a aria-label='scripts, (Directory)' class='Link--primary' href='/TauricResearch/TradingAgents/tree/main/scripts' title='scripts'>scripts />
+	[85] (540,414)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/7c37249f808f9c169ad2198dc384166e7ca7adf9' title='chore: release v0.2.4 — structured agents, checkpoint, memory log, providers
+
+This release bundles substantial work since v0.2.3:
+
+- Structured-output Research Manager, Trader, and Portfolio Manager
+  (canonical with_structured_output pattern, single LLM call per agent,
+  rendered markdown preserves the existing report shape).
+- LangGraph checkpoint resume for crash recovery (--checkpoint flag).
+- Persistent decision log replacing the per-agent BM25 memory, with
+  deferred reflection driven by yfinance returns + alpha vs SPY.
+- DeepSeek, Qwen, GLM, and Azure OpenAI provider support; dynamic
+  OpenRouter model selection.
+- Docker support; cache and logs moved to ~/.tradingagents/ to fix
+  Docker permission issues.
+- Windows UTF-8 encoding fix on every file I/O site.
+- 5-tier rating consistency (Buy / Overweight / Hold / Underweight / Sell)
+  across Research Manager, Portfolio Manager, signal processor, memory log.
+
+Plus the small quality items in this commit:
+
+1. Suppress noisy Pydantic serializer warnings from OpenAI Responses-API
+   parse path by defaulting structured-output to method="function_calling"
+   (root-cause fix, not a warnings filter — same typed result, no warnings).
+2. Ship scripts/smoke_structured_output.py so contributors can verify
+   their provider's structured-output path with one command.
+3. Add opt-in memory_log_max_entries config — when set, oldest resolved
+   memory log entries are pruned once the cap is exceeded; pending
+   entries (unresolved) are never pruned.
+4. backend_url default changed from the OpenAI URL to None so the
+   per-provider client falls back to its native endpoint instead of
+   leaking OpenAI's URL into Gemini / other clients.
+
+CHANGELOG.md added with the full v0.2.4 entry. 92 tests pass without API keys.'>chore: release v0.2.4 — structured agents, checkpoint, memory log, pr… />
+[86] (362,457)<tr  />
+	[87] (77,457)<a aria-label='tests, (Directory)' class='Link--primary' href='/TauricResearch/TradingAgents/tree/main/tests' title='tests'>tests />
+	[88] (519,457)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/78d063dc5c39e962f66fb30468872269c72d8cb9' title='feat(reflection): configurable alpha benchmark for non-US tickers
+
+SPY was hardcoded as the alpha benchmark in both the return-fetch
+path and the reflection label, which produced meaningless alpha for
+.NS / .T / .HK / .L / .TO / .AX / .BO listings — FX drift between a
+local-currency stock and a USD index dominates the spread.
+
+DEFAULT_CONFIG now exposes benchmark_ticker (explicit override) and
+benchmark_map (suffix → regional index, with SPY as the empty-suffix
+default). TRADINGAGENTS_BENCHMARK_TICKER joins the env-overlay table.
+Trading graph resolves the benchmark once per ticker and threads it
+through to both _fetch_returns and reflect_on_final_decision, so the
+alpha label reads "Alpha vs ^N225" for Tokyo listings, "Alpha vs ^HSI"
+for Hong Kong, etc., instead of the misleading "Alpha vs SPY".'>feat(reflection): configurable alpha benchmark for non-US tickers />
+[89] (362,500)<tr  />
+	[90] (106,501)<a aria-label='tradingagents, (Directory)' class='Link--primary' href='/TauricResearch/TradingAgents/tree/main/tradingagents' title='tradingagents'>tradingagents />
+	[91] (519,501)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/78d063dc5c39e962f66fb30468872269c72d8cb9' title='feat(reflection): configurable alpha benchmark for non-US tickers
+
+SPY was hardcoded as the alpha benchmark in both the return-fetch
+path and the reflection label, which produced meaningless alpha for
+.NS / .T / .HK / .L / .TO / .AX / .BO listings — FX drift between a
+local-currency stock and a USD index dominates the spread.
+
+DEFAULT_CONFIG now exposes benchmark_ticker (explicit override) and
+benchmark_map (suffix → regional index, with SPY as the empty-suffix
+default). TRADINGAGENTS_BENCHMARK_TICKER joins the env-overlay table.
+Trading graph resolves the benchmark once per ticker and threads it
+through to both _fetch_returns and reflect_on_final_decision, so the
+alpha label reads "Alpha vs ^N225" for Tokyo listings, "Alpha vs ^HSI"
+for Hong Kong, etc., instead of the misleading "Alpha vs SPY".'>feat(reflection): configurable alpha benchmark for non-US tickers />
+[92] (362,543)<tr  />
+	[93] (106,544)<a aria-label='.dockerignore, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/.dockerignore' title='.dockerignore'>.dockerignore />
+	[94] (491,544)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/10c136f49c82e11f0e324c9c50cda1638a8ed5a7' title='feat: add Docker support for cross-platform deployment'>feat: add Docker support for cross-platform deployment />
+[95] (362,587)<tr  />
+	[96] (137,587)<a aria-label='.env.enterprise.example, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/.env.enterprise.example' title='.env.enterprise.example'>.env.enterprise.example />
+	[97] (532,587)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/b0f6058299ed0e31677a1e3eb31b662aca10abd4' title='feat: add DeepSeek, Qwen, GLM, and Azure OpenAI provider support'>feat: add DeepSeek, Qwen, GLM, and Azure OpenAI provider support />
+[98] (362,630)<tr  />
+	[99] (103,631)<a aria-label='.env.example, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/.env.example' title='.env.example'>.env.example />
+	[100] (545,631)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/f10daa28241ac9a6b7aaa52fc82d1ded9b157ad8' title='feat(ollama): OLLAMA_BASE_URL end-to-end with endpoint confirmation
+
+OLLAMA_BASE_URL now flows through both the CLI dropdown and the
+programmatic client (call-time evaluation so tests behave). After
+provider selection, the CLI prints the resolved endpoint and marks
+when it came from the env var, plus a soft warning when the URL is
+missing a scheme or non-default port. Drops the stale "(local)"
+suffix from Ollama model labels since the endpoint is now dynamic.'>feat(ollama): OLLAMA_BASE_URL end-to-end with endpoint confirmation />
+[101] (362,674)<tr  />
+	[102] (93,674)<a aria-label='.gitignore, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[103] (424,674)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/393d4c6a1bbde184c023906f51f7c2b39a760052' title='chore: add data_cache to .gitignore'>chore: add data_cache to .gitignore />
+[104] (362,717)<tr  />
+	[105] (116,717)<a aria-label='CHANGELOG.md, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/CHANGELOG.md' title='CHANGELOG.md'>CHANGELOG.md />
+	[106] (537,717)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/a5cb7cbd61d217fb0bc43f017392a861257afe6a' title='chore: release v0.2.5 — sentiment analyst, env-var config, more providers
+
+Headline themes in v0.2.5:
+
+- Sentiment Analyst grounded in real data. Renamed from social_media_analyst
+  and redesigned to pre-fetch Yahoo News, StockTwits, and Reddit before the
+  LLM is invoked, ending the prior fabrication behavior.
+- MiniMax provider with full M2.x catalog and dual-region split. Qwen and
+  GLM also split into international + China regions with separate API keys
+  and a clean secondary region prompt in the CLI.
+- TRADINGAGENTS_* env-var overlay for DEFAULT_CONFIG with type-aware
+  coercion; .env loading centralized so every entry point sees the user's
+  keys. Interactive API-key detection prompts and persists missing keys
+  to .env on the fly.
+- OLLAMA_BASE_URL end-to-end for remote ollama-serve, plus a Custom model
+  ID option in the Ollama dropdown.
+- Configurable news-fetch parameters and configurable alpha benchmark for
+  non-US tickers (.NS / .T / .HK / .L / .TO / .AX / .BO ship with sensible
+  regional defaults).
+- Multi-language output now propagates to every user-facing agent
+  (researchers, risk debators, research manager, trader) instead of only
+  the analysts and portfolio manager.
+- Model catalog refresh across all providers (GPT-5.5 frontier, Claude
+  Opus 4.7, Gemini 3.1 Flash-Lite GA, Grok 4.20, Qwen 3.6 line).
+- Capability-dispatch table drives provider-specific structured-output
+  quirks (DeepSeek V4/reasoner and MiniMax M2.x tool_choice rejection,
+  MiniMax reasoning_split) so the general client stays clean.
+- Fixes: ticker path-traversal validation (security), dotenv loading via
+  console script, reports save bug, exchange-suffix truncation in the
+  ticker prompt, Docker permission errors, deepcopy config isolation,
+  max_recur_limit plumbing, clearer missing-API-key error.
+
+See CHANGELOG.md for the full per-item list with issue/PR references.'>chore: release v0.2.5 — sentiment analyst, env-var config, more provi… />
+[107] (362,760)<tr  />
+	[108] (94,761)<a aria-label='Dockerfile, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/Dockerfile' title='Dockerfile'>Dockerfile />
+	[109] (519,761)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/704b7627f2a11c0ab9259dab7308e39c85eecec4' title='fix(docker): pre-create .tradingagents dir with appuser ownership
+
+useradd --create-home creates /home/appuser but not the
+.tradingagents subdir, so cache writes fail with PermissionError
+when docker-compose mounts a named volume there (the volume
+inherits image-dir ownership on first init).
+
+#627 #672 #771 #690 #714 #723 #780 #633 #773 #631'>fix(docker): pre-create .tradingagents dir with appuser ownership />
+[110] (362,804)<tr  />
+	[111] (88,804)<a aria-label='LICENSE, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/LICENSE' title='LICENSE'>LICENSE />
+	[112] (506,804)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/cc97cb6d5deb10eac370db0c6678e2796a62eba8' title='chore(release): v0.1.0 – initial public release of TradingAgents'>chore(release): v0.1.0 – initial public release of TradingAgents />
+[113] (362,847)<tr  />
+	[114] (102,848)<a aria-label='README.md, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/README.md' title='README.md'>README.md />
+	[115] (537,848)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/a5cb7cbd61d217fb0bc43f017392a861257afe6a' title='chore: release v0.2.5 — sentiment analyst, env-var config, more providers
+
+Headline themes in v0.2.5:
+
+- Sentiment Analyst grounded in real data. Renamed from social_media_analyst
+  and redesigned to pre-fetch Yahoo News, StockTwits, and Reddit before the
+  LLM is invoked, ending the prior fabrication behavior.
+- MiniMax provider with full M2.x catalog and dual-region split. Qwen and
+  GLM also split into international + China regions with separate API keys
+  and a clean secondary region prompt in the CLI.
+- TRADINGAGENTS_* env-var overlay for DEFAULT_CONFIG with type-aware
+  coercion; .env loading centralized so every entry point sees the user's
+  keys. Interactive API-key detection prompts and persists missing keys
+  to .env on the fly.
+- OLLAMA_BASE_URL end-to-end for remote ollama-serve, plus a Custom model
+  ID option in the Ollama dropdown.
+- Configurable news-fetch parameters and configurable alpha benchmark for
+  non-US tickers (.NS / .T / .HK / .L / .TO / .AX / .BO ship with sensible
+  regional defaults).
+- Multi-language output now propagates to every user-facing agent
+  (researchers, risk debators, research manager, trader) instead of only
+  the analysts and portfolio manager.
+- Model catalog refresh across all providers (GPT-5.5 frontier, Claude
+  Opus 4.7, Gemini 3.1 Flash-Lite GA, Grok 4.20, Qwen 3.6 line).
+- Capability-dispatch table drives provider-specific structured-output
+  quirks (DeepSeek V4/reasoner and MiniMax M2.x tool_choice rejection,
+  MiniMax reasoning_split) so the general client stays clean.
+- Fixes: ticker path-traversal validation (security), dotenv loading via
+  console script, reports save bug, exchange-suffix truncation in the
+  ticker prompt, Docker permission errors, deepcopy config isolation,
+  max_recur_limit plumbing, clearer missing-API-key error.
+
+See CHANGELOG.md for the full per-item list with issue/PR references.'>chore: release v0.2.5 — sentiment analyst, env-var config, more provi… />
+[116] (362,890)<tr  />
+	[117] (129,891)<a aria-label='docker-compose.yml, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/docker-compose.yml' title='docker-compose.yml'>docker-compose.yml />
+	[118] (536,891)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/59d6b2152d846a94304c4cbb30ba1d6b30e71c05' title='fix: use ~/.tradingagents/ for cache and logs, resolving Docker permission issue (#519)'>fix: use ~/.tradingagents/ for cache and logs, resolving Docker permi… />
+[119] (362,934)<tr  />
+	[120] (87,934)<a aria-label='main.py, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/main.py' title='main.py'>main.py />
+	[121] (535,934)<a class='Link--secondary' href='/TauricResearch/TradingAgents/commit/d13e9b79469abe142fcda7b26d03fcaf6a99262b' title='feat(config): TRADINGAGENTS_* env-var overlay for DEFAULT_CONFIG
+
+Adds a single _ENV_OVERRIDES table in default_config.py with type-aware
+coercion (str/int/bool), so users can switch llm_provider, deep/quick
+models, backend URL, output language, debate rounds, and the checkpoint
+flag purely via .env. Centralizes load_dotenv in the package __init__
+so the overlay applies for every entry point (CLI, main.py, programmatic).
+Drops the hardcoded model assignments and duplicate dotenv loads in
+main.py and cli/main.py. Verified live with OpenAI and Gemini.
+
+#602'>feat(config): TRADINGAGENTS_* env-var overlay for DEFAULT_CONFIG />
+[122] (362,977)<tr  />
+	[123] (108,978)<a aria-label='pyproject.toml, (File)' class='Link--primary' href='/TauricResearch/TradingAgents/blob/main/pyproject.toml' title='pyproject.toml'>pyproject.toml />
+	chore: release v0.2.5 — sentiment analyst, env-var config, more provi…
+About
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+[124] (848,336)<a class='text-bold' href='https://arxiv.org/pdf/2412.20138' role='link' title='https://arxiv.org/pdf/2412.20138'>arxiv.org/pdf/2412.20138 />
+Topics
+[125] (769,377)<a class='topic-tag topic-tag-link' href='/topics/agent' title='Topic: agent'>agent />
+[126] (834,377)<a class='topic-tag topic-tag-link' href='/topics/finance' title='Topic: finance'>finance />
+[127] (903,377)<a class='topic-tag topic-tag-link' href='/topics/trading' title='Topic: trading'>trading />
+[128] (784,406)<a class='topic-tag topic-tag-link' href='/topics/multiagent' title='Topic: multiagent'>multiagent />
+[129] (851,406)<a class='topic-tag topic-tag-link' href='/topics/llm' title='Topic: llm'>llm />
+Resources
+[130] (782,451)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[131] (816,482)<a class='Link--muted' href='#Apache-2.0-1-ov-file'>Apache-2.0 license />
+[132] (779,513)<a class='Link Link--muted' href='/TauricResearch/TradingAgents/activity' />
+	[133] (794,513)<span >Activity />
+[134] (815,543)<a class='Link Link--muted' href='/TauricResearch/TradingAgents/custom-properties' />
+	[135] (830,543)<span >Custom properties />
+Stars
+[136] (790,574)<a class='Link Link--muted' href='/TauricResearch/TradingAgents/stargazers'>stars />
+	[137] (788,574)<strong >73.7k />
+Watchers
+[138] (799,605)<a class='Link Link--muted' href='/TauricResearch/TradingAgents/watchers'>watching />
+	[139] (782,605)<strong >596 />
+Forks
+[140] (790,635)<a class='Link Link--muted' href='/TauricResearch/TradingAgents/forks'>forks />
+	[141] (787,635)<strong >14.4k />
+[142] (797,666)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FTauricResearch%2FTradingAgents&report=TauricResearch+%28user%29'>Report repository />
+[143] (786,724)<a class='Link--primary no-underline Link' href='/TauricResearch/TradingAgents/releases'>Releases />
+	[144] (821,726)<span >6 />
+[145] (858,775)<a class='Link--primary d-flex no-underline' href='/TauricResearch/TradingAgents/releases/tag/v0.2.5' />
+	[146] (864,775)<div  />
+		[147] (864,766)<div  />
+			[148] (836,766)<span >TradingAgents v0.2.5 />
+			[149] (938,766)<span >Latest />
+		[150] (864,786)<div  />
+			[151] (799,786)<relative-time  />
+[152] (780,824)<a class='Link' href='/TauricResearch/TradingAgents/releases'>+ 5 releases />
+[153] (858,883)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/TauricResearch/TradingAgents/deployments'>Deployments />
+	[154] (862,883)<span >129 />
+[155] (853,923)<a class='Link--primary Link text-bold mx-2 tmp-mx-2' href='/TauricResearch/TradingAgents/deployments/github-pages'>github-pages />
+	[156] (900,923)<relative-time  />
+[157] (804,962)<a class='Link--inTextBlock Link' href='/TauricResearch/TradingAgents/deployments'>+ 128 deployments />
+
+</current_dom>
