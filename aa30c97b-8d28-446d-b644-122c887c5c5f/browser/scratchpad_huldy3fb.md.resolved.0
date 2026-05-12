@@ -1,0 +1,5 @@
+# Task: Open localhost:3000 and verify dashboard
+
+- [ ] Open http://localhost:3000
+- [ ] Wait for page to load
+- [ ] Verify title and dashboard content

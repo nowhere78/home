@@ -1,0 +1,13 @@
+- [x] Refactor absolute paths in API routes
+    - [x] `src/app/api/list-outputs/route.ts`
+    - [x] `src/app/api/play-video/route.ts`
+    - [x] `src/app/api/open-folder/route.ts`
+- [x] Optimize Git configuration
+    - [x] Update `.gitignore`
+- [x] Create documentation
+    - [x] Create `SETUP.md`
+- [x] Local Git operations
+    - [x] Stage all necessary files
+    - [x] Commit changes
+- [x] GitHub Integration (Instructions)
+    - [x] Provide instructions for remote setup and push

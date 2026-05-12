@@ -1,0 +1,106 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,500)<aside class='w-72 border-r border-[#1a1a1a] bg-[#050505] flex flex-col p-6 h-screen overflow-y-auto custom-scrollbar sticky top-0' scrollable='true' />
+	A
+	Alpha
+	Omega Station
+	[1] (147,151)<a href='/' />
+		[2] (147,151)<div  />
+			[3] (57,151)<span >📊 />
+			[4] (106,151)<span >대시보드 />
+			[5] (248,151)<div  />
+	[6] (147,207)<a href='/web-agent' />
+		[7] (147,207)<div  />
+			[8] (56,207)<span >🌐 />
+			[9] (113,207)<span >웹 에이전트 />
+	[10] (147,262)<a href='/knowledge' />
+		[11] (147,262)<div  />
+			[12] (56,262)<span >🧠 />
+			[13] (124,262)<span >지식 라이브러리 />
+	[14] (147,317)<a href='/automation' />
+		[15] (147,317)<div  />
+			[16] (56,317)<span >⚡ />
+			[17] (113,317)<span >자동화 설정 />
+	에이전트 군단
+	[18] (147,448)<a href='/agent/luna' />
+		[19] (147,448)<div  />
+			[20] (56,448)<span >👸 />
+			[21] (107,448)<span >CEO 루나 />
+	[22] (147,503)<a href='/agent/researcher' />
+		[23] (147,503)<div  />
+			[24] (56,503)<span >🔍 />
+			[25] (100,503)<span >리서처 />
+	[26] (147,558)<a href='/agent/designer' />
+		[27] (147,558)<div  />
+			[28] (56,558)<span >🎨 />
+			[29] (105,558)<span >디자이너 />
+	운영 센터
+	[30] (147,688)<a href='/production' />
+		[31] (147,688)<div  />
+			[32] (56,688)<span >🏗️ />
+			[33] (107,688)<span >제작 공장 />
+	[34] (147,743)<a href='/outputs' />
+		[35] (147,743)<div  />
+			[36] (56,743)<span >📂 />
+			[37] (118,743)<span >결과물 저장고 />
+	시뮬레이션
+	[38] (147,873)<a href='/simulation' />
+		[39] (147,873)<div  />
+			[40] (56,873)<span >🎮 />
+			[41] (115,873)<span >AI 가상 세계 />
+	실시간 군단 지능
+	Stable
+	Luna v7 Final
+	의사결정 중
+	CEO / 전략 지휘
+	Qwen 2.5 14B
+[42] (589,42)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[43] (887,42)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[44] (945,42)<div  />
+[45] (650,542)<section class='flex-1 overflow-auto custom-scrollbar relative p-8' scrollable='true' />
+	전략적 사령실
+	CEO 루나님, 지능형 비즈니스 자동화 파이프라인이 1,307개의 지식 노드와 동기화되었습니다.
+	알고리즘 방어력
+	94.2% 안정
+	라이브 인텔리전스 피드
+	지능 점유율 (RAG)
+	92%
+	비매개변수 메모리 최적화
+	알고리즘 점사율
+	A+
+	MrBeast 프로토콜 적용
+	지식 엔트로피
+	1.3k
+	72개 도메인 통합
+	자동화 수익 가치
+	₩1.2M
+	잠재 파이프라인 추산
+	금일 비즈니스 전략 브리핑
+	RAG
+	제 1장
+	지능 > 자동화
+	"무지성 자동화를 멈추고,
+	지능이 탑재된 자동화
+	를 구축하십시오."
+	"수익은 사람이나 에이전트가 그 서비스에서 고유한 가치를 발견할 때 발생합니다. RAG는 AI에게 뻔한 소리가 아닌 '진짜 알맹이'를 만들어낼 뇌를 달아주는 작업입니다."
+	📖
+	매개변수 메모리: 활성
+	🧠
+	지식 베이스: 동기화됨
+	핵심 실행 통로 (MrBeast 최적화)
+	[46] (406,958)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://studio.youtube.com' />
+		[47] (406,943)<div >📽️ />
+		[48] (406,983)<span >유튜브 스튜디오 />
+	[49] (567,958)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://partners.coupang.com' />
+		[50] (567,943)<div >🛍️ />
+		[51] (567,983)<span >쿠팡 파트너스 />
+	[52] (728,958)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://www.notion.so' />
+		[53] (728,943)<div >📓 />
+		[54] (728,983)<span >본부 노션 />
+	[55] (888,958)<a class='flex flex-col items-center gap-3 p-4 glass rounded-3xl hover:bg-[#d4ff00]/5 transition-all cursor-pointer group hover:scale-105 border border-transparent hover:border-[#d4ff00]/30 shadow-none hover:shadow-[0_0_20px_rgba(212,255,0,0.1)]' href='https://github.com' />
+		[56] (888,943)<div >📂 />
+		[57] (888,983)<span >저장고 깃허브 />
+
+</current_dom>
