@@ -139,6 +139,22 @@ LIFE_HACK_NICHE = {
 # 한국어 주제 풀 (폴백용 - AI 실패 시 사용)
 KO_TOPIC_POOL = [
     {
+        "title": "타이타닉 침몰의 진짜 이유 (역사가의 진실)",
+        "summary": "1912년 타이타닉 침몰의 진짜 이유는 빙산이 아니라 선장의 과속이었습니다.",
+        "hook": "당신이 타이타닉 선실에서 깨어난다면? 생존 확률을 94%로 올리는 법.",
+        "script": (
+            "당신이 1912년 4월 14일 타이타닉 선실에서 깨어난다면? "
+            "이 진실을 알면 생존 확률이 94%로 올라갑니다.\n"
+            "첫째, 얼음산 충돌은 절반만 진실입니다. 진짜 이유는 선장의 무모한 과속이었어요. "
+            "당시 시속 23노트로 달린 것이 침몰 확률을 65%나 높였습니다.\n"
+            "둘째, 구명보트 위치입니다. 왼쪽 갑판의 보트는 25분 만에 떠납니다. 오른쪽은 42분이나 걸려요. "
+            "무조건 왼쪽으로 달려야 합니다.\n"
+            "셋째, 무시된 SOS 신호입니다. 바다가 잔잔할수록 위험했다는 사실을 기억하세요.\n"
+            "더 놀라운 뒷이야기는 구독 후 다음 편에서 확인하세요!"
+        ),
+        "tags": ["타이타닉", "역사적진실", "생존가이드", "AI영상", "쇼츠"],
+        "thumbnail_text": "타이타닉의 진실",
+        "broll_prompts": ["titanic ship ocean night", "speedometer high speed ship", "lifeboat lowering ship deck"]
     },
     {
         "title": "챗GPT 무료로 100% 활용하는 방법 3가지",
@@ -331,8 +347,10 @@ def generate_script(topic: dict, niche: dict, trade_data: dict = None) -> dict:
     
     # 완전 폴백: KO_TOPIC_POOL 첫 번째 항목 사용
     import random
+    if not KO_TOPIC_POOL:
+        return {"title": "Default Title", "script": "Default Script", "tags": []}
     pf = random.choice(KO_TOPIC_POOL)
-    print(f"   📌 한국어 주제 풀 사용: {pf['title']}")
+    print(f"   📌 한국어 주제 풀 사용: {pf.get('title', 'No Title')}")
     return pf
 
 

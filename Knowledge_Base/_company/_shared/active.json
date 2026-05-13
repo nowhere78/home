@@ -1,3 +1,16 @@
 {
-  "_migrated": true
+  "_migrated": true,
+  "secretary": {
+    "activatedAt": "2026-05-12T22:51:09.409Z"
+  },
+  "youtube": {
+    "activatedAt": "2026-05-12T22:51:09.409Z"
+  },
+  "writer": {
+    "activatedAt": "2026-05-12T22:51:09.409Z"
+  },
+  "designer": {
+    "activatedAt": "2026-05-12T22:51:09.409Z"
+  },
+  "_migrated_v2": true
 }
