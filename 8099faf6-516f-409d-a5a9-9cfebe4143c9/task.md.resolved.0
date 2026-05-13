@@ -1,0 +1,11 @@
+# Alpha Browser & System Integration Task List
+
+- [ ] Polish Alpha Browser Automation Page <!-- id: 0 -->
+    - [ ] Update UI with premium 'Sovereign' theme <!-- id: 1 -->
+    - [ ] Add System Health Monitor component <!-- id: 2 -->
+    - [ ] Implement interactive logs and metrics cards <!-- id: 3 -->
+- [ ] Verify System Connectivity <!-- id: 4 -->
+    - [ ] Create `scripts/test_bridge.py` <!-- id: 5 -->
+    - [ ] Test connection to Connect AI Bridge (Port 4825) <!-- id: 6 -->
+- [ ] Integrate Real-time Feedback (Optional/Future) <!-- id: 7 -->
+    - [ ] Connect UI to compounding loop logs <!-- id: 8 -->
