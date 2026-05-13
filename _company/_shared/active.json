@@ -12,5 +12,22 @@
   "designer": {
     "activatedAt": "2026-05-11T17:13:04.784Z"
   },
-  "_migrated_v2": true
+  "_migrated_v2": true,
+  "instagram": {
+    "activatedAt": "2026-05-13T21:22:33.216Z",
+    "seeded_v3": true
+  },
+  "business": {
+    "activatedAt": "2026-05-13T21:22:33.216Z",
+    "seeded_v3": true
+  },
+  "developer": {
+    "activatedAt": "2026-05-13T21:22:33.216Z",
+    "seeded_v3": true
+  },
+  "researcher": {
+    "activatedAt": "2026-05-13T21:22:33.216Z",
+    "seeded_v3": true
+  },
+  "_migrated_v3": true
 }

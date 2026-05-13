@@ -1,0 +1,64 @@
+# Implementation Plan - Connect AI v3 "Sovereign Intelligence"
+
+The goal is to upgrade the current **Connect AI v2** into **v3**, focusing on codebase maintainability (modularization), enhanced agentic capabilities, and a more premium user experience.
+
+## User Review Required
+
+> [!IMPORTANT]
+> The `extension.ts` file is currently ~21,000 lines. Modularizing this will involve moving a significant amount of code. While this improves maintainability, it may temporarily disrupt ongoing development if not handled carefully.
+
+> [!TIP]
+> I propose adding a "Recursive Learning" feature where agents analyze their own execution results to refine their future prompts locally.
+
+## Proposed Changes
+
+### Phase 1: Structural Modularization (Maintainability)
+Divide the massive `extension.ts` into logical modules to prepare for scaling.
+
+#### [NEW] [server.ts](file:///c:/Users/smile/connect-ai/src/server.ts)
+- Extract the HTTP server logic (Port 4825) and `/api/brain-inject` handling.
+- Move bridge coordination logic (`_probeExistingBridge`, `_killProcessesOnPort`).
+
+#### [NEW] [git.ts](file:///c:/Users/smile/connect-ai/src/git.ts)
+- Extract all git-related functions (`gitExec`, `_safeGitAutoSync`, `_syncSecondBrain`).
+- Standardize error handling and branch management.
+
+#### [NEW] [ui.ts](file:///c:/Users/smile/connect-ai/src/ui.ts)
+- Extract webview management, HTML generation, and cinematic effect triggers.
+- Move UI-related helpers like `_revealInOsExplorer` and `_openInDefaultApp`.
+
+#### [MODIFY] [extension.ts](file:///c:/Users/smile/connect-ai/src/extension.ts)
+- Reduce to a "Coordinator" that initializes and connects the modules.
+
+---
+
+### Phase 2: Enhanced Agentic Research (Intelligence)
+Upgrade the "Researcher" agent to use a more sophisticated multi-step research loop.
+
+#### [MODIFY] [agents.ts](file:///c:/Users/smile/connect-ai/src/agents.ts)
+- Update the **Researcher** and **CEO** agent definitions to support "Deep Research" mode.
+- Add a new **Strategist** agent specializing in long-term compounding principles (as seen in the user's other projects).
+
+#### [NEW] [research_engine.ts](file:///c:/Users/smile/connect-ai/src/research_engine.ts)
+- Implement a recursive web search and synthesis engine.
+- Integrate with local PDF/Markdown processing for a "Knowledge Deep-Dive".
+
+---
+
+### Phase 3: Premium UI/UX (Aesthetics)
+Enhance the "Cinematic UI" with more modern design elements.
+
+#### [MODIFY] [sidebar.html](file:///c:/Users/smile/connect-ai/assets/webview/sidebar.html)
+- Add "Glassmorphism" effects to the chat cards.
+- Implement more subtle micro-animations for agent transitions.
+- Add a "Knowledge Map" visualization upgrade (interactive D3.js or similar).
+
+## Verification Plan
+
+### Automated Tests
+- `npm run compile` to ensure the modularized code still builds.
+- Run a simulated `brain-inject` call to verify the server and git sync.
+
+### Manual Verification
+- Verify that the VS Code sidebar still loads correctly with the new cinematic UI.
+- Test the new "Deep Research" capability with a complex query.

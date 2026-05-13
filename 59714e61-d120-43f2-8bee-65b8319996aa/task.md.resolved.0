@@ -1,0 +1,16 @@
+# Task List - Connect AI v3 Upgrade
+
+- [ ] **Phase 1: Structural Modularization**
+    - [ ] Extract server logic to `src/server.ts`
+    - [ ] Extract git logic to `src/git.ts`
+    - [ ] Extract UI helpers to `src/ui.ts`
+    - [ ] Refactor `src/extension.ts` to coordinator pattern
+- [ ] **Phase 2: Enhanced Agentic Research**
+    - [ ] Update `src/agents.ts` with Deep Research roles
+    - [ ] Implement `src/research_engine.ts`
+- [ ] **Phase 3: Premium UI/UX Refinement**
+    - [ ] Upgrade `assets/webview/sidebar.html` with Glassmorphism
+    - [ ] Enhance Knowledge Map visualization
+- [ ] **Phase 4: Verification & Final Polish**
+    - [ ] Build and test the extension
+    - [ ] Verify multi-agent coordination
