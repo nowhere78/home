@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+하이라이트
+찬성
+[0] (217,86)<button class='Button--link Button--medium Button color-fg-muted' id='dialog-show-dialog-bbeab586-54a6-44b9-8f0b-25615073b6da' />
+	[1] (217,86)<span  />
+		[2] (217,86)<span  />
+			[3] (217,86)<font  />
+				[4] (217,86)<font >사용자 차단 또는 신고 />
+[5] (410,3)<a class='Link--muted Link--inTextBlock' href='/hesamsheikh/awesome-openclaw-usecases' />
+	[6] (410,3)<font >hesamsheikh/awesome-openclaw-usecases />
+에서 포크됨
+OpenClaw를 활용하여 업무를 더욱 편리하게 만드는 다양한 사용 사례들을 모아놓은 커뮤니티 게시물입니다.
+[7] (358,89)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-openclaw-usecases/stargazers' />
+	[8] (362,89)<font  />
+		[9] (362,89)<font >1 />
+[10] (376,89)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-openclaw-usecases/forks' />
+	[11] (376,89)<font >4 />
+MIT 라이선스
+업데이트됨
+[12] (466,89)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-openclaw-usecases/forks' />
+3월 1일에
+[13] (388,166)<a href='/wonseokjung/antigravity-awesome-skills' />
+	[14] (388,166)<font  />
+		[15] (388,166)<font >반중력-멋진-기술 />
+공공의
+[16] (398,195)<a class='Link--muted Link--inTextBlock' href='/sickn33/antigravity-awesome-skills' />
+	[17] (398,195)<font >sickn33/antigravity-awesome-skills />
+에서 포크됨
+클로드 코드/안티그래비티/커서를 위한 800개 이상의 에이전트 스킬이 담긴 궁극의 컬렉션입니다. 앤스로픽과 버셀의 공식 스킬을 포함하여, 전투에서 검증된 고성능 AI 에이전트 스킬들을 만나보세요.
+Python
+[18] (392,303)<a class='Link--muted tmp-mr-3' href='/wonseokjung/antigravity-awesome-skills/stargazers' />
+	[19] (392,303)<font >3.4 />
+[20] (412,303)<a class='Link--muted tmp-mr-3' href='/wonseokjung/antigravity-awesome-skills/forks' />
+	[21] (412,303)<font >MIT />
+라이선스
+업데이트됨
+[22] (493,303)<a class='Link--muted tmp-mr-3' href='/wonseokjung/antigravity-awesome-skills/stargazers' />
+[23] (512,303)<a class='Link--muted tmp-mr-3' href='/wonseokjung/antigravity-awesome-skills/forks' />
+2월 17일에
+[24] (782,189)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[25] (789,189)<span  />
+		[26] (789,189)<font  />
+			[27] (789,189)<font >별 />
+[28] (808,189)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1159821512-unstarred-button' />
+[29] (376,380)<a href='/wonseokjung/ai-nightschool' />
+	[30] (376,380)<font  />
+		[31] (376,380)<font >AI 야간학교 />
+공공의
+인공지능 1인 기업가를 교체합니다. 무료로 배울 수 있는 권리와 정책을 제공합니다.
+타입스크립트
+[32] (407,451)<a class='Link--muted tmp-mr-3' href='/wonseokjung/ai-nightschool/stargazers' />
+	[33] (407,451)<font >3.4 />
+업데이트
+[34] (448,451)<a class='Link--muted tmp-mr-3' href='/wonseokjung/ai-nightschool/forks' />
+	[35] (448,451)<font >됨 />
+[36] (465,451)<a class='Link--muted tmp-mr-3' href='/wonseokjung/ai-nightschool/stargazers' />
+[37] (484,451)<a class='Link--muted tmp-mr-3' href='/wonseokjung/ai-nightschool/forks' />
+2월 14일에
+[38] (782,387)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[39] (789,387)<span  />
+		[40] (789,387)<font  />
+			[41] (789,387)<font >별 />
+[42] (808,387)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1141627645-unstarred-button' />
+[43] (453,528)<a href='/wonseokjung/https-www.youtube.com-CONNECT-AI-LAB' />
+	[44] (453,528)<font  />
+		[45] (453,528)<font >https-www.youtube.com-CONNECT-AI-LAB />
+공공의
+[46] (358,568)<a class='Link--muted tmp-mr-3' href='/wonseokjung/https-www.youtube.com-CONNECT-AI-LAB/stargazers' />
+	[47] (362,568)<font  />
+		[48] (362,568)<font >1 />
+업데이트됨
+2월 3일에
+[49] (782,534)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[50] (789,534)<span  />
+		[51] (789,534)<font  />
+			[52] (789,534)<font >별 />
+[53] (808,534)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1148717792-unstarred-button' />
+[54] (369,644)<a href='/wonseokjung/openclaw' />
+	[55] (369,644)<font  />
+		[56] (369,644)<font >오픈클로 />
+공공의
+[57] (377,674)<a class='Link--muted Link--inTextBlock' href='/openclaw/openclaw' />
+	[58] (377,674)<font >openclaw/openclaw />
+에서 포크됨
+테스트
+TypeScript
+[59] (399,738)<a class='Link--muted tmp-mr-3' href='/wonseokjung/openclaw/stargazers' />
+	[60] (399,738)<font >2 />
+MIT 라이선스
+업데이트됨
+[61] (489,738)<a class='Link--muted tmp-mr-3' href='/wonseokjung/openclaw/stargazers' />
+2월 3일에
+[62] (782,657)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[63] (789,657)<span  />
+		[64] (789,657)<font  />
+			[65] (789,657)<font >별 />
+[66] (808,657)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1148701777-unstarred-button' />
+[67] (375,814)<a href='/wonseokjung/stitch-skills' />
+	[68] (375,814)<font  />
+		[69] (375,814)<font >바느질 기술 />
+공공의
+[70] (391,844)<a class='Link--muted Link--inTextBlock' href='/google-labs-code/stitch-skills' />
+	[71] (391,844)<font >google-labs-code/stitch-skills />
+에서 포크됨
+TypeScript
+[72] (402,877)<a class='Link--muted tmp-mr-3' href='/wonseokjung/stitch-skills/stargazers' />
+	[73] (402,877)<font >2.4 />
+[74] (426,877)<a class='Link--muted tmp-mr-3' href='/wonseokjung/stitch-skills/forks' />
+	[75] (426,877)<font >Apache />
+License 2.0
+업데이트됨
+[76] (519,877)<a class='Link--muted tmp-mr-3' href='/wonseokjung/stitch-skills/stargazers' />
+[77] (538,877)<a class='Link--muted tmp-mr-3' href='/wonseokjung/stitch-skills/forks' />
+1월 31일에
+[78] (782,817)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[79] (789,817)<span  />
+		[80] (789,817)<font  />
+			[81] (789,817)<font >별 />
+[82] (808,817)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1148645555-unstarred-button' />
+[83] (383,953)<a href='/wonseokjung/notebooklm-mcp' />
+	[84] (383,953)<font  />
+		[85] (383,953)<font >노트북lm-mcp />
+공공의
+[86] (392,983)<a class='Link--muted Link--inTextBlock' href='/jacob-bd/notebooklm-mcp-cli' />
+	[87] (392,983)<font >jacob-bd/notebooklm-mcp-cli />
+에서 포크됨
+[88] (782,956)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[89] (789,956)<span  />
+		[90] (789,956)<font  />
+			[91] (789,956)<font >별 />
+[92] (808,956)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1143973984-unstarred-button' />
+
+</current_dom>

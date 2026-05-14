@@ -1,0 +1,15 @@
+# Task List: Alpha Forge Customization
+
+- `[x]` Define CEO Luna Persona & Rules
+    - `[x]` Create `agents/luna/LUNA_PERSONA.md`
+    - `[x]` Create `agents/luna/.cursorrules`
+- `[x]` Build Agent Command Center in Alpha Browser
+    - `[x]` Create `AgentCard.tsx` component
+    - `[x]` Implement `/agents` page
+- `[x]` Implement Content Forge Tool
+    - `[x]` Create `/content-forge` page using viral strategy
+- `[x]` Dashboard Integration & Polishing
+    - `[x]` Update `page.tsx` (Main Dashboard)
+    - `[x]` Refine `globals.css` for premium look
+- `[x]` Verification
+    - `[x]` Run dev server and test all new pages

@@ -14,3 +14,9 @@
     - [x] Create `scripts/update_system.py` for GitHub monitoring <!-- id: 11 -->
     - [x] Add Update Monitor card to Alpha Browser dashboard <!-- id: 12 -->
     - [x] Perform initial update check (System is up to date) <!-- id: 13 -->
+- [x] Restore Business Intelligence Tools <!-- id: 14 -->
+    - [x] Seed `paypal_revenue.py` and configuration schema <!-- id: 15 -->
+    - [x] Enable Revenue Dashboard connectivity <!-- id: 16 -->
+- [/] Global Intelligence Vault Sync (wonseokjung) <!-- id: 17 -->
+    - [x] Extract full repository list (122 repositories) <!-- id: 18 -->
+    - [/] Automated clone/pull of all repositories to `wonseokjung_vault` <!-- id: 19 -->

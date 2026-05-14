@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+mathjax/MathJax
+에서 포크됨
+모든 브라우저에서 아름다운 수학 공식을 감상하세요
+JavaScript
+Apache License 2.0
+업데이트됨
+2018년 2월 9일
+[0] (396,141)<a href='/wonseokjung/Supermario_Reinforcement_WS' />
+	[1] (396,141)<font  />
+		[2] (396,141)<font >슈퍼마리오_강화_WS />
+공공의
+모두의 연구소 풀잎스쿨 멋진 마리오 대회를 표시하고 활동하는 메뉴얼입니다.
+Jupyter Notebook
+[3] (420,212)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Supermario_Reinforcement_WS/forks' />
+	[4] (420,212)<font >1 />
+업데이트됨
+[5] (465,212)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Supermario_Reinforcement_WS/forks' />
+2018년 2월 2일
+[6] (782,147)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[7] (789,147)<span  />
+		[8] (789,147)<font  />
+			[9] (789,147)<font >별 />
+[10] (808,147)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-111881435-unstarred-button' />
+[11] (384,288)<a href='/wonseokjung/Moduyeon_advanced_RL' />
+	[12] (384,288)<font  />
+		[13] (384,288)<font >모두연_고급_RL />
+공공의
+모두의 기초학교 인증 학습에 대한 선호반에서 sutton book의 내용을 python으로 구현했습니다.
+Jupyter Notebook
+업데이트됨
+2018년 1월 9일
+[14] (782,301)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[15] (789,301)<span  />
+		[16] (789,301)<font  />
+			[17] (789,301)<font >별 />
+[18] (808,301)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-116775295-unstarred-button' />
+[19] (375,458)<a href='/wonseokjung/fashion_mnist' />
+	[20] (375,458)<font  />
+		[21] (375,458)<font >패션_mnist />
+공공의
+Keras를 사용하는 Fashion_mnist입니다.
+Jupyter Notebook
+업데이트됨
+2018년 1월 2일
+[22] (782,465)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[23] (789,465)<span  />
+		[24] (789,465)<font  />
+			[25] (789,465)<font >별 />
+[26] (808,465)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-113392053-unstarred-button' />
+[27] (393,606)<a href='/wonseokjung/DQN_super_mario' />
+	[28] (393,606)<font  />
+		[29] (393,606)<font >DQN_super_mario />
+공공의
+강화 학습 알고리즘 DQN을 사용하여 슈퍼 마리오를 훈련시키기.
+Jupyter Notebook
+[30] (420,677)<a class='Link--muted tmp-mr-3' href='/wonseokjung/DQN_super_mario/stargazers' />
+	[31] (420,677)<font >1 />
+업데이트됨
+[32] (465,677)<a class='Link--muted tmp-mr-3' href='/wonseokjung/DQN_super_mario/stargazers' />
+2017년 12월 26일에
+[33] (782,613)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[34] (789,613)<span  />
+		[35] (789,613)<font  />
+			[36] (789,613)<font >별 />
+[37] (808,613)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-115368739-unstarred-button' />
+[38] (371,753)<a href='/wonseokjung/reinforcement-learning' />
+	[39] (371,753)<font  />
+		[40] (371,753)<font >강화 학습 />
+공공의
+[41] (398,783)<a class='Link--muted Link--inTextBlock' href='/dennybritz/reinforcement-learning' />
+	[42] (398,783)<font >dennybritz/reinforcement-learning />
+에서 포크됨
+강화 학습 알고리즘 구현. Python, OpenAI Gym, TensorFlow 사용. Sutton의 저서와 David Silver의 강의를 보완하는 연습문제 및 해설.
+Jupyter Notebook
+MIT 라이선스
+업데이트됨
+2017년 10월 13일에
+[43] (782,771)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[44] (789,771)<span  />
+		[45] (789,771)<font  />
+			[46] (789,771)<font >별 />
+[47] (808,771)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-106767085-unstarred-button' />
+[48] (376,946)<a href='/wonseokjung/Deeplearning_coding' />
+	[49] (376,946)<font  />
+		[50] (376,946)<font >딥러닝_코딩 />
+공공의
+Jupyter Notebook
+업데이트됨
+2017년 9월 28일에
+[51] (782,945)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[52] (789,945)<span  />
+		[53] (789,945)<font  />
+			[54] (789,945)<font >별 />
+[55] (808,945)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-103654294-unstarred-button' />
+
+</current_dom>

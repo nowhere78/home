@@ -1,0 +1,220 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/wonseokjung' />
+	[3] (65,34)<span  />
+		[4] (65,33)<font  />
+			[5] (65,33)<font >원석정 />
+[6] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (756,34)<span  />
+		[8] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+사용자 탐색
+[19] (34,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung' />
+	[20] (17,80)<span  />
+	[21] (41,80)<span  />
+		[22] (41,80)<font  />
+			[23] (41,80)<font >개요 />
+[24] (106,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=repositories' />
+	[25] (73,80)<span  />
+	[26] (101,80)<span  />
+		[27] (101,80)<font  />
+			[28] (101,80)<font >저장소 />
+	[29] (134,80)<span  />
+		[30] (134,80)<span  />
+			[31] (134,80)<font  />
+				[32] (134,80)<font >122 />
+		(
+		122
+		)
+[33] (175,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=projects' />
+	[34] (159,80)<span  />
+	[35] (181,80)<span  />
+		[36] (181,80)<font  />
+			[37] (181,80)<font >프로젝트 />
+[38] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=packages' />
+	[39] (211,80)<span  />
+	[40] (235,80)<span  />
+		[41] (235,80)<font  />
+			[42] (235,80)<font >패키지 />
+[43] (286,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=stars' />
+	[44] (266,80)<span  />
+	[45] (283,80)<span  />
+		[46] (283,80)<font  />
+			[47] (283,80)<font >별들 />
+	[48] (302,80)<span  />
+		[49] (302,80)<span  />
+			[50] (302,80)<font  />
+				[51] (302,80)<font >59 />
+		(
+		59
+		)
+[52] (260,305)<a class='d-block' href='https://avatars.githubusercontent.com/u/11300712?v=4' />
+	[53] (260,305)<img  />
+정원석
+원석정
+[54] (260,569)<input aria-label='원석정을 팔로우하세요' class='btn btn-block' title='원석정을 팔로우하세요' />
+ConnexionAI CEO, 뉴욕 시립대학교 바루크 칼리지 데이터 과학 전공, 일리노이 공과대학교 데이터 과학 석사, 강화 학습에 대한 열정
+[55] (209,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=followers' />
+	[56] (214,707)<font  />
+		[57] (205,707)<font >팔로워 />
+		[58] (225,707)<span  />
+			[59] (225,707)<font >263명 />
+·
+[60] (250,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[61] (250,707)<font >팔로잉 />
+[62] (271,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[63] (271,707)<span  />
+		[64] (271,707)<font >65 명 />
+[65] (241,751)<a class='Link--primary wb-break-all' href='mailto:wonseokjung@hotmail.com' />
+	[66] (241,751)<font  />
+		[67] (241,751)<font >wonseokjung@hotmail.com />
+[68] (228,781)<a class='Link--primary wb-break-all' href='https://www.youtube.com/@CONNECT-AI-LAB' />
+	[69] (228,781)<font  />
+		[70] (228,781)<font >@CONNECT-AI-LAB />
+[71] (191,840)<a class='Link--primary mb-2' href='/wonseokjung?tab=achievements' />
+	[72] (191,840)<font  />
+		[73] (191,840)<font >업적 />
+[74] (200,898)<a class='position-relative' href='/wonseokjung?achievement=pair-extraordinaire&tab=achievements' />
+	[75] (200,895)<img  />
+[76] (233,898)<a class='position-relative' href='/wonseokjung?achievement=quickdraw&tab=achievements' />
+	[77] (233,895)<img  />
+[78] (267,898)<a class='position-relative' href='/wonseokjung?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[79] (267,895)<img  />
+[80] (300,898)<a class='position-relative' href='/wonseokjung?achievement=starstruck&tab=achievements' />
+	[81] (300,895)<img  />
+[82] (200,971)<a class='position-relative' href='/wonseokjung?achievement=pull-shark&tab=achievements' />
+	[83] (200,968)<img  />
+[84] (518,148)<input aria-label='저장소를 찾아보세요…' class='form-control width-full' id='your-repos-filter' placeholder='저장소를 찾아보세요…' />
+[85] (710,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[86] (710,148)<summary class='btn' role='button' />
+		[87] (706,148)<span  />
+			[88] (706,148)<font  />
+				[89] (706,148)<font >유형 />
+		[90] (719,150)<span  />
+[91] (753,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[92] (753,148)<summary class='btn' role='button' />
+		[93] (749,148)<span  />
+			[94] (749,148)<font  />
+				[95] (749,148)<font >언어 />
+		[96] (762,150)<span  />
+[97] (797,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[98] (797,148)<summary class='btn' role='button' />
+		[99] (793,148)<span  />
+			[100] (793,148)<font  />
+				[101] (793,148)<font >종류 />
+		[102] (806,150)<span  />
+[103] (376,224)<a href='/wonseokjung/connect-ai' />
+	[104] (376,224)<font  />
+		[105] (376,224)<font >커넥트-아이 />
+공공의
+100% 로컬 AI 강제 에이전트 — Antigravity/VS Code/Cursor에서 오프라인으로 파일 생성, 편집 코드, 터미널 실행. 올라마 기반.
+TypeScript
+[106] (403,317)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/stargazers' />
+	[107] (403,317)<font >101 />
+[108] (423,317)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/forks' />
+	[109] (423,317)<font >279 />
+MIT 라이선스
+업데이트됨
+[110] (516,317)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/stargazers' />
+[111] (535,317)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/forks' />
+17시간 전
+[112] (782,236)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[113] (789,236)<span  />
+		[114] (789,236)<font  />
+			[115] (789,236)<font >별 />
+[116] (808,236)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1207827733-unstarred-button' />
+[117] (364,394)<a href='/wonseokjung/memory' />
+	[118] (364,394)<font  />
+		[119] (364,394)<font >메모리 />
+공공의
+Python
+[120] (392,434)<a class='Link--muted tmp-mr-3' href='/wonseokjung/memory/forks' />
+	[121] (392,434)<font >10 />
+업데이트됨
+[122] (438,434)<a class='Link--muted tmp-mr-3' href='/wonseokjung/memory/forks' />
+2주 전
+[123] (782,393)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[124] (789,393)<span  />
+		[125] (789,393)<font  />
+			[126] (789,393)<font >별 />
+[127] (808,393)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1214276002-unstarred-button' />
+[128] (401,521)<a href='/wonseokjung/awesome-harness-engineering' />
+	[129] (401,521)<font  />
+		[130] (401,521)<font >멋진 하네스 엔지니어링 />
+공공의
+[131] (410,550)<a class='Link--muted Link--inTextBlock' href='/walkinglabs/awesome-harness-engineering' />
+	[132] (410,550)<font >walkinglabs/awesome-harness-engineering />
+에서 포크됨
+🛠️ 하네스 설계에 유용한 훌륭한 도구 및 가이드.
+[133] (358,614)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-harness-engineering/stargazers' />
+	[134] (362,614)<font  />
+		[135] (362,614)<font >2 />
+[136] (376,614)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-harness-engineering/forks' />
+	[137] (376,614)<font >4 />
+기타
+업데이트됨
+[138] (442,614)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-harness-engineering/forks' />
+3월 31일에
+[139] (782,533)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[140] (789,533)<span  />
+		[141] (789,533)<font  />
+			[142] (789,533)<font >별 />
+[143] (808,533)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1200504972-unstarred-button' />
+[144] (388,690)<a href='/wonseokjung/Open-Higgsfield-AI' />
+	[145] (388,690)<font  />
+		[146] (388,690)<font >오픈-힉스필드-AI />
+공공의
+[147] (396,720)<a class='Link--muted Link--inTextBlock' href='/Anil-matcha/Open-Generative-AI' />
+	[148] (396,720)<font >Anil-matcha/Open-Generative-AI />
+에서 포크됨
+Higgsfield AI의 오픈 소스 대안 — 20개 이상의 모델(Flux, SDXL, Midjourney, Ideogram)을 제공하는 무료 AI 이미지 생성 및 영화 제작 스튜디오. 자체 호스팅, 맞춤 설정 가능, MIT 라이선스.
+JavaScript
+[149] (400,828)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Open-Higgsfield-AI/stargazers' />
+	[150] (400,828)<font >2.2 />
+업데이트
+[151] (441,828)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Open-Higgsfield-AI/forks' />
+	[152] (441,828)<font >됨 />
+[153] (458,828)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Open-Higgsfield-AI/stargazers' />
+[154] (476,828)<a class='Link--muted tmp-mr-3' href='/wonseokjung/Open-Higgsfield-AI/forks' />
+3월 26일에
+[155] (782,714)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[156] (789,714)<span  />
+		[157] (789,714)<font  />
+			[158] (789,714)<font >별 />
+[159] (808,714)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1198319594-unstarred-button' />
+[160] (402,905)<a href='/wonseokjung/solopreneur-ai-agents' />
+	[161] (402,905)<font  />
+		[162] (402,905)<font >솔로프레너-AI-에이전트 />
+공공의
+[163] (358,945)<a class='Link--muted tmp-mr-3' href='/wonseokjung/solopreneur-ai-agents/stargazers' />
+	[164] (362,945)<font  />
+		[165] (362,945)<font >7 />
+[166] (376,945)<a class='Link--muted tmp-mr-3' href='/wonseokjung/solopreneur-ai-agents/forks' />
+	[167] (376,945)<font >8 />
+업데이트됨
+[168] (421,945)<a class='Link--muted tmp-mr-3' href='/wonseokjung/solopreneur-ai-agents/forks' />
+3월 9일에
+[169] (782,904)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[170] (789,904)<span  />
+		[171] (789,904)<font  />
+			[172] (789,904)<font >별 />
+[173] (808,904)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-1148718231-unstarred-button' />
+
+</current_dom>

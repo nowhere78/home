@@ -1,0 +1,205 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/wonseokjung' />
+	[3] (65,34)<span  />
+		[4] (65,33)<font  />
+			[5] (65,33)<font >원석정 />
+[6] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (756,34)<span  />
+		[8] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+사용자 탐색
+[19] (34,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung' />
+	[20] (17,80)<span  />
+	[21] (41,80)<span  />
+		[22] (41,80)<font  />
+			[23] (41,80)<font >개요 />
+[24] (106,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=repositories' />
+	[25] (73,80)<span  />
+	[26] (101,80)<span  />
+		[27] (101,80)<font  />
+			[28] (101,80)<font >저장소 />
+	[29] (134,80)<span  />
+		[30] (134,80)<span  />
+			[31] (134,80)<font  />
+				[32] (134,80)<font >122 />
+		(
+		122
+		)
+[33] (175,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=projects' />
+	[34] (159,80)<span  />
+	[35] (181,80)<span  />
+		[36] (181,80)<font  />
+			[37] (181,80)<font >프로젝트 />
+[38] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=packages' />
+	[39] (211,80)<span  />
+	[40] (235,80)<span  />
+		[41] (235,80)<font  />
+			[42] (235,80)<font >패키지 />
+[43] (286,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=stars' />
+	[44] (266,80)<span  />
+	[45] (283,80)<span  />
+		[46] (283,80)<font  />
+			[47] (283,80)<font >별들 />
+	[48] (302,80)<span  />
+		[49] (302,80)<span  />
+			[50] (302,80)<font  />
+				[51] (302,80)<font >59 />
+		(
+		59
+		)
+[52] (260,305)<a class='d-block' href='https://avatars.githubusercontent.com/u/11300712?v=4' />
+	[53] (260,305)<img  />
+정원석
+원석정
+[54] (260,569)<input aria-label='원석정을 팔로우하세요' class='btn btn-block' title='원석정을 팔로우하세요' />
+ConnexionAI CEO, 뉴욕 시립대학교 바루크 칼리지 데이터 과학 전공, 일리노이 공과대학교 데이터 과학 석사, 강화 학습에 대한 열정
+[55] (209,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=followers' />
+	[56] (214,707)<font  />
+		[57] (205,707)<font >팔로워 />
+		[58] (225,707)<span  />
+			[59] (225,707)<font >263명 />
+·
+[60] (250,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[61] (250,707)<font >팔로잉 />
+[62] (271,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[63] (271,707)<span  />
+		[64] (271,707)<font >65 명 />
+[65] (241,751)<a class='Link--primary wb-break-all' href='mailto:wonseokjung@hotmail.com' />
+	[66] (241,751)<font  />
+		[67] (241,751)<font >wonseokjung@hotmail.com />
+[68] (228,781)<a class='Link--primary wb-break-all' href='https://www.youtube.com/@CONNECT-AI-LAB' />
+	[69] (228,781)<font  />
+		[70] (228,781)<font >@CONNECT-AI-LAB />
+[71] (191,840)<a class='Link--primary mb-2' href='/wonseokjung?tab=achievements' />
+	[72] (191,840)<font  />
+		[73] (191,840)<font >업적 />
+[74] (200,898)<a class='position-relative' href='/wonseokjung?achievement=pair-extraordinaire&tab=achievements' />
+	[75] (200,895)<img  />
+[76] (233,898)<a class='position-relative' href='/wonseokjung?achievement=quickdraw&tab=achievements' />
+	[77] (233,895)<img  />
+[78] (267,898)<a class='position-relative' href='/wonseokjung?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[79] (267,895)<img  />
+[80] (300,898)<a class='position-relative' href='/wonseokjung?achievement=starstruck&tab=achievements' />
+	[81] (300,895)<img  />
+[82] (200,971)<a class='position-relative' href='/wonseokjung?achievement=pull-shark&tab=achievements' />
+	[83] (200,968)<img  />
+[84] (518,148)<input aria-label='저장소를 찾아보세요…' class='form-control width-full' id='your-repos-filter' placeholder='저장소를 찾아보세요…' />
+[85] (710,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[86] (710,148)<summary class='btn' role='button' />
+		[87] (706,148)<span  />
+			[88] (706,148)<font  />
+				[89] (706,148)<font >유형 />
+		[90] (719,150)<span  />
+[91] (753,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[92] (753,148)<summary class='btn' role='button' />
+		[93] (749,148)<span  />
+			[94] (749,148)<font  />
+				[95] (749,148)<font >언어 />
+		[96] (762,150)<span  />
+[97] (797,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[98] (797,148)<summary class='btn' role='button' />
+		[99] (793,148)<span  />
+			[100] (793,148)<font  />
+				[101] (793,148)<font >종류 />
+		[102] (806,150)<span  />
+[103] (405,224)<a href='/wonseokjung/ML-Simplest-Scenario' />
+	[104] (405,224)<font  />
+		[105] (405,224)<font >ML-가장 간단한 시나리오 />
+공공의
+[106] (396,253)<a class='Link--muted Link--inTextBlock' href='/dracolytch/ML-Simplest-Scenario' />
+	[107] (396,253)<font >dracolytch/ML-Simplest-Scenario />
+에서 포크됨
+제가 생각해낼 수 있는 가장 간단한 Unity ML 에이전트 시나리오입니다.
+C#
+MIT 라이선스
+업데이트됨
+2018년 5월 11일에
+[108] (782,236)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[109] (789,236)<span  />
+		[110] (789,236)<font  />
+			[111] (789,236)<font >별 />
+[112] (808,236)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-141010691-unstarred-button' />
+[113] (382,394)<a href='/wonseokjung/DeepLearningCollege_RL' />
+	[114] (382,394)<font  />
+		[115] (382,394)<font >딥러닝대학_RL />
+공공의
+딥러닝 컬리지 강화학습반 그룹프로젝트
+Jupyter Notebook
+[116] (420,465)<a class='Link--muted tmp-mr-3' href='/wonseokjung/DeepLearningCollege_RL/stargazers' />
+	[117] (420,465)<font >1 />
+업데이트됨
+[118] (465,465)<a class='Link--muted tmp-mr-3' href='/wonseokjung/DeepLearningCollege_RL/stargazers' />
+2018년 5월 2일
+[119] (782,400)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[120] (789,400)<span  />
+		[121] (789,400)<font  />
+			[122] (789,400)<font >별 />
+[123] (808,400)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-125298114-unstarred-button' />
+[124] (428,541)<a href='/wonseokjung/OpenAI_Retro_contest_Modulabs' />
+	[125] (428,541)<font  />
+		[126] (428,541)<font >OpenAI_Retro_contest_Modulabs />
+공공의
+OpenAI Retro 콘테스트(강화학습 알고리즘을 적용한 음파 에이전트 만들기)에 대한 오픈에이아이 소닉 대회를 기념하는 모두의 연구소 깃허브 입니다.
+Python
+[127] (390,634)<a class='Link--muted tmp-mr-3' href='/wonseokjung/OpenAI_Retro_contest_Modulabs/stargazers' />
+	[128] (390,634)<font >1 />
+[129] (403,634)<a class='Link--muted tmp-mr-3' href='/wonseokjung/OpenAI_Retro_contest_Modulabs/forks' />
+	[130] (403,634)<font >1 />
+업데이트됨
+[131] (448,634)<a class='Link--muted tmp-mr-3' href='/wonseokjung/OpenAI_Retro_contest_Modulabs/stargazers' />
+[132] (467,634)<a class='Link--muted tmp-mr-3' href='/wonseokjung/OpenAI_Retro_contest_Modulabs/forks' />
+2018년 4월 29일
+[133] (782,554)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[134] (789,554)<span  />
+		[135] (789,554)<font  />
+			[136] (789,554)<font >별 />
+[137] (808,554)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-128321724-unstarred-button' />
+[138] (397,711)<a href='/wonseokjung/semi-supervised-pytorch' />
+	[139] (397,711)<font  />
+		[140] (397,711)<font >반지도 학습-파이토치 />
+공공의
+[141] (396,741)<a class='Link--muted Link--inTextBlock' href='/wohlert/semi-supervised-pytorch' />
+	[142] (396,741)<font >wohlert/semi-supervised-pytorch />
+에서 분기됨
+PyTorch에서 다양한 VAE 기반 준지도 학습 및 생성 모델 구현
+Python
+MIT 라이선스
+업데이트됨
+2018년 4월 17일에
+[143] (782,723)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[144] (789,723)<span  />
+		[145] (789,723)<font  />
+			[146] (789,723)<font >별 />
+[147] (808,723)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-135950749-unstarred-button' />
+[148] (372,881)<a href='/wonseokjung/Tangae_4_13' />
+	[149] (372,881)<font  />
+		[150] (372,881)<font >탕가_4_13 />
+공공의
+업데이트됨
+2018년 4월 13일에
+[151] (782,880)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[152] (789,880)<span  />
+		[153] (789,880)<font  />
+			[154] (789,880)<font >별 />
+[155] (808,880)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-129379262-unstarred-button' />
+RL-어드벤처
+
+</current_dom>

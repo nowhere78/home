@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+A
+Alpha
+Omega Station
+[0] (60,120)<a href='/' />
+	[1] (60,120)<div  />
+		[2] (22,120)<span >📊 />
+		[3] (42,120)<span >대시보드 />
+[4] (60,164)<a href='/web-agent' />
+	[5] (60,164)<div  />
+		[6] (22,164)<span >🌐 />
+		[7] (45,164)<span >웹 에이전트 />
+[8] (60,208)<a href='/knowledge' />
+	[9] (60,208)<div  />
+		[10] (22,208)<span >🧠 />
+		[11] (49,208)<span >지식 라이브러리 />
+[12] (60,252)<a href='/automation' />
+	[13] (60,252)<div  />
+		[14] (22,252)<span >⚡ />
+		[15] (45,252)<span >자동화 설정 />
+에이전트 군단
+[16] (60,356)<a href='/agent/luna' />
+	[17] (60,356)<div  />
+		[18] (22,356)<span >👸 />
+		[19] (43,356)<span >CEO 루나 />
+[20] (60,400)<a href='/agent/researcher' />
+	[21] (60,400)<div  />
+		[22] (22,400)<span >🔍 />
+		[23] (40,400)<span >리서처 />
+[24] (60,444)<a href='/agent/designer' />
+	[25] (60,444)<div  />
+		[26] (22,444)<span >🎨 />
+		[27] (42,444)<span >디자이너 />
+운영 센터
+[28] (60,548)<a href='/production' />
+	[29] (60,548)<div  />
+		[30] (22,548)<span >🏗️ />
+		[31] (43,548)<span >제작 공장 />
+[32] (60,592)<a href='/outputs' />
+	[33] (60,592)<div  />
+		[34] (22,592)<span >📂 />
+		[35] (47,592)<span >결과물 저장고 />
+시뮬레이션
+[36] (60,697)<a href='/simulation' />
+	[37] (60,697)<div  />
+		[38] (22,697)<span >🎮 />
+		[39] (46,697)<span >AI 가상 세계 />
+실시간 군단 지능
+Stable
+Luna v7 Final
+의사결정 중
+CEO / 전략 지휘
+Qwen 2.5 14B
+저장고 딥러닝
+리서처 / 데이터 분석
+Gemma 4 9B
+프레임 조립
+디자이너 / 렌더링
+최근 활동 로그
+>
+리서처가 'MrBeast' 전략 지표 분석 완료
+>
+디자이너가 렌더링 엔진(MoviePy) 동기화 중
+[40] (321,34)<input class='w-full bg-[#1a1a1a] border border-[#2a2a2a] rounded-full py-3 pl-12 pr-6 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all group-hover:border-gray-700 shadow-lg' placeholder='AI에게 질문하거나 웹 검색...' />
+[41] (525,34)<button class='p-2 hover:bg-[#1a1a1a] rounded-full transition-colors relative'>🔔 />
+[42] (548,34)<div  />
+Content Forge
+조회수 폭발을 위한 알고리즘 최적화 컨텐츠를 제작합니다.
+Viral Mode: HIGH
+컨텐츠 기획 데이터
+[43] (345,273)<label class='text-[10px] font-bold text-gray-500 uppercase tracking-widest'>타겟 시청자 />
+[44] (396,300)<input class='w-full bg-white/5 border border-white/10 rounded-2xl py-3 px-6 text-sm focus:outline-none focus:border-[#d4ff00]/50 transition-all' placeholder='예: 20대 대학생, 취준생' />
+[45] (353,346)<label class='text-[10px] font-bold text-gray-500 uppercase tracking-widest'>핵심 주제 (Topic) />
+[46] (396,374)<input class='w-full bg-white/5 border border-white/10 rounded-2xl py-3 px-6 text-sm focus:outline-none focus:border-[#d4ff00]/50 transition-all' placeholder='예: ChatGPT 성적 향상 프롬프트' />
+[47] (396,433)<label class='text-[10px] font-bold text-gray-500 uppercase tracking-widest block'>적용 전략 선택 />
+[48] (396,483)<div  />
+	[49] (396,475)<div >TOP 5 + 실시간 시연 />
+	[50] (396,491)<div >사용자 혜택이 즉각적으로 드러나는 리스트형 구성 />
+[51] (396,548)<div  />
+	[52] (396,540)<div >비포 & 애프터 충격 />
+	[53] (396,557)<div >극적인 결과 차이를 보여주는 비교 중심 구성 />
+[54] (396,614)<div  />
+	[55] (396,606)<div >99%가 모르는 비밀 />
+	[56] (396,622)<div >FOMO를 유도하는 정보 불균형 전략 />
+[57] (396,683)<button class='w-full py-4 bg-[#d4ff00] text-black font-black rounded-2xl text-[10px] tracking-[0.2em] uppercase hover:scale-105 transition-transform'>바이럴 스크립트 생성 (Luna CEO 승인) />
+Forge Preview
+Hook Stage
+"70명의
+타겟
+이 3개월간 실험했습니다..."
+조회수를 결정짓는 첫 30초의 훅입니다. '
+주제
+'에 대한 사회적 증거와 긴급성을 결합하여 시청자의 이탈을 막습니다.
+Main Strategy: TOP 5 Showcase
+Recommended
+0
+1
+바이럴 포인트 #
+1
+알고리즘이 선호하는 시각적 시연 요소와 즉각적인 혜택을 배치합니다.
+0
+2
+바이럴 포인트 #
+2
+알고리즘이 선호하는 시각적 시연 요소와 즉각적인 혜택을 배치합니다.
+0
+3
+바이럴 포인트 #
+3
+알고리즘이 선호하는 시각적 시연 요소와 즉각적인 혜택을 배치합니다.
+[58] (570,669)<button class='flex-1 py-4 border border-white/10 text-gray-400 hover:text-white rounded-2xl text-[10px] font-bold uppercase tracking-widest transition-all'>썸네일 A/B 테스트 생성 />
+[59] (714,669)<button class='flex-1 py-4 border border-white/10 text-gray-400 hover:text-white rounded-2xl text-[10px] font-bold uppercase tracking-widest transition-all'>쇼츠/릴스 자동 분할 />
+
+</current_dom>

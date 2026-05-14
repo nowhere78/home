@@ -1,0 +1,8 @@
+# Alpha Forge Verification Checklist
+
+- [x] Navigate to `http://localhost:3000/` and verify home page links ("에이전트 군단", "컨텐츠 포지").
+- [x] Take screenshot of home page.
+- [ ] Navigate to `http://localhost:3000/agents` and verify Luna, Kodari, Youngja cards.
+- [ ] Take screenshot of agents page.
+- [ ] Navigate to `http://localhost:3000/content-forge` and verify interactive tool.
+- [ ] Take screenshot of content forge page.

@@ -1,0 +1,204 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (65,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/wonseokjung' />
+	[3] (65,34)<span  />
+		[4] (65,33)<font  />
+			[5] (65,33)<font >원석정 />
+[6] (756,34)<button aria-label='검색 또는 바로가기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[7] (756,34)<span  />
+		[8] (762,34)<span  />
+			/
+			검색하려면
+			입력하세요
+[9] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[10] (842,34)<button aria-label='코파일럿 열기…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[11] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[12] (870,34)<span  />
+[13] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[14] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[15] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[16] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[17] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[18] (983,34)<img  />
+사용자 탐색
+[19] (34,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung' />
+	[20] (17,80)<span  />
+	[21] (41,80)<span  />
+		[22] (41,80)<font  />
+			[23] (41,80)<font >개요 />
+[24] (106,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=repositories' />
+	[25] (73,80)<span  />
+	[26] (101,80)<span  />
+		[27] (101,80)<font  />
+			[28] (101,80)<font >저장소 />
+	[29] (134,80)<span  />
+		[30] (134,80)<span  />
+			[31] (134,80)<font  />
+				[32] (134,80)<font >122 />
+		(
+		122
+		)
+[33] (175,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=projects' />
+	[34] (159,80)<span  />
+	[35] (181,80)<span  />
+		[36] (181,80)<font  />
+			[37] (181,80)<font >프로젝트 />
+[38] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=packages' />
+	[39] (211,80)<span  />
+	[40] (235,80)<span  />
+		[41] (235,80)<font  />
+			[42] (235,80)<font >패키지 />
+[43] (286,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=stars' />
+	[44] (266,80)<span  />
+	[45] (283,80)<span  />
+		[46] (283,80)<font  />
+			[47] (283,80)<font >별들 />
+	[48] (302,80)<span  />
+		[49] (302,80)<span  />
+			[50] (302,80)<font  />
+				[51] (302,80)<font >59 />
+		(
+		59
+		)
+[52] (260,305)<a class='d-block' href='https://avatars.githubusercontent.com/u/11300712?v=4' />
+	[53] (260,305)<img  />
+정원석
+원석정
+[54] (260,569)<input aria-label='원석정을 팔로우하세요' class='btn btn-block' title='원석정을 팔로우하세요' />
+ConnexionAI CEO, 뉴욕 시립대학교 바루크 칼리지 데이터 과학 전공, 일리노이 공과대학교 데이터 과학 석사, 강화 학습에 대한 열정
+[55] (209,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=followers' />
+	[56] (214,707)<font  />
+		[57] (205,707)<font >팔로워 />
+		[58] (225,707)<span  />
+			[59] (225,707)<font >263명 />
+·
+[60] (250,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[61] (250,707)<font >팔로잉 />
+[62] (271,707)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following' />
+	[63] (271,707)<span  />
+		[64] (271,707)<font >65 명 />
+[65] (241,751)<a class='Link--primary wb-break-all' href='mailto:wonseokjung@hotmail.com' />
+	[66] (241,751)<font  />
+		[67] (241,751)<font >wonseokjung@hotmail.com />
+[68] (228,781)<a class='Link--primary wb-break-all' href='https://www.youtube.com/@CONNECT-AI-LAB' />
+	[69] (228,781)<font  />
+		[70] (228,781)<font >@CONNECT-AI-LAB />
+[71] (191,840)<a class='Link--primary mb-2' href='/wonseokjung?tab=achievements' />
+	[72] (191,840)<font  />
+		[73] (191,840)<font >업적 />
+[74] (200,898)<a class='position-relative' href='/wonseokjung?achievement=pair-extraordinaire&tab=achievements' />
+	[75] (200,895)<img  />
+[76] (233,898)<a class='position-relative' href='/wonseokjung?achievement=quickdraw&tab=achievements' />
+	[77] (233,895)<img  />
+[78] (267,898)<a class='position-relative' href='/wonseokjung?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[79] (267,895)<img  />
+[80] (300,898)<a class='position-relative' href='/wonseokjung?achievement=starstruck&tab=achievements' />
+	[81] (300,895)<img  />
+[82] (200,971)<a class='position-relative' href='/wonseokjung?achievement=pull-shark&tab=achievements' />
+	[83] (200,968)<img  />
+[84] (518,148)<input aria-label='저장소를 찾아보세요…' class='form-control width-full' id='your-repos-filter' placeholder='저장소를 찾아보세요…' />
+[85] (710,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[86] (710,148)<summary class='btn' role='button' />
+		[87] (706,148)<span  />
+			[88] (706,148)<font  />
+				[89] (706,148)<font >유형 />
+		[90] (719,150)<span  />
+[91] (753,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[92] (753,148)<summary class='btn' role='button' />
+		[93] (749,148)<span  />
+			[94] (749,148)<font  />
+				[95] (749,148)<font >언어 />
+		[96] (762,150)<span  />
+[97] (797,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[98] (797,148)<summary class='btn' role='button' />
+		[99] (793,148)<span  />
+			[100] (793,148)<font  />
+				[101] (793,148)<font >종류 />
+		[102] (806,150)<span  />
+[103] (377,224)<a href='/wonseokjung/web3fitness' />
+	[104] (377,224)<font  />
+		[105] (377,224)<font >웹3피트니스 />
+공공의
+Rust
+업데이트됨
+2024년 12월 6일에
+[106] (782,223)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[107] (789,223)<span  />
+		[108] (789,223)<font  />
+			[109] (789,223)<font >별 />
+[110] (808,223)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-899516029-unstarred-button' />
+[111] (374,351)<a href='/wonseokjung/hisscollege' />
+	[112] (374,351)<font  />
+		[113] (374,351)<font >히스칼리지 />
+공공의
+파이썬
+업데이트됨
+2024년 9월 30일에
+[114] (782,350)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[115] (789,350)<span  />
+		[116] (789,350)<font  />
+			[117] (789,350)<font >별 />
+[118] (808,350)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-849857181-unstarred-button' />
+[119] (377,478)<a href='/wonseokjung/genaiwebui' />
+	[120] (377,478)<font  />
+		[121] (377,478)<font >genaiwebui />
+공공의
+[122] (375,507)<a class='Link--muted Link--inTextBlock' href='/ninjaneural/webui' />
+	[123] (375,507)<font >ninjaneural/webui />
+에서 포크됨
+Jupyter Notebook
+업데이트됨
+2023년 10월 9일
+[124] (782,480)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[125] (789,480)<span  />
+		[126] (789,480)<font  />
+			[127] (789,480)<font >별 />
+[128] (808,480)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-702746885-unstarred-button' />
+[129] (393,617)<a href='/wonseokjung/PromptEngineering' />
+	[130] (393,617)<font  />
+		[131] (393,617)<font >프롬프트엔지니어링 />
+공공의
+이 저장소는 PromptEngineering을 배우기 위한 것입니다.
+Jupyter Notebook
+업데이트됨
+2023년 7월 16일에
+[132] (782,624)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[133] (789,624)<span  />
+		[134] (789,624)<font  />
+			[135] (789,624)<font >별 />
+[136] (808,624)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-666893355-unstarred-button' />
+[137] (405,765)<a href='/wonseokjung/hackaprompt-solutions' />
+	[138] (405,765)<font  />
+		[139] (405,765)<font >hackaprompt-solutions />
+공공의
+[140] (391,794)<a class='Link--muted Link--inTextBlock' href='/gstaff/hackaprompt-solutions' />
+	[141] (391,794)<font >gstaff/hackaprompt-solutions />
+에서 포크됨
+HackAPrompt 대회에 제출한 제 솔루션입니다.
+업데이트됨
+2023년 6월 11일에
+[142] (782,777)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[143] (789,777)<span  />
+		[144] (789,777)<font  />
+			[145] (789,777)<font >별 />
+[146] (808,777)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-652707595-unstarred-button' />
+[147] (386,934)<a href='/wonseokjung/OpenAI-Unity' />
+	[148] (386,934)<font  />
+		[149] (386,934)<font >오픈아이-유니티 />
+공공의
+[150] (379,964)<a class='Link--muted Link--inTextBlock' href='/srcnalt/OpenAI-Unity' />
+	[151] (379,964)<font >srcnalt/OpenAI-Unity />
+에서 포크됨
+이 패키지는 OpenAI API를 Unity 게임 엔진에서 직접 사용할 수 있도록 돕는 비공식 OpenAI Unity 패키지입니다.
+[152] (782,952)<button aria-label='이 저장소에 별표를 눌러주세요' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[153] (789,952)<span  />
+		[154] (789,952)<font  />
+			[155] (789,952)<font >별 />
+[156] (808,952)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-658048459-unstarred-button' />
+
+</current_dom>

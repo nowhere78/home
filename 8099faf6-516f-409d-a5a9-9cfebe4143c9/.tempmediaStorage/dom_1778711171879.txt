@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (17,34)<button class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' />
+[1] (40,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderHome__nkA_U prc-Button-IconButton-fyge7' href='/' />
+[2] (77,34)<a class='styles-module__contextCrumb__IzGIq prc-Breadcrumbs-Item-jcraJ' href='/wonseokjung' />
+	[3] (77,34)<span >wonseokjung />
+[4] (766,34)<button aria-label='Search or jump to…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ Search-module__searchButton__aiE0a' />
+	[5] (766,34)<span  />
+		[6] (773,34)<span >Type
+to search />
+			Type
+			/
+			to search
+[7] (828,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/copilot' />
+[8] (842,34)<button aria-label='Open Copilot…' class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ CopilotItems-module__CopilotMenu__DVdfE' id='_R_kkjpb_' />
+[9] (874,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalCreateMenu-module__actionMenuButton__Hj_iB' id='_R_5jpb_' />
+	[10] (870,34)<span  />
+[11] (900,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/issues' />
+[12] (921,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/pulls' />
+[13] (942,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/repos' />
+[14] (963,34)<a class='prc-Button-ButtonBase-9n-Xk styles-module__appHeaderButton__axedQ prc-Button-IconButton-fyge7' href='/notifications' />
+[15] (983,34)<button class='prc-Button-ButtonBase-9n-Xk GlobalNavUserMenu-module__anchor__Dcej6 prc-Button-IconButton-fyge7' />
+	[16] (983,34)<img  />
+User navigation
+[17] (34,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung' />
+	[18] (17,80)<span  />
+	[19] (41,80)<span >Overview />
+[20] (106,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=repositories' />
+	[21] (73,80)<span  />
+	[22] (101,80)<span >Repositories />
+	[23] (134,80)<span >(
+122
+) />
+		[24] (134,80)<span >122 />
+		(
+		122
+		)
+[25] (174,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=projects' />
+	[26] (159,80)<span  />
+	[27] (181,80)<span >Projects />
+[28] (228,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=packages' />
+	[29] (210,80)<span  />
+	[30] (234,80)<span >Packages />
+[31] (285,80)<a class='prc-components-UnderlineItem-7fP-n' href='/wonseokjung?tab=stars' />
+	[32] (266,80)<span  />
+	[33] (282,80)<span >Stars />
+	[34] (301,80)<span >(
+59
+) />
+		[35] (301,80)<span >59 />
+		(
+		59
+		)
+[36] (260,305)<a class='d-block' href='https://avatars.githubusercontent.com/u/11300712?v=4' />
+	[37] (260,305)<img  />
+Wonseok Jung
+wonseokjung
+[38] (260,569)<input aria-label='Follow wonseokjung' class='btn btn-block' title='Follow wonseokjung' />
+ConnexionAI CEO
+City University of New York -Baruch College,DataScience Major
+Illinois Tech, Master - Datascience
+Love Reinforcement Learning
+[39] (211,733)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=followers'>followers />
+	[40] (200,733)<span >263 />
+·
+[41] (262,733)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following'>following />
+	[42] (247,733)<span >65 />
+[43] (241,776)<a class='Link--primary wb-break-all' href='mailto:wonseokjung@hotmail.com'>wonseokjung@hotmail.com />
+[44] (228,807)<a class='Link--primary wb-break-all' href='https://www.youtube.com/@CONNECT-AI-LAB'>@CONNECT-AI-LAB />
+[45] (210,865)<a class='Link--primary mb-2' href='/wonseokjung?tab=achievements'>Achievements />
+[46] (200,923)<a class='position-relative' href='/wonseokjung?achievement=pair-extraordinaire&tab=achievements' />
+	[47] (200,921)<img  />
+[48] (233,923)<a class='position-relative' href='/wonseokjung?achievement=quickdraw&tab=achievements' />
+	[49] (233,921)<img  />
+[50] (267,923)<a class='position-relative' href='/wonseokjung?achievement=arctic-code-vault-contributor&tab=achievements' />
+	[51] (267,921)<img  />
+[52] (300,923)<a class='position-relative' href='/wonseokjung?achievement=starstruck&tab=achievements' />
+	[53] (300,921)<img  />
+[54] (200,996)<a class='position-relative' href='/wonseokjung?achievement=pull-shark&tab=achievements' />
+	[55] (200,994)<img  />
+[56] (507,148)<input aria-label='Find a repository…' class='form-control width-full' id='your-repos-filter' placeholder='Find a repository…' />
+[57] (689,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[58] (689,148)<summary class='btn' role='button' />
+		[59] (685,148)<span >Type />
+		[60] (699,150)<span  />
+[61] (743,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[62] (743,148)<summary class='btn' role='button' />
+		[63] (739,148)<span >Language />
+		[64] (762,150)<span  />
+[65] (797,148)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[66] (797,148)<summary class='btn' role='button' />
+		[67] (793,148)<span >Sort />
+		[68] (806,150)<span  />
+[69] (385,224)<a href='/wonseokjung/Tensorflow-101'>Tensorflow-101 />
+Public
+Forked from
+[70] (419,252)<a class='Link--muted Link--inTextBlock' href='/sjchoi86/Tensorflow-101'>sjchoi86/Tensorflow-101 />
+TensorFlow Tutorials
+Jupyter Notebook
+MIT License
+Updated
+[71] (780,236)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[72] (786,236)<span >Star />
+[73] (808,236)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-77419612-unstarred-button' />
+[74] (367,392)<a href='/wonseokjung/ai-gym'>ai-gym />
+Public
+Forked from
+[75] (413,420)<a class='Link--muted Link--inTextBlock' href='/MattChanTK/ai-gym'>MattChanTK/ai-gym />
+Repository of deep learning and robotics related practice projects.
+Python
+MIT License
+Updated
+[76] (780,404)<button aria-label='Star this repository' class='js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item' />
+	[77] (786,404)<span >Star />
+[78] (808,404)<button class='Button Button--iconOnly Button--secondary Button--small rounded-right-2 rounded-left-0 px-3 tmp-px-3' id='details-user-list-125780407-unstarred-button' />
+[79] (564,553)<a aria-label='Previous page' class='previous_page' href='/wonseokjung?page=4&tab=repositories'>Previous />
+Next
+
+</current_dom>
