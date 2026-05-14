@@ -1,0 +1,80 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+[0] (379,977)<a class='cookieBarButton cookieBarMoreButton' href='https://policies.google.com/technologies/cookies?hl=en'>Learn more />
+[1] (425,977)<a class='cookieBarButton cookieBarConsentButton' href='#' role='button'>OK, got it />
+[2] (19,33)<button class='menu-btn md-button-override md-button md-ink-ripple' id='sidenav-menu-btn' />
+	[3] (19,33)<div  />
+		[4] (19,34)<md-icon  />
+[5] (76,33)<a class='header-title' href='/trends?geo=KR&hl=ko' />
+	[6] (76,37)<md-icon  />
+[7] (166,35)<a class='tab-title' href='/trends/?geo=KR&hl=ko'>홈 />
+[8] (194,35)<a class='tab-title selected' href='/trends/explore?geo=KR&hl=ko'>탐색 />
+	[9] (194,65)<div  />
+[10] (239,35)<a class='tab-title' href='/trends/trendingsearches/daily?geo=KR&hl=ko'>실시간 인기 />
+[11] (891,33)<button aria-label='공유' class='story-share md-button-override md-button' />
+	[12] (891,33)<i >share />
+[13] (921,34)<button class='header-feedback-button md-button-override md-button md-ink-ripple' />
+	[14] (920,32)<i >feedback />
+[15] (954,33)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[16] (979,33)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a gb_6' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://trends.google.com/trends/explore%3Fgeo%3DKR%26q%3D%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%2589,%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%2589%2B%25EC%25B9%25A8%25EB%25AA%25B0,%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%2589%2B%25EB%25AF%25B8%25EC%258A%25A4%25ED%2584%25B0%25EB%25A6%25AC,%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%2589%2B%25EC%25A7%2584%25EC%258B%25A4,%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%2589%2B%25EB%25B9%2584%25EB%25B0%2580&ec=GBRAPA' role='button' />
+•
+[17] (258,162)<input aria-label='검색어 추가' class='ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required flex' id='input-28' placeholder='검색어 추가' />
+[18] (302,162)<div class='search-terms-options-menu-icon-button' role='button' />
+	[19] (302,162)<md-icon  />
+검색어
+•
+[20] (379,162)<input aria-label='검색어 추가' class='ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required flex' id='input-29' placeholder='검색어 추가' />
+[21] (422,162)<div class='search-terms-options-menu-icon-button' role='button' />
+	[22] (422,162)<md-icon  />
+검색어
+•
+[23] (500,162)<input aria-label='검색어 추가' class='ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required flex' id='input-30' placeholder='검색어 추가' />
+[24] (543,162)<div class='search-terms-options-menu-icon-button' role='button' />
+	[25] (543,162)<md-icon  />
+검색어
+•
+[26] (621,162)<input aria-label='검색어 추가' class='ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required flex' id='input-31' placeholder='검색어 추가' />
+[27] (664,162)<div class='search-terms-options-menu-icon-button' role='button' />
+	[28] (664,162)<md-icon  />
+검색어
+•
+[29] (742,162)<input aria-label='검색어 추가' class='ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required flex' id='input-32' placeholder='검색어 추가' />
+[30] (785,162)<div class='search-terms-options-menu-icon-button' role='button' />
+	[31] (785,162)<md-icon  />
+검색어
+[32] (248,278)<div class='hierarchy-select ng-pristine ng-valid' role='button' />
+	대한민국
+지난 12개월
+[33] (414,278)<div class='hierarchy-select ng-pristine ng-valid' role='button' />
+	모든 카테고리
+웹 검색
+시간 흐름에 따른 관심도 변화
+[34] (354,406)<button class='help-icon-button' title='도움말' />
+	[35] (354,403)<i >help_outline />
+[36] (731,405)<button class='widget-actions-item export' title='CSV' />
+	[37] (735,405)<i >file_download />
+[38] (752,404)<button class='widget-actions-item' title='퍼가기' />
+	[39] (756,404)<i >code />
+[40] (773,404)<button class='widget-actions-item' title='공유' />
+	[41] (777,404)<i >share />
+하위 지역별 비교 분석
+하위 지역
+[42] (731,879)<button class='widget-actions-item export' title='CSV' />
+	[43] (735,879)<i >file_download />
+[44] (752,878)<button class='widget-actions-item' title='퍼가기' />
+	[45] (756,878)<i >code />
+[46] (773,878)<button class='widget-actions-item' title='공유' />
+	[47] (777,878)<i >share />
+타이타닉
+타이타닉 침몰
+타이타닉 미스터리
+타이타닉 진실
+타이타닉 비밀
+정렬:
+타이타닉에 대한 관심도
+
+</current_dom>

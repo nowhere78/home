@@ -1,0 +1,426 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (387,89)<div  />
+	[39] (387,89)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,84)<div  />
+		[41] (387,89)<div  />
+		[42] (44,89)<div  />
+			[43] (44,89)<div  />
+[44] (40,122)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,122)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (110,122)<div  />
+	[47] (110,122)<div  />
+		[48] (110,122)<div aria-label='0 분 12 초/10 분 50 초' class='ytp-time-contents' role='button' />
+			[49] (98,121)<span  />
+			[50] (108,121)<span  />
+			[51] (121,121)<span  />
+[52] (630,122)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,122)<div  />
+		[54] (630,122)<div  />
+[55] (655,122)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,134)<div  />
+[57] (680,122)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,122)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,122)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+당신의 유튜브 영상이 48시간이 지나면 죽는 이유 | '5가지만' 수정하세요
+[60] (37,225)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@%EC%9E%90%EC%83%9D%EB%B2%95' />
+	[61] (34,223)<yt-img-shadow  />
+		[62] (34,223)<img  />
+[63] (110,215)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EC%9E%90%EC%83%9D%EB%B2%95'>자생법:자본주의에서생존하는방법 />
+구독자 2.13만명
+[64] (196,225)<button aria-label='자생법:자본주의에서생존하는방법을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[65] (196,225)<yt-touch-feedback-shape  />
+		[66] (196,225)<div  />
+[67] (524,225)<button aria-label='다른 사용자 3,872명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>3.8천 />
+	3.8천
+	[68] (524,225)<yt-touch-feedback-shape  />
+		[69] (524,225)<div  />
+[70] (561,225)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[71] (561,225)<yt-touch-feedback-shape  />
+		[72] (561,225)<div  />
+[73] (600,225)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[74] (600,225)<yt-touch-feedback-shape  />
+		[75] (600,225)<div  />
+[76] (653,225)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[77] (653,225)<yt-touch-feedback-shape  />
+		[78] (653,225)<div  />
+[79] (706,225)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[80] (706,225)<yt-touch-feedback-shape  />
+		[81] (706,225)<div  />
+[82] (741,225)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[83] (741,225)<yt-touch-feedback-shape  />
+		[84] (741,225)<div  />
+조회수 103,997회
+2026. 2. 14.
+조회수가 멈춘 영상은 5단계 방법을 통해 즉시 되살려야 합니다. 하지만 근본적인 해결은 트렌드 중심의 기획과 시의성을 담은 제목·썸네일 최적화에 있음을 명심하세요
+질문하기
+궁금한 점을 해결하고, 관심 있는 주제도 살펴보세요
+[85] (58,449)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[86] (58,449)<yt-touch-feedback-shape  />
+		[87] (58,449)<div  />
+스크립트
+스크립트를 보면서 시청하세요.
+[88] (59,601)<button aria-label='스크립트 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextCallToAction ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	스크립트 표시
+	[89] (59,601)<yt-touch-feedback-shape  />
+		[90] (59,601)<div  />
+[91] (387,677)<a class='yt-simple-endpoint style-scope ytd-video-description-infocards-section-renderer' href='/@%EC%9E%90%EC%83%9D%EB%B2%95' id='header' />
+	[92] (39,677)<yt-img-shadow  />
+		[93] (39,677)<img  />
+	[94] (121,677)<div  />
+		[95] (121,668)<h3 >자생법:자본주의에서생존하는방법 />
+		[96] (121,691)<div >구독자 2.13만명 />
+[97] (55,736)<a aria-label='동영상' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='/channel/UCollr1m-KJhCkLT6mKxCVcQ/videos' />
+	동영상
+	[98] (55,736)<yt-touch-feedback-shape  />
+		[99] (55,736)<div  />
+[100] (105,736)<a aria-label='정보' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='/channel/UCollr1m-KJhCkLT6mKxCVcQ/about' />
+	정보
+	[101] (105,736)<yt-touch-feedback-shape  />
+		[102] (105,736)<div  />
+[103] (173,736)<a class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbnJhcnZYMGdHMlA0enBwR0wzRF9CSGd1M2Y4UXxBQ3Jtc0ttaFhQaGt6LWlaNkR1aEhWc29KTURCSmdGNHBUTWNtYUVYbzdaSWYyalVFcnZsdUV4ZkY2ZlpKdUxPRFBHSURCcGVZVUd0RHJNbW1ITjRxRzBtTk1UOXYyc3F5anEtUTJDZlQ1TVBDQnF3U1pjUE5Ebw&q=https%3A%2F%2Fwww.instagram.com%2Fhowtosuca%2F'>자생법 인스타그램 />
+	자생법 인스타그램
+	[104] (173,736)<yt-touch-feedback-shape  />
+		[105] (173,736)<div  />
+[106] (40,821)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='collapse' role='button'>간략히 />
+댓글
+274
+개
+[107] (113,881)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[108] (113,881)<div  />
+		[109] (113,881)<tp-yt-paper-button aria-label='댓글 정렬' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[110] (96,881)<yt-icon  />
+				[111] (96,881)<span  />
+					[112] (96,881)<div  />
+			[113] (121,881)<div >정렬 기준 />
+[114] (392,938)<div  />
+	[115] (60,935)<yt-formatted-string class='style-scope ytd-comment-simplebox-renderer' id='simplebox-placeholder' role='textbox'>댓글 추가... />
+@자생법님이 고정함
+[116] (740,994)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+	[117] (740,994)<yt-icon  />
+		[118] (740,994)<span  />
+			[119] (740,994)<div  />
+[120] (803,68)<yt-thumbnail-bottom-overlay-view-model  />
+	[121] (834,68)<div  />
+		[122] (834,66)<yt-thumbnail-badge-view-model  />
+			[123] (834,66)<badge-shape  />
+				[124] (834,66)<div >13:18 />
+유튜버 94%가 뻘짓을 하고있습니다 | 조회수 안 나오는 진짜 이유
+자생법:자본주의에서생존하는방법
+조회수 6만회
+•
+2개월 전
+[125] (864,139)<div  />
+	[126] (805,139)<a class='ytLockupViewModelContentImage' href='/watch?v=PV3LJu68nwk&list=RDPV3LJu68nwk&start_radio=1&pp=oAcB' />
+		[127] (803,139)<yt-thumbnail-view-model  />
+			[128] (803,139)<div  />
+				[129] (803,139)<img  />
+			[130] (803,177)<yt-thumbnail-bottom-overlay-view-model  />
+				[131] (803,187)<div  />
+					[132] (803,187)<div  />
+				[133] (830,177)<div  />
+					[134] (830,175)<yt-thumbnail-badge-view-model  />
+						[135] (830,175)<badge-shape  />
+							[136] (821,175)<div  />
+								[137] (821,175)<span  />
+									[138] (821,175)<div  />
+							[139] (834,175)<div >10:07 />
+	[140] (910,139)<div  />
+		[141] (910,132)<yt-lockup-metadata-view-model  />
+			[142] (910,132)<div  />
+				[143] (910,111)<h3  />
+					[144] (910,111)<a aria-label='마음의 예배 | 내 삶의 이유라 | ONEDAY CONFERENCE LIVE | SOLA SCRIPTURA | 아이자야씩스티원 | 전주 10분 7초' class='ytLockupMetadataViewModelTitle' href='/watch?v=PV3LJu68nwk&list=RDPV3LJu68nwk&start_radio=1&pp=oAcB' />
+						[145] (903,131)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>마음의 예배 | 내 삶의 이유라 | ONEDAY CONFERENCE LIVE | SOLA SCRIPTURA | 아이자야씩스티원 | 전주 />
+				[146] (910,153)<div  />
+					[147] (910,154)<yt-content-metadata-view-model  />
+						[148] (910,143)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[149] (897,143)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>아이자야씩스티원 Isaiah6tyOne />
+								[150] (939,143)<span  />
+									[151] (940,143)<span  />
+										[152] (940,143)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[153] (940,143)<span  />
+												[154] (940,143)<div  />
+						[155] (910,165)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[156] (871,165)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 256만회 />
+							[157] (895,165)<span >• />
+							[158] (906,165)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>2년 전 />
+			[159] (964,102)<div  />
+				[160] (964,102)<button-view-model  />
+					[161] (964,102)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[162] (964,102)<yt-touch-feedback-shape  />
+							[163] (964,102)<div  />
+[164] (864,248)<div  />
+	[165] (805,248)<a class='ytLockupViewModelContentImage' href='/watch?v=T0JyYS_OHNQ' />
+		[166] (803,248)<yt-thumbnail-view-model  />
+			[167] (803,248)<div  />
+				[168] (803,248)<img  />
+			[169] (803,285)<yt-thumbnail-bottom-overlay-view-model  />
+				[170] (834,285)<div  />
+					[171] (834,283)<yt-thumbnail-badge-view-model  />
+						[172] (834,283)<badge-shape  />
+							[173] (834,283)<div >28:03 />
+	[174] (910,248)<div  />
+		[175] (910,240)<yt-lockup-metadata-view-model  />
+			[176] (910,240)<div  />
+				[177] (910,219)<h3  />
+					[178] (910,219)<a aria-label='유튜브 하나로 1000억 자산가 만든 유튜브 신 28분' class='ytLockupMetadataViewModelTitle' href='/watch?v=T0JyYS_OHNQ'>유튜브 하나로 1000억 자산가 만든 유튜브 신 />
+						유튜브 하나로 1000억 자산가 만든 유튜브 신
+				[179] (910,261)<div  />
+					[180] (910,262)<yt-content-metadata-view-model  />
+						[181] (910,252)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[182] (865,252)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>현장속으로 />
+						[183] (910,273)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[184] (870,273)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 9.7만회 />
+							[185] (893,273)<span >• />
+							[186] (907,273)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>3개월 전 />
+			[187] (964,211)<div  />
+				[188] (964,211)<button-view-model  />
+					[189] (964,211)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[190] (964,211)<yt-touch-feedback-shape  />
+							[191] (964,211)<div  />
+[192] (864,359)<div  />
+	[193] (805,359)<a class='ytLockupViewModelContentImage' href='/watch?v=stLxfC68OVw' />
+		[194] (803,356)<yt-thumbnail-view-model  />
+			[195] (803,356)<div  />
+				[196] (803,356)<img  />
+			[197] (803,394)<yt-thumbnail-bottom-overlay-view-model  />
+				[198] (836,394)<div  />
+					[199] (836,392)<yt-thumbnail-badge-view-model  />
+						[200] (836,392)<badge-shape  />
+							[201] (836,392)<div >9:20 />
+	[202] (910,359)<div  />
+		[203] (910,359)<yt-lockup-metadata-view-model  />
+			[204] (910,359)<div  />
+				[205] (910,328)<h3  />
+					[206] (910,328)<a aria-label='AI로 30일동안 1일1영상 해봤습니다 9분 20초' class='ytLockupMetadataViewModelTitle' href='/watch?v=stLxfC68OVw' />
+						[207] (902,327)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>AI로 30일동안 1일1영상 해봤습니다 />
+				[208] (910,380)<div  />
+					[209] (910,381)<yt-content-metadata-view-model  />
+						[210] (910,360)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[211] (856,360)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>영진 />
+						[212] (910,381)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[213] (870,381)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 3.3천회 />
+							[214] (893,381)<span >• />
+							[215] (904,381)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>6일 전 />
+						[216] (910,403)<div class='ytContentMetadataViewModelMetadataRow ytContentMetadataViewModelMetadataRowMetadataRowWrap' role='group' />
+							[217] (865,403)<div  />
+								[218] (865,403)<yt-badge-view-model  />
+									[219] (865,403)<badge-shape  />
+										[220] (865,403)<div >새 동영상 />
+			[221] (964,319)<div  />
+				[222] (964,319)<button-view-model  />
+					[223] (964,319)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[224] (964,319)<yt-touch-feedback-shape  />
+							[225] (964,319)<div  />
+[226] (864,471)<div  />
+	[227] (805,471)<a class='ytLockupViewModelContentImage' href='/watch?v=QiDiOio5b_c' />
+		[228] (803,471)<yt-thumbnail-view-model  />
+			[229] (803,471)<div  />
+				[230] (803,471)<img  />
+			[231] (803,508)<yt-thumbnail-bottom-overlay-view-model  />
+				[232] (836,508)<div  />
+					[233] (836,506)<yt-thumbnail-badge-view-model  />
+						[234] (836,506)<badge-shape  />
+							[235] (836,506)<div >7:36 />
+	[236] (910,471)<div  />
+		[237] (910,463)<yt-lockup-metadata-view-model  />
+			[238] (910,463)<div  />
+				[239] (910,442)<h3  />
+					[240] (910,442)<a aria-label='"제발 구독자 모으지 마세요." 유튜브 담당자가 말하는 신규 채널 떡상 비법 ('취향 도플갱어' 이론) 7분 36초' class='ytLockupMetadataViewModelTitle' href='/watch?v=QiDiOio5b_c'>"제발 구독자 모으지 마세요." 유튜브 담당자가 말하는 신규 채널 떡상 비법 ('취향 도플갱어' 이론) />
+						"제발 구독자 모으지 마세요." 유튜브 담당자가 말하는 신규 채널 떡상 비법 ('취향 도플갱어' 이론)
+				[241] (910,484)<div  />
+					[242] (910,485)<yt-content-metadata-view-model  />
+						[243] (910,475)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[244] (907,475)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>원초적 인사이트 : 쇼츠로 파이프라인 만들기 />
+						[245] (910,496)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[246] (868,496)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 3만회 />
+							[247] (888,496)<span >• />
+							[248] (902,496)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>3개월 전 />
+			[249] (964,433)<div  />
+				[250] (964,433)<button-view-model  />
+					[251] (964,433)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[252] (964,433)<yt-touch-feedback-shape  />
+							[253] (964,433)<div  />
+[254] (864,579)<div  />
+	[255] (805,579)<a class='ytLockupViewModelContentImage' href='/watch?v=AOgIgRxrpZg' />
+		[256] (803,579)<yt-thumbnail-view-model  />
+			[257] (803,579)<div  />
+				[258] (803,579)<img  />
+			[259] (803,616)<yt-thumbnail-bottom-overlay-view-model  />
+				[260] (834,616)<div  />
+					[261] (834,614)<yt-thumbnail-badge-view-model  />
+						[262] (834,614)<badge-shape  />
+							[263] (834,614)<div >10:20 />
+	[264] (910,579)<div  />
+		[265] (910,571)<yt-lockup-metadata-view-model  />
+			[266] (910,571)<div  />
+				[267] (910,550)<h3  />
+					[268] (910,550)<a aria-label='유튜버의 99%가 이 쉬운 10가지 설정을 안해서 수익이 반토막 납니다 10분 20초' class='ytLockupMetadataViewModelTitle' href='/watch?v=AOgIgRxrpZg' />
+						[269] (903,550)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>유튜버의 99%가 이 쉬운 10가지 설정을 안해서 수익이 반토막 납니다 />
+				[270] (910,593)<div  />
+					[271] (910,594)<yt-content-metadata-view-model  />
+						[272] (910,583)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[273] (895,583)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>자생법:자본주의에서생존하는방법 />
+						[274] (910,604)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[275] (869,604)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 20만회 />
+							[276] (891,604)<span >• />
+							[277] (903,604)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1년 전 />
+			[278] (964,542)<div  />
+				[279] (964,542)<button-view-model  />
+					[280] (964,542)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[281] (964,542)<yt-touch-feedback-shape  />
+							[282] (964,542)<div  />
+[283] (864,688)<div  />
+	[284] (805,688)<a class='ytLockupViewModelContentImage' href='/watch?v=mTwsyeeC4qQ&list=RDmTwsyeeC4qQ&start_radio=1&pp=oAcB' />
+		[285] (803,688)<yt-thumbnail-view-model  />
+			[286] (803,688)<div  />
+				[287] (803,688)<img  />
+			[288] (803,725)<yt-thumbnail-bottom-overlay-view-model  />
+				[289] (828,725)<div  />
+					[290] (828,723)<yt-thumbnail-badge-view-model  />
+						[291] (828,723)<badge-shape  />
+							[292] (816,723)<div  />
+								[293] (816,723)<span  />
+									[294] (816,723)<div  />
+							[295] (832,723)<div >2:00:13 />
+	[296] (910,688)<div  />
+		[297] (910,680)<yt-lockup-metadata-view-model  />
+			[298] (910,680)<div  />
+				[299] (910,659)<h3  />
+					[300] (910,659)<a aria-label='[2시간] MY GOD - 깊은 기도로 인도하는 음악 / Deep Pray Music / Relaxation Music / Meditation Music / my god 2시간' class='ytLockupMetadataViewModelTitle' href='/watch?v=mTwsyeeC4qQ&list=RDmTwsyeeC4qQ&start_radio=1&pp=oAcB' />
+						[301] (902,679)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>[2시간] MY GOD - 깊은 기도로 인도하는 음악 / Deep Pray Music / Relaxation Music / Meditation Music / my god />
+				[302] (910,701)<div  />
+					[303] (910,702)<yt-content-metadata-view-model  />
+						[304] (910,692)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[305] (895,692)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>Christian BGM 크리스찬 BGM />
+								[306] (935,692)<span  />
+									[307] (936,692)<span  />
+										[308] (936,692)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+											[309] (936,692)<span  />
+												[310] (936,692)<div  />
+						[311] (910,713)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[312] (871,713)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 215만회 />
+							[313] (895,713)<span >• />
+							[314] (906,713)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>5년 전 />
+			[315] (964,650)<div  />
+				[316] (964,650)<button-view-model  />
+					[317] (964,650)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[318] (964,650)<yt-touch-feedback-shape  />
+							[319] (964,650)<div  />
+[320] (864,796)<div  />
+	[321] (805,796)<a class='ytLockupViewModelContentImage' href='/watch?v=ctUMl33mYQ8&pp=ugUEEgJrbw%3D%3D' />
+		[322] (803,796)<yt-thumbnail-view-model  />
+			[323] (803,796)<div  />
+				[324] (803,796)<img  />
+			[325] (803,833)<yt-thumbnail-bottom-overlay-view-model  />
+				[326] (834,833)<div  />
+					[327] (834,831)<yt-thumbnail-badge-view-model  />
+						[328] (834,831)<badge-shape  />
+							[329] (834,831)<div >10:06 />
+	[330] (910,796)<div  />
+		[331] (910,788)<yt-lockup-metadata-view-model  />
+			[332] (910,788)<div  />
+				[333] (910,767)<h3  />
+					[334] (910,767)<a aria-label='해외 천재유튜버들이 몰래 쓰는 니치밴딩 전략 10분 6초' class='ytLockupMetadataViewModelTitle' href='/watch?v=ctUMl33mYQ8&pp=ugUEEgJrbw%3D%3D' />
+						[335] (901,767)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>해외 천재유튜버들이 몰래 쓰는 니치밴딩 전략 />
+				[336] (910,810)<div  />
+					[337] (910,811)<yt-content-metadata-view-model  />
+						[338] (910,800)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[339] (895,800)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>자생법:자본주의에서생존하는방법 />
+						[340] (910,821)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[341] (870,821)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 8.2만회 />
+							[342] (893,821)<span >• />
+							[343] (907,821)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1개월 전 />
+			[344] (964,759)<div  />
+				[345] (964,759)<button-view-model  />
+					[346] (964,759)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[347] (964,759)<yt-touch-feedback-shape  />
+							[348] (964,759)<div  />
+[349] (864,904)<div  />
+	[350] (805,904)<a class='ytLockupViewModelContentImage' href='/watch?v=DrekqeDlO1w&pp=ugUEEgJrbw%3D%3D' />
+		[351] (803,904)<yt-thumbnail-view-model  />
+			[352] (803,904)<div  />
+				[353] (803,904)<img  />
+			[354] (803,942)<yt-thumbnail-bottom-overlay-view-model  />
+				[355] (803,952)<div  />
+					[356] (803,952)<div  />
+				[357] (834,942)<div  />
+					[358] (834,940)<yt-thumbnail-badge-view-model  />
+						[359] (834,940)<badge-shape  />
+							[360] (834,940)<div >17:20 />
+	[361] (910,904)<div  />
+		[362] (910,897)<yt-lockup-metadata-view-model  />
+			[363] (910,897)<div  />
+				[364] (910,876)<h3  />
+					[365] (910,876)<a aria-label='하네스 공식문서 100번 읽은 것처럼 만들어드림 17분' class='ytLockupMetadataViewModelTitle' href='/watch?v=DrekqeDlO1w&pp=ugUEEgJrbw%3D%3D' />
+						[366] (901,875)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>하네스 공식문서 100번 읽은 것처럼 만들어드림 />
+				[367] (910,918)<div  />
+					[368] (910,919)<yt-content-metadata-view-model  />
+						[369] (910,908)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[370] (874,908)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>아는 개발자 | 캐슬 />
+						[371] (910,930)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+							[372] (869,930)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 16만회 />
+							[373] (891,930)<span >• />
+							[374] (905,930)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1개월 전 />
+			[375] (964,867)<div  />
+				[376] (964,867)<button-view-model  />
+					[377] (964,867)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+						[378] (964,867)<yt-touch-feedback-shape  />
+							[379] (964,867)<div  />
+[380] (910,984)<h3  />
+	[381] (910,984)<a aria-label='주님 계신 곳에 나가리 | 주 경외하는 것 | Awesome In This Place | 2025 Worship Conference | BORN ZEAL 11분 48초' class='ytLockupMetadataViewModelTitle' href='/watch?v=IAjlqNJw68s&list=RDIAjlqNJw68s&start_radio=1&pp=oAcB' />
+		[382] (902,1005)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>주님 계신 곳에 나가리 | 주 경외하는 것 | Awesome In This Place | 2025 Worship Conference | BORN ZEAL />
+[383] (964,976)<div  />
+	[384] (964,976)<button-view-model  />
+		[385] (964,976)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[386] (964,976)<yt-touch-feedback-shape  />
+				[387] (964,976)<div  />
+
+</current_dom>

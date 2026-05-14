@@ -1,0 +1,105 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+[0] (379,977)<a class='cookieBarButton cookieBarMoreButton' href='https://policies.google.com/technologies/cookies?hl=en'>Learn more />
+[1] (425,977)<a class='cookieBarButton cookieBarConsentButton' href='#' role='button'>OK, got it />
+색상의 농도는 검색어의 비율을 나타냅니다.
+자세히 알아보기
+5
+대전광역시
+16개 하위 지역 중 1-5번 표시 중
+타이타닉
+하위 지역별 관심도
+[2] (292,320)<button class='help-icon-button' title='도움말' />
+	[3] (292,320)<i >help_outline />
+하위 지역
+[4] (408,320)<button class='toggle-button list-image' title='목록 보기' />
+[5] (425,321)<button class='widget-actions-item export' title='CSV' />
+	[6] (429,321)<i >file_download />
+[7] (446,320)<button class='widget-actions-item' title='퍼가기' />
+	[8] (450,320)<i >code />
+[9] (467,320)<button class='widget-actions-item' title='공유' />
+	[10] (471,320)<i >share />
+관련 검색어
+[11] (574,320)<button class='help-icon-button' title='도움말' />
+	[12] (574,320)<i >help_outline />
+급상승
+[13] (731,321)<button class='widget-actions-item export' title='CSV' />
+	[14] (735,321)<i >file_download />
+[15] (752,320)<button class='widget-actions-item' title='퍼가기' />
+	[16] (756,320)<i >code />
+[17] (773,320)<button class='widget-actions-item' title='공유' />
+	[18] (777,320)<i >share />
+[19] (647,397)<a class='progress-label transition-width' href='/trends/explore?q=%EB%8D%B0%EB%AA%AC+%EC%97%91%EC%8A%A4+%EB%A7%88%ED%82%A4%EB%82%98&date=today+12-m&geo=KR' />
+	[20] (655,397)<div  />
+		[21] (529,397)<div >1 />
+		[22] (674,397)<div  />
+			[23] (563,397)<span >데몬 엑스 마키나 />
+		[24] (741,398)<div >급등 />
+[25] (790,401)<button class='item-menu-btn' />
+	[26] (786,398)<i >more_vert />
+[27] (647,464)<a class='progress-label transition-width' href='/trends/explore?q=%EB%8D%B0%EB%AA%AC+%EC%97%91%EC%8A%A4+%EB%A7%88%ED%82%A4%EB%82%98+%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89+%EC%82%AC%EC%9D%B4%EC%96%B8&date=today+12-m&geo=KR' />
+	[28] (655,464)<div  />
+		[29] (529,464)<div >2 />
+		[30] (674,464)<div  />
+			[31] (591,463)<span >데몬 엑스 마키나 타이타닉 사이언 />
+		[32] (741,465)<div >급등 />
+[33] (790,467)<button class='item-menu-btn' />
+	[34] (786,465)<i >more_vert />
+[35] (647,531)<a class='progress-label transition-width' href='/trends/explore?q=%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89+%EC%9E%90%EB%8F%99%EC%B0%A8+%EC%94%AC&date=today+12-m&geo=KR' />
+	[36] (655,531)<div  />
+		[37] (529,531)<div >3 />
+		[38] (674,531)<div  />
+			[39] (566,530)<span >타이타닉 자동차 씬 />
+		[40] (741,531)<div >급등 />
+[41] (790,534)<button class='item-menu-btn' />
+	[42] (786,531)<i >more_vert />
+[43] (647,597)<a class='progress-label transition-width' href='/trends/explore?q=%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89+%EC%B9%A8%EB%AA%B0+%EC%9E%A5%EC%86%8C&date=today+12-m&geo=KR' />
+	[44] (655,597)<div  />
+		[45] (529,597)<div >4 />
+		[46] (674,597)<div  />
+			[47] (566,597)<span >타이타닉 침몰 장소 />
+		[48] (741,598)<div >급등 />
+[49] (790,601)<button class='item-menu-btn' />
+	[50] (786,598)<i >more_vert />
+[51] (647,664)<a class='progress-label transition-width' href='/trends/explore?q=%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89+%EC%97%AC+%EC%A3%BC%EC%9D%B8%EA%B3%B5&date=today+12-m&geo=KR' />
+	[52] (655,664)<div  />
+		[53] (529,664)<div >5 />
+		[54] (674,664)<div  />
+			[55] (566,663)<span >타이타닉 여 주인공 />
+		[56] (741,665)<div >+300% />
+[57] (790,667)<button class='item-menu-btn' />
+	[58] (786,665)<i >more_vert />
+6개 검색어 중 1-5번 표시 중
+[59] (700,744)<button aria-label='Next' class='md-button md-ink-ripple' />
+	[60] (700,744)<md-icon class='material-icons arrow-right-active' />
+타이타닉 침몰
+하위 지역별 관심도
+[61] (292,919)<button class='help-icon-button' title='도움말' />
+	[62] (292,919)<i >help_outline />
+하위 지역
+[63] (408,919)<button class='toggle-button list-image' title='목록 보기' />
+[64] (425,920)<button class='widget-actions-item export' title='CSV' />
+	[65] (429,920)<i >file_download />
+[66] (446,919)<button class='widget-actions-item' title='퍼가기' />
+	[67] (450,919)<i >code />
+[68] (467,919)<button class='widget-actions-item' title='공유' />
+	[69] (471,919)<i >share />
+관련 검색어
+[70] (574,919)<button class='help-icon-button' title='도움말' />
+	[71] (574,919)<i >help_outline />
+급상승
+[72] (731,920)<button class='widget-actions-item export' title='CSV' />
+	[73] (735,920)<i >file_download />
+[74] (752,919)<button class='widget-actions-item' title='퍼가기' />
+	[75] (756,919)<i >code />
+[76] (773,919)<button class='widget-actions-item' title='공유' />
+	[77] (777,919)<i >share />
+1
+타이타닉 침몰 깊이
++180%
+more_vert
+
+</current_dom>

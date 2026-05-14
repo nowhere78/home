@@ -1,0 +1,219 @@
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (387,711)<div  />
+	[39] (387,711)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,706)<div  />
+		[41] (387,711)<div  />
+		[42] (44,711)<div  />
+			[43] (44,711)<div  />
+[44] (40,744)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,744)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[46] (110,744)<div  />
+	[47] (110,744)<div  />
+		[48] (110,744)<div aria-label='0 분 12 초/10 분 50 초' class='ytp-time-contents' role='button' />
+			[49] (98,743)<span  />
+			[50] (108,743)<span  />
+			[51] (121,743)<span  />
+[52] (630,744)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,744)<div  />
+		[54] (630,744)<div  />
+[55] (655,744)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,757)<div  />
+[57] (680,744)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,744)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,744)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+당신의 유튜브 영상이 48시간이 지나면 죽는 이유 | '5가지만' 수정하세요
+[60] (37,847)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@%EC%9E%90%EC%83%9D%EB%B2%95' />
+	[61] (34,845)<yt-img-shadow  />
+		[62] (34,845)<img  />
+[63] (110,838)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EC%9E%90%EC%83%9D%EB%B2%95'>자생법:자본주의에서생존하는방법 />
+구독자 2.13만명
+[64] (196,847)<button aria-label='자생법:자본주의에서생존하는방법을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[65] (196,847)<yt-touch-feedback-shape  />
+		[66] (196,847)<div  />
+[67] (524,847)<button aria-label='다른 사용자 3,872명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>3.8천 />
+	3.8천
+	[68] (524,847)<yt-touch-feedback-shape  />
+		[69] (524,847)<div  />
+[70] (561,847)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[71] (561,847)<yt-touch-feedback-shape  />
+		[72] (561,847)<div  />
+[73] (600,847)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[74] (600,847)<yt-touch-feedback-shape  />
+		[75] (600,847)<div  />
+[76] (653,847)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[77] (653,847)<yt-touch-feedback-shape  />
+		[78] (653,847)<div  />
+[79] (706,847)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[80] (706,847)<yt-touch-feedback-shape  />
+		[81] (706,847)<div  />
+[82] (741,847)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[83] (741,847)<yt-touch-feedback-shape  />
+		[84] (741,847)<div  />
+조회수 103,997회
+2026. 2. 14.
+조회수가 멈춘 영상은 5단계 방법을 통해 즉시 되살려야 합니다. 하지만 근본적인 해결은 트렌드 중심의 기획과 시의성을 담은 제목·썸네일 최적화에 있음을 명심하세요
+질문하기
+스크립트
+[85] (931,115)<button aria-label='추가 작업' class='style-scope yt-icon-button' id='button' />
+	[86] (931,115)<yt-icon  />
+		[87] (931,115)<span  />
+			[88] (931,115)<div  />
+[89] (956,115)<button aria-label='스크립트 닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[90] (956,115)<yt-touch-feedback-shape  />
+		[91] (956,115)<div  />
+[92] (879,162)<input class='style-scope ytd-transcript-search-box-renderer' id='transcript-search-box-input' placeholder='동영상에서 검색' role='combobox' />
+[93] (864,528)<ytd-transcript-segment-list-renderer class='style-scope ytd-transcript-search-panel-renderer' scrollable='true' />
+	0:20
+	[음악]
+	0:20
+	해당 영상에 대한 명확한 핵심
+	0:23
+	키워드를 넣으세요. 구글은 영상
+	0:25
+	챕터의 정보를 읽습니다. 그리고
+	0:27
+	이것은 구글에 정확하게 그대로 노출이
+	[94] (860,212)<div aria-label='29초 됩니다. 예를 들어 구글의 타이어를' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[95] (777,214)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[96] (777,214)<div >0:29 />
+		[97] (873,214)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>됩니다. 예를 들어 구글의 타이어를 />
+	[98] (860,252)<div aria-label='31초 교체하는 방법을 검색해 보겠습니다.' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[99] (777,254)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[100] (777,254)<div >0:31 />
+		[101] (873,254)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>교체하는 방법을 검색해 보겠습니다. />
+	[102] (860,292)<div aria-label='33초 구글은 각 챕터의 주요 순간과 챕터를' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[103] (777,294)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[104] (777,294)<div >0:33 />
+		[105] (873,294)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>구글은 각 챕터의 주요 순간과 챕터를 />
+	[106] (860,332)<div aria-label='36초 그대로 보여 줍니다. 두 [음악]' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[107] (777,334)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[108] (777,334)<div >0:36 />
+		[109] (873,334)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>그대로 보여 줍니다. 두 [음악] />
+	[110] (860,372)<div aria-label='37초 번째 재생 목록을 최대한 빨리' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[111] (777,375)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[112] (777,375)<div >0:37 />
+		[113] (873,375)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>번째 재생 목록을 최대한 빨리 />
+	[114] (860,413)<div aria-label='39초 만드세요. 지금 즉시 죽은 영상이' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[115] (777,415)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[116] (777,415)<div >0:39 />
+		[117] (873,415)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>만드세요. 지금 즉시 죽은 영상이 />
+	[118] (860,453)<div aria-label='41초 포함될 수 있는 재생 목록을' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[119] (777,455)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[120] (777,455)<div >0:41 />
+		[121] (873,455)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>포함될 수 있는 재생 목록을 />
+	[122] (860,493)<div aria-label='43초 만드세요. 그리고 그 재생 목록의' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[123] (777,495)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[124] (777,495)<div >0:43 />
+		[125] (873,495)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>만드세요. 그리고 그 재생 목록의 />
+	[126] (860,533)<div aria-label='45초 영상을 넣어 주세요. 하지만 이때' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[127] (777,535)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[128] (777,535)<div >0:45 />
+		[129] (873,535)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>영상을 넣어 주세요. 하지만 이때 />
+	[130] (860,574)<div aria-label='48초 주의할 점이 있습니다. 재생 목록의' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[131] (777,576)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[132] (777,576)<div >0:48 />
+		[133] (873,576)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>주의할 점이 있습니다. 재생 목록의 />
+	[134] (860,614)<div aria-label='50초 설명에이 재생 목록에 대한 명확한' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[135] (777,616)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[136] (777,616)<div >0:50 />
+		[137] (873,616)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>설명에이 재생 목록에 대한 명확한 />
+	[138] (860,654)<div aria-label='52초 설명을 적어 주세요.이 이 또한' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[139] (777,656)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[140] (777,656)<div >0:52 />
+		[141] (873,656)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>설명을 적어 주세요.이 이 또한 />
+	[142] (860,694)<div aria-label='54초 알고리즘을 한 번 더 설득합니다. 세' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[143] (777,696)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[144] (777,696)<div >0:54 />
+		[145] (873,696)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>알고리즘을 한 번 더 설득합니다. 세 />
+	[146] (860,734)<div aria-label='57초 번째, 여러분이 채널에서 조회수가' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[147] (777,737)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[148] (777,737)<div >0:57 />
+		[149] (873,737)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>번째, 여러분이 채널에서 조회수가 />
+	[150] (860,775)<div aria-label='58초 높은 인기 영상들의 엔딩 화면에 죽은' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[151] (777,777)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[152] (777,777)<div >0:58 />
+		[153] (873,777)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>높은 인기 영상들의 엔딩 화면에 죽은 />
+	[154] (860,815)<div aria-label='1분 1초 영상을 배치하세요. 이것은 여러분' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[155] (777,817)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[156] (777,817)<div >1:01 />
+		[157] (873,817)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>영상을 배치하세요. 이것은 여러분 />
+	[158] (860,855)<div aria-label='1분 3초 채널에 들어오는 시청자를 강제로 죽은' class='segment style-scope ytd-transcript-segment-renderer' role='button' />
+		[159] (777,857)<div class='segment-start-offset style-scope ytd-transcript-segment-renderer' />
+			[160] (777,857)<div >1:03 />
+		[161] (873,857)<yt-formatted-string class='segment-text style-scope ytd-transcript-segment-renderer'>채널에 들어오는 시청자를 강제로 죽은 />
+	1:05
+	영상에 주입하는 효과가 있습니다.
+	1:07
+	영상의 세부 정보, 엔딩하면,
+	1:11
+	요소, 특정 동영상을 통해 죽은
+[162] (804,889)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[163] (804,889)<div  />
+		[164] (804,889)<tp-yt-paper-button class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button'>한국어 (자동 생성됨) />
+			한국어 (자동 생성됨)
+[165] (772,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[166] (772,949)<div >모두 />
+		모두
+		[167] (772,949)<yt-touch-feedback-shape  />
+			[168] (772,949)<div  />
+[169] (854,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[170] (854,949)<div >자생법:자본주의에서생존하는방법 제공 />
+		자생법:자본주의에서생존하는방법 제공
+		[171] (854,949)<yt-touch-feedback-shape  />
+			[172] (854,949)<div  />
+관련 콘텐츠
+추천
+[173] (956,951)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[174] (956,951)<yt-touch-feedback-shape  />
+		[175] (956,951)<div  />
+[176] (910,999)<h3  />
+	[177] (910,999)<a aria-label='Worship FLOW | #5 | Prayer Music | 기도찬양 | 아이자야씩스티원 17분' class='ytLockupMetadataViewModelTitle' href='/watch?v=fJwb9JwWdns&list=RDfJwb9JwWdns&start_radio=1&pp=oAcB'>Worship FLOW | #5 | Prayer Music | 기도찬양 | 아이자야씩스티원 />
+		Worship FLOW | #5 | Prayer Music | 기도찬양 | 아이자야씩스티원
+[178] (964,990)<div  />
+	[179] (964,990)<button-view-model  />
+		[180] (964,990)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[181] (964,990)<yt-touch-feedback-shape  />
+				[182] (964,990)<div  />

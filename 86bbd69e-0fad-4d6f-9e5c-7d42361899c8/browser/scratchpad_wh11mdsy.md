@@ -1,0 +1,11 @@
+# YouTube Channel Strategy Scratchpad (@honeyjarfinds)
+
+## Checklist
+- [ ] Identify a 'dead' video from @honeyjarfinds (Titanic/Mystery focus)
+- [ ] Research high-volume keywords for the dead video (Google Trends)
+- [ ] Draft 'Revival Chapters' and 'Pinned Comment'
+- [ ] Research trending topics for the next Mystery/Fact video
+- [ ] Create a Python script/idea for thumbnail/title generation
+
+## Findings
+- Dead Video Candidate: "타이타닉 비밀 3편: 침몰의 진짜 범인은 빙
