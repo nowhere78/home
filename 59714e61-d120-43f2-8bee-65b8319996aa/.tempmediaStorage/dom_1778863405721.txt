@@ -1,0 +1,58 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+문자변환 | 일레븐랩스
+새문자만들기
+내용으로 건너뛰기
+조선 왕비, 사실 아무도 하기 싫어했던 극한직업이었다는 거 아세요? 무려 상궁 8명이 지켜보는 가운데 합궁을 해야 했습니다. 혹시나 왕이 복상사할까 봐, 즉석에서 닭 피를 먹이려고 대기한 거죠. 로맨스? 그딴 거 없습니다. 그래서 양반가에선 딸을 왕비 안 만들려고 일부러 몰래 시집보내고 난리였습니다. 최종 면접 탈락? 그럼 평생 재혼 금지, 강제 솔로 확정이었거든요. 업무 강도는요? 1년 제사만 50번! 독박 육아에 내명부 관리까지. 이건 그냥 퇴사가 불가능한 조선판 블랙기업 그 자체였습니다. 하지만 이 지옥을 버티고 대비가 되면? 그때부턴 옥새 쥐고 나라를 흔드는 실세가 됩니다! 수렴청정 한 번이면 왕도 내 마음대로! 인생 역전이죠. 자, 여러분이라면 어떤 삶을 고르시겠어요? 댓글로 알려주세요!
+Dong - Korean man in his 40s
+·
+Created 9분 전
+0:38
+1:08
+공유
+[0] (45,26)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-[10px] pointer-events-auto cursor-e-resize p-0 h-8 w-8 text-gray-500 hover:text-gray-alpha-950 duration-100 transition-colors shrink-0' />
+문자변환
+피드백
+문서
+연락하기
+이 숫자를 말하는 비디오로 변환하세요
+독립적으로 다운로드한 것을 사용하여 신체적인 활동감이 있다는 것을 알려줄 수 있습니다.
+비디오 만들기
+9,606 크레딧 남음
+394
+/
+5,000
+문자
+인쇄 생성
+설정
+기록
+면
+모델
+데이트
+오늘
+왕비, 사실이기 때문에 싫어하는 극한직업이었다는 거 아세요? 존재하는 상궁 8명이 지켜보는 가운데 합궁을 원하지 않았습니다. 혹시나 왕이 복상사할까, 즉석에서 닭고기를 먹이려고 노력합니다. 로맨스? 그딴 거 없어요. 그래서 양반가 이야기를 왕비 안 만들어보려고 일부러 시집보내고 난리였습니다. 특별하게 특별하게? 그러면 계속 재혼을 금지하고 싶다고 하더군요. 업무적으로요? 1년 제사만 50번! 독박 장난감에 내명부 관리까지. 유일하게 스위치를 사용하는 조선기업이 자체였습니다. 하지만 이 지옥을 버티고 비교해야 합니까? 언제 어디서나 옥새 경기를 자주 진행하십시오! 수렴청정 한 번이면 왕도 내 마음대로! 인생역전은 다음과 같습니다. 자, 여러분이라면 어떤 삶을 선택하시겠습니까? 댓글로 알려주세요!
+동 - 40
+대 한국 남성
+10분 전
+[1] (950,393)<div  />
+	[2] (950,393)<div class='z-50 bg-popover/90 backdrop-blur text-popover-foreground shadow-popover-sm data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 p-1 rounded-[10px] min-w-[8rem]' id='radix-_r_a9_' role='menu' />
+		[3] (950,338)<div class='transition-colors focus:text-foreground w-full data-[disabled]:pointer-events-none data-[disabled]:opacity-50 flex cursor-pointer select-none items-center outline-none focus:bg-gray-alpha-100 data-[state=open]:bg-gray-alpha-100 px-2 py-1.5 text-sm rounded-lg relative pr-9' role='menuitem' />
+			[4] (931,338)<div  />
+				[5] (931,338)<p  />
+					[6] (931,337)<font  />
+						[7] (931,337)<font >MP3 />
+		[8] (950,371)<div class='transition-colors focus:text-foreground w-full data-[disabled]:pointer-events-none data-[disabled]:opacity-50 flex cursor-pointer select-none items-center outline-none focus:bg-gray-alpha-100 data-[state=open]:bg-gray-alpha-100 px-2 py-1.5 text-sm rounded-lg relative pr-9' role='menuitem' />
+			WAV
+			[9] (950,371)<div  />
+				[10] (973,371)<div  />
+		[11] (950,405)<div class='flex cursor-pointer select-none items-center outline-none focus:bg-gray-alpha-100 data-[state=open]:bg-gray-alpha-100 px-2 py-1.5 text-sm rounded-lg data-[disabled]:pointer-events-none data-[disabled]:opacity-50 data-[disabled]:cursor-default' id='radix-_r_be_' role='menuitem' />
+			[12] (933,405)<font  />
+				[13] (933,405)<font >차별화 />
+		[14] (950,427)<div class='h-px bg-border -mx-1 my-1' role='separator' />
+		[15] (950,449)<div class='relative transition-colors focus:text-foreground w-full data-[disabled]:pointer-events-none data-[disabled]:opacity-50 flex cursor-pointer select-none items-center outline-none focus:bg-gray-alpha-100 data-[state=open]:bg-gray-alpha-100 px-2 py-1.5 text-sm rounded-lg' role='menuitem' />
+			[16] (941,449)<font  />
+				[17] (941,448)<font >파일에 저장 />
+
+</current_dom>

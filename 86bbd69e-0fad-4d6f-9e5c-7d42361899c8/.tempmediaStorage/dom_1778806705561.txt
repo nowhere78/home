@@ -1,0 +1,251 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 대시보드
+[0] (20,34)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (20,34)<yt-icon  />
+		[2] (20,34)<span  />
+			[3] (20,34)<div  />
+[4] (65,38)<a class='style-scope ytcp-home-button' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (65,32)<img  />
+[6] (500,34)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[7] (856,34)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[8] (856,34)<yt-icon  />
+		[9] (856,34)<span  />
+			[10] (856,34)<div  />
+[11] (877,34)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[12] (877,34)<yt-icon  />
+		[13] (877,34)<span  />
+			[14] (877,34)<div  />
+[15] (898,34)<ytcp-icon-button aria-label='알림' role='button' />
+	[16] (898,34)<yt-icon  />
+		[17] (898,34)<span  />
+			[18] (898,34)<div  />
+[19] (937,34)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[20] (937,34)<yt-touch-feedback-shape  />
+		[21] (937,34)<div  />
+[22] (979,34)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[23] (979,34)<yt-img-shadow  />
+		[24] (979,34)<img  />
+내 채널
+꿀피 (꿀단지 Finds)
+[25] (66,313)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA' id='menu-item-0' role='menuitem' />
+	[26] (66,313)<tp-yt-paper-icon-item class='dashboard iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+		[27] (19,313)<div  />
+			[28] (19,313)<yt-icon  />
+				[29] (19,313)<span  />
+					[30] (19,313)<div  />
+		[31] (52,313)<div >대시보드 />
+[32] (66,364)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/videos/upload' id='menu-item-1' role='menuitem' />
+	[33] (66,364)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+		[34] (19,364)<div  />
+			[35] (19,364)<yt-icon  />
+				[36] (19,364)<span  />
+					[37] (19,364)<div  />
+		[38] (48,364)<div >콘텐츠 />
+[39] (66,415)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+	[40] (66,415)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+		[41] (19,415)<div  />
+			[42] (19,415)<yt-icon  />
+				[43] (19,415)<span  />
+					[44] (19,415)<div  />
+		[45] (45,415)<div >분석 />
+[46] (66,466)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/comments/inbox' id='menu-item-3' role='menuitem' />
+	[47] (66,466)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+		[48] (19,466)<div  />
+			[49] (19,466)<yt-icon  />
+				[50] (19,466)<span  />
+					[51] (19,466)<div  />
+		[52] (52,466)<div >커뮤니티 />
+[53] (66,516)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/translations' id='menu-item-4' role='menuitem' />
+	[54] (66,516)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+		[55] (19,516)<div  />
+			[56] (19,516)<yt-icon  />
+				[57] (19,516)<span  />
+					[58] (19,516)<div  />
+		[59] (45,516)<div >자막 />
+[60] (66,567)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/copyright' id='menu-item-5' role='menuitem' />
+	[61] (66,567)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+		[62] (19,567)<div  />
+			[63] (19,567)<yt-icon  />
+				[64] (19,567)<span  />
+					[65] (19,567)<div  />
+		[66] (56,567)<div >콘텐츠 감지 />
+[67] (66,618)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/monetization/overview' id='menu-item-6' role='menuitem' />
+	[68] (66,618)<tp-yt-paper-icon-item class='attach-money-icon style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-6' role='none' />
+		[69] (19,618)<div  />
+			[70] (19,618)<yt-icon  />
+				[71] (19,618)<span  />
+					[72] (19,618)<div  />
+		[73] (53,618)<div >수익 창출 />
+[74] (66,669)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/editing/profile' id='menu-item-7' role='menuitem' />
+	[75] (66,669)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-7' role='none' />
+		[76] (19,669)<div  />
+			[77] (19,669)<yt-icon  />
+				[78] (19,669)<span  />
+					[79] (19,669)<div  />
+		[80] (52,669)<div >맞춤설정 />
+[81] (66,720)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/music' id='menu-item-8' role='menuitem' />
+	[82] (66,720)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-8' role='none' />
+		[83] (19,720)<div  />
+			[84] (19,720)<yt-icon  />
+				[85] (19,720)<span  />
+					[86] (19,720)<div  />
+		[87] (60,720)<div >오디오 보관함 />
+[88] (66,915)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[89] (19,915)<div  />
+		[90] (19,915)<yt-icon  />
+			[91] (19,915)<span  />
+				[92] (19,915)<div  />
+	[93] (45,915)<div >설정 />
+[94] (66,966)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[95] (19,966)<div  />
+		[96] (19,966)<yt-icon  />
+			[97] (19,966)<span  />
+				[98] (19,966)<div  />
+	[99] (56,966)<div >의견 보내기 />
+[100] (567,534)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	채널 대시보드
+	[101] (726,105)<a class='item style-scope ytcp-quick-actions' />
+		[102] (726,105)<ytcp-icon-button aria-label='동영상 업로드' class='style-scope ytcp-quick-actions' id='upload-icon' role='button' />
+			[103] (726,105)<yt-icon  />
+				[104] (726,105)<span  />
+					[105] (726,105)<div  />
+	[106] (751,105)<a class='item style-scope ytcp-quick-actions' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/livestreaming' />
+		[107] (751,105)<ytcp-icon-button aria-label='라이브 스트리밍 시작' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[108] (751,105)<yt-icon  />
+				[109] (751,105)<span  />
+					[110] (751,105)<div  />
+	[111] (776,105)<a class='item style-scope ytcp-quick-actions' href='https://www.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/posts?show_create_dialog=1' />
+		[112] (776,105)<ytcp-icon-button aria-label='게시물 작성' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[113] (776,105)<yt-icon  />
+				[114] (776,105)<span  />
+					[115] (776,105)<div  />
+	최신 YouTube Shorts 동영상 실적
+	충격!! 만리장성의 반전 진실 #Shorts
+	1.2천
+	1
+	22
+	[116] (334,452)<ytcp-icon-button aria-label='접기' class='style-scope ytcd-entity-snapshot-item' id='collapsable-button' role='button' />
+		[117] (334,452)<yt-icon  />
+			[118] (334,452)<span  />
+				[119] (334,452)<div  />
+	처음 19시간 15분
+	조회수 순위
+	[120] (327,555)<div class='style-scope yta-entity-snapshot' id='table-ranking' role='gridcell' />
+		[121] (320,555)<span >3/5 />
+		[122] (332,555)<yt-icon  />
+			[123] (333,553)<span  />
+				[124] (333,553)<div  />
+	[125] (248,589)<div class='table-row style-scope yta-entity-snapshot' role='button'>조회수 />
+		조회수
+		1.2천
+	[126] (248,623)<div class='table-row style-scope yta-entity-snapshot' role='button'>평균 조회율 />
+		평균 조회율
+		111.3%
+	[127] (248,657)<div class='table-row style-scope yta-entity-snapshot' role='button'>좋아요 />
+		좋아요
+		22
+	[128] (216,710)<button aria-label='Catch me up on this video' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>Catch me up on this video />
+		Catch me up on this video
+		[129] (216,710)<yt-touch-feedback-shape  />
+			[130] (216,710)<div  />
+	[131] (290,713)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/0jnsqsz4z0A/analytics/tab-overview/period-default' />
+		[132] (290,710)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='go-to-video-analytics-button' />
+			[133] (290,710)<ytcp-button-shape  />
+				[134] (290,710)<button aria-label='동영상 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[135] (290,710)<yt-touch-feedback-shape  />
+						[136] (290,710)<div  />
+	[137] (317,713)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/0jnsqsz4z0A/comments/inbox' />
+		[138] (317,710)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='view-comments-button' />
+			[139] (317,710)<ytcp-button-shape  />
+				[140] (317,710)<button aria-label='댓글 보기(1)' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[141] (317,710)<yt-touch-feedback-shape  />
+						[142] (317,710)<div  />
+	게시된 동영상
+	[143] (173,866)<a aria-label='타이타닉 비밀 3편: 침몰의 진짜 범인은 빙산이 아니었다?' class='style-scope ytcd-video-list-cell-video-light' href='/video/afRu0NewadI/edit' id='thumbnail-anchor' />
+		[144] (173,866)<div  />
+			[145] (173,866)<ytcp-thumbnail  />
+				[146] (173,866)<div  />
+					[147] (173,866)<ytcp-img-with-fallback  />
+						[148] (173,866)<div  />
+							[149] (173,866)<img  />
+					[150] (184,868)<div  />
+	타이타닉 비밀 3편: 침몰의 진짜 범인은 빙산이 아니었다?
+	48
+	1
+	0
+	[151] (173,925)<a aria-label='타이타닉 비밀 2편: 100년 만에 발견된 의문의 가방 #Shorts' class='style-scope ytcd-video-list-cell-video-light' href='/video/jKF2lt5YKAM/edit' id='thumbnail-anchor' />
+		[152] (173,925)<div  />
+			[153] (173,925)<ytcp-thumbnail  />
+				[154] (173,925)<div  />
+					[155] (173,925)<ytcp-img-with-fallback  />
+						[156] (173,925)<div  />
+							[157] (173,925)<img  />
+					[158] (184,928)<div  />
+	타이타닉 비밀 2편: 100년 만에 발견된 의문의 가방 #Shorts
+	1.4천
+	0
+	37
+	[159] (173,985)<a aria-label='타이타닉 침몰의 슬픈 진실 1편 #Shorts' class='style-scope ytcd-video-list-cell-video-light' href='/video/wTD0jvW1NEk/edit' id='thumbnail-anchor' />
+		[160] (173,985)<div  />
+			[161] (173,985)<ytcp-thumbnail  />
+				[162] (173,985)<div  />
+					[163] (173,985)<ytcp-img-with-fallback  />
+						[164] (173,985)<div  />
+							[165] (173,985)<img  />
+					[166] (184,987)<div  />
+	타이타닉 침몰의 슬픈 진실 1편 #Shorts
+	1.2천
+	0
+	34
+	새 업적
+	구독자 10명 달성!
+	채널 시청자 수가 늘었습니다
+	[167] (395,302)<a class='action-link remove-default-style style-scope ytcd-creator-recognition-item' href='https://studio.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCTf_RUhjD_KQP2TCiZv5arA&time_period=lifetime&explore_type=SUBSCRIBERS' />
+		[168] (395,303)<ytcp-button class='cta style-scope ytcd-creator-recognition-item' />
+			[169] (395,303)<ytcp-button-shape  />
+				[170] (395,303)<button aria-label='분석 보기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>분석 보기 />
+					분석 보기
+					[171] (395,303)<yt-touch-feedback-shape  />
+						[172] (395,303)<div  />
+	[173] (430,303)<ytcp-icon-button aria-label='닫기' class='menu-button style-scope ytcd-creator-recognition-item' id='item-menu' role='button' />
+		[174] (430,303)<yt-icon  />
+			[175] (430,303)<span  />
+				[176] (430,303)<div  />
+	채널 분석
+	현재 구독자 수
+	23
+	지난 28일 동안
+	23 증가
+	요약
+	지난 28일
+	조회수
+	4.3천
+	—
+	시청 시간(단위: 시간)
+	24.6
+	—
+	인기 콘텐츠
+	지난 48시간
+	· 조회수
+	[177] (456,776)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/jKF2lt5YKAM/analytics/tab-overview/period-default'>타이타닉 비밀 2편: 100년 만에 발견된 의문의 가방 #Shorts />
+	[178] (548,776)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/jKF2lt5YKAM/analytics/tab-overview/period-default'>1.5천 />
+	[179] (456,805)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/wTD0jvW1NEk/analytics/tab-overview/period-default'>타이타닉 침몰의 슬픈 진실 1편 #Shorts />
+	[180] (548,805)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/wTD0jvW1NEk/analytics/tab-overview/period-default'>1.2천 />
+	[181] (456,835)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/0jnsqsz4z0A/analytics/tab-overview/period-default'>충격!! 만리장성의 반전 진실 #Shorts />
+	[182] (548,835)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/0jnsqsz4z0A/analytics/tab-overview/period-default'>1.2천 />
+	[183] (466,890)<a class='remove-default-style analytics-button style-scope ytcd-channel-facts-item' href='/channel/UCTf_RUhjD_KQP2TCiZv5arA/analytics/tab-overview/period-default' />
+		[184] (414,890)<ytcp-button class='style-scope ytcd-channel-facts-item' />
+			[185] (414,890)<ytcp-button-shape  />
+				[186] (414,890)<button aria-label='채널 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>채널 분석으로 이동 />
+					채널 분석으로 이동
+					[187] (414,890)<yt-touch-feedback-shape  />
+						[188] (414,890)<div  />
+	YouTube의 알려진 문제
+	[189] (684,239)<a class='remove-default-style issue style-scope ytcd-help-center-issues-item' href='https://support.google.com/youtube/thread/433459936' />
+		[190] (674,239)<h3 >🚨 Shorts 및 홈페이지 추천 관련 문제 />
+
+</current_dom>

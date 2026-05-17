@@ -1,0 +1,41 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+로그인 | ElevenLabs
+[0] (500,500)<div class='relative h-full w-full overflow-auto' id='app-frame-window' scrollable='true' />
+	[1] (492,80)<a class='ring-0 outline-gray-alpha-950 focus-visible:underline focus-visible:ring-1 focus-visible:ring-ring' href='/' />
+		[2] (492,80)<div  />
+	다시 오신 것을 환영합니다
+	[3] (492,320)<button class='whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 px-3 relative peer group flex items-center justify-center gap-2.5 w-full text-sm h-[46px] rounded-[12px] border-gray-200 dark:border-gray-alpha-200 text-gray-900 dark:text-gray-alpha-900' />
+		[4] (330,320)<div  />
+		[5] (492,320)<span  />
+			[6] (492,319)<font  />
+				[7] (492,319)<font >Google 계정으로 로그인 />
+	[8] (492,377)<button class='whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 px-3 relative peer group flex items-center justify-center gap-2.5 w-full text-sm h-[46px] rounded-[12px] border-gray-200 dark:border-gray-alpha-200 text-gray-900 dark:text-gray-alpha-900' />
+		[9] (333,377)<div  />
+			[10] (330,376)<div  />
+		[11] (492,377)<span  />
+			[12] (492,376)<font  />
+				[13] (492,376)<font >Apple로 로그인 />
+	SSO로 로그인
+	[14] (492,434)<a class='whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 px-3 relative peer group flex items-center justify-center gap-2.5 w-full text-sm h-[46px] rounded-[12px] border-gray-200 dark:border-gray-alpha-200 text-gray-900 dark:text-gray-alpha-900' href='/app/sso' />
+		SSO로 로그인
+	[15] (492,519)<label class='text-sm font-medium cursor-pointer text-gray-900 dark:text-gray-alpha-900 mt-2.5 mb-1.5 transition-all duration-150 ease-in-out' />
+		[16] (324,518)<font  />
+			[17] (324,518)<font >이메일 />
+	[18] (492,564)<input class='flex w-full border bg-transparent shadow-none transition-colors file:border-0 file:bg-transparent file:font-medium placeholder:text-subtle focus-ring focus-visible:border-foreground hover:border-gray-alpha-300 focus-visible:ring-[0.5px] focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 [&:-webkit-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&:-webkit-autofill]:[-webkit-text-fill-color:hsl(var(--foreground))] [&:-webkit-autofill]:border-gray-200 [&:-webkit-autofill]:focus:border-foreground [&_input:-moz-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&_input:-moz-autofill]:text-fill-color-[hsl(var(--foreground))] [&_input:-moz-autofill]:border-gray-200 [&_input:-moz-autofill]:focus:border-foreground py-1 file:text-sm peer h-[46px] rounded-[12px] px-[16px] text-base md:text-sm border-gray-200 dark:border-gray-alpha-200' />
+	[19] (492,610)<label class='text-sm font-medium cursor-pointer text-gray-900 dark:text-gray-alpha-900 mt-2.5 mb-1.5 transition-all duration-150 ease-in-out' />
+		[20] (331,609)<font  />
+			[21] (331,609)<font >비밀번호 />
+	[22] (492,655)<input class='flex w-full border bg-transparent shadow-none transition-colors file:border-0 file:bg-transparent file:font-medium placeholder:text-subtle focus-ring focus-visible:border-foreground hover:border-gray-alpha-300 focus-visible:ring-[0.5px] focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 [&:-webkit-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&:-webkit-autofill]:[-webkit-text-fill-color:hsl(var(--foreground))] [&:-webkit-autofill]:border-gray-200 [&:-webkit-autofill]:focus:border-foreground [&_input:-moz-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&_input:-moz-autofill]:text-fill-color-[hsl(var(--foreground))] [&_input:-moz-autofill]:border-gray-200 [&_input:-moz-autofill]:focus:border-foreground py-1 file:text-sm peer h-[46px] rounded-[12px] px-[16px] text-base md:text-sm border-gray-200 dark:border-gray-alpha-200 pr-10' />
+	[23] (653,655)<button class='absolute inset-y-0 right-0 flex items-center px-4 focus-visible:outline-foreground rounded-r-lg rounded-l-none' />
+	[24] (617,610)<span  />
+		비밀번호를 잊으셨나요?
+	로그인
+	로그인
+	계정이 없으신가요?
+	[25] (554,772)<span  />
+		가입하기
+
+</current_dom>

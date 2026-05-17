@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (981,38)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a gb_6' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://gemini.google.com/app&ec=GBRAkgU' role='button' />
+[1] (19,38)<button aria-label='기본 메뉴' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger main-menu-button mat-unthemed ng-star-inserted' />
+	[2] (19,38)<div  />
+		[3] (19,38)<gem-icon  />
+			[4] (19,38)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+[5] (64,38)<a aria-label='새 채팅' class='bard-logo-container disabled logo-only ng-star-inserted' href='/app' role='button' />
+	Gemini
+[6] (928,38)<button aria-label='임시 채팅' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger temp-chat-button redesign mat-unthemed ng-star-inserted' />
+	[7] (928,38)<span  />
+PRO
+[8] (19,106)<a aria-label='새 채팅' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-ripple mat-mdc-tooltip-trigger side-nav-action-collapsed-button explicit-gmat-override mat-unthemed ng-star-inserted' href='/app'>새 채팅 />
+	새 채팅
+	[9] (19,106)<div  />
+		[10] (19,106)<div  />
+			[11] (19,106)<gem-icon  />
+				[12] (19,106)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+[13] (19,949)<button aria-label='Settings & help' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-ripple mat-mdc-tooltip-trigger side-nav-action-collapsed-button explicit-gmat-override mat-unthemed ng-star-inserted' />
+	[14] (19,949)<div  />
+		[15] (19,949)<div  />
+			[16] (19,949)<gem-icon  />
+				[17] (19,949)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+Gemini와의 대화
+호준님, 안녕하세요
+무엇을 도와드릴까요?
+[18] (413,619)<button aria-label='🖼️ 이미지 만들기, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>🖼️ 이미지 만들기 />
+	🖼️ 이미지 만들기
+[19] (492,619)<button aria-label='🎸 음악 만들기, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>🎸 음악 만들기 />
+	🎸 음악 만들기
+[20] (572,619)<button aria-label='활기찬 하루 만들기, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>활기찬 하루 만들기 />
+	활기찬 하루 만들기
+[21] (639,619)<button aria-label='글 작성, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>글 작성 />
+	글 작성
+[22] (482,686)<button aria-label='학습에 관한 도움 받기, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>학습에 관한 도움 받기 />
+	학습에 관한 도움 받기
+[23] (565,686)<button aria-label='동영상 만들기, 버튼, 탭하여 도구 사용' class='mat-ripple card card-zero-state'>동영상 만들기 />
+	동영상 만들기
+[24] (519,500)<fieldset  />
+	[25] (519,472)<div aria-label='Gemini 프롬프트 입력' class='ql-editor ql-blank textarea new-input-ui' role='textbox' />
+		[26] (515,472)<p  />
+	[27] (338,529)<button aria-label='파일 업로드 메뉴 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger upload-card-button open mat-primary ng-star-inserted' />
+		[28] (338,529)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	[29] (373,529)<button class='mdc-button mat-mdc-button-base toolbox-drawer-button toolbox-drawer-button-with-label mat-mdc-button ng-tns-c865971066-12 mat-unthemed ng-star-inserted' />
+		도구
+	[30] (657,525)<button aria-label='모드 선택 도구 열기' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger input-area-switch mat-mdc-button mat-unthemed ng-star-inserted' />
+		빠른 모델
+	[31] (699,525)<button aria-label='마이크' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger speech_dictation_mic_button ng-tns-c1469817588-7 mat-unthemed ng-star-inserted' />
+		[32] (699,528)<div  />
+			[33] (699,525)<mat-icon class='mat-icon notranslate ng-tns-c1469817588-7 gds-icon-l icon-filled google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+
+</current_dom>

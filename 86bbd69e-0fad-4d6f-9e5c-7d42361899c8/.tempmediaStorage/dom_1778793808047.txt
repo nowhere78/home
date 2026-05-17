@@ -1,0 +1,47 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+모습
+[0] (797,39)<button class='vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button' />
+	[1] (797,40)<font  />
+		[2] (797,40)<font >숨다 />
+텍스트
+[3] (824,127)<label class='cdx-label cdx-radio__label' />
+	작은
+[4] (824,156)<label class='cdx-label cdx-radio__label' />
+	기준
+[5] (824,186)<label class='cdx-label cdx-radio__label' />
+	크기가 큰
+이 페이지는 항상 작은 글꼴 크기를 사용합니다.
+너비
+[6] (773,328)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-1' />
+[7] (824,328)<label class='cdx-label cdx-radio__label' />
+	기준
+[8] (773,358)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-0' />
+[9] (824,358)<label class='cdx-label cdx-radio__label' />
+	넓은
+색상
+(베타)
+[10] (773,441)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-os' />
+[11] (824,441)<label class='cdx-label cdx-radio__label' />
+	오토매틱
+[12] (773,471)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-day' />
+[13] (824,471)<label class='cdx-label cdx-radio__label' />
+	빛
+[14] (773,500)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-night' />
+[15] (824,500)<label class='cdx-label cdx-radio__label' />
+	어두운
+[16] (156,95)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(63).jpg' title='파일:Voynich Manuscript (63).jpg' />
+[17] (292,95)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Voynich_manuscript_pharmaceutical_f88r_crop.jpg' title='파일:보이니치 원고 약학 f88r crop.jpg' />
+[18] (418,95)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_f100r_detail.jpg' title='파일:Voynich f100r detail.jpg' />
+[19] (186,302)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Rostlina_odjinud_XX,_olej_na_pl%C3%A1tn%C4%9B,_80_%C3%97_60_cm,_2020.jpg' title='파일:Rostlina odjinud XX, olej na plátně, 80 × 60 cm, 2020.jpg' />
+[20] (361,302)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Lion_f90v_cropped.jpg' title='파일:Lion f90v cropped.jpg' />
+[21] (190,510)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Root_f33r_cropped.jpg' title='파일:Root f33r cropped.jpg' />
+[22] (318,510)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:%27rot%27_f4r.jpg' title='파일:'rot' f4r.jpg' />
+[23] (409,510)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Root_detail_f9r.jpg' title='파일:Root detail f9r.jpg' />
+[24] (223,717)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Eagle_root_f46v.jpg' title='파일:Eagle root f46v.jpg' />
+[25] (398,717)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:Root_f1v_cropped.jpg' title='파일:Root f1v cropped.jpg' />
+더 이상 검색 결과가 없습니다.
+
+</current_dom>

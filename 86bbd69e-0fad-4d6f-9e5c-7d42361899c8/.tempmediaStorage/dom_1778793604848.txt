@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (117,35)<input aria-label='메인 메뉴' class='vector-dropdown-checkbox ' id='vector-main-menu-dropdown-checkbox' role='button' />
+메인 메뉴
+[1] (178,35)<a class='mw-logo' href='/wiki/Main_Page' />
+	[2] (145,35)<img  />
+	[3] (193,35)<span  />
+		[4] (193,35)<img  />
+[5] (371,35)<input aria-label='위키미디어 공용 검색' class='cdx-text-input__input mw-searchInput' id='searchInput' placeholder='위키미디어 공용 검색' title='위키미디어 공용 검색 [alt-f]' />
+[6] (501,35)<button class='cdx-button cdx-search-input__end-button' />
+	찾다
+[7] (772,35)<a class='uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet' href='#' />
+	[8] (763,35)<span  />
+	[9] (778,35)<span  />
+		[10] (778,35)<font  />
+			[11] (778,35)<font >영어 />
+[12] (812,35)<a href='https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=commons.wikimedia.org&uselang=en' />
+	[13] (812,35)<span  />
+		[14] (812,35)<font  />
+			[15] (812,35)<font >기부하세요 />
+[16] (848,35)<a href='/w/index.php?title=Special:CreateAccount&returnto=Category%3AVoynich+Manuscript' title='계정을 만들고 로그인하는 것을 권장하지만, 필수 사항은 아닙니다.' />
+	[17] (848,35)<span  />
+		[18] (848,35)<font  />
+			[19] (848,35)<font >계정 생성 />
+[20] (876,35)<a href='/w/index.php?title=Special:UserLogin&returnto=Category%3AVoynich+Manuscript' title='로그인하시는 것을 권장하지만, 필수 사항은 아닙니다. [alt-o]' />
+	[21] (876,35)<span  />
+		[22] (876,35)<font  />
+			[23] (876,35)<font >로그인 />
+분류
+:
+보이니치 필사본
+[24] (733,153)<a class='mw-helplink' href='/wiki/Commons:Categories' />
+	[25] (726,153)<span  />
+	[26] (740,153)<font  />
+		[27] (740,153)<font >돕다 />
+[28] (118,196)<a href='/w/index.php?title=Category:Voynich_Manuscript&action=edit&redlink=1' title='카테고리 페이지 보기 (페이지가 존재하지 않습니다) [alt-c]' />
+	[29] (118,198)<span  />
+		[30] (118,198)<font  />
+			[31] (118,198)<font >범주 />
+[32] (140,196)<a class='new' href='/w/index.php?title=Category_talk:Voynich_Manuscript&action=edit&redlink=1' title='콘텐츠 페이지에 대한 토론 (페이지가 존재하지 않습니다) [alt-t]' />
+	[33] (140,198)<span  />
+		[34] (140,198)<font  />
+			[35] (140,198)<font >논의 />
+[36] (706,196)<a href='/w/index.php?title=Category:Voynich_Manuscript&action=edit' title='이 페이지를 생성하려면 [alt-e]를 누르세요.' />
+	[37] (706,198)<span  />
+		[38] (706,198)<font  />
+			[39] (706,198)<font >만들다 />
+[40] (735,194)<input aria-label='도구' class='vector-dropdown-checkbox ' id='vector-page-tools-dropdown-checkbox' role='button' />
+도구
+모습
+[41] (797,194)<button class='vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button' />
+	[42] (797,196)<font  />
+		[43] (797,196)<font >숨다 />
+텍스트
+[44] (824,282)<label class='cdx-label cdx-radio__label' />
+	작은
+[45] (824,312)<label class='cdx-label cdx-radio__label' />
+	기준
+[46] (824,342)<label class='cdx-label cdx-radio__label' />
+	크기가 큰
+이 페이지는 항상 작은 글꼴 크기를 사용합니다.
+너비
+[47] (773,483)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-1' />
+[48] (824,483)<label class='cdx-label cdx-radio__label' />
+	기준
+[49] (773,513)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-0' />
+[50] (824,513)<label class='cdx-label cdx-radio__label' />
+	넓은
+색상
+(베타)
+[51] (773,597)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-os' />
+[52] (824,597)<label class='cdx-label cdx-radio__label' />
+	오토매틱
+[53] (773,626)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-day' />
+[54] (824,626)<label class='cdx-label cdx-radio__label' />
+	빛
+[55] (773,656)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-night' />
+[56] (824,656)<label class='cdx-label cdx-radio__label' />
+	어두운
+[57] (737,108)<a href='#' id='mw-AnonymousI18N-decline' />
+	[58] (737,109)<img  />
+Wikimedia Commons를
+[59] (455,110)<a href='#' id='mw-AnonymousI18N-gosuggest' />
+	[60] (455,110)<font  />
+		[61] (455,110)<font >영어 />
+로 보기
+이 페이지는 현재 존재하지 않습니다.
+다른 페이지에서
+[62] (317,246)<a class='external text' href='https://commons.wikimedia.org/w/index.php?title=Special:Search/Category:Voynich_Manuscript&fulltext=Search' />
+	[63] (317,246)<font  />
+		[64] (317,246)<font >이 페이지 제목을 검색 하거나 />
+[65] (390,246)<a class='external text' href='https://commons.wikimedia.org/w/index.php?title=Category:Voynich_Manuscript&action=edit' />
+	[66] (390,246)<font  />
+		[67] (390,246)<font >이 페이지를 생성할 />
+수 있습니다 .
+이 범주에는 페이지나 파일이 없습니다.
+이 목록은 최근 변경 사항을 반영하지 않을 수 있습니다(
+[68] (508,331)<a href='/wiki/Commons:FAQ#Why_might_category_contents_not_be_up_to_date_or_incomplete?' title='공용어:FAQ' />
+	[69] (508,331)<font  />
+		[70] (508,331)<font >자세히 알아보기 />
+).
+[71] (135,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy' />
+	[72] (135,858)<font  />
+		[73] (135,858)<font >개인정보 보호정책 />
+[74] (196,858)<a href='/wiki/Commons:Welcome' />
+	[75] (196,858)<font  />
+		[76] (196,858)<font >위키미디어 커먼즈 소개 />
+[77] (245,858)<a href='/wiki/Commons:General_disclaimer' />
+	[78] (245,858)<font  />
+		[79] (245,858)<font >면책 조항 />
+[80] (276,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct' />
+	[81] (276,858)<font  />
+		[82] (276,858)<font >행동 강령 />
+[83] (303,858)<a href='https://developer.wikimedia.org' />
+	[84] (303,858)<font  />
+		[85] (303,858)<font >개발자 />
+[86] (324,858)<a href='https://stats.wikimedia.org/#/commons.wikimedia.org' />
+	[87] (324,858)<font  />
+		[88] (324,858)<font >통계 />
+[89] (348,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement' />
+	[90] (348,858)<font  />
+		[91] (348,858)<font >쿠키 정책 />
+[92] (382,858)<a class='noprint stopMobileRedirectToggle' href='//commons.wikimedia.org/w/index.php?title=Category:Voynich_Manuscript&mobileaction=toggle_view_mobile' />
+	[93] (382,858)<font  />
+		[94] (382,858)<font >모바일 보기 />
+[95] (804,869)<a class='cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled' href='https://www.wikimedia.org/' />
+	[96] (804,869)<picture  />
+		[97] (804,870)<img  />
+[98] (861,869)<a class='cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled' href='https://www.mediawiki.org/' />
+	[99] (861,869)<picture  />
+		[100] (861,870)<img  />
+
+</current_dom>

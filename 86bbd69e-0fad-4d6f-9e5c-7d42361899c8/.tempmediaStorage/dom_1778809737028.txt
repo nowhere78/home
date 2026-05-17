@@ -1,0 +1,174 @@
+[0] (981,38)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a gb_6' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://gemini.google.com/app&ec=GBRAkgU' role='button' />
+[1] (19,38)<button aria-label='기본 메뉴' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger main-menu-button mat-unthemed ng-star-inserted' />
+	[2] (19,38)<div  />
+		[3] (19,38)<gem-icon  />
+			[4] (19,38)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+[5] (187,38)<a aria-label='새 채팅' class='bard-logo-container logo-only ng-star-inserted' href='/app' role='button' />
+	[6] (187,38)<bard-logo  />
+		[7] (186,38)<div  />
+			[8] (186,38)<span >Gemini />
+영상 제작 전략 설계 시작
+[9] (938,38)<button aria-label='대화 공유' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger mat-unthemed ng-star-inserted' />
+	[10] (938,38)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+[11] (958,38)<button aria-label='대화 작업 메뉴 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-unthemed ng-star-inserted' />
+	[12] (958,38)<mat-icon class='mat-icon notranslate icon-filled google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+[13] (143,38)<button aria-label='검색' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger search-button ng-tns-c3029493482-11 ng-trigger ng-trigger-searchNavButtonVisibilityAnimation mat-unthemed' />
+	[14] (143,38)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+[15] (80,106)<a aria-label='새 채팅' class='mat-mdc-list-item mdc-list-item mat-ripple mat-mdc-tooltip-trigger side-nav-action-button explicit-gmat-override mat-mdc-list-item-interactive mdc-list-item--with-leading-icon mat-mdc-list-item-single-line mdc-list-item--with-one-line ng-star-inserted' href='/app' />
+	[16] (19,106)<div  />
+		[17] (19,106)<gem-icon  />
+			[18] (19,106)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[19] (93,106)<span  />
+		[20] (43,107)<span  />
+			[21] (43,107)<span  />
+				[22] (43,107)<span >새 채팅 />
+[23] (80,515)<infinite-scroller class='ng-star-inserted' scrollable='true' />
+	[24] (79,148)<a aria-label='내 항목' class='mat-ripple mat-mdc-tooltip-trigger side-nav-entry-button is-scheduled-actions-enabled mat-mdc-tooltip-disabled ng-star-inserted' href='mystuff' />
+		[25] (18,148)<div  />
+			[26] (19,148)<gem-icon  />
+				[27] (19,148)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[28] (43,148)<div >내 항목 />
+	[29] (79,199)<a aria-label='Notebooks' class='mat-ripple mat-mdc-tooltip-trigger side-nav-entry-button is-arrow-icon is-scheduled-actions-enabled mat-mdc-tooltip-disabled ng-star-inserted' href='/notebooks/view' />
+		[30] (31,199)<div >Notebooks />
+		[31] (144,199)<div  />
+			[32] (145,199)<gem-icon  />
+				[33] (145,199)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[34] (79,241)<button class='mat-ripple mat-mdc-tooltip-trigger project-new-conversation-button ng-tns-c1330282572-14 is-my-stuff-side-nav-enabled' />
+		[35] (19,241)<project-logo  />
+			[36] (19,241)<gem-icon  />
+				[37] (19,241)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[38] (90,241)<span >Turning Doodles into Billions: The AI Profit Formula />
+	[39] (145,241)<project-list-item-menu  />
+		[40] (145,241)<button aria-label='Open notebook actions menu' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger project-menu-button mat-unthemed ng-star-inserted' />
+			[41] (145,241)<span  />
+	[42] (79,284)<button class='mat-ripple mat-mdc-tooltip-trigger project-new-conversation-button ng-tns-c1330282572-15 is-my-stuff-side-nav-enabled' />
+		[43] (19,284)<project-logo  />
+			[44] (19,284)<gem-icon  />
+				[45] (19,284)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[46] (90,284)<span >(중고등부)좋은 말씀을 전하기 위한 설교 고민 />
+	[47] (145,284)<project-list-item-menu  />
+		[48] (145,284)<button aria-label='Open notebook actions menu' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger project-menu-button mat-unthemed ng-star-inserted' />
+			[49] (145,284)<span  />
+	[50] (79,326)<a aria-label='새 노트북' class='mat-ripple mat-mdc-tooltip-trigger side-nav-entry-button is-scheduled-actions-enabled mat-mdc-tooltip-disabled ng-star-inserted' />
+		[51] (18,326)<div  />
+			[52] (19,326)<gem-icon  />
+				[53] (19,326)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[54] (47,326)<div >새 노트북 />
+	[55] (79,381)<a aria-label='Gems' class='mat-ripple mat-mdc-tooltip-trigger side-nav-entry-button is-arrow-icon is-scheduled-actions-enabled mat-mdc-tooltip-disabled ng-star-inserted' href='/gems/view' />
+		[56] (22,381)<div >Gems />
+		[57] (144,381)<div  />
+			[58] (145,381)<gem-icon  />
+				[59] (145,381)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[60] (79,423)<button class='mat-ripple mat-mdc-tooltip-trigger bot-new-conversation-button is-my-stuff-side-nav-enabled is-scheduled-actions-enabled mat-mdc-tooltip-disabled' />
+		[61] (19,423)<mat-icon class='mat-icon notranslate bot-icon-spark gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[62] (90,423)<span >ClickMaker BY 자생법 />
+	[63] (144,423)<button aria-label='"ClickMaker BY 자생법" Gem 옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger bot-actions-menu-button my-stuff-side-nav mat-unthemed' />
+		[64] (144,423)<span  />
+	[65] (79,466)<button class='mat-ripple mat-mdc-tooltip-trigger bot-new-conversation-button is-my-stuff-side-nav-enabled is-scheduled-actions-enabled' />
+		[66] (19,466)<mat-icon class='mat-icon notranslate bot-icon-spark gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+		[67] (90,466)<span >말씀 타이핑 />
+	[68] (144,466)<button aria-label='"말씀 타이핑" Gem 옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger bot-actions-menu-button my-stuff-side-nav mat-unthemed' />
+		[69] (144,466)<span  />
+	채팅
+	[70] (80,563)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation mat-mdc-tooltip-disabled' href='/app/a74fe539633eb9bd' role='button' />
+		[71] (80,563)<div >영상 제작 전략 설계 시작 />
+	[72] (80,605)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/7f4ad812b6c0fb90' role='button' />
+		[73] (80,605)<div >플랫폼별 고정 댓글 다는 법 />
+	[74] (80,648)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/7762f0dd49201ef9' role='button' />
+		[75] (80,648)<div >이미지 텍스트 한국어 번역 />
+	[76] (80,690)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/c523833cb845db51' role='button' />
+		[77] (80,690)<div >세바스찬 스탠, 첫 아빠 되기 소감 />
+	[78] (80,732)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/c13590d530d919c9' role='button' />
+		[79] (80,732)<div >장비 처분 및 공간 활용 방안 />
+	[80] (80,775)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/612142b43eda8e1f' role='button' />
+		[81] (80,775)<div >인스타그램 번호로 친구 찾기 차단 />
+	[82] (80,817)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/0abceee75671b070' role='button' />
+		[83] (80,817)<div >쿠팡 상품 소싱 노하우 요약 />
+	[84] (80,859)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/bdc118bbcc73000f' role='button' />
+		[85] (80,859)<div >쿠키 정책 관련 웹사이트 안내 />
+	[86] (80,902)<a class='mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c2068517323-9 ng-trigger ng-trigger-conversationListRevealAnimation' href='/app/e7875568c7a18e22' role='button' />
+		[87] (80,902)<div >유튜브 알고리즘 핵심 논문 3가지 />
+	컴퓨터 예약 종료 및 취소 명령어
+	윈도우 도커 사용법 및 장점
+[88] (80,949)<button aria-label='Settings & help' class='mat-mdc-list-item mdc-list-item mat-mdc-menu-trigger mat-ripple mat-mdc-tooltip-trigger side-nav-action-button explicit-gmat-override mat-mdc-list-item-interactive mdc-list-item--with-leading-icon mat-mdc-tooltip-disabled mat-mdc-list-item-single-line mdc-list-item--with-one-line ng-star-inserted' />
+	[89] (19,949)<div  />
+		[90] (19,949)<gem-icon  />
+			[91] (19,949)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[92] (93,949)<span  />
+		[93] (54,950)<span  />
+			[94] (54,950)<span  />
+				[95] (54,950)<span >설정 및 도움말 />
+Gemini와의 대화
+[96] (580,440)<infinite-scroller class='chat-history enable-2026q1-formatting-improvements' scrollable='true' />
+	심리:
+	단순히 암호가 풀렸다는 사실보다 '그 내용'에 집중하게 하여 도파민 보상을 기대하게 함.
+	알고리즘:
+	'역사 미스터리', '공포' 등 타겟 시청자가 선호하는 카테고리 키워드 매칭.
+	[97] (746,110)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[98] (746,110)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	🚀
+	ClickMaker의 최종 추천 조합
+	가장 효과적인 조합으로
+	②번
+	을 추천합니다.
+	[99] (577,230)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[100] (577,230)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	이유:
+	쇼츠(Shorts) 특성상 1초 이내에 시선을 사로잡아야 합니다. "지구의 책이 아니다?"라는 문구는 지적 호기심이 높은 2040 타겟에게 '확인하지 않으면 안 될 것 같은 강력한 생존 본능과 호기심'을 동시에 자극합니다.
+	[101] (513,354)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[102] (513,354)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	이미지 팁:
+	썸네일 배경에 대본에 언급된 '기괴한 식물 그림'을 크게 배치하고, 그 위에 AI 스캔 효과(파란색 레이저 선 등)를 얹으면 시각적 임팩트가 극대화됩니다.
+	[103] (662,441)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[104] (662,441)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	이 조합으로 영상의 CTR을 폭발시켜 보세요! 추가로 수정하고 싶은 부분이 있으신가요?
+	[105] (724,496)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[106] (724,496)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[107] (393,551)<button aria-label='대답이 마음에 들어요' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger icon-button mat-unthemed ng-star-inserted' />
+		[108] (393,551)<mat-icon class='mat-icon notranslate gds-icon-m google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[109] (409,551)<button aria-label='대답이 마음에 들지 않아요' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger icon-button mat-unthemed ng-star-inserted' />
+		[110] (409,551)<mat-icon class='mat-icon notranslate gds-icon-m google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	[111] (426,551)<button aria-label='복사' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger icon-button mat-mdc-button mat-unthemed ng-star-inserted' />
+	[112] (443,551)<button aria-label='옵션 더보기' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger icon-button more-menu-button mat-mdc-button ng-tns-c3109849905-72 mat-unthemed ng-star-inserted' />
+	[113] (504,598)<button aria-label='프롬프트 복사' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger action-button mat-unthemed' />
+		[114] (504,597)<mat-icon class='mat-icon notranslate gds-icon-m action-button-icon google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	[115] (527,598)<button aria-label='수정' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger action-button mat-unthemed' />
+		[116] (527,597)<mat-icon class='mat-icon notranslate gds-icon-m action-button-icon google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	말씀하신 내용
+	2번 선택했는데 그에 맞는 태그는 무엇이 좋을까
+	유튜브 알고리즘으로 많이 들어올수 있는 것들로  선택해서 알려줘
+	C
+	ClickMaker BY 자생법
+	사용자설정 Gem
+	ClickMaker BY 자생법님이 보낸 내용
+	ClickMaker BY 자생법
+	입니다.
+	[117] (536,765)<button aria-label='출처 세부정보를 봅니다. 측면 패널을 엽니다.' class='button ng-star-inserted' />
+		[118] (536,765)<mat-icon class='mat-icon notranslate symbol gds-icon-s google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted' role='img' />
+	선택하신 ②번 전략(후회 자극 + 타겟 정체성 호출)은 시청자의 '손실 회피 본능'과 '자기 동일시 심리'를 아주 영리하게 파고든 조합입니다.
+	이 조합이 유튜브 알고리즘의 파도를 타고 타겟 시청자(2040 미스터리/역사 관심층)에게 정확히 배달될 수 있도록,
+	메타데이터 최적화 태그
+	를 설계해 드립니다.
+	유튜브 알고리즘은 제목뿐만 아니라
+	태그의 문맥적 연관성
+	을 통해 영상의 위치를 정합니다.
+	다음은 알고리즘 노출을 극대화할 태그 리스트입니다.
+[119] (580,869)<fieldset  />
+	[120] (580,841)<div aria-label='Gemini 프롬프트 입력' class='ql-editor ql-blank textarea new-input-ui' role='textbox' />
+		[121] (576,841)<p  />
+	[122] (399,897)<button aria-label='파일 업로드 메뉴 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger upload-card-button open mat-primary ng-star-inserted' />
+		[123] (399,897)<mat-icon class='mat-icon notranslate gds-icon-l google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	[124] (434,897)<button class='mdc-button mat-mdc-button-base toolbox-drawer-button toolbox-drawer-button-with-label mat-mdc-button ng-tns-c865971066-77 mat-unthemed ng-star-inserted' />
+		도구
+	[125] (697,894)<button aria-label='모드 선택 도구 열기' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger input-area-switch mat-mdc-button mat-unthemed ng-star-inserted' />
+		빠른 모델
+	[126] (738,894)<button aria-label='마이크' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger speech_dictation_mic_button ng-tns-c1469817588-61 mat-unthemed ng-star-inserted' />
+		[127] (738,896)<div  />
+			[128] (738,894)<mat-icon class='mat-icon notranslate ng-tns-c1469817588-61 gds-icon-l icon-filled google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	[129] (760,894)<button aria-label='메시지 보내기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base send-button ng-tns-c3298746938-59 submit mat-unthemed ng-star-inserted' />
+		[130] (760,894)<mat-icon class='mat-icon notranslate send-button-icon icon-filled gds-icon-xl google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+Gemini는 AI이며 인물 등에 관한 정보 제공 시 실수를 할 수 있습니다.
+[131] (671,957)<a class='footer-privacy-notice-link' href='https://support.google.com/gemini?p=privacy_notice'>새 창에서 열기 />
+	새 창에서 열기
+Gem이 공유되었습니다. 요청 사항은 변경될 수 있습니다

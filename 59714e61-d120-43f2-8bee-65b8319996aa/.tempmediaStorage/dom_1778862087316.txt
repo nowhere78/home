@@ -1,0 +1,65 @@
+의 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	면
+	탐색
+	내측
+	컬렉션
+	작성자
+	에
+	내측
+	지문을 찾을 수 없습니다.
+	알파벳에서 추가하거나 새로 만들어 보세요
+	만들기
+	[1] (500,500)<div class='fixed left-[50%] top-[50%] z-50 grid w-full max-w-lg max-h-90avh overflow-y-auto translate-x-[-50%] translate-y-[-50%] gap-5 bg-background p-5 shadow-natural-md duration-200 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[state=closed]:slide-out-to-left-1/2 data-[state=closed]:slide-out-to-top-[48%] data-[state=open]:slide-in-from-left-1/2 data-[state=open]:slide-in-from-top-[48%] sm:rounded-3xl focus-visible:outline-0 h-full max-h-100avh sm:h-auto sm:p-8 lg:max-w-none lg:w-max overflow-x-hidden max-sm:!rounded-none' id='radix-_r_14_' role='dialog' />
+		만들기
+		0
+		/ 3 생성됨
+		[2] (500,288)<button class='w-full p-5 stack gap-2 items-start group rounded-[inherit] focus:outline-gray-alpha-950 transition-colors duration-200 hover:bg-gray-alpha-50 disabled:hover:bg-transparent' />
+			[3] (500,257)<div  />
+				[4] (299,257)<span  />
+				[5] (514,257)<h3  />
+					[6] (358,257)<font  />
+						[7] (358,257)<font >보이스 디자인 />
+			[8] (382,286)<p  />
+				[9] (382,285)<font  />
+					[10] (382,285)<font >완전히 새로운 형태로 디자인하세요. />
+			[11] (314,316)<div  />
+				[12] (314,316)<div  />
+					[13] (314,316)<font  />
+						[14] (314,316)<font >1분씩 />
+		[15] (500,428)<button class='w-full p-5 stack gap-2 items-start group rounded-[inherit] focus:outline-gray-alpha-950 transition-colors duration-200 hover:bg-gray-alpha-50 disabled:hover:bg-transparent' />
+			[16] (500,397)<div  />
+				[17] (299,397)<span  />
+				[18] (514,397)<h3  />
+					[19] (344,396)<font  />
+						[20] (344,396)<font >즉석 복제 />
+			[21] (390,425)<p  />
+				[22] (390,425)<font  />
+					[23] (390,425)<font >단 10초의 오디오로 인쇄를 복제하세요. />
+			[24] (309,456)<div  />
+				[25] (309,456)<div  />
+					[26] (309,456)<font  />
+						[27] (309,456)<font >2분 />
+		프로페셔널 복제된 모습
+		[28] (471,537)<span  />
+		가장 독립적인 디지털 번호를 만드세요. 최소 30분의 깨끗한 오디오가 필요합니다.
+		5분
+		프로페셔널 복제 지문을 선택하려면 신중하게 선택해야 합니다.
+		[29] (690,679)<a class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-7 px-2 rounded-lg text-xm ml-auto bg-background' href='/app/subscription' />
+			[30] (690,679)<font  />
+				[31] (690,679)<font >구독 />
+		[32] (500,785)<button class='w-full p-5 stack gap-2 items-start group rounded-[inherit] focus:outline-gray-alpha-950 transition-colors duration-200 hover:bg-gray-alpha-50 disabled:hover:bg-transparent' />
+			[33] (500,754)<div  />
+				[34] (297,754)<span  />
+				[35] (514,754)<h3  />
+					[36] (334,754)<font  />
+						[37] (334,754)<font >리믹싱 />
+			[38] (387,783)<p  />
+				[39] (387,783)<font  />
+					[40] (387,783)<font >기존의 형태를 변형하여 변형시키세요. />
+			[41] (313,814)<div  />
+				[42] (313,814)<div  />
+					[43] (313,814)<font  />
+						[44] (313,813)<font >1분씩 />
+		[45] (738,148)<button aria-label='닫기' class='absolute right-5 top-5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus-ring disabled:pointer-events-none data-[state=open]:bg-accent data-[state=open]:text-muted-foreground' />

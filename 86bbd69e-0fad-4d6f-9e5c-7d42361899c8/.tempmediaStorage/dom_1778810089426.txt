@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Gemini
+영상 제작 전략 설계 시작
+새 채팅
+[0] (80,515)<infinite-scroller class='ng-star-inserted' scrollable='true' />
+	AnythingLLM Local Setup Explained
+	KT 텔레캅 휴면 계정 해제 안내
+	예수님 앞에 무릎 꿇은 사람들
+	AnythingLLM 설정 화면 번역
+	LM Studio 설정 한국어 번역 및 설명
+	브라우저 AI 모델 실행 가이드
+	AI Agent Automates Research & Video
+	Kimi AI 기능 및 한국어 지원
+	동물 이야기 시나리오: 완벽주의 두더지
+	파일 업로드 오류, 공과 질문
+	설교 기반 퀴즈 제공
+	신명기 5장 16절 원어 해석 및 적용
+	포로 귀환과 시온의 대로
+	시온의 대로: 신학적 의미와 교육적 적용
+	유튜브 복리 법칙 작가 찾기
+	깃허브 최고 자료 검색 전략
+	Gemma 2 9B와 gemma4:e2b 비교
+	GPU 메모리 부족 문제 해결 방법
+	Antigravity 확장 프로그램 오류 해결
+	HTML 문서 인터넷 배포 방법
+	온라인 여권 사진 규격 맞추기
+	깃허브 YouTube Shorts 자동화 검색어
+	(주 작업)설교 말씀 타이핑 작업 계획
+	쓰레기통 쇼츠 시나리오 제작
+설정 및 도움말
+Gemini와의 대화
+[1] (580,440)<infinite-scroller class='chat-history enable-2026q1-formatting-improvements' scrollable='true' />
+	2. 설정 변경 권한
+	이 젬의 '작동 플로우'와 '지식 탭'을 수정할 수 있는 권한은 오직 사용자님(관리자)에게만 있습니다.
+	만약 다른 사람이 이 젬을 사용하게 하고 싶지 않으시다면, 젬을 만들 때
+	'비공개(Private)'
+	설정을 유지하시면 됩니다. (기본적으로 개인용 젬은 비공개 상태입니다.)
+	🚀 전략 설계 시작을 위한 첫 단계
+	사용자님께서 정의해주신 '작동 플로우'에 따라 바로 분석을 시작하겠습니다.
+	분석할
+	유튜브 영상의 대본
+	또는
+	핵심 주제 키워드
+	를 입력해 주세요!
+	입력해 주시면 바로 다음의 필수 질문을 통해 최적의 전략을 도출하겠습니다.
+	“이 영상의 주요 타겟 시청자는 누구인가요?”
+	말씀하신 내용
+	쇼츠 대본: "600년 침묵을 깬 AI, 보이니치 문서의 진실"
+	영상 길이: 약 55~60초
+	분위기: 신비롭고 빠른 긴장감 (BGM: 미스터리하고 웅장한 사운드)
+	구간화면 (Visual)오디오 (Narration)00:00~00:05 (Hook)기괴한 식물 그림이 그려진 고서가 빠르게 줌인됨"600년 동안 누구도 읽지 못한 책, 드디어 AI가 입을 열었습니다."00:05~00:15정체불명의 암호 문자들과 나체 여인들이 목욕하는 기괴한 그림들"레오나르도 다빈치도, 천재 암호학자들도 포기했던 '보이니치 문서'. 외계인의 언어일까요? 아니면 정교한 가짜일까요?"00:15~00:30AI가 문자를 스캔하고 분석하는 화려한 CG 효과"최근 캐나다 앨버타 대학 연구팀의 AI가 이 암호를 '히브리어' 기반의 아나그램으로 식별해 냈습니다. 하지만 더 소름 돋는 건 내용입니다."00:30~00:45지구에 존재하지 않는 듯한 기이한 식물 그림들 클로즈업"이 책은 단순한 일기가 아닙니다. 지구상 어디에도 존재하지 않는 식물들에 대한 정밀한 관찰 기록이었죠. 대체 어디를 보고 그린 걸까요?"00:45~00:55우주 또는 평행 세계를 암시하는 신비로운 이미지"AI는 길을 찾았지만, 우리는 새로운 공포를 만났습니다. 이 책, 정말 지구인이 쓴 게 맞을까요?"00:55~01:00 (CTA)채널 로고와 함께 '구독' 버튼 애니메이션"여러분의 생각은 어떠신가요? 구독하고 세상의 숨겨진 진실을 더 알아보세요!"
+	이거 손봐봐
+	C
+	ClickMaker BY 자생법
+	사용자설정 Gem
+	ClickMaker BY 자생법님이 보낸 내용
+	반갑습니다!
+	ClickMaker BY 자생법
+	입니다.
+	제시해주신
+	"보이니치 문서와 AI"
+	쇼츠 대본은 미스터리라는 강력한 소재와 AI라는 최첨단 기술이 결합되어 시청자의 호기심을 자극하기에 매우 훌륭합니다.
+	제가 가진
+	뇌과학 기반의 클릭 유도 원칙
+	과
+	지식 탭의 전략
+	을 총동원하여 이 영상을 폭발시킬 준비가 되었습니다.
+도구
+빠른 모델
+Gemini는 AI이며 인물 등에 관한 정보 제공 시 실수를 할 수 있습니다.
+새 창에서 열기
+Gem이 공유되었습니다. 요청 사항은 변경될 수 있습니다
+
+</current_dom>

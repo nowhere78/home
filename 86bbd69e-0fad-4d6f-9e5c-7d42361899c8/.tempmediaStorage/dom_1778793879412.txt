@@ -1,0 +1,161 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (134,42)<a class='Navbar_logo__GfrlV Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/' />
+[1] (201,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 SearchInput_contentType__xssFJ Button_hideTextMobile__HefOk Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol' />
+	[2] (202,42)<span  />
+		[3] (202,42)<span  />
+			[4] (202,42)<span  />
+				[5] (202,42)<font  />
+					[6] (202,42)<font >사진 />
+[7] (417,42)<input class='SearchInput_input__NOK7W' id='search' placeholder='무료 사진을 검색하세요' />
+[8] (616,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG SearchInput_button__zJmJd Button_iconSolo__JmugI Button_noText__tgsFc Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-grey__u6fBS' />
+	[9] (616,42)<span  />
+[10] (671,42)<a class='Text_text__D8yqX Text_size-label-default__fPDlp Text_color-greyscale-shadow__RZoEL spacing_noMargin__F5u9R spacing_pt15__cbBaC spacing_pb15__udczT Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/discover/' />
+	[11] (671,42)<span  />
+		[12] (671,42)<font  />
+			[13] (671,42)<font >탐구하다 />
+[14] (727,42)<a class='Text_text__D8yqX Text_size-label-default__fPDlp Text_color-greyscale-shadow__RZoEL spacing_noMargin__F5u9R spacing_pt15__cbBaC spacing_pb15__udczT DisplayNone_desktop-oversized__gMp2i Navbar_navlink__TK8ZW Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='/license/' />
+	[15] (727,43)<span  />
+		[16] (727,43)<font  />
+			[17] (727,43)<font >특허 />
+[18] (760,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG Navbar_transparentButton__ZCSw8 Button_iconSolo__JmugI Button_noText__tgsFc Button_noBorder__BKWR5 Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol Button_color-override-greyscale-shadow__MAsnY' />
+[19] (797,42)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr15__zHjDk spacing_pl15__mpavG Navbar_transparentButton__ZCSw8 Button_iconSolo__JmugI Button_noText__tgsFc Button_noBorder__BKWR5 Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol Button_color-override-greyscale-shadow__MAsnY' id='navbar--notification-icon' />
+[20] (831,42)<div  />
+	[21] (831,42)<img  />
+[22] (878,42)<a class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 useAuth_hideWhenSignedOut__4iEV3 DisplayNone_desktop-oversized__gMp2i Navbar_primaryCTA__NSzqU Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-shadow__0beQR Link_link__Ime8c spacing_noMargin__F5u9R' href='/upload/' />
+	[23] (878,42)<span  />
+		[24] (878,42)<span  />
+			[25] (878,42)<font  />
+				[26] (878,42)<font >업로드 />
+언어를 선택하세요
+:
+영어
+한국어
+[27] (168,135)<h1  />
+	무료 미스터리 사진
+[28] (127,217)<a class='Tab_tab__I3FbH spacing_noMargin__F5u9R Tab_active__c8NFJ Link_link__Ime8c spacing_noMargin__F5u9R' href='/search/mystery/' />
+	[29] (118,217)<font  />
+		[30] (118,216)<font >사진 />
+	[31] (137,217)<span  />
+		[32] (137,217)<font  />
+			[33] (137,217)<font >81K />
+[34] (193,217)<a class='Tab_tab__I3FbH spacing_noMargin__F5u9R Tab_inactive__zYDi_ Link_link__Ime8c spacing_noMargin__F5u9R' href='/search/videos/mystery/' />
+	[35] (182,217)<font  />
+		[36] (182,216)<font >동영상 />
+	[37] (207,217)<span  />
+		[38] (207,217)<font  />
+			[39] (207,217)<font >9.3K />
+[40] (257,217)<a class='Tab_tab__I3FbH spacing_noMargin__F5u9R Tab_inactive__zYDi_ Link_link__Ime8c spacing_noMargin__F5u9R' href='/search/users/mystery/' />
+	[41] (247,217)<font  />
+		[42] (247,216)<font >사용자 />
+	[43] (271,217)<span  />
+		[44] (271,217)<font  />
+			[45] (271,217)<font >696 />
+[46] (125,297)<button class='Button_button__RDDf5 spacing_noMargin__F5u9R spacing_pr20__ZH8T3 spacing_pl20__MrrA1 FilterButton_leftBtn__84UXm Button_clickable__DqoNe Button_responsiveButton__9BBRz Button_color-white__Wmgol' />
+	[47] (125,297)<span  />
+		[48] (117,297)<i  />
+			[49] (117,293)<span  />
+			[50] (117,297)<span  />
+			[51] (117,301)<span  />
+		[52] (131,297)<span  />
+			[53] (131,297)<font  />
+				[54] (131,297)<font >필터 />
+[55] (533,297)<div class='SpacingGroup_default__s_Qnp SpacingGroup_overflow__WLIlL' scrollable='true' />
+	[56] (198,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/light/' />
+		[57] (179,297)<img  />
+		[58] (208,297)<div  />
+			[59] (199,297)<p  />
+				[60] (199,297)<font  />
+					[61] (199,297)<font >빛 />
+			[62] (214,297)<p  />
+				[63] (214,297)<font  />
+					[64] (214,297)<font >5.1K />
+	[65] (272,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/scary/' />
+		[66] (247,297)<img  />
+		[67] (283,297)<div  />
+			[68] (274,297)<p  />
+				[69] (274,297)<font  />
+					[70] (274,297)<font >무서운 />
+			[71] (296,297)<p  />
+				[72] (296,297)<font  />
+					[73] (296,297)<font >7.6K />
+	[74] (351,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/horror/' />
+		[75] (328,297)<img  />
+		[76] (361,297)<div  />
+			[77] (352,297)<p  />
+				[78] (352,297)<font  />
+					[79] (352,297)<font >공포 />
+			[80] (370,297)<p  />
+				[81] (370,297)<font  />
+					[82] (370,297)<font >8.4K />
+	[83] (446,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/mystery%20box/' />
+		[84] (404,297)<img  />
+		[85] (456,297)<div  />
+			[86] (443,297)<p  />
+				[87] (443,297)<font  />
+					[88] (443,297)<font >미스터리 박스 />
+			[89] (481,297)<p  />
+				[90] (481,297)<font  />
+					[91] (481,297)<font >110.5K />
+	[92] (548,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/silhouette/' />
+		[93] (518,297)<img  />
+		[94] (558,297)<div  />
+			[95] (545,297)<p  />
+				[96] (545,297)<font  />
+					[97] (545,297)<font >실루엣 />
+			[98] (572,297)<p  />
+				[99] (572,297)<font  />
+					[100] (572,297)<font >189.9K />
+	[101] (636,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/question%20mark/' />
+		[102] (609,297)<img  />
+		[103] (646,297)<div  />
+			[104] (636,297)<p  />
+				[105] (636,297)<font  />
+					[106] (636,297)<font >물음표 />
+			[107] (659,297)<p  />
+				[108] (659,297)<font  />
+					[109] (659,297)<font >17.4K />
+	[110] (716,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/night/' />
+		[111] (694,297)<img  />
+		[112] (726,297)<div  />
+			[113] (713,297)<p  />
+				[114] (713,297)<font  />
+					[115] (713,297)<font >밤 />
+			[116] (732,297)<p  />
+				[117] (732,297)<font  />
+					[118] (732,297)<font >153.3K />
+	[119] (791,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/question/' />
+		[120] (769,297)<img  />
+		[121] (801,297)<div  />
+			[122] (793,297)<p  />
+				[123] (793,297)<font  />
+					[124] (793,297)<font >질문 />
+			[125] (811,297)<p  />
+				[126] (811,297)<font  />
+					[127] (811,297)<font >7.4K />
+	[128] (873,297)<a class='SearchTermPill_pill__8Szjq Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R spacing_mr8__g1gt6' href='/search/magnifying%20glass/' />
+		[129] (843,297)<img  />
+		[130] (883,297)<div  />
+			[131] (870,297)<p  />
+				[132] (870,297)<font  />
+					[133] (870,297)<font >확대경 />
+			218.2K
+	범죄
+	8K
+[134] (229,617)<a class='MediaCard_content__kA4yf Link_link__Ime8c spacing_noMargin__F5u9R' href='/photo/man-in-coat-and-hat-in-black-and-white-17888561/' />
+	[135] (229,617)<div  />
+[136] (500,530)<a class='MediaCard_content__kA4yf Link_link__Ime8c spacing_noMargin__F5u9R' href='/photo/person-covering-face-with-a-white-mask-with-silence-gesture-6605437/' />
+	[137] (500,530)<div  />
+[138] (708,491)<a class='AIGCShared_imageContainer___Asyi Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mystery%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner&utm_content=%20experiment%3Dsiglip_2_query_expansions%2Bno_expansions' />
+	[139] (708,491)<img  />
+[140] (834,491)<a class='AIGCShared_imageContainer___Asyi Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mystery%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner&utm_content=%20experiment%3Dsiglip_2_query_expansions%2Bno_expansions' />
+	[141] (834,491)<img  />
+[142] (708,751)<a class='AIGCShared_imageContainer___Asyi Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mystery%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner&utm_content=%20experiment%3Dsiglip_2_query_expansions%2Bno_expansions' />
+	[143] (708,751)<img  />
+[144] (834,751)<a class='AIGCShared_imageContainer___Asyi Link_link__Ime8c clickable_clickable__wbzX_ spacing_noMargin__F5u9R' href='https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mystery%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner&utm_content=%20experiment%3Dsiglip_2_query_expansions%2Bno_expansions' />
+	[145] (834,751)<img  />
+Canva AI로 아이디어를 현실로 구현하세요.
+
+</current_dom>

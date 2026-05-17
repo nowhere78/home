@@ -1,0 +1,357 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+문자변환 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	[1] (31,26)<button aria-label='사이드 바 서비스' class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-xl center p-0 h-10 w-10 text-gray-500 hover:text-gray-alpha-950 duration-100 transition-colors' />
+	문자변환
+	[2] (928,26)<button aria-label='알림' class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-[10px] center p-0 h-9 w-9 [&>div]:w-4.5 [&>div]:h-4.5' />
+		[3] (928,26)<div  />
+			[4] (934,19)<span  />
+	[5] (970,26)<button aria-label='프로필' class='relative shrink-0 rounded-full focus-ring transition-all duration-150' id='radix-_r_68_' />
+		[6] (970,26)<div  />
+			[7] (970,26)<div  />
+				[8] (970,26)<img  />
+	[9] (281,380)<textarea aria-label='주요 내용' class='flex min-h-[60px] border-gray-alpha-200 focus-ring focus-visible:border-foreground focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 transition duration-100 p-0 mx-auto h-full flex-1 w-full bg-transparent rounded-lg border-none focus-visible:ring-0 focus-visible:outline-none text-md resize-none placeholder:text-subtle py-4 md:py-12 2xl:py-20' placeholder='여기에서 입력하거나 변환할 텍스트를 입력하세요...' />
+	시작하기
+	[10] (72,774)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[11] (82,774)<font  />
+			[12] (82,774)<font >이야기 반복 />
+	[13] (229,774)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[14] (240,774)<font  />
+			[15] (240,774)<font >재미있는 활동을 해보세요 />
+	[16] (379,774)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[17] (389,774)<font  />
+			[18] (389,774)<font >광고하기 />
+	[19] (105,816)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[20] (115,816)<font  />
+			[21] (115,816)<font >다양한 언어로 대화하기 />
+	[22] (295,816)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[23] (306,816)<font  />
+			[24] (306,816)<font >드라마틱한 영화 장면하기 />
+	[25] (133,859)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[26] (144,859)<font  />
+			[27] (144,859)<font >비디오 게임 캐릭터의 목소리 듣기 />
+	[28] (332,859)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[29] (342,859)<font  />
+			[30] (342,859)<font >팟캐스트 소개하기 />
+	[31] (475,859)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm pl-2 gap-1.5' />
+		[32] (485,859)<font  />
+			[33] (485,859)<font >명상 안내하기 />
+	인쇄 생성
+	[34] (96,974)<span  />
+		10,000 크레딧 남음
+	0
+	/
+	5,000
+	[35] (598,89)<button aria-label='뒤로' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 text-xm center p-0 h-7 w-7 rounded-md' />
+	[36] (639,89)<label class='text-sm text-foreground font-medium' id='radix-_r_9o_' />
+		선택
+	선택
+	[37] (781,152)<button class='w-full p-1 bg-gray-alpha-100 rounded-xl flex items-center gap-3 hover:bg-gray-alpha-200 transition-colors mb-4 ring-offset-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gray-alpha-950' />
+		[38] (794,152)<div  />
+			[39] (794,143)<p  />
+				[40] (752,142)<font  />
+					[41] (752,142)<font >ElevenLabs 앱 응답 />
+			[42] (794,164)<p  />
+				[43] (749,163)<font  />
+					[44] (749,163)<font >쉽게 만들고 공유하세요 />
+		[45] (929,152)<div  />
+	[46] (679,232)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 inline-flex -mb-[1px] items-center justify-center border-b-[1.5px] px-0 py-1 text-sm font-medium border-transparent data-[state=active]:border-gray-alpha-800 data-[state=active]:text-foreground flex-1 hstack gap-2' id='radix-_r_cl_-trigger-explore' role='tab' />
+		[47] (691,231)<font  />
+			[48] (691,231)<font >탐색 />
+	[49] (884,232)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 inline-flex -mb-[1px] items-center justify-center border-b-[1.5px] px-0 py-1 text-sm font-medium border-transparent data-[state=active]:border-gray-alpha-800 data-[state=active]:text-foreground flex-1' id='radix-_r_cl_-trigger-my-voices' role='tab' />
+		[50] (884,231)<font  />
+			[51] (884,231)<font >내측 />
+	[52] (756,292)<input aria-label='이용하시려면...' class='h-full w-full bg-transparent rounded-xl pl-9 text-sm font-medium placeholder:text-subtle focus-ring focus-visible:border-foreground focus-visible:ring-[0.5px] focus-visible:ring-offset-0 autofill:shadow-[inset_0_0_0px_1000px_var(--background)]' placeholder='이용하시려면...' />
+	[53] (958,292)<button aria-label='반대' class='flex gap-0.5 items-center whitespace-nowrap transition-colors shadow-none placeholder:text-muted-foreground focus-ring disabled:cursor-not-allowed duration-75 disabled:opacity-50 [&>span]:line-clamp-1 group/select-trigger bg-background border border-gray-alpha-200 hover:border-gray-alpha-300 active:border-gray-alpha-300 hover:bg-gray-alpha-50 active:bg-gray-alpha-50 radix-state-open:bg-gray-alpha-50 text-foreground disabled:bg-background disabled:border-gray-alpha-200 radix-state-open:border-gray-alpha-300 text-sm w-9 h-9 md:w-10 md:h-10 p-0 justify-center rounded-xl' role='combobox' />
+	[54] (611,334)<div class='cursor-pointer select-none focus-ring transition-colors duration-200 max-w-full flex items-center justify-center h-6 rounded-lg whitespace-nowrap text-xs font-medium px-[calc(theme(space.1)-1px)] border text-foreground bg-background hover:bg-gray-alpha-50 active:bg-gray-alpha-100 inset-ring' role='button' />
+		[55] (596,334)<div  />
+		[56] (619,334)<div  />
+			[57] (618,334)<font  />
+				[58] (618,334)<font >언어 />
+	[59] (673,334)<div  />
+		억양
+	[60] (748,334)<div class='cursor-pointer select-none focus-ring transition-colors duration-200 max-w-full flex items-center justify-center h-6 rounded-lg whitespace-nowrap text-xs font-medium px-[calc(theme(space.1)-1px)] border text-foreground bg-background hover:bg-gray-alpha-50 active:bg-gray-alpha-100 inset-ring' role='button' />
+		[61] (722,334)<div  />
+		[62] (756,334)<div  />
+			[63] (755,334)<font  />
+				[64] (755,334)<font >카테고리 />
+	[65] (822,334)<div class='cursor-pointer select-none focus-ring transition-colors duration-200 max-w-full flex items-center justify-center h-6 rounded-lg whitespace-nowrap text-xs font-medium px-[calc(theme(space.1)-1px)] border text-foreground bg-background hover:bg-gray-alpha-50 active:bg-gray-alpha-100 inset-ring' role='button' />
+		[66] (807,334)<div  />
+		[67] (831,334)<div  />
+			[68] (829,334)<font  />
+				[69] (829,334)<font >다시 />
+	[70] (885,334)<div class='cursor-pointer select-none focus-ring transition-colors duration-200 max-w-full flex items-center justify-center h-6 rounded-lg whitespace-nowrap text-xs font-medium px-[calc(theme(space.1)-1px)] border text-foreground bg-background hover:bg-gray-alpha-50 active:bg-gray-alpha-100 inset-ring' role='button' />
+		[71] (870,334)<div  />
+		[72] (893,334)<div  />
+			[73] (892,334)<font  />
+				[74] (892,334)<font >에이 />
+	[75] (941,334)<button aria-label='더 많은 핀핑' class='flex items-center justify-center h-6 w-10 rounded-lg border transition-colors duration-75 cursor-pointer select-none focus-ring bg-transparent text-foreground border-gray-alpha-150 hover:bg-gray-alpha-100 active:bg-gray-alpha-200' />
+	[76] (781,680)<div class='stack -mx-5 px-5 flex-1' scrollable='true' />
+		[77] (773,387)<li  />
+			[78] (773,387)<div  />
+				[79] (600,387)<div  />
+					[80] (600,387)<div  />
+						[81] (600,387)<div  />
+						[82] (613,375)<span  />
+				[83] (796,387)<div  />
+					[84] (796,387)<div  />
+						[85] (736,387)<div  />
+							[86] (736,377)<div  />
+								[87] (736,377)<p  />
+									[88] (726,377)<span  />
+										[89] (726,376)<font  />
+											[90] (726,376)<font >K씨 - 한국 크리에이터의 목소리 />
+							[91] (736,398)<div  />
+								[92] (736,398)<p  />
+									차분하고 따뜻하며 권위 있는 중년 한국 남성 목소리로, 세련된 중저음 톤을 지니고 있습니다. 한국 프리미엄 자동차 업계에서 24년간 쌓아온 경험을 바탕으로 자연스러운 무게감과 신뢰감을 선사합니다. 고급 브랜드 내레이션, 자동차 광고, 기업 프레젠테이션, 다큐멘터리 내레이션, 프리미엄 제품 소개, 오디오북, 교육 콘텐츠 등에 적합합니다. 톤은 신뢰감, 전문성, 성숙함, 세련됨, 정교함을 특징으로 합니다. 30~60세 전문직 종사자를 대상으로 하는 한국 프리미엄 콘텐츠에 가장 적합합니다.
+						[93] (865,387)<div  />
+						[94] (926,387)<div  />
+							[95] (926,387)<div  />
+								[96] (924,387)<ul  />
+									[97] (905,387)<li  />
+										[98] (905,387)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[99] (943,387)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1ac_' />
+		[100] (773,447)<li  />
+			[101] (773,447)<div  />
+				[102] (600,447)<div  />
+					[103] (600,447)<div  />
+						[104] (600,447)<div  />
+						[105] (613,434)<span  />
+				[106] (796,447)<div  />
+					[107] (796,447)<div  />
+						[108] (736,447)<div  />
+							[109] (736,436)<div  />
+								[110] (736,436)<p  />
+									[111] (729,436)<span  />
+										[112] (729,435)<font  />
+											[113] (729,435)<font >용규 - 차분한 한국 남성 내레이터 />
+							[114] (736,457)<div  />
+								[115] (736,457)<p  />
+									차분하고 명료하며 전문적인 한국어 원어민 남성 목소리입니다. 따뜻하면서도 신뢰감을 주는 음색에 뛰어난 발음, 자연스러운 리듬, 부드러운 호흡, 그리고 일관된 전달력을 자랑합니다. 내레이션, 다큐멘터리, 오디오북, 교육 콘텐츠 및 모든 장편 음성 프로젝트에 이상적입니다. 다재다능하고 듣기 좋으며 매우 매력적인 한국어 음성 해설입니다.
+						[116] (865,447)<div  />
+						[117] (926,447)<div  />
+							[118] (926,447)<div  />
+								[119] (924,447)<ul  />
+									[120] (905,447)<li  />
+										[121] (905,447)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[122] (943,447)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1b9_' />
+		[123] (773,506)<li  />
+			[124] (773,506)<div  />
+				[125] (600,506)<div  />
+					[126] (600,506)<div  />
+						[127] (600,506)<div  />
+						[128] (613,493)<span  />
+				[129] (796,506)<div  />
+					[130] (796,506)<div  />
+						[131] (736,506)<div  />
+							[132] (736,495)<div  />
+								[133] (736,495)<p  />
+									[134] (697,495)<span  />
+										[135] (697,495)<font  />
+											[136] (697,495)<font >세구 캄 서울 한국 남성 />
+							[137] (736,516)<div  />
+								[138] (736,516)<p  />
+									서울 한국 남성 특유의 차분하고 부드러우면서도 풍부한 표현력을 지닌 목소리입니다. ASMR 속삭임, 스토리텔링, 교육 영상, 한국 콘텐츠 내레이션, 편안한 분위기의 팟캐스트 등에 이상적입니다.
+						[139] (865,506)<div  />
+						[140] (926,506)<div  />
+							[141] (926,506)<div  />
+								[142] (924,506)<ul  />
+									[143] (905,506)<li  />
+										[144] (905,506)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[145] (943,506)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1c6_' />
+		[146] (773,565)<li  />
+			[147] (773,565)<div  />
+				[148] (600,565)<div  />
+					[149] (600,565)<div  />
+						[150] (600,565)<div  />
+						[151] (613,552)<span  />
+				[152] (796,565)<div  />
+					[153] (796,565)<div  />
+						[154] (736,565)<div  />
+							[155] (736,554)<div  />
+								[156] (736,554)<p  />
+									[157] (723,554)<span  />
+										[158] (723,554)<font  />
+											[159] (723,554)<font >Sein - 달콤하고 부드러운 한국 />
+							[160] (736,576)<div  />
+								[161] (736,576)<p  />
+									부드럽고 따뜻한 음색을 지닌 30대 한국 남성 목소리입니다. 오디오북, 내레이션, 뉴스 기사, 영상, 팟캐스트, 이러닝, 명상 가이드, 일상 대화 등 다양한 콘텐츠에 적합합니다. 자연스럽고 편안한 목소리로 청취자의 몰입도를 높여줍니다. 스토리텔링, 기업 프레젠테이션, 제품 리뷰, 다큐멘터리 내레이션에도 이상적입니다. 차분한 권위와 진심 어린 따뜻함을 더하는 다재다능하고 전문적인 목소리입니다.
+						[162] (865,565)<div  />
+						[163] (926,565)<div  />
+							[164] (926,565)<div  />
+								[165] (924,565)<ul  />
+									[166] (905,565)<li  />
+										[167] (905,565)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[168] (943,565)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1d3_' />
+		[169] (773,624)<li  />
+			[170] (773,624)<div  />
+				[171] (600,624)<div  />
+					[172] (600,624)<div  />
+						[173] (600,624)<div  />
+						[174] (613,612)<span  />
+				[175] (796,624)<div  />
+					[176] (796,624)<div  />
+						[177] (736,624)<div  />
+							[178] (736,614)<div  />
+								[179] (736,614)<p  />
+									[180] (736,614)<span  />
+										[181] (736,613)<font  />
+											[182] (736,613)<font >벨벳 - 차분하고 부드러운 한국 제품 />
+							[183] (736,635)<div  />
+								[184] (736,635)<p  />
+									차분하고 부드러우며 신뢰감을 주는 전문적인 톤의 한국 남성 목소리입니다. 명상 안내, 다큐멘터리, 감성적인 스토리텔링에 적합합니다.
+						[185] (865,624)<div  />
+						[186] (926,624)<div  />
+							[187] (926,624)<div  />
+								[188] (924,624)<ul  />
+									[189] (905,624)<li  />
+										[190] (905,624)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[191] (943,624)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1e1_' />
+		[192] (773,684)<li  />
+			[193] (773,684)<div  />
+				[194] (600,684)<div  />
+					[195] (600,684)<div  />
+						[196] (600,684)<div  />
+						[197] (613,671)<span  />
+				[198] (796,684)<div  />
+					[199] (796,684)<div  />
+						[200] (736,684)<div  />
+							[201] (736,673)<div  />
+								[202] (736,673)<p  />
+									[203] (701,673)<span  />
+										[204] (701,672)<font  />
+											[205] (701,672)<font >은하 - 우아한 한국 여성 />
+							[206] (736,694)<div  />
+								[207] (736,694)<p  />
+									[208] (734,715)<font  />
+										[209] (734,715)<font >전문적인 한국 여성 성우를 모집합니다. 내레이션 및 광고에 적합합니다. />
+						[210] (865,684)<div  />
+						[211] (926,684)<div  />
+							[212] (926,684)<div  />
+								[213] (924,684)<ul  />
+									[214] (905,684)<li  />
+										[215] (905,684)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[216] (943,684)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1eu_' />
+		[217] (773,743)<li  />
+			[218] (773,743)<div  />
+				[219] (600,743)<div  />
+					[220] (600,743)<div  />
+						[221] (600,743)<div  />
+						[222] (613,730)<span  />
+				[223] (796,743)<div  />
+					[224] (796,743)<div  />
+						[225] (736,743)<div  />
+							[226] (736,732)<div  />
+								[227] (736,732)<p  />
+									[228] (714,732)<span  />
+										[229] (714,732)<font  />
+											[230] (714,732)<font >정아 - 다재다능한 한국 여성 />
+							[231] (736,753)<div  />
+								[232] (736,753)<p  />
+									서울 원어민 여성: 6가지 스타일, 하나의 목소리. 자연스럽고 표준적인 서울 억양으로 어떤 대본에도 완벽하게 어울립니다. 격식 있는 뉴스부터 편안한 일상 대화까지 모든 분위기를 완벽하게 소화하는 믿음직한 목소리가 필요한 크리에이터를 위해 설계되었습니다. 6가지 스타일: 뉴스, 게임 NPC, 브이로그, 명상 등 다양한 용도로 활용 가능합니다. 자연스러운 발음: 격식체와 반말을 모두 자연스럽게 구사합니다. 정확한 발음: 100% 원어민 수준의 표준 한국어 발음을 제공합니다. 모든 한국어 대본에 맞는 하나의 목소리.
+						[233] (865,743)<div  />
+						[234] (926,743)<div  />
+							[235] (926,743)<div  />
+								[236] (924,743)<ul  />
+									[237] (905,743)<li  />
+										[238] (905,743)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[239] (943,743)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1fr_' />
+		[240] (773,802)<li  />
+			[241] (773,802)<div  />
+				[242] (600,802)<div  />
+					[243] (600,802)<div  />
+						[244] (600,802)<div  />
+						[245] (613,789)<span  />
+				[246] (796,802)<div  />
+					[247] (796,802)<div  />
+						[248] (736,802)<div  />
+							[249] (736,792)<div  />
+								[250] (736,792)<p  />
+									[251] (729,792)<span  />
+										[252] (729,791)<font  />
+											[253] (729,791)<font >지니 - 따뜻하고 똑똑한 한국 여성 />
+							[254] (736,813)<div  />
+								[255] (736,813)<p  />
+									지적인 권위와 따뜻하고 편안한 음색이 조화롭게 어우러진, 맑고 깨끗한 한국 여성 프리미엄 목소리입니다. 전문적이면서도 친근한 내레이터를 찾는 크리에이터에게 이상적입니다. 긴 대본에 최적화된 안정적인 목소리로 자연스럽고 몰입도 높은 청취 경험을 제공합니다. 고급 브랜드, 교육 시리즈, 심도 있는 스토리텔링에 적합합니다. 추천 용도: 오디오북 및 차분한 다큐멘터리, YouTube 에세이 및 정보 채널
+						[256] (865,802)<div  />
+						[257] (926,802)<div  />
+							[258] (926,802)<div  />
+								[259] (924,802)<ul  />
+									[260] (905,802)<li  />
+										[261] (905,802)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[262] (943,802)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1go_' />
+		[263] (773,861)<li  />
+			[264] (773,861)<div  />
+				[265] (600,861)<div  />
+					[266] (600,861)<div  />
+						[267] (600,861)<div  />
+						[268] (613,849)<span  />
+				[269] (796,861)<div  />
+					[270] (796,861)<div  />
+						[271] (736,861)<div  />
+							[272] (736,851)<div  />
+								[273] (736,851)<p  />
+									[274] (734,851)<span  />
+										[275] (734,850)<font  />
+											[276] (734,850)<font >선희 - 따뜻한 서울 한국 여성 60대 />
+							[277] (736,872)<div  />
+								[278] (736,872)<p  />
+									60대 서울 할머니의 따뜻한 목소리. 낮고 부드러운 톤에 은은한 미소와 포근한 모성애가 느껴집니다. 내레이션, 교육 콘텐츠, 오디오북, 편안한 ASMR, 자연스러운 대화에 이상적입니다. 자상하고 할머니 같은 분위기가 물씬 풍기는, 진정한 중년 서울 사투리를 구사합니다.
+						[279] (865,861)<div  />
+						[280] (926,861)<div  />
+							[281] (926,861)<div  />
+								[282] (924,861)<ul  />
+									[283] (905,861)<li  />
+										[284] (905,861)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[285] (943,861)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1hl_' />
+		[286] (773,921)<li  />
+			[287] (773,921)<div  />
+				[288] (600,921)<div  />
+					[289] (600,921)<div  />
+						[290] (600,921)<div  />
+						[291] (613,908)<span  />
+				[292] (796,921)<div  />
+					[293] (796,921)<div  />
+						[294] (736,921)<div  />
+							[295] (736,910)<div  />
+								[296] (736,910)<p  />
+									[297] (690,910)<span  />
+										[298] (690,910)<font  />
+											[299] (690,910)<font >동 - 40대 한국 남성 />
+							[300] (736,931)<div  />
+								[301] (736,931)<p  />
+									이 목소리는 40대 한국 남성의 목소리입니다. 따뜻하고 친근한 어조로, 지나치게 긴장되지 않으면서도 은은한 에너지와 긍정적인 분위기를 전달합니다. 발음이 명확하고 안정적이어서 유튜브 내레이션, 스토리텔링, 다큐멘터리, 홍보 영상 등에 적합합니다.
+						[302] (865,921)<div  />
+						[303] (926,921)<div  />
+							[304] (926,921)<div  />
+								[305] (924,921)<ul  />
+									[306] (905,921)<li  />
+										[307] (905,921)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[308] (943,921)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1ii_' />
+		[309] (773,980)<li  />
+			[310] (773,980)<div  />
+				[311] (796,980)<div  />
+					[312] (796,980)<div  />
+						[313] (736,980)<div  />
+							[314] (736,969)<div  />
+								[315] (736,969)<p  />
+									[316] (723,969)<span  />
+										[317] (723,969)<font  />
+											[318] (723,969)<font >영석 - 평범한 한국어, 팟캐스트 />
+							[319] (736,990)<div  />
+								[320] (736,990)<p  />
+									[321] (730,1011)<font  />
+										[322] (730,1011)<font >일상적인 한국 남성의 목소리 - 자연스럽고, 꾸밈없고, 공감 가는 목소리. />
+						[323] (865,980)<div  />
+						[324] (926,980)<div  />
+							[325] (926,980)<div  />
+								[326] (924,980)<ul  />
+									[327] (905,980)<li  />
+										[328] (905,980)<button aria-label='미리보기 플레이' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0' />
+									[329] (943,980)<button aria-label='추가 작업' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-lg text-xm w-8 h-8 p-0 transition-none duration-0' id='radix-_r_1jg_' />
+
+</current_dom>

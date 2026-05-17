@@ -1,0 +1,14 @@
+# ElevenLabs Voice Cloning Task
+
+## Plan
+- [ ] Check login status on ElevenLabs.io
+- [ ] If logged in:
+    - [ ] Navigate to "Voices"
+    - [ ] Add new voice -> "Instant Voice Clone"
+    - [ ] Upload `my_voice.m4a`
+    - [ ] Set name to "내목소리"
+    - [ ] Save/Confirm
+- [ ] If not logged in:
+    - [ ] Screenshot login page
+    - [ ] Report login options
+- [ ] Final summary of actions and findings

@@ -1,0 +1,18 @@
+# Task: Upload images and audio to CapCut and arrange them
+
+## Files to Upload:
+- [ ] 01_Hook_small.jpg
+- [ ] 02_상궁8명직관.jpg_small.jpg
+- [ ] 03_블랙기업왕비.jpg_small.jpg
+- [ ] 04_대비권력반전.jpg_small.jpg
+- [ ] 나레이션.mp3.mp3
+
+## Progress Checklist:
+- [ ] Check CapCut state (screenshot/DOM)
+- [ ] Set aspect ratio to 9:16
+- [ ] Upload image files
+- [ ] Upload audio file
+- [ ] Drag audio to timeline
+- [ ] Drag images to timeline (01 -> 02 -> 03 -> 04)
+- [ ] Adjust image durations
+- [ ] Final verification

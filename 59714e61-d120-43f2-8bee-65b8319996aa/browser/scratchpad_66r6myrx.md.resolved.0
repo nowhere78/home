@@ -1,0 +1,16 @@
+# Task: Clone Voice and Generate Narration on ElevenLabs
+
+## Progress Checklist
+- [ ] Navigate to ElevenLabs Voice Lab <!-- id: 0 -->
+- [ ] Add "Instant Voice Clone" <!-- id: 1 -->
+- [ ] Upload `my_voice.m4a` and name it "내목소리" <!-- id: 2 -->
+- [ ] Confirm voice creation <!-- id: 3 -->
+- [ ] Navigate to Text to Speech <!-- id: 4 -->
+- [ ] Select "내목소리" voice <!-- id: 5 -->
+- [ ] Paste script and generate audio <!-- id: 6 -->
+- [ ] Download generated audio <!-- id: 7 -->
+
+## Information
+- **Audio File Path:** `C:\Users\smile\.gemini\antigravity\brain\59714e61-d120-43f2-8bee-65b8319996aa\my_voice.m4a`
+- **Voice Name:** 내목소리
+- **Script:** 조선 왕비, 사실 아무도 하기 싫어했던 극한직업이었다는 거 아세요? 무려 상궁 8명이 지켜보는 가운데 합궁을 해야 했습니다. 혹시나 왕이 복상사할까 봐, 즉석에서 닭 피를 먹이려고 대기한 거죠. 로맨스? 그딴 거 없습니다. 그래서 양반가에선 딸을 왕비 안 만들려고 일부러 몰래 시집보내고 난리였습니다. 최종 면접 탈락? 그럼 평생 재혼 금지, 강제 솔로 확정이었거든요. 업무 강도는요? 1년 제사만 50번! 독박 육아에 내명부 관리까지. 이건 그냥 퇴사가 불가능한 조선판 블랙기업 그 자체였습니다. 하지만 이 지옥을 버티고 대비가 되면? 그때부턴 옥새 쥐고 나라를 흔드는 실세가 됩니다! 수렴청정 한 번이면 왕도 내 마음대로! 인생 역전이죠. 자, 여러분이라면 어떤 삶을 고르시겠어요? 댓글로 알려주세요!

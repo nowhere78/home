@@ -1,0 +1,36 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+가져오다
+기술에서 삶으로
+가입하기
+영업 담당자에게 문의하세요.
+최고의 기업, 크리에이터, 개발자를 위한 솔루션. 고객 경험을 위한 ElevenAgents, 콘텐츠 제작을 위한 ElevenCreative, 그리고 업계를 선도하는 AI 음성 생성기까지.
+일레븐크리에이티브
+일레븐에이전트
+일레븐API
+AI 음성 생성기
+10,000개 이상의 스튜디오급 AI 음성 라이브러리를 이용해 보세요.
+화법
+오디오북과 팟캐스트에 생동감을 불어넣는 표현력 풍부한 목소리.
+선호하는 언어 선택
+English
+(으)로 검사 중이신 것을 확인했습니다.
+영어
+(으)로 해당 사이트를 귀하라고 생각하시나요?
+한국어(으)로 전환
+[0] (103,34)<a aria-label='ElevenLabs' class='tw-group tw-outline-none focus-visible:tw-outline-focus tw-rounded-full tw-h-9 tw-flex tw-gap-1 tw-items-center tw-px-3 -tw-mx-3 tw-text-black' href='/' />
+[1] (882,34)<a class='inline-flex items-center justify-center whitespace-nowrap rounded-full effect-color disabled:cursor-not-allowed active:scale-[0.98] transition-transform duration-300 ease-out bg-inverse text-inverse data-[state=active]:bg-darkest tw-outline-none focus-visible:tw-outline-focus w-fit h-28 f-paragraph-03 px-12 hover:bg-darkest min-w-60' href='/app/sign-up'>Sign up />
+[2] (950,34)<button aria-label='Close main navigation' class='tw-relative tw-rounded-full tw-outline-none tw-p-1.5 -tw-m-1.5 -tw-mr-2.5 focus-visible:tw-outline-focus tw-text-black' />
+	[3] (950,34)<span  />
+[4] (500,99)<button class='tw-group tw-flex tw-items-center tw-justify-between tw-gap-x-2 tw-w-full tw-text-left tw-pl-4 tw-pr-3 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-text-xs/5 tw-font-medium tw-text-black tw-outline-none focus-visible:tw-outline-focus' id='react-aria8575212091-_r_d6_'>ElevenCreative />
+[5] (500,146)<button class='tw-group tw-flex tw-items-center tw-justify-between tw-gap-x-2 tw-w-full tw-text-left tw-pl-4 tw-pr-3 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-text-xs/5 tw-font-medium tw-text-black tw-outline-none focus-visible:tw-outline-focus' id='react-aria8575212091-_r_da_'>ElevenAgents />
+[6] (500,193)<button class='tw-group tw-flex tw-items-center tw-justify-between tw-gap-x-2 tw-w-full tw-text-left tw-pl-4 tw-pr-3 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-text-xs/5 tw-font-medium tw-text-black tw-outline-none focus-visible:tw-outline-focus' id='react-aria8575212091-_r_de_'>ElevenAPI />
+[7] (500,239)<button class='tw-group tw-flex tw-items-center tw-justify-between tw-gap-x-2 tw-w-full tw-text-left tw-pl-4 tw-pr-3 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-text-xs/5 tw-font-medium tw-text-black tw-outline-none focus-visible:tw-outline-focus' id='react-aria8575212091-_r_di_'>Resources />
+[8] (500,286)<a class='tw-block tw-w-full tw-text-left tw-text-xs/5 tw-font-medium tw-text-black tw-px-4 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-outline-none focus-visible:tw-outline-focus' href='/enterprise'>Enterprise />
+[9] (500,332)<a class='tw-block tw-w-full tw-text-left tw-text-xs/5 tw-font-medium tw-text-black tw-px-4 tw-py-3 tw-rounded-xl tw-transition-colors hover:tw-bg-gray-100 tw-outline-none focus-visible:tw-outline-focus' href='/pricing'>Pricing />
+[10] (258,953)<a class='inline-flex items-center justify-center whitespace-nowrap effect-color disabled:cursor-not-allowed active:scale-[0.98] transition-transform duration-300 ease-out bg-default rounded-full shadow-[0_0_0_1px_rgba(0,0,0,0.06),0_1px_2px_0_rgba(0,0,0,0.04),0_2px_4px_0_rgba(0,0,0,0.04)] tw-outline-none focus-visible:tw-outline-focus w-fit h-40 f-paragraph-02 px-16 hover:bg-dark min-w-60 tw-grow' href='/app/sign-in'>Log in />
+[11] (737,953)<a class='inline-flex items-center justify-center whitespace-nowrap rounded-full effect-color disabled:cursor-not-allowed active:scale-[0.98] transition-transform duration-300 ease-out bg-inverse text-inverse data-[state=active]:bg-darkest tw-outline-none focus-visible:tw-outline-focus w-fit h-40 f-paragraph-02 px-16 hover:bg-darkest min-w-60 tw-grow' href='/app/sign-up'>Sign up />
+
+</current_dom>

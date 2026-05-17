@@ -1,0 +1,254 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+문자변환 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	[1] (67,500)<div  />
+		내용으로 건너뛰기
+		[2] (66,500)<div  />
+			[3] (66,26)<div  />
+				[4] (66,26)<div  />
+					[5] (35,26)<div  />
+						[6] (39,26)<div  />
+							[7] (39,26)<div  />
+			[8] (66,526)<nav  />
+				[9] (66,80)<div  />
+					[10] (66,80)<div  />
+						[11] (16,80)<button aria-label='플랫폼 전환기. 플랫폼을 클릭하여 전환하세요.' class='group/main-nav-item rounded-[10px] outline-foreground bg-background -mx-0.5 dark:border dark:border-gray-200' id='radix-_r_3f_' />
+							[12] (16,80)<div  />
+								[13] (16,80)<div  />
+									[14] (16,80)<div  />
+										[15] (16,80)<div  />
+											[16] (16,80)<div  />
+												[17] (16,80)<img  />
+									일레븐크리에이티브
+				[18] (66,550)<div  />
+					[19] (66,437)<div  />
+						[20] (66,437)<div  />
+							[21] (21,393)<ul  />
+								[22] (21,224)<li  />
+									[23] (21,224)<ul  />
+										[24] (16,129)<a class='block w-fit rounded-lg outline-foreground' href='/app/home' />
+											[25] (16,129)<div  />
+												[26] (16,129)<div  />
+													[27] (16,129)<div  />
+													홈
+										[28] (16,167)<a class='block w-fit rounded-lg outline-foreground' href='/app/voice-library' />
+											[29] (16,167)<div  />
+												[30] (16,167)<div  />
+													[31] (16,167)<div  />
+													면
+										[32] (16,205)<a class='block w-fit rounded-lg outline-foreground' href='/app/studio' />
+											[33] (16,205)<div  />
+												[34] (16,205)<div  />
+													[35] (16,205)<div  />
+													스튜디오
+										[36] (16,243)<a class='block w-fit rounded-lg outline-foreground' href='/app/flows' />
+											[37] (16,243)<div  />
+												[38] (16,243)<div  />
+													[39] (16,243)<div  />
+													의
+										[40] (16,281)<a class='block w-fit rounded-lg outline-foreground' href='/app/templates' />
+											[41] (16,281)<div  />
+												[42] (16,281)<div  />
+													[43] (16,281)<div  />
+													폴더
+										[44] (16,320)<a class='block w-fit rounded-lg outline-foreground' href='/app/files' />
+											[45] (16,320)<div  />
+												[46] (16,320)<div  />
+													[47] (16,320)<div  />
+													파일
+								[48] (21,522)<li  />
+									[49] (23,368)<h2  />
+										[50] (23,368)<font  />
+											[51] (23,368)<font >머물렀다 />
+									[52] (21,535)<ul  />
+										[53] (16,402)<a class='block w-fit rounded-lg outline-foreground' href='/app/speech-synthesis/text-to-speech' />
+											[54] (16,402)<div  />
+												[55] (16,402)<div  />
+													[56] (16,402)<div  />
+													문자변환
+										[57] (16,440)<a class='block w-fit rounded-lg outline-foreground' href='/app/sound-effects' />
+											[58] (16,440)<div  />
+												[59] (16,440)<div  />
+													[60] (16,440)<div  />
+													효과음
+										[61] (16,478)<a class='block w-fit rounded-lg outline-foreground' href='/app/image-video' />
+											[62] (16,478)<div  />
+												[63] (16,478)<div  />
+													[64] (16,478)<div  />
+													이미지 및 비디오
+										[65] (16,516)<a class='block w-fit rounded-lg outline-foreground' href='/app/voice-isolator' />
+											[66] (16,516)<div  />
+												[67] (16,516)<div  />
+													[68] (16,516)<div  />
+													보이스 아이솔레이터
+										[69] (16,554)<a class='block w-fit rounded-lg outline-foreground' href='/app/speech-synthesis/speech-to-speech' />
+											[70] (16,554)<div  />
+												[71] (16,554)<div  />
+													[72] (16,554)<div  />
+													보이스신저
+										[73] (16,593)<a class='block w-fit rounded-lg outline-foreground' href='/app/music' />
+											[74] (16,593)<div  />
+												[75] (16,593)<div  />
+													[76] (16,593)<div  />
+													약
+										[77] (16,631)<a class='block w-fit rounded-lg outline-foreground' href='/app/speech-to-text' />
+											[78] (16,631)<div  />
+												[79] (16,631)<div  />
+													[80] (16,631)<div  />
+													지문변환
+										[81] (21,669)<li  />
+											[82] (16,669)<button class='relative group rounded-[10px] overflow-hidden bg-transparent transition-all duration-0 hover:transition-all hover:duration-0 w-[calc(var(--eleven-sidebar-width)-1.5625rem)] hover:text-gray-950 hover:bg-gray-alpha-100 text-gray-600 group-aria-expanded/sidebar:group-hover/sidebar:duration-0 outline-foreground' id='radix-_r_51_' />
+												[83] (16,669)<div  />
+													[84] (16,669)<div  />
+													더 많은 도구
+					[85] (66,889)<div  />
+						[86] (66,860)<div  />
+							[87] (66,860)<div  />
+								[88] (66,860)<ul  />
+									[89] (66,844)<button class='p-2.5 bg-background shadow-natural-xs rounded-[14px] mb-0.5 flex hover:bg-gray-alpha-50 transition-all duration-50 gap-1.5 overflow-hidden focus-visible:ring-2 focus-visible:outline-none ring-gray-950 stack w-[231px]' />
+										[90] (20,814)<div  />
+										[91] (66,865)<div  />
+											[92] (66,848)<p  />
+												[93] (33,847)<font  />
+													[94] (33,847)<font >팀 회원 초대 />
+											[95] (66,875)<p  />
+												[96] (65,875)<font  />
+													[97] (65,875)<font >팀을 함께하고 함께 웃고 물을 공유하세요. />
+									[98] (126,788)<button aria-label='닫기' class='inline-flex items-center justify-center whitespace-nowrap font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent text-foreground radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 text-xs center absolute -top-2 -right-2 w-5 h-5 p-1.5 opacity-0 group-hover/card:opacity-100 transition-opacity duration-200 bg-background hover:bg-gray-100 rounded-full shadow-natural-xs' />
+									[99] (16,926)<a class='block w-fit rounded-lg outline-foreground' href='/app/developers' />
+										[100] (16,926)<div  />
+											[101] (16,926)<div  />
+												[102] (16,926)<div  />
+												개발자
+						[103] (66,967)<div  />
+							[104] (66,966)<a aria-label='구독 그룹 업그레이드' class='relative w-full overflow-hidden group/upgrade z-1 p-0 isolate rounded-lg text-sm font-medium justify-center flex items-center gap-2 px-1.5 h-8 focus-visible:ring-2 focus-visible:outline-none ring-gray-950' href='/app/subscription' />
+								[105] (66,966)<div  />
+									[106] (48,966)<div  />
+									[107] (74,966)<div  />
+										업그레이드
+										[108] (74,966)<div  />
+											[109] (74,966)<font  />
+												[110] (74,966)<font >업그레이드 />
+	[111] (147,26)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-[10px] pointer-events-auto cursor-e-resize p-0 h-8 w-8 text-gray-500 hover:text-gray-alpha-950 duration-100 transition-colors shrink-0' />
+	문자변환
+	[112] (837,26)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 text-xm rounded-[0.6rem]' />
+		[113] (837,26)<font  />
+			[114] (837,26)<font >피드백 />
+	[115] (868,26)<a class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 text-xm w-full rounded-[0.6rem]' href='https://elevenlabs.io/docs/product-guides/playground/text-to-speech' />
+		[116] (868,26)<font  />
+			[117] (868,26)<font >문서 />
+	[118] (907,26)<button class='relative items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 text-xm flex-shrink-0 hidden lg:inline-flex rounded-[0.6rem]' />
+		[119] (912,26)<font  />
+			[120] (912,26)<font >연락하기 />
+	[121] (942,26)<button aria-label='파일' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 text-xm center p-0 h-8 w-8 shrink-0 rounded-[0.6rem] [&>div]:w-4 [&>div]:h-4 bg-gray-100' />
+	[122] (963,26)<button aria-label='알림' class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 text-xm center p-0 h-8 w-8 shrink-0 rounded-[0.6rem] [&>div]:w-4 [&>div]:h-4' />
+		[123] (963,26)<div  />
+			[124] (966,20)<span  />
+	[125] (985,26)<button aria-label='프로필' class='group w-full relative group items-center gap-0.5 h-10 w-10 justify-between flex rounded-lg text-sm leading-6 font-semibold outline-foreground transition-all duration-150 group-aria-expanded/sidebar:hover:bg-gray-alpha-100' />
+		[126] (985,26)<div  />
+			[127] (985,26)<div  />
+				[128] (985,26)<div  />
+					[129] (985,26)<img  />
+	[130] (436,457)<textarea aria-label='주요 내용' class='flex min-h-[60px] border-gray-alpha-200 focus-ring focus-visible:border-foreground focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 transition duration-100 p-0 mx-auto h-full flex-1 w-full bg-transparent rounded-lg border-none focus-visible:ring-0 focus-visible:outline-none text-md resize-none placeholder:text-subtle py-4 md:py-12 2xl:py-20' placeholder='여기에서 입력하거나 변환할 텍스트를 입력하세요...' />
+	[131] (257,896)<span  />
+		10,000 크레딧 남음
+	12
+	/
+	5,000
+	문자
+	[132] (635,896)<button aria-label='디지털 생성 Ctrl+Enter' class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-foreground text-background shadow-none hover:bg-gray-800 radix-state-open:bg-gray-700 radix-state-on:bg-gray-700 active:bg-gray-700 disabled:bg-gray-400 disabled:text-gray-100 h-9 px-3 rounded-[10px] col-span-2 md:col-span-1' />
+		[133] (635,896)<font  />
+			[134] (635,896)<font >인쇄 생성 />
+	[135] (870,526)<div class='w-full h-full overflow-y-auto overflow-x-hidden stack gap-4 p-5 pt-2' scrollable='true' />
+		[136] (757,86)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 inline-flex -mb-[1px] items-center justify-center border-b-[1.5px] px-0 py-1 text-sm font-medium border-transparent data-[state=active]:border-gray-alpha-800 data-[state=active]:text-foreground' id='radix-_r_7n_-trigger-settings' role='tab' />
+			[137] (757,85)<font  />
+				[138] (757,85)<font >설정 />
+		[139] (778,86)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 inline-flex -mb-[1px] items-center justify-center border-b-[1.5px] px-0 py-1 text-sm font-medium border-transparent data-[state=active]:border-gray-alpha-800 data-[state=active]:text-foreground' id='radix-_r_7n_-trigger-history' role='tab' />
+			[140] (778,85)<font  />
+				[141] (778,85)<font >기록 />
+		플로우 체험하기
+		이미지, 비디오, 음악을 한 곳에서 만들 수 있는 고유한 캔버스.
+		[142] (866,182)<button aria-label='플로우 체험하기' class='absolute top-0 right-0 bottom-0 left-0 outline-none rounded-[16px] focus:outline-none focus:ring-1 focus:ring-ring' />
+		[143] (965,182)<button aria-label='팝업 닫기' class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-transparent text-foreground hover:bg-gray-alpha-100 radix-state-open:text-foreground radix-state-open:bg-gray-alpha-200 radix-state-on:text-foreground radix-state-on:bg-gray-alpha-200 active:bg-gray-alpha-200 disabled:bg-transparent disabled:text-gray-400 rounded-[10px] p-0 w-8 h-8' />
+		[144] (866,262)<label class='text-sm text-foreground font-medium' />
+			면
+		[145] (866,303)<button aria-label='지문 선택 - 동 - 한국의 40대 남성' class='relative inline-flex items-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-10 justify-between rounded-[10px] px-3 max-w-full shrink' />
+			[146] (795,303)<span  />
+				[147] (762,303)<div  />
+					[148] (762,303)<img  />
+				[149] (802,303)<span  />
+					[150] (802,302)<font  />
+						[151] (802,302)<font >동 - 40대 한국 남성 />
+		[152] (757,360)<label class='text-sm text-foreground font-medium' />
+			모델
+		[153] (866,402)<button aria-label='모델 선택 - Eleven Multilingual v2' class='relative inline-flex items-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 justify-between rounded-[10px] px-3 w-full h-[38px] bg-background hover:bg-gray-50 active:bg-gray-100 border-none outline outline-1 outline-gray-alpha-200' />
+			[154] (800,402)<span  />
+				[155] (765,402)<span  />
+				[156] (809,402)<font  />
+					[157] (809,402)<font >일레븐 멀티링구얼 v2 />
+		가장 표현력이 반신반사합니다
+		[158] (933,443)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border-gray-alpha-200 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-7 text-xm bg-background hover:bg-gray-50 active:bg-gray-100 rounded-lg px-2 ring-1 ring-black/10 md:h-6 border-0' />
+			[159] (933,443)<font  />
+				[160] (933,443)<font >Eleven v3를 살펴보세요 />
+		[161] (757,501)<label class='text-sm text-foreground font-medium cursor-pointer w-fit underline decoration-dotted underline-offset-2 decoration-gray-alpha-400 select-none' />
+			[162] (757,500)<font  />
+				[163] (757,500)<font >속도 />
+		[164] (756,526)<label class='text-xs text-subtle font-normal' />
+			대처
+		[165] (972,526)<label class='text-xs text-subtle font-normal' />
+			더 빨리
+		[166] (866,543)<span  />
+			[167] (866,543)<span  />
+				[168] (820,543)<span  />
+			[169] (889,543)<span  />
+				[170] (889,543)<span aria-label='속도' class='block h-3 w-3 scale-100 hover:scale-110 transition-transform rounded-full bg-primary duration-100 focus-ring disabled:pointer-events-none disabled:opacity-50' role='slider' />
+		[171] (757,589)<label class='text-sm text-foreground font-medium cursor-pointer w-fit underline decoration-dotted underline-offset-2 decoration-gray-alpha-400 select-none' />
+			[172] (757,589)<font  />
+				[173] (757,589)<font >식물 />
+		[174] (760,615)<label class='text-xs text-subtle font-normal' />
+			더 많은
+		[175] (972,615)<label class='text-xs text-subtle font-normal' />
+			더 빨리
+		[176] (866,632)<span  />
+			[177] (808,632)<span  />
+			[178] (866,632)<span  />
+				[179] (866,632)<span aria-label='식물' class='block h-3 w-3 scale-100 hover:scale-110 transition-transform rounded-full bg-primary duration-100 focus-ring disabled:pointer-events-none disabled:opacity-50' role='slider' />
+		[180] (765,678)<label class='text-sm text-foreground font-medium cursor-pointer w-fit underline decoration-dotted underline-offset-2 decoration-gray-alpha-400 select-none' />
+			[181] (765,678)<font  />
+				[182] (765,678)<font >서로 같은 />
+		[183] (753,704)<label class='text-xs text-subtle font-normal' />
+			낮
+		[184] (976,704)<label class='text-xs text-subtle font-normal' />
+			엑음
+		[185] (866,721)<span  />
+			[186] (866,721)<span  />
+				[187] (837,721)<span  />
+			[188] (922,721)<span  />
+				[189] (922,721)<span aria-label='서로 같은' class='block h-3 w-3 scale-100 hover:scale-110 transition-transform rounded-full bg-primary duration-100 focus-ring disabled:pointer-events-none disabled:opacity-50' role='slider' />
+		[190] (772,767)<label class='text-sm text-foreground font-medium cursor-pointer w-fit underline decoration-dotted underline-offset-2 decoration-gray-alpha-400 select-none' />
+			[191] (772,767)<font  />
+				[192] (772,767)<font >스타일의 과장 />
+		[193] (756,793)<label class='text-xs text-subtle font-normal' />
+			없음
+		[194] (973,793)<label class='text-xs text-subtle font-normal' />
+			과장된
+		[195] (866,810)<span  />
+			[196] (866,810)<span  />
+			[197] (754,810)<span  />
+				[198] (754,810)<span aria-label='스타일의 과장' class='block h-3 w-3 scale-100 hover:scale-110 transition-transform rounded-full bg-primary duration-100 focus-ring disabled:pointer-events-none disabled:opacity-50' role='slider' />
+		[199] (765,856)<label class='text-sm text-foreground font-medium w-fit underline decoration-dotted underline-offset-2 decoration-gray-alpha-400 select-none' />
+			각 언어별
+		[200] (972,856)<button class='peer inline-flex shrink-0 relative cursor-pointer group/switch rounded-full border-2 border-transparent transition-colors duration-150 ease-in-out focus-ring disabled:cursor-not-allowed disabled:opacity-50 data-[state=checked]:bg-foreground data-[state=unchecked]:bg-gray-alpha-200 h-5 w-9' role='switch' />
+		[201] (866,905)<label class='text-sm text-foreground font-medium' />
+			출력 형식
+		[202] (866,943)<button aria-label='출력 형식' class='flex gap-0.5 items-center justify-between whitespace-nowrap transition-colors shadow-none placeholder:text-muted-foreground focus-ring disabled:cursor-not-allowed duration-75 disabled:opacity-50 [&>span]:line-clamp-1 group/select-trigger bg-background border border-gray-alpha-200 hover:border-gray-alpha-300 active:border-gray-alpha-300 hover:bg-gray-alpha-50 active:bg-gray-alpha-50 radix-state-open:bg-gray-alpha-50 text-foreground disabled:bg-background disabled:border-gray-alpha-200 radix-state-open:border-gray-alpha-300 pl-3 pr-2 py-2 text-sm rounded-[10px] w-full font-medium h-10' role='combobox'>MP3 44.1 kHz (128kbps) />
+			MP3 44.1 kHz (128kbps)
+			[203] (973,943)<div  />
+		화자
+		가치있는
+
+</current_dom>

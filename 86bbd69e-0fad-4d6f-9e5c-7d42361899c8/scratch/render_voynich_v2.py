@@ -1,0 +1,82 @@
+import asyncio
+import edge_tts
+import os
+import subprocess
+
+# --- CONFIGURATION ---
+TEXT_BLOCKS = [
+    ("AI가 깨운 것: 600년 미스터리...", 3),
+    ("이 책의 내용이 인간이 그린 게 아니라면?", 4),
+    ("나폴레옹, 레오나르도 다빈치, 그리고 세기의 암호학자들까지.", 5),
+    ("그들 모두가 이 문서 앞에서 무릎을 꿇었습니다.", 4),
+    ("그런데 2024년, AI가 마침내 해독에 성공했습니다.", 4),
+    ("하지만... 그 결과를 본 과학자들은 침묵했습니다.", 4),
+    ("히브리어 기반의 고도화된 암호.", 3),
+    ("그 속엔 지구 어디에도 존재하지 않는 기이한 식물들의 해부도가 담겨 있었죠.", 6),
+    ("생물학자들은 말합니다. 이건 우리가 아는 생명의 구조가 아니라고.", 5),
+    ("대체 누구를 위해, 무엇을 보고 그린 걸까요?", 4),
+    ("AI는 길을 찾았지만, 우리는 새로운 질문을 마주했습니다.", 5),
+    ("이 책, 정말 지구인이 쓴 게 맞을까요?", 4),
+    ("당신의 생각을 댓글로 남겨주세요.", 3),
+    ("다음 진실은 여러분의 답변에서 시작됩니다.", 4)
+]
+
+FULL_TEXT = " ".join([t[0] for t in TEXT_BLOCKS])
+VOICE = "ko-KR-InJoonNeural" 
+RATE = "+25%" # Faster speed as requested
+OUTPUT_AUDIO = "voynich_audio_v2.mp3"
+IMAGE_HOOK = r"C:\Users\smile\.gemini\antigravity\brain\86bbd69e-0fad-4d6f-9e5c-7d42361899c8\voynich_shorts_hook_9_16_1778794201762.png"
+IMAGE_PLANT = r"C:\Users\smile\.gemini\antigravity\brain\86bbd69e-0fad-4d6f-9e5c-7d42361899c8\voynich_shorts_plant_9_16_1778794215520.png"
+OUTPUT_VIDEO = "voynich_shorts_v2_pro.mp4"
+
+# --- TASKS ---
+
+async def generate_audio():
+    communicate = edge_tts.Communicate(FULL_TEXT, VOICE, rate=RATE)
+    await communicate.save(OUTPUT_AUDIO)
+
+def render_video_with_subtitles():
+    # Calculate start/end times for each subtitle block
+    drawtext_filters = []
+    current_time = 0
+    for text, duration in TEXT_BLOCKS:
+        # Proper escaping for FFmpeg drawtext
+        clean_text = text.replace(":", "\\:").replace("'", "\\'")
+        # Style: Yellow color, large font, center of screen, black border
+        f = (f"drawtext=text='{clean_text}':fontcolor=yellow:fontsize=80:x=(w-text_w)/2:y=(h-text_h)/2"
+             f":borderw=3:bordercolor=black:enable='between(t,{current_time},{current_time + duration})'")
+        drawtext_filters.append(f)
+        current_time += duration
+
+    filter_str = ",".join(drawtext_filters)
+
+    # Combined command: Concat images + Zoompan + Subtitles
+    # Note: Using simpler zoompan for stability
+    cmd = [
+        'ffmpeg', '-y',
+        '-loop', '1', '-t', '20', '-i', IMAGE_HOOK,
+        '-loop', '1', '-t', '40', '-i', IMAGE_PLANT,
+        '-i', OUTPUT_AUDIO,
+        '-filter_complex', 
+        f"[0:v]scale=8000:-1,zoompan=z='min(zoom+0.001,1.5)':d=600:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920[v1];"
+        f"[1:v]scale=8000:-1,zoompan=z='min(zoom+0.001,1.5)':d=1200:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920[v2];"
+        f"[v1][v2]concat=n=2:v=1:a=0[v];"
+        f"[v]{filter_str}[vfinal]",
+        '-map', '[vfinal]', '-map', '2:a',
+        '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-r', '30',
+        '-c:a', 'aac', '-shortest',
+        OUTPUT_VIDEO
+    ]
+    
+    print("Executing FFmpeg command...")
+    subprocess.run(cmd)
+
+async def main():
+    print("Generating Faster AI Audio...")
+    await generate_audio()
+    print("Rendering Professional Video with Motion and Subtitles...")
+    render_video_with_subtitles()
+    print(f"Success! Viral Video saved as {OUTPUT_VIDEO}")
+
+if __name__ == "__main__":
+    asyncio.run(main())

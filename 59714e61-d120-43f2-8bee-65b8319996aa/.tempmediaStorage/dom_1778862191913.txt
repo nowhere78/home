@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+의 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	면
+	탐색
+	내측
+	컬렉션
+	작성자
+	에
+	내측
+	지문을 찾을 수 없습니다.
+	알파벳에서 추가하거나 새로 만들어 보세요
+	만들기
+	즉석 복제 생성
+	오디오 샘플 로드 중...
+	간략히보기
+	이름
+	라벨
+	값
+	언어
+	한국어
+	라벨 추가
+	설명
+	이 비트 샘플을 업로드하고 복제할 모든 권리나 동의를 확인하고, 플랫폼에서 생성된 컨텐츠를 공유하기 위해 존재하는 목적으로 사용하지 않을 것을 확인합니다. ElevenLabs의
+	서비스 약관
+	,
+	금지된 콘텐츠 및 사용 규정
+	,
+	개인정보 처리방침
+	을 준수할 것임을 재확인합니다.
+	오디오 업로드
+	저장
+	닫기
+	[1] (500,507)<div class='fixed left-[50%] top-[50%] z-50 max-w-lg max-h-90avh translate-x-[-50%] translate-y-[-50%] bg-background shadow-natural-md duration-200 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[state=closed]:slide-out-to-left-1/2 data-[state=closed]:slide-out-to-top-[48%] data-[state=open]:slide-in-from-left-1/2 data-[state=open]:slide-in-from-top-[48%] sm:rounded-3xl focus-visible:outline-0 rounded-2xl p-3.5 flex flex-col md:flex-row gap-0 items-stretch justify-between w-[calc(var(--100avw)-2rem)] h-fit lg:min-h-[600px] lg:min-w-[1000px] overflow-y-auto md:overflow-visible' id='radix-_r_e9_' role='dialog' />
+		복제된 것을 사용하려면 업그레이드하세요.
+		계속해서 구독해 주시기 바랍니다
+		복제된 것을 사용하려면 업그레이드하세요.
+		[2] (301,296)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 text-subtle data-[state=active]:shadow-none inline-flex items-center justify-center rounded-[7px] px-3 h-full text-sm font-medium data-[state=active]:bg-background data-[state=active]:text-foreground data-[state=active]:!shadow-natural-xs' id='radix-_r_js_-trigger-starter' role='tab' />
+			[3] (301,296)<font  />
+				[4] (301,296)<font >기동기 />
+		[5] (364,296)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 text-subtle data-[state=active]:shadow-none inline-flex items-center justify-center rounded-[7px] px-3 h-full text-sm font-medium data-[state=active]:bg-background data-[state=active]:text-foreground data-[state=active]:!shadow-natural-xs' id='radix-_r_js_-trigger-creator' role='tab' />
+			[6] (364,296)<font  />
+				[7] (364,296)<font >창조자 />
+		[8] (421,296)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 text-subtle data-[state=active]:shadow-none inline-flex items-center justify-center rounded-[7px] px-3 h-full text-sm font-medium data-[state=active]:bg-background data-[state=active]:text-foreground data-[state=active]:!shadow-natural-xs' id='radix-_r_js_-trigger-pro' role='tab' />
+			[9] (421,296)<font  />
+				[10] (421,296)<font >찬성 />
+		[11] (472,296)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 text-subtle data-[state=active]:shadow-none inline-flex items-center justify-center rounded-[7px] px-3 h-full text-sm font-medium data-[state=active]:bg-background data-[state=active]:text-foreground data-[state=active]:!shadow-natural-xs' id='radix-_r_js_-trigger-growing_business' role='tab' />
+			[12] (472,296)<font  />
+				[13] (472,296)<font >규모 />
+		[14] (522,296)<button class='whitespace-nowrap ring-offset-background transition-all focus-ring disabled:pointer-events-none disabled:opacity-50 text-subtle data-[state=active]:shadow-none inline-flex items-center justify-center rounded-[7px] px-3 h-full text-sm font-medium data-[state=active]:bg-background data-[state=active]:text-foreground data-[state=active]:!shadow-natural-xs' id='radix-_r_js_-trigger-scale_2024_08_10' role='tab' />
+			[15] (522,296)<font  />
+				[16] (522,296)<font >사업 />
+		크리에이터를 더 이상 사용하지 않고 거래 가능
+		월 2시간의 오디오 생성
+		자신의 지문으로 오디오북과 팟캐스트 만들기
+		디스플레이로 Video 보이스 생성
+		31개 이상의 언어로 콘텐츠 자동 더빙
+		[17] (380,653)<button class='flex flex-col items-start justify-end gap-2 pt-3.5 pb-1.5 px-4.5 bg-background border w-full rounded-xl h-fit sm:h-auto transition-all duration-200 overflow-hidden ring-1 ring-foreground border-foreground focus-visible:outline-1 focus-visible:outline-offset-4 focus-visible:outline-foreground focus-visible:border-gray-alpha-400 focus-visible:ring-0' />
+			[18] (324,599)<div  />
+				[19] (324,600)<div  />
+					[20] (324,600)<font  />
+						[21] (324,600)<font >첫 달 요금 반값 />
+			[22] (308,629)<p  />
+				[23] (308,629)<font  />
+					[24] (308,629)<font >월간 청구 />
+			[25] (348,687)<div  />
+				[26] (313,687)<span  />
+					[27] (313,687)<font  />
+						[28] (313,687)<font >11달러 />
+				[29] (352,698)<span  />
+					[30] (353,698)<font  />
+						[31] (353,698)<font >/월 />
+				[32] (390,695)<span  />
+					[33] (390,695)<font  />
+						[34] (390,695)<font >22달러 />
+		[35] (620,653)<button class='flex flex-col items-start justify-end gap-2 pt-3.5 pb-1.5 px-4.5 bg-background border border-gray-alpha-200 w-full rounded-xl h-fit sm:h-auto transition-all duration-200 overflow-hidden ring-0 focus-visible:outline-1 focus-visible:outline-offset-4 focus-visible:outline-foreground focus-visible:border-gray-alpha-400 focus-visible:ring-0' />
+			[36] (553,599)<div  />
+				[37] (553,600)<div  />
+					[38] (553,600)<font  />
+						[39] (553,600)<font >2개월 무료 />
+			[40] (548,629)<p  />
+				[41] (548,629)<font  />
+					[42] (548,629)<font >연간 총액 />
+			[43] (589,687)<div  />
+				[44] (561,687)<span  />
+					[45] (561,687)<font  />
+						[46] (561,687)<font >18.33달러 />
+				[47] (605,698)<span  />
+					[48] (605,698)<font  />
+						[49] (605,698)<font >/월 />
+				[50] (635,695)<span  />
+					[51] (635,695)<font  />
+						[52] (635,695)<font >22달러 />
+		[53] (500,768)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-foreground text-background shadow-none hover:bg-gray-800 radix-state-open:bg-gray-700 radix-state-on:bg-gray-700 active:bg-gray-700 disabled:bg-gray-400 disabled:text-gray-100 h-10 px-4 rounded-xl' />
+			[54] (500,768)<font  />
+				[55] (500,767)<font >Creator 월간 구독하기 />
+		[56] (731,230)<button class='absolute right-5 top-5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus-ring disabled:pointer-events-none data-[state=open]:bg-accent data-[state=open]:text-muted-foreground' />
+			닫기
+
+</current_dom>

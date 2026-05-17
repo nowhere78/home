@@ -1,0 +1,296 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[39] (59,93)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='홈' />
+		[40] (59,93)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[41] (19,93)<yt-icon  />
+				[42] (19,93)<span  />
+					[43] (19,93)<div  />
+			[44] (72,93)<yt-formatted-string >홈 />
+	[45] (59,135)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[46] (59,135)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[47] (19,135)<yt-icon  />
+				[48] (19,135)<span  />
+					[49] (19,135)<div  />
+			[50] (72,135)<yt-formatted-string >Shorts />
+	[51] (59,204)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='구독' />
+		[52] (59,204)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[53] (22,204)<yt-formatted-string >구독 />
+			[54] (36,204)<yt-icon  />
+				[55] (36,204)<span  />
+					[56] (36,204)<div  />
+	[57] (59,247)<a aria-label='1theK (원더케이)에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1theK' id='endpoint' role='link' title='1theK (원더케이)' />
+		[58] (59,247)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[59] (19,247)<yt-img-shadow  />
+				[60] (19,247)<img  />
+			[61] (68,247)<yt-formatted-string >1theK (원더케이) />
+			[62] (102,247)<div  />
+	[63] (59,289)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1minscience' id='endpoint' role='link' title='1분과학' />
+		[64] (59,289)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[65] (19,289)<yt-img-shadow  />
+				[66] (19,289)<img  />
+			[67] (72,289)<yt-formatted-string >1분과학 />
+	[68] (59,331)<a aria-label='1분미만에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1%EB%B6%84%EB%AF%B8%EB%A7%8C' id='endpoint' role='link' title='1분미만' />
+		[69] (59,331)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[70] (19,331)<yt-img-shadow  />
+				[71] (19,331)<img  />
+			[72] (68,331)<yt-formatted-string >1분미만 />
+			[73] (102,331)<div  />
+	[74] (59,374)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@No.14VinylShop' id='endpoint' role='link' title='14번지 LP가게' />
+		[75] (59,374)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[76] (19,374)<yt-img-shadow  />
+				[77] (19,374)<img  />
+			[78] (72,374)<yt-formatted-string >14번지 LP가게 />
+	[79] (59,416)<a aria-label='21일간 열방과 함께하는 다니엘기도회에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@danielprayer' id='endpoint' role='link' title='21일간 열방과 함께하는 다니엘기도회' />
+		[80] (59,416)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[81] (19,416)<yt-img-shadow  />
+				[82] (19,416)<img  />
+			[83] (68,416)<yt-formatted-string >21일간 열방과 함께하는 다니엘기도회 />
+			[84] (102,416)<div  />
+	[85] (59,458)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@180%EC%B4%88%EB%B0%94%EC%9D%B4%EB%B8%94' id='endpoint' role='link' title='180초 바이블' />
+		[86] (59,458)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[87] (19,458)<yt-img-shadow  />
+				[88] (19,458)<img  />
+			[89] (72,458)<yt-formatted-string >180초 바이블 />
+	[90] (59,501)<a aria-label='522의 하루에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@522_today' id='endpoint' role='link' title='522의 하루' />
+		[91] (59,501)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[92] (19,501)<yt-img-shadow  />
+				[93] (19,501)<img  />
+			[94] (68,501)<yt-formatted-string >522의 하루 />
+			[95] (102,501)<div  />
+	[96] (59,543)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[97] (59,543)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[98] (59,543)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[99] (19,543)<yt-icon  />
+					[100] (19,543)<span  />
+						[101] (19,543)<div  />
+				[102] (72,543)<yt-formatted-string >더보기 />
+	[103] (59,612)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='내 페이지' />
+		[104] (59,612)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[105] (31,612)<yt-formatted-string >내 페이지 />
+			[106] (54,612)<yt-icon  />
+				[107] (54,612)<span  />
+					[108] (54,612)<div  />
+	[109] (59,654)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@honeyjarfinds' id='endpoint' role='link' title='내 채널' />
+		[110] (59,654)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[111] (19,654)<yt-icon  />
+				[112] (19,654)<span  />
+					[113] (19,654)<div  />
+			[114] (72,654)<yt-formatted-string >내 채널 />
+	[115] (59,696)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='기록' />
+		[116] (59,696)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[117] (19,696)<yt-icon  />
+				[118] (19,696)<span  />
+					[119] (19,696)<div  />
+			[120] (72,696)<yt-formatted-string >기록 />
+	[121] (59,739)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='재생목록' />
+		[122] (59,739)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[123] (19,739)<yt-icon  />
+				[124] (19,739)<span  />
+					[125] (19,739)<div  />
+			[126] (72,739)<yt-formatted-string >재생목록 />
+	[127] (59,781)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='나중에 볼 동영상' />
+		[128] (59,781)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[129] (19,781)<yt-icon  />
+				[130] (19,781)<span  />
+					[131] (19,781)<div  />
+			[132] (72,781)<yt-formatted-string >나중에 볼 동영상 />
+	[133] (59,823)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='좋아요 표시한 동영상' />
+		[134] (59,823)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[135] (19,823)<yt-icon  />
+				[136] (19,823)<span  />
+					[137] (19,823)<div  />
+			[138] (72,823)<yt-formatted-string >좋아요 표시한 동영상 />
+	[139] (59,866)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/videos' id='endpoint' role='link' title='내 동영상' />
+		[140] (59,866)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[141] (19,866)<yt-icon  />
+				[142] (19,866)<span  />
+					[143] (19,866)<div  />
+			[144] (72,866)<yt-formatted-string >내 동영상 />
+	[145] (59,908)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='오프라인 저장 동영상' />
+		[146] (59,908)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[147] (19,908)<yt-icon  />
+				[148] (19,908)<span  />
+					[149] (19,908)<div  />
+			[150] (72,908)<yt-formatted-string >오프라인 저장 동영상 />
+	[151] (59,950)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[152] (59,950)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[153] (59,950)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[154] (19,950)<yt-icon  />
+					[155] (19,950)<span  />
+						[156] (19,950)<div  />
+				[157] (72,950)<yt-formatted-string >더보기 />
+link.inpock.co.kr/honeyjarfinds
+채널 맞춤설정
+동영상 관리
+[158] (237,106)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[159] (237,106)<div >홈 />
+[160] (274,106)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[161] (274,106)<div >동영상 />
+[162] (312,106)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[163] (312,106)<div >Shorts />
+[164] (352,106)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[165] (352,106)<div >재생목록 />
+[166] (392,106)<yt-tab-shape class='ytTabShapeHost ytTabShapeHostClickable' role='tab' />
+	[167] (392,106)<div >게시물 />
+[168] (468,106)<yt-tab-shape  />
+	[169] (428,106)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[170] (428,106)<yt-icon  />
+			[171] (428,106)<span  />
+				[172] (428,106)<div  />
+[173] (274,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/IbJMyYKKOpw' />
+	[174] (274,298)<div  />
+		[175] (274,298)<yt-thumbnail-view-model  />
+			[176] (274,298)<div  />
+				[177] (274,298)<img  />
+[178] (274,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[179] (264,512)<div  />
+		[180] (264,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[181] (264,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/IbJMyYKKOpw' title='귀여움 충전 완료!! 복실이~' />
+				[182] (262,499)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>귀여움 충전 완료!! 복실이~ />
+		[183] (264,538)<div  />
+			[184] (234,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 7회 />
+	[185] (320,495)<div  />
+		[186] (320,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[187] (320,495)<yt-touch-feedback-shape  />
+				[188] (320,495)<div  />
+[189] (387,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/0jnsqsz4z0A' />
+	[190] (387,298)<div  />
+		[191] (387,298)<yt-thumbnail-view-model  />
+			[192] (387,298)<div  />
+				[193] (387,298)<img  />
+[194] (387,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[195] (378,512)<div  />
+		[196] (378,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[197] (378,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/0jnsqsz4z0A' title='충격!! 만리장성의 반전 진실 #Shorts' />
+				[198] (375,499)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>충격!! 만리장성의 반전 진실 #Shorts />
+		[199] (378,538)<div  />
+			[200] (354,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 1.1천회 />
+	[201] (434,495)<div  />
+		[202] (434,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[203] (434,495)<yt-touch-feedback-shape  />
+				[204] (434,495)<div  />
+[205] (501,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/afRu0NewadI' />
+	[206] (501,298)<div  />
+		[207] (501,298)<yt-thumbnail-view-model  />
+			[208] (501,298)<div  />
+				[209] (501,298)<img  />
+[210] (501,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[211] (491,512)<div  />
+		[212] (491,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[213] (491,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/afRu0NewadI' title='타이타닉 비밀 3편: 침몰의 진짜 범인은 빙산이 아니었다?' />
+				[214] (491,511)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>타이타닉 비밀 3편: 침몰의 진짜 범인은 빙산이 아니었다? />
+		[215] (491,538)<div  />
+			[216] (463,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 24회 />
+	[217] (547,495)<div  />
+		[218] (547,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[219] (547,495)<yt-touch-feedback-shape  />
+				[220] (547,495)<div  />
+[221] (614,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/jKF2lt5YKAM' />
+	[222] (614,298)<div  />
+		[223] (614,298)<yt-thumbnail-view-model  />
+			[224] (614,298)<div  />
+				[225] (614,298)<img  />
+[226] (614,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[227] (605,512)<div  />
+		[228] (605,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[229] (605,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/jKF2lt5YKAM' title='타이타닉 비밀 2편: 100년 만에 발견된 의문의 가방 #Shorts' />
+				[230] (604,511)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>타이타닉 비밀 2편: 100년 만에 발견된 의문의 가방 #Shorts />
+		[231] (605,538)<div  />
+			[232] (581,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 1.4천회 />
+	[233] (661,495)<div  />
+		[234] (661,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[235] (661,495)<yt-touch-feedback-shape  />
+				[236] (661,495)<div  />
+[237] (728,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/wTD0jvW1NEk' />
+	[238] (728,298)<div  />
+		[239] (728,298)<yt-thumbnail-view-model  />
+			[240] (728,298)<div  />
+				[241] (728,298)<img  />
+[242] (728,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[243] (718,512)<div  />
+		[244] (718,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[245] (718,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/wTD0jvW1NEk' title='타이타닉 침몰의 슬픈 진실 1편 #Shorts' />
+				[246] (718,499)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>타이타닉 침몰의 슬픈 진실 1편 #Shorts />
+		[247] (718,538)<div  />
+			[248] (695,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 1.2천회 />
+	[249] (774,495)<div  />
+		[250] (774,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[251] (774,495)<yt-touch-feedback-shape  />
+				[252] (774,495)<div  />
+[253] (841,298)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/vGhRrb70BPc' />
+	[254] (841,298)<div  />
+		[255] (841,298)<yt-thumbnail-view-model  />
+			[256] (841,298)<div  />
+				[257] (841,298)<img  />
+[258] (841,508)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[259] (832,512)<div  />
+		[260] (832,499)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[261] (832,499)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/vGhRrb70BPc' title='어린이를 위한 최고의 선물 : 울트라 합체 로봇' />
+				[262] (832,499)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>어린이를 위한 최고의 선물 : 울트라 합체 로봇 />
+		[263] (832,538)<div  />
+			[264] (806,537)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 266회 />
+	[265] (888,495)<div  />
+		[266] (888,495)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[267] (888,495)<yt-touch-feedback-shape  />
+				[268] (888,495)<div  />
+[269] (274,725)<a class='shortsLockupViewModelHostEndpoint reel-item-endpoint' href='/shorts/0e77daSjQzA' />
+	[270] (274,725)<div  />
+		[271] (274,725)<yt-thumbnail-view-model  />
+			[272] (274,725)<div  />
+				[273] (274,725)<img  />
+[274] (274,935)<div class='shortsLockupViewModelHostOutsideMetadata shortsLockupViewModelHostMetadataRounded shortsLockupViewModelHostOutsideMetadataHasMenu' role='presentation' />
+	[275] (264,940)<div  />
+		[276] (264,927)<h3 class='shortsLockupViewModelHostMetadataTitle shortsLockupViewModelHostOutsideMetadataTitle' role='presentation' />
+			[277] (264,927)<a class='shortsLockupViewModelHostEndpoint shortsLockupViewModelHostOutsideMetadataEndpoint' href='/shorts/0e77daSjQzA' title='무조건 승낙을 받아내는 '3초'의 비밀 (상대를 조종하는 침묵의 기술) #심리 #인간관계 #shorts' />
+				[278] (263,950)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>무조건 승낙을 받아내는 '3초'의 비밀 (상대를 조종하는 침묵의 기술) #심리 #인간관계 #shorts />
+		[279] (264,965)<div  />
+			[280] (238,964)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>조회수 363회 />
+	[281] (320,923)<div  />
+		[282] (320,923)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[283] (320,923)<yt-touch-feedback-shape  />
+				[284] (320,923)<div  />
+
+</current_dom>

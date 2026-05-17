@@ -1,0 +1,150 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (117,35)<input aria-label='메인 메뉴' class='vector-dropdown-checkbox ' id='vector-main-menu-dropdown-checkbox' role='button' />
+메인 메뉴
+[1] (178,35)<a class='mw-logo' href='/wiki/Main_Page' />
+	[2] (145,35)<img  />
+	[3] (193,35)<span  />
+		[4] (193,35)<img  />
+[5] (371,35)<input aria-label='위키미디어 공용 검색' class='cdx-text-input__input mw-searchInput' id='searchInput' placeholder='위키미디어 공용 검색' title='위키미디어 공용 검색 [alt-f]' />
+[6] (501,35)<button class='cdx-button cdx-search-input__end-button' />
+	찾다
+[7] (772,35)<a class='uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet' href='#' />
+	[8] (763,35)<span  />
+	[9] (778,35)<span  />
+		[10] (778,35)<font  />
+			[11] (778,35)<font >영어 />
+[12] (812,35)<a href='https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=commons.wikimedia.org&uselang=en' />
+	[13] (812,35)<span  />
+		[14] (812,35)<font  />
+			[15] (812,35)<font >기부하세요 />
+[16] (848,35)<a href='/w/index.php?title=Special:CreateAccount&returnto=Special%3AMediaSearch&returntoquery=search%3DVoynich%2BManuscript%2Bplant' title='계정을 만들고 로그인하는 것을 권장하지만, 필수 사항은 아닙니다.' />
+	[17] (848,35)<span  />
+		[18] (848,35)<font  />
+			[19] (848,35)<font >계정 생성 />
+[20] (876,35)<a href='/w/index.php?title=Special:UserLogin&returnto=Special%3AMediaSearch&returntoquery=search%3DVoynich%2BManuscript%2Bplant' title='로그인하시는 것을 권장하지만, 필수 사항은 아닙니다. [alt-o]' />
+	[21] (876,35)<span  />
+		[22] (876,35)<font  />
+			[23] (876,35)<font >로그인 />
+검색 미디어
+[24] (700,153)<a href='https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Voynich+Manuscript+biological' id='mediasearch-switch-special-search' />
+	[25] (700,153)<font  />
+		[26] (700,153)<font >특수 검색으로 전환 />
+[27] (740,153)<a class='mw-helplink' href='https://www.mediawiki.org/wiki/Special:MyLanguage/Help:MediaSearch' />
+	[28] (740,153)<font  />
+		[29] (740,153)<font >돕다 />
+[30] (735,194)<input aria-label='도구' class='vector-dropdown-checkbox ' id='vector-page-tools-dropdown-checkbox' role='button' />
+도구
+모습
+[31] (797,194)<button class='vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button' />
+	[32] (797,196)<font  />
+		[33] (797,196)<font >숨다 />
+텍스트
+[34] (824,282)<label class='cdx-label cdx-radio__label' />
+	작은
+[35] (824,312)<label class='cdx-label cdx-radio__label' />
+	기준
+[36] (824,342)<label class='cdx-label cdx-radio__label' />
+	크기가 큰
+이 페이지는 항상 작은 글꼴 크기를 사용합니다.
+너비
+[37] (773,483)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-1' />
+[38] (824,483)<label class='cdx-label cdx-radio__label' />
+	기준
+[39] (773,513)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-0' />
+[40] (824,513)<label class='cdx-label cdx-radio__label' />
+	넓은
+색상
+(베타)
+[41] (773,597)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-os' />
+[42] (824,597)<label class='cdx-label cdx-radio__label' />
+	오토매틱
+[43] (773,626)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-day' />
+[44] (824,626)<label class='cdx-label cdx-radio__label' />
+	빛
+[45] (773,656)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-night' />
+[46] (824,656)<label class='cdx-label cdx-radio__label' />
+	어두운
+[47] (737,108)<a href='#' id='mw-AnonymousI18N-decline' />
+	[48] (737,109)<img  />
+Wikimedia Commons를
+[49] (455,110)<a href='#' id='mw-AnonymousI18N-gosuggest' />
+	[50] (455,110)<font  />
+		[51] (455,110)<font >영어 />
+로 보기
+검색 미디어
+[52] (416,249)<input class='cdx-text-input__input cdx-text-input__input--has-value' id='sdms-search-input__input' placeholder='이미지, 오디오, 비디오 등을 검색하세요.' />
+[53] (734,249)<button class='cdx-button cdx-button--action-progressive cdx-button--weight-primary cdx-button--size-medium cdx-button--framed sd-input__button' />
+	찾다
+[54] (130,291)<button class='cdx-tabs__list__item' id='v-0-label' role='tab' />
+	이미지
+[55] (165,291)<button class='cdx-tabs__list__item' id='v-1-label' role='tab' />
+	오디오
+[56] (199,291)<button class='cdx-tabs__list__item' id='v-2-label' role='tab' />
+	동영상
+[57] (242,291)<button class='cdx-tabs__list__item' id='v-3-label' role='tab' />
+	기타 미디어
+[58] (303,291)<button class='cdx-tabs__list__item' id='v-4-label' role='tab' />
+	카테고리 및 페이지
+[59] (129,332)<button class='sd-select__content' />
+	[60] (125,334)<span class='sd-select__current-selection' id='haslicense__textbox' role='textbox' />
+		[61] (125,334)<font  />
+			[62] (125,334)<font >특허 />
+	[63] (137,332)<span  />
+[64] (171,332)<button class='sd-select__content' />
+	[65] (167,334)<span class='sd-select__current-selection' id='filemime__textbox' role='textbox' />
+		[66] (167,334)<font  />
+			[67] (167,334)<font >파일 형식 />
+	[68] (186,332)<span  />
+[69] (223,332)<button class='sd-select__content' />
+	[70] (219,334)<span class='sd-select__current-selection' id='fileres__textbox' role='textbox' />
+		[71] (219,334)<font  />
+			[72] (219,334)<font >이미지 크기 />
+	[73] (242,332)<span  />
+[74] (282,332)<button class='sd-select__content' />
+	[75] (278,334)<span class='sd-select__current-selection' id='assessment__textbox' role='textbox' />
+		[76] (278,334)<font  />
+			[77] (278,334)<font >커뮤니티 평가 />
+	[78] (304,332)<span  />
+[79] (350,332)<button class='sd-select__content' />
+	[80] (345,334)<span class='sd-select__current-selection' id='sort__textbox' role='textbox' />
+		[81] (336,334)<font  />
+			[82] (336,334)<font >정렬 기준: />
+		[83] (361,334)<font  />
+			[84] (361,334)<font >관련성 />
+	[85] (376,332)<span  />
+[86] (135,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy' />
+	[87] (135,858)<font  />
+		[88] (135,858)<font >개인정보 보호정책 />
+[89] (196,858)<a href='/wiki/Commons:Welcome' />
+	[90] (196,858)<font  />
+		[91] (196,858)<font >위키미디어 커먼즈 소개 />
+[92] (245,858)<a href='/wiki/Commons:General_disclaimer' />
+	[93] (245,858)<font  />
+		[94] (245,858)<font >면책 조항 />
+[95] (276,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct' />
+	[96] (276,858)<font  />
+		[97] (276,858)<font >행동 강령 />
+[98] (303,858)<a href='https://developer.wikimedia.org' />
+	[99] (303,858)<font  />
+		[100] (303,858)<font >개발자 />
+[101] (324,858)<a href='https://stats.wikimedia.org/#/commons.wikimedia.org' />
+	[102] (324,858)<font  />
+		[103] (324,858)<font >통계 />
+[104] (348,858)<a href='https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement' />
+	[105] (348,858)<font  />
+		[106] (348,858)<font >쿠키 정책 />
+[107] (382,858)<a class='noprint stopMobileRedirectToggle' href='//commons.wikimedia.org/w/index.php?title=Special:MediaSearch&search=Voynich+Manuscript+plant&mobileaction=toggle_view_mobile' />
+	[108] (382,858)<font  />
+		[109] (382,858)<font >모바일 보기 />
+[110] (804,869)<a class='cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled' href='https://www.wikimedia.org/' />
+	[111] (804,869)<picture  />
+		[112] (804,870)<img  />
+[113] (861,869)<a class='cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled' href='https://www.mediawiki.org/' />
+	[114] (861,869)<picture  />
+		[115] (861,870)<img  />
+
+</current_dom>

@@ -1,0 +1,12 @@
+# ElevenLabs Audio Download Task
+
+## Plan
+- [ ] Open ElevenLabs Speech Synthesis page
+- [ ] Locate the "History" (기록) tab on the right
+- [ ] Find the generated audio file
+- [ ] Hover and click the download button
+- [ ] Confirm download success
+
+## Observations
+- No pages open yet.
+- Target URL: https://elevenlabs.io/app/speech-synthesis/text-to-speech

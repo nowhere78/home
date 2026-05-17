@@ -1,0 +1,40 @@
+의 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	면
+	탐색
+	내측
+	컬렉션
+	작성자
+	에
+	내측
+	지문을 찾을 수 없습니다.
+	알파벳에서 추가하거나 새로 만들어 보세요
+	만들기
+	즉석 복제 생성
+	오디오 샘플 로드 중...
+	긴장이 많은 환경을 피하세요
+	배경 소음이 응답하는 데 영향을 미칩니다.
+	마이크 품질 확인
+	더 나은 오디오 캡처를 위해 외부 장치나 헤드폰 마이크를 사용해 보세요.
+	장비를 사용하는 사람
+	다른 사람들을 변경하지 마세요.
+	[1] (500,343)<div class='relative stack items-center justify-center bg-gray-50 h-[248px] rounded-[14px] outline-2 -outline-offset-1 outline-dotted transition-[outline-color] duration-150 outline-gray-300 cursor-pointer mt-6' role='presentation' />
+		[2] (500,343)<div  />
+			[3] (500,273)<div  />
+			[4] (500,317)<p  />
+				[5] (500,317)<font  />
+					[6] (500,317)<font >클릭하여 업로드하거나 드래그 앤 드롭하세요 />
+			[7] (500,341)<p  />
+				[8] (500,340)<font  />
+					[9] (500,340)<font >각각의 최대 10MB의 오디오 또는 비디오 파일 />
+			[10] (500,375)<div  />
+				[11] (500,375)<font  />
+					[12] (500,374)<font >또는 />
+			[13] (500,417)<button class='inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-9 px-3 rounded-[10px] bg-background relative z-10' />
+				[14] (511,417)<font  />
+					[15] (511,416)<font >오디오 방송 />
+	10초의 오디오 필요
+	다음
+	[16] (971,30)<button class='fixed right-5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus-ring disabled:pointer-events-none data-[state=open]:bg-secondary top-5' />
+		닫기

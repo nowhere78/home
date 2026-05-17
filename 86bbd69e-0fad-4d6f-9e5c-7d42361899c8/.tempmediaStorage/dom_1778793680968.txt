@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+모습
+[0] (797,39)<button class='vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button' />
+	[1] (797,40)<font  />
+		[2] (797,40)<font >숨다 />
+텍스트
+[3] (824,127)<label class='cdx-label cdx-radio__label' />
+	작은
+[4] (824,156)<label class='cdx-label cdx-radio__label' />
+	기준
+[5] (824,186)<label class='cdx-label cdx-radio__label' />
+	크기가 큰
+이 페이지는 항상 작은 글꼴 크기를 사용합니다.
+너비
+[6] (773,328)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-1' />
+[7] (824,328)<label class='cdx-label cdx-radio__label' />
+	기준
+[8] (773,358)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-0' />
+[9] (824,358)<label class='cdx-label cdx-radio__label' />
+	넓은
+색상
+(베타)
+[10] (773,441)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-os' />
+[11] (824,441)<label class='cdx-label cdx-radio__label' />
+	오토매틱
+[12] (773,471)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-day' />
+[13] (824,471)<label class='cdx-label cdx-radio__label' />
+	빛
+[14] (773,500)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-night' />
+[15] (824,500)<label class='cdx-label cdx-radio__label' />
+	어두운
+[16] (147,27)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(206).jpg' title='파일:보이니치 원고(206).jpg' />
+[17] (305,27)<a class='sdms-image-result' href='https://commons.wikimedia.org/wiki/File:1er_p%C3%A1rrafo_del_manuscrito_Voynich.png' title='파일:1er párrafo del manuscrito Voynich.png' />
+[18] (463,27)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(153).jpg' title='파일:보이니치 원고(153).jpg' />
+[19] (544,27)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(154).jpg' title='파일:보이니치 원고(154).jpg' />
+[20] (627,27)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(150).jpg' title='파일:보이니치 원고(150).jpg' />
+[21] (710,27)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(142).jpg' title='파일:보이니치 원고(142).jpg' />
+[22] (147,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(200).jpg' title='파일:보이니치 원고(200).jpg' />
+[23] (226,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(56).jpg' title='파일:보이니치 원고(56).jpg' />
+[24] (305,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(149).jpg' title='파일:보이니치 원고(149).jpg' />
+[25] (386,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(140).jpg' title='파일:보이니치 원고(140).jpg' />
+[26] (468,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(148).jpg' title='파일:보이니치 원고(148).jpg' />
+[27] (550,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(103).jpg' title='파일:보이니치 원고(103).jpg' />
+[28] (628,235)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(173).jpg' title='파일:보이니치 원고(173).jpg' />
+[29] (150,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(192).jpg' title='파일:보이니치 원고(192).jpg' />
+[30] (235,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(146).jpg' title='파일:보이니치 원고(146).jpg' />
+[31] (318,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(152).jpg' title='파일:보이니치 원고(152).jpg' />
+[32] (399,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(133).jpg' title='파일:보이니치 원고(133).jpg' />
+[33] (479,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(82).jpg' title='파일:보이니치 원고(82).jpg' />
+[34] (559,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(76).jpg' title='파일:보이니치 원고(76).jpg' />
+[35] (639,442)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(143).jpg' title='파일:보이니치 원고(143).jpg' />
+[36] (147,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(145).jpg' title='파일:보이니치 원고(145).jpg' />
+[37] (223,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(10).jpg' title='파일:보이니치 원고(10).jpg' />
+[38] (299,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(18).jpg' title='파일:Voynich Manuscript (18).jpg' />
+[39] (376,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(37).jpg' title='파일:보이니치 원고(37).jpg' />
+[40] (454,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(40).jpg' title='파일:보이니치 원고(40).jpg' />
+[41] (532,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(58).jpg' title='파일:보이니치 원고(58).jpg' />
+[42] (611,649)<a class='sdms-image-result sdms-image-result--portrait' href='https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(84).jpg' title='파일:보이니치 원고(84).jpg' />
+
+</current_dom>

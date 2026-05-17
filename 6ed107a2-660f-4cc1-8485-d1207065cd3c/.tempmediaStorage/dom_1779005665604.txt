@@ -1,0 +1,214 @@
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+				[8] (64,30)<span  />
+					[9] (64,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (902,30)<yt-touch-feedback-shape  />
+		[26] (902,30)<div  />
+[27] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (941,29)<yt-icon-badge-shape  />
+		[29] (941,30)<div  />
+			[30] (941,30)<div  />
+				[31] (941,30)<span  />
+					[32] (941,30)<span  />
+						[33] (941,30)<div  />
+			[34] (948,23)<div >9+ />
+[35] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (971,30)<yt-img-shadow  />
+		[37] (971,30)<img  />
+[38] (387,711)<div  />
+	[39] (387,711)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[40] (387,706)<div  />
+		[41] (387,711)<div  />
+		[42] (51,711)<div  />
+			[43] (51,711)<div  />
+[44] (40,744)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[45] (68,744)<button aria-label='음소거 키보드 단축키 m' class='ytp-volume-icon ytp-button' />
+[46] (110,744)<div  />
+	[47] (110,744)<div  />
+		[48] (110,744)<div aria-label='0 분 29 초/16 분 31 초' class='ytp-time-contents' role='button' />
+			[49] (98,743)<span  />
+			[50] (108,743)<span  />
+			[51] (121,743)<span  />
+[52] (630,744)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[53] (630,744)<div  />
+		[54] (630,744)<div  />
+[55] (655,744)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[56] (655,757)<div  />
+[57] (680,744)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[58] (705,744)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[59] (730,744)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+전 세계 80억명 대상으로 쇼츠하면 생기는 일 | 풀버전
+[60] (37,847)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@%EB%B6%80%EC%97%85%EB%B6%80%EB%B6%80' />
+	[61] (34,845)<yt-img-shadow  />
+		[62] (34,845)<img  />
+[63] (74,838)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EB%B6%80%EC%97%85%EB%B6%80%EB%B6%80'>부업하는부부 />
+구독자 4.84만명
+[64] (124,847)<button aria-label='이 채널 가입' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	가입
+	[65] (124,847)<yt-touch-feedback-shape  />
+		[66] (124,847)<div  />
+[67] (159,847)<button aria-label='부업하는부부을(를) 구독합니다.' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextFilled ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	구독
+	[68] (159,847)<yt-touch-feedback-shape  />
+		[69] (159,847)<div  />
+[70] (509,847)<button aria-label='다른 사용자 3,474명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>3.4천 />
+	3.4천
+	[71] (509,847)<yt-touch-feedback-shape  />
+		[72] (509,847)<div  />
+[73] (545,847)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[74] (545,847)<yt-touch-feedback-shape  />
+		[75] (545,847)<div  />
+[76] (584,847)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[77] (584,847)<yt-touch-feedback-shape  />
+		[78] (584,847)<div  />
+[79] (631,847)<button aria-label='재생목록에 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>저장 />
+	저장
+	[80] (631,847)<yt-touch-feedback-shape  />
+		[81] (631,847)<div  />
+[82] (692,847)<button aria-label='오프라인 저장' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	오프라인 저장
+	[83] (692,847)<yt-touch-feedback-shape  />
+		[84] (692,847)<div  />
+[85] (741,847)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[86] (741,847)<yt-touch-feedback-shape  />
+		[87] (741,847)<div  />
+조회수 140,387회
+2025. 7. 4.
+[88] (148,906)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/playlist?list=PLlokvdcAiUY8q85hFOx4KhG-J-goawuCR'>유튜브 이야기 />
+📢유튜브 쇼츠를 통해 수익화를 이루는 정보를 무료 공개합니다
+✅무료강의 신청 :
+[89] (154,948)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJ5YTJEeWNORmxrSy0wZW5ZYW1WSlhZc3ZkZ3xBQ3Jtc0tsZEVQdld6c0U3Nkp2dDFsQ1YwaXYwQkR0d0N4MXh1ZU8xWUpqNzZLc2hsSG9QRDNkVXhJS0habEJhVTk5bzNSd2tzcnROem9lVll2YmctM1VONWtLQ2I3X3JrUThqclR6VUNiWjZ5LUhaOExVekV6aw&q=https%3A%2F%2Fbooup1234.co.kr%2Fclasses%2F294694&v=o2Ees0_IDxA'>https://booup1234.co.kr/classes/294694 />
+🔗무료강의 대기방 :
+[90] (155,969)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmFqZEsxcGVZcjBBOXVOMllVNlVDR3pvNDJxd3xBQ3Jtc0trVTBMbDdKRlg1UmdMSDRLNWlhTHJiSV9Cd2xnX3Z6alFlY3d5MnVLRzZCbEoxQXFucGhsVG1hX2pnRDdCZ3ctVzBuMTBYSU9XbXM4VUVTTUZLVDRVV1V1a0s4UXVFT3RMZHBlVHBGUEo0QV9fM01xaw&q=https%3A%2F%2Fopen.kakao.com%2Fo%2FgBtYFgMh&v=o2Ees0_IDxA'>https://open.kakao.com/o/gBtYFgMh />
+🔗부업부부 무료단톡방 :
+[91] (167,990)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbENhQTdtdk5fd296blBQVzVsLUdmYVJHNldpUXxBQ3Jtc0tsaDBNX0tTVWN4aGpGVTV5X2pLc0hPMnRORlpxTWFfRjRjcHJxbWxpRDl3UWJWMTBudnFlRF9xeUJ5andJTkE3TkJka1MtNjlOWnBJd2NSY2VlZ0Z2dWRCQ1ZnYUZRMWZMLVUyZmdHWEw2QXBqYlRMQQ&q=https%3A%2F%2Fopen.kakao.com%2Fo%2FgVpd4egi&v=o2Ees0_IDxA'>https://open.kakao.com/o/gVpd4egi />
+스크립트
+[92] (956,115)<button aria-label='닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[93] (956,115)<yt-touch-feedback-shape  />
+		[94] (956,115)<div  />
+[95] (864,178)<div >스크립트 검색 />
+	스크립트 검색
+[96] (864,559)<div class='ytSectionListRendererContents' scrollable='true' />
+	0:07
+	7초
+	말씀드릴게요. 28일 만에 일본 채널, 8일 만에 미국 채널 수익화를 달성했고요. 조회수 수익 1,600만
+	0:14
+	14초
+	원, 음원 수익 1,35만 원, 그리고 저작권료 877만 원을 포함해서 총 3,612만 원을
+	[97] (861,224)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[98] (861,224)<timeline-item-view-model  />
+			[99] (861,224)<div  />
+				[100] (861,224)<transcript-segment-view-model >0:21
+21초 />
+					0:21
+					21초
+					[101] (859,224)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>벌었습니다. 구독자는 각각 1만 명, 3만 명 채널이 되었고 48시간 기준 실시간 조회수는 최고 2,800만까지 />
+	[102] (861,324)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost is-active' role='button' />
+		[103] (861,324)<timeline-item-view-model  />
+			[104] (861,324)<div  />
+				[105] (861,324)<transcript-segment-view-model >30초 />
+					[106] (777,298)<div >0:30 />
+					30초
+					[107] (860,324)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>나왔죠. 이번 영상에서는 이러한 결과가 나기까지 어떤 전략과 가정이 있었는지 그 60일간의 여정을 보여 />
+	[108] (861,410)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[109] (861,410)<timeline-item-view-model  />
+			[110] (861,410)<div  />
+				[111] (861,410)<transcript-segment-view-model >37초 />
+					[112] (777,397)<div >0:37 />
+					37초
+					[113] (860,410)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>드리겠습니다. 먼저 목표를 두 가지 세웠습니다. 첫째, 글로벌 확장. />
+	[114] (861,495)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[115] (861,495)<timeline-item-view-model  />
+			[116] (861,495)<div  />
+				[117] (861,495)<transcript-segment-view-model >41초 />
+					[118] (777,469)<div >0:41 />
+					41초
+					[119] (858,495)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>지난 3년간 반복된 실험을 통해 저희는 유튜브가 운이 아닌 실력이라는 것을 보여 드렸는데요. 채널 기획부터 />
+	[120] (861,595)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[121] (861,595)<timeline-item-view-model  />
+			[122] (861,595)<div  />
+				[123] (861,595)<transcript-segment-view-model >49초 />
+					[124] (777,569)<div >0:49 />
+					49초
+					[125] (858,595)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>카피라이팅까지 쇼츠 제작 전체 프로세스에서 실력을 갖추면 언제든 성공할 수 있습니다. 그리고 2025년 저희는이 실력이 과연 />
+	[126] (861,694)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[127] (861,694)<timeline-item-view-model  />
+			[128] (861,694)<div  />
+				[129] (861,694)<transcript-segment-view-model >58초 />
+					[130] (777,668)<div >0:58 />
+					58초
+					[131] (858,694)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>한국을 넘어 해외에서도 통할 수 있을지를 검증하기 위해 글로벌 시장으로 눈을 돌렸습니다. 그리고 상대적으로 콘텐츠 흐름이 비슷한 />
+	[132] (861,794)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[133] (861,794)<timeline-item-view-model  />
+			[134] (861,794)<div  />
+				[135] (861,794)<transcript-segment-view-model >1분 5초 />
+					[136] (777,767)<div >1:05 />
+					1분 5초
+					[137] (860,794)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>일본과 가장 많은 시청자와 높은 단가로 경쟁이 치열한 미국에서 채널을 키워 보기로 했죠. 둘째, 수익. />
+	[138] (861,893)<macro-markers-panel-item-view-model class='ytwMacroMarkersPanelItemViewModelHost' role='button' />
+		[139] (861,893)<timeline-item-view-model  />
+			[140] (861,893)<div  />
+				[141] (861,893)<transcript-segment-view-model >1분 13초 />
+					[142] (777,867)<div >1:13 />
+					1분 13초
+					[143] (859,893)<span class='ytAttributedStringHost ytAttributedStringLinkInheritColor' role='text'>작년 테스트에서는 수익화 달성까지만 보여 드렸는데 이번에는 여기서 한 말 더 나아가 수익화 이후에 실제로 />
+	1:20
+	1분 20초
+	얼마를 벌 수 있는지까지 확인해 보기로 했습니다. 특히 나라별로 에드센스 단가나 음원 수익에 차이가 있다는 얘기가 많았기 때문에 실제로
+[144] (772,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[145] (772,949)<div >모두 />
+		모두
+		[146] (772,949)<yt-touch-feedback-shape  />
+			[147] (772,949)<div  />
+[148] (805,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[149] (805,949)<div >시리즈 />
+		시리즈
+		[150] (805,949)<yt-touch-feedback-shape  />
+			[151] (805,949)<div  />
+[152] (860,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[153] (860,949)<div >부업하는부부 제공 />
+		부업하는부부 제공
+		[154] (860,949)<yt-touch-feedback-shape  />
+			[155] (860,949)<div  />
+[156] (922,949)<button class='ytChipShapeButtonReset' role='tab' />
+	[157] (922,949)<div >관련 콘텐츠 />
+		관련 콘텐츠
+		[158] (922,949)<yt-touch-feedback-shape  />
+			[159] (922,949)<div  />
+추천
+최근에 업로드된 동영상
+[160] (956,951)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[161] (956,951)<yt-touch-feedback-shape  />
+		[162] (956,951)<div  />
+[163] (910,999)<h3  />
+	[164] (910,999)<a aria-label='구글 제미나이가 챗GPT를 압도한 결정적 이유 (충격 주의) 20분' class='ytLockupMetadataViewModelTitle' href='/watch?v=B_2iRSUz07Y' />
+		[165] (902,998)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>구글 제미나이가 챗GPT를 압도한 결정적 이유 (충격 주의) />
+[166] (964,990)<div  />
+	[167] (964,990)<button-view-model  />
+		[168] (964,990)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+			[169] (964,990)<yt-touch-feedback-shape  />
+				[170] (964,990)<div  />

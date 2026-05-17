@@ -1,0 +1,197 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+콘텐츠로 바로가기
+[0] (117,35)<input aria-label='메인 메뉴' class='vector-dropdown-checkbox ' id='vector-main-menu-dropdown-checkbox' role='button' />
+메인 메뉴
+[1] (178,35)<a class='mw-logo' href='/wiki/Main_Page' />
+	[2] (145,35)<img  />
+	[3] (193,35)<span  />
+		[4] (193,35)<img  />
+[5] (371,35)<input aria-label='위키미디어 공용 검색' class='cdx-text-input__input mw-searchInput' id='searchInput' placeholder='위키미디어 공용 검색' title='위키미디어 공용 검색 [alt-f]' />
+[6] (501,35)<button class='cdx-button cdx-search-input__end-button' />
+	찾다
+[7] (772,35)<a class='uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet' href='#' />
+	[8] (763,35)<span  />
+	[9] (778,35)<span  />
+		[10] (778,35)<font  />
+			[11] (778,35)<font >영어 />
+[12] (812,35)<a href='https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=commons.wikimedia.org&uselang=en' />
+	[13] (812,35)<span  />
+		[14] (812,35)<font  />
+			[15] (812,35)<font >기부하세요 />
+[16] (848,35)<a href='/w/index.php?title=Special:CreateAccount&returnto=File%3AVoynich+Manuscript+%28133%29.jpg' title='계정을 만들고 로그인하는 것을 권장하지만, 필수 사항은 아닙니다.' />
+	[17] (848,35)<span  />
+		[18] (848,35)<font  />
+			[19] (848,35)<font >계정 생성 />
+[20] (876,35)<a href='/w/index.php?title=Special:UserLogin&returnto=File%3AVoynich+Manuscript+%28133%29.jpg' title='로그인하시는 것을 권장하지만, 필수 사항은 아닙니다. [alt-o]' />
+	[21] (876,35)<span  />
+		[22] (876,35)<font  />
+			[23] (876,35)<font >로그인 />
+파일
+:
+보이니치 원고 (133).jpg
+[24] (189,196)<a href='/wiki/File:Voynich_Manuscript_(133).jpg' title='파일 페이지 보기 [alt-c]' />
+	[25] (189,198)<span  />
+		[26] (189,198)<font  />
+			[27] (189,198)<font >파일 />
+[28] (211,196)<a class='new' href='/w/index.php?title=File_talk:Voynich_Manuscript_(133).jpg&action=edit&redlink=1' title='콘텐츠 페이지에 대한 토론 (페이지가 존재하지 않습니다) [alt-t]' />
+	[29] (211,198)<span  />
+		[30] (211,198)<font  />
+			[31] (211,198)<font >논의 />
+[32] (566,196)<a href='/wiki/File:Voynich_Manuscript_(133).jpg' />
+	[33] (566,198)<span  />
+		[34] (566,198)<font  />
+			[35] (566,198)<font >읽다 />
+[36] (594,196)<a href='/w/index.php?title=File:Voynich_Manuscript_(133).jpg&action=edit' title='이 페이지를 편집하려면 [alt-e]를 누르세요.' />
+	[37] (594,198)<span  />
+		[38] (594,198)<font  />
+			[39] (594,198)<font >편집하다 />
+[40] (630,196)<a href='/w/index.php?title=File:Voynich_Manuscript_(133).jpg&action=history' title='이 페이지의 이전 수정 사항 [alt-h]' />
+	[41] (630,198)<span  />
+		[42] (630,198)<font  />
+			[43] (630,198)<font >기록 보기 />
+[44] (665,194)<input aria-label='도구' class='vector-dropdown-checkbox ' id='vector-page-tools-dropdown-checkbox' role='button' />
+도구
+모습
+[45] (726,194)<button class='vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button' />
+	[46] (726,196)<font  />
+		[47] (726,196)<font >숨다 />
+텍스트
+[48] (753,282)<label class='cdx-label cdx-radio__label' />
+	작은
+[49] (753,312)<label class='cdx-label cdx-radio__label' />
+	기준
+[50] (753,342)<label class='cdx-label cdx-radio__label' />
+	크기가 큰
+이 페이지는 항상 작은 글꼴 크기를 사용합니다.
+너비
+[51] (702,483)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-1' />
+[52] (753,483)<label class='cdx-label cdx-radio__label' />
+	기준
+[53] (702,513)<input class='cdx-radio__input' id='skin-client-pref-vector-feature-limited-width-value-0' />
+[54] (753,513)<label class='cdx-label cdx-radio__label' />
+	넓은
+색상
+(베타)
+[55] (702,597)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-os' />
+[56] (753,597)<label class='cdx-label cdx-radio__label' />
+	오토매틱
+[57] (702,626)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-day' />
+[58] (753,626)<label class='cdx-label cdx-radio__label' />
+	빛
+[59] (702,656)<input class='cdx-radio__input' id='skin-client-pref-skin-theme-value-night' />
+[60] (753,656)<label class='cdx-label cdx-radio__label' />
+	어두운
+[61] (666,108)<a href='#' id='mw-AnonymousI18N-decline' />
+	[62] (666,109)<img  />
+Wikimedia Commons를
+[63] (455,110)<a href='#' id='mw-AnonymousI18N-gosuggest' />
+	[64] (455,110)<font  />
+		[65] (455,110)<font >영어 />
+로 보기
+[66] (289,251)<a href='#file' />
+	[67] (289,251)<font  />
+		[68] (289,251)<font >파일 />
+[69] (324,251)<a href='#filehistory' />
+	[70] (324,251)<font  />
+		[71] (324,251)<font >파일 기록 />
+[72] (388,251)<a href='#filelinks' />
+	[73] (388,251)<font  />
+		[74] (388,251)<font >Commons의 파일 사용 />
+[75] (477,251)<a href='#globalusage' />
+	[76] (477,251)<font  />
+		[77] (477,251)<font >다른 위키에서의 파일 사용 />
+[78] (546,251)<a href='#metadata' />
+	[79] (546,251)<font  />
+		[80] (546,251)<font >메타데이터 />
+[81] (493,313)<a class='stockphoto_buttonrow' role='button' title='모든 사이즈 다운로드' />
+	[82] (457,308)<span  />
+		[83] (457,308)<img  />
+	[84] (511,313)<span  />
+		[85] (511,293)<span  />
+			[86] (511,293)<font  />
+				[87] (511,293)<font >다운로드 />
+		[88] (511,317)<small  />
+			[89] (511,317)<font  />
+				[90] (511,317)<font >모든 사이즈 />
+[91] (493,377)<a class='stockphoto_buttonrow' role='button' title='이 파일을 웹에서 사용하세요' />
+	[92] (457,372)<span  />
+		[93] (457,372)<img  />
+	[94] (511,377)<span  />
+		[95] (511,357)<span  />
+			[96] (511,357)<font  />
+				[97] (511,357)<font >이 파일을 사용하세요 />
+		[98] (511,380)<small  />
+			[99] (511,380)<font  />
+				[100] (511,380)<font >웹에서 />
+[101] (493,440)<a class='stockphoto_buttonrow' role='button' title='이 파일을 위키에서 사용하세요' />
+	[102] (457,435)<span  />
+		[103] (457,435)<img  />
+	[104] (511,440)<span  />
+		[105] (511,420)<span  />
+			[106] (511,420)<font  />
+				[107] (511,420)<font >이 파일을 사용하세요 />
+		[108] (511,444)<small  />
+			[109] (511,444)<font  />
+				[110] (511,444)<font >위키에서 />
+[111] (493,504)<a class='stockphoto_buttonrow' href='mailto:?subject=Voynich%20Manuscript%20(133)&body=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVoynich_Manuscript_(133).jpg%0A%0ASee%20page%20for%20author%2C%20Public%20domain%2C%20via%20Wikimedia%20Commons' title='이 파일 링크를 이메일로 보내주세요' />
+	[112] (457,499)<span  />
+		[113] (457,499)<img  />
+	[114] (511,504)<span  />
+		[115] (511,484)<span  />
+			[116] (511,484)<font  />
+				[117] (511,484)<font >링크를 이메일로 보내기 />
+		[118] (511,507)<small  />
+			[119] (511,507)<font  />
+				[120] (511,507)<font >이 파일에 />
+[121] (493,567)<a class='stockphoto_buttonrow' href='/wiki/Special:MyLanguage/Commons:Reusing_content_outside_Wikimedia' title='재사용에 관한 정보' />
+	[122] (457,562)<span  />
+		[123] (457,562)<img  />
+	[124] (511,567)<span  />
+		[125] (511,547)<span  />
+			[126] (511,547)<font  />
+				[127] (511,547)<font >정보 />
+		[128] (511,571)<small  />
+			[129] (511,571)<font  />
+				[130] (511,571)<font >재사용에 관하여 />
+[131] (493,617)<span  />
+	[132] (449,611)<a class='stockphoto_buttonrow_icon' title='이 아이콘들을 제거하세요' />
+		[133] (449,613)<img  />
+[134] (300,591)<a href='https://upload.wikimedia.org/wikipedia/commons/4/40/Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original' />
+	[135] (300,594)<img  />
+이 미리보기 이미지 크기:
+[136] (268,924)<a class='mw-thumbnail-link' href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Voynich_Manuscript_%28133%29.jpg/500px-Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail' />
+	[137] (268,924)<font  />
+		[138] (268,924)<font >453 × 600 픽셀 />
+.
+다른 해상도:
+[139] (349,924)<a class='mw-thumbnail-link' href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Voynich_Manuscript_%28133%29.jpg/250px-Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail' />
+	[140] (349,924)<font  />
+		[141] (349,924)<font >181 × 240 픽셀 />
+|
+[142] (396,924)<a class='mw-thumbnail-link' href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Voynich_Manuscript_%28133%29.jpg/500px-Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail' />
+	[143] (396,924)<font  />
+		[144] (396,924)<font >362 × 480 픽셀 />
+|
+[145] (444,924)<a class='mw-thumbnail-link' href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Voynich_Manuscript_%28133%29.jpg/960px-Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail' />
+	[146] (444,924)<font  />
+		[147] (444,924)<font >580 × 768 픽셀 />
+|
+[148] (497,924)<a class='mw-thumbnail-link' href='https://upload.wikimedia.org/wikipedia/commons/4/40/Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled' />
+	[149] (497,924)<font  />
+		[150] (497,924)<font >1,160 × 1,536 픽셀 />
+.
+[151] (197,953)<a class='internal' href='https://upload.wikimedia.org/wikipedia/commons/4/40/Voynich_Manuscript_%28133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original' title='보이니치 필사본(133).jpg' />
+	[152] (197,953)<font  />
+		[153] (197,953)<font >원본 파일 />
+(1,160 × 1,536 픽셀, 파일 크기: 224KB, MIME 유형:
+image/jpeg
+)
+[154] (466,952)<button class='mw-mmv-view-expanded cdx-button' />
+	미디어 뷰어에서 열기
+파일 정보
+구조화된 데이터
+
+</current_dom>

@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+의 | 일레븐랩스
+[0] (500,500)<div  />
+	새문자만들기
+	면
+	탐색
+	내측
+	컬렉션
+	작성자
+	에
+	내측
+	지문을 찾을 수 없습니다.
+	알파벳에서 추가하거나 새로 만들어 보세요
+	만들기
+	즉석 복제 생성
+	오디오 샘플 로드 중...
+	[1] (215,103)<span  />
+	[2] (297,131)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-background border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-9 px-3 rounded-[10px]' />
+		[3] (305,131)<font  />
+			[4] (305,131)<font >간략히보기 />
+	[5] (500,553)<fieldset  />
+		[6] (500,214)<label class='text-sm text-foreground font-medium cursor-pointer' />
+			[7] (163,213)<font  />
+				[8] (163,213)<font >이름 />
+		[9] (500,252)<input class='flex w-full border border-gray-alpha-200 bg-transparent shadow-none transition-colors file:border-0 file:bg-transparent file:font-medium placeholder:text-subtle focus-ring focus-visible:border-foreground hover:border-gray-alpha-300 focus-visible:ring-[0.5px] focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 [&:-webkit-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&:-webkit-autofill]:[-webkit-text-fill-color:hsl(var(--foreground))] [&:-webkit-autofill]:border-gray-200 [&:-webkit-autofill]:focus:border-foreground [&_input:-moz-autofill]:shadow-[inset_0_0_0px_1000px_hsl(var(--background))] [&_input:-moz-autofill]:text-fill-color-[hsl(var(--foreground))] [&_input:-moz-autofill]:border-gray-200 [&_input:-moz-autofill]:focus:border-foreground h-9 px-3 py-1 text-sm file:text-sm rounded-lg' id='_r_d2_' placeholder='예: 나이가 영국 남자' />
+		신화의 이름을 지어주세요
+		[10] (311,345)<label class='text-sm text-foreground font-medium w-full' id='_r_de_' />
+			라벨
+		[11] (643,345)<label class='text-sm text-foreground font-medium w-full' id='_r_df_' />
+			값
+		언어
+		[12] (643,383)<button class='flex w-full gap-0.5 items-center justify-between whitespace-nowrap transition-colors shadow-none placeholder:text-muted-foreground focus-ring disabled:cursor-not-allowed duration-75 disabled:opacity-50 [&>span]:line-clamp-1 group/select-trigger bg-background border border-gray-alpha-200 hover:border-gray-alpha-300 active:border-gray-alpha-300 hover:bg-gray-alpha-50 active:bg-gray-alpha-50 radix-state-open:bg-gray-alpha-50 text-foreground disabled:bg-background disabled:border-gray-alpha-200 radix-state-open:border-gray-alpha-300 h-9 pl-3 pr-2 py-2 text-sm rounded-lg' role='combobox'>한국어 />
+			한국어
+			[13] (787,383)<div  />
+		[14] (197,428)<button class='relative inline-flex items-center justify-center whitespace-nowrap font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-8 px-2.5 rounded-lg text-xm bg-background hover:bg-gray-100' />
+			[15] (206,428)<font  />
+				[16] (206,428)<font >라벨 추가 />
+		[17] (500,489)<label class='text-sm text-foreground font-medium cursor-pointer' />
+			[18] (163,488)<font  />
+				[19] (163,488)<font >설명 />
+		[20] (500,549)<textarea class='flex min-h-[60px] w-full border-gray-alpha-200 bg-transparent px-3 py-2 text-sm placeholder:text-subtle focus-ring focus-visible:border-foreground focus-visible:ring-[0.5px] focus-visible:ring-offset-0 disabled:cursor-not-allowed disabled:opacity-50 transition duration-100 rounded-lg max-h-44' id='_r_d3_' />
+		[21] (160,635)<button class='group/checkbox relative peer shrink-0 border border-subtle shadow focus-ring disabled:cursor-not-allowed disabled:opacity-50 radix-state-checked:bg-gray-alpha-900 radix-state-checked:text-background radix-state-indeterminate:bg-gray-alpha-900 radix-state-indeterminate:text-background h-5 w-5 rounded-lg' id='_r_d4_' role='checkbox' />
+			[22] (160,635)<div  />
+		[23] (516,656)<label  />
+			이 비트 샘플을 업로드하고 복제할 모든 권리나 동의를 확인하고, 플랫폼에서 생성된 컨텐츠를 공유하기 위해 존재하는 목적으로 사용하지 않을 것을 확인합니다. ElevenLabs의
+			[24] (612,656)<a class='underline hover:text-gray-700 transition-colors duration-150' href='https://elevenlabs.io/terms-of-use' />
+				[25] (612,656)<font  />
+					[26] (612,656)<font >서비스 약관 />
+			,
+			[27] (743,656)<a class='underline hover:text-gray-700 transition-colors duration-150' href='https://elevenlabs.io/use-policy' />
+				[28] (743,656)<font  />
+					[29] (743,656)<font >금지된 콘텐츠 및 사용 규정 />
+			,
+			[30] (239,677)<a class='underline hover:text-gray-700 transition-colors duration-150' href='https://elevenlabs.io/privacy-policy' />
+				[31] (239,677)<font  />
+					[32] (239,677)<font >개인정보 처리방침 />
+			을 준수할 것임을 재확인합니다.
+		[33] (215,764)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent border border-gray-alpha-200 hover:bg-gray-alpha-50 active:bg-gray-alpha-100 hover:border-gray-alpha-300 text-foreground shadow-none active:border-gray-alpha-300 disabled:bg-background disabled:text-gray-300 disabled:border-gray-alpha-200 radix-state-open:bg-gray-alpha-50 radix-state-open:border-gray-alpha-300 radix-state-on:bg-gray-alpha-50 radix-state-on:border-gray-alpha-300 h-10 px-4 rounded-xl bg-background' />
+			[34] (221,764)<span  />
+				[35] (221,763)<font  />
+					[36] (221,763)<font >오디오 업로드 />
+		[37] (821,764)<button class='relative inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors duration-75 focus-ring disabled:pointer-events-auto data-[loading='true']:!text-transparent bg-foreground text-background shadow-none hover:bg-gray-800 radix-state-open:bg-gray-700 radix-state-on:bg-gray-700 active:bg-gray-700 disabled:bg-gray-400 disabled:text-gray-100 h-10 px-4 rounded-xl' />
+			[38] (821,764)<font  />
+				[39] (821,763)<font >저장 />
+	[40] (971,30)<button class='fixed right-5 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus-ring disabled:pointer-events-none data-[state=open]:bg-secondary top-5' />
+		닫기
+
+</current_dom>

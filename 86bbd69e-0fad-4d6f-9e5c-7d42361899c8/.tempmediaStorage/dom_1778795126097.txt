@@ -1,0 +1,265 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (63,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube Premium 홈' />
+	[5] (63,30)<div  />
+		[6] (63,29)<ytd-logo  />
+			[7] (63,30)<yt-icon  />
+KR
+[8] (470,30)<div  />
+	[9] (459,30)<form  />
+		[10] (459,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[11] (587,30)<div  />
+		[12] (587,30)<ytd-text-input-assistant  />
+			[13] (587,30)<button class='ytdTextInputAssistantButton' />
+				[14] (587,30)<img  />
+	[15] (601,30)<div  />
+		[16] (601,30)<button aria-label='검색어 삭제' class='ytSearchboxComponentClearButton' />
+			[17] (601,30)<yt-touch-feedback-shape  />
+				[18] (601,30)<div  />
+[19] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[20] (626,30)<span  />
+		[21] (626,30)<span  />
+			[22] (626,30)<div  />
+[23] (662,30)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[24] (662,30)<yt-touch-feedback-shape  />
+		[25] (662,30)<div  />
+[26] (902,30)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[27] (902,30)<yt-touch-feedback-shape  />
+		[28] (902,30)<div  />
+[29] (941,30)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[30] (941,29)<yt-icon-badge-shape  />
+		[31] (941,30)<div  />
+			[32] (941,30)<div  />
+				[33] (941,30)<span  />
+[34] (970,30)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (971,30)<yt-img-shadow  />
+		[36] (971,30)<img  />
+[37] (63,530)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[38] (59,93)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='홈' />
+		[39] (59,93)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[40] (19,93)<yt-icon  />
+			[41] (72,93)<yt-formatted-string >홈 />
+	[42] (59,135)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[43] (59,135)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[44] (19,135)<yt-icon  />
+			[45] (72,135)<yt-formatted-string >Shorts />
+	[46] (59,204)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='구독' />
+		[47] (59,204)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[48] (22,204)<yt-formatted-string >구독 />
+			[49] (36,204)<yt-icon  />
+	[50] (59,247)<a aria-label='1theK (원더케이)에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1theK' id='endpoint' role='link' title='1theK (원더케이)' />
+		[51] (59,247)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[52] (19,247)<yt-img-shadow  />
+				[53] (19,247)<img  />
+			[54] (68,247)<yt-formatted-string >1theK (원더케이) />
+			[55] (102,247)<div  />
+	[56] (59,289)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1minscience' id='endpoint' role='link' title='1분과학' />
+		[57] (59,289)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[58] (19,289)<yt-img-shadow  />
+				[59] (19,289)<img  />
+			[60] (72,289)<yt-formatted-string >1분과학 />
+	[61] (59,331)<a aria-label='1분미만에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@1%EB%B6%84%EB%AF%B8%EB%A7%8C' id='endpoint' role='link' title='1분미만' />
+		[62] (59,331)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[63] (19,331)<yt-img-shadow  />
+				[64] (19,331)<img  />
+			[65] (68,331)<yt-formatted-string >1분미만 />
+			[66] (102,331)<div  />
+	[67] (59,374)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@No.14VinylShop' id='endpoint' role='link' title='14번지 LP가게' />
+		[68] (59,374)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[69] (19,374)<yt-img-shadow  />
+				[70] (19,374)<img  />
+			[71] (72,374)<yt-formatted-string >14번지 LP가게 />
+	[72] (59,416)<a aria-label='21일간 열방과 함께하는 다니엘기도회에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@danielprayer' id='endpoint' role='link' title='21일간 열방과 함께하는 다니엘기도회' />
+		[73] (59,416)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[74] (19,416)<yt-img-shadow  />
+				[75] (19,416)<img  />
+			[76] (68,416)<yt-formatted-string >21일간 열방과 함께하는 다니엘기도회 />
+			[77] (102,416)<div  />
+	[78] (59,458)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@180%EC%B4%88%EB%B0%94%EC%9D%B4%EB%B8%94' id='endpoint' role='link' title='180초 바이블' />
+		[79] (59,458)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[80] (19,458)<yt-img-shadow  />
+				[81] (19,458)<img  />
+			[82] (72,458)<yt-formatted-string >180초 바이블 />
+	[83] (59,501)<a aria-label='522의 하루에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@522_today' id='endpoint' role='link' title='522의 하루' />
+		[84] (59,501)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[85] (19,501)<yt-img-shadow  />
+				[86] (19,501)<img  />
+			[87] (68,501)<yt-formatted-string >522의 하루 />
+			[88] (102,501)<div  />
+	[89] (59,543)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[90] (59,543)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[91] (59,543)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[92] (19,543)<yt-icon  />
+				[93] (72,543)<yt-formatted-string >더보기 />
+	[94] (59,612)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='내 페이지' />
+		[95] (59,612)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[96] (31,612)<yt-formatted-string >내 페이지 />
+			[97] (54,612)<yt-icon  />
+	[98] (59,654)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@honeyjarfinds' id='endpoint' role='link' title='내 채널' />
+		[99] (59,654)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[100] (19,654)<yt-icon  />
+			[101] (72,654)<yt-formatted-string >내 채널 />
+	[102] (59,696)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='기록' />
+		[103] (59,696)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[104] (19,696)<yt-icon  />
+			[105] (72,696)<yt-formatted-string >기록 />
+	[106] (59,739)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='재생목록' />
+		[107] (59,739)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[108] (19,739)<yt-icon  />
+			[109] (72,739)<yt-formatted-string >재생목록 />
+	[110] (59,781)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='나중에 볼 동영상' />
+		[111] (59,781)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[112] (19,781)<yt-icon  />
+			[113] (72,781)<yt-formatted-string >나중에 볼 동영상 />
+	[114] (59,823)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='좋아요 표시한 동영상' />
+		[115] (59,823)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[116] (19,823)<yt-icon  />
+			[117] (72,823)<yt-formatted-string >좋아요 표시한 동영상 />
+	[118] (59,866)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCTf_RUhjD_KQP2TCiZv5arA/videos' id='endpoint' role='link' title='내 동영상' />
+		[119] (59,866)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[120] (19,866)<yt-icon  />
+			[121] (72,866)<yt-formatted-string >내 동영상 />
+	[122] (59,908)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='오프라인 저장 동영상' />
+		[123] (59,908)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[124] (19,908)<yt-icon  />
+			[125] (72,908)<yt-formatted-string >오프라인 저장 동영상 />
+	[126] (59,950)<ytd-guide-entry-renderer class='style-scope ytd-guide-collapsible-entry-renderer' id='expander-item' role='button' />
+		[127] (59,950)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='더보기' />
+			[128] (59,950)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+				[129] (19,950)<yt-icon  />
+				[130] (72,950)<yt-formatted-string >더보기 />
+[131] (246,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[132] (246,87)<div >전체 />
+		전체
+		[133] (246,87)<yt-touch-feedback-shape  />
+			[134] (246,87)<div  />
+[135] (280,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[136] (280,87)<div >Shorts />
+		Shorts
+		[137] (280,87)<yt-touch-feedback-shape  />
+			[138] (280,87)<div  />
+[139] (329,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[140] (329,87)<div >시청하지 않음 />
+		시청하지 않음
+		[141] (329,87)<yt-touch-feedback-shape  />
+			[142] (329,87)<div  />
+[143] (387,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[144] (387,87)<div >감상한 동영상 />
+		감상한 동영상
+		[145] (387,87)<yt-touch-feedback-shape  />
+			[146] (387,87)<div  />
+[147] (435,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[148] (435,87)<div >동영상 />
+		동영상
+		[149] (435,87)<yt-touch-feedback-shape  />
+			[150] (435,87)<div  />
+[151] (497,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[152] (497,87)<div >최근에 업로드된 동영상 />
+		최근에 업로드된 동영상
+		[153] (497,87)<yt-touch-feedback-shape  />
+			[154] (497,87)<div  />
+[155] (559,87)<button class='ytChipShapeButtonReset' role='tab' />
+	[156] (559,87)<div >라이브 />
+		라이브
+		[157] (559,87)<yt-touch-feedback-shape  />
+			[158] (559,87)<div  />
+[159] (863,89)<button aria-label='검색 필터' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconTrailing ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	필터
+	[160] (863,89)<yt-touch-feedback-shape  />
+		[161] (863,89)<div  />
+2:00
+[162] (693,183)<div  />
+	[163] (693,142)<div  />
+		[164] (693,132)<div  />
+			[165] (596,132)<h3  />
+				[166] (596,132)<a aria-label='로블록스에서 가장 위험한 게임의 정체 [로블록스] 2분' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=FhDe_Izr-Pw&pp=ygUT66-47Iqk7YSw66asIOyHvOy4oA%3D%3D' id='video-title' title='로블록스에서 가장 위험한 게임의 정체 [로블록스]' />
+					[167] (596,132)<yt-formatted-string >로블록스에서 가장 위험한 게임의 정체 [로블록스] />
+		[168] (693,156)<ytd-video-meta-block  />
+			[169] (693,156)<div  />
+				[170] (532,156)<div  />
+					[171] (520,156)<span >조회수 91만회 />
+					[172] (551,156)<span >3년 전 />
+	[173] (693,192)<div  />
+		[174] (510,192)<a aria-label='로블록스 선생님 채널로 이동' class='style-scope ytd-video-renderer' href='/@RoTeacher' id='channel-thumbnail' />
+			[175] (508,190)<yt-img-shadow  />
+				[176] (508,190)<img  />
+		[177] (544,192)<ytd-channel-name  />
+			[178] (539,192)<div  />
+				[179] (539,192)<div  />
+					[180] (539,192)<yt-formatted-string  />
+						[181] (539,192)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@RoTeacher'>로블록스 선생님 />
+			[182] (565,192)<ytd-badge-supported-renderer  />
+				[183] (565,192)<yt-badge-supported-renderer  />
+					[184] (565,192)<div  />
+						[185] (566,192)<yt-metadata-badge-renderer  />
+							[186] (566,192)<badge-shape aria-label='인증됨' class='ytBadgeShapeHost ytBadgeShapeDefault ytBadgeShapeNoText ytBadgeShapeModern ytBadgeShapeTypography' role='img' />
+								[187] (566,192)<div  />
+	[188] (693,229)<div  />
+		[189] (672,229)<yt-formatted-string  />
+			[190] (549,229)<span >안녕하세요 로쌤입니다! 요즘 틱톡과 />
+			[191] (602,229)<span >쇼츠 />
+			[192] (725,229)<span >에서 핫한 "로블록스에서 가장 위험한 게임" Swan Location에 대해 들어보셨나요? 도대체 ... />
+[193] (363,581)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=EG4AS43wurY&pp=ygUT66-47Iqk7YSw66asIOyHvOy4oA%3D%3D' id='thumbnail' />
+	[194] (363,725)<yt-image  />
+		[195] (363,581)<img  />
+	[196] (480,710)<ytd-thumbnail-overlay-time-status-renderer  />
+		[197] (481,710)<div  />
+			[198] (481,710)<badge-shape aria-label='2분 19초' class='ytBadgeShapeHost ytBadgeShapeThumbnailDefault ytBadgeShapeThumbnailBadge ytBadgeShapeTypography' role='img' />
+				[199] (481,710)<div >2:19 />
+[200] (693,496)<div  />
+	[201] (693,456)<div  />
+		[202] (693,446)<div  />
+			[203] (578,446)<h3  />
+				[204] (578,446)<a aria-label='기묘한 시골 마을 외 괴담 쇼츠 몰아보기 2분 19초' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=EG4AS43wurY&pp=ygUT66-47Iqk7YSw66asIOyHvOy4oA%3D%3D' id='video-title' title='기묘한 시골 마을 외 괴담 쇼츠 몰아보기' />
+					[205] (578,446)<yt-formatted-string >기묘한 시골 마을 외 괴담 쇼츠 몰아보기 />
+		[206] (693,469)<ytd-video-meta-block  />
+			[207] (693,469)<div  />
+				[208] (536,469)<div  />
+					[209] (521,469)<span >조회수 1.7만회 />
+					[210] (555,469)<span >5개월 전 />
+	[211] (693,506)<div  />
+		[212] (510,506)<a aria-label='디로록 채널로 이동' class='style-scope ytd-video-renderer' href='/@%EB%94%94%EB%A1%9C%EB%A1%9D' id='channel-thumbnail' />
+			[213] (508,504)<yt-img-shadow  />
+				[214] (508,504)<img  />
+		[215] (527,506)<ytd-channel-name  />
+			[216] (527,506)<div  />
+				[217] (527,506)<div  />
+					[218] (527,506)<yt-formatted-string  />
+						[219] (527,506)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EB%94%94%EB%A1%9C%EB%A1%9D'>디로록 />
+	[220] (693,542)<div  />
+		[221] (675,542)<yt-formatted-string >1. 장수 마을 마을로 이사온지 5년 째, 그런데 마을 사람들이 처음 그 모습 그대로인데.. 2. 신혼 여행 괴담 3. 신기한 아저씨 4. 고양이 밥 ... />
+[222] (363,895)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=VwDwKzMw1TM&pp=ygUT66-47Iqk7YSw66asIOyHvOy4oA%3D%3D' id='thumbnail' />
+[223] (693,810)<div  />
+	[224] (693,769)<div  />
+		[225] (693,760)<div  />
+			[226] (684,760)<h3  />
+				[227] (684,760)<a aria-label='[쇼츠실화][그날의미스터리] 남편들의 사망, 엄마의 보험금 수령 갑작스런 딸의 자백?  l 오키노TV 1분 1초' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=VwDwKzMw1TM&pp=ygUT66-47Iqk7YSw66asIOyHvOy4oA%3D%3D' id='video-title' title='[쇼츠실화][그날의미스터리] 남편들의 사망, 엄마의 보험금 수령 갑작스런 딸의 자백?  l 오키노TV' />
+					[228] (684,760)<yt-formatted-string >[쇼츠실화][그날의미스터리] 남편들의 사망, 엄마의 보험금 수령 갑작스런 딸의 자백?  l 오키노TV />
+		[229] (693,783)<ytd-video-meta-block  />
+			[230] (693,783)<div  />
+				[231] (533,783)<div  />
+					[232] (521,783)<span >조회수 1.1만회 />
+					[233] (552,783)<span >2년 전 />
+	[234] (693,820)<div  />
+		[235] (510,820)<a aria-label='오키노의미스터리l범죄l공포툰 채널로 이동' class='style-scope ytd-video-renderer' href='/@okinocrime' id='channel-thumbnail' />
+			[236] (508,818)<yt-img-shadow  />
+				[237] (508,818)<img  />
+		[238] (557,820)<ytd-channel-name  />
+			[239] (557,820)<div  />
+				[240] (557,820)<div  />
+					[241] (557,820)<yt-formatted-string  />
+						[242] (557,820)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@okinocrime'>오키노의미스터리l범죄l공포툰 />
+	[243] (693,856)<div  />
+		[244] (668,856)<yt-formatted-string  />
+			[245] (536,856)<span >shorts #해외 #살인사건 # />
+			[246] (582,856)<span >미스터리 />
+			[247] (714,856)<span >#비밀 본 영상 - https://youtu.be/LDAvdQndi9U 유튜브 - 매주 화,금 9시2분에 영상 올라와요! />
+
+</current_dom>

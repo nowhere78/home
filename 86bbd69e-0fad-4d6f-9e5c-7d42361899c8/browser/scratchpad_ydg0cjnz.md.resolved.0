@@ -1,0 +1,12 @@
+# Task: Extract Audio Base64 from Gemini Chat
+
+## Plan
+1. [ ] Navigate to Gemini chat page (`A832856305BA64AA1D4740B3A3B4C613`).
+2. [ ] Find the latest `<audio>` tag and its `src`.
+3. [ ] Open browser console.
+4. [ ] Execute script to convert blob/URL to Base64.
+5. [ ] Capture console logs to retrieve the Base64 string.
+6. [ ] Provide the Base64 string in the final summary.
+
+## Progress
+- Initialized plan.

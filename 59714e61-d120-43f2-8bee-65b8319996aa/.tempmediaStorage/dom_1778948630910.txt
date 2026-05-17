@@ -1,0 +1,40 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (981,38)<a aria-label='Google 계정: 이호준  
+(wide1002@gmail.com)' class='gb_C gb_5a gb_6' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://gemini.google.com/share/504434c30ab7&ec=GBRAkgU' role='button' />
+[1] (32,38)<a aria-label='새 채팅' class='bard-logo-container logo-only ng-star-inserted' href='/app' role='button' />
+	[2] (32,38)<bard-logo  />
+		[3] (31,38)<div  />
+			[4] (31,38)<span >Gemini />
+PRO
+[5] (500,537)<div class='content-container' scrollable='true' />
+	유튜브 알고리즘 꿀템 채널 성장 전략
+	[6] (393,161)<a class='gds-body-l share-link ng-tns-c3164524538-1 ng-star-inserted' href='https://gemini.google.com/share/504434c30ab7'>https://gemini.google.com/share/504434c30ab7 />
+	[7] (506,161)<button class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger ng-tns-c3164524538-1 mat-unthemed ng-star-inserted' />
+		[8] (506,162)<mat-icon class='mat-icon notranslate gds-icon-m google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	[9] (527,161)<button class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger ng-tns-c3164524538-1 mat-unthemed ng-star-inserted' />
+		[10] (527,162)<mat-icon class='mat-icon notranslate gds-icon-m google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	사용 모드:
+	빠른 모델
+	2026년 5월 16일 오후 02:52
+	2026년 5월 17일 오전 01:13에 게시됨
+	[11] (430,271)<button aria-label='프롬프트 복사' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger action-button mat-unthemed' />
+		[12] (430,270)<mat-icon class='mat-icon notranslate gds-icon-m action-button-icon google-symbols mat-ligature-font mat-icon-no-color' role='img' />
+	말씀하신 내용
+	유튜브 알고리즘 최고의 전문가로서 https://www.youtube.com/@honeyjarfinds 이 채널에 대한 키워드로 어떤것이 있으면 알고리즘에 올라 폭발적으로 많이 사람들이 볼까? 키워드 10개 와 이 채널에대한 조언을 줘
+	@honeyjarfinds
+	채널은 영문 핸들명(Honeyjar = 꿀단지)과 검색된 '어린이를 위한 최고의 선물: 울트라 합체 로봇' 등의 콘텐츠 흐름으로 볼 때, "가성비 좋은 꿀템/신박한 유아동 장난감, 아이디어 상품, 생활 꿀단지 아이템"을 발굴하여 숏폼(Shorts) 위주로 소개하는 큐레이션 및 리뷰 채널의 정체성을 띠고 있습니다.
+	유튜브 쇼츠(Shorts) 알고리즘은 '초반 1~3초의 이탈률(Viewed vs Swiped away)'과 '지지율(재시청률 및 완독률)'에 의해 폭발적인 확산(Viral) 여부가 결정됩니다. 알고리즘의 선택을 받아 트래픽을 폭발시킬 수 있는 핵심 키워드 10개와 채널 성장을 위한 전문가적 조언을 드립니다.
+	🚀 알고리즘 폭발을 위한 핵심 키워드 10선
+	유튜브 해시태그 및 제목, 설명란, 그리고 영상 내 자막(텍스트 hook)으로 활용했을 때 알고리즘 탐색 탭(피드)을 자극하기 좋은 키워드들입니다. target 시청자층(학부모, 키덜트, 가성비 소비층)의 호기심을 극대화하도록 설계했습니다.
+	#대박꿀템
+	(또는 #내돈내산꿀템)
+	이유:
+	대중적으로 가장 직관적이며, '숨겨진 좋은 물건'을 찾는 쇼츠 소비층의 검색 및 피드 유입을 강하게 자극합니다.
+	Gemini가 인물 등에 관한 부정확한 정보를 표시할 수 있으니 대답을 다시 한번 확인하세요.
+	[13] (500,921)<button class='mdc-button mat-mdc-button-base continue-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary'>이 채팅 계속하기 />
+		이 채팅 계속하기
+
+</current_dom>

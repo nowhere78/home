@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (210,34)<span  />
+[1] (260,34)<span  />
+	[2] (256,33)<span >제품 />
+[3] (298,34)<span  />
+	[4] (294,33)<span >기능 />
+[5] (340,34)<span  />
+	[6] (335,33)<span >블로그 />
+[7] (384,34)<span  />
+	[8] (380,33)<span >템플릿 />
+[9] (432,34)<span  />
+	[10] (428,33)<span >살펴보기 />
+[11] (645,34)<button class='yIEJzk'>한국어 />
+[12] (719,34)<a class='Ai7Evf Hdwy2J O2cfsv QnvLMG' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmy-edit' role='button' />
+	[13] (719,34)<span >온라인에서 사용해 보기 />
+[14] (791,34)<a class='Ai7Evf Hdwy2J mwj7ou QnvLMG' href='https://www.capcut.com/activity/download_pc' role='button' />
+	[15] (791,34)<span >다운로드 />
+누구나 이용하는 AI 기반
+[16] (609,262)<span  />
+	사진
+	[17] (609,262)<a class='eFr995' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home' />
+		[18] (609,262)<picture  />
+			[19] (609,262)<img  />
+및
+[20] (743,262)<span  />
+	동영상
+	[21] (743,262)<a class='eFr995' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-creator%2Fstart' />
+		[22] (743,262)<picture  />
+			[23] (743,262)<img  />
+에디터
+CapCut은 YouTube, Instagram 등에 게시할 인기 콘텐츠를 만드는 데 필요한 모든 기능을 갖추고 있습니다.
+[24] (465,527)<a class='Ai7Evf Hdwy2J O2cfsv QnvLMG A3jgQY' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fmy-edit' role='button' />
+	[25] (465,527)<span >온라인에서 무료로 사용해 보기 />
+[26] (578,527)<a class='Ai7Evf Hdwy2J mwj7ou QnvLMG A3jgQY' href='https://www.capcut.com/activity/download_pc' role='button' />
+	[27] (578,527)<span >다운로드 />
+신용 카드 필요 없음
+스마트 에디터 겸 생성기
+[28] (498,930)<ul  />
+	[29] (498,930)<li  />
+		[30] (498,930)<a class='vNWfBp' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home' />
+			[31] (498,886)<video  />
+[32] (733,930)<ul  />
+	[33] (733,857)<li  />
+		[34] (733,857)<a class='Ihr_sx' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-design-home' />
+			[35] (687,858)<span >AI 디자인 />
+	[36] (733,894)<li  />
+		[37] (733,894)<a class='Ihr_sx' href='https://www.capcut.com/login?redirect_url=https%3A%2F%2Fwww.capcut.com%2Fai-creator%2Fagent' />
+			[38] (705,894)<span >동영상 스튜디오 />
+	[39] (733,930)<li  />
+		[40] (733,930)<a class='Ihr_sx' href='https://www.capcut.com/activity/download_pc' />
+			[41] (707,931)<span >AI 이미지 생성기 />
+	[42] (733,966)<li  />
+		[43] (733,966)<a class='Ihr_sx' href='https://www.capcut.com/activity/download_pc' />
+			[44] (707,967)<span >AI 동영상 생성기 />
+	텍스트에서 음성으로
+[45] (396,500)<div  />
+	무한한 가능성으로
+	온라인에서 멋진 동영상 만들기
+[46] (396,500)<div  />
+[47] (396,500)<div  />
+[48] (396,500)<div  />
+[49] (396,500)<div  />
+[50] (325,763)<span  />
+[51] (360,763)<span  />
+[52] (396,763)<span  />
+[53] (431,763)<span  />
+[54] (467,763)<span  />
+[55] (306,500)<div  />
+[56] (485,500)<div  />
+CapCut에 오신 것을 환영합니다
+[57] (604,393)<div  />
+	[58] (604,393)<span >Google로 계속하기 />
+[59] (604,452)<div  />
+	[60] (604,452)<span >이메일로 계속하기 />
+[61] (604,512)<div  />
+	[62] (604,512)<span >TikTok으로 계속하기 />
+[63] (604,571)<div  />
+	[64] (604,571)<span >Facebook으로 계속하기 />
+[65] (604,630)<div  />
+	[66] (604,630)<span >CapCut 모바일로 계속하기 />
+계속을 클릭하면,
+[67] (586,695)<a class='policy' href='/clause/terms-of-service?store_region=kr&lang=ko-kr' id='termsOfCapCut'>서비스 약관 />
+및
+[68] (634,695)<a class='policy' href='/clause/privacy-policy?store_region=kr&lang=ko-kr' id='privacyPolicy'>개인정보 처리방침 />
+에 동의하는 것입니다.
+
+</current_dom>

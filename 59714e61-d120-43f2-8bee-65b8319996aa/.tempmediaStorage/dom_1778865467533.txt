@@ -1,0 +1,41 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+미디어
+템플릿
+요소
+오디오
+텍스트
+캡션
+대본
+편집효과
+전환
+필터
+브랜드
+키트
+플러그인
+U
+user6144223306386’s space
+업로드
+Pippit AI
+클릭 몇 번으로 놀라운 마케팅 콘텐츠 만들기
+사용해 보기
+아직 아무것도 없음
+여기로 파일을 끌어다 놓으세요
+202605160217
+100%
+내보내기
+업로드하려면 클릭하세요
+또는 여기에 파일 끌어다 놓기
+가로 세로 비율
+00:00:00
+00:00:00
+[0] (654,799)<div  />
+미리 보기 영역
+자료와 동영상을 여기에서 미리 보기할 수 있습니다
+2/2
+[1] (645,878)<button class='lv-btn lv-btn-primary lv-btn-size-default lv-btn-shape-square guide-confirm-button' />
+	[2] (645,878)<span >확인 />
+
+</current_dom>
