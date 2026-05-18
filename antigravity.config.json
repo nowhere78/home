@@ -3,7 +3,7 @@
     "models": {
         "local": {
             "provider": "openai-compatible",
-            "baseUrl": "http://localhost:11434/v1",
+            "baseUrl": "https://sublime-newt-suitably.ngrok-free.app/v1",
             "model": "luna-v6-soul",
             "apiKey": "ollama",
             "temperature": 0.0,
