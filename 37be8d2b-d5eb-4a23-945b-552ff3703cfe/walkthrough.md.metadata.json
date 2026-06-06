@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary": "Walkthrough of the successful implementation and execution of the Play Store App/Game Idea Miner and Verifier Bot. Describes the 3-stage process (Scout, Verifier, Report Generation), details of the output files (ideas_top100.json and PlayStore_Goldmine_Top10.md), and instructions for the user to review and stop the RunPod GPU server to save credits.",
+  "updatedAt": "2026-05-20T23:01:20.736553500Z"
+}

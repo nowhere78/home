@@ -1,0 +1,43 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://blog.naver.com/gomsun0823
+
+---
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- [D] XHTML 1.0 형식에 맞게 언어속성 추가-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang=“ko“ lang="ko">
+<head>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="-1"/>
+<meta name="robots" content="noindex,follow"/>
+<meta name="referrer" content="always"/>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<link rel="shortcut icon" type="image/x-icon" href="https://ssl.pstatic.net/static/blog/icon/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" href="https://rss.blog.naver.com/gomsun0823.xml" title="RSS feed for gomsun0823 Blog"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.naver.com/NBlogWlwLayout.naver?blogId=gomsun0823" />
+
+
+
+
+<title>Live & Rest (살아가고 쉬어가다) : 네이버 블로그</title>
+</head>
+<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Frameset-341345692_https.js" charset="UTF-8"></script>
+
+<script type="text/javascript" charset="UTF-8">
+var photoContent="";
+var postContent="";
+
+var videoId 	  = "";
+va
+

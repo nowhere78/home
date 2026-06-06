@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Script to clean up invalid UTF-8 bytes and restore file structure.",
+  "updatedAt": "2026-05-21T23:56:27.793707700Z"
+}

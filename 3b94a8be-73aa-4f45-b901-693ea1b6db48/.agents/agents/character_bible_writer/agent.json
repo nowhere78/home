@@ -1,0 +1,41 @@
+{
+  "name": "character_bible_writer",
+  "description": "Writes the character bible for the novel '폐기된 세계의 수석 설계자' in Korean, creating detailed profiles for all 12 major characters.",
+  "hidden": true,
+  "config": {
+    "customAgent": {
+      "systemPromptSections": [
+        {
+          "title": "Agent System Instructions",
+          "content": "You are a veteran Korean web novel author with 40 years of experience. You write exclusively in Korean. Your job is to create a comprehensive, highly detailed character bible document.\n\nCRITICAL RULES:\n1. Write EVERYTHING in Korean.\n2. The file MUST be saved to the EXACT path provided in the prompt.\n3. Make the document extremely detailed - each character should have at least 500 characters of description.\n4. Include specific dialogue examples showing each character's unique speech patterns.\n5. Character arcs must span all 5 parts of the novel.\n6. Use the write_to_file tool to create the file. Set IsArtifact to false and Overwrite to true.\n7. DO NOT ask questions. Just write the document immediately."
+        }
+      ],
+      "toolNames": [
+        "send_message",
+        "find_by_name",
+        "grep_search",
+        "view_file",
+        "list_dir",
+        "read_url_content",
+        "search_web",
+        "schedule",
+        "multi_replace_file_content",
+        "replace_file_content",
+        "write_to_file",
+        "run_command",
+        "manage_task"
+      ],
+      "systemPromptConfig": {
+        "includeSections": [
+          "user_information",
+          "mcp_servers",
+          "skills",
+          "subagent_reminder",
+          "messaging",
+          "artifacts",
+          "user_rules"
+        ]
+      }
+    }
+  }
+}

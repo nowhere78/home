@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Implementation plan for a fully automated blogging pipeline using YouTube transcript, Ollama, and Selenium uploaders.",
+  "updatedAt":  "2026-06-03T16:20:34.798781500Z",
+  "requestFeedback":  true
+}

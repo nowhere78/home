@@ -1,47 +1,73 @@
-# Autonomous GitHub Alpha Miner (AGM) Implementation Plan
+# 구현 계획: 구글 플레이 스토어 수익형 앱/게임 아이디어 발굴 및 검증 시스템
 
-This plan describes an autonomous system designed to find, download, organize, and upgrade stock-related (주식) codebases from GitHub using local AI.
+사용자님의 목표인 **'구글 플레이 스토어에 출시하여 수익을 올릴 수 있는, 비교적 만들기 쉽고 독창적인 인디 게임 및 유틸리티 앱 아이디어'**를 찾아내기 위해, 고성능 로컬 A40 GPU AI(`luna-v6-soul`)를 활용한 2단계 자율 에이전트 시스템을 구축합니다.
 
-## User Review Required
+이 시스템은 흔하고 일반적인 정보가 아닌, 실제 성공 사례와 틈새시장 트렌드를 분석하여 **최상의 후보 100개**를 모으고, 이를 **상호 검증 필터**를 통해 **최종 정예 10개**로 압축하여 D 드라이브에 고급 기획 리포트로 저장합니다.
+
+---
+
+## 사용자 검토 요구사항
 
 > [!IMPORTANT]
-> The agent will run autonomously and download large amounts of data. It will use local disk space for repositories and local CPU/GPU for AI refactoring.
-> No GitHub token is provided, so the agent will use web scraping or public download links, which may be subject to rate limiting.
+> **귀중하고 차별화된 정보 수집 정책**:
+> 단순히 "메모장 앱", "계산기 앱" 같은 흔한 아이디어는 철저히 배제합니다. 
+> * 인터넷(Reddit, Indie Hacker, Medium) 및 유튜브(성공 스토리, 개발 로그)에서 실제 1인 개발자가 출시하여 매출을 올린 구체적인 **Niche(틈새) 카테고리**와 **성공 전략** 데이터를 수집하도록 검색 범위를 최적화합니다.
 
-## Proposed Changes
+> [!TIP]
+> **2단계 자율 검증 아키텍처 (Scout & Verifier)**:
+> 1. **1단계 (Scout Bot):** 웹 및 유튜브 데이터를 수집하여 1차 후보군 100개 리스트업 (`data/app_miner/raw_candidates.json`에 임시 저장 및 튜닝).
+> 2. **2단계 (Verifier Bot):** Qwen(A40 GPU)을 검증 봇으로 활성화하여 **개발 난이도(쉽게 제작 가능 여부)**, **수익 모델(AdMob 광고 배치 및 인앱 결제 구조)**, **차별성**을 엄격하게 점검하고 채점하여 최종 10개 엄선.
 
-### 1. Discovery & Crawling Engine
-#### [NEW] [github_explorer.py](file:///c:/Users/smile/알파에이전트/src/luna-agent/github_explorer.py)
-A Python script that:
-- Uses a seed list of stock-related keywords.
-- Recursively visits users (followers/following) and repositories.
-- Downloads promising repositories as ZIP files.
-- Maintains a local SQLite database or JSON file to track visited URLs and progress.
+---
 
-### 2. AI Processing Engine
-#### [NEW] [code_upgrader.py](file:///c:/Users/smile/알파에이전트/src/luna-agent/code_upgrader.py)
-A script that:
-- Monitors the `downloads/` folder.
-- Extracts ZIP files and analyzes the codebase.
-- Sends code snippets to the local Ollama instance (`qwen2.5:1.5b`).
-- Saves refactored/upgraded versions in `upgraded/` with a summary of changes.
+## 제안된 변경 사항
 
-### 3. Orchestration
-#### [NEW] [alpha_miner_launcher.py](file:///c:/Users/smile/알파에이전트/alpha_miner_launcher.py)
-A master script to launch both the explorer and processor in parallel. It will run indefinitely until interrupted.
+### [NEW] [app_idea_miner.py](file:///E:/%EC%95%88%ED%8B%B0%EA%B7%B8%EB%9D%BC%EB%B9%84%ED%8B%B0%20%EC%9E%90%EB%A3%8C/%EC%95%8C%ED%8C%8C%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/src/luna-agent/app_idea_miner.py)
+* **아이디어 발굴(Scout) 및 검증(Verifier) 통합 실행 스크립트**입니다.
+* 주요 기능:
+  1. **정보 탐색**: DuckDuckGo HTML 검색 스크래핑 및 유튜브 키워드 검색(`yt-dlp` 및 설명 분석)을 통해 실제 1인 개발 성공기 및 트렌디한 앱/게임 카테고리 정보 수집.
+  2. **100선 1차 정제 및 평가**: `luna-v6-soul`을 통해 각 아이디어의 타당성을 평가하고 평점(Score)을 매겨 상위 100개 데이터 저장 (`data/app_miner/ideas_top100.json`).
+  3. **심층 검증 (Verifier Loop)**: 100선 중 최고점을 받은 후보들을 대상으로 "이것이 정말 1인 개발자가 1~2주 안에 구현 가능한가?", "수익성(AdMob, IAP)이 확보되는가?"를 크로스 체크하여 자가 필터링 수행.
+  4. **보물 리포트 생성**: 최종 엄선된 10개의 최상급 아이디어를 정교하게 시나리오화하여 **`D:\에이전트자료저장고\PlayStore_Goldmine_Top10.md`** 파일로 작성.
 
-## Data Structure
-- `data/github_miner/queue.json`: Pending users/repos.
-- `data/github_miner/visited.json`: History to avoid loops.
-- `output/github_repos/raw/`: Original downloaded code.
-- `output/github_repos/upgraded/`: AI-improved code.
+### [MODIFY] [alpha_master_launcher.py](file:///E:/%EC%95%88%ED%8B%B0%EA%B7%B8%EB%9D%BC%EB%B9%84%ED%8B%B0%20%EC%9E%90%EB%A3%8C/%EC%95%8C%ED%8C%8C%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/alpha_master_launcher.py)
+* 신규 봇인 `💎 AppIdeaMiner`를 프로세스 정의에 추가하여 마스터 런처와 통합 운영하거나 개별 백그라운드 태스크로 기동할 수 있도록 제어 구조를 업데이트합니다.
 
-## Verification Plan
+---
 
-### Automated Tests
-- Test GitHub connectivity and public download access.
-- Test Ollama API responsiveness for the `qwen2.5:1.5b` model.
+## 보물 리포트 출력 포맷 예시 (`D:\에이전트자료저장고\PlayStore_Goldmine_Top10.md`)
+최종 10대 앱/게임 아이디어는 다음 구조로 매우 상세하게 구상되어 기록됩니다:
+```markdown
+# 🏆 구글 플레이 스토어 1인 개발 골드마인 10선
 
-### Manual Verification
-- Monitor the `output/` directory for growing repository count and refactored code.
-- Verify log files for crawler progress.
+---
+
+## 1. [앱/게임 한글 명칭] ([영문 명칭])
+* **카테고리:** (예: 캐주얼 퍼즐 게임, 다크모드 유틸리티 등)
+* **핵심 후킹 포인트 (Core Hook):** (사용자가 왜 이 앱을 즉시 다운로드하는가?)
+* **예상 개발 기간:** (1인 개발 기준 1~2주)
+
+### 🎯 기능 및 플레이 방식 (Mechanics)
+* 핵심 화면 및 기능 플로우 상세 기술
+* 복잡하지 않고 직관적으로 사용자를 사로잡을 수 있는 UI/UX 설계 요령
+
+### 💸 수익 모델 (Monetization Strategy)
+* 전면 광고(Interstitial Ad) 및 배너 광고의 최적 노출 시점
+* 결제를 유도할 수 있는 미세한 프리미엄/인앱 요소 설계
+
+### 🛠️ 추천 기술 스택 및 구현 로드맵
+* 엔진: Unity (C#) / Godot (GDScript) / Flutter (Dart) 중 최적안 추천
+* 로컬 AI와 협업하여 코드를 생성할 때의 팁
+```
+
+---
+
+## 검증 계획
+
+### 1. 자동 연동 테스트
+* `app_idea_miner.py`를 드라이런하여 DuckDuckGo 및 유튜브 정보 수집 파이프라인이 정상 응답하는지 확인합니다.
+* `luna-v6-soul` Ollama API에 임시 아이디어 5개를 보내 분류 및 평가 점수가 정상 산출되는지 모듈 테스트를 실행합니다.
+
+### 2. 수동 기획 품질 검토
+* 생성된 `data/app_miner/ideas_top100.json`에 양질의 데이터 100개가 올바르게 적재되었는지 점검합니다.
+* `D:\에이전트자료저장고\PlayStore_Goldmine_Top10.md` 파일의 가독성과 기획 아이디어가 실제 시장성이 높고 개발이 수월한지 정밀 검토합니다.

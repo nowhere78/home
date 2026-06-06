@@ -1,0 +1,5 @@
+{
+  "summary":  "Kaggle 노트북용 SDXL 이미지 생성 스크립트. 22개 건강 블로그 포스트의 대표 이미지를 Stable Diffusion XL로 일괄 생성합니다. Kaggle에서 GPU T4x2 선택 후 실행하면 됩니다.",
+  "updatedAt":  "2026-06-15T07:42:14.445563900Z",
+  "userFacing":  true
+}

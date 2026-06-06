@@ -1,6 +1,6 @@
 {
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "GitHub \"Stock\" Repository Autonomous Miner & Upgrader Plan.\nThis plan outlines an autonomous agent that crawls GitHub for stock-related repositories, explores user networks, downloads codebases, and uses a local LLM to refactor and upgrade them.",
-  "updatedAt":  "2026-04-29T13:05:26.125709600Z",
-  "requestFeedback":  true
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Google Play Store App/Game Idea Miner and Verifier implementation plan. Details the two-stage autonomous agent pipeline (Scout and Verifier) running on local PC using DuckDuckGo/YouTube searches and local A40 GPU AI (luna-v6-soul) to find and filter the top 100 and top 10 high-value, easy-to-build, profitable app ideas.",
+  "updatedAt": "2026-05-20T18:47:38.347644700Z",
+  "requestFeedback": true
 }
