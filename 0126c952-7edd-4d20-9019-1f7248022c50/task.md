@@ -1,0 +1,4 @@
+- `[/]` Phase 1: Modify `tistory_updater.py` or use `auto_scheduler.py` for scheduling logic
+- `[x]` Phase 2: Create `fetch_todays_posts.py` to fetch, extract, and rewrite today's posts
+- `[x]` Phase 3: Execute the pipeline for all posts (including Post 76)
+- `[ ]` Complete /goal and report

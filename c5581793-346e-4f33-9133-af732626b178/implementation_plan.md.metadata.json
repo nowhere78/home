@@ -1,6 +1,7 @@
 {
   "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Implementation plan for a fully automated blogging pipeline using YouTube transcript, Ollama, and Selenium uploaders.",
-  "updatedAt":  "2026-06-03T16:20:34.798781500Z",
-  "requestFeedback":  true
+  "summary":  "Revised plan to fix Tistory automation using humanized Selenium, as the official API was shut down in 2024.",
+  "updatedAt":  "2026-06-23T22:15:08.616801700Z",
+  "requestFeedback":  true,
+  "userFacing":  true
 }

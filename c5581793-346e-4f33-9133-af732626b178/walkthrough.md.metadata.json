@@ -1,5 +1,6 @@
 {
   "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
-  "summary":  "Walkthrough for the automated blogging pipeline",
-  "updatedAt":  "2026-06-03T16:42:26.829939Z"
+  "summary":  "Walkthrough of the final fix for 100% automation and traffic-focused prompt updates.",
+  "updatedAt":  "2026-06-23T13:20:37.075156200Z",
+  "userFacing":  true
 }

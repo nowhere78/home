@@ -1,0 +1,1 @@
+{"id":"e9a9d88a-2782-485e-9a75-af6246324b1c", "recipient":"0126c952-7edd-4d20-9019-1f7248022c50", "sender":"0126c952-7edd-4d20-9019-1f7248022c50/task-1349", "priority":"MESSAGE_PRIORITY_HIGH", "timestamp":"2026-06-26T17:09:45.549927500Z", "renderDetails":{"messageTitle":"Wait for bot: Timer has expired"}, "content":"Check if the background bot task-1346 finished processing."}
