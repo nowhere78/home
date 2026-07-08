@@ -34,6 +34,8 @@
 
 ## 📚 지식 & 연구
 - [Knowledge_Base/Research/GENSPARK_TITANIC_STRATEGY.md](Knowledge_Base/Research/GENSPARK_TITANIC_STRATEGY.md)
+- [Knowledge_Base/Research/Karpathy_Interview_Insights_2026.md](Knowledge_Base/Research/Karpathy_Interview_Insights_2026.md) — 카파시 최신 인터뷰(Sequoia Ascent 2026, Dwarkesh) 인사이트
+- [Knowledge_Base/Research/AI_Researchers_Interview_Insights_2026.md](Knowledge_Base/Research/AI_Researchers_Interview_Insights_2026.md) — Sutskever/LeCun/Hassabis/Amodei 비교
 - `docs/intelligence/` — 분야별 리서치 (금융, 유튜브 성장, 주식, 지식 그래프 등 폴더로 구분)
 - `docs/automation/` — 자동화 가이드 (Firebase, Finance Agent, Unsloth 등)
 - `docs/strategy/`, `docs/responses/`, `docs/raw/`
