@@ -1,0 +1,13 @@
+{
+  "name": "restaurant-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "네이버/카카오 지도 맛집(별점·리뷰수) 스크래퍼 - Playwright",
+  "scripts": {
+    "naver": "node naver.js",
+    "kakao": "node kakao.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
