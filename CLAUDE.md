@@ -38,6 +38,15 @@
 - **주의**: 세션 쿠키는 암호화 없이 로컬에 저장됨(`~/.local/share/notebooklm-mcp/chrome_profile/` 등, OS별 경로 다름). 이 경로를 git에 커밋하지 않도록 주의.
 - 클라우드 세션에서 노트북LM 연동을 물어보면 "설정은 되어 있으나 로컬 세션에서 인증을 완료해야 쓸 수 있다"고 안내할 것.
 
+## Context 관련 MCP 연동 (2026-07-17 설치)
+
+이 저장소 루트 `.mcp.json`에 context 관련 MCP 서버 두 개를 추가했다. 자격증명은 포함하지 않아 커밋해도 안전함.
+
+- **`context7`** (Upstash, `@upstash/context7-mcp`): 라이브러리·프레임워크의 최신 공식 문서를 실시간으로 코드 컨텍스트에 넣어주는 서버. `npx -y @upstash/context7-mcp`로 stdio 실행. 무료로 쓸 수 있으나 rate limit이 빡빡하면 `--api-key <키>`를 args에 추가해 완화할 수 있다(현재는 키 없이 등록). 클라우드/샌드박스 세션에서도 npx로 바로 뜨므로 사용 가능.
+- **`mcp-context-server`** (alex-feel, https://github.com/alex-feel/mcp-context-server): 에이전트용 영속 멀티모달 컨텍스트/메모리 저장소. **stdio가 아니라 HTTP 트랜스포트**로, 로컬에서 Docker 컨테이너를 띄워야 `http://localhost:8000/mcp`로 붙는다. `.mcp.json`에는 HTTP 엔드포인트만 등록해 뒀고, 서버 자체는 별도로 실행해야 한다:
+  - 최소 구성(제로 컨피그, SQLite+Ollama): `docker compose -f deploy/docker/docker-compose.sqlite.ollama.yml up -d` → 첫 실행 시 임베딩 모델 다운로드로 2~3분 소요. `curl http://localhost:8000/health`로 확인.
+  - ⚠️ **클라우드/샌드박스 세션(Claude Code on the web 등)에는 이 Docker 컨테이너가 떠 있지 않아 도구 호출이 실패한다.** 로컬 PC에서 컨테이너를 띄운 세션에서만 유효. 클라우드 세션에서 물어보면 "설정은 되어 있으나 로컬에서 컨테이너를 실행해야 쓸 수 있다"고 안내할 것.
+
 ## 설교문 작성 가이드라인 (다른 세션에서도 적용할 것)
 
 사용자가 설교문 작성/수정을 요청하면 아래를 기본 원칙으로 적용한다. 특별히 다른 방향을 요청하지 않는 한 매번 다시 설명하지 말고 바로 반영한다.

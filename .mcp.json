@@ -3,6 +3,14 @@
     "notebooklm": {
       "command": "npx",
       "args": ["notebooklm-mcp@latest"]
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"]
+    },
+    "mcp-context-server": {
+      "type": "http",
+      "url": "http://localhost:8000/mcp"
     }
   }
 }
