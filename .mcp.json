@@ -3,6 +3,10 @@
     "notebooklm": {
       "command": "npx",
       "args": ["notebooklm-mcp@latest"]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
     }
   }
 }

@@ -38,6 +38,14 @@
 - **주의**: 세션 쿠키는 암호화 없이 로컬에 저장됨(`~/.local/share/notebooklm-mcp/chrome_profile/` 등, OS별 경로 다름). 이 경로를 git에 커밋하지 않도록 주의.
 - 클라우드 세션에서 노트북LM 연동을 물어보면 "설정은 되어 있으나 로컬 세션에서 인증을 완료해야 쓸 수 있다"고 안내할 것.
 
+## Playwright MCP 연동 (2026-07-17 설치)
+
+이 저장소 루트의 `.mcp.json`에 `playwright` MCP 서버(공식 `@playwright/mcp`, Microsoft — https://github.com/microsoft/playwright-mcp)가 등록되어 있다. 자격증명 없음, 커밋해도 안전함.
+
+- **동작 방식**: `npx @playwright/mcp@latest`로 실행. 브라우저(기본 Chromium)를 띄워 접근성 트리(accessibility snapshot) 기반으로 페이지를 탐색·조작한다. 스크린샷·클릭·입력·폼 제출 등 웹 자동화를 도구로 노출.
+- **로컬 vs 클라우드**: 로컬 PC 세션에서는 로컬 브라우저를 그대로 쓴다. 클라우드/샌드박스 세션에도 Chromium이 사전 설치되어 있어(`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`) 원칙적으로 동작 가능하나, 헤드리스 환경 제약이 있을 수 있음. `playwright install`은 실행하지 말 것(이미 설치됨).
+- notebooklm과 달리 별도 로그인/인증 절차는 필요 없다.
+
 ## 설교문 작성 가이드라인 (다른 세션에서도 적용할 것)
 
 사용자가 설교문 작성/수정을 요청하면 아래를 기본 원칙으로 적용한다. 특별히 다른 방향을 요청하지 않는 한 매번 다시 설명하지 말고 바로 반영한다.
