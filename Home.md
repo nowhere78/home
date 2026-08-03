@@ -36,6 +36,7 @@
 - [Knowledge_Base/Research/GENSPARK_TITANIC_STRATEGY.md](Knowledge_Base/Research/GENSPARK_TITANIC_STRATEGY.md)
 - `docs/intelligence/` — 분야별 리서치 (금융, 유튜브 성장, 주식, 지식 그래프 등 폴더로 구분)
 - `docs/automation/` — 자동화 가이드 (Firebase, Finance Agent, Unsloth 등)
+  - [스마트폰 로컬 AI 완전 가이드](docs/automation/mobile_local_ai_guide/README.md) — 폰에 모델 내려받아 오프라인으로 쓰는 법 (앱 선택·설치·모델·설정·문제해결)
 - `docs/strategy/`, `docs/responses/`, `docs/raw/`
 
 ## 🛠 스킬 & 코드
