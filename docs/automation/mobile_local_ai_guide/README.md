@@ -212,6 +212,141 @@ Qwen3-1.7B-Instruct-Q4_K_M.gguf
 
 ---
 
+## K. 기억·학습 한계 돌파하기 (2026-08-03 추가)
+
+> "AI Edge Gallery는 대화창 나가면 이전 대화를 기억 못 하고, 학습도 안 된다"는 문제에 대한 조사.
+
+### K-1. 진단 — 두 가지 다른 문제다
+
+**① 대화가 안 남는다 = 앱의 문제다. 모델 탓이 아니다.**
+
+Google AI Edge Gallery는 구글이 만든 **기술 시연용(demo/showcase) 앱**이라 대화 저장 기능 자체가 구현돼 있지 않다. 앱을 나가거나 시스템이 앱을 종료하면 **대화 기록뿐 아니라 Temperature·Top-K 설정, 시스템 프롬프트까지 전부 초기화된다.**
+
+이건 알려진 미구현 사항으로, 공식 저장소에 같은 요청이 반복해서 올라와 있다 — [#52](https://github.com/google-ai-edge/gallery/issues/52), [#84](https://github.com/google-ai-edge/gallery/issues/84), [#102](https://github.com/google-ai-edge/gallery/issues/102), [#225](https://github.com/google-ai-edge/gallery/issues/225), [#237](https://github.com/google-ai-edge/gallery/issues/237), [#690](https://github.com/google-ai-edge/gallery/issues/690), [#833](https://github.com/google-ai-edge/gallery/issues/833). 현재 사용자들의 유일한 우회법이 "복사해서 메모 앱에 붙여넣기 / 스크린샷"일 정도다.
+
+→ **결론: 앱을 바꾸면 오늘 해결된다.**
+
+**② 학습이 안 된다 = 로컬만의 문제가 아니라 LLM 전반의 구조다.**
+
+대화한다고 모델 가중치가 바뀌지는 않는다. **ChatGPT도 마찬가지다.** 우리가 "AI가 나를 기억한다"고 느끼는 건 사실 아래 4개 층위 중 하나를 쓰는 것이다:
+
+| 층위 | 방식 | 폰에서 가능? |
+|---|---|---|
+| **1. 컨텍스트** | 대화창 안에 들어있는 최근 내용 | ✅ 기본 |
+| **2. 시스템 프롬프트 / 캐릭터 카드** | "나는 목사이고, 한국어로만, 이런 말투로" 를 매번 자동 주입 | ✅ 앱 골라야 함 |
+| **3. RAG / 장기 기억** | 내 문서·과거 대화를 저장해뒀다가 관련된 것만 찾아서 넣어줌 | ✅ 앱 골라야 함 |
+| **4. 파인튜닝 (LoRA)** | 진짜로 모델 가중치를 바꿈 | ❌ 폰 불가 → PC |
+
+**대부분의 사람이 원하는 "학습"은 사실 2번과 3번이다.** 4번은 말투·형식을 몸에 익히게 할 때만 필요하고, 사실·지식을 넣는 용도로는 3번(RAG)이 더 정확하고 훨씬 싸다.
+
+---
+
+### K-2. 경로 A — 앱 교체 (오늘 30분, 난이도 ★)
+
+Edge Gallery를 버리고 **대화 저장 + 시스템 프롬프트 고정**이 되는 앱으로 간다.
+
+#### 안드로이드
+
+| 앱 | 기억 관련 핵심 | 비고 |
+|---|---|---|
+| **ChatterUI** ([GitHub](https://github.com/Vali-98/ChatterUI)) | **캐릭터별 다중 채팅 영구 저장**, Character Card v2(페르소나·설정 고정), 대화 특정 지점에서 갈라내는 Fork 기능, 자동 채팅 제목 | llama.cpp 기반 GGUF 로컬 구동 + 원격 API 겸용. 긴 대화에서 메모리 안 터지게 개선됨. **1순위 추천** |
+| **Layla** ([features](https://blog.layla-network.ai/features)) | **실시간 장기 기억(long-term memory)** — 사용자의 선호·특성을 기억. 에이전트, 로컬 TTS 100+ 음성, Stable Diffusion 이미지 생성, Python 실행 | GGUF + LiteRT-LM + ExecuTorch 통합 지원. 기능이 가장 많음. 요구사양 6GB(권장 8GB+, SD 8 Gen 2 / A16 이상) |
+| **PocketPal AI** | 대화 기록 저장, 모델별 시스템 프롬프트 저장 | 단순하고 안정적 |
+
+#### 아이폰
+
+| 앱 | 기억 관련 핵심 | 비고 |
+|---|---|---|
+| **Enclave AI** ([enclaveai.app](https://enclaveai.app/)) | **대화 자동 암호화 로컬 저장** + 내보내기 + 자동삭제 기간 설정, **문서 채팅(PDF·텍스트·이미지·소스코드 첨부 → 전부 온디바이스 처리)** | iOS + macOS. Llama·Qwen·SmolLM·Gemma·DeepSeek R1 distill 지원. **RAG까지 되는 게 결정적** |
+| **OnDevice LLM** | 앱 자체의 **private memory** + 캘린더·미리알림을 결합한 온디바이스 아침 브리핑, 문서 질문 | |
+| **Private LLM** | Siri·단축어 연동 | 유료 1회 결제 |
+
+---
+
+### K-3. 경로 B — RAG로 "내 자료를 아는" AI 만들기 (난이도 ★★)
+
+모델에게 지식을 **넣는(학습)** 대신, **찾아 쓰게(검색)** 한다. 실무에서는 이게 정답이다.
+
+- **폰에서 바로**: Enclave AI(iOS)에 PDF·문서 첨부해서 질문. Layla(Android)의 장기 기억.
+- **PC 쪽에서**: **GPT4All의 LocalDocs**(PDF·워드·텍스트 폴더를 지정하면 벡터DB 설정 없이 바로 인덱싱), 또는 **AnythingLLM**(LLM 엔진 + CPU 임베더 + LanceDB 벡터스토어 올인원)로 내 자료 전체를 하나의 지식베이스로 만든 뒤, 경로 C로 폰에서 접속.
+
+> 이 저장소(`brain`)처럼 마크다운이 수백 개 쌓인 경우, **폰 로컬 RAG로는 감당이 안 된다.** PC에 인덱싱해두고 폰에서 붙는 게 현실적이다.
+
+---
+
+### K-4. 경로 C — 집 PC를 AI 서버로 쓰기 ⭐ (난이도 ★★, 제약 대부분 해소)
+
+**결론부터: 지금 느끼는 불만의 90%는 이걸로 사라진다.** 폰은 화면만 담당하고, 계산은 집 PC가 한다.
+
+| 항목 | 폰 로컬 | PC 서버 + 폰 접속 |
+|---|---|---|
+| 모델 크기 | 1~4B | **8~32B** (품질 차원이 다름) |
+| 대화 기록 | 앱에 따라 | **영구 저장, 검색 가능** |
+| 내 문서 RAG | 제한적 | **전체 문서함 인덱싱** |
+| 배터리·발열 | 심함 | **없음** |
+| 인터넷 | 불필요 | 집 네트워크(또는 Tailscale) 필요 |
+
+**구성**
+
+```
+[집 PC] Ollama (모델 실행) + Open WebUI (대화기록·RAG·다중모델 관리)
+   ↕ Tailscale (암호화된 개인 메시 네트워크)
+[폰] 브라우저로 Open WebUI 접속  또는  Reins 앱
+```
+
+**설치 순서**
+
+1. **PC**: [Ollama](https://ollama.com) 설치 → `ollama pull qwen3:8b` (또는 `exaone3.5:7.8b`, `gemma3:12b`)
+2. **PC**: Open WebUI 설치 (Docker 권장) → 브라우저 `localhost:3000`에서 계정 생성
+3. **PC와 폰 양쪽**: [Tailscale](https://tailscale.com) 설치 → 같은 계정으로 로그인 (무료 요금제로 충분)
+   - **포트포워딩 불필요, 공인 IP 불필요, 공유기 설정 불필요.** Ollama를 인터넷에 노출시키지 않으므로 인증 없는 API가 털릴 위험도 없다.
+4. **폰**: 브라우저에 `http://<PC의 Tailscale IP>:3000` 입력 → Open WebUI 로그인 화면이 뜨면 성공
+5. (선택) 폰 앱으로 쓰고 싶으면 **Reins** ([GitHub](https://github.com/ibrahimcetin/reins), [App Store](https://apps.apple.com/us/app/reins-chat-for-ollama/id6739738501)) — iOS/Android/macOS/Linux/Windows 오픈소스 Ollama 클라이언트. 대화별로 시스템 프롬프트·모델·옵션을 따로 지정할 수 있고, 앱을 나가도 백그라운드에서 생성이 계속된다. 계정·로그인·데이터 수집 없음.
+
+**Open WebUI를 쓰는 이유**: 대화 기록 영구 보관, 문서 업로드 RAG, 모델 여러 개 전환, 프롬프트 템플릿 저장 — Edge Gallery에 없던 게 전부 있다.
+
+**단점**: PC가 켜져 있어야 한다. 비행기 안에서는 못 쓴다 → **폰 로컬 앱(경로 A)과 병행**하는 게 정석. 평소엔 PC 서버, 오프라인일 땐 폰 로컬.
+
+---
+
+### K-5. 경로 D — 진짜 "학습": LoRA 파인튜닝 (난이도 ★★★★)
+
+말투·형식을 모델에 각인시키고 싶을 때만. **이 저장소에 이미 도구 가이드가 있다** → [`docs/automation/unsloth_guide/`](../unsloth_guide/README.md)
+
+```
+[PC] 학습 데이터 준비 (질문-답 쌍 수백~수천 개, JSONL)
+  → Unsloth로 LoRA 파인튜닝 (VRAM 8GB로 Gemma 4 E2B 가능, 표준 대비 2배 빠름/VRAM 70% 절감)
+  → GGUF로 export
+  → 폰의 PocketPal / ChatterUI / Maid에 파일 넣기
+```
+
+**현실적 판단**
+- 사실·자료를 알게 하고 싶다 → **파인튜닝 말고 RAG(경로 B/C).** 훨씬 정확하고 갱신도 쉽다.
+- 특정 말투·문체·양식을 일관되게 뽑고 싶다(예: 설교문 형식, 특정 문체) → 파인튜닝이 유효.
+- 데이터가 수십 개 수준이다 → **파인튜닝 하지 말고 시스템 프롬프트 + 예시 3~5개**로 충분하다.
+
+---
+
+### K-6. 권장 조합
+
+| 시점 | 할 일 |
+|---|---|
+| **오늘 (30분)** | Edge Gallery 유지하되(사진 질문·받아쓰기는 여전히 유용), 대화용 주력을 **ChatterUI**(안드로이드) 또는 **Enclave AI**(아이폰)로 교체. 시스템 프롬프트에 내 정보·말투 고정 |
+| **이번 주말 (2~3시간)** | 집 PC에 **Ollama + Open WebUI + Tailscale**. 이후 일상 사용은 여기로. 폰 로컬은 오프라인 백업용 |
+| **자료가 쌓이면** | Open WebUI 또는 AnythingLLM에 내 문서 인덱싱(RAG) |
+| **정말 필요해지면** | Unsloth LoRA 파인튜닝 → GGUF → 폰 |
+
+### K-7. 어떤 앱을 고르든 확인할 체크리스트
+
+- [ ] 앱을 완전히 종료했다 켰을 때 **어제 대화가 그대로 남아있는가**
+- [ ] **시스템 프롬프트**를 저장해두고 매 대화에 자동 적용되는가
+- [ ] 대화를 **텍스트로 내보내기(export)** 할 수 있는가 (앱을 갈아탈 때 필수)
+- [ ] 모델(GGUF)을 **내가 골라 교체**할 수 있는가
+- [ ] 문서 첨부(RAG)가 되는가
+- [ ] 비행기 모드에서 동작하는가
+
+---
+
 ## Sources
 
 - [Best Local LLM Apps for iPhone 2026 — PromptQuorum](https://www.promptquorum.com/power-local-llm/best-local-llm-apps-iphone-2026)
@@ -225,3 +360,19 @@ Qwen3-1.7B-Instruct-Q4_K_M.gguf
 - [LGAI-EXAONE/EXAONE-4.0-1.2B-GGUF — Hugging Face](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-1.2B-GGUF)
 - [Best Local LLM Models for Korean 2026 — Prompt Bites](https://www.promptquorum.com/prompt-bites/best-korean-language-models-local)
 - [한국말 할 줄 알아? — 우리말 잘하는 LLM (WikiDocs)](https://wikidocs.net/277814)
+
+### K장 추가 출처
+
+- [google-ai-edge/gallery Issue #833 — Add persistent chat history to AI Chat mode](https://github.com/google-ai-edge/gallery/issues/833)
+- [google-ai-edge/gallery Issue #690 — Chat History and Backup Options](https://github.com/google-ai-edge/gallery/issues/690)
+- [google-ai-edge/mediapipe Issue #6264 — Chat history persistence and settings saving](https://github.com/google-ai-edge/mediapipe/issues/6264)
+- [Vali-98/ChatterUI — GitHub](https://github.com/Vali-98/ChatterUI)
+- [Layla Features — GGUF Models, Agents & On-Device Image Gen](https://blog.layla-network.ai/features)
+- [Enclave AI — Private, Local, Offline AI Assistant for macOS and iOS](https://enclaveai.app/)
+- [Enclave - Local AI Assistant — App Store](https://apps.apple.com/us/app/enclave-local-ai-assistant/id6476614556)
+- [ibrahimcetin/reins — Ollama client for iOS, Android, macOS, Linux, Windows](https://github.com/ibrahimcetin/reins)
+- [Reins: Chat for Ollama — App Store](https://apps.apple.com/us/app/reins-chat-for-ollama/id6739738501)
+- [How to Access Ollama Remotely with Tailscale (2026 Guide) — Logarithmic Spirals](https://logarithmicspirals.com/blog/using-tailscale-to-access-private-llms/)
+- [How to Securely Access Ollama and Open WebUI Remotely Using Tailscale — Mayhemcode](https://www.mayhemcode.com/2026/01/how-to-securely-access-ollama-and-open.html)
+- [Best Ollama Frontends 2026: Open WebUI Guide — Need to Know IT](https://needtoknowit.com.au/blog/ollama-frontends-open-webui-guide/)
+- [Best Local LLM Apps in 2026: 10 Options to Run AI on Your Device — Atomic Chat](https://atomic.chat/blog/guides/best-local-llm-apps)
