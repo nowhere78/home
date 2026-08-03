@@ -29,6 +29,14 @@
 - 새 자료를 추가하기 전에 (1) 이 저장소 내 비슷한 폴더, (2) 로컬 PC의 `D:\`, `E:\` 저장 위치에 이미 비슷한 게 있는지 먼저 확인하고, 있으면 합치거나 참조한다 — 중복 생성 금지.
 - 중복/혼선을 새로 발견하면 이 파일에 그 사실을 추가해서 다음 세션이 또 같은 걸 묻지 않게 한다.
 
+## 코드 작업 하네스 (2026-08-03 설치)
+
+코드를 쓰거나 고칠 때는 `.claude/skills/coding-harness/SKILL.md`를 먼저 읽는다 — 생성-검증 루프, 외과적 변경, 단순함 우선 규범이 거기 있다. (규범 본문을 이 파일에 복붙하지 않는 이유: CLAUDE.md가 길어지면 정작 지켜야 할 규칙이 묻힌다.)
+
+`git commit` / `git push` 는 `.claude/hooks/check-secrets.sh` (PreToolUse 훅) 를 통과해야 실행된다. 스테이징된 추가 줄에서 API 키·토큰·개인키 패턴이 잡히면 **차단**되며, 이때 임의로 우회하지 말고 값을 제거하거나 사용자에게 확인받는다. 위 "시크릿 주의" 항목을 권고에서 강제로 바꾼 장치다.
+
+배경과 설계 근거: [docs/Video_Analysis_VH6DsO6DdMM_클로드코드_하네스엔지니어링.md](docs/Video_Analysis_VH6DsO6DdMM_클로드코드_하네스엔지니어링.md)
+
 ## NotebookLM MCP 연동 (2026-07-16 설치)
 
 이 저장소 루트의 `.mcp.json`에 `notebooklm` MCP 서버(https://github.com/PleasePrompto/notebooklm-mcp)가 등록되어 있다. 자격증명은 포함되어 있지 않아 커밋해도 안전함.
