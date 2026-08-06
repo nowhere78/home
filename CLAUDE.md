@@ -38,6 +38,16 @@
 - **주의**: 세션 쿠키는 암호화 없이 로컬에 저장됨(`~/.local/share/notebooklm-mcp/chrome_profile/` 등, OS별 경로 다름). 이 경로를 git에 커밋하지 않도록 주의.
 - 클라우드 세션에서 노트북LM 연동을 물어보면 "설정은 되어 있으나 로컬 세션에서 인증을 완료해야 쓸 수 있다"고 안내할 것.
 
+## ponytail 플러그인 (2026-08-06 적용)
+
+이 저장소의 `.claude/settings.json`에 서드파티 Claude Code 플러그인 [`ponytail`](https://github.com/DietrichGebert/ponytail)이 프로젝트 스코프로 등록되어 있다. 코드를 쓰기 전에 "결정 사다리"(YAGNI → 재사용 → 표준 라이브러리 → 네이티브 → 기존 의존성 → 한 줄 → 최소한)를 돌려 과잉 설계를 막는 스킬이다.
+
+- **프로젝트 스코프 = 선언일 뿐, 자동 설치가 아니다.** 로컬에서 이 폴더를 신뢰하면 Claude Code가 설치 여부를 묻는다. 그 전까지는 "설치되지 않음"으로 뜨는 게 정상이니 고장으로 오해하지 말 것. 수동 설치는 `claude plugin install ponytail@ponytail`.
+- 전제조건: 비대화형 셸 PATH에도 `node`가 잡혀야 자동 활성화가 동작한다.
+- 모드 기준 — 프로덕션 코드 `lite`/`full`, 프로토타입·1회성 스크립트 `ultra`, **아키텍처 설계 단계에서는 `off`**(설계 논의를 "필요 없음"으로 잘라버림).
+- 커밋 전 `/ponytail-review` 습관화 권장.
+- 상세 분석·벤치마크·공급망 점검 결과: [docs/intelligence/youtube_research/Ponytail_Skill_Video_Analysis.md](docs/intelligence/youtube_research/Ponytail_Skill_Video_Analysis.md)
+
 ## 설교문 작성 가이드라인 (다른 세션에서도 적용할 것)
 
 사용자가 설교문 작성/수정을 요청하면 아래를 기본 원칙으로 적용한다. 특별히 다른 방향을 요청하지 않는 한 매번 다시 설명하지 말고 바로 반영한다.
