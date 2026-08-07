@@ -34,21 +34,40 @@ npm error notsup Actual:   {"node":"v24.14.1","npm":"11.11.0"}
 Hermes가 문제 있는 npm 버전대를 의도적으로 배제한 것으로 보인다.
 `npm warn Unknown project config "min-release-age-exclude"` 경고도 npm이 기대 버전보다 낮다는 같은 신호다.
 
-**해결**
+**해결 — 버전을 반드시 명시할 것**
 
 ```powershell
-npm install -g npm@latest
-npm -v            # 11.17.0 이상이면 통과
+npm install -g npm@11.19.0
+npm -v            # 11.19.0 확인 후 [Retry install]
 ```
 
-최신 npm이 아직 11.17.0 미만이면 반대쪽 구간으로 내린다(둘 중 아무거나 만족하면 됨):
+⚠️ **`npm install -g npm@latest` 는 이 PC에서 실패한다.** 실제로 시도했을 때:
 
-```powershell
-npm install -g "npm@<11.10.0"
-npm -v
+```
+npm error code EBADENGINE
+npm error engine Not compatible with your version of node/npm: npm@12.0.2
+npm error notsup Required: {"node":"^22.22.2 || ^24.15.0 || >=26.0.0"}
+npm error notsup Actual:   {"node":"v24.14.1","npm":"11.11.0"}
 ```
 
-그 다음 Hermes 창의 **[Retry install]**.
+`npm@latest` = **12.0.2** 인데 이건 Node **24.15.0 이상**을 요구한다. 설치된 Node가 24.14.1 이라
+0.0.1 차이로 탈락한다. 그래서 `latest` 대신 **버전을 직접 지정**해야 한다.
+
+2026-08-07 레지스트리 확인 결과:
+
+| 후보 | Node 요구 | 설치 가능? | Hermes 요구(`<11.10.0 \|\| >=11.17.0`) |
+|---|---|---|---|
+| npm 12.0.2 (`@latest`) | `^22.22.2 \|\| ^24.15.0 \|\| >=26.0.0` | ❌ Node 24.14.1 탈락 | — |
+| **npm 11.19.0** | `^20.17.0 \|\| >=22.9.0` | ✅ | ✅ (≥11.17.0) |
+| npm 11.9.0 | `^20.17.0 \|\| >=22.9.0` | ✅ | ✅ (<11.10.0) |
+
+11.19.0 이 현재 Node로 설치 가능한 최신이면서 Hermes 조건도 만족하므로 이걸 쓴다.
+(11.x 중 11.10.0~11.16.0 구간만 Hermes 가 배제한다. 11.19.0 이 11.x 최고 버전.)
+
+Node 자체를 24.15.0 이상 / 26.x 로 올리면 `npm@latest` 도 쓸 수 있지만, 그럴 필요는 없다.
+
+> 버전 확인 명령:
+> `curl -s https://registry.npmjs.org/npm` 로 `versions` / `dist-tags` 와 각 버전의 `engines` 를 직접 조회할 수 있다.
 
 ### 같은 원인으로 앞 단계도 실패해 있었다
 

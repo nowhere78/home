@@ -56,7 +56,8 @@ $rules = @(
        Pattern = 'EBADENGINE|Unsupported engine|notsup|Not compatible with your version of node/npm'
        Fix     = @('Node 나 npm 버전이 Hermes 요구 범위를 벗어났습니다. 파일 잠김이나 재설치와 무관하며, 버전만 맞추면 됩니다.',
                    '아래 "engine 요구/실제 버전"을 보고 어느 쪽이 어긋났는지 확인하세요.',
-                   'npm 이 문제면:  npm install -g npm@latest   (그래도 범위 밖이면  npm install -g "npm@<11.10.0")',
+                   'npm 이 문제면:  npm install -g npm@11.19.0   (2026-08-07 검증된 조합)',
+                   '  ※ npm@latest 는 쓰지 말 것. latest(12.0.2)는 Node 24.15.0+ 를 요구해서 Node 24.14.1 에서 실패한다.',
                    'Node 가 문제면: 요구 범위에 맞는 LTS 를 설치하세요(예: winget install OpenJS.NodeJS.LTS).',
                    '버전을 맞춘 뒤 Hermes 창의 [Retry install] 을 누르면 됩니다.') },
 
