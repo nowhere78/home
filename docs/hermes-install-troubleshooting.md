@@ -12,6 +12,28 @@ Log: C:\Users\smile\AppData\Local\hermes\logs\bootstrap-installer.log
 Hermes 자체가 깨진 게 아니라 npm 단계가 죽은 것이므로, 진짜 원인은 로그(`bootstrap-installer.log`) 안에 있다.
 `exit 1`은 결과일 뿐 원인이 아니니 로그를 보지 않고 재설치만 반복하면 같은 자리에서 또 멈춘다.
 
+## 0. 이 문장 자체는 원인이 아니다
+
+```
+desktop workspace npm install failed (exit 1) -- see lines above for cause
+```
+
+문장 끝의 **`see lines above for cause`** 가 핵심이다. 이건 인스톨러가 npm의 종료 코드(1)만
+받아 적은 "결과 통보"일 뿐이고, **진짜 원인은 로그에서 이 줄보다 위쪽에 찍혀 있다.**
+그래서 이 줄만 보고는 무엇을 고쳐야 할지 알 수 없고, 그 위 구간을 잘라내야 한다.
+
+```powershell
+# 실패 선언 줄 위쪽 150줄만 뽑기
+$log = "$env:LOCALAPPDATA\hermes\logs\bootstrap-installer.log"
+$all = Get-Content $log
+$i   = ($all | Select-String 'npm install failed' | Select-Object -Last 1).LineNumber
+$all[[Math]::Max(0, $i - 150) .. ($i - 1)]
+```
+
+진단 스크립트의 **`2-1. 실패 선언 직전 구간`** 섹션이 이 작업을 자동으로 해주고,
+그 구간 안의 오류 줄을 노란색으로 강조해 준다. 구간 길이는 `-ContextLines 300` 처럼 조절한다.
+결국 봐야 할 것은 그 구간 안의 `npm ERR!` 첫 덩어리다.
+
 ---
 
 ## 1. 가장 빠른 길 (스크립트 2개)

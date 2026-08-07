@@ -13,8 +13,9 @@
 #>
 [CmdletBinding()]
 param(
-    [string]$LogPath    = (Join-Path $env:LOCALAPPDATA 'hermes\logs\bootstrap-installer.log'),
-    [int]   $TailLines  = 80,
+    [string]$LogPath      = (Join-Path $env:LOCALAPPDATA 'hermes\logs\bootstrap-installer.log'),
+    [int]   $TailLines    = 80,
+    [int]   $ContextLines = 150,
     [string]$ReportPath = (Join-Path ([Environment]::GetFolderPath('Desktop')) 'hermes-install-report.txt')
 )
 
@@ -128,6 +129,39 @@ if ($hits.Count -eq 0) {
             $t = $s.Line.Trim()
             if ($t.Length -gt 200) { $t = $t.Substring(0, 200) + ' ...' }
             Say ("    L{0}: {1}" -f $s.LineNumber, $t)
+        }
+    }
+}
+
+# --------------------------------------------- 2-1. "see lines above" 지점 잘라내기
+# 화면에 뜨는 "desktop workspace npm install failed (exit 1) -- see lines above for cause"
+# 는 결과 통보일 뿐이고, 진짜 원인은 그 줄 "바로 위"에 찍혀 있다. 그 구간만 뽑아낸다.
+Section '2-1. 실패 선언 직전 구간 (진짜 원인 위치)'
+
+$failMarker = 'npm install failed \(exit \d+\)|see lines above for cause|INSTALL DIDN''T FINISH|install did ?n.t finish'
+$failHit = $null
+if ($lines.Count -gt 0) {
+    $failHit = $lines | Select-String -Pattern $failMarker | Select-Object -Last 1
+}
+
+if (-not $failHit) {
+    Say '실패 선언 줄을 찾지 못했습니다. 아래 4번(로그 꼬리)을 대신 보세요.' 'Yellow'
+} else {
+    $idx   = $failHit.LineNumber - 1              # 0-based
+    $start = [Math]::Max(0, $idx - $ContextLines)
+    Say ("실패 선언 위치: L{0}  →  L{1}~L{2} 구간을 출력합니다." -f $failHit.LineNumber, ($start + 1), ($idx + 1)) 'Yellow'
+    Say ''
+
+    # 이 구간 안에서 오류로 보이는 줄은 화면에서 노랗게 강조
+    for ($i = $start; $i -le $idx; $i++) {
+        $t = $lines[$i]
+        if ($null -eq $t) { continue }
+        if ($t.Length -gt 300) { $t = $t.Substring(0, 300) + ' ...' }
+        $line = "L{0,-6} {1}" -f ($i + 1), $t
+        if ($t -match 'ERR!|error|Error:|failed|EPERM|EBUSY|EACCES|ENOENT|ERESOLVE|EINTEGRITY|E404|ETARGET|ECONN|ETIMEDOUT|gyp ERR!|ENOSPC') {
+            Say $line 'Yellow'
+        } else {
+            Say $line
         }
     }
 }
