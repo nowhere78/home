@@ -41,6 +41,7 @@
 ## 🛠 스킬 & 코드
 - `skills/` — 보유 스킬 (Sermon Organizer, YouTube Growth Master 등)
 - `tools/`, `scripts/`, `core/`, `src/` — 실행 코드
+- [Hermes 설치 오류 대응](docs/hermes-install-troubleshooting.md) — "INSTALL DIDN'T FINISH" 진단·정리 재설치 (`scripts/hermes-*.ps1`)
 - `40_템플릿/` — 프로젝트 템플릿 모음
 
 ## 📦 세션 산출물
