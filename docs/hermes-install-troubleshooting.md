@@ -12,6 +12,69 @@ Log: C:\Users\smile\AppData\Local\hermes\logs\bootstrap-installer.log
 Hermes 자체가 깨진 게 아니라 npm 단계가 죽은 것이므로, 진짜 원인은 로그(`bootstrap-installer.log`) 안에 있다.
 `exit 1`은 결과일 뿐 원인이 아니니 로그를 보지 않고 재설치만 반복하면 같은 자리에서 또 멈춘다.
 
+---
+
+## ⭐ 2026-08-07 실제로 확인된 원인 — npm 버전 (EBADENGINE)
+
+이 PC에서 실제로 잡힌 원인은 **npm 버전 하나**였다. 파일 잠김도, 기존 설치 잔여물도 아니었다.
+
+로그 `stage=desktop` 구간:
+
+```
+npm error code EBADENGINE
+npm error engine Unsupported engine
+npm error notsup Not compatible with your version of node/npm: hermes-agent@1.0.0
+npm error notsup Required: {"node":">=22.22.0","npm":"<11.10.0 || >=11.17.0"}
+npm error notsup Actual:   {"node":"v24.14.1","npm":"11.11.0"}
+```
+
+- Node v24.14.1 → 요구(≥22.22.0) **만족**
+- npm 11.11.0 → 요구(`<11.10.0 || >=11.17.0`)의 **금지 구간(11.10.0 ~ 11.16.x) 한가운데**. 여기가 원인.
+
+Hermes가 문제 있는 npm 버전대를 의도적으로 배제한 것으로 보인다.
+`npm warn Unknown project config "min-release-age-exclude"` 경고도 npm이 기대 버전보다 낮다는 같은 신호다.
+
+**해결**
+
+```powershell
+npm install -g npm@latest
+npm -v            # 11.17.0 이상이면 통과
+```
+
+최신 npm이 아직 11.17.0 미만이면 반대쪽 구간으로 내린다(둘 중 아무거나 만족하면 됨):
+
+```powershell
+npm install -g "npm@<11.10.0"
+npm -v
+```
+
+그 다음 Hermes 창의 **[Retry install]**.
+
+### 같은 원인으로 앞 단계도 실패해 있었다
+
+```
+[!] Browser tools npm install failed -- exit code 1
+[!] TUI npm install failed -- exit code 1
+```
+
+이 둘도 `EBADENGINE`이라 npm을 고치면 함께 해결된다. Retry 후에도 남으면 수동으로:
+
+```powershell
+cd "C:\Users\smile\AppData\Local\hermes\hermes-agent"; npm install
+cd "C:\Users\smile\AppData\Local\hermes\hermes-agent\ui-tui"; npm install
+```
+
+### 이때 하지 않아도 되는 것
+
+Python 쪽(venv 재생성, 의존성 250개, 음성/웨이크워드 24개)과 git 저장소 갱신은 모두 정상 완료였다.
+`EBADENGINE`이 원인일 때는 `node_modules` 삭제나 정리 재설치가 **아무 효과가 없다.** 버전만 맞추면 된다.
+
+> 참고: Hermes 설치 단계 순서는
+> `repository → venv → dependencies → node-deps → desktop` 이고,
+> 로그에서 `stage transition ... state=Failed` 줄을 찾으면 어느 단계에서 죽었는지 바로 보인다.
+
+---
+
 ## 0. 이 문장 자체는 원인이 아니다
 
 ```
@@ -118,7 +181,7 @@ Get-Content $log -Tail 80
 | `ENAMETOOLONG`, path too long | Windows 260자 경로 제한 | `LongPathsEnabled=1` 후 재부팅 |
 | `ENOSPC` | 디스크 공간 부족 | C: 2~3GB 이상 확보 |
 | `EACCES`, 액세스 거부 | 권한 부족 | 인스톨러를 관리자 권한으로 실행 |
-| `Unsupported engine`, `EBADENGINE` | Node 버전 불일치 | Node LTS(20 또는 22)로 맞춤 |
+| `EBADENGINE`, `Unsupported engine`, `notsup` | **Node/npm 버전이 요구 범위 밖** (이 PC의 실제 원인) | 위 ⭐ 항목 참고. `npm install -g npm@latest` |
 
 ### 네이티브 빌드 도구 설치 (gyp 오류일 때)
 

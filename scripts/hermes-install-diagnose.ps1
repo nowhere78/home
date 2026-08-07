@@ -50,6 +50,16 @@ if (-not (Test-Path -LiteralPath $LogPath)) {
 
 # 우선순위가 높은(= 위쪽에 있는) 규칙일수록 유력 원인으로 본다.
 $rules = @(
+    # 2026-08-07 실제 확인된 원인. npm 11.11.0 이 Hermes 의 허용 범위
+    # {"npm":"<11.10.0 || >=11.17.0"} 한가운데(금지 구간)에 걸려서 실패했다.
+    @{ Name    = 'Node/npm 버전 불일치 (EBADENGINE) - 실제 확인된 원인'
+       Pattern = 'EBADENGINE|Unsupported engine|notsup|Not compatible with your version of node/npm'
+       Fix     = @('Node 나 npm 버전이 Hermes 요구 범위를 벗어났습니다. 파일 잠김이나 재설치와 무관하며, 버전만 맞추면 됩니다.',
+                   '아래 "engine 요구/실제 버전"을 보고 어느 쪽이 어긋났는지 확인하세요.',
+                   'npm 이 문제면:  npm install -g npm@latest   (그래도 범위 밖이면  npm install -g "npm@<11.10.0")',
+                   'Node 가 문제면: 요구 범위에 맞는 LTS 를 설치하세요(예: winget install OpenJS.NodeJS.LTS).',
+                   '버전을 맞춘 뒤 Hermes 창의 [Retry install] 을 누르면 됩니다.') },
+
     @{ Name    = '네이티브 모듈 빌드 실패 (node-gyp / Visual Studio / Python 없음)'
        Pattern = 'gyp ERR!|node-gyp|MSB\d{4}|Visual Studio|msvs|python.*not found|Could not find any Visual Studio'
        Fix     = @('Visual Studio Build Tools(C++ 빌드 도구)와 Python 3.x 설치가 필요합니다.',
@@ -99,10 +109,6 @@ $rules = @(
        Pattern = 'EACCES|access is denied|액세스가 거부'
        Fix     = @('설치 프로그램을 "관리자 권한으로 실행"으로 다시 실행해 보세요.') },
 
-    @{ Name    = 'Node 버전 불일치 (Unsupported engine)'
-       Pattern = 'Unsupported engine|EBADENGINE|requires Node|engine.*node'
-       Fix     = @('설치된 Node 버전이 Hermes 요구 버전과 다릅니다. 아래 2번 항목의 Node 버전을 확인하고 LTS(20 또는 22)로 맞추세요.') },
-
     @{ Name    = '파일 없음 (ENOENT) / 워크스페이스 손상'
        Pattern = 'ENOENT|no such file or directory|Cannot find module'
        Fix     = @('설치 파일이 제대로 풀리지 않았거나 node_modules 가 깨졌습니다.',
@@ -130,6 +136,17 @@ if ($hits.Count -eq 0) {
             if ($t.Length -gt 200) { $t = $t.Substring(0, 200) + ' ...' }
             Say ("    L{0}: {1}" -f $s.LineNumber, $t)
         }
+    }
+}
+
+# engine 오류는 요구/실제 버전이 로그에 그대로 찍히므로 따로 뽑아서 보여준다.
+if ($lines.Count -gt 0) {
+    $engineLines = $lines | Select-String -Pattern 'notsup (Required|Actual)' | Select-Object -Last 4
+    if ($engineLines) {
+        Say ''
+        Say 'engine 요구/실제 버전:' 'Green'
+        $engineLines | ForEach-Object { Say ('    ' + ($_.Line -replace '^.*npm error ', '').Trim()) }
+        Say '    → 요구 범위를 벗어난 쪽(node 또는 npm)만 맞추면 해결됩니다.' 'Green'
     }
 }
 
