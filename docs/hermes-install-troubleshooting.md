@@ -41,6 +41,16 @@ npm install -g npm@11.19.0
 npm -v            # 11.19.0 확인 후 [Retry install]
 ```
 
+다른 PC(집 컴퓨터 등)에서 같은 화면이 뜨면 Node 버전이 달라 처방이 갈릴 수 있으므로,
+버전을 읽어 알아서 판정·수정하는 스크립트를 쓰는 편이 안전하다:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\hermes-fix-npm.ps1
+```
+
+node/npm 을 읽어 (a) npm 만 문제면 11.19.0 설치, (b) Node 가 낮으면 Node 부터 올리라고 안내,
+(c) 둘 다 정상이면 EBADENGINE 이 원인이 아니라고 알려준다. `-WhatIfOnly` 로 판정만 볼 수도 있다.
+
 ⚠️ **`npm install -g npm@latest` 는 이 PC에서 실패한다.** 실제로 시도했을 때:
 
 ```
@@ -123,6 +133,9 @@ $all[[Math]::Max(0, $i - 150) .. ($i - 1)]
 로컬 PC(`E:\안티그라비티 자료\brain`)에서 PowerShell을 열고:
 
 ```powershell
+# (0) npm 버전 문제 자동 수정 - 지금까지 확인된 원인은 전부 이것이었다
+powershell -ExecutionPolicy Bypass -File .\scripts\hermes-fix-npm.ps1
+
 # (1) 원인 진단 - 아무것도 지우지 않는 읽기 전용
 powershell -ExecutionPolicy Bypass -File .\scripts\hermes-install-diagnose.ps1
 
