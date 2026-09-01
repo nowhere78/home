@@ -38,6 +38,24 @@
 - **주의**: 세션 쿠키는 암호화 없이 로컬에 저장됨(`~/.local/share/notebooklm-mcp/chrome_profile/` 등, OS별 경로 다름). 이 경로를 git에 커밋하지 않도록 주의.
 - 클라우드 세션에서 노트북LM 연동을 물어보면 "설정은 되어 있으나 로컬 세션에서 인증을 완료해야 쓸 수 있다"고 안내할 것.
 
+## web-crawler 도구 통합 (2026-09-01 설치)
+
+`tools/web-crawler/` — https://github.com/byungjunjang/web-crawler 를 그대로(서브모듈 아님, `.git` 제거 후 파일만) 클론해 넣은 범용 웹 크롤링 에이전트. 출처: 유튜브 "일잘러 장피엠" 채널 영상(https://youtu.be/iJfRqfDetsI) 소개 도구.
+
+- **무엇을 하나**: URL + "무엇을 모을지" 한 줄만 주면, 사이트를 정찰(agent-browser) → 사이트 유형에 맞는 수집 전략 선택 → `crawl_script.py` 생성·실행(Scrapling/Playwright) → `output/<도메인>/.../crawl_result.xlsx` 로 엑셀 출력까지 자동화한다. Claude Code/Codex 양쪽에서 스킬로 동작(`tools/web-crawler/.claude/skills/web-crawler/SKILL.md`가 정본, `.codex/skills/`는 생성 미러 — 직접 고치지 말 것).
+- **이미 포함된 도메인 프로필**(정찰 없이 바로 수집 가능, `fingerprints/*/profile.json`): `www_11st_co_kr`, `www_kurly_com`, `made-in-china_com`, `www_gsmarena_com`(쇼핑몰·가격·리뷰), `g2b_go_kr`(나라장터 입찰), `www_fss_or_kr`(금감원 공시), `wanted_co_kr`(채용공고), `data_seoul_go_kr`/`www_k-startup_go_kr`(공공데이터) 등.
+- **⚠️ 원격/클라우드 세션(Claude Code on the web 등)에서는 정찰까지만 가능하다.** 도구 자체 문서(`AGENTS.md`)에 명시된 제약: 원격 샌드박스는 egress가 기본 "패키지 매니저만" 허용이라 대상 사이트 직접 접속이 막히고, 뚫려도 데이터센터 IP라 안티봇 프로필이 재현 안 되고, 호스트 Chrome CDP(9222)에도 못 붙는다. → **실제 대량 수집 실행(특히 로그인 필요한 네이버 카페·인스타그램, 안티봇 강한 쇼핑몰)은 사용자의 로컬 PC Claude Code 세션에서 해야 한다.** 원격에서 할 수 있는 건: 정찰 결과로 `fingerprints/*/profile.json` 갱신, 코드/문서 통합, 이미 공개 API가 있는 대상(정부 공공데이터 등)의 시험 수집 정도.
+- **로컬 최초 설치** (클론은 이미 끝났으므로 `tools/web-crawler/`에서 아래만 실행):
+  ```
+  # Windows
+  powershell -ExecutionPolicy Bypass -File scripts\setup.ps1
+  # macOS/Linux
+  python -m venv .venv && . .venv/bin/activate && python scripts/bootstrap.py
+  ```
+- **기존 `.agent/skills/quant-news-scraper`와의 차이**: quant-news-scraper는 `search_web`/`read_url_content`로 가볍게 뉴스 요약해 `docs/intelligence/quant_research/`에 마크다운 저장하는 용도. web-crawler는 특정 사이트를 구조적으로 대량 수집해 엑셀로 뽑는, 훨씬 무거운 범용 크롤러 — 서로 대체 관계 아님, 용도가 다르므로 둘 다 유지.
+- **1차 활용 목적으로 정한 것** (2026-09-01): (1) 경쟁사/업계 뉴스·공시 정기 모니터링 — `g2b_go_kr`/`www_fss_or_kr` 프로필 활용, (2) 쇼핑몰 가격·리뷰 수집 — `www_11st_co_kr`/`www_kurly_com` 프로필 활용. 정기 자동화(스케줄 크론 등)로 연결할지는 아직 미정.
+- 안전 하드룰(자동 접근 차단 시 통지 후 사용자 선택, CAPTCHA 자동 풀이 금지, 로그인 자격증명 저장 금지, robots.txt 확인, PII 감지)은 도구 자체가 강제한다 — 자세한 내용은 `tools/web-crawler/AGENTS.md`, `ACCEPTABLE_USE.md` 참조.
+
 ## 설교문 작성 가이드라인 (다른 세션에서도 적용할 것)
 
 사용자가 설교문 작성/수정을 요청하면 아래를 기본 원칙으로 적용한다. 특별히 다른 방향을 요청하지 않는 한 매번 다시 설명하지 말고 바로 반영한다.
