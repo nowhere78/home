@@ -57,3 +57,18 @@
 **작업 이력**
 - `설교/마태복음5장38-42_반응하는사람_결단하는사람.md` — 전 세대 통합 40분 버전(장년+중고등부, "아이들을 위한 한마디" 보충란 포함). 이전 2편(장년용/중고등부용 분리본)은 이 파일로 대체되어 삭제됨.
 - 브랜치: `claude/matthew-5-38-42-commentary-bn94qd`.
+
+## 추가 설치 스킬 — `.claude/skills/` (2026-09-18)
+
+유튜브 「클로드 코드 최고의 스킬 5개」(게으른빌더) 영상을 분석해 4개를 이 저장소에 직접 복사해 두었다.
+분석 리포트: `docs/Video_Analysis_9_eaZJ0N7Sw.md` · 설치 안내: `.claude/skills/README.md`
+
+- `find-skills` — 필요한 스킬을 검색·설치 (비개발자에게 가장 유용, 1순위)
+- `design-taste-frontend` — 랜딩/소개 페이지 전용 안티슬롭 디자인 기준
+- `agent-browser` — 브라우저 자동 조작. **로컬에서 `npm install -g agent-browser` 별도 필요** (클라우드 세션 불가)
+- `mcp-builder` — 외부 서비스용 MCP 서버 제작 (앤트로픽 공식)
+- GSD Core는 19MB/1074파일이라 저장소에 넣지 않음. 필요 시 `npx --yes @opengsd/gsd-core@latest --claude --global`
+
+⚠️ **역할 겹침**: `design-taste-frontend`는 기존 플러그인 스킬 `frontend-design`, `ui-ux-pro-max`와 겹친다.
+랜딩/소개 페이지 → `design-taste-frontend`, 일반 UI 컴포넌트 → `ui-ux-pro-max`로 나눠 쓴다.
+`anthropics/skills`에서 새로 추가된 건 `mcp-builder` 하나뿐이고 나머지(pdf/docx/pptx/xlsx/skill-creator 등)는 이미 있다 — 다시 설치하지 말 것.
